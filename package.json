@@ -1,0 +1,40 @@
+{
+  "name": "video-game-db-supplemental-data",
+  "version": "1.0.0",
+  "description": "JSON files generator to supplement video game db APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgdigitaljedi/video-game-db-supplemental-data.git"
+  },
+  "keywords": [
+    "Express",
+    "video",
+    "games",
+    "vue",
+    "JSON",
+    "backward",
+    "compatibility",
+    "Xbox",
+    "Playstation"
+  ],
+  "author": "Joey Gauthier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgdigitaljedi/video-game-db-supplemental-data/issues"
+  },
+  "homepage": "https://github.com/jgdigitaljedi/video-game-db-supplemental-data#readme",
+  "dependencies": {
+    "apicalypse": "^0.1.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "prettier": "^1.18.2"
+  }
+}
