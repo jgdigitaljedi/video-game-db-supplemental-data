@@ -34,6 +34,7 @@
     "lodash": "^4.17.15"
   },
   "devDependencies": {
+    "babel-eslint": "^10.0.2",
     "nodemon": "^1.19.1",
     "prettier": "^1.18.2"
   }
