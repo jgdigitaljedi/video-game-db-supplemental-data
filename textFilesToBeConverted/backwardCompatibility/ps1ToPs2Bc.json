@@ -1,140 +1,148 @@
 [
   {
     "name": "Arcade Party Pak",
-    "id": 1,
+    "id": "psbc1",
     "details": "APPLIES TO ALL PS2 VARIANTS: Tested on SCPH-75001: Partially incompatible. 720 degrees loads but flickers constantly through all game screens: Unplayable, unless one wants to play through the constant flicker. Klax loads and plays without any obvious issues: Playable. Rampage loads and plays without any obvious issues: Playable, multi-tap not tested. Smash TV is occasionally stuck in a firing direction until X, O, Square or Triangle is pressed and some short duration green enemy jitter occasionally occurs at the very start of the first screen: Playable, dual analog also supported. Super Sprint gets stuck on a flickering blue screen when loading: Unplayable. Toobin' has minor flickering during load transition screens but game screens show no obvious issues: Playable."
   },
-  { "name": "Arcade's Greatest Hits/Atari 2", "id": 2, "details": "APPLIES TO ALL PS2 VARIANTS" },
-  { "name": "Fighter Maker", "id": 3, "details": "APPLIES TO ALL PS2 VARIANTS" },
+  {
+    "name": "Arcade's Greatest Hits/Atari 2",
+    "id": "psbc2",
+    "details": "APPLIES TO ALL PS2 VARIANTS"
+  },
+  { "name": "Fighter Maker", "id": "psbc3", "details": "APPLIES TO ALL PS2 VARIANTS" },
   {
     "name": "Final Fantasy Anthology",
-    "id": 4,
+    "id": "psbc4",
     "details": "APPLIES TO ALL PS2 VARIANTS: Occasional graphic glitches on save/load screen in Final Fantasy V, no issues in Final Fantasy VI; this glitch was fixed in the green label Greatest Hits version released in 2004"
   },
-  { "name": "Monkey Hero", "id": 5, "details": "APPLIES TO ALL PS2 VARIANTS" },
+  { "name": "Monkey Hero", "id": "psbc5", "details": "APPLIES TO ALL PS2 VARIANTS" },
   {
     "name": "Tomba!",
-    "id": 6,
+    "id": "psbc6",
     "details": "APPLIES TO ALL PS2 VARIANTS: The intro sequence must play for the game to start up properly."
   },
-  { "name": "X2", "id": 7, "details": "APPLIES TO ALL PS2 VARIANTS: Glitches in menus" },
+  { "name": "X2", "id": "psbc7", "details": "APPLIES TO ALL PS2 VARIANTS: Glitches in menus" },
   {
     "name": "Mortal Kombat Trilogy",
-    "id": 8,
+    "id": "psbc8",
     "details": "APPLIES TO ALL PS2 VARIANTS: The game will only freeze on a PlayStation 2 if the 'BUY IN SCREEN' option is set to 'OFF', and if the continue timer runs out. The game also only supports original PlayStation controllers."
   },
   {
     "name": "Namco Museum Encore",
-    "id": 9,
+    "id": "psbc9",
     "details": "APPLIES TO ALL PS2 VARIANTS: While not incompatible, two of the games included, Rolling Thunder and Wonder Momo, lag when played on a PlayStation 2 console."
   },
   {
     "name": "The X-Files Game",
-    "id": 10,
+    "id": "psbc10",
     "details": "APPLIES TO ALL PS2 VARIANTS: Graphical glitches with cursor."
   },
   {
     "name": "Gran Turismo 2 Demo",
-    "id": 11,
+    "id": "psbc11",
     "details": "APPLIES TO ALL PS2 VARIANTS: Graphical glitches with Gran Turismo mode menus."
   },
   {
     "name": "Metal Gear Solid",
-    "id": 12,
+    "id": "psbc12",
     "details": "APPLIES TO ALL PS2 VARIANTS: Game will freeze during credit sequence if PS2 smoothing is enabled in BIOS"
   },
   {
     "name": "Destruction Derby",
-    "id": 13,
+    "id": "psbc13",
     "details": "APPLIES ONLY TO SCPH-3000X PS2 MODELS: Game does not recognize memory card."
   },
   {
     "name": "Destruction Derby 2",
-    "id": 14,
+    "id": "psbc14",
     "details": "APPLIES ONLY TO SCPH-3000X PS2 MODELS: Game does not recognize memory card."
   },
   {
     "name": "Destruction Derby Raw",
-    "id": 15,
+    "id": "psbc15",
     "details": "APPLIES ONLY TO SCPH-3000X PS2 MODELS: Game does not recognize memory card. Occasional audio stutters and system hang ups."
   },
   {
     "name": "Krazy Ivan",
-    "id": 16,
+    "id": "psbc16",
     "details": "APPLIES ONLY TO SCPH-3000X PS2 MODELS: Game does not recognize memory card."
   },
   {
     "name": "The Legend of Dragoon",
-    "id": 17,
+    "id": "psbc17",
     "details": "APPLIES ONLY TO SCPH-3000X PS2 MODELS"
   },
   {
     "name": "Final Fantasy Tactics",
-    "id": 18,
+    "id": "psbc18",
     "details": "APPLIES ONLY TO SCPH-3000X PS2 MODELS"
   },
   {
     "name": "Metal Gear Solid: Special Missions",
-    "id": 19,
+    "id": "psbc19",
     "details": "APPLIES ONLY TO SCPH-3000X PS2 MODELS: Game does not recognize the original Metal Gear Solid game discs"
   },
   {
     "name": "102 Dalmatians: Puppies to the Rescue",
-    "id": 20,
+    "id": "psbc20",
     "details": "ONLY APPLIES TO PS2 SLIM MODELS"
   },
-  { "name": "Akuji the Heartless", "id": 21, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "Barbie Race and Ride", "id": 22, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "Broken Helix", "id": 23, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "Gundam Battle Assault", "id": 24, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "The Hive", "id": 25, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "Hooters Road Trip", "id": 26, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "In Cold Blood", "id": 27, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "Jampack Vol. 2", "id": 28, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Akuji the Heartless", "id": "psbc21", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Barbie Race and Ride", "id": "psbc22", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Broken Helix", "id": "psbc23", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Gundam Battle Assault", "id": "psbc24", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "The Hive", "id": "psbc25", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Hooters Road Trip", "id": "psbc26", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "In Cold Blood", "id": "psbc27", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Jampack Vol. 2", "id": "psbc28", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
   {
     "name": "Land Before Time: Great Valley Racing Adventure",
-    "id": 29,
+    "id": "psbc29",
     "details": "ONLY APPLIES TO PS2 SLIM MODELS"
   },
   {
     "name": "Looney Tunes: Sheep Raider",
-    "id": 30,
+    "id": "psbc30",
     "details": "ONLY APPLIES TO PS2 SLIM MODELS: Major graphical glitches"
   },
-  { "name": "NFL Xtreme", "id": 31, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "NHL 2000", "id": 32, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "NHL 2002", "id": 33, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "NHL Blades of Steel 2000", "id": 34, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "NHL Rock the Rink", "id": 35, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "Nuclear Strike", "id": 36, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "One", "id": 37, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "PO'ed", "id": 38, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "NFL Xtreme", "id": "psbc31", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "NHL 2000", "id": "psbc32", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "NHL 2002", "id": "psbc33", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  {
+    "name": "NHL Blades of Steel 2000",
+    "id": "psbc34",
+    "details": "ONLY APPLIES TO PS2 SLIM MODELS"
+  },
+  { "name": "NHL Rock the Rink", "id": "psbc35", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Nuclear Strike", "id": "psbc36", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "One", "id": "psbc37", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "PO'ed", "id": "psbc38", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
   {
     "name": "Powerboat Racing (VR Sports)",
-    "id": 39,
+    "id": "psbc39",
     "details": "ONLY APPLIES TO PS2 SLIM MODELS"
   },
-  { "name": "Poy Poy 2", "id": 40, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "Rascal", "id": 41, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Poy Poy 2", "id": "psbc40", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Rascal", "id": "psbc41", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
   {
     "name": "Rayman 2: The Great Escape",
-    "id": 42,
+    "id": "psbc42",
     "details": "ONLY APPLIES TO PS2 SLIM MODELS: Minor sound glitches"
   },
-  { "name": "Rushdown", "id": 43, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "Sentient", "id": 44, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "Speed Punks", "id": 45, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Rushdown", "id": "psbc43", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Sentient", "id": "psbc44", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Speed Punks", "id": "psbc45", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
   {
     "name": "Super Puzzle Fighter II Turbo",
-    "id": 46,
+    "id": "psbc46",
     "details": "ONLY APPLIES TO PS2 SLIM MODELS"
   },
-  { "name": "Soviet Strike", "id": 47, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
-  { "name": "Tomorrow Never Dies", "id": 48, "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Soviet Strike", "id": "psbc47", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
+  { "name": "Tomorrow Never Dies", "id": "psbc48", "details": "ONLY APPLIES TO PS2 SLIM MODELS" },
   {
     "name": "Ultimate Fighting Championship",
-    "id": 49,
+    "id": "psbc49",
     "details": "ONLY APPLIES TO PS2 SLIM MODELS"
   },
-  { "name": "Worms", "id": 50, "details": "ONLY APPLIES TO PS2 SLIM MODELS" }
+  { "name": "Worms", "id": "psbc50", "details": "ONLY APPLIES TO PS2 SLIM MODELS" }
 ]

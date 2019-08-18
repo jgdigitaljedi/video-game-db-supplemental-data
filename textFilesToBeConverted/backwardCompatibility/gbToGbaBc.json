@@ -1,52 +1,52 @@
 [
   {
     "name": "Densha de Go",
-    "id": 1,
+    "id": "gbbc1",
     "details": "Low volume right on start-up, or when conductor speaks."
   },
   {
     "name": "Densha de Go 2",
-    "id": 2,
+    "id": "gbbc2",
     "details": "Low volume after approximately 30 seconds."
   },
-  { "name": "Hamster Paradise 2", "id": 3, "details": "Low volume right on start-up." },
-  { "name": "Hamster Paradise 3", "id": 4, "details": "Low volume right on start-up." },
+  { "name": "Hamster Paradise 2", "id": "gbbc3", "details": "Low volume right on start-up." },
+  { "name": "Hamster Paradise 3", "id": "gbbc4", "details": "Low volume right on start-up." },
   {
     "name": "Disney's Tarzan",
-    "id": 5,
+    "id": "gbbc5",
     "details": "Constant high-pitched tone right on power-up."
   },
   {
     "name": "Sakura Taisen GB",
-    "id": 6,
+    "id": "gbbc6",
     "details": "Sound disappears while loading saved games."
   },
-  { "name": "Koro Koro Kirby", "id": 7, "details": "Low volume at the title screen" },
+  { "name": "Koro Koro Kirby", "id": "gbbc7", "details": "Low volume at the title screen" },
   {
     "name": "Doraemon - Study Fighter 99 Games",
-    "id": 8,
+    "id": "gbbc8",
     "details": "Constant high-pitched tone right on power-up."
   },
-  { "name": "Shogi", "id": 9, "details": "Low volume when game 'speaks'" },
+  { "name": "Shogi", "id": "gbbc9", "details": "Low volume when game 'speaks'" },
   {
     "name": "Game of Go",
-    "id": 10,
+    "id": "gbbc10",
     "details": "Constant popping sound after pressing the controller at least 100 times."
   },
-  { "name": "World Soccer GB2", "id": 11, "details": "Low volume right on power-up." },
+  { "name": "World Soccer GB2", "id": "gbbc11", "details": "Low volume right on power-up." },
   {
     "name": "Card Captor Sakura",
-    "id": 12,
+    "id": "gbbc12",
     "details": "Can't hear the title screen sound."
   },
   {
     "name": "Tokimeki Memorial Pocket Culture",
-    "id": 13,
+    "id": "gbbc13",
     "details": "Title music inaudible right on boot-up."
   },
   {
     "name": "Tokimeki Memorial Pocket: Sports",
-    "id": 14,
+    "id": "gbbc14",
     "details": "Title music inaudible right on boot-up."
   }
 ]
