@@ -3,3 +3,7 @@
 - NES black box games
 - launch titles for each system
 - console exclusives
+- more in-depth console versions
+- region free consoles list (even like PS3 with a couple exceptions)
+- greatest hits games/packaging
+- special edition games
