@@ -13,7 +13,7 @@ If you want to contribute, feel free to submit a PR or contact me. If you know o
 - "finalOutput" contains JSON files for the results of my work so far. This is where you can find useable data. Once I feel like I am done collecting data and getting the API references, I will create a single JSON file containing all of the data with a consitent data format that can be used.
 - "notes" contains markdown files with general notes about consoles. Use this info however you see fit, but the nature of this data is so braod specturm that it doesn't really need JSON files created for it.
 - "server" contains my Express.js server for the UI that I've built to help me speed up the process of generating this data.
-- "textFilesToBeConverted" contains markdown files with raw data that I've collected. This data gets turned into JSON files and this is just the directory I'm using for the initial data colelction via research.
+- "textFilesToBeConverted" contains markdown files with raw data that I've collected. This data gets turned into JSON files and this is just the directory I'm using for the initial data collection via research.
 - "src" contains the Vue.js app that I'm using to to speed up this process.
 - "scripts" contains some Node.js scripts I'm using to parse or merge data.
 

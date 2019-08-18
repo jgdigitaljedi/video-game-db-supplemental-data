@@ -30,6 +30,24 @@ export default {
     ];
   },
   fileInfo: () => {
-    return [];
+    // path is relative to inside server folder since file operations happen from there
+    return [
+      {
+        title: 'Game Boy to GBA BC',
+        filePath: '../textFilesToBeConverted/backwardCompatibility/gbToGbaBc.json'
+      },
+      {
+        title: 'PS to PS2 BC',
+        filePath: '../textFilesToBeConverted/backwardCompatibility/ps1ToPs2Bc.json'
+      },
+      {
+        title: 'PS3 Region Exceptions',
+        filePath: '../textFilesToBeConverted/regionLock/ps3RegionLockExceptions.json'
+      },
+      {
+        title: 'Genesis Black Box Grid Games',
+        filePath: '../textFilesToBeConverted/special/blackBoxGridGenesisGames.json'
+      }
+    ];
   }
 };
