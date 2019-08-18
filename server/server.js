@@ -11,6 +11,7 @@ app.use(cors());
 
 app.use('/igdb', require('./igdb.controller'));
 app.use('/gb', require('./gb.controller'));
+app.use('/tgdb', require('./tgdb.controller'));
 app.use('/files', require('./files.controller'));
 
 // catch 404 and forward to error handler
