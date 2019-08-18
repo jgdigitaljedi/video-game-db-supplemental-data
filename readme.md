@@ -1,6 +1,6 @@
 # video-game-db-supplemental-data
 
-The idea here was to create something that can be referenced and used alongside various video game APIs to supplement that data available. As a collector, I like to know which games might not be fully backward compatible with systems that say they are fully backward compatible. In the case of the Xbox generations, I also like to know which games are backward compatible with which Xbox generation because those lists are limited. This project is intended to create JSON files that contain that data and is setup in such a way that it can be used with Giantbomb, IGDB, and TGDB. It's a WIP right now.
+The idea here was to create something that can be referenced and used alongside various video game APIs to supplement that data available. As a collector, I like to know which games might not be fully backward compatible with systems that say they are fully backward compatible. In the case of the Xbox generations, I also like to know which games are backward compatible with which Xbox generation because those lists are limited. This project is intended to create JSON files that contain that data and is setup in such a way that it can be used with Giantbomb, IGDB, and TGDB. It's a WIP right now. Also, note that I just dumped in an old UI I built for something similar and have yet to update it to be applicable for the current project. I'm still focused on setup and data collection ATM.
 
 ## Usage
 
@@ -16,3 +16,11 @@ If you want to contribute, feel free to submit a PR or contact me. If you know o
 - "textFilesToBeConverted" contains markdown files with raw data that I've collected. This data gets turned into JSON files and this is just the directory I'm using for the initial data colelction via research.
 - "src" contains the Vue.js app that I'm using to to speed up this process.
 - "scripts" contains some Node.js scripts I'm using to parse or merge data.
+
+## Tasks
+
+```
+npm start
+```
+
+Starts server and Vue UI for matching API data to JSON data sets.
