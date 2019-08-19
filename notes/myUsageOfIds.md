@@ -4,30 +4,30 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 ### Backward Compatibility related
 
-- gbbcX - Game Boy to Game Boy Advance backward compatibility issues (gbToGbaBc.json) | GAMES LSIT
-- psbcX - PlayStation to PlayStation 2 backward compatibility issues (ps1ToPs2Bc.json) | GAMES LSIT
+- gbbcX - Game Boy to Game Boy Advance backward compatibility issues (gbToGbaBc.json) | GAMES LIST
+- psbcX - PlayStation to PlayStation 2 backward compatibility issues (ps1ToPs2Bc.json) | GAMES LIST
 
 ### Launch Titles
 
-- alltX - Atari Lynx launch titles (atariLynxLaunchTitles.json) | GAMES LSIT
-- at26ltX - Atari 2600 launch titles (atari2600LaunchTitles.json) | GAMES LSIT
-- at52ltX - Atari 5200 launch titles (atari5200LaunchTitles.json) | GAMES LSIT
-- at78ltX - Atari 7800 launch titles (atari7800LaunchTitles.json) | GAMES LSIT
-- ajltX - Atari Jaguar launch titles (atariJaguarLaunchTitles.json) | GAMES LSIT
-- cdiltX - Philips CD-i launch titles (cdiLaunchTitles.json) | GAMES LSIT
-- cvltX - ColecoVision launch titles (colecoVisionLaunchTitles.json) | GAMES LSIT
-- dcltX - Sega Dreamcast launch titles (dreamcastLaunchTitles.json) | GAMES LSIT
-- gbltX - Nintendo Game Boy launch titles (gameBoyLaunchTitles.json) | GAMES LSIT
-- gbaltX - Nintendo Game Boy Advance launch titles (gameBoyAdvanceLaunchTitles.json) | GAMES LSIT
-- gbcltX - Nintendo Game Boy Color launch titles (gameBoyColorLaunchTitles.json) | GAMES LSIT
-- ggltX - Sega Game Gear launch titles (gameGearLaunchTitles.json) | GAMES LSIT
-- gltX - Sega Genesis launch titles (genesisLaunchTitles.json) | GAMES LSIT
-- gcltX - Nintendo GameCube titles (gamecubeLaunchTitles.json) | GAMES LSIT
-- n64ltX - N64 launch titles (n64LaunchTitles.json) | GAMES LSIT
-- ndsltX - Nintendo DS launch titles (dsLaunchTitles.json) | GAMES LSIT
-- nesltX - NES launch titles (nesLaunchTitles.json) | GAMES LSIT
-- nngltX - Nokia N-Gage titles (ngageLaunchTitles.json) | GAMES LSIT
-- npcltX - Neo Geo Pocket Color launch titles (neoGeoPocketColorLaunchTitles.json) | GAMES LSIT
+- alltX - Atari Lynx launch titles (atariLynxLaunchTitles.json) | GAMES LIST
+- at26ltX - Atari 2600 launch titles (atari2600LaunchTitles.json) | GAMES LIST
+- at52ltX - Atari 5200 launch titles (atari5200LaunchTitles.json) | GAMES LIST
+- at78ltX - Atari 7800 launch titles (atari7800LaunchTitles.json) | GAMES LIST
+- ajltX - Atari Jaguar launch titles (atariJaguarLaunchTitles.json) | GAMES LIST
+- cdiltX - Philips CD-i launch titles (cdiLaunchTitles.json) | GAMES LIST
+- cvltX - ColecoVision launch titles (colecoVisionLaunchTitles.json) | GAMES LIST
+- dcltX - Sega Dreamcast launch titles (dreamcastLaunchTitles.json) | GAMES LIST
+- gbltX - Nintendo Game Boy launch titles (gameBoyLaunchTitles.json) | GAMES LIST
+- gbaltX - Nintendo Game Boy Advance launch titles (gameBoyAdvanceLaunchTitles.json) | GAMES LIST
+- gbcltX - Nintendo Game Boy Color launch titles (gameBoyColorLaunchTitles.json) | GAMES LIST
+- ggltX - Sega Game Gear launch titles (gameGearLaunchTitles.json) | GAMES LIST
+- gltX - Sega Genesis launch titles (genesisLaunchTitles.json) | GAMES LIST
+- gcltX - Nintendo GameCube titles (gamecubeLaunchTitles.json) | GAMES LIST
+- n64ltX - N64 launch titles (n64LaunchTitles.json) | GAMES LIST
+- ndsltX - Nintendo DS launch titles (dsLaunchTitles.json) | GAMES LIST
+- nesltX - NES launch titles (nesLaunchTitles.json) | GAMES LIST
+- nngltX - Nokia N-Gage titles (ngageLaunchTitles.json) | GAMES LIST
+- npcltX - Neo Geo Pocket Color launch titles (neoGeoPocketColorLaunchTitles.json) | GAMES LIST
 - nsltX - Nintendo Switch launch titles (switchLaunchTitles.json) | GAMES LIST
 - ps1ltX - Sony PlayStation launch titles (playstationLaunchTitles.json) | GAMES LIST
 - ps2ltX - Sony PlayStation 2 launch titles (ps2LaunchTitles.json) | GAMES LIST
