@@ -4,7 +4,7 @@
       <v-container class="app-left">
         <v-card class="selection-card game-card">
           <v-card-title>List Selection</v-card-title>
-          <FileSelection></FileSelection>
+          <FileSelection v-on:typeSet="typeSet"></FileSelection>
           <!-- <v-btn
             class="selection-button"
             :color="(selected === 'games' ? 'success' : 'primary')"
@@ -18,26 +18,30 @@
         </v-card>
         <v-card class="next-and-previous game-card">
           <v-btn color="primary" @click="changeGame(false)" :disabled="currentIndex === 0">
-            <v-icon dark left>mdi-arrow-left</v-icon>Previous Game
+            <v-icon dark left>mdi-arrow-left</v-icon>
+            Previous {{fileType}}
           </v-btn>
           <v-btn color="primary" @click="changeGame(true)">
-            Next Game
+            Next {{fileType}}
             <v-icon dark right>mdi-arrow-right</v-icon>
           </v-btn>
         </v-card>
-        <IgdbSearch
+        <Search
           :platform="selected"
           v-on:gameData="gameSelected"
           class="game-card"
           :reset="reset"
           v-on:fuzzyToggle="fuzzyToggled"
-        ></IgdbSearch>
+          :fileType="fileType"
+        ></Search>
         <v-card class="save-game">
           <v-btn color="success" @click="saveGame()" :disabled="!fixedGame">
-            <v-icon dark left>mdi-content-save</v-icon>Save Game
+            <v-icon dark left>mdi-content-save</v-icon>
+            Save {{fileType}}
           </v-btn>
           <v-btn color="warning" @click="clearGame()">
-            <v-icon dark left>mdi-close</v-icon>Clear Game Data
+            <v-icon dark left>mdi-close</v-icon>
+            Clear {{fileType}} Data
           </v-btn>
         </v-card>
       </v-container>
@@ -51,14 +55,14 @@
 <script>
 import GameInfo from './components/GameInfo';
 import FileSelection from './components/FileSelection';
-import IgdbSearch from './components/Search';
+import Search from './components/Search';
 import JsonData from './services/jsonData.service';
 import * as _cloneDeep from 'lodash/cloneDeep';
 export default {
   name: 'App',
   components: {
     GameInfo,
-    IgdbSearch,
+    Search,
     FileSelection
   },
   data: () => ({
@@ -67,13 +71,17 @@ export default {
     currentGame: null,
     fixedGame: null,
     currentIndex: 0,
-    reset: 0
+    reset: 0,
+    fileType: ''
   }),
   created() {
     this.selected = 'games';
     // this.getList('games');
   },
   methods: {
+    typeSet(type) {
+      this.fileType = type;
+    },
     fuzzyToggled(fuzzy) {
       console.log('fuzzy', fuzzy);
       this.fuzzy = fuzzy;

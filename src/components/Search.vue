@@ -21,7 +21,7 @@
         label="Giantbomb results"
         v-model="gbModel"
         :items="gbGames"
-        :loading="isgbLoading"
+        :loading="isGbLoading"
         item-text="name"
         color="white"
         hide-no-data
@@ -31,7 +31,7 @@
         label="TheGamesDB results"
         v-model="tgdbModel"
         :items="tgdbGames"
-        :loading="tsIgdbLoading"
+        :loading="isTgdbLoading"
         item-text="name"
         color="white"
         hide-no-data
@@ -51,7 +51,8 @@ export default {
   name: 'Search',
   props: {
     platform: null,
-    reset: null
+    reset: null,
+    fileType: null
   },
   data: () => ({
     igdbGames: null,
@@ -81,16 +82,29 @@ export default {
       this.$emit('gameData', cleaned);
     },
     searchAll(name, platform) {
-      this.searchIgdb(name, platofrm);
-      this.searchGb(name, platofrm);
-      this.searchTgdb(name, platofrm);
+      console.log('this.fileType', this.fileType);
+      this.searchIgdb(name, platform);
+      this.searchGb(name, platform);
+      this.searchTgdb(name, platform);
     },
-    searchGb(name, platform) {},
+    searchGb(name, platform) {
+      this.isGbLoading = true;
+      JsonData.gbGameLookup(name)
+        .then(result => {
+          console.log('gb result', result);
+
+          this.isGbLoading = false;
+        })
+        .catch(error => {
+          this.isGbLoading = false;
+          console.log('gb error', error);
+        });
+    },
     searchTgdb(name, platform) {},
     searchIgdb(name, platform) {
       this.isIgdbLoading = true;
       if (this.fuzzy) {
-        JsonData.fuzzy(name)
+        JsonData.igdbGameFuzzy(name)
           .then(result => {
             console.log('results', result.data);
             this.igdbGames = result.data;
@@ -101,7 +115,7 @@ export default {
             console.warn('ERROR searching: ', error);
           });
       } else {
-        JsonData.search(name, platform)
+        JsonData.igdbSearch(name, platform)
           .then(result => {
             console.log('results', result.data);
             this.igdbGames = result.data;

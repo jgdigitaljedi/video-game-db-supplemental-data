@@ -34,19 +34,23 @@ export default {
     return [
       {
         title: 'Game Boy to GBA BC',
-        filePath: '../textFilesToBeConverted/backwardCompatibility/gbToGbaBc.json'
+        filePath: '../textFilesToBeConverted/backwardCompatibility/gbToGbaBc.json',
+        type: 'Game'
       },
       {
         title: 'PS to PS2 BC',
-        filePath: '../textFilesToBeConverted/backwardCompatibility/ps1ToPs2Bc.json'
+        filePath: '../textFilesToBeConverted/backwardCompatibility/ps1ToPs2Bc.json',
+        type: 'Console'
       },
       {
         title: 'PS3 Region Exceptions',
-        filePath: '../textFilesToBeConverted/regionLock/ps3RegionLockExceptions.json'
+        filePath: '../textFilesToBeConverted/regionLock/ps3RegionLockExceptions.json',
+        type: 'Console'
       },
       {
         title: 'Genesis Black Box Grid Games',
-        filePath: '../textFilesToBeConverted/special/blackBoxGridGenesisGames.json'
+        filePath: '../textFilesToBeConverted/special/blackBoxGridGenesisGames.json',
+        type: 'Game'
       }
     ];
   }

@@ -1,10 +1,10 @@
 import axios from 'axios';
 
 export default {
-  search(name, platform) {
+  igdbGameLookup(name, platform) {
     return axios.post('http://localhost:4001/igdb/gamelookup', { name, platform });
   },
-  fuzzy(name) {
+  igdbGameFuzzy(name) {
     return axios.post('http://localhost:4001/igdb/gamefuzzy', { name });
   },
   gbGameLookup(name, platform) {
