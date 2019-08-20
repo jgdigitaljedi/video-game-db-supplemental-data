@@ -13,6 +13,15 @@ const requestOptions = {
   }
 };
 
+const platformOptions = {
+  method: 'POST',
+  baseURL: 'https://api-v3.igdb.com',
+  headers: {
+    'Accept': 'application/json',
+    'user-key': process.env.IGDBV3KEY
+  },
+};
+
 function apiSearch(name, platform) {
   return apicalypse(requestOptions)
     .fields(`name,id`)
@@ -28,14 +37,21 @@ function fuzzyApiSearch(name) {
     .request('/games');
 }
 
-function getPlatform(str) {
-  if (str === 'Xb360ToXbOne') {
-    return 12;
-  }
-  return 11;
+// function getPlatform(str) {
+//   if (str === 'Xb360ToXbOne') {
+//     return 12;
+//   }
+//   return 11;
+// }
+
+function platformSearch(platform) {
+  return apicalypse(platformOptions)
+    .fields(`name,id`)
+    .search(platform)
+    .request('/platforms');
 }
 
-router.post('/search', async (req, res) => {
+router.post('/gamelookup', async (req, res) => {
   if (req.body.name && req.body.platform) {
     const platform = getPlatform(req.body.platform);
     const apiResults = await apiSearch(req.body.name, platform);
@@ -46,13 +62,26 @@ router.post('/search', async (req, res) => {
   }
 });
 
-router.post('/fuzzy', async (req, res) => {
+router.post('/gamefuzzy', async (req, res) => {
   if (req.body.name) {
     const apiResults = await fuzzyApiSearch(req.body.name);
     const data = apiResults.data;
     res.json(data);
   } else {
     res.status(500).json({ error: true, message: 'You must send a name!' });
+  }
+});
+
+router.post('/platform', async (req, res) => {
+  try {
+    if (req.body.platform) {
+      const pResult = await platformSearch(req.body.platform);
+      res.json(pResult);
+    } else {
+      res.status(400).json({ error: true, message: "YOU HAVE TO SEND A PLATFORM NAME TO SEARCH IGDB FOR PLATFORMS!" });
+    }
+  } catch (error) {
+    res.status(500).json({ error: true, message: 'ERROR SEARCHING IGDB FOR PLATFORMS!', code: error });
   }
 });
 
