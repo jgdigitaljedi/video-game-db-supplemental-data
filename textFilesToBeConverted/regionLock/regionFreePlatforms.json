@@ -1,11 +1,202 @@
 [
   {
-    "name": "",
+    "name": "Microsoft Xbox One",
     "id": "rfp1",
     "igdbId": "",
     "tgdbId": "",
     "gbId": "",
     "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo Game Boy",
+    "id": "rfp2",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "all generations and models",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo DS",
+    "id": "rfp3",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "all generations and models",
+    "exceptions": []
+  },
+  {
+    "name": "Sony PSP",
+    "id": "rfp4",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "games are region free while movies aren't",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo Switch",
+    "id": "rfp5",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Sony PS Vita",
+    "id": "rfp6",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Sony PS4",
+    "id": "rfp7",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Sega Genesis",
+    "id": "rfp8",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "model 3 only (model 1 and 2 slots are not big enough)",
+    "exceptions": []
+  },
+  {
+    "name": "3do Interactive Multiplayer",
+    "id": "rfp9",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Sega Game Gear",
+    "id": "rfp10",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Philips CD-i",
+    "id": "rfp11",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Neo Geo Pocket",
+    "id": "rfp12",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Atari 5200",
+    "id": "rfp13",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Atari Jaguar",
+    "id": "rfp14",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Atari Lynx",
+    "id": "rfp15",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo Game Boy Color",
+    "id": "rfp16",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "all generations and models",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo Game Boy Advance",
+    "id": "rfp17",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "all generations and models",
+    "exceptions": []
+  },
+  {
+    "name": "Sony PlayStation 3",
+    "id": "rfp18",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "all but 2 games (see exceptions)",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo GameCube",
+    "id": "rfp19",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "needs Action Replay or Datel's Freeloader to play games from other regions",
+    "exceptions": []
+  },
+  {
+    "name": "Sega Saturn",
+    "id": "rfp20",
+    "igdbId": "",
+    "tgdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "details": "needs Action Replay plugged in to play games from other regions",
     "exceptions": []
   }
 ]

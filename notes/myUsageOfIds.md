@@ -49,7 +49,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 ### Region Lock Related
 
-- rl1X - PS3 Region Lock Exceptions (ps3RegionLockExceptions.json) | GAMES LIST
+- rleX - PS3 Region Lock Exceptions (ps3RegionLockExceptions.json) | GAMES LIST
+- rfpX - region free consoles/platforms (regionFreePlatforms.json) | CONSOLE/PLATFORM LIST
 
 ### Special/Misc
 
