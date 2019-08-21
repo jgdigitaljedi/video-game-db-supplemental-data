@@ -106,8 +106,8 @@ export default {
       JsonData.saveFile(this.fixedGame, this.fileInfo)
         .then(result => {
           console.log('save result', result);
+          this.currentIndex++;
           this.getList(this.selected);
-          // this.currentIndex = 0;
           this.reset++;
         })
         .catch(error => {
@@ -142,7 +142,7 @@ export default {
       this.fixedGame = null;
     },
     getList(which) {
-      JsonData[which]()
+      JsonData.getFile(this.fileInfo.filePath)
         .then(result => {
           this.currentList = result.data;
           this.currentGame = result.data[this.currentIndex];

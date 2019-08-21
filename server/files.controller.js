@@ -2,7 +2,6 @@ const express = require('express');
 const router = express.Router();
 const fs = require('fs');
 const path = require('path');
-const consolesList = require('./static/completeConsolesList');
 
 function getJsonFile(filePath) {
   return fs.readFileSync(path.join(__dirname, filePath), 'utf-8');
@@ -85,30 +84,30 @@ router.patch('/jsonfile', async (req, res) => {
   }
 });
 
-router.get('/consolelist', async (req, res) => {
-  try {
-    const consoleList = await consolesList.consolesList();
-    res.json(consoleList);
-  } catch (error) {
-    res
-      .status(500)
-      .json({ error: true, message: 'ERROR FETCHING COMPLETE CONSOLES LIST!', code: error });
-  }
-});
+// router.get('/consolelist', async (req, res) => {
+//   try {
+//     const consoleList = await consolesList.consolesList();
+//     res.json(consoleList);
+//   } catch (error) {
+//     res
+//       .status(500)
+//       .json({ error: true, message: 'ERROR FETCHING COMPLETE CONSOLES LIST!', code: error });
+//   }
+// });
 
-router.post('/consolelist', async (req, res) => {
-  try {
-    if (req.body.consoleList && req.body.consoleList.length) {
-      const writeResult = await consoleList.writeFile(req.body.consoleList);
-      res.json(writeResult);
-    } else {
-      res.status(400).json({ error: true, message: 'YOU SENT AN EMPTY REQUEST!' });
-    }
-  } catch (error) {
-    res
-      .status(500)
-      .json({ error: true, message: 'ERROR WRITING TO COMPLETE CONSOLES LIST!', code: error });
-  }
-});
+// router.post('/consolelist', async (req, res) => {
+//   try {
+//     if (req.body.consoleList && req.body.consoleList.length) {
+//       const writeResult = await consoleList.writeFile(req.body.consoleList);
+//       res.json(writeResult);
+//     } else {
+//       res.status(400).json({ error: true, message: 'YOU SENT AN EMPTY REQUEST!' });
+//     }
+//   } catch (error) {
+//     res
+//       .status(500)
+//       .json({ error: true, message: 'ERROR WRITING TO COMPLETE CONSOLES LIST!', code: error });
+//   }
+// });
 
 module.exports = router;

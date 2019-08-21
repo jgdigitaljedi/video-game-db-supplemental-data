@@ -74,10 +74,10 @@ export default {
     },
     getName() {
       let name;
-      if (this.igdbModel && this.igdbModel.name) {
-        name = this.igdbModel.name;
-      } else if (this.tgdbModel && this.tgdbModel.name) {
+      if (this.tgdbModel && this.tgdbModel.name) {
         name = this.tgdbModel.name;
+      } else if (this.igdbModel && this.igdbModel.name) {
+        name = this.igdbModel.name;
       } else if (this.gbModel && this.gbModel.name) {
         name = this.gbModel.name;
       } else {
@@ -190,9 +190,15 @@ export default {
     }, 800),
     reset: function(val) {
       this.isIgdbLoading = false;
+      this.isGbLoading = false;
+      this.isTgdbLoading = false;
       this.igdbGames = null;
+      this.gbGames = null;
+      this.tgdbGames = null;
       this.search = null;
       this.igdbModel = null;
+      this.gbModel = null;
+      this.tgdbModel = null;
     }
   }
 };
