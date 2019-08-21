@@ -48,7 +48,6 @@ router.post('/gamelookup', async (req, res) => {
   }
 });
 
-// @TODO: write this method
 router.post('/platformlookup', async (req, res) => {
   if (req.body.name) {
     try {
