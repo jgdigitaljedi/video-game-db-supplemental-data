@@ -1,11 +1,11 @@
 [
   {
-    "name": "Nintendo Entertainment System (NES)",
+    "name": "Nintendo Entertainment System",
     "id": "ccl1",
-    "igdbId": 18,
-    "gbId": 21,
-    "gbGuid": "3045-21",
-    "tgdbId": 7
+    "igdbId": "",
+    "gbId": "",
+    "gbGuid": "",
+    "tgdbId": ""
   },
   {
     "name": "Super Nintendo Entertainment System",
@@ -15,14 +15,7 @@
     "gbGuid": "",
     "tgdbId": ""
   },
-  {
-    "name": "Nintendo 64",
-    "id": "ccl3",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
+  { "name": "Nintendo 64", "id": "ccl3", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
   {
     "name": "Nintendo GameCube",
     "id": "ccl4",
@@ -31,30 +24,9 @@
     "gbGuid": "",
     "tgdbId": ""
   },
-  {
-    "name": "Nintendo Wii",
-    "id": "ccl5",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Nintendo Wii U",
-    "id": "ccl6",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Nintendo Switch",
-    "id": "ccl7",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
+  { "name": "Nintendo Wii", "id": "ccl5", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Nintendo Wii U", "id": "ccl6", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Nintendo Switch", "id": "ccl7", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
   {
     "name": "Nintendo Game Boy",
     "id": "ccl8",
@@ -79,22 +51,8 @@
     "gbGuid": "",
     "tgdbId": ""
   },
-  {
-    "name": "Nintendo DS",
-    "id": "ccl11",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Nintendo 3DS",
-    "id": "ccl12",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
+  { "name": "Nintendo DS", "id": "ccl11", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Nintendo 3DS", "id": "ccl12", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
   {
     "name": "Sega Master System",
     "id": "ccl13",
@@ -103,54 +61,12 @@
     "gbGuid": "",
     "tgdbId": ""
   },
-  {
-    "name": "Sega Genesis",
-    "id": "ccl14",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Sega CD",
-    "id": "ccl15",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Sega 32X",
-    "id": "ccl16",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Sega Saturn",
-    "id": "ccl17",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Sega Dreamcast",
-    "id": "ccl18",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Sega Game Gear",
-    "id": "ccl19",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
+  { "name": "Sega Genesis", "id": "ccl14", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Sega CD", "id": "ccl15", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Sega 32X", "id": "ccl16", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Sega Saturn", "id": "ccl17", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Sega Dreamcast", "id": "ccl18", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Sega Game Gear", "id": "ccl19", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
   {
     "name": "Sony PlayStation",
     "id": "ccl20",
@@ -191,14 +107,7 @@
     "gbGuid": "",
     "tgdbId": ""
   },
-  {
-    "name": "Microsoft Xbox",
-    "id": "ccl25",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
+  { "name": "Microsoft Xbox", "id": "ccl25", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
   {
     "name": "Microsoft Xbox 360",
     "id": "ccl26",
@@ -215,46 +124,11 @@
     "gbGuid": "",
     "tgdbId": ""
   },
-  {
-    "name": "Atari 2600",
-    "id": "ccl28",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Atari 5200",
-    "id": "ccl29",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Atari 7800",
-    "id": "ccl30",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Atari Jaguar",
-    "id": "ccl31",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Atari Lynx",
-    "id": "ccl32",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
+  { "name": "Atari 2600", "id": "ccl28", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Atari 5200", "id": "ccl29", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Atari 7800", "id": "ccl30", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Atari Jaguar", "id": "ccl31", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Atari Lynx", "id": "ccl32", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
   {
     "name": "NEC Turbografx-16",
     "id": "ccl33",
@@ -279,14 +153,7 @@
     "gbGuid": "",
     "tgdbId": ""
   },
-  {
-    "name": "Philips CD-i",
-    "id": "ccl36",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
+  { "name": "Philips CD-i", "id": "ccl36", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
   {
     "name": "Neo Geo Pocket Color",
     "id": "ccl37",
@@ -295,22 +162,8 @@
     "gbGuid": "",
     "tgdbId": ""
   },
-  {
-    "name": "ColecoVision",
-    "id": "ccl38",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
-  {
-    "name": "Nokia N-Gage",
-    "id": "ccl39",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
+  { "name": "ColecoVision", "id": "ccl38", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
+  { "name": "Nokia N-Gage", "id": "ccl39", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
   {
     "name": "Nintendo Virtual Boy",
     "id": "ccl40",
@@ -319,14 +172,7 @@
     "gbGuid": "",
     "tgdbId": ""
   },
-  {
-    "name": "Gizmondo",
-    "id": "ccl41",
-    "igdbId": "",
-    "gbId": "",
-    "gbGuid": "",
-    "tgdbId": ""
-  },
+  { "name": "Gizmondo", "id": "ccl41", "igdbId": "", "gbId": "", "gbGuid": "", "tgdbId": "" },
   {
     "name": "Bally Astrocade",
     "id": "ccl42",

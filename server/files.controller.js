@@ -8,7 +8,7 @@ function getJsonFile(filePath) {
   return fs.readFileSync(path.join(__dirname, filePath), 'utf-8');
 }
 
-function writeFile(filePath, data) {
+function writeFileWithUpdate(filePath, data) {
   return new Promise((resolve, reject) => {
     try {
       const oldFile = getJsonFile(filePath);
@@ -28,6 +28,18 @@ function writeFile(filePath, data) {
     } catch (error) {
       reject(error);
     }
+  });
+}
+
+function writeFile(filePath, data) {
+  return new Promise((resolve, reject) => {
+    fs.writeFile(path.join(__dirname, filePath), JSON.stringify(data, null, 2), error => {
+      if (error) {
+        reject(error);
+      } else {
+        resolve(true);
+      }
+    });
   });
 }
 
@@ -52,12 +64,21 @@ router.patch('/jsonfile', async (req, res) => {
   try {
     const { filePath, data } = req.body;
     if (filePath && data) {
-      const updatedFile = await writeFile(filePath, data);
+      const fileData = await getJsonFile(filePath);
+      const parsed = JSON.parse(fileData);
+      const newData = parsed.map(item => {
+        if (item.id === data.id) {
+          item = data;
+        }
+        return item;
+      });
+      const updatedFile = await writeFile(filePath, newData);
       res.json(updatedFile);
     } else {
       res.status(400).json({ error: true, message: 'ERROR: INCOMPLETE REQUEST!' });
     }
   } catch (error) {
+    console.log('save file error', error);
     res
       .status(500)
       .json({ error: true, message: 'SOMETHING WENT WRONG WRITING THE FILE!', code: error });

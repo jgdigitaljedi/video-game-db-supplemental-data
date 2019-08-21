@@ -38,7 +38,8 @@
         return-object
       ></v-select>
       <v-btn class="select-btn" @click="selectionMade()" color="primary" :disabled="!igdbModel">
-        <v-icon dark left>mdi-check-bold</v-icon>Select Game
+        <v-icon dark left>mdi-check-bold</v-icon>
+        Select {{fileType}}
       </v-btn>
     </div>
   </v-card>
@@ -75,10 +76,10 @@ export default {
       let name;
       if (this.igdbModel && this.igdbModel.name) {
         name = this.igdbModel.name;
-      } else if (this.gbModel && this.gbModel.name) {
-        name = this.gbModel.name;
       } else if (this.tgdbModel && this.tgdbModel.name) {
         name = this.tgdbModel.name;
+      } else if (this.gbModel && this.gbModel.name) {
+        name = this.gbModel.name;
       } else {
         name = null;
       }
@@ -87,9 +88,9 @@ export default {
     selectionMade() {
       const cleaned = {
         igdbId: this.igdbModel && this.igdbModel.id ? this.igdbModel.id : null,
-        gbId: this.gbModel && this.gbModel.id ? this.gbModel.id : null,
-        gbGuid: this.gbModel && this.gbModel.guid ? this.gbModel.guid : null,
-        tgdbId: this.tgdbModel && this.tgdbModel.id ? this.tgdbModel.id : null,
+        gbId: this.gbModel && this.gbModel.gbId ? this.gbModel.gbId : null,
+        gbGuid: this.gbModel && this.gbModel.gbGuid ? this.gbModel.gbGuid : null,
+        tgdbId: this.tgdbModel && this.tgdbModel.tgdbId ? this.tgdbModel.tgdbId : null,
         name: this.getName()
       };
       this.$emit('gameData', cleaned);
@@ -106,7 +107,7 @@ export default {
         JsonData.gbGameLookup(name, platform)
           .then(result => {
             console.log('gb result', result);
-
+            this.gbGames = result.data;
             this.isGbLoading = false;
           })
           .catch(error => {
@@ -117,6 +118,8 @@ export default {
         // @TODO: add gb platform search to API and here
         JsonData.gbPlatformLookup(name)
           .then(result => {
+            this.gbGames = result.data;
+            this.isGbLoading = false;
             console.log('gb platform result', result);
           })
           .catch(error => {
@@ -124,7 +127,22 @@ export default {
           });
       }
     },
-    searchTgdb(name, platform) {},
+    searchTgdb(name, platform) {
+      this.isTgdbLoading = true;
+      if (this.fileType === 'Game') {
+      } else {
+        JsonData.tgdbPlatformLookup(name)
+          .then(result => {
+            console.log('tgdb result', result);
+            this.tgdbGames = result.data;
+            this.isTgdbLoading = false;
+          })
+          .catch(error => {
+            console.log('tgdb error', error);
+            this.isTgdbLoading = false;
+          });
+      }
+    },
     searchIgdb(name, platform) {
       this.isIgdbLoading = true;
       if (this.fileType === 'Game') {

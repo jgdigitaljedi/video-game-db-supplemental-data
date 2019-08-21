@@ -17,9 +17,17 @@ export default {
   gbPlatformLookup(name, platform) {
     return axios.post('http://localhost:4001/gb/platformlookup', { name, platform });
   },
+  tgdbPlatformLookup(name, platform) {
+    return axios.post('http://localhost:4001/tgdb/platformlookup', { name, platform });
+  },
   /** file operations */
   saveGame(oldData, newData, list) {
     return axios.post('http://localhost:4001/files/saveGame', { oldData, newData, list });
+  },
+  saveFile(data, list) {
+    console.log('data', data);
+    console.log('list', list);
+    return axios.patch('http://localhost:4001/files/jsonfile', { filePath: list.filePath, data });
   },
   getFile(filePath) {
     return axios.post(`http://localhost:4001/files/jsonfile`, { filePath });

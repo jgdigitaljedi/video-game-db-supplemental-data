@@ -72,6 +72,7 @@ export default {
     fixedGame: null,
     currentIndex: 0,
     reset: 0,
+    fileInfo: null,
     fileType: ''
   }),
   created() {
@@ -93,16 +94,16 @@ export default {
         });
     },
     typeSet(file) {
+      this.fileInfo = file;
       this.fileType = file.type;
       this.currentIndex = 0;
       this.getFile(file);
     },
     fuzzyToggled(fuzzy) {
-      console.log('fuzzy', fuzzy);
       this.fuzzy = fuzzy;
     },
     saveGame() {
-      JsonData.saveGame(this.currentGame, this.fixedGame, this.selected)
+      JsonData.saveFile(this.fixedGame, this.fileInfo)
         .then(result => {
           console.log('save result', result);
           this.getList(this.selected);
@@ -129,7 +130,7 @@ export default {
       const gCopy = _cloneDeep(this.currentGame);
       gCopy.igdbId = gameData.igdbId;
       gCopy.gbId = gameData.gbId;
-      gCopy.gbGud = gameData.gbGud;
+      gCopy.gbGuid = gameData.gbGuid;
       gCopy.tgdbId = gameData.tgdbId;
       gCopy.name = gameData.name;
       this.fixedGame = gCopy;

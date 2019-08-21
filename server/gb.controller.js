@@ -55,14 +55,16 @@ router.post('/platformlookup', async (req, res) => {
       const urlName = encodeURI(req.body.name);
       axios
         .get(
-          `https://api.giantbomb.com/platforms/?api_key=${gbKey}&filter=name:${urlName}&format=json`
+          `https://www.giantbomb.com/api/platforms/?api_key=${gbKey}&filter=name:${urlName}&format=json`
         )
         .then(result => {
-          console.log('gb result', result);
           try {
             const cleaned = result.data.results.map(item => {
-              item.gbid = item.id;
-              return item;
+              return {
+                gbId: item.id,
+                gbGuid: item.guid,
+                name: item.name
+              };
             });
             res.status(200).json(cleaned);
           } catch (error) {
