@@ -17,9 +17,9 @@ const platformOptions = {
   method: 'POST',
   baseURL: 'https://api-v3.igdb.com',
   headers: {
-    'Accept': 'application/json',
+    Accept: 'application/json',
     'user-key': process.env.IGDBV3KEY
-  },
+  }
 };
 
 function apiSearch(name, platform) {
@@ -74,14 +74,20 @@ router.post('/gamefuzzy', async (req, res) => {
 
 router.post('/platform', async (req, res) => {
   try {
-    if (req.body.platform) {
-      const pResult = await platformSearch(req.body.platform);
-      res.json(pResult);
+    if (req.body.name) {
+      const pResult = await platformSearch(req.body.name);
+      res.json(pResult.data);
     } else {
-      res.status(400).json({ error: true, message: "YOU HAVE TO SEND A PLATFORM NAME TO SEARCH IGDB FOR PLATFORMS!" });
+      res.status(400).json({
+        error: true,
+        message: 'YOU HAVE TO SEND A PLATFORM NAME TO SEARCH IGDB FOR PLATFORMS!'
+      });
     }
   } catch (error) {
-    res.status(500).json({ error: true, message: 'ERROR SEARCHING IGDB FOR PLATFORMS!', code: error });
+    console.log('igdb platform error', error);
+    res
+      .status(500)
+      .json({ error: true, message: 'ERROR SEARCHING IGDB FOR PLATFORMS!', code: error });
   }
 });
 

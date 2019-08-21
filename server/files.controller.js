@@ -31,10 +31,10 @@ function writeFile(filePath, data) {
   });
 }
 
-router.get('/jsonfile', async (req, res) => {
-  if (res.body.filePath) {
+router.post('/jsonfile', async (req, res) => {
+  if (req.body.filePath) {
     try {
-      const list = await getJsonFile(filePath);
+      const list = await getJsonFile(req.body.filePath);
       res.json(JSON.parse(list));
     } catch (error) {
       res
@@ -48,7 +48,7 @@ router.get('/jsonfile', async (req, res) => {
   }
 });
 
-router.post('/jsonfile', async (req, res) => {
+router.patch('/jsonfile', async (req, res) => {
   try {
     const { filePath, data } = req.body;
     if (filePath && data) {

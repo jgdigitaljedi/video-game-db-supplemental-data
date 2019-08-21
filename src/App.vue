@@ -79,8 +79,23 @@ export default {
     // this.getList('games');
   },
   methods: {
-    typeSet(type) {
-      this.fileType = type;
+    getFile(data) {
+      console.log('data', data);
+      JsonData.getFile(data.filePath)
+        .then(result => {
+          console.log('file result', result);
+          this.currentList = result.data;
+          this.currentGame = result.data[this.currentIndex];
+          this.fixedGame = null;
+        })
+        .catch(error => {
+          console.log('file error', error);
+        });
+    },
+    typeSet(file) {
+      this.fileType = file.type;
+      this.currentIndex = 0;
+      this.getFile(file);
     },
     fuzzyToggled(fuzzy) {
       console.log('fuzzy', fuzzy);

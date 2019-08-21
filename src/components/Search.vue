@@ -71,13 +71,26 @@ export default {
     fuzzyToggle() {
       this.$emit('fuzzyToggle', this.fuzzy);
     },
+    getName() {
+      let name;
+      if (this.igdbModel && this.igdbModel.name) {
+        name = this.igdbModel.name;
+      } else if (this.gbModel && this.gbModel.name) {
+        name = this.gbModel.name;
+      } else if (this.tgdbModel && this.tgdbModel.name) {
+        name = this.tgdbModel.name;
+      } else {
+        name = null;
+      }
+      return name;
+    },
     selectionMade() {
       const cleaned = {
-        igdbId: this.igdbModel.id,
-        gbId: this.gbModel.id,
-        gbGuid: this.gbModel.guid,
-        tgdbId: this.tgdbModel.id,
-        name: this.igdbModel.name
+        igdbId: this.igdbModel && this.igdbModel.id ? this.igdbModel.id : null,
+        gbId: this.gbModel && this.gbModel.id ? this.gbModel.id : null,
+        gbGuid: this.gbModel && this.gbModel.guid ? this.gbModel.guid : null,
+        tgdbId: this.tgdbModel && this.tgdbModel.id ? this.tgdbModel.id : null,
+        name: this.getName()
       };
       this.$emit('gameData', cleaned);
     },
@@ -89,41 +102,64 @@ export default {
     },
     searchGb(name, platform) {
       this.isGbLoading = true;
-      JsonData.gbGameLookup(name)
-        .then(result => {
-          console.log('gb result', result);
+      if (this.fileType === 'Game') {
+        JsonData.gbGameLookup(name, platform)
+          .then(result => {
+            console.log('gb result', result);
 
-          this.isGbLoading = false;
-        })
-        .catch(error => {
-          this.isGbLoading = false;
-          console.log('gb error', error);
-        });
+            this.isGbLoading = false;
+          })
+          .catch(error => {
+            this.isGbLoading = false;
+            console.log('gb error', error);
+          });
+      } else {
+        // @TODO: add gb platform search to API and here
+        JsonData.gbPlatformLookup(name)
+          .then(result => {
+            console.log('gb platform result', result);
+          })
+          .catch(error => {
+            console.log('gb platform error', error);
+          });
+      }
     },
     searchTgdb(name, platform) {},
     searchIgdb(name, platform) {
       this.isIgdbLoading = true;
-      if (this.fuzzy) {
-        JsonData.igdbGameFuzzy(name)
-          .then(result => {
-            console.log('results', result.data);
-            this.igdbGames = result.data;
-            this.isIgdbLoading = false;
-          })
-          .catch(error => {
-            this.isLoading = false;
-            console.warn('ERROR searching: ', error);
-          });
+      if (this.fileType === 'Game') {
+        if (this.fuzzy) {
+          JsonData.igdbGameFuzzy(name)
+            .then(result => {
+              console.log('results', result.data);
+              this.igdbGames = result.data;
+              this.isIgdbLoading = false;
+            })
+            .catch(error => {
+              this.isLoading = false;
+              console.warn('ERROR searching: ', error);
+            });
+        } else {
+          JsonData.igdbSearch(name, platform)
+            .then(result => {
+              console.log('results', result.data);
+              this.igdbGames = result.data;
+              this.isIgdbLoading = false;
+            })
+            .catch(error => {
+              this.isLoading = false;
+              console.warn('ERROR searching: ', error);
+            });
+        }
       } else {
-        JsonData.igdbSearch(name, platform)
+        JsonData.igdbPlatform(name)
           .then(result => {
-            console.log('results', result.data);
+            console.log('igdb platform', result);
             this.igdbGames = result.data;
             this.isIgdbLoading = false;
           })
           .catch(error => {
-            this.isLoading = false;
-            console.warn('ERROR searching: ', error);
+            console.log('igdb platform error', error);
           });
       }
     }

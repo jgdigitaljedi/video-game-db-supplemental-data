@@ -48,4 +48,39 @@ router.post('/gamelookup', async (req, res) => {
   }
 });
 
+// @TODO: write this method
+router.post('/platformlookup', async (req, res) => {
+  if (req.body.name) {
+    try {
+      const urlName = encodeURI(req.body.name);
+      axios
+        .get(
+          `https://api.giantbomb.com/platforms/?api_key=${gbKey}&filter=name:${urlName}&format=json`
+        )
+        .then(result => {
+          console.log('gb result', result);
+          try {
+            const cleaned = result.data.results.map(item => {
+              item.gbid = item.id;
+              return item;
+            });
+            res.status(200).json(cleaned);
+          } catch (error) {
+            res.status(500).json({ error: true, message: `UNKNOWN ERROR WITH GB: ${error}` });
+          }
+        })
+        .catch(error => {
+          console.log('gb platform error', error);
+          res.status(500).send(error);
+        });
+    } catch (error) {
+      res
+        .status(500)
+        .json({ error: true, message: 'ERROR SEARCHING GIANTBOMB PLATFORMS!', code: error });
+    }
+  } else {
+    res.status(400).json({ error: true, message: 'YOU MUST SEND A PLATFORM NAME IN THE REQUEST!' });
+  }
+});
+
 module.exports = router;

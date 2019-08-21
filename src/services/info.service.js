@@ -33,6 +33,11 @@ export default {
     // path is relative to inside server folder since file operations happen from there
     return [
       {
+        title: 'Console Master List',
+        filePath: 'static/consoleMasterList.json',
+        type: 'Console'
+      },
+      {
         title: 'Game Boy to GBA BC',
         filePath: '../textFilesToBeConverted/backwardCompatibility/gbToGbaBc.json',
         type: 'Game'
@@ -45,11 +50,21 @@ export default {
       {
         title: 'PS3 Region Exceptions',
         filePath: '../textFilesToBeConverted/regionLock/ps3RegionLockExceptions.json',
+        type: 'Game'
+      },
+      {
+        title: 'Region Free Consoles',
+        filePath: '../textFilesToBeConverted/regionLock/regionFreePlatforms.json',
         type: 'Console'
       },
       {
         title: 'Genesis Black Box Grid Games',
         filePath: '../textFilesToBeConverted/special/blackBoxGridGenesisGames.json',
+        type: 'Game'
+      },
+      {
+        title: 'NES Black Box Games',
+        filePath: '../textFilesToBeConverted/special/nesBlackBoxTitles.json',
         type: 'Game'
       }
     ];

@@ -9,7 +9,7 @@
       :items="fileList"
       item-text="title"
       class="file-select"
-      v-on:change="emitType(selectedFile.type)"
+      v-on:change="emitType(selectedFile)"
     ></v-select>
     <div class="mode-text">
       <h4>Mode: {{selectedFile ? selectedFile.type : 'Not Set'}}</h4>
@@ -32,8 +32,8 @@ export default {
     this.fileList = InfoService.fileInfo();
   },
   methods: {
-    emitType(type) {
-      this.$emit('typeSet', type);
+    emitType(file) {
+      this.$emit('typeSet', file);
     }
   }
 };
