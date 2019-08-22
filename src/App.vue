@@ -1,10 +1,15 @@
 <template>
   <v-app>
+    <Notification></Notification>
     <v-layout class="app-wrapper">
       <v-container class="app-left">
         <v-card class="selection-card game-card">
           <v-card-title>List Selection</v-card-title>
-          <FileSelection v-on:typeSet="typeSet" v-on:listComplete="listComplete"></FileSelection>
+          <FileSelection
+            v-on:typeSet="typeSet"
+            v-on:listComplete="listComplete"
+            :getList="pullFileList"
+          ></FileSelection>
         </v-card>
         <v-card class="next-and-previous game-card">
           <v-btn color="primary" @click="changeGame(false)" :disabled="currentIndex === 0">
@@ -46,14 +51,18 @@
 import GameInfo from './components/GameInfo';
 import FileSelection from './components/FileSelection';
 import Search from './components/Search';
+import Notification from './components/Notification';
 import JsonData from './services/jsonData.service';
 import * as _cloneDeep from 'lodash/cloneDeep';
+import { mapMutations } from 'vuex';
+
 export default {
   name: 'App',
   components: {
     GameInfo,
     Search,
-    FileSelection
+    FileSelection,
+    Notification
   },
   data: () => ({
     selected: null,
@@ -63,22 +72,33 @@ export default {
     currentIndex: 0,
     reset: 0,
     fileInfo: null,
-    fileType: ''
+    fileType: '',
+    pullFileList: 0
   }),
   created() {
     this.selected = 'games';
     // this.getList('games');
   },
   methods: {
+    snackTime(snack) {
+      this.setSnack(snack);
+    },
     listComplete(status) {
-      console.log('complete fileInfo', this.fileInfo);
       const newStatus = status ? 'yes' : 'no';
       JsonData.markListStatus(this.fileInfo, newStatus)
         .then(result => {
           console.log('list status call result', result);
+          if (result && result.data) {
+            this.pullFileList++;
+            this.snackTime({
+              status: 'success',
+              txt: `File marked as ${status ? 'complete' : 'incomplete'}!`
+            });
+          }
         })
         .catch(error => {
           console.log('list status call ERROR', error);
+          this.snackTime({ status: 'error', txt: 'ERROR MARKING FILE!' });
         });
     },
     getFile(data) {
@@ -110,8 +130,10 @@ export default {
           this.currentIndex++;
           this.getList(this.selected);
           this.reset++;
+          this.snackTime({ status: 'success', txt: 'File Saved!' });
         })
         .catch(error => {
+          this.snackTime({ status: 'error', txt: 'ERROR SAVING FILE!' });
           console.warn('ERROR SAVING: ', error);
         });
     },
@@ -150,9 +172,13 @@ export default {
           this.fixedGame = null;
         })
         .catch(error => {
+          this.snackTime({ status: 'error', txt: 'ERROR FETCHING FILE LIST!' });
           console.warn('ERROR:', error);
         });
-    }
+    },
+    ...mapMutations({
+      setSnack: 'setSnack'
+    })
   }
 };
 </script>

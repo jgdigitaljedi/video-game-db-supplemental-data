@@ -98,10 +98,11 @@ router.get('/consolelist', async (req, res) => {
 router.patch('/listcomplete', async (req, res) => {
   try {
     if (req.body.list && req.body.complete) {
+      console.log('list', req.body.list);
       const list = await getJsonFile('static/fileInfoList.json');
       const parsed = JSON.parse(list);
       const updated = parsed.map(p => {
-        if (p.name === list.name) {
+        if (p.title === req.body.list.title) {
           p.complete = req.body.complete === 'yes';
         }
         return p;
