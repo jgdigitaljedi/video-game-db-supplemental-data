@@ -4,17 +4,7 @@
       <v-container class="app-left">
         <v-card class="selection-card game-card">
           <v-card-title>List Selection</v-card-title>
-          <FileSelection v-on:typeSet="typeSet"></FileSelection>
-          <!-- <v-btn
-            class="selection-button"
-            :color="(selected === 'games' ? 'success' : 'primary')"
-            @click="changeList('games')"
-          >Games</v-btn>
-          <v-btn
-            class="selection-button"
-            :color="(selected === 'wlGames' ? 'success' : 'primary')"
-            @click="changeList('wlGames')"
-          >Wishlist</v-btn>-->
+          <FileSelection v-on:typeSet="typeSet" v-on:listComplete="listComplete"></FileSelection>
         </v-card>
         <v-card class="next-and-previous game-card">
           <v-btn color="primary" @click="changeGame(false)" :disabled="currentIndex === 0">
@@ -80,6 +70,17 @@ export default {
     // this.getList('games');
   },
   methods: {
+    listComplete(status) {
+      console.log('complete fileInfo', this.fileInfo);
+      const newStatus = status ? 'yes' : 'no';
+      JsonData.markListStatus(this.fileInfo, newStatus)
+        .then(result => {
+          console.log('list status call result', result);
+        })
+        .catch(error => {
+          console.log('list status call ERROR', error);
+        });
+    },
     getFile(data) {
       console.log('data', data);
       JsonData.getFile(data.filePath)

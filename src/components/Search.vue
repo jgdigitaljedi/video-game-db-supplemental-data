@@ -3,6 +3,7 @@
     <v-card-title d-flex>
       <div>API Search</div>
       <v-spacer></v-spacer>
+
       <v-switch v-model="fuzzy" label="Fuzzy Search" :change="fuzzyToggle()"></v-switch>
     </v-card-title>
     <div class="search-results">
@@ -74,11 +75,15 @@ export default {
     },
     getName() {
       let name;
-      if (this.tgdbModel && this.tgdbModel.name) {
+      if (this.tgdbModel && this.tgdbModel.name && this.tgdbModel.name !== 'not found in DB') {
         name = this.tgdbModel.name;
-      } else if (this.igdbModel && this.igdbModel.name) {
+      } else if (
+        this.igdbModel &&
+        this.igdbModel.name &&
+        this.igdbModel.name !== 'not found in DB'
+      ) {
         name = this.igdbModel.name;
-      } else if (this.gbModel && this.gbModel.name) {
+      } else if (this.gbModel && this.gbModel.name && this.gbModel.name !== 'not found in DB') {
         name = this.gbModel.name;
       } else {
         name = null;
@@ -107,7 +112,9 @@ export default {
         JsonData.gbGameLookup(name, platform)
           .then(result => {
             console.log('gb result', result);
-            this.gbGames = result.data;
+            const list = result.data;
+            list.unshift({ name: 'null', gbId: null, gbGuid: null });
+            this.gbGames = list;
             this.isGbLoading = false;
           })
           .catch(error => {
@@ -118,7 +125,9 @@ export default {
         // @TODO: add gb platform search to API and here
         JsonData.gbPlatformLookup(name)
           .then(result => {
-            this.gbGames = result.data;
+            const list = result.data;
+            list.unshift({ name: 'not found in DB', gbId: null, gbGuid: null });
+            this.gbGames = list;
             this.isGbLoading = false;
             console.log('gb platform result', result);
           })
@@ -134,7 +143,9 @@ export default {
         JsonData.tgdbPlatformLookup(name)
           .then(result => {
             console.log('tgdb result', result);
-            this.tgdbGames = result.data;
+            const list = result.data;
+            list.unshift({ name: 'not found in DB', tgdbId: null });
+            this.tgdbGames = list;
             this.isTgdbLoading = false;
           })
           .catch(error => {
@@ -150,7 +161,9 @@ export default {
           JsonData.igdbGameFuzzy(name)
             .then(result => {
               console.log('results', result.data);
-              this.igdbGames = result.data;
+              const list = result.data;
+              list.unshift({ name: 'not found in DB', igdbId: null });
+              this.igdbGames = list;
               this.isIgdbLoading = false;
             })
             .catch(error => {
@@ -161,7 +174,9 @@ export default {
           JsonData.igdbSearch(name, platform)
             .then(result => {
               console.log('results', result.data);
-              this.igdbGames = result.data;
+              const list = result.data;
+              list.unshift({ name: 'not found in DB', igdbId: null });
+              this.igdbGames = list;
               this.isIgdbLoading = false;
             })
             .catch(error => {
@@ -173,7 +188,9 @@ export default {
         JsonData.igdbPlatform(name)
           .then(result => {
             console.log('igdb platform', result);
-            this.igdbGames = result.data;
+            const list = result.data;
+            list.unshift({ name: 'not found in DB', igdbId: null });
+            this.igdbGames = list;
             this.isIgdbLoading = false;
           })
           .catch(error => {

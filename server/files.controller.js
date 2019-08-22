@@ -84,30 +84,36 @@ router.patch('/jsonfile', async (req, res) => {
   }
 });
 
-// router.get('/consolelist', async (req, res) => {
-//   try {
-//     const consoleList = await consolesList.consolesList();
-//     res.json(consoleList);
-//   } catch (error) {
-//     res
-//       .status(500)
-//       .json({ error: true, message: 'ERROR FETCHING COMPLETE CONSOLES LIST!', code: error });
-//   }
-// });
+router.get('/consolelist', async (req, res) => {
+  try {
+    const consoleList = await getJsonFile('static/consoleMasterList.json');
+    res.json(JSON.parse(consoleList));
+  } catch (error) {
+    res
+      .status(500)
+      .json({ error: true, message: 'ERROR FETCHING COMPLETE CONSOLES LIST!', code: error });
+  }
+});
 
-// router.post('/consolelist', async (req, res) => {
-//   try {
-//     if (req.body.consoleList && req.body.consoleList.length) {
-//       const writeResult = await consoleList.writeFile(req.body.consoleList);
-//       res.json(writeResult);
-//     } else {
-//       res.status(400).json({ error: true, message: 'YOU SENT AN EMPTY REQUEST!' });
-//     }
-//   } catch (error) {
-//     res
-//       .status(500)
-//       .json({ error: true, message: 'ERROR WRITING TO COMPLETE CONSOLES LIST!', code: error });
-//   }
-// });
+router.patch('/listcomplete', async (req, res) => {
+  try {
+    if (req.body.list && req.body.complete) {
+      const list = await getJsonFile('static/fileInfoList.json');
+      const parsed = JSON.parse(list);
+      const updated = parsed.map(p => {
+        if (p.name === list.name) {
+          p.complete = req.body.complete === 'yes';
+        }
+        return p;
+      });
+      const written = await writeFile('static/fileInfoList.json', updated);
+      res.json(written);
+    } else {
+      res.status(400).json({ error: true, message: 'YOU MUST SEND A LIST AND A STATUS!' });
+    }
+  } catch (error) {
+    res.status(500).json({ error: true, message: 'ERROR MARKING LIST STATUS!', code: error });
+  }
+});
 
 module.exports = router;
