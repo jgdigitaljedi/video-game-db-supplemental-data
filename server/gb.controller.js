@@ -8,10 +8,11 @@ router.post('/gamelookup', async (req, res) => {
     let url;
     if (req.body.name) {
       const { name, platform } = req.body;
+      console.log('platform', platform);
       if (platform) {
-        url = `https://api.giantbomb.com/games/?api_key=${gbKey}&filter=name:${name},platforms:${platform}&format=json`;
+        url = `https://www.giantbomb.com/api/games/?api_key=${gbKey}&filter=name:${name},platforms:${platform}&format=json`;
       } else {
-        url = `https://api.giantbomb.com/games/?api_key=${gbKey}&filter=name:${name}&format=json`;
+        url = `https://www.giantbomb.com/api/games/?api_key=${gbKey}&filter=name:${name}&format=json`;
       }
       axios
         .get(url)
@@ -22,11 +23,13 @@ router.post('/gamelookup', async (req, res) => {
                 item.gbid = item.id;
                 return {
                   gbId: item.id,
-                  gbGuid: item.guid
+                  gbGuid: item.guid,
+                  name: item.name
                 };
               });
               res.json(cleaned);
             } catch (err) {
+              console.log('gb error', error);
               res
                 .status(500)
                 .json({ error: true, message: 'ERROR LOOKING UP GAME ON GIANTBOMB!', code: error });

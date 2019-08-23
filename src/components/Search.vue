@@ -3,7 +3,15 @@
     <v-card-title d-flex>
       <div>API Search</div>
       <v-spacer></v-spacer>
-
+      <v-select
+        v-if="fileType === 'Game'"
+        label="Platform"
+        :items="platformList"
+        item-text="name"
+        v-model="selectedPlatform"
+        color="white"
+        return-object
+      ></v-select>
       <v-switch v-model="fuzzy" label="Fuzzy Search" :change="fuzzyToggle()"></v-switch>
     </v-card-title>
     <div class="search-results">
@@ -49,6 +57,8 @@
 <script>
 import JsonData from '../services/jsonData.service';
 import * as _debounce from 'lodash/debounce';
+import { mapMutations } from 'vuex';
+
 export default {
   name: 'Search',
   props: {
@@ -67,9 +77,29 @@ export default {
     igdbModel: null,
     gbModel: null,
     tgdbModel: null,
-    fuzzy: true
+    fuzzy: false,
+    platformList: null,
+    selectedPlatform: null
   }),
+  created() {
+    JsonData.getMasterPlatforms()
+      .then(result => {
+        console.log('platforms result', result);
+        this.platformList = result.data.sort((a, b) => {
+          if (a.name > b.name) return 1;
+          if (a.name < b.name) return -1;
+          return 0;
+        });
+        this.selectedPlatform = this.platformList[0];
+      })
+      .catch(error => {
+        console.log('platforms error', error);
+      });
+  },
   methods: {
+    snackTime(snack) {
+      this.setSnack(snack);
+    },
     fuzzyToggle() {
       this.$emit('fuzzyToggle', this.fuzzy);
     },
@@ -101,7 +131,6 @@ export default {
       this.$emit('gameData', cleaned);
     },
     searchAll(name, platform) {
-      console.log('this.fileType', this.fileType);
       this.searchIgdb(name, platform);
       this.searchGb(name, platform);
       this.searchTgdb(name, platform);
@@ -109,20 +138,19 @@ export default {
     searchGb(name, platform) {
       this.isGbLoading = true;
       if (this.fileType === 'Game') {
-        JsonData.gbGameLookup(name, platform)
+        JsonData.gbGameLookup(name, this.fuzzy ? null : platform.gbId)
           .then(result => {
-            console.log('gb result', result);
             const list = result.data;
-            list.unshift({ name: 'null', gbId: null, gbGuid: null });
+            list.unshift({ name: 'not found in DB', gbId: null, gbGuid: null });
             this.gbGames = list;
             this.isGbLoading = false;
           })
           .catch(error => {
             this.isGbLoading = false;
+            this.snackTime({ status: 'error', txt: 'ERROR FETCHING GB GAME DATA!' });
             console.log('gb error', error);
           });
       } else {
-        // @TODO: add gb platform search to API and here
         JsonData.gbPlatformLookup(name)
           .then(result => {
             const list = result.data;
@@ -132,6 +160,7 @@ export default {
             console.log('gb platform result', result);
           })
           .catch(error => {
+            this.snackTime({ status: 'error', txt: 'ERROR FETCHING GB PLATFORM DATA!' });
             console.log('gb platform error', error);
           });
       }
@@ -139,16 +168,29 @@ export default {
     searchTgdb(name, platform) {
       this.isTgdbLoading = true;
       if (this.fileType === 'Game') {
+        JsonData.tgdbGameLookup(name, this.fuzzy ? null : platform.tgdbId)
+          .then(result => {
+            const list = result.data;
+            list.unshift({ name: 'not found in DB', tgdbId: null });
+            this.tgdbGames = list;
+            this.isTgdbLoading = false;
+            console.log('tgdb result', result);
+          })
+          .catch(error => {
+            this.isTgdbLoading = false;
+            this.snackTime({ status: 'error', txt: 'ERROR FETCHING TGDB PLATFORM DATA!' });
+            console.log('tgdb error', error);
+          });
       } else {
         JsonData.tgdbPlatformLookup(name)
           .then(result => {
-            console.log('tgdb result', result);
             const list = result.data;
             list.unshift({ name: 'not found in DB', tgdbId: null });
             this.tgdbGames = list;
             this.isTgdbLoading = false;
           })
           .catch(error => {
+            this.snackTime({ status: 'error', txt: 'ERROR FETCHING TGDB PLATFORM DATA!' });
             console.log('tgdb error', error);
             this.isTgdbLoading = false;
           });
@@ -160,7 +202,6 @@ export default {
         if (this.fuzzy) {
           JsonData.igdbGameFuzzy(name)
             .then(result => {
-              console.log('results', result.data);
               const list = result.data;
               list.unshift({ name: 'not found in DB', igdbId: null });
               this.igdbGames = list;
@@ -168,12 +209,12 @@ export default {
             })
             .catch(error => {
               this.isLoading = false;
+              this.snackTime({ status: 'error', txt: 'ERROR FETCHING IGDB GAME DATA!' });
               console.warn('ERROR searching: ', error);
             });
         } else {
-          JsonData.igdbSearch(name, platform)
+          JsonData.igdbGameLookup(name, platform.igdbId)
             .then(result => {
-              console.log('results', result.data);
               const list = result.data;
               list.unshift({ name: 'not found in DB', igdbId: null });
               this.igdbGames = list;
@@ -181,28 +222,32 @@ export default {
             })
             .catch(error => {
               this.isLoading = false;
+              this.snackTime({ status: 'error', txt: 'ERROR FETCHING IGDB GAME DATA!' });
               console.warn('ERROR searching: ', error);
             });
         }
       } else {
         JsonData.igdbPlatform(name)
           .then(result => {
-            console.log('igdb platform', result);
             const list = result.data;
             list.unshift({ name: 'not found in DB', igdbId: null });
             this.igdbGames = list;
             this.isIgdbLoading = false;
           })
           .catch(error => {
+            this.snackTime({ status: 'error', txt: 'ERROR FETCHING IGDB PLATFORM DATA!' });
             console.log('igdb platform error', error);
           });
       }
-    }
+    },
+    ...mapMutations({
+      setSnack: 'setSnack'
+    })
   },
   watch: {
     search: _debounce(function(val) {
       if (val) {
-        this.searchAll(val, this.platform);
+        this.searchAll(val, this.selectedPlatform);
       }
     }, 800),
     reset: function(val) {

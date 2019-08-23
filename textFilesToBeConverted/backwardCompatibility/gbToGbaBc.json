@@ -1,39 +1,103 @@
 [
   {
-    "name": "Densha de Go",
+    "name": "Densha de Go!",
     "id": "gbbc1",
-    "details": "Low volume right on start-up, or when conductor speaks."
+    "details": "Low volume right on start-up, or when conductor speaks.",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27596
   },
   {
-    "name": "Densha de Go 2",
+    "name": "Densha de Go! 2",
     "id": "gbbc2",
-    "details": "Low volume after approximately 30 seconds."
+    "details": "Low volume after approximately 30 seconds.",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27597
   },
-  { "name": "Hamster Paradise 2", "id": "gbbc3", "details": "Low volume right on start-up." },
-  { "name": "Hamster Paradise 3", "id": "gbbc4", "details": "Low volume right on start-up." },
+  {
+    "name": null,
+    "id": "gbbc3",
+    "details": "Low volume right on start-up.",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "name": null,
+    "id": "gbbc4",
+    "details": "Low volume right on start-up.",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
   {
     "name": "Disney's Tarzan",
     "id": "gbbc5",
-    "details": "Constant high-pitched tone right on power-up."
+    "details": "Constant high-pitched tone right on power-up.",
+    "igdbId": 10662,
+    "gbId": 13775,
+    "gbGuid": "3030-13775",
+    "tgdbId": 3148
   },
   {
     "name": "Sakura Taisen GB",
     "id": "gbbc6",
-    "details": "Sound disappears while loading saved games."
+    "details": "Sound disappears while loading saved games.",
+    "igdbId": 79482,
+    "gbId": 10918,
+    "gbGuid": "3030-10918",
+    "tgdbId": 55795
   },
-  { "name": "Koro Koro Kirby", "id": "gbbc7", "details": "Low volume at the title screen" },
   {
-    "name": "Doraemon - Study Fighter 99 Games",
+    "name": null,
+    "id": "gbbc7",
+    "details": "Low volume at the title screen",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "name": null,
     "id": "gbbc8",
-    "details": "Constant high-pitched tone right on power-up."
+    "details": "Constant high-pitched tone right on power-up.",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
   },
-  { "name": "Shogi", "id": "gbbc9", "details": "Low volume when game 'speaks'" },
   {
-    "name": "Game of Go",
-    "id": "gbbc10",
-    "details": "Constant popping sound after pressing the controller at least 100 times."
+    "name": "Shogi",
+    "id": "gbbc9",
+    "details": "Low volume when game 'speaks'",
+    "igdbId": 63582,
+    "gbId": 42214,
+    "gbGuid": "3030-42214",
+    "tgdbId": 40946
   },
-  { "name": "World Soccer GB2", "id": "gbbc11", "details": "Low volume right on power-up." },
+  {
+    "name": null,
+    "id": "gbbc10",
+    "details": "Constant popping sound after pressing the controller at least 100 times.",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "name": null,
+    "id": "gbbc11",
+    "details": "Low volume right on power-up.",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
   {
     "name": "Card Captor Sakura",
     "id": "gbbc12",

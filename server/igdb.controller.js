@@ -53,7 +53,7 @@ function platformSearch(platform) {
 
 router.post('/gamelookup', async (req, res) => {
   if (req.body.name && req.body.platform) {
-    const platform = getPlatform(req.body.platform);
+    const platform = req.body.platform;
     const apiResults = await apiSearch(req.body.name, platform);
     const data = apiResults.data;
     res.json(data);

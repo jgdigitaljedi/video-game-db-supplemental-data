@@ -40,5 +40,17 @@
     "filePath": "../textFilesToBeConverted/special/nesBlackBoxTitles.json",
     "type": "Game",
     "complete": false
+  },
+  {
+    "title": "Nintendo Gamecube Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/gamecubeExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "NES Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nesExclusives.json",
+    "type": "Game",
+    "complete": false
   }
 ]

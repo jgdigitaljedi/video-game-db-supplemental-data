@@ -20,6 +20,9 @@ export default {
   tgdbPlatformLookup(name, platform) {
     return axios.post('http://localhost:4001/tgdb/platformlookup', { name, platform });
   },
+  tgdbGameLookup(name, platform) {
+    return axios.post('http://localhost:4001/tgdb/gamelookup', { name, platform });
+  },
 
   /** file operations */
   saveGame(oldData, newData, list) {
@@ -38,5 +41,8 @@ export default {
   },
   markListStatus(list, complete) {
     return axios.patch(`http://localhost:4001/files/listcomplete`, { list, complete });
+  },
+  getMasterPlatforms() {
+    return axios.get(`http://localhost:4001/files/consolelist`);
   }
 };
