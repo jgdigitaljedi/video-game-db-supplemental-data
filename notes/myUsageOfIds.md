@@ -67,3 +67,4 @@ I simply chose a prefix for each list then slap a number on the end to different
 ### Platform Exclusives
 
 - gcexX - Nintendo GameCube console exclusives (gamecubeExclusives.json | GAMES LIST)
+- nesexX - NES console exclusives (nesExclusives.json | GAMES LIST)

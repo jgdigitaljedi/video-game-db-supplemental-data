@@ -8,7 +8,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "nodemon server/server.js & npm run serve"
+    "start": "nodemon server/server.js & npm run serve",
+    "ids": "node scripts/utility/incrementIdsForJson"
   },
   "repository": {
     "type": "git",
@@ -48,6 +49,7 @@
     "@vue/cli-service": "^3.10.0",
     "@vue/eslint-config-prettier": "^5.0.0",
     "babel-eslint": "^10.0.2",
+    "chalk": "^2.4.2",
     "eslint": "^6.1.0",
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-vue": "^5.2.3",
