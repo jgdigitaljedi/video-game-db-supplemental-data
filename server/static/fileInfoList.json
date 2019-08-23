@@ -21,7 +21,7 @@
     "title": "PS3 Region Exceptions",
     "filePath": "../textFilesToBeConverted/regionLock/ps3RegionLockExceptions.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Region Free Consoles",
@@ -39,7 +39,7 @@
     "title": "NES Black Box Games",
     "filePath": "../textFilesToBeConverted/special/nesBlackBoxTitles.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Nintendo Gamecube Exclusives",
@@ -63,7 +63,7 @@
     "title": "Xbox to Xbox One Backwards Compatible",
     "filePath": "../textFilesToBeConverted/XboxBc/XboxToXboxOne.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Xbox 360 to Xbox One Backwards Compatible",

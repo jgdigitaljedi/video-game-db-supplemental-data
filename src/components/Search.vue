@@ -115,9 +115,18 @@ export default {
       .catch(error => {
         console.log('platforms error', error);
       });
+    this.$store.watch(
+      state => {
+        return state.currentName;
+      },
+      val => {
+        console.log('val', val);
+        this.search = val;
+      }
+    );
   },
   methods: {
-    canSelectionHappen() {
+    canSelectionHappen(which) {
       const igdb = !this.runIgdb ? true : !!this.igdbModel;
       const gb = !this.runGb ? true : !!this.gbModel;
       const tgdb = !this.runTgdb ? true : !!this.tgdbModel;

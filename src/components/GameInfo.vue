@@ -1,6 +1,9 @@
 <template>
   <v-card>
     <v-card-title>Current Game Data</v-card-title>
+    <v-btn dark color="accent" @click.native="copyName">
+      <v-icon left>mdi-content-copy</v-icon>Copy Name
+    </v-btn>
     <div class="game-info">
       <h4>Old</h4>
       <pre>{{game ? game : ''}}</pre>
@@ -14,12 +17,22 @@
 </template>
 
 <script>
+import { mapMutations } from 'vuex';
+
 export default {
-  name: "GameInfo",
+  name: 'GameInfo',
   props: {
     game: null,
     fixed: null,
     reset: null
+  },
+  methods: {
+    copyName() {
+      this.setCurrentName(this.game.name ? this.game.name : this.game.title);
+    },
+    ...mapMutations({
+      setCurrentName: 'setCurrentName'
+    })
   }
 };
 </script>

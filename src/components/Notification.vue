@@ -1,8 +1,8 @@
 <template>
   <v-snackbar v-model="show" :top="true" :color="status">
     <b>{{message}}</b>
-    <v-btn color="primary" @click.native="show = false">
-      <v-icon left>mdi-close</v-icon>Close
+    <v-btn text small @click.native="show = false">
+      <v-icon left>mdi-close</v-icon>
     </v-btn>
   </v-snackbar>
 </template>
