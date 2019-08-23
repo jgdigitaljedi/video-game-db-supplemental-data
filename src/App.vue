@@ -28,6 +28,7 @@
           :reset="reset"
           v-on:fuzzyToggle="fuzzyToggled"
           :fileType="fileType"
+          :currentGame="currentGame"
         ></Search>
         <v-card class="save-game">
           <v-btn color="success" @click="saveGame()" :disabled="!fixedGame">

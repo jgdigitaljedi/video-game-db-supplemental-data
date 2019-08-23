@@ -14,8 +14,8 @@
   {
     "title": "PS to PS2 BC",
     "filePath": "../textFilesToBeConverted/backwardCompatibility/ps1ToPs2Bc.json",
-    "type": "Console",
-    "complete": false
+    "type": "Game",
+    "complete": true
   },
   {
     "title": "PS3 Region Exceptions",
@@ -50,6 +50,24 @@
   {
     "title": "NES Exclusives",
     "filePath": "../textFilesToBeConverted/platformExclusives/nesExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Xbox to Xbox 360 Backwards Compatible",
+    "filePath": "../textFilesToBeConverted/XboxBc/XboxToXbox360.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Xbox to Xbox One Backwards Compatible",
+    "filePath": "../textFilesToBeConverted/XboxBc/XboxToXboxOne.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Xbox 360 to Xbox One Backwards Compatible",
+    "filePath": "../textFilesToBeConverted/XboxBc/Xbox360ToXboxOne.json",
     "type": "Game",
     "complete": false
   }

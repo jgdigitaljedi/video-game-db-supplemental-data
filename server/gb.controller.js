@@ -8,7 +8,6 @@ router.post('/gamelookup', async (req, res) => {
     let url;
     if (req.body.name) {
       const { name, platform } = req.body;
-      console.log('platform', platform);
       if (platform) {
         url = `https://www.giantbomb.com/api/games/?api_key=${gbKey}&filter=name:${name},platforms:${platform}&format=json`;
       } else {

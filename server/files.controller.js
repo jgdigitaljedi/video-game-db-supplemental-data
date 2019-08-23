@@ -98,7 +98,6 @@ router.get('/consolelist', async (req, res) => {
 router.patch('/listcomplete', async (req, res) => {
   try {
     if (req.body.list && req.body.complete) {
-      console.log('list', req.body.list);
       const list = await getJsonFile('static/fileInfoList.json');
       const parsed = JSON.parse(list);
       const updated = parsed.map(p => {

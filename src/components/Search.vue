@@ -16,37 +16,52 @@
     </v-card-title>
     <div class="search-results">
       <v-text-field v-model="search" label="Search Text"></v-text-field>
-      <v-select
-        label="IGDB results"
-        v-model="igdbModel"
-        :items="igdbGames"
-        :loading="isIgdbLoading"
-        item-text="name"
-        color="white"
-        hide-no-data
-        return-object
-      ></v-select>
-      <v-select
-        label="Giantbomb results"
-        v-model="gbModel"
-        :items="gbGames"
-        :loading="isGbLoading"
-        item-text="name"
-        color="white"
-        hide-no-data
-        return-object
-      ></v-select>
-      <v-select
-        label="TheGamesDB results"
-        v-model="tgdbModel"
-        :items="tgdbGames"
-        :loading="isTgdbLoading"
-        item-text="name"
-        color="white"
-        hide-no-data
-        return-object
-      ></v-select>
-      <v-btn class="select-btn" @click="selectionMade()" color="primary" :disabled="!igdbModel">
+      <div class="search-row">
+        <v-switch v-model="runIgdb"></v-switch>
+        <v-select
+          label="IGDB results"
+          v-model="igdbModel"
+          :items="igdbGames"
+          :loading="isIgdbLoading"
+          item-text="name"
+          color="white"
+          hide-no-data
+          return-object
+          :disabled="!runIgdb"
+          :change="canSelectionHappen"
+        ></v-select>
+      </div>
+      <div class="search-row">
+        <v-switch v-model="runGb"></v-switch>
+        <v-select
+          label="Giantbomb results"
+          v-model="gbModel"
+          :items="gbGames"
+          :loading="isGbLoading"
+          item-text="name"
+          color="white"
+          hide-no-data
+          return-object
+          :disabled="!runGb"
+          :change="canSelectionHappen"
+        ></v-select>
+      </div>
+      <div class="search-row">
+        <v-switch v-model="runTgdb"></v-switch>
+        <v-select
+          label="TheGamesDB results"
+          v-model="tgdbModel"
+          :items="tgdbGames"
+          :loading="isTgdbLoading"
+          item-text="name"
+          color="white"
+          hide-no-data
+          return-object
+          :disabled="!runTgdb"
+          :change="canSelectionHappen"
+        ></v-select>
+      </div>
+      <v-btn class="select-btn" @click="selectionMade()" color="primary" :disabled="readyForSave">
         <v-icon dark left>mdi-check-bold</v-icon>
         Select {{fileType}}
       </v-btn>
@@ -64,7 +79,8 @@ export default {
   props: {
     platform: null,
     reset: null,
-    fileType: null
+    fileType: null,
+    currentGame: null
   },
   data: () => ({
     igdbGames: null,
@@ -79,7 +95,11 @@ export default {
     tgdbModel: null,
     fuzzy: false,
     platformList: null,
-    selectedPlatform: null
+    selectedPlatform: null,
+    runIgdb: true,
+    runTgdb: true,
+    runGb: true,
+    readyForSave: false
   }),
   created() {
     JsonData.getMasterPlatforms()
@@ -97,6 +117,12 @@ export default {
       });
   },
   methods: {
+    canSelectionHappen() {
+      const igdb = !this.runIgdb ? true : !!this.igdbModel;
+      const gb = !this.runGb ? true : !!this.gbModel;
+      const tgdb = !this.runTgdb ? true : !!this.tgdbModel;
+      this.readyForSave = igdb && gb && tgdb;
+    },
     snackTime(snack) {
       this.setSnack(snack);
     },
@@ -115,25 +141,49 @@ export default {
         name = this.igdbModel.name;
       } else if (this.gbModel && this.gbModel.name && this.gbModel.name !== 'not found in DB') {
         name = this.gbModel.name;
+      } else if (this.currentGame.name) {
+        return this.currentGame.name;
       } else {
         name = null;
       }
       return name;
     },
+    getFromCurrentData(which) {
+      if (this.currentGame[which]) {
+        return this.currentGame[which];
+      }
+      return null;
+    },
     selectionMade() {
       const cleaned = {
-        igdbId: this.igdbModel && this.igdbModel.id ? this.igdbModel.id : null,
-        gbId: this.gbModel && this.gbModel.gbId ? this.gbModel.gbId : null,
-        gbGuid: this.gbModel && this.gbModel.gbGuid ? this.gbModel.gbGuid : null,
-        tgdbId: this.tgdbModel && this.tgdbModel.tgdbId ? this.tgdbModel.tgdbId : null,
+        igdbId:
+          this.igdbModel && this.igdbModel.id
+            ? this.igdbModel.id
+            : this.getFromCurrentData('igdbId'),
+        gbId:
+          this.gbModel && this.gbModel.gbId ? this.gbModel.gbId : this.getFromCurrentData('gbId'),
+        gbGuid:
+          this.gbModel && this.gbModel.gbGuid
+            ? this.gbModel.gbGuid
+            : this.getFromCurrentData('gbGuid'),
+        tgdbId:
+          this.tgdbModel && this.tgdbModel.tgdbId
+            ? this.tgdbModel.tgdbId
+            : this.getFromCurrentData('tgdbId'),
         name: this.getName()
       };
       this.$emit('gameData', cleaned);
     },
     searchAll(name, platform) {
-      this.searchIgdb(name, platform);
-      this.searchGb(name, platform);
-      this.searchTgdb(name, platform);
+      if (this.runIgdb) {
+        this.searchIgdb(name, platform);
+      }
+      if (this.runGb) {
+        this.searchGb(name, platform);
+      }
+      if (this.runTgdb) {
+        this.searchTgdb(name, platform);
+      }
     },
     searchGb(name, platform) {
       this.isGbLoading = true;
@@ -261,6 +311,10 @@ export default {
       this.igdbModel = null;
       this.gbModel = null;
       this.tgdbModel = null;
+      this.runIgdb = true;
+      this.runGb = true;
+      this.runTgdb = true;
+      this.fuzzy = false;
     }
   }
 };
@@ -270,6 +324,10 @@ export default {
 .search {
   .search-results {
     padding: 2rem;
+    .search-row {
+      display: flex;
+      justify-content: space-between;
+    }
   }
 }
 </style>
