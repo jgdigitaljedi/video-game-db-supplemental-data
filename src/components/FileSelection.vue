@@ -92,7 +92,10 @@ export default {
         .getFile('static/fileInfoList.json')
         .then(result => {
           console.log('file list result', result);
-          this.fileList = result.data;
+          this.fileList = result.data.sort((a, b) => {
+            if (a.complete) return 1;
+            return -1;
+          });
           if (oldSelection) {
             this.selectedFile = oldSelection;
           }
