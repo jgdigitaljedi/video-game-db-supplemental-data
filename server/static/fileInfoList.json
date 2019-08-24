@@ -70,5 +70,269 @@
     "filePath": "../textFilesToBeConverted/XboxBc/Xbox360ToXboxOne.json",
     "type": "Game",
     "complete": false
+  },
+  {
+    "title": "Astrocade Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/astrocadeLaunchTitles.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Atari 2600 Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/atari2600LaunchTitles.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Atari 5200 Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/atari5200LaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Atari7800 Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/atari7800LaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Atari Jaguar Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/atariJaguarLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Atari Jaguar CD Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/atariJaguarCdLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Atari Lynx Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/atariLynxLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Philips CD-i Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitlescdiLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "ColecoVision Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/colecoVisionLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega Dreamcast Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/dreamcastLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo DS Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/dsLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Game Boy Advance Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/gameBoyAdvanceLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Game Boy Color Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/gameBoyColorLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Game Boy Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/gameBoyLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Game.Com Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/gameComLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo GameCube Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/gamecubeLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega Game Gear Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/gameGearLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega Genesis Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/genesisLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Gizmondo Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/gizmondoLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Intellivision Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/intellivisionLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo 64 Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/n64LaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Neo Geo Pocket Color Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/neoGeoPocketColorLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "NES Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/nesLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nokia N-Gage Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/ngageLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/playstationLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation 2 Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/ps2LaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation 3 Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/ps3LaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation 4 Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/ps4LaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation Portable Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/pspLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation Vita Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/psVitaLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega 32x Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/sega32xLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega CD Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/segaCdLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega Master System Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/segaMasterSystemLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega Saturn Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/segaSaturnLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "SNES Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/snesLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Switch Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/switchLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Turbografx 16 CD Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/turbografx16CdLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Turbografx 16 Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/turbografx16LaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Virtual Boy Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/virtualBoyLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Wii Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/wiiLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Wii U Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/wiiULaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Microsoft Xbox 360 Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/xbox360LaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Microsoft Xbox Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/xboxLaunchTitles.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Microsoft Xbox One Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/xboxOneLaunchTitles.json",
+    "type": "Game",
+    "complete": false
   }
 ]

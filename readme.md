@@ -1,14 +1,18 @@
 # video-game-db-supplemental-data
 
 The idea here was to create something that can be referenced and used alongside various video game APIs to supplement that data available. As a collector, I like to know which games might not be fully backward compatible with systems that say they are fully backward compatible. In the case of the Xbox generations, I also like to know which games are backward compatible with which Xbox generation because those lists are limited. This is an example of the type of thing I am looking to generate data for with this project and is intended to create JSON files that contain that data and is setup in such a way that it can be used with Giantbomb, IGDB, and TGDB. It's a WIP right now. Also, note that I just dumped in an old UI I built for something similar and have yet to update it to be applicable for the current project. I'm still focused on setup and data collection ATM.
-___
+
+For now, I'm focused mainly on North American data with some exceptions. I might go back and get the European and Japanese data at some point, but then my data structure is going to have to change. Not a huge deal, but selfishly I want to use this so the NA data is my primary focus right now.
+
+---
 
 ## Usage
 
 Really and truthfully, the value of this project will live in the "finalOutput" directory and all else can be ignored. If you want to tinker around with this the run `npm i` and checkout the package.json folder for the npm scripts that can be used.
 
 If you want to contribute, feel free to submit a PR or contact me. If you know of more data you would like to see added I am definitely open to suggestions!
-___
+
+---
 
 ## Organization
 
@@ -18,7 +22,8 @@ ___
 - "textFilesToBeConverted" contains markdown files with raw data that I've collected. This data gets turned into JSON files and this is just the directory I'm using for the initial data collection via research.
 - "src" contains the Vue.js app that I'm using to to speed up this process.
 - "scripts" contains some Node.js scripts I'm using to parse or merge data.
-___
+
+---
 
 ## Tasks
 
@@ -28,12 +33,13 @@ npm start
 
 Starts server and Vue UI for matching API data to JSON data sets.
 
-
 ```
 npm run ids
 ```
+
 First, put in a file path and prefix. Then run this. It will assign IDs to each item in the list using the prefix and index. This is used to make quick work of generating JSON files from data gathered since all items need to have a unique ID.
-___
+
+---
 
 ## Plans
 
