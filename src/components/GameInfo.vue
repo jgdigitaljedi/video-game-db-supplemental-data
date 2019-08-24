@@ -11,7 +11,7 @@
         <h4>New</h4>
         <pre class="game-revisions">{{fixed ? fixed : ''}}</pre>
       </div>
-      <div class="section-complete" v-if="!game">All Games for This Section Have Been Matched!</div>
+      <div class="section-complete" v-if="!game">You reached the end of the list!</div>
     </div>
   </v-card>
 </template>
