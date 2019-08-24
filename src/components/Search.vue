@@ -71,6 +71,7 @@
 
 <script>
 import JsonData from '../services/jsonData.service';
+import Helper from '../services/helper.service';
 import * as _debounce from 'lodash/debounce';
 import { mapMutations } from 'vuex';
 
@@ -105,11 +106,12 @@ export default {
     JsonData.getMasterPlatforms()
       .then(result => {
         console.log('platforms result', result);
-        this.platformList = result.data.sort((a, b) => {
-          if (a.name > b.name) return 1;
-          if (a.name < b.name) return -1;
-          return 0;
-        });
+        // this.platformList = result.data.sort((a, b) => {
+        //   if (a.name > b.name) return 1;
+        //   if (a.name < b.name) return -1;
+        //   return 0;
+        // });
+        this.platformList = Helper.sortByName(result.data);
         this.selectedPlatform = this.platformList[0];
       })
       .catch(error => {
@@ -199,7 +201,7 @@ export default {
       if (this.fileType === 'Game') {
         JsonData.gbGameLookup(name, this.fuzzy ? null : platform.gbId)
           .then(result => {
-            const list = result.data;
+            const list = Helper.sortByName(result.data);
             list.unshift({ name: 'not found in DB', gbId: null, gbGuid: null });
             this.gbGames = list;
             this.isGbLoading = false;
@@ -212,7 +214,7 @@ export default {
       } else {
         JsonData.gbPlatformLookup(name)
           .then(result => {
-            const list = result.data;
+            const list = Helper.sortByName(result.data);
             list.unshift({ name: 'not found in DB', gbId: null, gbGuid: null });
             this.gbGames = list;
             this.isGbLoading = false;
@@ -229,7 +231,7 @@ export default {
       if (this.fileType === 'Game') {
         JsonData.tgdbGameLookup(name, this.fuzzy ? null : platform.tgdbId)
           .then(result => {
-            const list = result.data;
+            const list = Helper.sortByName(result.data);
             list.unshift({ name: 'not found in DB', tgdbId: null });
             this.tgdbGames = list;
             this.isTgdbLoading = false;
@@ -243,7 +245,7 @@ export default {
       } else {
         JsonData.tgdbPlatformLookup(name)
           .then(result => {
-            const list = result.data;
+            const list = Helper.sortByName(result.data);
             list.unshift({ name: 'not found in DB', tgdbId: null });
             this.tgdbGames = list;
             this.isTgdbLoading = false;
@@ -261,7 +263,7 @@ export default {
         if (this.fuzzy) {
           JsonData.igdbGameFuzzy(name)
             .then(result => {
-              const list = result.data;
+              const list = Helper.sortByName(result.data);
               list.unshift({ name: 'not found in DB', igdbId: null });
               this.igdbGames = list;
               this.isIgdbLoading = false;
@@ -274,7 +276,7 @@ export default {
         } else {
           JsonData.igdbGameLookup(name, platform.igdbId)
             .then(result => {
-              const list = result.data;
+              const list = Helper.sortByName(result.data);
               list.unshift({ name: 'not found in DB', igdbId: null });
               this.igdbGames = list;
               this.isIgdbLoading = false;
@@ -288,7 +290,7 @@ export default {
       } else {
         JsonData.igdbPlatform(name)
           .then(result => {
-            const list = result.data;
+            const list = Helper.sortByName(result.data);
             list.unshift({ name: 'not found in DB', igdbId: null });
             this.igdbGames = list;
             this.isIgdbLoading = false;
