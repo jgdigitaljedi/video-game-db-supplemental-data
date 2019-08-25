@@ -39,6 +39,12 @@ npm run ids
 
 First, put in a file path and prefix. Then run this. It will assign IDs to each item in the list using the prefix and index. This is used to make quick work of generating JSON files from data gathered since all items need to have a unique ID.
 
+```
+npm run scrape:gematsu
+```
+
+First, change the url to scrape and the filePath to write to. This is meant to scrape lists from gematsu.com. This generates a basic JSON list that should then have `npm run ids` ran against it to fill in the ids.
+
 ---
 
 ## Plans

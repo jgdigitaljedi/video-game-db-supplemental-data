@@ -9,7 +9,8 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "start": "nodemon server/server.js & npm run serve",
-    "ids": "node scripts/utility/incrementIdsForJson"
+    "ids": "node scripts/utility/incrementIdsForJson",
+    "scrape:gematsu": "node scripts/utility/scrapeGematsu.js"
   },
   "repository": {
     "type": "git",
@@ -36,9 +37,11 @@
     "@mdi/font": "^4.0.96",
     "apicalypse": "^0.1.6",
     "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
+    "request": "^2.88.0",
     "vue": "^2.6.10",
     "vuetify": "^2.0.7",
     "vuex": "^3.1.1"

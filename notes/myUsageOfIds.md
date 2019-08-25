@@ -70,4 +70,12 @@ I simply chose a prefix for each list then slap a number on the end to different
 ### Platform Exclusives
 
 - gcexX - Nintendo GameCube console exclusives (gamecubeExclusives.json | GAMES LIST)
+- n3dsexX - Nintendo 3ds console exclusives (nintendo3dsExclusives.json | GAMES LIST)
 - nesexX - NES console exclusives (nesExclusives.json | GAMES LIST)
+- nswexX - Nintendo Switch console exclusives (nintendoSwitchExclusives.json | GAMES LIST)
+- nwuexX - Nintendo Wii U console exclusives (nintendoWiiUExclusives.json | GAMES LIST)
+- ps3exX - Sony PlayStation 3 console exclusives (sonyPlaystation3Exclusives.json | GAMES LIST)
+- ps4exX - Sony PlayStation 4 console exclusives (sonyPlaystation4Exclusives.json | GAMES LIST)
+- psvexX - Sony PlayStation Vita console exclusives (sonyPlaystationVitaExclusives.json | GAMES LIST)
+- xb1exX - Microsoft Xbox One console exclusives (xboxOneExclusives.json | GAMES LIST)
+- xb360exX - Microsoft Xbox 360 console exclusives (xbox360Exclusives.json | GAMES LIST)
