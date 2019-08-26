@@ -116,4 +116,30 @@ router.patch('/listcomplete', async (req, res) => {
   }
 });
 
+router.post('/searchfiles', async (req, res) => {
+  if (req.body.fileList && req.body.fileList.length && req.body.searchTerm) {
+    try {
+      const list = req.body.fileList;
+      const promiseArr = list.map((file, index) => {
+        return getJsonFile(file);
+      });
+      Promise.all(promiseArr)
+        .then(results => {
+          const fullListArr = results.map(r => JSON.parse(r));
+          const flattened = [].concat.apply([], fullListArr);
+          const final = flattened.filter(item => item.name.toLowerCase().indexOf(req.body.searchTerm.toLowerCase()) >= 0);
+          res.json(final);
+        })
+        .catch(error => {
+          res.status(500).json({ error: true, message: 'ERROR SEARCHING FILE LIST!', code: error });
+          console.log('promise arr error', error);
+        });
+    } catch (error) {
+      res.status(500).json({ error: true, message: 'ERROR FETCHING FILE LIST DATA!', code: error });
+    }
+  } else {
+    res.status(400).json({ error: true, message: 'YOU MUST SEND A FILE LIST!' });
+  }
+});
+
 module.exports = router;

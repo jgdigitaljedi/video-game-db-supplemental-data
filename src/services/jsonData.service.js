@@ -29,8 +29,6 @@ export default {
     return axios.post('http://localhost:4001/files/saveGame', { oldData, newData, list });
   },
   saveFile(data, list) {
-    console.log('data', data);
-    console.log('list', list);
     return axios.patch('http://localhost:4001/files/jsonfile', { filePath: list.filePath, data });
   },
   getFile(filePath) {
@@ -44,5 +42,8 @@ export default {
   },
   getMasterPlatforms() {
     return axios.get(`http://localhost:4001/files/consolelist`);
+  },
+  searchFiles(fileList, searchTerm) {
+    return axios.post(`http://localhost:4001/files/searchfiles`, { fileList, searchTerm });
   }
 };

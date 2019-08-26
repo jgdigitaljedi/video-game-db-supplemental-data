@@ -21,6 +21,14 @@
             <v-icon dark right>mdi-arrow-right</v-icon>
           </v-btn>
         </v-card>
+        <v-card class="game-card" style="padding: 1rem;">
+          <v-select
+            label="Search Source"
+            :items="['API Search', 'Files Search']"
+            v-model="searchSource"
+          ></v-select>
+        </v-card>
+        <FileSearch v-if="searchSource === 'Files Search'"></FileSearch>
         <Search
           :platform="selected"
           v-on:gameData="gameSelected"
@@ -29,6 +37,7 @@
           v-on:fuzzyToggle="fuzzyToggled"
           :fileType="fileType"
           :currentGame="currentGame"
+          v-if="searchSource === 'API Search'"
         ></Search>
         <v-card class="save-game">
           <v-btn color="success" @click="saveGame()" :disabled="!fixedGame">
@@ -53,6 +62,7 @@ import GameInfo from './components/GameInfo';
 import FileSelection from './components/FileSelection';
 import Search from './components/Search';
 import Notification from './components/Notification';
+import FileSearch from './components/FileSearch';
 import JsonData from './services/jsonData.service';
 import * as _cloneDeep from 'lodash/cloneDeep';
 import { mapMutations } from 'vuex';
@@ -63,7 +73,8 @@ export default {
     GameInfo,
     Search,
     FileSelection,
-    Notification
+    Notification,
+    FileSearch
   },
   data: () => ({
     selected: null,
@@ -74,7 +85,8 @@ export default {
     reset: 0,
     fileInfo: null,
     fileType: '',
-    pullFileList: 0
+    pullFileList: 0,
+    searchSource: 'API Search'
   }),
   created() {
     this.selected = 'games';
@@ -186,12 +198,12 @@ export default {
 
 <style lang="scss">
 .app-wrapper {
-  margin: 3rem auto 0;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   width: 100%;
   .game-card {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
   .selection-card {
     .selection-button {

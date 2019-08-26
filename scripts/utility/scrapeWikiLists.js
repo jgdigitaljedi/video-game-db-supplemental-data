@@ -3,9 +3,9 @@ const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
 
-const siteUrl = 'https://en.wikipedia.org/wiki/Category:Sega_Genesis-only_games';
-const filePath = '../../textFilesToBeConverted/platformExclusives/segaGenesisExclusives.json';
-const platform = 'Sega Genesis';
+const siteUrl = 'https://en.wikipedia.org/wiki/Category:Sega_Game_Gear-only_games';
+const filePath = '../../textFilesToBeConverted/platformExclusives/segaGameGearExclusives.json';
+const platform = 'Sega Game Gear';
 const digitalText = '';
 
 function makeRequest(url) {
@@ -20,7 +20,7 @@ function makeRequest(url) {
   });
 }
 
-(function() {
+(function () {
   makeRequest(siteUrl).then(html => {
     const $ = cheerio.load(html);
     const data = [];

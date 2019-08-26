@@ -144,6 +144,24 @@
     "complete": false
   },
   {
+    "title": "Sega Saturn Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/segaSaturnExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega Dreamcast Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/segaDreamcastExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega Game Gear Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/segaGameGearExclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
     "title": "Xbox to Xbox 360 Backwards Compatible",
     "filePath": "../textFilesToBeConverted/XboxBc/XboxToXbox360.json",
     "type": "Game",
