@@ -2,10 +2,10 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/platformExclusives/segaGameGearExclusives.json';
-const idPrefix = 'sggex';
+const relativePath = '../../textFilesToBeConverted/platformExclusives/turbografxCdExclusives.json';
+const idPrefix = 'tcdex';
 
-(async function () {
+(async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
   const newData = fileUtil.incrementIds(parsed, idPrefix);

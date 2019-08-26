@@ -72,6 +72,18 @@
     "complete": false
   },
   {
+    "title": "Sony PlayStation Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/sonyPlaystationExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation 2 Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/sonyPlaystation2Exclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
     "title": "Sony PlayStation 3 Exclusives",
     "filePath": "../textFilesToBeConverted/platformExclusives/sonyPlaystation3Exclusives.json",
     "type": "Game",
@@ -84,8 +96,32 @@
     "complete": false
   },
   {
+    "title": "Sony PlayStation Portable Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/sonyPspExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
     "title": "Sony PlayStation Vita Exclusives",
     "filePath": "../textFilesToBeConverted/platformExclusives/sonyPlaystationVitaExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "NEC Turbografx 16 Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/turbografx16Exclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "NEC Turbografx CD Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/turbografxCdExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Microsoft Xbox Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/microsoftXboxExclusives.json",
     "type": "Game",
     "complete": false
   },
@@ -126,6 +162,18 @@
     "complete": false
   },
   {
+    "title": "Nintendo Game Boy Color Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendoGameBoyColorExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Game Boy Advance Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendoGameBoyAdvanceExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
     "title": "Nintendo DS Exclusives",
     "filePath": "../textFilesToBeConverted/platformExclusives/nintendoDsExclusives.json",
     "type": "Game",
@@ -158,6 +206,60 @@
   {
     "title": "Sega Game Gear Exclusives",
     "filePath": "../textFilesToBeConverted/platformExclusives/segaGameGearExclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega 32x Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/sega32xExclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega CD Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/segaCdExclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "3do Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/3doExclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Atari 2600 Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/atari2600Exclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Atari 7800 Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/atari7800Exclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Atari Jaguar Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/atariJaguarExclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Atari Lynx Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/atariLynxExclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "ColecoVision Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/colecovisionExclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Intellivision Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/intellivisionExclusives.json",
     "type": "Game",
     "complete": true
   },
