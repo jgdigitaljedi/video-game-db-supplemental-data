@@ -38,6 +38,7 @@ router.post('/gamelookup', async (req, res) => {
           }
         })
         .catch(error => {
+          console.log('gb catch error', error);
           res
             .status(500)
             .json({ error: true, message: 'ERROR LOOKING UP GAME ON GIANTBOMB!', code: error });

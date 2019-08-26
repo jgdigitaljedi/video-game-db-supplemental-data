@@ -1,5 +1,4 @@
-import { copyFile } from 'fs';
-
+// run in browser console
 const final = [];
 $('.mw-category-group ul li').each((error, data) => {
   final.push(
@@ -9,4 +8,4 @@ $('.mw-category-group ul li').each((error, data) => {
   );
 });
 // right click and store as global variable
-copyFile(temp1);
+copy(temp1);

@@ -54,6 +54,96 @@
     "complete": false
   },
   {
+    "title": "Nintendo 3ds Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendo3dsExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Switch Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendoSwitchExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Wii U Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendoWiiUExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation 3 Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/sonyPlaystation3Exclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation 4 Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/sonyPlaystation4Exclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation Vita Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/sonyPlaystationVitaExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Microsoft Xbox 360 Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/xbox360Exclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Microsoft Xbox One Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/xboxOneExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo SNES Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendoSnesExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo 64 Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendoN64Exclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Wii Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendoWiiExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo Game Boy Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendoGameBoyExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo DS Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendoDsExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega Master System Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/segaMasterSystemExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sega Genesis Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/segaGenesisExclusives.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
     "title": "Xbox to Xbox 360 Backwards Compatible",
     "filePath": "../textFilesToBeConverted/XboxBc/XboxToXbox360.json",
     "type": "Game",
@@ -177,7 +267,7 @@
     "title": "Sega Genesis Launch Titles",
     "filePath": "../textFilesToBeConverted/launchTitles/genesisLaunchTitles.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Gizmondo Launch Titles",
@@ -243,7 +333,7 @@
     "title": "Sony PlayStation Portable Launch Titles",
     "filePath": "../textFilesToBeConverted/launchTitles/pspLaunchTitles.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Sony PlayStation Vita Launch Titles",
@@ -315,7 +405,7 @@
     "title": "Nintendo Wii U Launch Titles",
     "filePath": "../textFilesToBeConverted/launchTitles/wiiULaunchTitles.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Microsoft Xbox 360 Launch Titles",

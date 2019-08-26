@@ -10,7 +10,8 @@
     "lint": "vue-cli-service lint",
     "start": "nodemon server/server.js & npm run serve",
     "ids": "node scripts/utility/incrementIdsForJson",
-    "scrape:gematsu": "node scripts/utility/scrapeGematsu.js"
+    "scrape:gematsu": "node scripts/utility/scrapeGematsu.js",
+    "scrape:wiki": "node scripts/utility/scrapeWikiLists.js"
   },
   "repository": {
     "type": "git",
