@@ -145,4 +145,32 @@ router.post('/searchfiles', async (req, res) => {
   }
 });
 
+router.post('/jointlist', async (req, res) => {
+  if (req.body.fileList && req.body.fileList.length) {
+    try {
+      const list = req.body.fileList;
+      const promiseArr = list.map((file, index) => {
+        return getJsonFile(file.filePath);
+      });
+      Promise.all(promiseArr)
+        .then(results => {
+          const fullListArr = results.map(r => JSON.parse(r));
+          const flattened = [].concat.apply([], fullListArr);
+          res.json(
+            flattened.map(o => o.name).sort()
+          );
+        })
+        .catch(error => {
+          res.status(500).json({ error: true, message: 'ERROR FETCHING JOINT LIST!', code: error });
+          console.log('joint list error', error);
+        });
+    } catch (error) {
+      console.log('joint list error', error);
+      res.status(500).json({ error: true, message: 'ERROR FETCHING JOINT LIST DATA!', code: error });
+    }
+  } else {
+    res.status(400).json({ error: true, message: 'YOU MUST SEND A FILE LIST!' });
+  }
+});
+
 module.exports = router;

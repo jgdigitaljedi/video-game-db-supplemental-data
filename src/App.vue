@@ -1,7 +1,7 @@
 <template>
-  <v-app>
+  <v-app style="height: 100%;" d-flex>
     <Notification></Notification>
-    <v-layout class="app-wrapper">
+    <v-layout class="app-wrapper" style="height: 100%;" d-flex>
       <v-container class="app-left">
         <v-card class="selection-card game-card">
           <v-card-title>List Selection</v-card-title>
@@ -12,11 +12,18 @@
           ></FileSelection>
         </v-card>
         <v-card class="next-and-previous game-card">
-          <v-btn color="primary" @click="changeGame(false)" :disabled="currentIndex === 0">
+          <v-btn color="primary" @click="changeGame(-1)" :disabled="currentIndex === 0">
             <v-icon dark left>mdi-arrow-left</v-icon>
             Previous {{fileType}}
           </v-btn>
-          <v-btn color="primary" @click="changeGame(true)">
+          <v-btn color="warning" @click="changeGame(-10)" :disabled="currentIndex < 10">
+            <v-icon left>mdi-rewind</v-icon>Back 10
+          </v-btn>
+          <v-btn color="warning" @click="changeGame(10)">
+            Forward 10
+            <v-icon right>mdi-fast-forward</v-icon>
+          </v-btn>
+          <v-btn color="primary" @click="changeGame(1)">
             Next {{fileType}}
             <v-icon dark right>mdi-arrow-right</v-icon>
           </v-btn>
@@ -28,7 +35,11 @@
             v-model="searchSource"
           ></v-select>
         </v-card>
-        <FileSearch v-if="searchSource === 'Files Search'" v-on:gameData="gameSelected"></FileSearch>
+        <FileSearch
+          v-if="searchSource === 'Files Search'"
+          v-on:gameData="gameSelected"
+          v-on:jointList="getJointList"
+        ></FileSearch>
         <Search
           :platform="selected"
           v-on:gameData="gameSelected"
@@ -50,8 +61,9 @@
           </v-btn>
         </v-card>
       </v-container>
-      <v-container class="app-right">
+      <v-container class="app-right" style="height: 100%;">
         <GameInfo :game="currentGame" :fixed="fixedGame" class="game-card" :reset="reset"></GameInfo>
+        <FSListEntries :jointList="jointList" v-if="jointList"></FSListEntries>
       </v-container>
     </v-layout>
   </v-app>
@@ -63,8 +75,10 @@ import FileSelection from './components/FileSelection';
 import Search from './components/Search';
 import Notification from './components/Notification';
 import FileSearch from './components/FileSearch';
+import FSListEntries from './components/FSListEntries';
 import JsonData from './services/jsonData.service';
 import * as _cloneDeep from 'lodash/cloneDeep';
+import * as _uniq from 'lodash/uniq';
 import { mapMutations } from 'vuex';
 
 export default {
@@ -74,7 +88,8 @@ export default {
     Search,
     FileSelection,
     Notification,
-    FileSearch
+    FileSearch,
+    FSListEntries
   },
   data: () => ({
     selected: null,
@@ -86,7 +101,8 @@ export default {
     fileInfo: null,
     fileType: '',
     pullFileList: 0,
-    searchSource: 'API Search'
+    searchSource: 'API Search',
+    jointList: null
   }),
   created() {
     this.selected = 'games';
@@ -96,7 +112,18 @@ export default {
     snackTime(snack) {
       this.setSnack(snack);
     },
+    getJointList(files) {
+      JsonData.jointList(files)
+        .then(result => {
+          this.jointList = _uniq(result.data);
+        })
+        .catch(error => {
+          console.log('joint list error', error);
+          this.snackTime({ status: 'error', text: 'ERROR FETCHING JOINT LIST!' });
+        });
+    },
     listComplete(status) {
+      this.jointList = null;
       const newStatus = status ? 'yes' : 'no';
       JsonData.markListStatus(this.fileInfo, newStatus)
         .then(result => {
@@ -153,12 +180,13 @@ export default {
     clearGame() {
       this.fixedGame = null;
     },
-    changeGame(next) {
-      if (next) {
-        this.currentIndex++;
-      } else if (this.currentIndex > 0) {
-        this.currentIndex--;
-      }
+    changeGame(amount) {
+      this.currentIndex = this.currentIndex + amount;
+      // if (next) {
+      //   this.currentIndex++;
+      // } else if (this.currentIndex > 0) {
+      //   this.currentIndex--;
+      // }
       this.currentGame = this.currentList[this.currentIndex];
     },
     gameSelected(gameData) {
@@ -176,6 +204,7 @@ export default {
       this.getList(list);
       this.currentIndex = 0;
       this.fixedGame = null;
+      this.jointList = null;
     },
     getList(which) {
       JsonData.getFile(this.fileInfo.filePath)
@@ -202,6 +231,7 @@ export default {
   display: flex;
   justify-content: center;
   width: 100%;
+  height: 100%;
   .game-card {
     margin-bottom: 1rem;
   }

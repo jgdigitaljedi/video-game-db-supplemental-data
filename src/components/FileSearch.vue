@@ -1,28 +1,28 @@
 <template>
   <v-card class="file-search">
     <v-card-title d-flex>Files Search</v-card-title>
-    <v-combobox
-      v-model="selectedFiles"
-      :items="filesList"
-      label="Select Files"
-      multiple
-      item-text="title"
-      return-object
-      hint="Select files to search through"
-      persistent-hint
-    >
-      <!-- <template v-slot:item="data">
-        <span style="color: green;" v-if="data.item.complete">{{data.item.title}}</span>
-        <span style="color: red;" v-if="!data.item.complete">{{data.item.title}}</span>
-      </template>-->
-    </v-combobox>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <v-combobox
+        v-model="selectedFiles"
+        :items="filesList"
+        label="Select Files"
+        multiple
+        item-text="title"
+        return-object
+        hint="Select files to search through"
+        persistent-hint
+      ></v-combobox>
+      <v-btn color="primary" @click="getJointList">
+        <v-icon left>mdi-format-list-bulleted</v-icon>Generate List
+      </v-btn>
+    </div>
     <div class="search-results">
       <div class="search-row">
         <div style="width: 85%;">
           <v-text-field v-model="search" label="Search Text"></v-text-field>
         </div>
         <div>
-          <v-btn color="error" @click.native="runSearch">
+          <v-btn color="accent" @click.native="runSearch">
             <v-icon left>mdi-magnify</v-icon>Search
           </v-btn>
         </div>
@@ -75,8 +75,11 @@ export default {
     snackTime(snack) {
       this.setSnack(snack);
     },
+    getJointList() {
+      this.$emit('jointList', this.selectedFiles);
+    },
     resultSelected() {
-      console.log('resultSelected', this.selectedResult);
+      console.log('resultSelected', this.selectedFiles.filter(f => typeof f !== 'string'));
       const cleaned = {
         igdbId: this.selectedResult.igdbId,
         gbId: this.selectedResult.gbId,
@@ -87,7 +90,9 @@ export default {
       this.$emit('gameData', cleaned);
     },
     runSearch() {
-      JsonData.searchFiles(this.selectedFiles, this.search)
+      console.log('this.selectedFiles', this.selectedFiles);
+      const sf = this.selectedFiles.filter(f => typeof f !== 'string');
+      JsonData.searchFiles(sf, this.search)
         .then(result => {
           if (result && result.data) {
             this.searchResults = result.data;

@@ -45,5 +45,8 @@ export default {
   },
   searchFiles(fileList, searchTerm) {
     return axios.post(`http://localhost:4001/files/searchfiles`, { fileList, searchTerm });
+  },
+  jointList(fileList) {
+    return axios.post(`http://localhost:4001/files/jointlist`, { fileList });
   }
 };

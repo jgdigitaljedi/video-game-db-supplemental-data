@@ -1,47 +1,191 @@
 [
-  { "id": "wlt1", "name": "Avatar: The Last Airbender", "details": "Nintendo Wii launch title" },
-  { "id": "wlt2", "name": "Call of Duty 3", "details": "Nintendo Wii launch title" },
-  { "id": "wlt3", "name": "Cars", "details": "Nintendo Wii launch title" },
+  {
+    "id": "wlt1",
+    "name": "Avatar: The Last Airbender",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 3792,
+    "gbId": 10846,
+    "gbGuid": "3030-10846",
+    "tgdbId": 5000
+  },
+  {
+    "id": "wlt2",
+    "name": "Call of Duty 3",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 949,
+    "gbId": 7524,
+    "gbGuid": "3030-7524",
+    "tgdbId": 4186
+  },
+  {
+    "id": "wlt3",
+    "name": "Cars",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 3849,
+    "gbId": 7158,
+    "gbGuid": "3030-7158",
+    "tgdbId": 5029
+  },
   {
     "id": "wlt4",
     "name": "Dragon Ball Z: Budokai Tenkaichi 2",
-    "details": "Nintendo Wii launch title"
+    "details": "Nintendo Wii launch title",
+    "igdbId": 2252,
+    "gbId": 8789,
+    "gbGuid": "3030-8789",
+    "tgdbId": 5542
   },
-  { "id": "wlt5", "name": "Excite Truck", "details": "Nintendo Wii launch title" },
+  {
+    "id": "wlt5",
+    "name": "Excite Truck",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 2635,
+    "gbId": 13645,
+    "gbGuid": "3030-13645",
+    "tgdbId": 4409
+  },
   {
     "id": "wlt6",
     "name": "The Grim Adventures of Billy & Mandy",
-    "details": "Nintendo Wii launch title"
+    "details": "Nintendo Wii launch title",
+    "igdbId": 2820,
+    "gbId": 21263,
+    "gbGuid": "3030-21263",
+    "tgdbId": 24550
   },
-  { "id": "wlt7", "name": "GT Pro Series", "details": "Nintendo Wii launch title" },
-  { "id": "wlt8", "name": "Happy Feet", "details": "Nintendo Wii launch title" },
+  {
+    "id": "wlt7",
+    "name": "GT Pro Series",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 4899,
+    "gbId": 13535,
+    "gbGuid": "3030-13535",
+    "tgdbId": 4996
+  },
+  {
+    "id": "wlt8",
+    "name": "Happy Feet",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 3940,
+    "gbId": 3821,
+    "gbGuid": "3030-3821",
+    "tgdbId": 4999
+  },
   {
     "id": "wlt9",
     "name": "The Legend of Zelda: Twilight Princess",
-    "details": "Nintendo Wii launch title"
+    "details": "Nintendo Wii launch title",
+    "igdbId": 1036,
+    "gbId": 19467,
+    "gbGuid": "3030-19467",
+    "tgdbId": 109
   },
-  { "id": "wlt10", "name": "Madden NFL 07", "details": "Nintendo Wii launch title" },
-  { "id": "wlt11", "name": "Marvel: Ultimate Alliance", "details": "Nintendo Wii launch title" },
-  { "id": "wlt12", "name": "Monster 4x4 World Circuit", "details": "Nintendo Wii launch title" },
-  { "id": "wlt13", "name": "Need for Speed: Carbon", "details": "Nintendo Wii launch title" },
-  { "id": "wlt14", "name": "Rampage: Total Destruction", "details": "Nintendo Wii launch title" },
-  { "id": "wlt15", "name": "Rayman Raving Rabbids", "details": "Nintendo Wii launch title" },
-  { "id": "wlt16", "name": "Red Steel", "details": "Nintendo Wii launch title" },
+  {
+    "id": "wlt10",
+    "name": "Madden NFL 07",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 4983,
+    "gbId": 16585,
+    "gbGuid": "3030-16585",
+    "tgdbId": 7525
+  },
+  {
+    "id": "wlt11",
+    "name": "Marvel: Ultimate Alliance",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 4999,
+    "gbId": 7527,
+    "gbGuid": "3030-7527",
+    "tgdbId": 905
+  },
+  {
+    "id": "wlt12",
+    "name": "Monster 4x4 World Circuit",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 5014,
+    "gbId": 10170,
+    "gbGuid": "3030-10170",
+    "tgdbId": 53227
+  },
+  {
+    "id": "wlt13",
+    "name": "Need for Speed: Carbon",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 99,
+    "gbId": 8844,
+    "gbGuid": "3030-8844",
+    "tgdbId": 4206
+  },
+  {
+    "id": "wlt14",
+    "name": "Rampage: Total Destruction",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 2634,
+    "gbId": 5390,
+    "gbGuid": "3030-5390",
+    "tgdbId": 4797
+  },
+  {
+    "id": "wlt15",
+    "name": "Rayman Raving Rabbids",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 2277,
+    "gbId": 25606,
+    "gbGuid": "3030-25606",
+    "tgdbId": 2247
+  },
+  {
+    "id": "wlt16",
+    "name": "Red Steel",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 2258,
+    "gbId": 7712,
+    "gbGuid": "3030-7712",
+    "tgdbId": 5345
+  },
   {
     "id": "wlt17",
     "name": "SpongeBob SquarePants: Creature from the Krusty Krab",
-    "details": "Nintendo Wii launch title"
+    "details": "Nintendo Wii launch title",
+    "igdbId": 2772,
+    "gbId": 7975,
+    "gbGuid": "3030-7975",
+    "tgdbId": 3509
   },
   {
     "id": "wlt18",
     "name": "Super Monkey Ball: Banana Blitz",
-    "details": "Nintendo Wii launch title"
+    "details": "Nintendo Wii launch title",
+    "igdbId": 5200,
+    "gbId": 17195,
+    "gbGuid": "3030-17195",
+    "tgdbId": 7726
   },
-  { "id": "wlt19", "name": "Tony Hawk's Downhill Jam", "details": "Nintendo Wii launch title" },
+  {
+    "id": "wlt19",
+    "name": "Tony Hawk's Downhill Jam",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 5231,
+    "gbId": 3631,
+    "gbGuid": "3030-3631",
+    "tgdbId": 7736
+  },
   {
     "id": "wlt20",
     "name": "Trauma Center: Second Opinion",
-    "details": "Nintendo Wii launch title"
+    "details": "Nintendo Wii launch title",
+    "igdbId": 1524,
+    "gbId": 7184,
+    "gbGuid": "3030-7184",
+    "tgdbId": 7737
   },
-  { "id": "wlt21", "name": "Wii Sports", "details": "Nintendo Wii launch title" }
+  {
+    "id": "wlt21",
+    "name": "Wii Sports",
+    "details": "Nintendo Wii launch title",
+    "igdbId": 2181,
+    "gbId": 13328,
+    "gbGuid": "3030-13328",
+    "tgdbId": 3293
+  }
 ]
