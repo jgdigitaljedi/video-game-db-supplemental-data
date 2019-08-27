@@ -1,6 +1,8 @@
 # video-game-db-supplemental-data
 
-The idea here was to create something that can be referenced and used alongside various video game APIs to supplement that data available. As a collector, I like to know which games might not be fully backward compatible with systems that say they are fully backward compatible. In the case of the Xbox generations, I also like to know which games are backward compatible with which Xbox generation because those lists are limited. This is an example of the type of thing I am looking to generate data for with this project and is intended to create JSON files that contain that data and is setup in such a way that it can be used with Giantbomb, IGDB, and TGDB. It's a WIP right now. Also, note that I just dumped in an old UI I built for something similar and have yet to update it to be applicable for the current project. I'm still focused on setup and data collection ATM.
+The idea here was to create something that can be referenced and used alongside various video game APIs to supplement that data available. As a collector, I like to know which games might not be fully backward compatible with systems that say they are fully backward compatible. In the case of the Xbox generations, I also like to know which games are backward compatible with which Xbox generation because those lists are limited. This is an example of the type of thing I am looking to generate data for with this project and is intended to create JSON files that contain that data and is setup in such a way that it can be used with Giantbomb, IGDB, and TGDB. It's a WIP right now. I'm still focused on setup and data collection ATM.
+
+Data is being collected via Wikipedia and other sites so it might not be 100% accurate all the time. Essentially, I create JSON files with some details from various website data; add unique IDs to each entry in the files for my own use; then search Giantbomb, IGDB, and TheGamesDB for their IDs and add those as well. The end result I have in mind is a data set that can be searched using the ID from whatever video game API you choose to use to get some supplemental data. Matching the various API IDs is a lot more solid way to search since I have noticed that each of the APIs has different ways of storing names (different use of capitalization, punctuation, sub-titles, etc).
 
 For now, I'm focused mainly on North American data with some exceptions. I might go back and get the European and Japanese data at some point, but then my data structure is going to have to change. Not a huge deal, but selfishly I want to use this so the NA data is my primary focus right now.
 
@@ -10,7 +12,7 @@ For now, I'm focused mainly on North American data with some exceptions. I might
 
 Really and truthfully, the value of this project will live in the "finalOutput" directory and all else can be ignored. If you want to tinker around with this the run `npm i` and checkout the package.json folder for the npm scripts that can be used.
 
-If you want to contribute, feel free to submit a PR or contact me. If you know of more data you would like to see added I am definitely open to suggestions!
+If you want to contribute, feel free to contact me. If you know of more data you would like to see added I am definitely open to suggestions!
 
 ---
 
@@ -21,7 +23,7 @@ If you want to contribute, feel free to submit a PR or contact me. If you know o
 - "server" contains my Express.js server for the UI that I've built to help me speed up the process of generating this data.
 - "textFilesToBeConverted" contains markdown files with raw data that I've collected. This data gets turned into JSON files and this is just the directory I'm using for the initial data collection via research.
 - "src" contains the Vue.js app that I'm using to to speed up this process.
-- "scripts" contains some Node.js scripts I'm using to parse or merge data.
+- "scripts" contains some Node.js scripts I'm using to parse data, merge data, scrape sites for data, add ids, etc.
 
 ---
 
