@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="file-selection">
-      <v-select
+      <v-combobox
         label="Files"
         v-model="selectedFile"
         return-object
@@ -27,7 +27,7 @@
           v-if="selectedFile && !selectedFile.complete"
           style="color: red;"
         >mdi-close</v-icon>
-      </v-select>
+      </v-combobox>
       <div class="mode-text">
         <h4>Mode: {{selectedFile ? selectedFile.type : 'Not Set'}}</h4>
       </div>

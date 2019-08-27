@@ -28,7 +28,7 @@
             v-model="searchSource"
           ></v-select>
         </v-card>
-        <FileSearch v-if="searchSource === 'Files Search'"></FileSearch>
+        <FileSearch v-if="searchSource === 'Files Search'" v-on:gameData="gameSelected"></FileSearch>
         <Search
           :platform="selected"
           v-on:gameData="gameSelected"

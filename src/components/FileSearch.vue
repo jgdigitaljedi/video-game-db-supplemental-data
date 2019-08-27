@@ -1,14 +1,46 @@
 <template>
   <v-card class="file-search">
     <v-card-title d-flex>Files Search</v-card-title>
-    <v-select
+    <v-combobox
       v-model="selectedFiles"
       :items="filesList"
       label="Select Files"
       multiple
+      item-text="title"
+      return-object
       hint="Select files to search through"
       persistent-hint
-    ></v-select>
+    >
+      <!-- <template v-slot:item="data">
+        <span style="color: green;" v-if="data.item.complete">{{data.item.title}}</span>
+        <span style="color: red;" v-if="!data.item.complete">{{data.item.title}}</span>
+      </template>-->
+    </v-combobox>
+    <div class="search-results">
+      <div class="search-row">
+        <div style="width: 85%;">
+          <v-text-field v-model="search" label="Search Text"></v-text-field>
+        </div>
+        <div>
+          <v-btn color="error" @click.native="runSearch">
+            <v-icon left>mdi-magnify</v-icon>Search
+          </v-btn>
+        </div>
+      </div>
+      <div class="search-row">
+        <v-select
+          label="File Search Results"
+          v-model="selectedResult"
+          :items="searchResults"
+          :loading="isLoading"
+          item-text="name"
+          color="white"
+          hide-no-data
+          return-object
+          @change="resultSelected"
+        ></v-select>
+      </div>
+    </div>
   </v-card>
 </template>
 
@@ -20,14 +52,19 @@ export default {
   name: 'FileSearch',
   data() {
     return {
-      selectedFiles: null,
-      filesList: null
+      selectedFiles: [],
+      filesList: [],
+      search: '',
+      isLoading: false,
+      selectedResult: null,
+      searchResults: []
     };
   },
   created() {
     JsonData.getFile('static/fileInfoList.json')
       .then(result => {
-        this.fileList - result.data;
+        console.log('filSearch result', result);
+        this.filesList = result.data;
       })
       .catch(error => {
         console.log('file list ERROR', error);
@@ -37,6 +74,29 @@ export default {
   methods: {
     snackTime(snack) {
       this.setSnack(snack);
+    },
+    resultSelected() {
+      console.log('resultSelected', this.selectedResult);
+      const cleaned = {
+        igdbId: this.selectedResult.igdbId,
+        gbId: this.selectedResult.gbId,
+        gbGuid: this.selectedResult.gbGuid,
+        tgdbId: this.selectedResult.tgdbId,
+        name: this.selectedResult.name
+      };
+      this.$emit('gameData', cleaned);
+    },
+    runSearch() {
+      JsonData.searchFiles(this.selectedFiles, this.search)
+        .then(result => {
+          if (result && result.data) {
+            this.searchResults = result.data;
+          }
+        })
+        .catch(error => {
+          console.log('file search error', error);
+          this.snackTime({ status: 'error', text: 'ERROR SEARCHING THROUGH FILES!' });
+        });
     },
     ...mapMutations({
       setSnack: 'setSnack'
@@ -48,5 +108,13 @@ export default {
 <style lang="scss">
 .file-search {
   padding: 1rem;
+  .search-results {
+    // padding: 2rem;
+    .search-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
 }
 </style>

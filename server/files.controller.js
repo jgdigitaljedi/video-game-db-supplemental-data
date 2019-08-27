@@ -121,13 +121,15 @@ router.post('/searchfiles', async (req, res) => {
     try {
       const list = req.body.fileList;
       const promiseArr = list.map((file, index) => {
-        return getJsonFile(file);
+        return getJsonFile(file.filePath);
       });
       Promise.all(promiseArr)
         .then(results => {
           const fullListArr = results.map(r => JSON.parse(r));
           const flattened = [].concat.apply([], fullListArr);
-          const final = flattened.filter(item => item.name.toLowerCase().indexOf(req.body.searchTerm.toLowerCase()) >= 0);
+          const final = flattened.filter(
+            item => item.name.toLowerCase().indexOf(req.body.searchTerm.toLowerCase()) >= 0
+          );
           res.json(final);
         })
         .catch(error => {
@@ -135,6 +137,7 @@ router.post('/searchfiles', async (req, res) => {
           console.log('promise arr error', error);
         });
     } catch (error) {
+      console.log('searchfiles error', error);
       res.status(500).json({ error: true, message: 'ERROR FETCHING FILE LIST DATA!', code: error });
     }
   } else {

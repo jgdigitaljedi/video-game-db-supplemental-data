@@ -1,103 +1,263 @@
 [
-  { "id": "pvlt1", "name": "Army Corps of Hell", "details": "Sony PlayStation Vita launch title" },
-  { "id": "pvlt2", "name": "Asphalt: Injection", "details": "Sony PlayStation Vita launch title" },
+  {
+    "id": "pvlt1",
+    "name": "Army Corps of Hell",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 8643,
+    "gbId": 36416,
+    "gbGuid": "3030-36416",
+    "tgdbId": 12552
+  },
+  {
+    "id": "pvlt2",
+    "name": "Asphalt: Injection",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 8646,
+    "gbId": 36167,
+    "gbGuid": "3030-36167",
+    "tgdbId": 13285
+  },
   {
     "id": "pvlt3",
-    "name": "Augmented Reality – Cliff Diving",
-    "details": "Sony PlayStation Vita launch title"
+    "name": "Cliff Diving",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 52158,
+    "gbId": 40351,
+    "gbGuid": "3030-40351",
+    "tgdbId": null
   },
   {
     "id": "pvlt4",
-    "name": "Augmented Reality – Fireworks",
-    "details": "Sony PlayStation Vita launch title"
+    "name": "Fireworks",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 78085,
+    "gbId": 40352,
+    "gbGuid": "3030-40352",
+    "tgdbId": 61437
   },
   {
     "id": "pvlt5",
-    "name": "Augmented Reality – Table Soccer",
-    "details": "Sony PlayStation Vita launch title"
+    "name": "Table Soccer",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 94130,
+    "gbId": 40349,
+    "gbGuid": "3030-40349",
+    "tgdbId": null
   },
   {
     "id": "pvlt6",
     "name": "Ben 10: Galactic Racing",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 2806,
+    "gbId": 35943,
+    "gbGuid": "3030-35943",
+    "tgdbId": 13161
   },
   {
     "id": "pvlt7",
-    "name": "BlazBlue: Continuum Shift Extend",
-    "details": "Sony PlayStation Vita launch title"
+    "name": "BlazBlue: Continuum Shift EXTEND",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 6920,
+    "gbId": 36253,
+    "gbGuid": "3030-36253",
+    "tgdbId": 61324
   },
   {
     "id": "pvlt8",
     "name": "Dungeon Hunter: Alliance",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 21140,
+    "gbId": 28868,
+    "gbGuid": "3030-28868",
+    "tgdbId": 12555
   },
   {
     "id": "pvlt9",
     "name": "Dynasty Warriors Next",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 19267,
+    "gbId": 37019,
+    "gbGuid": "3030-37019",
+    "tgdbId": 13279
   },
-  { "id": "pvlt10", "name": "Escape Plan", "details": "Sony PlayStation Vita launch title" },
-  { "id": "pvlt11", "name": "F1 2011", "details": "Sony PlayStation Vita launch title" },
-  { "id": "pvlt12", "name": "FIFA Soccer", "details": "Sony PlayStation Vita launch title" },
+  {
+    "id": "pvlt10",
+    "name": "Escape Plan",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 18371,
+    "gbId": 36153,
+    "gbGuid": "3030-36153",
+    "tgdbId": 11741
+  },
+  {
+    "id": "pvlt11",
+    "name": "F1 2011",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 1374,
+    "gbId": 34542,
+    "gbGuid": "3030-34542",
+    "tgdbId": 7710
+  },
+  {
+    "id": "pvlt12",
+    "name": "FIFA Soccer",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 21722,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 13282
+  },
   {
     "id": "pvlt13",
     "name": "Hot Shots Golf: World Invitational",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": null,
+    "gbId": 35579,
+    "gbGuid": "3030-35579",
+    "tgdbId": 12577
   },
-  { "id": "pvlt14", "name": "Hustle Kings", "details": "Sony PlayStation Vita launch title" },
-  { "id": "pvlt15", "name": "Little Deviants", "details": "Sony PlayStation Vita launch title" },
+  {
+    "id": "pvlt14",
+    "name": "Hustle Kings",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 52232,
+    "gbId": 26871,
+    "gbGuid": "3030-26871",
+    "tgdbId": 63167
+  },
+  {
+    "id": "pvlt15",
+    "name": "Little Deviants",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 20736,
+    "gbId": 34022,
+    "gbGuid": "3030-34022",
+    "tgdbId": 9238
+  },
   {
     "id": "pvlt16",
-    "name": "Lumines Electronic Symphony",
-    "details": "Sony PlayStation Vita launch title"
+    "name": "Lumines: Electronic Symphony",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 4693,
+    "gbId": 36359,
+    "gbGuid": "3030-36359",
+    "tgdbId": 12425
   },
   {
     "id": "pvlt17",
-    "name": "Michael Jackson: The Experience HD",
-    "details": "Sony PlayStation Vita launch title"
+    "name": "Michael Jackson The Experience HD",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 5006,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 13319
   },
   {
     "id": "pvlt18",
     "name": "ModNation Racers: Road Trip",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 22882,
+    "gbId": 35561,
+    "gbGuid": "3030-35561",
+    "tgdbId": 9239
   },
   {
     "id": "pvlt19",
     "name": "Ninja Gaiden Sigma Plus",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 21569,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 12429
   },
-  { "id": "pvlt20", "name": "Plants vs. Zombies", "details": "Sony PlayStation Vita launch title" },
-  { "id": "pvlt21", "name": "Rayman Origins", "details": "Sony PlayStation Vita launch title" },
+  {
+    "id": "pvlt20",
+    "name": "Plants vs. Zombies",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 1277,
+    "gbId": 25709,
+    "gbGuid": "3030-25709",
+    "tgdbId": 11394
+  },
+  {
+    "id": "pvlt21",
+    "name": "Rayman Origins",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 981,
+    "gbId": 31721,
+    "gbGuid": "3030-31721",
+    "tgdbId": 8300
+  },
   {
     "id": "pvlt22",
     "name": "Shinobido 2: Revenge of Zen",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 10900,
+    "gbId": 35565,
+    "gbGuid": "3030-35565",
+    "tgdbId": 12444
   },
   {
     "id": "pvlt23",
     "name": "Super Stardust Delta",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 42694,
+    "gbId": 35502,
+    "gbGuid": "3030-35502",
+    "tgdbId": 23597
   },
   {
     "id": "pvlt24",
     "name": "Tales from Space: Mutant Blobs Attack",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 5893,
+    "gbId": 36298,
+    "gbGuid": "3030-36298",
+    "tgdbId": 22557
   },
-  { "id": "pvlt25", "name": "Touch My Katamari", "details": "Sony PlayStation Vita launch title" },
+  {
+    "id": "pvlt25",
+    "name": "Touch My Katamari",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 6462,
+    "gbId": 36424,
+    "gbGuid": "3030-36424",
+    "tgdbId": 12557
+  },
   {
     "id": "pvlt26",
-    "name": "Ultimate Marvel vs. Capcom 3",
-    "details": "Sony PlayStation Vita launch title"
+    "name": "Ultimate Marvel Vs. Capcom 3",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 2066,
+    "gbId": 35938,
+    "gbGuid": "3030-35938",
+    "tgdbId": 12462
   },
   {
     "id": "pvlt27",
     "name": "Uncharted: Golden Abyss",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 998,
+    "gbId": 34017,
+    "gbGuid": "3030-34017",
+    "tgdbId": 9241
   },
   {
     "id": "pvlt28",
     "name": "Virtua Tennis 4: World Tour Edition",
-    "details": "Sony PlayStation Vita launch title"
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 42707,
+    "gbId": 32369,
+    "gbGuid": "3030-32369",
+    "tgdbId": 13315
   },
-  { "id": "pvlt29", "name": "Wipeout 2048", "details": "Sony PlayStation Vita launch title" }
+  {
+    "id": "pvlt29",
+    "name": "Wipeout 2048",
+    "details": "Sony PlayStation Vita launch title",
+    "igdbId": 1545,
+    "gbId": 35496,
+    "gbGuid": "3030-35496",
+    "tgdbId": 3924
+  }
 ]
