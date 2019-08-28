@@ -6,9 +6,9 @@
     </v-btn>
     <div class="game-info">
       <h4>Old</h4>
-      <pre>{{game ? game : ''}}</pre>
+      <pre :class="isComplete(game) ? 'complete-item' : ''">{{game ? game : ''}}</pre>
       <div class="game-fixed" v-if="fixed">
-        <h4>New</h4>
+        <h4 style="color: yellow;">New</h4>
         <pre class="game-revisions">{{fixed ? fixed : ''}}</pre>
       </div>
       <div class="section-complete" v-if="!game">You reached the end of the list!</div>
@@ -27,6 +27,16 @@ export default {
     reset: null
   },
   methods: {
+    isComplete(item) {
+      return (
+        item &&
+        item.hasOwnProperty('igdbId') &&
+        item.hasOwnProperty('tgdbId') &&
+        item.hasOwnProperty('gbId') &&
+        item.hasOwnProperty('gbGuid') &&
+        item.name
+      );
+    },
     copyName() {
       this.setCurrentName(this.game.name ? this.game.name : this.game.title);
     },
@@ -42,6 +52,9 @@ export default {
   padding: 0 2rem 2rem 2rem;
   pre {
     white-space: pre-wrap;
+    &.complete-item {
+      color: cyan;
+    }
   }
   .game-fixed {
     margin-top: 1rem;

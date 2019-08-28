@@ -325,15 +325,15 @@
   },
   {
     "title": "Philips CD-i Launch Titles",
-    "filePath": "../textFilesToBeConverted/launchTitlescdiLaunchTitles.json",
+    "filePath": "../textFilesToBeConverted/launchTitles/cdiLaunchTitles.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "ColecoVision Launch Titles",
     "filePath": "../textFilesToBeConverted/launchTitles/colecoVisionLaunchTitles.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Sega Dreamcast Launch Titles",
