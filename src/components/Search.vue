@@ -81,7 +81,8 @@ export default {
     platform: null,
     reset: null,
     fileType: null,
-    currentGame: null
+    currentGame: null,
+    fuzzyList: false
   },
   data: () => ({
     igdbGames: null,
@@ -103,6 +104,8 @@ export default {
     readyForSave: false
   }),
   created() {
+    this.fuzzy = !!this.fuzzyList;
+    console.log('this.fuzzyList', this.fuzzyList);
     JsonData.getMasterPlatforms()
       .then(result => {
         console.log('platforms result', result);
@@ -325,7 +328,10 @@ export default {
       this.runIgdb = true;
       this.runGb = true;
       this.runTgdb = true;
-      this.fuzzy = false;
+      this.fuzzy = !!this.fuzzyList;
+    },
+    fuzzyList: function(val) {
+      this.fuzzy = !!val;
     }
   }
 };

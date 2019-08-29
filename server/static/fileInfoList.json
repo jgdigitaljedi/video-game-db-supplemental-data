@@ -544,5 +544,12 @@
     "filePath": "../textFilesToBeConverted/launchTitles/xboxOneLaunchTitles.json",
     "type": "Game",
     "complete": false
+  },
+  {
+    "title": "Games banned across the world",
+    "filePath": "../textFilesToBeConverted/special/bannedInternationally.json",
+    "type": "Game",
+    "complete": false,
+    "fuzzy": true
   }
 ]

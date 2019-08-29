@@ -48,6 +48,7 @@
           v-on:fuzzyToggle="fuzzyToggled"
           :fileType="fileType"
           :currentGame="currentGame"
+          :fuzzyList="fileInfo ? fileInfo.fuzzy : false"
           v-if="searchSource === 'API Search'"
         ></Search>
         <v-card class="save-game">

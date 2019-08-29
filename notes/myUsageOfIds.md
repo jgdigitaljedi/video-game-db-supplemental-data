@@ -64,6 +64,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 ### Special/Misc
 
+- biX - game banned in various countries (bannedInternationally.json) | GAMES LIST
 - gbbgX - Genesis black box grid games (blackBoxGridGenesisGames.json) | GAMES LIST
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST
 
