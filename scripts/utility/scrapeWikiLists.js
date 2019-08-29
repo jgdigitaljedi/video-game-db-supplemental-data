@@ -3,9 +3,10 @@ const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
 
-const siteUrl = 'https://en.wikipedia.org/wiki/Category:TurboGrafx-CD-only_games';
-const filePath = '../../textFilesToBeConverted/platformExclusives/turbografxCdExclusives.json';
-const platform = 'NEC Turbografx CD';
+const siteUrl =
+  'https://en.wikipedia.org/w/index.php?title=Category:Nintendo_3DS-only_games&pagefrom=Touch+Detective+Rising+3#mw-pages';
+const filePath = '../../textFilesToBeConverted/platformExclusives/nintendo3ds2Exclusives.json';
+const platform = 'Nintendo 3DS';
 const digitalText = '';
 
 function makeRequest(url) {

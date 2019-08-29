@@ -1,6 +1,5 @@
 # Ideas I have yet to pursue
 
-- console exclusives
 - console variants
 - more in-depth console versions
 - region free consoles list (even like PS3 with a couple exceptions)

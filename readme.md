@@ -65,3 +65,116 @@ I'm still gathering data and working out the data structures. To build this out,
 2. Combine as many JSON files as makes sense via scripts to create master lists
 3. Possibly grab a domain and a server and chunk this up somewhere as a fully built out API. That or make it into a npm module or something. I can figure this out later as it will be usable even as just a public GitHub repo.
 4. Integrate into my existing video game projects (most of which are private for now).
+
+---
+
+## Data Being Collected
+
+I've been scouring the web for unique data points and will continue to do so. Here's the data I've scraped thus far:
+
+### Console/Platform launch titles
+
+- Atari 2600
+- Atari 5200
+- Atari 7800
+- Atari Jaguar
+- Atari Jaguar CD
+- Atari Lynx
+- Bally Astrocade
+- ColecoVision
+- Game.com
+- Gizmondo
+- Mattel Intellivision
+- Microsoft Xbox
+- Microsoft Xbox 360
+- Microsoft Xbox One
+- NEC Turbografx 16
+- NEC Turbografx CD
+- Neo Geo Pocket Color
+- Nintendo 64
+- Nintendo DS
+- Nintendo Entertainment System
+- Nintendo Game Boy
+- Nintendo Game Boy Advance
+- Nintendo Game Boy Color
+- Nintendo GameCube
+- Nintendo Switch
+- Nintendo Virtual Boy
+- Nintendo Wii
+- Nintendo Wii U
+- Nokia N-Gage
+- Philips CD-i
+- Sega 32x
+- Sega CD
+- Sega Dreamcast
+- Sega Game Gear
+- Sega Genesis
+- Sega Master System
+- Sega Saturn
+- Sony PlayStation
+- Sony PlayStation 2
+- Sony PlayStation 3
+- Sony PlayStation 4
+- Sony PlayStation Portable
+- Sony PlayStation Vita
+- Super Nintendo Entertainment System
+
+### Console/Platform Exclusives
+
+- 3do Interactive Multiplayer
+- Amiga
+- Atari 2600
+- Atari 7800
+- Atari Jaguar
+- Atari Lynx
+- ColecoVision
+- Mattel Intellivision
+- Microsoft Xbox
+- Microsoft Xbox 360
+- Microsoft Xbox One
+- NEC Turbografx 16
+- NEC Turbografx CD
+- Nintendo 3DS
+- Nintendo 64
+- Nintendo DS
+- Nintendo Entertainment System
+- Nintendo Famicom Disk System
+- Nintendo Game Boy
+- Nintendo Game Boy Advance
+- Nintendo Game Boy Color
+- Nintendo GameCube
+- Nintendo Switch
+- Nintendo Wii
+- Nintendo Wii U
+- Sega 32x
+- Sega CD
+- Sega Dreamcast
+- Sega Game Gear
+- Sega Genesis
+- Sega Master System
+- Sega Saturn
+- Sony PlayStation
+- Sony PlayStation 2
+- Sony PlayStation 3
+- Sony PlayStation 4
+- Sony PlayStation Portable
+- Sony PlayStation Vita
+- Super Nintendo Entertainment System
+
+### Console/Platform Region Lock Info
+
+- platforms/consoles that are region free
+- PS3 games that aren't region free (the PS3 games are region free with a couple of exceptions)
+
+### Special
+
+- Sega Genesis Black Box Grid games
+- Nintendo Black Box games
+
+### Backward Compatibility
+
+- PS1 games that don't work properly on the various PS2 models
+- Game Boy and Game Boy Color games that don't work properly on the Game Boy Advance
+- Xbox games that work on the Xbox 360
+- Xbox games that work on the Xbox One
+- Xbox 360 games that work on the Xbox One

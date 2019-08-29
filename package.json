@@ -11,7 +11,8 @@
     "start": "nodemon server/server.js & npm run serve",
     "ids": "node scripts/utility/incrementIdsForJson",
     "scrape:gematsu": "node scripts/utility/scrapeGematsu.js",
-    "scrape:wiki": "node scripts/utility/scrapeWikiLists.js"
+    "scrape:wiki": "node scripts/utility/scrapeWikiLists.js",
+    "scrape:wiki:tables": "node scripts/utility/wikiScrapeTables.js"
   },
   "repository": {
     "type": "git",

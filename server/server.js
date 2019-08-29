@@ -23,4 +23,4 @@ app.use((req, res) => {
   // next(err);
 });
 
-app.listen(port, () => console.log(chalk.cyan(`app listening on port ${port}!`)));
+app.listen(port, () => console.log(chalk.cyan(`server listening on port ${port}!`)));

@@ -70,11 +70,14 @@ I simply chose a prefix for each list then slap a number on the end to different
 ### Platform Exclusives
 
 - 3doexX - 3do console exclusives (3doExclusives.json | GAMES LIST)
+- 3dsexX - Nintendo 3DS console exclusives (nintendo3dsExclusives.json | GAMES LIST)
 - a26exX - Atari 2600 console exclusives (atari2600Exclusives.json | GAMES LIST)
 - a78exX - Atari 7800 console exclusives (atari7800Exclusives.json | GAMES LIST)
 - ajexX - Atari Jaguar console exclusives (atariJaguarExclusives.json | GAMES LIST)
 - alexX - Atari Lynx console exclusives (atariLynxExclusives.json | GAMES LIST)
+- amexX - Amiga console exclusives (amigaExclusives.json | GAMES LIST)
 - cvexX - ColecoVision console exclusives (colecovisionExclusives.json | GAMES LIST)
+- fdsexX - Famicom Disk System console exclusives (famicomDiskSystemExclusives.json | GAMES LIST)
 - gcexX - Nintendo GameCube console exclusives (gamecubeExclusives.json | GAMES LIST)
 - ivexX - Mattel Intellivision console exclusives (intellivisionExclusives.json | GAMES LIST)
 - n3dsexX - Nintendo 3ds console exclusives (nintendo3dsExclusives.json | GAMES LIST)
