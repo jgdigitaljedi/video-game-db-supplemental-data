@@ -170,6 +170,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 
 - Sega Genesis Black Box Grid games
 - Nintendo Black Box games
+- games banned in various countries with the reason for the ban
 
 ### Backward Compatibility
 
