@@ -11,6 +11,7 @@
         item-text="title"
         class="file-select"
         v-on:change="emitType(selectedFile)"
+        autocomplete="off"
       >
         <template v-slot:item="data">
           <v-icon left color="green" v-if="data.item.complete">mdi-check</v-icon>

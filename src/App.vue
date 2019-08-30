@@ -31,7 +31,7 @@
         <v-card class="game-card" style="padding: 1rem;">
           <v-select
             label="Search Source"
-            :items="['API Search', 'Files Search']"
+            :items="['API Search', 'Files Search', 'Consoles List Search']"
             v-model="searchSource"
           ></v-select>
         </v-card>
@@ -40,6 +40,7 @@
           v-on:gameData="gameSelected"
           v-on:jointList="getJointList"
         ></FileSearch>
+        <ConsolesSearch v-if="searchSource === 'Consoles List Search'" :currentList="currentList"></ConsolesSearch>
         <Search
           :platform="selected"
           v-on:gameData="gameSelected"
@@ -77,6 +78,7 @@ import Search from './components/Search';
 import Notification from './components/Notification';
 import FileSearch from './components/FileSearch';
 import FSListEntries from './components/FSListEntries';
+import ConsolesSearch from './components/ConsolesListSearch';
 import JsonData from './services/jsonData.service';
 import * as _cloneDeep from 'lodash/cloneDeep';
 import * as _uniq from 'lodash/uniq';
@@ -90,7 +92,8 @@ export default {
     FileSelection,
     Notification,
     FileSearch,
-    FSListEntries
+    FSListEntries,
+    ConsolesSearch
   },
   data: () => ({
     selected: null,
