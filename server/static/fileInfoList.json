@@ -243,7 +243,7 @@
     "title": "Atari Jaguar Exclusives",
     "filePath": "../textFilesToBeConverted/platformExclusives/atariJaguarExclusives.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Atari Lynx Exclusives",
@@ -549,7 +549,7 @@
     "title": "Games banned across the world",
     "filePath": "../textFilesToBeConverted/special/bannedInternationally.json",
     "type": "Game",
-    "complete": false,
+    "complete": true,
     "fuzzy": true
   }
 ]
