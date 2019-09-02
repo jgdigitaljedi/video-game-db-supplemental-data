@@ -8,3 +8,4 @@
   - Nintendo - Players' Choice
   - Microsoft - Platinum Hits
 - special edition games
+- consoles that can play burned discs
