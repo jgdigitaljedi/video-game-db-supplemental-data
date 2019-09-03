@@ -59,7 +59,9 @@ async function checkFileForApiInfo(file) {
   console.log(chalk.yellow.bold(`TheGamesDB: ${tgdb}`));
   console.log(chalk.magenta.bold(`Giantbomb: ${gb}`));
   const rm = await fileUtil.readFile('../../readme.md');
-  const modified = `${rm}\nOut of ${total} data points collected so far, the APIs are missing data the following number of items:\n- IGDB: ${igdb}\n- TheGamesDB: ${tgdb}\n- Giantbomb: ${gb}`;
+  const statsRemoved = rm.split('\n')
+  statsRemoved.splice(-4, 4);
+  const modified = `${statsRemoved.join('\n')}\nOut of ${total} data points collected so far, the APIs are missing data the following number of items:\n- IGDB: ${igdb}\n- TheGamesDB: ${tgdb}\n- Giantbomb: ${gb}`;
   fs.writeFile(path.join(__dirname, '../../readme.md'), modified, error => {
     if (error) {
       console.log(chalk.red.bold(`ERROR WRITING TO README: ${error}`));
