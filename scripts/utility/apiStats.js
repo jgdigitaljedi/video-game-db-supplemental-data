@@ -1,3 +1,4 @@
+// checks completed files to see what data points are missing
 const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 const fs = require('fs');
