@@ -191,8 +191,6 @@ ___
 
 ### Stats
 
-Just for comparison sake, I have a little node script that runs through the files marked as 'complete' and gives me some stats.
-
 Out of 1426 data points collected so far, the APIs are missing data the following number of items:
 - IGDB: 60
 - TheGamesDB: 59
