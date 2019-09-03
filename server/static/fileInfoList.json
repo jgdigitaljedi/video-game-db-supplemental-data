@@ -117,7 +117,7 @@
     "title": "NEC Turbografx CD Exclusives",
     "filePath": "../textFilesToBeConverted/platformExclusives/turbografxCdExclusives.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Microsoft Xbox Exclusives",
@@ -154,6 +154,12 @@
     "filePath": "../textFilesToBeConverted/platformExclusives/nintendoWiiExclusives.json",
     "type": "Game",
     "complete": false
+  },
+  {
+    "title": "Nintendo Famicom Disk System Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/famicomDiskSystemExclusives.json",
+    "type": "Game",
+    "complete": true
   },
   {
     "title": "Nintendo Game Boy Exclusives",
@@ -226,6 +232,12 @@
     "filePath": "../textFilesToBeConverted/platformExclusives/3doExclusives.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Amiga Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/amigaExclusives.json",
+    "type": "Game",
+    "complete": false
   },
   {
     "title": "Atari 2600 Exclusives",

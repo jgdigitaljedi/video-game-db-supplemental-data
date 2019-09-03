@@ -37,13 +37,6 @@ function fuzzyApiSearch(name) {
     .request('/games');
 }
 
-// function getPlatform(str) {
-//   if (str === 'Xb360ToXbOne') {
-//     return 12;
-//   }
-//   return 11;
-// }
-
 function platformSearch(platform) {
   return apicalypse(platformOptions)
     .fields(`name,id`)
