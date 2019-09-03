@@ -186,3 +186,9 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Xbox games that work on the Xbox 360
 - Xbox games that work on the Xbox One
 - Xbox 360 games that work on the Xbox One
+
+___
+
+### Stats
+
+Just for comparison sake, I have a little node script that runs through the files marked as 'complete' and gives me some stats.

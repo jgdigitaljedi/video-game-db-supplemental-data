@@ -9,3 +9,4 @@
   - Microsoft - Platinum Hits
 - special edition games
 - consoles that can play burned discs
+- ps1 longbox games

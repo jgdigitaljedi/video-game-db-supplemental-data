@@ -1,5 +1,7 @@
 const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
+const fs = require('fs');
+const path = require('path');
 
 const masterList = '../../server/static/fileInfoList.json';
 let igdb = 0;
@@ -39,7 +41,7 @@ async function checkFileForApiInfo(file) {
   });
 }
 
-(async function() {
+(async function () {
   const master = await fileUtil.readFile(masterList);
   const pMaster = JSON.parse(master);
   for (const file of pMaster) {
@@ -55,4 +57,13 @@ async function checkFileForApiInfo(file) {
   console.log(chalk.green.bold(`IGDB: ${igdb}`));
   console.log(chalk.yellow.bold(`TheGamesDB: ${tgdb}`));
   console.log(chalk.magenta.bold(`Giantbomb: ${gb}`));
+  const rm = await fileUtil.readFile('../../readme.md');
+  const modified = `${rm}\nOut of ${total} data points collected so far, the APIs are missing data the following number of items:\n- IGDB: ${igdb}\n- TheGamesDB: ${tgdb}\n- Giantbomb: ${gb}`;
+  fs.writeFile(path.join(__dirname, '../../readme.md'), modified, error => {
+    if (error) {
+      console.log(chalk.red.bold(`ERROR WRITING TO README: ${error}`));
+    } else {
+      console.log(chalk.cyan.bold('Wrote stats to readme.md!'));
+    }
+  });
 })();
