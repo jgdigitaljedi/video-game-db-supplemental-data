@@ -2,9 +2,12 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change
-const filesArr = [];
-const mlId = '';
-const outPath = '../../finalOutput/consoleLists/microsoftXbox.json';
+const filesArr = [
+  '../../finalOutput/smallFiles/launchTitles/nesLaunchTitles.json',
+  '../../finalOutput/smallFiles/special/nesBlackBoxTitles.json'
+];
+const mlId = 'ccl1';
+const outPath = '../../finalOutput/consoleLists/nintendoEntertainmentSystem.json';
 
 (async function() {
   const final = [];
