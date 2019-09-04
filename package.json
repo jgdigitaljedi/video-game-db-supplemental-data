@@ -13,7 +13,8 @@
     "scrape:gematsu": "node scripts/utility/scrapeGematsu.js",
     "scrape:wiki": "node scripts/utility/scrapeWikiLists.js",
     "scrape:wiki:tables": "node scripts/utility/wikiScrapeTables.js",
-    "stats": "node scripts/utility/apiStats.js"
+    "stats": "node scripts/utility/apiStats.js",
+    "console:list": "node scripts/utility/makeConsoleSpecificMasterList.js"
   },
   "repository": {
     "type": "git",
