@@ -201,7 +201,7 @@ ___
 
 ### Stats
 
-Out of 1426 data points collected so far, the APIs are missing data the following number of items:
-- IGDB: 60
-- TheGamesDB: 59
-- Giantbomb: 90
+Out of 1885 data points collected so far, the APIs are missing data the following number of items:
+- IGDB: 50
+- TheGamesDB: 53
+- Giantbomb: 102

@@ -30,11 +30,13 @@ router.post('/gamelookup', async (req, res) => {
           }
         })
         .catch(error => {
+          console.log('tgdb game error', error);
           res
             .status(500)
             .json({ error: true, message: 'ERROR FETCHING GAME FROM THEGAMESDB!', code: error });
         });
     } catch (error) {
+      console.log('tgdb game error', error);
       res
         .status(500)
         .json({ error: true, message: 'ERROR FETCHING GAME FROM THEGAMESDB!', code: error });

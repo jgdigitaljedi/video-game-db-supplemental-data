@@ -16,10 +16,10 @@ const outPath = '../../finalOutput/consoleLists/nintendoEntertainmentSystem.json
 const idPrefix = 'nes';
 
 function makeCombinedId(item) {
-  return `${item.igdbId}-${item.tgdbId}-${item.gbId}`
+  return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
 }
 
-(async function () {
+(async function() {
   const final = [];
   const masterList = await fileUtil.readFile('../../server/static/consoleMasterList.json');
   const platformData = JSON.parse(masterList).filter(item => item.id === mlId)[0];
@@ -53,13 +53,18 @@ function makeCombinedId(item) {
   const names = withNewIds.map(i => i.name);
   const unique = _uniq(names);
   if (names.length !== unique.length) {
-    console.log(chalk.red.bold(`YOU HAVE SOME DUPLICATES TO LOOK AT MANUALLY! The arrays had a difference of ${names.length - unique.length} items!`))
+    console.log(
+      chalk.red.bold(
+        `YOU HAVE SOME DUPLICATES TO LOOK AT MANUALLY! The arrays had a difference of ${names.length -
+          unique.length} items!`
+      )
+    );
   }
   fs.writeFile(path.join(__dirname, outPath), JSON.stringify(withNewIds, null, 2), error => {
     if (error) {
       console.log(chalk.red.bold('ERROR WRITING OUTPUT FILE!', error));
     } else {
-      console.log(chalk.green.bold('File written!'))
+      console.log(chalk.green.bold('File written!'));
     }
   });
 })();
