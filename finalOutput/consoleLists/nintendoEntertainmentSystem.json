@@ -13,6 +13,276 @@
   },
   {
     "id": "nes1",
+    "name": "4 Nin Uchi Mahjong",
+    "details": "NES exclusive game",
+    "igdbId": 93369,
+    "gbId": 5055,
+    "gbGuid": "3030-5055",
+    "tgdbId": 26384
+  },
+  {
+    "id": "nes2",
+    "name": "8 Eyes",
+    "details": "NES exclusive game",
+    "igdbId": 1975,
+    "gbId": 10808,
+    "gbGuid": "3030-10808",
+    "tgdbId": 316
+  },
+  {
+    "id": "nes3",
+    "name": "A Nightmare on Elm Street",
+    "details": "NES exclusive game",
+    "igdbId": 40935,
+    "gbId": 11827,
+    "gbGuid": "3030-11827",
+    "tgdbId": 1019
+  },
+  {
+    "id": "nes4",
+    "name": "Abadox: The Deadly Inner War",
+    "details": "NES exclusive game",
+    "igdbId": 7903,
+    "gbId": 2764,
+    "gbGuid": "3030-2764",
+    "tgdbId": 1501
+  },
+  {
+    "id": "nes5",
+    "name": "Adventures in the Magic Kingdom",
+    "details": "NES exclusive game",
+    "igdbId": 8130,
+    "gbId": 8733,
+    "gbGuid": "3030-8733",
+    "tgdbId": 1024
+  },
+  {
+    "id": "nes6",
+    "name": "Adventures of Dino Riki",
+    "details": "NES exclusive game",
+    "igdbId": 8741,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 1511
+  },
+  {
+    "id": "nes7",
+    "name": "Adventures of Lolo 3",
+    "details": "NES exclusive game",
+    "igdbId": 7547,
+    "gbId": 4529,
+    "gbGuid": "3030-4529",
+    "tgdbId": 1025
+  },
+  {
+    "id": "nes8",
+    "name": "Adventures of Tom Sawyer",
+    "details": "NES exclusive game",
+    "igdbId": 48109,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes9",
+    "name": "Air Fortress",
+    "details": "NES exclusive game",
+    "igdbId": 8791,
+    "gbId": 4526,
+    "gbGuid": "3030-4526",
+    "tgdbId": 1373
+  },
+  {
+    "id": "nes10",
+    "name": "Airwolf",
+    "details": "NES exclusive game",
+    "igdbId": 8848,
+    "gbId": 4050,
+    "gbGuid": "3030-4050",
+    "tgdbId": 329
+  },
+  {
+    "id": "nes11",
+    "name": "Akira",
+    "details": "NES exclusive game",
+    "igdbId": 2340,
+    "gbId": 13551,
+    "gbGuid": "3030-13551",
+    "tgdbId": 24826
+  },
+  {
+    "id": "nes12",
+    "name": "Akuma-kun: Makai no Wana",
+    "details": "NES exclusive game",
+    "igdbId": 48605,
+    "gbId": 10254,
+    "gbGuid": "3030-10254",
+    "tgdbId": 26387
+  },
+  {
+    "id": "nes13",
+    "name": "Al Unser Jr. Turbo Racing",
+    "details": "NES exclusive game",
+    "igdbId": 8809,
+    "gbId": 13229,
+    "gbGuid": "3030-13229",
+    "tgdbId": 1027
+  },
+  {
+    "id": "nes14",
+    "name": "All-Pro Basketball",
+    "details": "NES exclusive game",
+    "igdbId": 8909,
+    "gbId": 493,
+    "gbGuid": "3030-493",
+    "tgdbId": 1615
+  },
+  {
+    "id": "nes15",
+    "name": "Amagon",
+    "details": "NES exclusive game",
+    "igdbId": 8916,
+    "gbId": 6970,
+    "gbGuid": "3030-6970",
+    "tgdbId": 1617
+  },
+  {
+    "id": "nes16",
+    "name": "America Daitōryō Senkyo",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes17",
+    "name": "American Dream",
+    "details": "NES exclusive game",
+    "igdbId": 48634,
+    "gbId": 15200,
+    "gbGuid": "3030-15200",
+    "tgdbId": 24827
+  },
+  {
+    "id": "nes18",
+    "name": "Anticipation",
+    "details": "NES exclusive game",
+    "igdbId": 8946,
+    "gbId": 16547,
+    "gbGuid": "3030-16547",
+    "tgdbId": 1618
+  },
+  {
+    "id": "nes19",
+    "name": "Arkista's Ring",
+    "details": "NES exclusive game",
+    "igdbId": 9024,
+    "gbId": 11353,
+    "gbGuid": "3030-11353",
+    "tgdbId": 1028
+  },
+  {
+    "id": "nes20",
+    "name": "Armadillo",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 1911,
+    "gbGuid": "3030-1911",
+    "tgdbId": 26248
+  },
+  {
+    "id": "nes21",
+    "name": "Artelius",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 13383,
+    "gbGuid": "3030-13383",
+    "tgdbId": 26249
+  },
+  {
+    "id": "nes22",
+    "name": "Asmik-kun Land",
+    "details": "NES exclusive game",
+    "igdbId": 48616,
+    "gbId": 11161,
+    "gbGuid": "3030-11161",
+    "tgdbId": 26250
+  },
+  {
+    "id": "nes23",
+    "name": "Asterix",
+    "details": "NES exclusive game",
+    "igdbId": 7757,
+    "gbId": 36064,
+    "gbGuid": "3030-36064",
+    "tgdbId": 3160
+  },
+  {
+    "id": "nes24",
+    "name": "Astro Fang: Super Machine",
+    "details": "NES exclusive game",
+    "igdbId": 48608,
+    "gbId": 20108,
+    "gbGuid": "3030-20108",
+    "tgdbId": 26383
+  },
+  {
+    "id": "nes25",
+    "name": "Aussie Rules Footy",
+    "details": "NES exclusive game",
+    "igdbId": 9107,
+    "gbId": 20411,
+    "gbGuid": "3030-20411",
+    "tgdbId": 1624
+  },
+  {
+    "id": "nes26",
+    "name": "Baby Boomer",
+    "details": "NES exclusive game",
+    "igdbId": 48107,
+    "gbId": 12102,
+    "gbGuid": "3030-12102",
+    "tgdbId": 1625
+  },
+  {
+    "id": "nes27",
+    "name": "Back To The Future",
+    "details": "NES exclusive game",
+    "igdbId": 8516,
+    "gbId": 18697,
+    "gbGuid": "3030-18697",
+    "tgdbId": 36798
+  },
+  {
+    "id": "nes28",
+    "name": "Back to the Future Part II & III",
+    "details": "NES exclusive game",
+    "igdbId": 8517,
+    "gbId": 13771,
+    "gbGuid": "3030-13771",
+    "tgdbId": 331
+  },
+  {
+    "id": "nes29",
+    "name": "Bad News Baseball",
+    "details": "NES exclusive game",
+    "igdbId": 9167,
+    "gbId": 17007,
+    "gbGuid": "3030-17007",
+    "tgdbId": 1627
+  },
+  {
+    "id": "nes30",
+    "name": "Bakushou! Star Monomane Shitenou",
+    "details": "NES exclusive game",
+    "igdbId": 48729,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 40435
+  },
+  {
+    "id": "nes31",
     "name": "Balloon Fight",
     "details": "Action Series",
     "igdbId": 2735,
@@ -21,7 +291,70 @@
     "tgdbId": 333
   },
   {
-    "id": "nes2",
+    "id": "nes32",
+    "name": "Baltron",
+    "details": "NES exclusive game",
+    "igdbId": 48588,
+    "gbId": 23065,
+    "gbGuid": "3030-23065",
+    "tgdbId": 26456
+  },
+  {
+    "id": "nes33",
+    "name": "Banana",
+    "details": "NES exclusive game",
+    "igdbId": 95469,
+    "gbId": 8997,
+    "gbGuid": "3030-8997",
+    "tgdbId": 26452
+  },
+  {
+    "id": "nes34",
+    "name": "Banana Prince",
+    "details": "NES exclusive game",
+    "igdbId": 9264,
+    "gbId": 14712,
+    "gbGuid": "3030-14712",
+    "tgdbId": 6432
+  },
+  {
+    "id": "nes35",
+    "name": "Bandai Golf: Challenge Pebble Beach",
+    "details": "NES exclusive game",
+    "igdbId": 9285,
+    "gbId": 21837,
+    "gbGuid": "3030-21837",
+    "tgdbId": 1629
+  },
+  {
+    "id": "nes36",
+    "name": "Barcode World",
+    "details": "NES exclusive game",
+    "igdbId": 48725,
+    "gbId": 36464,
+    "gbGuid": "3030-36464",
+    "tgdbId": 40440
+  },
+  {
+    "id": "nes37",
+    "name": "Barker Bill's Trick Shooting",
+    "details": "NES exclusive game",
+    "igdbId": 9875,
+    "gbId": 8177,
+    "gbGuid": "3030-8177",
+    "tgdbId": 1632
+  },
+  {
+    "id": "nes38",
+    "name": "Base Wars",
+    "details": "NES exclusive game",
+    "igdbId": 9876,
+    "gbId": 4376,
+    "gbGuid": "3030-4376",
+    "tgdbId": 1031
+  },
+  {
+    "id": "nes39",
     "details": [
       "NES laucnh title",
       "Sports Series"
@@ -33,7 +366,313 @@
     "tgdbId": 335
   },
   {
-    "id": "nes3",
+    "id": "nes40",
+    "name": "Baseball Simulator 1.000",
+    "details": "NES exclusive game",
+    "igdbId": 9897,
+    "gbId": 4636,
+    "gbGuid": "3030-4636",
+    "tgdbId": 1634
+  },
+  {
+    "id": "nes41",
+    "name": "Bases Loaded 3",
+    "details": "NES exclusive game",
+    "igdbId": 10124,
+    "gbId": 14136,
+    "gbGuid": "3030-14136",
+    "tgdbId": 1033
+  },
+  {
+    "id": "nes42",
+    "name": "Bases Loaded 4",
+    "details": "NES exclusive game",
+    "igdbId": 10257,
+    "gbId": 6808,
+    "gbGuid": "3030-6808",
+    "tgdbId": 1636
+  },
+  {
+    "id": "nes43",
+    "name": "Bases Loaded II: Second Season",
+    "details": "NES exclusive game",
+    "igdbId": 10122,
+    "gbId": 7502,
+    "gbGuid": "3030-7502",
+    "tgdbId": 336
+  },
+  {
+    "id": "nes44",
+    "name": "Batman Returns",
+    "details": "NES exclusive game",
+    "igdbId": 121244,
+    "gbId": 9710,
+    "gbGuid": "3030-9710",
+    "tgdbId": 1517
+  },
+  {
+    "id": "nes45",
+    "name": "Batman: The Video Game",
+    "details": "NES exclusive game",
+    "igdbId": 49226,
+    "gbId": 21264,
+    "gbGuid": "3030-21264",
+    "tgdbId": 337
+  },
+  {
+    "id": "nes46",
+    "name": "Bats & Terry",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 39498,
+    "gbGuid": "3030-39498",
+    "tgdbId": null
+  },
+  {
+    "id": "nes47",
+    "name": "Battle Kid: Fortress of Peril",
+    "details": "NES exclusive game",
+    "igdbId": 11145,
+    "gbId": 29596,
+    "gbGuid": "3030-29596",
+    "tgdbId": 10800
+  },
+  {
+    "id": "nes48",
+    "name": "Battle Rush: Build Up Robot Tournament",
+    "details": "NES exclusive game",
+    "igdbId": 48520,
+    "gbId": 36500,
+    "gbGuid": "3030-36500",
+    "tgdbId": 26615
+  },
+  {
+    "id": "nes49",
+    "name": "Battle Storm",
+    "details": "NES exclusive game",
+    "igdbId": 48583,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26464
+  },
+  {
+    "id": "nes50",
+    "name": "Battle Tank",
+    "details": "NES exclusive game",
+    "igdbId": 10623,
+    "gbId": 28036,
+    "gbGuid": "3030-28036",
+    "tgdbId": 1639
+  },
+  {
+    "id": "nes51",
+    "name": "Be-Bop High School: Koukousei Gokuraku Densetsu",
+    "details": "NES exclusive game",
+    "igdbId": 48546,
+    "gbId": 39961,
+    "gbGuid": "3030-39961",
+    "tgdbId": 26570
+  },
+  {
+    "id": "nes52",
+    "name": "Beauty & the Beast",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 19897,
+    "gbGuid": "3030-19897",
+    "tgdbId": 25820
+  },
+  {
+    "id": "nes53",
+    "name": "Big Nose Freaks Out",
+    "details": "NES exclusive game",
+    "igdbId": 48105,
+    "gbId": 8457,
+    "gbGuid": "3030-8457",
+    "tgdbId": 1645
+  },
+  {
+    "id": "nes54",
+    "name": "Bigfoot",
+    "details": "NES exclusive game",
+    "igdbId": 13398,
+    "gbId": 7302,
+    "gbGuid": "3030-7302",
+    "tgdbId": 1647
+  },
+  {
+    "id": "nes55",
+    "name": "Bill & Ted's Excellent Video Game Adventure",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 42944,
+    "gbGuid": "3030-42944",
+    "tgdbId": 1648
+  },
+  {
+    "id": "nes56",
+    "name": "Bio Senshi Dan: Increaser to no Tatakai",
+    "details": "NES exclusive game",
+    "igdbId": 48647,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 23374
+  },
+  {
+    "id": "nes57",
+    "name": "Bird Week",
+    "details": "NES exclusive game",
+    "igdbId": 48543,
+    "gbId": 18708,
+    "gbGuid": "3030-18708",
+    "tgdbId": 26576
+  },
+  {
+    "id": "nes58",
+    "name": "Bomberman II",
+    "details": "NES exclusive game",
+    "igdbId": 3447,
+    "gbId": 5993,
+    "gbGuid": "3030-5993",
+    "tgdbId": 1653
+  },
+  {
+    "id": "nes59",
+    "name": "Booby Kids",
+    "details": "NES exclusive game",
+    "igdbId": 7796,
+    "gbId": 8940,
+    "gbGuid": "3030-8940",
+    "tgdbId": 26351
+  },
+  {
+    "id": "nes60",
+    "name": "Break Time: The National Pool Tour",
+    "details": "NES exclusive game",
+    "igdbId": 48103,
+    "gbId": 14120,
+    "gbGuid": "3030-14120",
+    "tgdbId": 1655
+  },
+  {
+    "id": "nes61",
+    "name": "Bucky O'Hare",
+    "details": "NES exclusive game",
+    "igdbId": 18808,
+    "gbId": 10152,
+    "gbGuid": "3030-10152",
+    "tgdbId": 1044
+  },
+  {
+    "id": "nes62",
+    "name": "Business Wars",
+    "details": "NES exclusive game",
+    "igdbId": 48723,
+    "gbId": 46758,
+    "gbGuid": "3030-46758",
+    "tgdbId": 40444
+  },
+  {
+    "id": "nes63",
+    "name": "Caltron 6 in 1",
+    "details": "NES exclusive game",
+    "igdbId": 81250,
+    "gbId": 25153,
+    "gbGuid": "3030-25153",
+    "tgdbId": 1663
+  },
+  {
+    "id": "nes64",
+    "name": "Capcom's Gold Medal Challenge '92",
+    "details": "NES exclusive game",
+    "igdbId": 48159,
+    "gbId": 4588,
+    "gbGuid": "3030-4588",
+    "tgdbId": 1844
+  },
+  {
+    "id": "nes65",
+    "name": "Captain Tsubasa II: Super Striker",
+    "details": "NES exclusive game",
+    "igdbId": 48705,
+    "gbId": 23274,
+    "gbGuid": "3030-23274",
+    "tgdbId": 10942
+  },
+  {
+    "id": "nes66",
+    "name": "Casino Kid",
+    "details": "NES exclusive game",
+    "igdbId": 48102,
+    "gbId": 4741,
+    "gbGuid": "3030-4741",
+    "tgdbId": 1665
+  },
+  {
+    "id": "nes67",
+    "name": "Castle of Deceit",
+    "details": "NES exclusive game",
+    "igdbId": 7779,
+    "gbId": 14143,
+    "gbGuid": "3030-14143",
+    "tgdbId": 1667
+  },
+  {
+    "id": "nes68",
+    "name": "Challenge of the Dragon",
+    "details": "NES exclusive game",
+    "igdbId": 48294,
+    "gbId": 18431,
+    "gbGuid": "3030-18431",
+    "tgdbId": 9100
+  },
+  {
+    "id": "nes69",
+    "name": "Championship Rally",
+    "details": "NES exclusive game",
+    "igdbId": 40849,
+    "gbId": 21593,
+    "gbGuid": "3030-21593",
+    "tgdbId": 1670
+  },
+  {
+    "id": "nes70",
+    "name": "Chaos World",
+    "details": "NES exclusive game",
+    "igdbId": 7904,
+    "gbId": 8123,
+    "gbGuid": "3030-8123",
+    "tgdbId": 25068
+  },
+  {
+    "id": "nes71",
+    "name": "Chubby Cherub",
+    "details": "NES exclusive game",
+    "igdbId": 48031,
+    "gbId": 19535,
+    "gbGuid": "3030-19535",
+    "tgdbId": 212
+  },
+  {
+    "id": "nes72",
+    "name": "Circus Caper",
+    "details": "NES exclusive game",
+    "igdbId": 48099,
+    "gbId": 19308,
+    "gbGuid": "3030-19308",
+    "tgdbId": 1673
+  },
+  {
+    "id": "nes73",
+    "name": "Clash at Demonhead",
+    "details": "NES exclusive game",
+    "igdbId": 19118,
+    "gbId": 16188,
+    "gbGuid": "3030-16188",
+    "tgdbId": 1250
+  },
+  {
+    "id": "nes74",
     "details": [
       "NES laucnh title",
       "Action Series"
@@ -45,7 +684,268 @@
     "tgdbId": 340
   },
   {
-    "id": "nes4",
+    "id": "nes75",
+    "name": "Cocoron",
+    "details": "NES exclusive game",
+    "igdbId": 48644,
+    "gbId": 25681,
+    "gbGuid": "3030-25681",
+    "tgdbId": 23560
+  },
+  {
+    "id": "nes76",
+    "name": "Code Name: Viper",
+    "details": "NES exclusive game",
+    "igdbId": 48069,
+    "gbId": 12177,
+    "gbGuid": "3030-12177",
+    "tgdbId": 1256
+  },
+  {
+    "id": "nes77",
+    "name": "Color a Dinosaur",
+    "details": "NES exclusive game",
+    "igdbId": 8202,
+    "gbId": 5504,
+    "gbGuid": "3030-5504",
+    "tgdbId": 1678
+  },
+  {
+    "id": "nes78",
+    "name": "Colorful Dragon",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes79",
+    "name": "Conflict",
+    "details": "NES exclusive game",
+    "igdbId": 48143,
+    "gbId": 4854,
+    "gbGuid": "3030-4854",
+    "tgdbId": 1680
+  },
+  {
+    "id": "nes80",
+    "name": "Conquest of the Crystal Palace",
+    "details": "NES exclusive game",
+    "igdbId": 48068,
+    "gbId": 10142,
+    "gbGuid": "3030-10142",
+    "tgdbId": 1257
+  },
+  {
+    "id": "nes81",
+    "name": "Contra Force",
+    "details": "NES exclusive game",
+    "igdbId": 24978,
+    "gbId": 845,
+    "gbGuid": "3030-845",
+    "tgdbId": 1259
+  },
+  {
+    "id": "nes82",
+    "name": "Cool World",
+    "details": "NES exclusive game",
+    "igdbId": 7825,
+    "gbId": 20024,
+    "gbGuid": "3030-20024",
+    "tgdbId": 1681
+  },
+  {
+    "id": "nes83",
+    "name": "Cosmic Wars",
+    "details": "NES exclusive game",
+    "igdbId": 48646,
+    "gbId": 33551,
+    "gbGuid": "3030-33551",
+    "tgdbId": 23376
+  },
+  {
+    "id": "nes84",
+    "name": "Crayon Shin-Chan: Ora to Poi Poi",
+    "details": "NES exclusive game",
+    "igdbId": 48533,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26594
+  },
+  {
+    "id": "nes85",
+    "name": "Crisis Force",
+    "details": "NES exclusive game",
+    "igdbId": 48652,
+    "gbId": 31494,
+    "gbGuid": "3030-31494",
+    "tgdbId": 22443
+  },
+  {
+    "id": "nes86",
+    "name": "Cycle Race: Road Man",
+    "details": "NES exclusive game",
+    "igdbId": 48532,
+    "gbId": 26643,
+    "gbGuid": "3030-26643",
+    "tgdbId": 26596
+  },
+  {
+    "id": "nes87",
+    "name": "Dance Aerobics",
+    "details": "NES exclusive game",
+    "igdbId": 48176,
+    "gbId": 10667,
+    "gbGuid": "3030-10667",
+    "tgdbId": 1927
+  },
+  {
+    "id": "nes88",
+    "name": "Dash Galaxy in the Alien Asylum",
+    "details": "NES exclusive game",
+    "igdbId": 48140,
+    "gbId": 10393,
+    "gbGuid": "3030-10393",
+    "tgdbId": 1687
+  },
+  {
+    "id": "nes89",
+    "name": "Day Dreamin' Davey",
+    "details": "NES exclusive game",
+    "igdbId": 48139,
+    "gbId": 12591,
+    "gbGuid": "3030-12591",
+    "tgdbId": 1688
+  },
+  {
+    "id": "nes90",
+    "name": "Deadly Towers",
+    "details": "NES exclusive game",
+    "igdbId": 48067,
+    "gbId": 19113,
+    "gbGuid": "3030-19113",
+    "tgdbId": 1262
+  },
+  {
+    "id": "nes91",
+    "name": "Death Race",
+    "details": "NES exclusive game",
+    "igdbId": 8561,
+    "gbId": 14950,
+    "gbGuid": "3030-14950",
+    "tgdbId": 1690
+  },
+  {
+    "id": "nes92",
+    "name": "Decathlon",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 9245
+  },
+  {
+    "id": "nes93",
+    "name": "Deep Dungeon",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 47996
+  },
+  {
+    "id": "nes94",
+    "name": "Defenders of Dynatron City",
+    "details": "NES exclusive game",
+    "igdbId": 48066,
+    "gbId": 7157,
+    "gbGuid": "3030-7157",
+    "tgdbId": 1264
+  },
+  {
+    "id": "nes95",
+    "name": "Demon Sword",
+    "details": "NES exclusive game",
+    "igdbId": 48065,
+    "gbId": 19193,
+    "gbGuid": "3030-19193",
+    "tgdbId": 1266
+  },
+  {
+    "id": "nes96",
+    "name": "Desert Commander",
+    "details": "NES exclusive game",
+    "igdbId": 48137,
+    "gbId": 11195,
+    "gbGuid": "3030-11195",
+    "tgdbId": 1692
+  },
+  {
+    "id": "nes97",
+    "name": "Destination Earthstar",
+    "details": "NES exclusive game",
+    "igdbId": 22410,
+    "gbId": 20261,
+    "gbGuid": "3030-20261",
+    "tgdbId": 1693
+  },
+  {
+    "id": "nes98",
+    "name": "Destiny of an Emperor",
+    "details": "NES exclusive game",
+    "igdbId": 48064,
+    "gbId": 1624,
+    "gbGuid": "3030-1624",
+    "tgdbId": 1267
+  },
+  {
+    "id": "nes99",
+    "name": "Die Hard",
+    "details": "NES exclusive game",
+    "igdbId": 47188,
+    "gbId": 7416,
+    "gbGuid": "3030-7416",
+    "tgdbId": 1695
+  },
+  {
+    "id": "nes100",
+    "name": "Dirty Harry",
+    "details": "NES exclusive game",
+    "igdbId": 3142,
+    "gbId": 7415,
+    "gbGuid": "3030-7415",
+    "tgdbId": 1697
+  },
+  {
+    "id": "nes101",
+    "name": "Doki! Doki! Yūenchi: Crazy Land Daisakusen",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 20982
+  },
+  {
+    "id": "nes102",
+    "name": "Don Doko Don 2",
+    "details": "NES exclusive game",
+    "igdbId": 48696,
+    "gbId": 9540,
+    "gbGuid": "3030-9540",
+    "tgdbId": 14659
+  },
+  {
+    "id": "nes103",
+    "name": "Donald Land",
+    "details": "NES exclusive game",
+    "igdbId": 48524,
+    "gbId": 27030,
+    "gbGuid": "3030-27030",
+    "tgdbId": 26770
+  },
+  {
+    "id": "nes104",
     "name": "Donkey Kong",
     "details": "Arcade Series",
     "igdbId": 1086,
@@ -54,7 +954,7 @@
     "tgdbId": 5
   },
   {
-    "id": "nes5",
+    "id": "nes105",
     "name": "Donkey Kong 3",
     "details": "Arcade Series",
     "igdbId": 1088,
@@ -63,7 +963,7 @@
     "tgdbId": 1269
   },
   {
-    "id": "nes6",
+    "id": "nes106",
     "name": "Donkey Kong Jr.",
     "details": "Arcade Series",
     "igdbId": 1087,
@@ -72,7 +972,7 @@
     "tgdbId": 1270
   },
   {
-    "id": "nes7",
+    "id": "nes107",
     "name": "Donkey Kong Jr. Math",
     "details": "Educational Series",
     "igdbId": 5692,
@@ -81,7 +981,79 @@
     "tgdbId": 1929
   },
   {
-    "id": "nes8",
+    "id": "nes108",
+    "name": "Doraemon",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 33940,
+    "gbGuid": "3030-33940",
+    "tgdbId": 26775
+  },
+  {
+    "id": "nes109",
+    "name": "Dr. Jekyll and Mr. Hyde",
+    "details": "NES exclusive game",
+    "igdbId": 7961,
+    "gbId": 4584,
+    "gbGuid": "3030-4584",
+    "tgdbId": 1272
+  },
+  {
+    "id": "nes110",
+    "name": "Drac's Night Out",
+    "details": "NES exclusive game",
+    "igdbId": 48643,
+    "gbId": 37915,
+    "gbGuid": "3030-37915",
+    "tgdbId": 23613
+  },
+  {
+    "id": "nes111",
+    "name": "Dragon Ball Z Side Story: Plan to Eradicate the Saiyans",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes112",
+    "name": "Dragon Fighter",
+    "details": "NES exclusive game",
+    "igdbId": 14662,
+    "gbId": 17330,
+    "gbGuid": "3030-17330",
+    "tgdbId": 1931
+  },
+  {
+    "id": "nes113",
+    "name": "Dragon Scroll: Yomigaerishi Maryuu",
+    "details": "NES exclusive game",
+    "igdbId": 48512,
+    "gbId": 39782,
+    "gbGuid": "3030-39782",
+    "tgdbId": 26780
+  },
+  {
+    "id": "nes114",
+    "name": "Dragon Spirit: The New Legend",
+    "details": "NES exclusive game",
+    "igdbId": 17461,
+    "gbId": 8408,
+    "gbGuid": "3030-8408",
+    "tgdbId": 1273
+  },
+  {
+    "id": "nes115",
+    "name": "Dragon's Lair",
+    "details": "NES exclusive game",
+    "igdbId": 14529,
+    "gbId": 23,
+    "gbGuid": "3030-23",
+    "tgdbId": 738
+  },
+  {
+    "id": "nes116",
     "details": [
       "NES laucnh title",
       "Light Gun Series"
@@ -93,7 +1065,61 @@
     "tgdbId": 346
   },
   {
-    "id": "nes9",
+    "id": "nes117",
+    "name": "Dungeon Magic: Sword of the Elements",
+    "details": "NES exclusive game",
+    "igdbId": 48131,
+    "gbId": 14102,
+    "gbGuid": "3030-14102",
+    "tgdbId": 1817
+  },
+  {
+    "id": "nes118",
+    "name": "Dusty Diamond's All-Star Softball",
+    "details": "NES exclusive game",
+    "igdbId": 48130,
+    "gbId": 6751,
+    "gbGuid": "3030-6751",
+    "tgdbId": 1818
+  },
+  {
+    "id": "nes119",
+    "name": "Dynowarz: Destruction of Spondylus",
+    "details": "NES exclusive game",
+    "igdbId": 48029,
+    "gbId": 6244,
+    "gbGuid": "3030-6244",
+    "tgdbId": 347
+  },
+  {
+    "id": "nes120",
+    "name": "Egypt",
+    "details": "NES exclusive game",
+    "igdbId": 94952,
+    "gbId": 8155,
+    "gbGuid": "3030-8155",
+    "tgdbId": 26784
+  },
+  {
+    "id": "nes121",
+    "name": "Eliminator: Boat Duel",
+    "details": "NES exclusive game",
+    "igdbId": 9158,
+    "gbId": 3245,
+    "gbGuid": "3030-3245",
+    "tgdbId": 1932
+  },
+  {
+    "id": "nes122",
+    "name": "Erika to Satoru no Yume Bōken",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26786
+  },
+  {
+    "id": "nes123",
     "details": [
       "NES laucnh title",
       "Programmable Series"
@@ -105,7 +1131,232 @@
     "tgdbId": 213
   },
   {
-    "id": "nes10",
+    "id": "nes124",
+    "name": "F-1 Sensation",
+    "details": "NES exclusive game",
+    "igdbId": 79063,
+    "gbId": 37641,
+    "gbGuid": "3030-37641",
+    "tgdbId": null
+  },
+  {
+    "id": "nes125",
+    "name": "F-117A Stealth Fighter",
+    "details": "NES exclusive game",
+    "igdbId": 69582,
+    "gbId": 11908,
+    "gbGuid": "3030-11908",
+    "tgdbId": 1823
+  },
+  {
+    "id": "nes126",
+    "name": "Famicom Jump II: Saikyō no Shichinin",
+    "details": "NES exclusive game",
+    "igdbId": 65407,
+    "gbId": 37452,
+    "gbGuid": "3030-37452",
+    "tgdbId": 26827
+  },
+  {
+    "id": "nes127",
+    "name": "Famicom Jump: Hero Retsuden",
+    "details": "NES exclusive game",
+    "igdbId": 48500,
+    "gbId": 36239,
+    "gbGuid": "3030-36239",
+    "tgdbId": 26826
+  },
+  {
+    "id": "nes128",
+    "name": "Family Circuit",
+    "details": "NES exclusive game",
+    "igdbId": 48498,
+    "gbId": 12126,
+    "gbGuid": "3030-12126",
+    "tgdbId": 26829
+  },
+  {
+    "id": "nes129",
+    "name": "Faria: A World of Mystery and Danger!",
+    "details": "NES exclusive game",
+    "igdbId": 48060,
+    "gbId": 1754,
+    "gbGuid": "3030-1754",
+    "tgdbId": 1282
+  },
+  {
+    "id": "nes130",
+    "name": "Final Fantasy VII",
+    "details": "NES exclusive game",
+    "igdbId": 427,
+    "gbId": 13053,
+    "gbGuid": "3030-13053",
+    "tgdbId": 525
+  },
+  {
+    "id": "nes131",
+    "name": "Fire 'n Ice",
+    "details": "NES exclusive game",
+    "igdbId": 48671,
+    "gbId": 1859,
+    "gbGuid": "3030-1859",
+    "tgdbId": 20097
+  },
+  {
+    "id": "nes132",
+    "name": "Fist of the North Star",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 15338,
+    "gbGuid": "3030-15338",
+    "tgdbId": 1287
+  },
+  {
+    "id": "nes133",
+    "name": "Formula One: Built to Win",
+    "details": "NES exclusive game",
+    "igdbId": 48297,
+    "gbId": 17945,
+    "gbGuid": "3030-17945",
+    "tgdbId": 10725
+  },
+  {
+    "id": "nes134",
+    "name": "Frankenstein: The Monster Returns",
+    "details": "NES exclusive game",
+    "igdbId": 48128,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 1933
+  },
+  {
+    "id": "nes135",
+    "name": "Friday the 13th",
+    "details": "NES exclusive game",
+    "igdbId": 8530,
+    "gbId": 21482,
+    "gbGuid": "3030-21482",
+    "tgdbId": 1289
+  },
+  {
+    "id": "nes136",
+    "name": "Fushigi no Umi Nadia: The Secret of Blue Water",
+    "details": "NES exclusive game",
+    "igdbId": 48490,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26877
+  },
+  {
+    "id": "nes137",
+    "name": "Fuzzical Fighter",
+    "details": "NES exclusive game",
+    "igdbId": 48489,
+    "gbId": 21884,
+    "gbGuid": "3030-21884",
+    "tgdbId": 26882
+  },
+  {
+    "id": "nes138",
+    "name": "G.I. JOE: A Real American Hero",
+    "details": "NES exclusive game",
+    "igdbId": 8165,
+    "gbId": 21731,
+    "gbGuid": "3030-21731",
+    "tgdbId": 31632
+  },
+  {
+    "id": "nes139",
+    "name": "G.I. Joe: The Atlantis Factor",
+    "details": "NES exclusive game",
+    "igdbId": 8166,
+    "gbId": 21728,
+    "gbGuid": "3030-21728",
+    "tgdbId": 7906
+  },
+  {
+    "id": "nes140",
+    "name": "Galaxy 5000",
+    "details": "NES exclusive game",
+    "igdbId": 48120,
+    "gbId": 11631,
+    "gbGuid": "3030-11631",
+    "tgdbId": 1835
+  },
+  {
+    "id": "nes141",
+    "name": "Ganso Saiyuuki: Super Monkey Daibouken",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26885
+  },
+  {
+    "id": "nes142",
+    "name": "Gauntlet",
+    "details": "NES exclusive game",
+    "igdbId": 7294,
+    "gbId": 8594,
+    "gbGuid": "3030-8594",
+    "tgdbId": 1291
+  },
+  {
+    "id": "nes143",
+    "name": "Gekitotsu Yonku Battle",
+    "details": "NES exclusive game",
+    "igdbId": 48484,
+    "gbId": 37087,
+    "gbGuid": "3030-37087",
+    "tgdbId": 26892
+  },
+  {
+    "id": "nes144",
+    "name": "Ghost Lion",
+    "details": "NES exclusive game",
+    "igdbId": 48186,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 1885
+  },
+  {
+    "id": "nes145",
+    "name": "Ghostbusters II",
+    "details": "NES exclusive game",
+    "igdbId": 14555,
+    "gbId": 7445,
+    "gbGuid": "3030-7445",
+    "tgdbId": 1839
+  },
+  {
+    "id": "nes146",
+    "name": "Ghoul School",
+    "details": "NES exclusive game",
+    "igdbId": 48163,
+    "gbId": 2076,
+    "gbGuid": "3030-2076",
+    "tgdbId": 1840
+  },
+  {
+    "id": "nes147",
+    "name": "Godzilla 2: War of the Monsters",
+    "details": "NES exclusive game",
+    "igdbId": 48160,
+    "gbId": 1068,
+    "gbGuid": "3030-1068",
+    "tgdbId": 1843
+  },
+  {
+    "id": "nes148",
+    "name": "Godzilla: Monster of Monsters!",
+    "details": "NES exclusive game",
+    "igdbId": 48161,
+    "gbId": 8755,
+    "gbGuid": "3030-8755",
+    "tgdbId": 1842
+  },
+  {
+    "id": "nes149",
     "details": [
       "NES laucnh title",
       "Sports Series"
@@ -117,7 +1368,43 @@
     "tgdbId": 350
   },
   {
-    "id": "nes11",
+    "id": "nes150",
+    "name": "Golf Grand Slam",
+    "details": "NES exclusive game",
+    "igdbId": 48285,
+    "gbId": 25353,
+    "gbGuid": "3030-25353",
+    "tgdbId": 8488
+  },
+  {
+    "id": "nes151",
+    "name": "Golgo 13: Top Secret Episode",
+    "details": "NES exclusive game",
+    "igdbId": 48059,
+    "gbId": 7322,
+    "gbGuid": "3030-7322",
+    "tgdbId": 1295
+  },
+  {
+    "id": "nes152",
+    "name": "Gotcha! The Sport!",
+    "details": "NES exclusive game",
+    "igdbId": 5848,
+    "gbId": 17980,
+    "gbGuid": "3030-17980",
+    "tgdbId": 1846
+  },
+  {
+    "id": "nes153",
+    "name": "Greg Norman's Golf Power",
+    "details": "NES exclusive game",
+    "igdbId": 48701,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 11769
+  },
+  {
+    "id": "nes154",
     "name": "Gumshoe",
     "details": "Light Gun Series",
     "igdbId": 18834,
@@ -126,7 +1413,16 @@
     "tgdbId": 351
   },
   {
-    "id": "nes12",
+    "id": "nes155",
+    "name": "Gun-Nac",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 4360,
+    "gbGuid": "3030-4360",
+    "tgdbId": null
+  },
+  {
+    "id": "nes156",
     "details": [
       "NES laucnh title",
       "Robot Series"
@@ -138,7 +1434,52 @@
     "tgdbId": 1301
   },
   {
-    "id": "nes13",
+    "id": "nes157",
+    "name": "Hanjuku Hero",
+    "details": "NES exclusive game",
+    "igdbId": 78948,
+    "gbId": 28991,
+    "gbGuid": "3030-28991",
+    "tgdbId": 48353
+  },
+  {
+    "id": "nes158",
+    "name": "Heavy Shreddin'",
+    "details": "NES exclusive game",
+    "igdbId": 48157,
+    "gbId": 36307,
+    "gbGuid": "3030-36307",
+    "tgdbId": 1853
+  },
+  {
+    "id": "nes159",
+    "name": "Hello Kitty no Hanabatake",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 70024,
+    "gbGuid": "3030-70024",
+    "tgdbId": 25401
+  },
+  {
+    "id": "nes160",
+    "name": "Hi no Tori Hououhen: Gaou no Bouken",
+    "details": "NES exclusive game",
+    "igdbId": 48474,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26960
+  },
+  {
+    "id": "nes161",
+    "name": "High Speed",
+    "details": "NES exclusive game",
+    "igdbId": 48156,
+    "gbId": 4509,
+    "gbGuid": "3030-4509",
+    "tgdbId": 1854
+  },
+  {
+    "id": "nes162",
     "details": [
       "NES laucnh title",
       "Light Gun Series"
@@ -150,7 +1491,61 @@
     "tgdbId": 1317
   },
   {
-    "id": "nes14",
+    "id": "nes163",
+    "name": "Holy Diver",
+    "details": "NES exclusive game",
+    "igdbId": 19110,
+    "gbId": 26042,
+    "gbGuid": "3030-26042",
+    "tgdbId": 17782
+  },
+  {
+    "id": "nes164",
+    "name": "Home Alone",
+    "details": "NES exclusive game",
+    "igdbId": 4523,
+    "gbId": 6595,
+    "gbGuid": "3030-6595",
+    "tgdbId": 487
+  },
+  {
+    "id": "nes165",
+    "name": "Hoops",
+    "details": "NES exclusive game",
+    "igdbId": 48155,
+    "gbId": 12115,
+    "gbGuid": "3030-12115",
+    "tgdbId": 1855
+  },
+  {
+    "id": "nes166",
+    "name": "Hoshi wo Miru Hito",
+    "details": "NES exclusive game",
+    "igdbId": 25016,
+    "gbId": 19127,
+    "gbGuid": "3030-19127",
+    "tgdbId": 27134
+  },
+  {
+    "id": "nes167",
+    "name": "Hot Slots",
+    "details": "NES exclusive game",
+    "igdbId": 98881,
+    "gbId": 37536,
+    "gbGuid": "3030-37536",
+    "tgdbId": 2381
+  },
+  {
+    "id": "nes168",
+    "name": "Hottaman no Chisoko Tanken",
+    "details": "NES exclusive game",
+    "igdbId": 63589,
+    "gbId": 42160,
+    "gbGuid": "3030-42160",
+    "tgdbId": 27136
+  },
+  {
+    "id": "nes169",
     "details": [
       "NES laucnh title",
       "Action Series"
@@ -162,7 +1557,295 @@
     "tgdbId": 1326
   },
   {
-    "id": "nes15",
+    "id": "nes170",
+    "name": "Idol Hakkenden",
+    "details": "NES exclusive game",
+    "igdbId": 7905,
+    "gbId": 48262,
+    "gbGuid": "3030-48262",
+    "tgdbId": 27141
+  },
+  {
+    "id": "nes171",
+    "name": "Incantation",
+    "details": "NES exclusive game",
+    "igdbId": 44454,
+    "gbId": 450,
+    "gbGuid": "3030-450",
+    "tgdbId": 3792
+  },
+  {
+    "id": "nes172",
+    "name": "Indiana Jones and the Temple of Doom",
+    "details": "NES exclusive game",
+    "igdbId": 12156,
+    "gbId": 10032,
+    "gbGuid": "3030-10032",
+    "tgdbId": 1860
+  },
+  {
+    "id": "nes173",
+    "name": "International Cricket",
+    "details": "NES exclusive game",
+    "igdbId": 65196,
+    "gbId": 38193,
+    "gbGuid": "3030-38193",
+    "tgdbId": 1862
+  },
+  {
+    "id": "nes174",
+    "name": "Iron Tank: The Invasion of Normandy",
+    "details": "NES exclusive game",
+    "igdbId": 19956,
+    "gbId": 3683,
+    "gbGuid": "3030-3683",
+    "tgdbId": 1330
+  },
+  {
+    "id": "nes175",
+    "name": "Ironsword: Wizards & Warriors II",
+    "details": "NES exclusive game",
+    "igdbId": 48053,
+    "gbId": 12176,
+    "gbGuid": "3030-12176",
+    "tgdbId": 1331
+  },
+  {
+    "id": "nes176",
+    "name": "Isolated Warrior",
+    "details": "NES exclusive game",
+    "igdbId": 48154,
+    "gbId": 27222,
+    "gbGuid": "3030-27222",
+    "tgdbId": 1863
+  },
+  {
+    "id": "nes177",
+    "name": "J. League Super Top Players",
+    "details": "NES exclusive game",
+    "igdbId": 48519,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26617
+  },
+  {
+    "id": "nes178",
+    "name": "JaJaMaru no Daibouken",
+    "details": "NES exclusive game",
+    "igdbId": 48457,
+    "gbId": 41540,
+    "gbGuid": "3030-41540",
+    "tgdbId": 27149
+  },
+  {
+    "id": "nes179",
+    "name": "Jajamaru Gekimaden: Maboroshi no Kinmajou",
+    "details": "NES exclusive game",
+    "igdbId": 48458,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27148
+  },
+  {
+    "id": "nes180",
+    "name": "Jajamaru Ninpou Chou",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27150
+  },
+  {
+    "id": "nes181",
+    "name": "Jaws",
+    "details": "NES exclusive game",
+    "igdbId": 68385,
+    "gbId": 3560,
+    "gbGuid": "3030-3560",
+    "tgdbId": 1468
+  },
+  {
+    "id": "nes182",
+    "name": "Journey to Silius",
+    "details": "NES exclusive game",
+    "igdbId": 9159,
+    "gbId": 18435,
+    "gbGuid": "3030-18435",
+    "tgdbId": 1869
+  },
+  {
+    "id": "nes183",
+    "name": "Joyvan Kid",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes184",
+    "name": "Jumpin' Kid: Jack to Mame no Ki Monogatari",
+    "details": "NES exclusive game",
+    "igdbId": 48450,
+    "gbId": 51821,
+    "gbGuid": "3030-51821",
+    "tgdbId": 27156
+  },
+  {
+    "id": "nes185",
+    "name": "Jurassic Park",
+    "details": "NES exclusive game",
+    "igdbId": 25880,
+    "gbId": 5721,
+    "gbGuid": "3030-5721",
+    "tgdbId": 537
+  },
+  {
+    "id": "nes186",
+    "name": "Just Breed",
+    "details": "NES exclusive game",
+    "igdbId": 70173,
+    "gbId": 14135,
+    "gbGuid": "3030-14135",
+    "tgdbId": 27157
+  },
+  {
+    "id": "nes187",
+    "name": "Kabuki Quantum Fighter",
+    "details": "NES exclusive game",
+    "igdbId": 27623,
+    "gbId": 1220,
+    "gbGuid": "3030-1220",
+    "tgdbId": 1469
+  },
+  {
+    "id": "nes188",
+    "name": "Kaijuu Monogatari",
+    "details": "NES exclusive game",
+    "igdbId": 48446,
+    "gbId": 40383,
+    "gbGuid": "3030-40383",
+    "tgdbId": 27161
+  },
+  {
+    "id": "nes189",
+    "name": "Karaoke Studio",
+    "details": "NES exclusive game",
+    "igdbId": 79252,
+    "gbId": 33070,
+    "gbGuid": "3030-33070",
+    "tgdbId": 40541
+  },
+  {
+    "id": "nes190",
+    "name": "Kart Fighter",
+    "details": "NES exclusive game",
+    "igdbId": 48577,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26473
+  },
+  {
+    "id": "nes191",
+    "name": "Keisan Game",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes192",
+    "name": "Kero Kero Keroppi no Daibouken",
+    "details": "NES exclusive game",
+    "igdbId": 48351,
+    "gbId": 58268,
+    "gbGuid": "3030-58268",
+    "tgdbId": 30994
+  },
+  {
+    "id": "nes193",
+    "name": "Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi",
+    "details": "NES exclusive game",
+    "igdbId": 48350,
+    "gbId": 58269,
+    "gbGuid": "3030-58269",
+    "tgdbId": 30995
+  },
+  {
+    "id": "nes194",
+    "name": "Kick Master",
+    "details": "NES exclusive game",
+    "igdbId": 48116,
+    "gbId": 10994,
+    "gbGuid": "3030-10994",
+    "tgdbId": 1473
+  },
+  {
+    "id": "nes195",
+    "name": "Kid Klown in Night Mayor World",
+    "details": "NES exclusive game",
+    "igdbId": 48115,
+    "gbId": 5542,
+    "gbGuid": "3030-5542",
+    "tgdbId": 1474
+  },
+  {
+    "id": "nes196",
+    "name": "Kid Kool and the Quest for the Seven Wonder Herbs",
+    "details": "NES exclusive game",
+    "igdbId": 48150,
+    "gbId": 11968,
+    "gbGuid": "3030-11968",
+    "tgdbId": 1873
+  },
+  {
+    "id": "nes197",
+    "name": "King Kong 2: Ikari no Megaton Punch",
+    "details": "NES exclusive game",
+    "igdbId": 48690,
+    "gbId": 32435,
+    "gbGuid": "3030-32435",
+    "tgdbId": 18755
+  },
+  {
+    "id": "nes198",
+    "name": "King Of Kings",
+    "details": "NES exclusive game",
+    "igdbId": 48721,
+    "gbId": 40402,
+    "gbGuid": "3030-40402",
+    "tgdbId": 40451
+  },
+  {
+    "id": "nes199",
+    "name": "King of Kings: The Early Years",
+    "details": "NES exclusive game",
+    "igdbId": 48148,
+    "gbId": 2022,
+    "gbGuid": "3030-2022",
+    "tgdbId": 1876
+  },
+  {
+    "id": "nes200",
+    "name": "Knight Rider",
+    "details": "NES exclusive game",
+    "igdbId": 72808,
+    "gbId": 2188,
+    "gbGuid": "3030-2188",
+    "tgdbId": 1880
+  },
+  {
+    "id": "nes201",
+    "name": "Konami Hyper Soccer",
+    "details": "NES exclusive game",
+    "igdbId": 48284,
+    "gbId": 16749,
+    "gbGuid": "3030-16749",
+    "tgdbId": 8495
+  },
+  {
+    "id": "nes202",
     "details": [
       "NES laucnh title",
       "Action Series"
@@ -174,7 +1857,93 @@
     "tgdbId": 1810
   },
   {
-    "id": "nes16",
+    "id": "nes203",
+    "name": "Kyatto Ninden Teyandee",
+    "details": "NES exclusive game",
+    "igdbId": 24480,
+    "gbId": 29544,
+    "gbGuid": "3030-29544",
+    "tgdbId": 14663
+  },
+  {
+    "id": "nes204",
+    "name": "Lagrange Point",
+    "details": "NES exclusive game",
+    "igdbId": 48576,
+    "gbId": 20134,
+    "gbGuid": "3030-20134",
+    "tgdbId": 26474
+  },
+  {
+    "id": "nes205",
+    "name": "Laser Invasion",
+    "details": "NES exclusive game",
+    "igdbId": 48145,
+    "gbId": 19777,
+    "gbGuid": "3030-19777",
+    "tgdbId": 1881
+  },
+  {
+    "id": "nes206",
+    "name": "Layla",
+    "details": "NES exclusive game"
+  },
+  {
+    "id": "nes207",
+    "name": "Legends of the Diamond",
+    "details": "NES exclusive game",
+    "igdbId": 48253,
+    "gbId": 25171,
+    "gbGuid": "3030-25171",
+    "tgdbId": 2298
+  },
+  {
+    "id": "nes208",
+    "name": "Little League Baseball: Championship Series",
+    "details": "NES exclusive game",
+    "igdbId": 48283,
+    "gbId": 15257,
+    "gbGuid": "3030-15257",
+    "tgdbId": 8499
+  },
+  {
+    "id": "nes209",
+    "name": "Little Nemo: The Dream Master",
+    "details": "NES exclusive game",
+    "igdbId": 9160,
+    "gbId": 15110,
+    "gbGuid": "3030-15110",
+    "tgdbId": 1482
+  },
+  {
+    "id": "nes210",
+    "name": "Little Samson",
+    "details": "NES exclusive game",
+    "igdbId": 48114,
+    "gbId": 14592,
+    "gbGuid": "3030-14592",
+    "tgdbId": 1483
+  },
+  {
+    "id": "nes211",
+    "name": "Lost Word of JeNnY: Ushinawareta Message",
+    "details": "NES exclusive game",
+    "igdbId": 48434,
+    "gbId": 42270,
+    "gbGuid": "3030-42270",
+    "tgdbId": 27178
+  },
+  {
+    "id": "nes212",
+    "name": "Low G Man: The Low Gravity Man",
+    "details": "NES exclusive game",
+    "igdbId": 48028,
+    "gbId": 8250,
+    "gbGuid": "3030-8250",
+    "tgdbId": 356
+  },
+  {
+    "id": "nes213",
     "details": [
       "NES laucnh title",
       "Programmable Series"
@@ -186,7 +1955,61 @@
     "tgdbId": 358
   },
   {
-    "id": "nes17",
+    "id": "nes214",
+    "name": "Mad Max",
+    "details": "NES exclusive game",
+    "igdbId": 3034,
+    "gbId": 9017,
+    "gbGuid": "3030-9017",
+    "tgdbId": 18576
+  },
+  {
+    "id": "nes215",
+    "name": "Magic Bubble",
+    "details": "NES exclusive game",
+    "igdbId": 45743,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 33704
+  },
+  {
+    "id": "nes216",
+    "name": "Magic Darts",
+    "details": "NES exclusive game",
+    "igdbId": 48182,
+    "gbId": 28004,
+    "gbGuid": "3030-28004",
+    "tgdbId": 1893
+  },
+  {
+    "id": "nes217",
+    "name": "Magician",
+    "details": "NES exclusive game",
+    "igdbId": 94209,
+    "gbId": 901,
+    "gbGuid": "3030-901",
+    "tgdbId": 1430
+  },
+  {
+    "id": "nes218",
+    "name": "Major League Baseball",
+    "details": "NES exclusive game",
+    "igdbId": 80424,
+    "gbId": 5992,
+    "gbGuid": "3030-5992",
+    "tgdbId": 1897
+  },
+  {
+    "id": "nes219",
+    "name": "Mappy Kids",
+    "details": "NES exclusive game",
+    "igdbId": 48625,
+    "gbId": 23910,
+    "gbGuid": "3030-23910",
+    "tgdbId": 25406
+  },
+  {
+    "id": "nes220",
     "name": "Mario Bros",
     "details": "Arcade Series",
     "igdbId": 3105,
@@ -195,7 +2018,448 @@
     "tgdbId": 63521
   },
   {
-    "id": "nes18",
+    "id": "nes221",
+    "name": "Meitantei Holmes: M-Kara no Chousenjou",
+    "details": "NES exclusive game",
+    "igdbId": 48777,
+    "gbId": 40780,
+    "gbGuid": "3030-40780",
+    "tgdbId": 40572
+  },
+  {
+    "id": "nes222",
+    "name": "Menace Beach",
+    "details": "NES exclusive game",
+    "igdbId": 11167,
+    "gbId": 11825,
+    "gbGuid": "3030-11825",
+    "tgdbId": 1901
+  },
+  {
+    "id": "nes223",
+    "name": "Metal Mech: Man & Machine",
+    "details": "NES exclusive game",
+    "igdbId": 48082,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 1434
+  },
+  {
+    "id": "nes224",
+    "name": "Metal Storm",
+    "details": "NES exclusive game",
+    "igdbId": 48170,
+    "gbId": 12296,
+    "gbGuid": "3030-12296",
+    "tgdbId": 1945
+  },
+  {
+    "id": "nes225",
+    "name": "Mezase! Top Pro Green ni Kakeru Yume",
+    "details": "NES exclusive game",
+    "igdbId": 48775,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 40574
+  },
+  {
+    "id": "nes226",
+    "name": "Michael Andretti's World GP",
+    "details": "NES exclusive game",
+    "igdbId": 48279,
+    "gbId": 12451,
+    "gbGuid": "3030-12451",
+    "tgdbId": 8512
+  },
+  {
+    "id": "nes227",
+    "name": "Mickey Mousecapade",
+    "details": "NES exclusive game",
+    "igdbId": 8126,
+    "gbId": 17706,
+    "gbGuid": "3030-17706",
+    "tgdbId": 1435
+  },
+  {
+    "id": "nes228",
+    "name": "Mickey's Adventure in Numberland",
+    "details": "NES exclusive game",
+    "igdbId": 48169,
+    "gbId": 52179,
+    "gbGuid": "3030-52179",
+    "tgdbId": null
+  },
+  {
+    "id": "nes229",
+    "name": "Mickey's Safari in Letterland",
+    "details": "NES exclusive game",
+    "igdbId": 48168,
+    "gbId": 12179,
+    "gbGuid": "3030-12179",
+    "tgdbId": 1948
+  },
+  {
+    "id": "nes230",
+    "name": "Mighty Atom",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes231",
+    "name": "Minelvaton Saga: Ragon no Fukkatsu",
+    "details": "NES exclusive game",
+    "igdbId": 48687,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 44788
+  },
+  {
+    "id": "nes232",
+    "name": "Miracle Ropitt: 2100-nen no Daibouken",
+    "details": "NES exclusive game",
+    "igdbId": 48624,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 25414
+  },
+  {
+    "id": "nes233",
+    "name": "Mission: Impossible",
+    "details": "NES exclusive game",
+    "igdbId": 3123,
+    "gbId": 1622,
+    "gbGuid": "3030-1622",
+    "tgdbId": 367
+  },
+  {
+    "id": "nes234",
+    "name": "Mitsume Ga Tooru",
+    "details": "NES exclusive game",
+    "igdbId": 48666,
+    "gbId": 11139,
+    "gbGuid": "3030-11139",
+    "tgdbId": 20625
+  },
+  {
+    "id": "nes235",
+    "name": "Moai-kun",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes236",
+    "name": "Moero 6!! Shin Moero!! Pro Yakyuu",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes237",
+    "name": "Moero!! Judo Warriors",
+    "details": "NES exclusive game",
+    "igdbId": 48422,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27212
+  },
+  {
+    "id": "nes238",
+    "name": "Monster Party",
+    "details": "NES exclusive game",
+    "igdbId": 48165,
+    "gbId": 7505,
+    "gbGuid": "3030-7505",
+    "tgdbId": 1954
+  },
+  {
+    "id": "nes239",
+    "name": "Monster Truck Rally",
+    "details": "NES exclusive game",
+    "igdbId": 48199,
+    "gbId": 40422,
+    "gbGuid": "3030-40422",
+    "tgdbId": 1955
+  },
+  {
+    "id": "nes240",
+    "name": "Monster in My Pocket",
+    "details": "NES exclusive game",
+    "igdbId": 48166,
+    "gbId": 14307,
+    "gbGuid": "3030-14307",
+    "tgdbId": 1952
+  },
+  {
+    "id": "nes241",
+    "name": "Moon Ranger",
+    "details": "NES exclusive game",
+    "igdbId": 48198,
+    "gbId": 20053,
+    "gbGuid": "3030-20053",
+    "tgdbId": 1956
+  },
+  {
+    "id": "nes242",
+    "name": "Motor City Patrol",
+    "details": "NES exclusive game",
+    "igdbId": 48197,
+    "gbId": 5280,
+    "gbGuid": "3030-5280",
+    "tgdbId": 1957
+  },
+  {
+    "id": "nes243",
+    "name": "Musashi no Bouken",
+    "details": "NES exclusive game",
+    "igdbId": 48688,
+    "gbId": 8880,
+    "gbGuid": "3030-8880",
+    "tgdbId": 19056
+  },
+  {
+    "id": "nes244",
+    "name": "Musashi no Ken: Tadaima Shugyou Chuu",
+    "details": "NES exclusive game",
+    "igdbId": 48417,
+    "gbId": 34295,
+    "gbGuid": "3030-34295",
+    "tgdbId": 27219
+  },
+  {
+    "id": "nes245",
+    "name": "NFL Football",
+    "details": "NES exclusive game",
+    "igdbId": 64743,
+    "gbId": 15289,
+    "gbGuid": "3030-15289",
+    "tgdbId": 1965
+  },
+  {
+    "id": "nes246",
+    "name": "Nagagutsu o Haita Neko: Sekai Isshuu 80 Nichi Dai Bouken",
+    "details": "NES exclusive game",
+    "igdbId": 48416,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27220
+  },
+  {
+    "id": "nes247",
+    "name": "Nakajima Satoru: F1 Hero 2",
+    "details": "NES exclusive game",
+    "igdbId": 48301,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes248",
+    "name": "Napoleon Senki",
+    "details": "NES exclusive game",
+    "igdbId": 48412,
+    "gbId": 39941,
+    "gbGuid": "3030-39941",
+    "tgdbId": 27225
+  },
+  {
+    "id": "nes249",
+    "name": "Nekketsu Kakutou Densetsu",
+    "details": "NES exclusive game",
+    "igdbId": 48410,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27227
+  },
+  {
+    "id": "nes250",
+    "name": "New Ghostbusters II",
+    "details": "NES exclusive game",
+    "igdbId": 3658,
+    "gbId": 1338,
+    "gbGuid": "3030-1338",
+    "tgdbId": 8515
+  },
+  {
+    "id": "nes251",
+    "name": "Nightshade",
+    "details": "NES exclusive game",
+    "igdbId": 31764,
+    "gbId": 1848,
+    "gbGuid": "3030-1848",
+    "tgdbId": 1967
+  },
+  {
+    "id": "nes252",
+    "name": "Niji no Silkroad",
+    "details": "NES exclusive game",
+    "igdbId": 48409,
+    "gbId": 8310,
+    "gbGuid": "3030-8310",
+    "tgdbId": 27228
+  },
+  {
+    "id": "nes253",
+    "name": "Ninja Crusaders",
+    "details": "NES exclusive game",
+    "igdbId": 48193,
+    "gbId": 18230,
+    "gbGuid": "3030-18230",
+    "tgdbId": 1968
+  },
+  {
+    "id": "nes254",
+    "name": "Ninja Hattori-kun: Ninja wa Syugyou de Gozaru",
+    "details": "NES exclusive game",
+    "igdbId": 58882,
+    "gbId": 52748,
+    "gbGuid": "3030-52748",
+    "tgdbId": 27229
+  },
+  {
+    "id": "nes255",
+    "name": "Ninja Kid",
+    "details": "NES exclusive game",
+    "igdbId": 68360,
+    "gbId": 9191,
+    "gbGuid": "3030-9191",
+    "tgdbId": 1975
+  },
+  {
+    "id": "nes256",
+    "name": "Noah's Ark",
+    "details": "NES exclusive game",
+    "igdbId": 48192,
+    "gbId": 10611,
+    "gbGuid": "3030-10611",
+    "tgdbId": 1977
+  },
+  {
+    "id": "nes257",
+    "name": "Oishinbo: Kyukyoku no Menu 3bon Syoubu",
+    "details": "NES exclusive game",
+    "igdbId": 48406,
+    "gbId": 41425,
+    "gbGuid": "3030-41425",
+    "tgdbId": 27240
+  },
+  {
+    "id": "nes258",
+    "name": "Operation Secret Storm",
+    "details": "NES exclusive game",
+    "igdbId": 3143,
+    "gbId": 13423,
+    "gbGuid": "3030-13423",
+    "tgdbId": 1980
+  },
+  {
+    "id": "nes259",
+    "name": "Over Horizon",
+    "details": "NES exclusive game",
+    "igdbId": 48190,
+    "gbId": 11102,
+    "gbGuid": "3030-11102",
+    "tgdbId": 2001
+  },
+  {
+    "id": "nes260",
+    "name": "Pachi-Slot Adventure 2: Sorotta-kun no Pachi-Slot Tanteidan",
+    "details": "NES exclusive game",
+    "igdbId": 48796,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 40628
+  },
+  {
+    "id": "nes261",
+    "name": "Pachi-Slot Adventure 3: Bitaoshii 7 Kenzan!",
+    "details": "NES exclusive game",
+    "igdbId": 48795,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 40629
+  },
+  {
+    "id": "nes262",
+    "name": "Panic Restaurant",
+    "details": "NES exclusive game",
+    "igdbId": 48051,
+    "gbId": 18919,
+    "gbGuid": "3030-18919",
+    "tgdbId": 1379
+  },
+  {
+    "id": "nes263",
+    "name": "Parallel World",
+    "details": "NES exclusive game",
+    "igdbId": 48348,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 30998
+  },
+  {
+    "id": "nes264",
+    "name": "Peek-A-Boo Poker",
+    "details": "NES exclusive game",
+    "igdbId": 48277,
+    "gbId": 15655,
+    "gbGuid": "3030-15655",
+    "tgdbId": 8519
+  },
+  {
+    "id": "nes265",
+    "name": "Pesterminator: The Western Exterminator",
+    "details": "NES exclusive game",
+    "igdbId": 48080,
+    "gbId": 15944,
+    "gbGuid": "3030-15944",
+    "tgdbId": 1441
+  },
+  {
+    "id": "nes266",
+    "name": "Peter Pan & The Pirates",
+    "details": "NES exclusive game",
+    "igdbId": 48189,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 2004
+  },
+  {
+    "id": "nes267",
+    "name": "Phantom Fighter",
+    "details": "NES exclusive game",
+    "igdbId": 48188,
+    "gbId": 1191,
+    "gbGuid": "3030-1191",
+    "tgdbId": 2005
+  },
+  {
+    "id": "nes268",
+    "name": "Pictionary",
+    "details": "NES exclusive game",
+    "igdbId": 48224,
+    "gbId": 17553,
+    "gbGuid": "3030-17553",
+    "tgdbId": 44643
+  },
+  {
+    "id": "nes269",
+    "name": "PinBot",
+    "details": "NES exclusive game",
+    "igdbId": 72809,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 2007
+  },
+  {
+    "id": "nes270",
     "details": [
       "NES laucnh title",
       "Action Series"
@@ -207,7 +2471,16 @@
     "tgdbId": 372
   },
   {
-    "id": "nes19",
+    "id": "nes271",
+    "name": "Pinball Quest",
+    "details": "NES exclusive game",
+    "igdbId": 48026,
+    "gbId": 16223,
+    "gbGuid": "3030-16223",
+    "tgdbId": 373
+  },
+  {
+    "id": "nes272",
     "name": "Popeye",
     "details": "Arcade Series",
     "igdbId": 4619,
@@ -216,7 +2489,43 @@
     "tgdbId": 1442
   },
   {
-    "id": "nes20",
+    "id": "nes273",
+    "name": "Popeye no Eigo Asobi",
+    "details": "NES exclusive game",
+    "igdbId": 48641,
+    "gbId": 35883,
+    "gbGuid": "3030-35883",
+    "tgdbId": 23955
+  },
+  {
+    "id": "nes274",
+    "name": "Power Blade 2",
+    "details": "NES exclusive game",
+    "igdbId": 48223,
+    "gbId": 18596,
+    "gbGuid": "3030-18596",
+    "tgdbId": 2011
+  },
+  {
+    "id": "nes275",
+    "name": "Power Punch II",
+    "details": "NES exclusive game",
+    "igdbId": 48222,
+    "gbId": 15812,
+    "gbGuid": "3030-15812",
+    "tgdbId": 2012
+  },
+  {
+    "id": "nes276",
+    "name": "Power Soccer",
+    "details": "NES exclusive game",
+    "igdbId": 48305,
+    "gbId": 37910,
+    "gbGuid": "3030-37910",
+    "tgdbId": 37475
+  },
+  {
+    "id": "nes277",
     "name": "Pro Wrestling",
     "details": "Sports Series",
     "igdbId": 18143,
@@ -225,7 +2534,205 @@
     "tgdbId": 1320
   },
   {
-    "id": "nes21",
+    "id": "nes278",
+    "name": "Puss 'n Boots: Pero's Great Adventure",
+    "details": "NES exclusive game",
+    "igdbId": 48219,
+    "gbId": 17529,
+    "gbGuid": "3030-17529",
+    "tgdbId": 2017
+  },
+  {
+    "id": "nes279",
+    "name": "RPG Jinsei Game",
+    "details": "NES exclusive game",
+    "igdbId": 48819,
+    "gbId": 67438,
+    "gbGuid": "3030-67438",
+    "tgdbId": 40794
+  },
+  {
+    "id": "nes280",
+    "name": "Race America",
+    "details": "NES exclusive game",
+    "igdbId": 48215,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 2029
+  },
+  {
+    "id": "nes281",
+    "name": "Racer Mini Yonku: Japan Cup",
+    "details": "NES exclusive game",
+    "igdbId": 48822,
+    "gbId": 48256,
+    "gbGuid": "3030-48256",
+    "tgdbId": 40791
+  },
+  {
+    "id": "nes282",
+    "name": "Racket Attack",
+    "details": "NES exclusive game",
+    "igdbId": 48214,
+    "gbId": 8745,
+    "gbGuid": "3030-8745",
+    "tgdbId": 2030
+  },
+  {
+    "id": "nes283",
+    "name": "Radia Senki: Reimmeihen",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 6348,
+    "gbGuid": "3030-6348",
+    "tgdbId": 19058
+  },
+  {
+    "id": "nes284",
+    "name": "Raid !!!",
+    "details": "NES exclusive game",
+    "igdbId": 92219,
+    "gbId": 34109,
+    "gbGuid": "3030-34109",
+    "tgdbId": 39522
+  },
+  {
+    "id": "nes285",
+    "name": "Raid 2020",
+    "details": "NES exclusive game",
+    "igdbId": 48211,
+    "gbId": 18917,
+    "gbGuid": "3030-18917",
+    "tgdbId": 2033
+  },
+  {
+    "id": "nes286",
+    "name": "Rambo",
+    "details": "NES exclusive game",
+    "igdbId": 48210,
+    "gbId": 3114,
+    "gbGuid": "3030-3114",
+    "tgdbId": 2036
+  },
+  {
+    "id": "nes287",
+    "name": "Robocco Wars",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 23536,
+    "gbGuid": "3030-23536",
+    "tgdbId": 33578
+  },
+  {
+    "id": "nes288",
+    "name": "Robodemons",
+    "details": "NES exclusive game",
+    "igdbId": 48207,
+    "gbId": 13909,
+    "gbGuid": "3030-13909",
+    "tgdbId": 2048
+  },
+  {
+    "id": "nes289",
+    "name": "Rock 'n' Ball",
+    "details": "NES exclusive game",
+    "igdbId": 48206,
+    "gbId": 1790,
+    "gbGuid": "3030-1790",
+    "tgdbId": 2049
+  },
+  {
+    "id": "nes290",
+    "name": "RollerGames",
+    "details": "NES exclusive game",
+    "igdbId": 40076,
+    "gbId": 15287,
+    "gbGuid": "3030-15287",
+    "tgdbId": 1444
+  },
+  {
+    "id": "nes291",
+    "name": "Roundball: 2 on 2 Challenge",
+    "details": "NES exclusive game",
+    "igdbId": 48203,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 2056
+  },
+  {
+    "id": "nes292",
+    "name": "Sanada Ten Braves",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes293",
+    "name": "Sanrio Cup: Ponpon Volleyball",
+    "details": "NES exclusive game",
+    "igdbId": 97416,
+    "gbId": 67703,
+    "gbGuid": "3030-67703",
+    "tgdbId": 24288
+  },
+  {
+    "id": "nes294",
+    "name": "Sherlock Holmes: Hakushaku Reijou Yuukai Jiken",
+    "details": "NES exclusive game",
+    "igdbId": 48396,
+    "gbId": 42175,
+    "gbGuid": "3030-42175",
+    "tgdbId": 27271
+  },
+  {
+    "id": "nes295",
+    "name": "Shockwave",
+    "details": "NES exclusive game",
+    "igdbId": 48084,
+    "gbId": 4048,
+    "gbGuid": "3030-4048",
+    "tgdbId": 1414
+  },
+  {
+    "id": "nes296",
+    "name": "Shooting Range",
+    "details": "NES exclusive game",
+    "igdbId": 48247,
+    "gbId": 29088,
+    "gbGuid": "3030-29088",
+    "tgdbId": 2072
+  },
+  {
+    "id": "nes297",
+    "name": "Sidewinder",
+    "details": "NES exclusive game",
+    "igdbId": 12850,
+    "gbId": 12630,
+    "gbGuid": "3030-12630",
+    "tgdbId": 36127
+  },
+  {
+    "id": "nes298",
+    "name": "Silver Surfer",
+    "details": "NES exclusive game",
+    "igdbId": 9099,
+    "gbId": 12487,
+    "gbGuid": "3030-12487",
+    "tgdbId": 1416
+  },
+  {
+    "id": "nes299",
+    "name": "Skate or Die 2: The Search for Double Trouble",
+    "details": "NES exclusive game",
+    "igdbId": 48181,
+    "gbId": 11794,
+    "gbGuid": "3030-11794",
+    "tgdbId": 1894
+  },
+  {
+    "id": "nes300",
     "name": "Slalom",
     "details": "Sports Series",
     "igdbId": 14589,
@@ -234,7 +2741,25 @@
     "tgdbId": 379
   },
   {
-    "id": "nes22",
+    "id": "nes301",
+    "name": "Snake's Revenge",
+    "details": "NES exclusive game",
+    "igdbId": 7848,
+    "gbId": 6129,
+    "gbGuid": "3030-6129",
+    "tgdbId": 366
+  },
+  {
+    "id": "nes302",
+    "name": "Snoopy's Silly Sports Spectacular!",
+    "details": "NES exclusive game",
+    "igdbId": 48077,
+    "gbId": 11985,
+    "gbGuid": "3030-11985",
+    "tgdbId": 1447
+  },
+  {
+    "id": "nes303",
     "name": "Soccer",
     "details": "Sports Series",
     "igdbId": 86375,
@@ -243,7 +2768,88 @@
     "tgdbId": 42820
   },
   {
-    "id": "nes23",
+    "id": "nes304",
+    "name": "Solstice: The Quest for the Staff of Demnos",
+    "details": "NES exclusive game",
+    "igdbId": 48244,
+    "gbId": 13220,
+    "gbGuid": "3030-13220",
+    "tgdbId": 2102
+  },
+  {
+    "id": "nes305",
+    "name": "Somari",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes306",
+    "name": "Space Hunter",
+    "details": "NES exclusive game",
+    "igdbId": 26416,
+    "gbId": 7861,
+    "gbGuid": "3030-7861",
+    "tgdbId": 55496
+  },
+  {
+    "id": "nes307",
+    "name": "Space Shuttle Project",
+    "details": "NES exclusive game",
+    "igdbId": 48243,
+    "gbId": 22831,
+    "gbGuid": "3030-22831",
+    "tgdbId": 2103
+  },
+  {
+    "id": "nes308",
+    "name": "Spartan X 2",
+    "details": "NES exclusive game",
+    "igdbId": 48650,
+    "gbId": 13529,
+    "gbGuid": "3030-13529",
+    "tgdbId": 22517
+  },
+  {
+    "id": "nes309",
+    "name": "Spelunker II: Yuushahe no Chousen",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27282
+  },
+  {
+    "id": "nes310",
+    "name": "Splatterhouse: Wanpaku Graffiti",
+    "details": "NES exclusive game",
+    "igdbId": 48653,
+    "gbId": 4912,
+    "gbGuid": "3030-4912",
+    "tgdbId": 22442
+  },
+  {
+    "id": "nes311",
+    "name": "Sqoon",
+    "details": "NES exclusive game",
+    "igdbId": 4605,
+    "gbId": 309,
+    "gbGuid": "3030-309",
+    "tgdbId": 2107
+  },
+  {
+    "id": "nes312",
+    "name": "Square no Tom Sawyer",
+    "details": "NES exclusive game",
+    "igdbId": 73518,
+    "gbId": 17014,
+    "gbGuid": "3030-17014",
+    "tgdbId": 27284
+  },
+  {
+    "id": "nes313",
     "details": [
       "NES laucnh title",
       "Robot Series"
@@ -255,7 +2861,97 @@
     "tgdbId": 2108
   },
   {
-    "id": "nes24",
+    "id": "nes314",
+    "name": "Stadium Events",
+    "details": "NES exclusive game",
+    "igdbId": 2242,
+    "gbId": 7309,
+    "gbGuid": "3030-7309",
+    "tgdbId": 1452
+  },
+  {
+    "id": "nes315",
+    "name": "Stanley: The Search for Dr. Livingston",
+    "details": "NES exclusive game",
+    "igdbId": 48242,
+    "gbId": 9593,
+    "gbGuid": "3030-9593",
+    "tgdbId": 43098
+  },
+  {
+    "id": "nes316",
+    "name": "Star Trek: 25th Anniversary",
+    "details": "NES exclusive game",
+    "igdbId": 2231,
+    "gbId": 9737,
+    "gbGuid": "3030-9737",
+    "tgdbId": 1453
+  },
+  {
+    "id": "nes317",
+    "name": "Star Voyager",
+    "details": "NES exclusive game",
+    "igdbId": 3283,
+    "gbId": 867,
+    "gbGuid": "3030-867",
+    "tgdbId": 2113
+  },
+  {
+    "id": "nes318",
+    "name": "Star Wars",
+    "details": "NES exclusive game",
+    "igdbId": 54649,
+    "gbId": 54,
+    "gbGuid": "3030-54",
+    "tgdbId": 381
+  },
+  {
+    "id": "nes319",
+    "name": "Starship Hector",
+    "details": "NES exclusive game",
+    "igdbId": 48238,
+    "gbId": 8092,
+    "gbGuid": "3030-8092",
+    "tgdbId": 2114
+  },
+  {
+    "id": "nes320",
+    "name": "Stealth ATF",
+    "details": "NES exclusive game",
+    "igdbId": 48237,
+    "gbId": 5441,
+    "gbGuid": "3030-5441",
+    "tgdbId": 2115
+  },
+  {
+    "id": "nes321",
+    "name": "Sunman",
+    "details": "NES exclusive game",
+    "igdbId": 48651,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 22455
+  },
+  {
+    "id": "nes322",
+    "name": "Super Chinese 3",
+    "details": "NES exclusive game",
+    "igdbId": 48840,
+    "gbId": 41293,
+    "gbGuid": "3030-41293",
+    "tgdbId": 40867
+  },
+  {
+    "id": "nes323",
+    "name": "Super Glove Ball",
+    "details": "NES exclusive game",
+    "igdbId": 48234,
+    "gbId": 13107,
+    "gbGuid": "3030-13107",
+    "tgdbId": 2120
+  },
+  {
+    "id": "nes324",
     "details": [
       "NES laucnh title",
       "Action Series"
@@ -267,7 +2963,169 @@
     "tgdbId": 140
   },
   {
-    "id": "nes25",
+    "id": "nes325",
+    "name": "Super Star Force: Jikūreki no Himitsu",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27304
+  },
+  {
+    "id": "nes326",
+    "name": "Super Turrican",
+    "details": "NES exclusive game",
+    "igdbId": 48231,
+    "gbId": 44802,
+    "gbGuid": "3030-44802",
+    "tgdbId": 2125
+  },
+  {
+    "id": "nes327",
+    "name": "Superman",
+    "details": "NES exclusive game",
+    "igdbId": 68440,
+    "gbId": 22981,
+    "gbGuid": "3030-22981",
+    "tgdbId": 2790
+  },
+  {
+    "id": "nes328",
+    "name": "Sweet Home",
+    "details": "NES exclusive game",
+    "igdbId": 9426,
+    "gbId": 15120,
+    "gbGuid": "3030-15120",
+    "tgdbId": 19039
+  },
+  {
+    "id": "nes329",
+    "name": "Sword Master",
+    "details": "NES exclusive game",
+    "igdbId": 69900,
+    "gbId": 14708,
+    "gbGuid": "3030-14708",
+    "tgdbId": 1460
+  },
+  {
+    "id": "nes330",
+    "name": "Swords and Serpents",
+    "details": "NES exclusive game",
+    "igdbId": 48230,
+    "gbId": 3639,
+    "gbGuid": "3030-3639",
+    "tgdbId": 2126
+  },
+  {
+    "id": "nes331",
+    "name": "TM Network: Live in Power Bowl",
+    "details": "NES exclusive game",
+    "igdbId": 48435,
+    "gbId": 37086,
+    "gbGuid": "3030-37086",
+    "tgdbId": 48341
+  },
+  {
+    "id": "nes332",
+    "name": "Taboo: The Sixth Sense",
+    "details": "NES exclusive game",
+    "igdbId": 11295,
+    "gbId": 4271,
+    "gbGuid": "3030-4271",
+    "tgdbId": 1420
+  },
+  {
+    "id": "nes333",
+    "name": "Tag Team Match: M.U.S.C.L.E.",
+    "details": "NES exclusive game",
+    "igdbId": 48933,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 1891
+  },
+  {
+    "id": "nes334",
+    "name": "Takahashi Meijin no Bouken Jima IV",
+    "details": "NES exclusive game",
+    "igdbId": 84868,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 22191
+  },
+  {
+    "id": "nes335",
+    "name": "Tecmo Baseball",
+    "details": "NES exclusive game",
+    "igdbId": 48228,
+    "gbId": 16272,
+    "gbGuid": "3030-16272",
+    "tgdbId": 2130
+  },
+  {
+    "id": "nes336",
+    "name": "Tecmo Cup Soccer Game",
+    "details": "NES exclusive game",
+    "igdbId": 48227,
+    "gbId": 11965,
+    "gbGuid": "3030-11965",
+    "tgdbId": 2131
+  },
+  {
+    "id": "nes337",
+    "name": "Tecmo NBA Basketball",
+    "details": "NES exclusive game",
+    "igdbId": 48226,
+    "gbId": 27293,
+    "gbGuid": "3030-27293",
+    "tgdbId": 2132
+  },
+  {
+    "id": "nes338",
+    "name": "Tecmo World Wrestling",
+    "details": "NES exclusive game",
+    "igdbId": 48083,
+    "gbId": 12836,
+    "gbGuid": "3030-12836",
+    "tgdbId": 1422
+  },
+  {
+    "id": "nes339",
+    "name": "Teenage Mutant Ninja Turtles III: The Manhattan Project",
+    "details": "NES exclusive game",
+    "igdbId": 14731,
+    "gbId": 1831,
+    "gbGuid": "3030-1831",
+    "tgdbId": 1428
+  },
+  {
+    "id": "nes340",
+    "name": "Teenage Mutant Ninja Turtles: Tournament Fighters",
+    "details": "NES exclusive game",
+    "igdbId": 48274,
+    "gbId": 4896,
+    "gbGuid": "3030-4896",
+    "tgdbId": 2134
+  },
+  {
+    "id": "nes341",
+    "name": "Tenchi wo Kurau II: Shokatsu Koumei Den",
+    "details": "NES exclusive game",
+    "igdbId": 48346,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 31003
+  },
+  {
+    "id": "nes342",
+    "name": "Tenkaichi Bushi: Keru Naguuru",
+    "details": "NES exclusive game",
+    "igdbId": 48389,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27315
+  },
+  {
+    "id": "nes343",
     "details": [
       "NES laucnh title",
       "Sports Series"
@@ -279,7 +3137,394 @@
     "tgdbId": 384
   },
   {
-    "id": "nes26",
+    "id": "nes344",
+    "name": "The Adventures of Bayou Billy",
+    "details": "NES exclusive game",
+    "igdbId": 8740,
+    "gbId": 12536,
+    "gbGuid": "3030-12536",
+    "tgdbId": 327
+  },
+  {
+    "id": "nes345",
+    "name": "The Adventures of Gilligan's Island",
+    "details": "NES exclusive game",
+    "igdbId": 8742,
+    "gbId": 10759,
+    "gbGuid": "3030-10759",
+    "tgdbId": 1293
+  },
+  {
+    "id": "nes346",
+    "name": "The Adventures of Rad Gravity",
+    "details": "NES exclusive game",
+    "igdbId": 8777,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 1611
+  },
+  {
+    "id": "nes347",
+    "name": "The Black Bass",
+    "details": "NES exclusive game",
+    "igdbId": 17458,
+    "gbId": 5643,
+    "gbGuid": "3030-5643",
+    "tgdbId": 1650
+  },
+  {
+    "id": "nes348",
+    "name": "The Blue Marlin",
+    "details": "NES exclusive game",
+    "igdbId": 48104,
+    "gbId": 6169,
+    "gbGuid": "3030-6169",
+    "tgdbId": 1652
+  },
+  {
+    "id": "nes349",
+    "name": "The Bugs Bunny Birthday Blowout",
+    "details": "NES exclusive game",
+    "igdbId": 2719,
+    "gbId": 18326,
+    "gbGuid": "3030-18326",
+    "tgdbId": 1657
+  },
+  {
+    "id": "nes350",
+    "name": "The California Raisins: The Grape Escape",
+    "details": "NES exclusive game",
+    "igdbId": 48702,
+    "gbId": 36472,
+    "gbGuid": "3030-36472",
+    "tgdbId": 11767
+  },
+  {
+    "id": "nes351",
+    "name": "The Flintstones: The Rescue of Dino & Hoppy",
+    "details": "NES exclusive game",
+    "igdbId": 18810,
+    "gbId": 274,
+    "gbGuid": "3030-274",
+    "tgdbId": 1288
+  },
+  {
+    "id": "nes352",
+    "name": "The Flintstones: The Surprise at Dinosaur Peak!",
+    "details": "NES exclusive game",
+    "igdbId": 48288,
+    "gbId": 6882,
+    "gbGuid": "3030-6882",
+    "tgdbId": 7905
+  },
+  {
+    "id": "nes353",
+    "name": "The Golf '92",
+    "details": "NES exclusive game",
+    "igdbId": 48483,
+    "gbId": 70643,
+    "gbGuid": "3030-70643",
+    "tgdbId": 26898
+  },
+  {
+    "id": "nes354",
+    "name": "The Goonies II",
+    "details": "NES exclusive game",
+    "igdbId": 18916,
+    "gbId": 10395,
+    "gbGuid": "3030-10395",
+    "tgdbId": 1296
+  },
+  {
+    "id": "nes355",
+    "name": "The Guardian Legend",
+    "details": "NES exclusive game",
+    "igdbId": 48058,
+    "gbId": 13536,
+    "gbGuid": "3030-13536",
+    "tgdbId": 1298
+  },
+  {
+    "id": "nes356",
+    "name": "The Jetsons: Cogswell's Caper",
+    "details": "NES exclusive game",
+    "igdbId": 48153,
+    "gbId": 10709,
+    "gbGuid": "3030-10709",
+    "tgdbId": 1865
+  },
+  {
+    "id": "nes357",
+    "name": "The Karate Kid",
+    "details": "NES exclusive game",
+    "igdbId": 68386,
+    "gbId": 14763,
+    "gbGuid": "3030-14763",
+    "tgdbId": 1471
+  },
+  {
+    "id": "nes358",
+    "name": "The Lone Ranger",
+    "details": "NES exclusive game",
+    "igdbId": 48183,
+    "gbId": 22205,
+    "gbGuid": "3030-22205",
+    "tgdbId": 1889
+  },
+  {
+    "id": "nes359",
+    "name": "The Mafat Conspiracy",
+    "details": "NES exclusive game",
+    "igdbId": 48057,
+    "gbId": 9219,
+    "gbGuid": "3030-9219",
+    "tgdbId": 1429
+  },
+  {
+    "id": "nes360",
+    "name": "The Magic of Scheherazade",
+    "details": "NES exclusive game",
+    "igdbId": 48078,
+    "gbId": 9011,
+    "gbGuid": "3030-9011",
+    "tgdbId": 1446
+  },
+  {
+    "id": "nes361",
+    "name": "The Mutant Virus: \"Crisis in a Computer World!\"",
+    "details": "NES exclusive game",
+    "igdbId": 48196,
+    "gbId": 4998,
+    "gbGuid": "3030-4998",
+    "tgdbId": null
+  },
+  {
+    "id": "nes362",
+    "name": "The Quest of Ki",
+    "details": "NES exclusive game",
+    "igdbId": 48353,
+    "gbId": 4905,
+    "gbGuid": "3030-4905",
+    "tgdbId": 30942
+  },
+  {
+    "id": "nes363",
+    "name": "The Rocketeer",
+    "details": "NES exclusive game",
+    "igdbId": 48205,
+    "gbId": 3219,
+    "gbGuid": "3030-3219",
+    "tgdbId": 2050
+  },
+  {
+    "id": "nes364",
+    "name": "The Super Dimension Fortress Macross",
+    "details": "NES exclusive game",
+    "igdbId": 66470,
+    "gbId": 32224,
+    "gbGuid": "3030-32224",
+    "tgdbId": 54425
+  },
+  {
+    "id": "nes365",
+    "name": "The Ultimate Stuntman",
+    "details": "NES exclusive game",
+    "igdbId": 48264,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 2160
+  },
+  {
+    "id": "nes366",
+    "name": "The Uncanny X-Men",
+    "details": "NES exclusive game",
+    "igdbId": 48050,
+    "gbId": 2424,
+    "gbGuid": "3030-2424",
+    "tgdbId": 1386
+  },
+  {
+    "id": "nes367",
+    "name": "The Young Indiana Jones Chronicles",
+    "details": "NES exclusive game",
+    "igdbId": 48254,
+    "gbId": 13439,
+    "gbGuid": "3030-13439",
+    "tgdbId": 53176
+  },
+  {
+    "id": "nes368",
+    "name": "Time Diver: Eon Man",
+    "details": "NES exclusive game",
+    "igdbId": 48564,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26515
+  },
+  {
+    "id": "nes369",
+    "name": "Time Lord",
+    "details": "NES exclusive game",
+    "igdbId": 18536,
+    "gbId": 15739,
+    "gbGuid": "3030-15739",
+    "tgdbId": 388
+  },
+  {
+    "id": "nes370",
+    "name": "Tiny Toon Adventures",
+    "details": "NES exclusive game",
+    "igdbId": 4555,
+    "gbId": 16460,
+    "gbGuid": "3030-16460",
+    "tgdbId": 1384
+  },
+  {
+    "id": "nes371",
+    "name": "Tiny Toon Adventures 2: Trouble in Wackyland",
+    "details": "NES exclusive game",
+    "igdbId": 8047,
+    "gbId": 2147,
+    "gbGuid": "3030-2147",
+    "tgdbId": 2141
+  },
+  {
+    "id": "nes372",
+    "name": "Tiny Toon Adventures Cartoon Workshop",
+    "details": "NES exclusive game",
+    "igdbId": 8045,
+    "gbId": 30983,
+    "gbGuid": "3030-30983",
+    "tgdbId": 2142
+  },
+  {
+    "id": "nes373",
+    "name": "To the Earth",
+    "details": "NES exclusive game",
+    "igdbId": 48117,
+    "gbId": 16148,
+    "gbGuid": "3030-16148",
+    "tgdbId": 1465
+  },
+  {
+    "id": "nes374",
+    "name": "Toki no Tabibito: Time Stranger",
+    "details": "NES exclusive game",
+    "igdbId": 48879,
+    "gbId": 38812,
+    "gbGuid": "3030-38812",
+    "tgdbId": 40882
+  },
+  {
+    "id": "nes375",
+    "name": "Tokyo Pachi-Slot Adventure",
+    "details": "NES exclusive game",
+    "igdbId": 48877,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 40884
+  },
+  {
+    "id": "nes376",
+    "name": "Top Players' Tennis",
+    "details": "NES exclusive game",
+    "igdbId": 48700,
+    "gbId": 7081,
+    "gbGuid": "3030-7081",
+    "tgdbId": 11771
+  },
+  {
+    "id": "nes377",
+    "name": "Top Striker",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": 37909,
+    "gbGuid": "3030-37909",
+    "tgdbId": 27323
+  },
+  {
+    "id": "nes378",
+    "name": "Totally Rad",
+    "details": "NES exclusive game",
+    "igdbId": 48118,
+    "gbId": 12513,
+    "gbGuid": "3030-12513",
+    "tgdbId": 1463
+  },
+  {
+    "id": "nes379",
+    "name": "Town & Country Surf Designs II: Thrilla's Surfari",
+    "details": "NES exclusive game",
+    "igdbId": 48177,
+    "gbId": 30823,
+    "gbGuid": "3030-30823",
+    "tgdbId": 1904
+  },
+  {
+    "id": "nes380",
+    "name": "Town & Country Surf Designs: Wood & Water Rage",
+    "details": "NES exclusive game",
+    "igdbId": 48119,
+    "gbId": 2963,
+    "gbGuid": "3030-2963",
+    "tgdbId": 1461
+  },
+  {
+    "id": "nes381",
+    "name": "Track & Field II",
+    "details": "NES exclusive game",
+    "igdbId": 20903,
+    "gbId": 11289,
+    "gbGuid": "3030-11289",
+    "tgdbId": 324
+  },
+  {
+    "id": "nes382",
+    "name": "Treasure Master",
+    "details": "NES exclusive game",
+    "igdbId": 80822,
+    "gbId": 16708,
+    "gbGuid": "3030-16708",
+    "tgdbId": 2150
+  },
+  {
+    "id": "nes383",
+    "name": "Tsuppari Wars",
+    "details": "NES exclusive game",
+    "igdbId": 48384,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27327
+  },
+  {
+    "id": "nes384",
+    "name": "UWC",
+    "details": "NES exclusive game",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes385",
+    "name": "Ultimate Air Combat",
+    "details": "NES exclusive game",
+    "igdbId": 48267,
+    "gbId": 24515,
+    "gbGuid": "3030-24515",
+    "tgdbId": 2157
+  },
+  {
+    "id": "nes386",
+    "name": "Ultimate Basketball",
+    "details": "NES exclusive game",
+    "igdbId": 48266,
+    "gbId": 23115,
+    "gbGuid": "3030-23115",
+    "tgdbId": 2158
+  },
+  {
+    "id": "nes387",
     "name": "Urban Champion",
     "details": "Action Series",
     "igdbId": 4624,
@@ -288,7 +3533,61 @@
     "tgdbId": 1390
   },
   {
-    "id": "nes27",
+    "id": "nes388",
+    "name": "Ushio to Tora: Shinen no Daiyou",
+    "details": "NES exclusive game",
+    "igdbId": 48554,
+    "gbId": 3006,
+    "gbGuid": "3030-3006",
+    "tgdbId": 26561
+  },
+  {
+    "id": "nes389",
+    "name": "Utsurun Desu.: Kawauso Hawaii e Iku!!!",
+    "details": "NES exclusive game",
+    "igdbId": 48553,
+    "gbId": 52028,
+    "gbGuid": "3030-52028",
+    "tgdbId": 26562
+  },
+  {
+    "id": "nes390",
+    "name": "Vegas Connection: Casino Kara Ai o Komete",
+    "details": "NES exclusive game",
+    "igdbId": 48872,
+    "gbId": 23113,
+    "gbGuid": "3030-23113",
+    "tgdbId": 40891
+  },
+  {
+    "id": "nes391",
+    "name": "Vegas Dream",
+    "details": "NES exclusive game",
+    "igdbId": 3661,
+    "gbId": 18035,
+    "gbGuid": "3030-18035",
+    "tgdbId": 2164
+  },
+  {
+    "id": "nes392",
+    "name": "Vice: Project Doom",
+    "details": "NES exclusive game",
+    "igdbId": 48262,
+    "gbId": 8193,
+    "gbGuid": "3030-8193",
+    "tgdbId": 2166
+  },
+  {
+    "id": "nes393",
+    "name": "Videomation",
+    "details": "NES exclusive game",
+    "igdbId": 18309,
+    "gbId": 29437,
+    "gbGuid": "3030-29437",
+    "tgdbId": 2167
+  },
+  {
+    "id": "nes394",
     "name": "Volleyball",
     "details": "Sports Series",
     "igdbId": 55052,
@@ -297,7 +3596,115 @@
     "tgdbId": 2168
   },
   {
-    "id": "nes28",
+    "id": "nes395",
+    "name": "WCW Wrestling",
+    "details": "NES exclusive game",
+    "igdbId": 7447,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null
+  },
+  {
+    "id": "nes396",
+    "name": "WWF WrestleMania",
+    "details": "NES exclusive game",
+    "igdbId": 72120,
+    "gbId": 3213,
+    "gbGuid": "3030-3213",
+    "tgdbId": 2186
+  },
+  {
+    "id": "nes397",
+    "name": "WWF WrestleMania Challenge",
+    "details": "NES exclusive game",
+    "igdbId": 19513,
+    "gbId": 20282,
+    "gbGuid": "3030-20282",
+    "tgdbId": 2187
+  },
+  {
+    "id": "nes398",
+    "name": "Wacky Races",
+    "details": "NES exclusive game",
+    "igdbId": 81547,
+    "gbId": 23001,
+    "gbGuid": "3030-23001",
+    "tgdbId": 2169
+  },
+  {
+    "id": "nes399",
+    "name": "Wagyan Land",
+    "details": "NES exclusive game",
+    "igdbId": 48550,
+    "gbId": 37159,
+    "gbGuid": "3030-37159",
+    "tgdbId": 26566
+  },
+  {
+    "id": "nes400",
+    "name": "Wall Street Kid",
+    "details": "NES exclusive game",
+    "igdbId": 48261,
+    "gbId": 13426,
+    "gbGuid": "3030-13426",
+    "tgdbId": 2170
+  },
+  {
+    "id": "nes401",
+    "name": "Wally Bear and the NO! Gang",
+    "details": "NES exclusive game",
+    "igdbId": 48260,
+    "gbId": 5308,
+    "gbGuid": "3030-5308",
+    "tgdbId": 2171
+  },
+  {
+    "id": "nes402",
+    "name": "Werewolf: The Last Warrior",
+    "details": "NES exclusive game",
+    "igdbId": 48259,
+    "gbId": 3506,
+    "gbGuid": "3030-3506",
+    "tgdbId": 2176
+  },
+  {
+    "id": "nes403",
+    "name": "Where's Waldo?",
+    "details": "NES exclusive game",
+    "igdbId": 10618,
+    "gbId": 12689,
+    "gbGuid": "3030-12689",
+    "tgdbId": 2179
+  },
+  {
+    "id": "nes404",
+    "name": "Who Framed Roger Rabbit",
+    "details": "NES exclusive game",
+    "igdbId": 12826,
+    "gbId": 4274,
+    "gbGuid": "3030-4274",
+    "tgdbId": 2180
+  },
+  {
+    "id": "nes405",
+    "name": "Whomp 'Em",
+    "details": "NES exclusive game",
+    "igdbId": 48257,
+    "gbId": 11428,
+    "gbGuid": "3030-11428",
+    "tgdbId": 2181
+  },
+  {
+    "id": "nes406",
+    "name": "Widget",
+    "details": "NES exclusive game",
+    "igdbId": 95355,
+    "gbId": 19468,
+    "gbGuid": "3030-19468",
+    "tgdbId": 2182
+  },
+  {
+    "id": "nes407",
     "details": [
       "NES laucnh title",
       "Light Gun Series"
@@ -309,7 +3716,61 @@
     "tgdbId": 1603
   },
   {
-    "id": "nes29",
+    "id": "nes408",
+    "name": "Willow",
+    "details": "NES exclusive game",
+    "igdbId": 6981,
+    "gbId": 7916,
+    "gbGuid": "3030-7916",
+    "tgdbId": 1393
+  },
+  {
+    "id": "nes409",
+    "name": "Wily & Light's Rockboard: That's Paradise!!",
+    "details": "NES exclusive game",
+    "igdbId": 1729,
+    "gbId": 829,
+    "gbGuid": "3030-829",
+    "tgdbId": 26410
+  },
+  {
+    "id": "nes410",
+    "name": "Wizards & Warriors",
+    "details": "NES exclusive game",
+    "igdbId": 9720,
+    "gbId": 6633,
+    "gbGuid": "3030-6633",
+    "tgdbId": 1397
+  },
+  {
+    "id": "nes411",
+    "name": "Wizards & Warriors III: Kuros: Visions of Power",
+    "details": "NES exclusive game",
+    "igdbId": 48092,
+    "gbId": 1814,
+    "gbGuid": "3030-1814",
+    "tgdbId": 1398
+  },
+  {
+    "id": "nes412",
+    "name": "Wolverine",
+    "details": "NES exclusive game",
+    "igdbId": 85885,
+    "gbId": 26157,
+    "gbGuid": "3030-26157",
+    "tgdbId": 323
+  },
+  {
+    "id": "nes413",
+    "name": "Wrath of the Black Manta",
+    "details": "NES exclusive game",
+    "igdbId": 10761,
+    "gbId": 563,
+    "gbGuid": "3030-563",
+    "tgdbId": 322
+  },
+  {
+    "id": "nes414",
     "details": [
       "NES laucnh title",
       "Programmable Series"
@@ -321,15 +3782,39 @@
     "tgdbId": 321
   },
   {
-    "id": "nes30",
-    "details": [
-      "test data",
-      "more test data for array tests"
-    ],
-    "name": "Wrecking Crew",
-    "igdbId": 41420333333333,
-    "gbId": 14710,
-    "gbGuid": "3030-14710",
-    "tgdbId": 321
+    "id": "nes415",
+    "name": "Wurm: Journey to the Center of the Earth",
+    "details": "NES exclusive game",
+    "igdbId": 48112,
+    "gbId": 17201,
+    "gbGuid": "3030-17201",
+    "tgdbId": 1601
+  },
+  {
+    "id": "nes416",
+    "name": "Xexyz",
+    "details": "NES exclusive game",
+    "igdbId": 14413,
+    "gbId": 18714,
+    "gbGuid": "3030-18714",
+    "tgdbId": 1281
+  },
+  {
+    "id": "nes417",
+    "name": "Yume Penguin Monogatari",
+    "details": "NES exclusive game",
+    "igdbId": 48596,
+    "gbId": 9867,
+    "gbGuid": "3030-9867",
+    "tgdbId": 26404
+  },
+  {
+    "id": "nes418",
+    "name": "Zombie Nation",
+    "details": "NES exclusive game",
+    "igdbId": 48201,
+    "gbId": 18465,
+    "gbGuid": "3030-18465",
+    "tgdbId": 2058
   }
 ]

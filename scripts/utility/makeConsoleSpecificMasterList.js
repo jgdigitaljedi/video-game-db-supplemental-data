@@ -9,7 +9,7 @@ const _uniq = require('lodash/uniq');
 const filesArr = [
   '../../finalOutput/smallFiles/launchTitles/nesLaunchTitles.json',
   '../../finalOutput/smallFiles/special/nesBlackBoxTitles.json',
-  './testFiles/nesTesterDupes.json'
+  '../../finalOutput/smallFiles/platformExclusives/nesExclusives.json'
 ];
 const mlId = 'ccl1';
 const outPath = '../../finalOutput/consoleLists/nintendoEntertainmentSystem.json';
