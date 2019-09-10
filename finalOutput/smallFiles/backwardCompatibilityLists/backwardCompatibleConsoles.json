@@ -1,7 +1,9 @@
 [
   {
     "name": "Atari 7800",
-    "details": "backward compatible with Atari 2600 games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - backward compatible with Atari 2600 games"
+    ],
     "id": "bcc1",
     "igdbId": 60,
     "gbId": 70,
@@ -10,7 +12,9 @@
   },
   {
     "name": "Nintendo Game Boy Advance",
-    "details": "backward compatible with Game Boy and Game Boy Color games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - backward compatible with Game Boy and Game Boy Color games"
+    ],
     "id": "bcc2",
     "igdbId": 24,
     "gbId": 4,
@@ -19,7 +23,9 @@
   },
   {
     "name": "Nintendo Game Boy Color",
-    "details": "backward compatible with Game Boy games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - backward compatible with Game Boy games"
+    ],
     "id": "bcc3",
     "igdbId": 22,
     "gbId": 57,
@@ -28,7 +34,9 @@
   },
   {
     "name": "Neo Geo Pocket Color",
-    "details": "backward compatible with Neo Geo Pocket games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - backward compatible with Neo Geo Pocket games"
+    ],
     "id": "bcc4",
     "igdbId": 120,
     "gbId": 81,
@@ -37,7 +45,9 @@
   },
   {
     "name": "Nintendo 3DS",
-    "details": "backward compatible with Nintendo DS games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - backward compatible with Nintendo DS games"
+    ],
     "id": "bcc5",
     "igdbId": 37,
     "gbId": 117,
@@ -46,7 +56,9 @@
   },
   {
     "name": "Nintendo DS",
-    "details": "launch edition and DS Lite are backward compatible with Game Boy Advance games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - launch edition and DS Lite are backward compatible with Game Boy Advance games"
+    ],
     "id": "bcc6",
     "igdbId": 20,
     "gbId": 52,
@@ -55,7 +67,9 @@
   },
   {
     "name": "Sony Playstation 2",
-    "details": "backward compatible with PlayStation games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - backward compatible with PlayStation games"
+    ],
     "id": "bcc7",
     "igdbId": 8,
     "gbId": 19,
@@ -65,8 +79,7 @@
   {
     "name": "Sony Playstation 3",
     "details": [
-      "launch eidition was backward compatible PS2 games but this was removed with an update",
-      "backward compatible with PlayStation games"
+      "Console Backward Compatible with Previous Generation Games - launch eidition was backward compatible PS2 games but this was removed with an update, backward compatible with PlayStation games"
     ],
     "id": "bcc8",
     "igdbId": 9,
@@ -76,7 +89,9 @@
   },
   {
     "name": "Nintendo Wii",
-    "details": "white launch edition backward compatible with GameCube games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - white launch edition backward compatible with GameCube games"
+    ],
     "id": "bcc9",
     "igdbId": 5,
     "gbId": 36,
@@ -85,7 +100,9 @@
   },
   {
     "name": "Nintendo Wii U",
-    "details": "backward compatible with Wii games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - backward compatible with Wii games"
+    ],
     "id": "bcc10",
     "igdbId": 41,
     "gbId": 139,
@@ -94,7 +111,9 @@
   },
   {
     "name": "Microsoft Xbox 360",
-    "details": "backward compatible with some Xbox games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - backward compatible with some Xbox games"
+    ],
     "id": "bcc11",
     "igdbId": 12,
     "gbId": 20,
@@ -103,7 +122,9 @@
   },
   {
     "name": "Microsoft Xbox One",
-    "details": "backward compatible with some Xbox and Xbox 360 games",
+    "details": [
+      "Console Backward Compatible with Previous Generation Games - backward compatible with some Xbox and Xbox 360 games"
+    ],
     "id": "bcc12",
     "igdbId": 49,
     "gbId": 145,
