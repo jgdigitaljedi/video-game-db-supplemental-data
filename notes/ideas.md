@@ -12,3 +12,4 @@
 - ps1 longbox games
 - games that use light guns
 - games that come with their own unique controller
+- nes hang tab titles
