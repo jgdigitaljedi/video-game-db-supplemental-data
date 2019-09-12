@@ -10,3 +10,5 @@
 - special edition games
 - consoles that can play burned discs
 - ps1 longbox games
+- games that use light guns
+- games that come with their own unique controller
