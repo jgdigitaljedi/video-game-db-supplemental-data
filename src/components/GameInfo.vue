@@ -38,7 +38,7 @@ export default {
       );
     },
     copyName() {
-      this.setCurrentName(this.game.name ? this.game.name : this.game.title);
+      this.setCurrentName(this.game.name ? this.game.name.trim() : this.game.title.trim());
     },
     ...mapMutations({
       setCurrentName: 'setCurrentName'
