@@ -1,0 +1,480 @@
+[
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/nintendoEntertainmentSystem.json",
+    "missing": [
+      {
+        "id": "nes16",
+        "name": "America Daitōryō Senkyo",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nes78",
+        "name": "Colorful Dragon",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nes111",
+        "name": "Dragon Ball Z Side Story: Plan to Eradicate the Saiyans",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nes183",
+        "name": "Joyvan Kid",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nes191",
+        "name": "Keisan Game",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nes206",
+        "name": "Layla",
+        "details": "NES exclusive game"
+      },
+      {
+        "id": "nes230",
+        "name": "Mighty Atom",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nes235",
+        "name": "Moai-kun",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nes236",
+        "name": "Moero 6!! Shin Moero!! Pro Yakyuu",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nes292",
+        "name": "Sanada Ten Braves",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nes305",
+        "name": "Somari",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nes384",
+        "name": "UWC",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/backwardCompatibilityIssues/ps1ToPs2Bc.json",
+    "missing": [
+      {
+        "name": "Gran Turismo 2 Demo",
+        "id": "psbc11",
+        "details": [
+          "PS1 game backward compatible on ps2 - APPLIES TO ALL PS2 VARIANTS: Graphical glitches with Gran Turismo mode menus."
+        ],
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json",
+    "missing": [
+      {
+        "details": [
+          "Xbox game plays on Xbox 360 - A line-like graphic is displayed near the character's neck"
+        ],
+        "name": "Shinchou Mahjong (Nobunaga Mahjong)",
+        "igdbId": null,
+        "id": "xbto360bc344",
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/launchTitles/dsLaunchTitles.json",
+    "missing": [
+      {
+        "id": "ndslt7",
+        "name": "Metroid Prime Hunters – First Hunt (Demo)",
+        "details": "Nintendo DS launch title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/launchTitles/ps4LaunchTitles.json",
+    "missing": [
+      {
+        "id": "ps4lt28",
+        "name": "Pool Nation Extreme",
+        "details": "Sony PlayStation 4 launch title (download only)",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/atariJaguarExclusives.json",
+    "missing": [
+      {
+        "name": "Black Out!",
+        "details": "Atari Jaguar exclusive",
+        "id": "ajex6",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Mad Bodies",
+        "details": "Atari Jaguar exclusive",
+        "id": "ajex23",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/famicomDiskSystemExclusives.json",
+    "missing": [
+      {
+        "name": "Suishō no Dragon",
+        "details": "Famicom Disk System exclusive",
+        "id": "fdsex13",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Yūyūki",
+        "details": "Famicom Disk System exclusive",
+        "id": "fdsex17",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nesExclusives.json",
+    "missing": [
+      {
+        "id": "nesex18",
+        "name": "America Daitōryō Senkyo",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nesex82",
+        "name": "Colorful Dragon",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nesex112",
+        "name": "Dragon Ball Z Side Story: Plan to Eradicate the Saiyans",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nesex180",
+        "name": "Joyvan Kid",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nesex189",
+        "name": "Keisan Game",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nesex203",
+        "name": "Layla",
+        "details": "NES exclusive game"
+      },
+      {
+        "id": "nesex227",
+        "name": "Mighty Atom",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nesex233",
+        "name": "Moai-kun",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nesex234",
+        "name": "Moero 6!! Shin Moero!! Pro Yakyuu",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nesex292",
+        "name": "Sanada Ten Braves",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nesex303",
+        "name": "Somari",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "id": "nesex360",
+        "name": "UWC",
+        "details": "NES exclusive game",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaDreamcastExclusives.json",
+    "missing": [
+      {
+        "name": "El Dorado Gate",
+        "details": "Sega Dreamcast exclusive",
+        "id": "sdcex14",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "POD 2",
+        "details": "Sega Dreamcast exclusive",
+        "id": "sdcex44",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaGameGearExclusives.json",
+    "missing": [
+      {
+        "name": "Pet Club: Neko Daisuki!",
+        "details": "Sega Game Gear exclusive",
+        "id": "sggex21",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Poker Face Paul",
+        "details": "Sega Game Gear exclusive",
+        "id": "sggex22",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaSaturnExclusives.json",
+    "missing": [
+      {
+        "name": "Gundam Gaiden 3",
+        "details": "Sega Saturn exclusive",
+        "id": "ssex22",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Virtual Volleyball",
+        "details": "Sega Saturn exclusive",
+        "id": "ssex50",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/turbografx16Exclusives.json",
+    "missing": [
+      {
+        "name": "Baribari Legend",
+        "details": "NEC Turbografx 16 exclusive",
+        "id": "t16ex1",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/turbografxCdExclusives.json",
+    "missing": [
+      {
+        "name": "List of Devil Hunter Yohko video games",
+        "details": "NEC Turbografx CD exclusive",
+        "id": "tcdex12",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/xbox360Exclusives.json",
+    "missing": [
+      {
+        "name": "Senko no Ronde: Dis-United Order",
+        "details": "Microsoft Xbox 360 full exclusive",
+        "id": "xb360ex121",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Boulder Dash XL",
+        "details": "Microsoft Xbox 360 console exclusive (Xbox LIVE Arcade)",
+        "id": "xb360ex191",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Game Room ",
+        "details": "Microsoft Xbox 360 full exclusive (Xbox LIVE Arcade)",
+        "id": "xb360ex240",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Warface: Xbox 360 Edition",
+        "details": "Microsoft Xbox 360 console exclusive (Xbox LIVE Arcade)",
+        "id": "xb360ex382",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/special/bannedInternationally.json",
+    "missing": [
+      {
+        "name": "Mortal Kombat (2011 video game)",
+        "details": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "id": "bi87",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  }
+]

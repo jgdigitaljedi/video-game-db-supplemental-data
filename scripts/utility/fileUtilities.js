@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const chalk = require('chalk');
+const glob = require('glob');
 
 module.exports.writeFile = function(filePath, data) {
   return new Promise((resolve, reject) => {
@@ -14,8 +14,12 @@ module.exports.writeFile = function(filePath, data) {
   });
 };
 
-module.exports.readFile = function(filePath) {
-  return fs.readFileSync(path.join(__dirname, filePath), 'utf-8');
+module.exports.readFile = function(filePath, fullPath) {
+  if (fullPath) {
+    return fs.readFileSync(filePath, 'utf-8');
+  } else {
+    return fs.readFileSync(path.join(__dirname, filePath), 'utf-8');
+  }
 };
 
 module.exports.incrementIds = function(data, prefix) {
@@ -33,4 +37,24 @@ module.exports.stringArrToObjectArr = function(data, details, prefix) {
       details
     };
   });
+};
+
+module.exports.readDir = function(dirPath) {
+  return new Promise((resolve, reject) => {
+    const getDirectories = (src, callback) => {
+      glob(src + '/**/*', callback);
+    };
+    getDirectories(path.join(__dirname, dirPath), function(err, res) {
+      if (err) {
+        console.log('Directory read error', err);
+        reject(err);
+      } else {
+        resolve(res);
+      }
+    });
+  });
+};
+
+module.exports.isDirectory = function(relativePath) {
+  return fs.lstatSync(relativePath).isDirectory();
 };

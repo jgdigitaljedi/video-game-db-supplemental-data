@@ -15,7 +15,8 @@
     "scrape:wiki:tables": "node scripts/utility/wikiScrapeTables.js",
     "stats": "node scripts/utility/apiStats.js",
     "console:list": "node scripts/utility/makeConsoleSpecificMasterList.js",
-    "fix:details": "node scripts/utility/fixDetails.js"
+    "fix:details": "node scripts/utility/fixDetails.js",
+    "fix:missing": "node scripts/utility/findEntriesMissingAll.js"
   },
   "repository": {
     "type": "git",
@@ -45,6 +46,7 @@
     "cheerio": "^1.0.0-rc.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "glob": "^7.1.4",
     "lodash": "^4.17.15",
     "request": "^2.88.0",
     "vue": "^2.6.10",
