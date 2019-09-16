@@ -187,21 +187,22 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Xbox games that work on the Xbox One
 - Xbox 360 games that work on the Xbox One
 
-___
+---
 
 ### Things I've learned about these APIs
 
 Since I have been using these APIs to try and build out my JSON data matching their IDs with the names of various games and console, I've learned a few things that you might find helpful if you ever work with these APIs.
 
-- If you use IGDB, know that searching games specific to a platform doesn't always return a result but when you remove the platform you almost always get what you were looking for. It's best to do the platform specific search first because multiple different games with the same title are sometimes released for the various consoles, but if you don't get a result then remove the platform from the search. Also, searches for digital only games on IGDB seem to often have their own platform so, for example, if you search for a Xbox Live Arcade game using the ID from Xbox 360, you don't get a result.
-- If you use Giantbomb, know that you should remove punctuation from your search string (mainly the punctuation in the title of games). When the punctuation is left in, sometimes you don't get a result and sometimes it just throws an error. Most of the time when you leave it out, you have better results. As a general rule of thumb, leave it in first and search, then if there are no results remove the punctuation and try again. Also, searches for digital only games on GB seem to often have their own platform so, for example, if you search for a Xbox Live Arcade game using the ID from Xbox 360, you don't get a result.
-- If you use TheGamesDB, know that it seems to ignore numbers in your search string and returns more results than the other 2. An example would be searching "FIFA 2006" and it will return basically any game with FIFA in the title. Also, it seems as if TheGamesDB seems focused mostly on physical games as many of my digital-only searches have come back without any results that match.
+- If you use IGDB, know that searching games specific to a platform doesn't always return a result but when you remove the platform you almost always get what you were looking for. It's best to do the platform specific search first because multiple different games with the same title are sometimes released for the various consoles, but if you don't get a result then remove the platform from the search. Also, searches for digital only games on IGDB seem to often have their own platform so, for example, if you search for a Xbox Live Arcade game using the ID from Xbox 360, you don't get a result. IGDB seems to be the fastest to return results most of the time and is definitely the best at returning results for digital only and independent titles.
+- If you use Giantbomb, know that you should remove punctuation from your search string (mainly the punctuation in the title of games). When the punctuation is left in, sometimes you don't get a result and sometimes it just throws an error. Most of the time when you leave it out, you have better results. As a general rule of thumb, leave it in first and search, then if there are no results remove the punctuation and try again. Also, searches for digital only games on GB seem to often have their own platform so, for example, if you search for a Xbox Live Arcade game using the ID from Xbox 360, you don't get a result. Giantbomb is definitely the slowest to return results and seems to be missing a lot of data as well.
+- If you use TheGamesDB, know that it seems to ignore numbers in your search string and returns more results than the other 2. An example would be searching "FIFA 2006" and it will return basically any game with FIFA in the title. Also, it seems as if TheGamesDB seems focused mostly on physical games as many of my digital-only searches have come back without any results that match. TheGamesDB seems like a solid API as long as your are searching for physical release games. It lacks a lot of data for digital only games.
 
-___
+---
 
 ### Stats
 
 Out of 3418 data points collected so far, the APIs are missing data the following number of items:
+
 - IGDB: 100
 - TheGamesDB: 167
 - Giantbomb: 244
