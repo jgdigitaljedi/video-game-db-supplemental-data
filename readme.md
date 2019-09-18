@@ -178,6 +178,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Nintendo Black Box games
 - games banned in various countries with the reason for the ban
 - platforms/consoles that play burned disks without modification
+- PlayStation long box games
 
 ### Backward Compatibility
 
@@ -204,6 +205,7 @@ Since I have been using these APIs to try and build out my JSON data matching th
 Out of 3418 data points collected so far, the APIs are missing data the following number of items:
 
 Out of 4015 data points collected so far, the APIs are missing data the following number of items:
+
 - IGDB: 137
 - TheGamesDB: 494
 - Giantbomb: 467
