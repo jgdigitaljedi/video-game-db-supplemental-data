@@ -69,7 +69,7 @@
     "title": "Nintendo Wii U Exclusives",
     "filePath": "../textFilesToBeConverted/platformExclusives/nintendoWiiUExclusives.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Sony PlayStation Exclusives",
@@ -237,7 +237,7 @@
     "title": "Amiga Exclusives",
     "filePath": "../textFilesToBeConverted/platformExclusives/amigaExclusives.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Atari 2600 Exclusives",
@@ -573,6 +573,12 @@
   {
     "title": "Consoles That Play Burned Discs Without Modification",
     "filePath": "../textFilesToBeConverted/special/platformsThatPlayBurnedDiscs.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "PlayStation Long Box Games",
+    "filePath": "../textFilesToBeConverted/special/playstationLongboxGames.json",
     "type": "Game",
     "complete": true
   }

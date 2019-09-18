@@ -203,6 +203,7 @@ Since I have been using these APIs to try and build out my JSON data matching th
 
 Out of 3418 data points collected so far, the APIs are missing data the following number of items:
 
-- IGDB: 100
-- TheGamesDB: 167
-- Giantbomb: 244
+Out of 4015 data points collected so far, the APIs are missing data the following number of items:
+- IGDB: 137
+- TheGamesDB: 494
+- Giantbomb: 467

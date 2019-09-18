@@ -69,6 +69,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - gbbgX - Genesis black box grid games (blackBoxGridGenesisGames.json) | GAMES LIST
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST
 - pbdX - consoles that play bruned discs without modification (platformsThatPlayBurnedDiscs.json) | CONSOLE/PLATFORM LIST
+- ps1lbX - Sony PlayStation long box games (playstationLongboxGames.json) | GAMES LIST
 
 ### Platform Exclusives
 
