@@ -7,7 +7,6 @@
   - Nintendo - Players' Choice
   - Microsoft - Platinum Hits
 - special edition games
-- consoles that can play burned discs
 - games that use light guns
 - games that come with their own unique controller
 - nes hang tab titles
