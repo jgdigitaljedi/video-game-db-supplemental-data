@@ -1,8 +1,14 @@
 <template>
-  <v-card>
+  <v-card class="info-card">
     <v-card-title>Current Game Data</v-card-title>
     <v-btn dark color="accent" @click.native="copyName">
       <v-icon left>mdi-content-copy</v-icon>Copy Name
+    </v-btn>
+    <v-btn dark color="primary" @click.native="copyBeforeColon">
+      <v-icon left>mdi-clipboard-arrow-left</v-icon>Copy Name Before Colon
+    </v-btn>
+    <v-btn dark color="warning" @click.native="copyAfterColon">
+      <v-icon left>mdi-clipboard-arrow-right</v-icon>Copy Name After Colon
     </v-btn>
     <div class="game-info">
       <h4>Old</h4>
@@ -37,8 +43,29 @@ export default {
         item.name
       );
     },
+    stripName(name) {
+      // remove parenthesis and non ascii characters
+      const noParens = name.replace(/ *\([^)]*\) */g, '');
+
+      // @TODO: add a bit that removes the non-ascii characters and replaces with the ascii equivalent
+      return noParens;
+    },
     copyName() {
-      this.setCurrentName(this.game.name ? this.game.name.trim() : this.game.title.trim());
+      this.setCurrentName(
+        this.game.name ? this.stripName(this.game.name) : this.stripName(this.game.title)
+      );
+    },
+    copyBeforeColon() {
+      const before = this.game.name
+        ? this.stripName(this.game.name.split(':')[0])
+        : this.stripName(this.game.title.split(':')[0]);
+      this.setCurrentName(before);
+    },
+    copyAfterColon() {
+      const after = this.game.name
+        ? this.stripName(this.game.name.split(':')[1])
+        : this.stripName(this.game.title.split(':')[1]);
+      this.setCurrentName(after);
     },
     ...mapMutations({
       setCurrentName: 'setCurrentName'
@@ -48,6 +75,11 @@ export default {
 </script>
 
 <style lang="scss">
+.info-card {
+  button {
+    margin-right: 1rem;
+  }
+}
 .game-info {
   padding: 0 2rem 2rem 2rem;
   pre {
