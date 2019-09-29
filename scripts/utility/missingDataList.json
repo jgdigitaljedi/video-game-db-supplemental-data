@@ -523,6 +523,60 @@
     ]
   },
   {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyAdvanceExclusives.json",
+    "missing": [
+      {
+        "name": "Elemental Gelade",
+        "details": "Nintendo Game Boy Advance exclusive",
+        "id": "ngbaex80",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Super Duper Sumos",
+        "details": "Nintendo Game Boy Advance exclusive",
+        "id": "ngbaex222"
+      },
+      {
+        "name": "Super Robot Taisen: Original Generation",
+        "details": "Nintendo Game Boy Advance exclusive",
+        "id": "ngbaex223"
+      },
+      {
+        "name": "Super Robot Taisen: Original Generation 2",
+        "details": "Nintendo Game Boy Advance exclusive",
+        "id": "ngbaex224"
+      },
+      {
+        "name": "Super Robot Wars D",
+        "details": "Nintendo Game Boy Advance exclusive",
+        "id": "ngbaex225"
+      },
+      {
+        "name": "Super Robot Wars J",
+        "details": "Nintendo Game Boy Advance exclusive",
+        "id": "ngbaex226"
+      },
+      {
+        "name": "Super Robot Wars R",
+        "details": "Nintendo Game Boy Advance exclusive",
+        "id": "ngbaex227"
+      },
+      {
+        "name": "Superman Returns: Fortress of Solitude",
+        "details": "Nintendo Game Boy Advance exclusive",
+        "id": "ngbaex228"
+      },
+      {
+        "name": "Superman: Countdown to Apokolips",
+        "details": "Nintendo Game Boy Advance exclusive",
+        "id": "ngbaex229"
+      }
+    ]
+  },
+  {
     "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyColorExclusives.json",
     "missing": [
       {
@@ -642,6 +696,20 @@
         "name": "TV Champion (video game)",
         "details": "Nintendo Game Boy exclusive",
         "id": "ngbex123",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoN64Exclusives.json",
+    "missing": [
+      {
+        "name": "Rally '99",
+        "details": "Nintendo 64 exclusive",
+        "id": "n64ex103",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,

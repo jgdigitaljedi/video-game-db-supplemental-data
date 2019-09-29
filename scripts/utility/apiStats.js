@@ -10,6 +10,10 @@ let tgdb = 0;
 let gb = 0;
 let total = 0;
 
+function getPercentage(num, sum) {
+  return Math.round((num / sum) * 100);
+}
+
 async function checkFileForApiInfo(file) {
   return new Promise((resolve, reject) => {
     let fContents;
@@ -45,6 +49,7 @@ async function checkFileForApiInfo(file) {
 (async function() {
   const master = await fileUtil.readFile(masterList);
   const pMaster = JSON.parse(master);
+
   for (const file of pMaster) {
     if (file.complete) {
       const done = await checkFileForApiInfo(file);
@@ -55,15 +60,20 @@ async function checkFileForApiInfo(file) {
       `Out of ${total} items the APIs are missing data the following number of items:`
     )
   );
-  console.log(chalk.green.bold(`IGDB: ${igdb}`));
-  console.log(chalk.yellow.bold(`TheGamesDB: ${tgdb}`));
-  console.log(chalk.magenta.bold(`Giantbomb: ${gb}`));
+
+  const igdbPer = getPercentage(igdb, total);
+  const tgdbPer = getPercentage(tgdb, total);
+  const gbPer = getPercentage(gb, total);
+
+  console.log(chalk.green.bold(`IGDB: ${igdb} (${igdbPer}%)`));
+  console.log(chalk.yellow.bold(`TheGamesDB: ${tgdb} (${tgdbPer}%)`));
+  console.log(chalk.magenta.bold(`Giantbomb: ${gb} (${gbPer}%)`));
   const rm = await fileUtil.readFile('../../readme.md');
   const statsRemoved = rm.split('\n');
   statsRemoved.splice(-6, 6);
   const modified = `${statsRemoved.join(
     '\n'
-  )}\nOut of ${total} data points collected so far, the APIs are missing data the following number of items:\n\n- IGDB: ${igdb}\n- TheGamesDB: ${tgdb}\n- Giantbomb: ${gb}\n`;
+  )}\nOut of ${total} data points collected so far, the APIs are missing data the following number of items:\n\n- IGDB: ${igdb} (${igdbPer}%)\n- TheGamesDB: ${tgdb} (${tgdbPer}%)\n- Giantbomb: ${gb} (${gbPer}%)\n`;
   fs.writeFile(path.join(__dirname, '../../readme.md'), modified, error => {
     if (error) {
       console.log(chalk.red.bold(`ERROR WRITING TO README: ${error}`));
