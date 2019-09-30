@@ -2,13 +2,13 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/playstationLongboxGames.json';
-const idPrefix = 'ps1lb';
+const relativePath = '../../textFilesToBeConverted/special/nesHangtabGames.json';
+const idPrefix = 'neshtg';
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
-  const newData = fileUtil.stringArrToObjectArr(parsed, 'PlayStation Long Box Game', idPrefix);
+  const newData = fileUtil.stringArrToObjectArr(parsed, 'NES hang tab game', idPrefix);
   const result = await fileUtil.writeFile(relativePath, newData);
   if (result) {
     console.log(chalk.cyan.bold('All IDs written!'));

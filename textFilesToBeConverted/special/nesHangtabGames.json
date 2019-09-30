@@ -1,0 +1,821 @@
+[
+  {
+    "name": "10-Yard Fight",
+    "id": "neshtg1",
+    "details": "NES hang tab game",
+    "igdbId": 2733,
+    "gbId": 10166,
+    "gbGuid": "3030-10166",
+    "tgdbId": 317
+  },
+  {
+    "name": "1942",
+    "id": "neshtg2",
+    "details": "NES hang tab game",
+    "igdbId": 6075,
+    "gbId": 10466,
+    "gbGuid": "3030-10466",
+    "tgdbId": 202
+  },
+  {
+    "name": "3-D WorldRunner",
+    "id": "neshtg3",
+    "details": "NES hang tab game",
+    "igdbId": 48030,
+    "gbId": 1532,
+    "gbGuid": "3030-1532",
+    "tgdbId": 315
+  },
+  {
+    "name": "Alpha Mission",
+    "id": "neshtg4",
+    "details": "NES hang tab game",
+    "igdbId": 8911,
+    "gbId": 18942,
+    "gbGuid": "3030-18942",
+    "tgdbId": 1616
+  },
+  {
+    "name": "Arkanoid",
+    "id": "neshtg5",
+    "details": "NES hang tab game",
+    "igdbId": 4595,
+    "gbId": 15107,
+    "gbGuid": "3030-15107",
+    "tgdbId": 2153
+  },
+  {
+    "name": "Athena",
+    "id": "neshtg6",
+    "details": "NES hang tab game",
+    "igdbId": 9052,
+    "gbId": 9868,
+    "gbGuid": "3030-9868",
+    "tgdbId": 1621
+  },
+  {
+    "name": "Athletic World",
+    "id": "neshtg7",
+    "details": "NES hang tab game",
+    "igdbId": 9104,
+    "gbId": 17103,
+    "gbGuid": "3030-17103",
+    "tgdbId": 1622
+  },
+  {
+    "name": "Balloon Fight",
+    "id": "neshtg8",
+    "details": "NES hang tab game",
+    "igdbId": 2735,
+    "gbId": 86,
+    "gbGuid": "3030-86",
+    "tgdbId": 333
+  },
+  {
+    "name": "Baseball",
+    "id": "neshtg9",
+    "details": "NES hang tab game",
+    "igdbId": 7580,
+    "gbId": 8145,
+    "gbGuid": "3030-8145",
+    "tgdbId": 335
+  },
+  {
+    "name": "BreakThru",
+    "id": "neshtg10",
+    "details": "NES hang tab game",
+    "igdbId": 13437,
+    "gbId": 18783,
+    "gbGuid": "3030-18783",
+    "tgdbId": 1656
+  },
+  {
+    "name": "BurgerTime",
+    "id": "neshtg11",
+    "details": "NES hang tab game",
+    "igdbId": 4609,
+    "gbId": 4702,
+    "gbGuid": "3030-4702",
+    "tgdbId": 205
+  },
+  {
+    "name": "Castlevania",
+    "id": "neshtg12",
+    "details": "NES hang tab game",
+    "igdbId": 1114,
+    "gbId": 6673,
+    "gbGuid": "3030-6673",
+    "tgdbId": 135
+  },
+  {
+    "name": "Chubby Cherub",
+    "id": "neshtg13",
+    "details": "NES hang tab game",
+    "igdbId": 48031,
+    "gbId": 19535,
+    "gbGuid": "3030-19535",
+    "tgdbId": 212
+  },
+  {
+    "name": "Clu Clu Land",
+    "id": "neshtg14",
+    "details": "NES hang tab game",
+    "igdbId": 7573,
+    "gbId": 4721,
+    "gbGuid": "3030-4721",
+    "tgdbId": 340
+  },
+  {
+    "name": "Commando",
+    "id": "neshtg15",
+    "details": "NES hang tab game",
+    "igdbId": 5668,
+    "gbId": 6850,
+    "gbGuid": "3030-6850",
+    "tgdbId": 206
+  },
+  {
+    "name": "Deadly Towers",
+    "id": "neshtg16",
+    "details": "NES hang tab game",
+    "igdbId": 48067,
+    "gbId": 19113,
+    "gbGuid": "3030-19113",
+    "tgdbId": 1262
+  },
+  {
+    "name": "Donkey Kong",
+    "id": "neshtg17",
+    "details": "NES hang tab game",
+    "igdbId": 1086,
+    "gbId": 311,
+    "gbGuid": "3030-311",
+    "tgdbId": 5
+  },
+  {
+    "name": "Donkey Kong 3",
+    "id": "neshtg18",
+    "details": "NES hang tab game",
+    "igdbId": 1088,
+    "gbId": 3296,
+    "gbGuid": "3030-3296",
+    "tgdbId": 1269
+  },
+  {
+    "name": "Donkey Kong Jr.",
+    "id": "neshtg19",
+    "details": "NES hang tab game",
+    "igdbId": 1087,
+    "gbId": 19416,
+    "gbGuid": "3030-19416",
+    "tgdbId": 1270
+  },
+  {
+    "name": "Donkey Kong Jr. Math",
+    "id": "neshtg20",
+    "details": "NES hang tab game",
+    "igdbId": 5692,
+    "gbId": 18503,
+    "gbGuid": "3030-18503",
+    "tgdbId": 1929
+  },
+  {
+    "name": "Double Dribble",
+    "id": "neshtg21",
+    "details": "NES hang tab game",
+    "igdbId": 4699,
+    "gbId": 1533,
+    "gbGuid": "3030-1533",
+    "tgdbId": 343
+  },
+  {
+    "name": "Duck Hunt",
+    "id": "neshtg22",
+    "details": "NES hang tab game",
+    "igdbId": 2741,
+    "gbId": 2758,
+    "gbGuid": "3030-2758",
+    "tgdbId": 346
+  },
+  {
+    "name": "Elevator Action",
+    "id": "neshtg23",
+    "details": "NES hang tab game",
+    "igdbId": 4599,
+    "gbId": 8179,
+    "gbGuid": "3030-8179",
+    "tgdbId": 348
+  },
+  {
+    "name": "Excitebike",
+    "id": "neshtg24",
+    "details": "NES hang tab game",
+    "igdbId": 4600,
+    "gbId": 15025,
+    "gbGuid": "3030-15025",
+    "tgdbId": 213
+  },
+  {
+    "name": "Ghosts 'n Goblins",
+    "id": "neshtg25",
+    "details": "NES hang tab game",
+    "igdbId": 6807,
+    "gbId": 17031,
+    "gbGuid": "3030-17031",
+    "tgdbId": 349
+  },
+  {
+    "name": "Golf",
+    "id": "neshtg26",
+    "details": "NES hang tab game",
+    "igdbId": 3399,
+    "gbId": 22096,
+    "gbGuid": "3030-22096",
+    "tgdbId": 350
+  },
+  {
+    "name": "The Goonies II",
+    "id": "neshtg27",
+    "details": "NES hang tab game",
+    "igdbId": 18916,
+    "gbId": 10395,
+    "gbGuid": "3030-10395",
+    "tgdbId": 1296
+  },
+  {
+    "name": "Gotcha! The Sport!",
+    "id": "neshtg28",
+    "details": "NES hang tab game",
+    "igdbId": 5848,
+    "gbId": 17980,
+    "gbGuid": "3030-17980",
+    "tgdbId": 1846
+  },
+  {
+    "name": "Gradius",
+    "id": "neshtg29",
+    "details": "NES hang tab game",
+    "igdbId": 1476,
+    "gbId": 15508,
+    "gbGuid": "3030-15508",
+    "tgdbId": 1297
+  },
+  {
+    "name": "Gumshoe",
+    "id": "neshtg30",
+    "details": "NES hang tab game",
+    "igdbId": 18834,
+    "gbId": 1113,
+    "gbGuid": "3030-1113",
+    "tgdbId": 351
+  },
+  {
+    "name": "Gyromite",
+    "id": "neshtg31",
+    "details": "NES hang tab game",
+    "igdbId": 8578,
+    "gbId": 20055,
+    "gbGuid": "3030-20055",
+    "tgdbId": 1301
+  },
+  {
+    "name": "Hogan's Alley",
+    "id": "neshtg32",
+    "details": "NES hang tab game",
+    "igdbId": 4601,
+    "gbId": 6490,
+    "gbGuid": "3030-6490",
+    "tgdbId": 1317
+  },
+  {
+    "name": "Ice Climber",
+    "id": "neshtg33",
+    "details": "NES hang tab game",
+    "igdbId": 3666,
+    "gbId": 13918,
+    "gbGuid": "3030-13918",
+    "tgdbId": 1326
+  },
+  {
+    "name": "Ikari Warriors",
+    "id": "neshtg34",
+    "details": "NES hang tab game",
+    "igdbId": 12153,
+    "gbId": 1619,
+    "gbGuid": "3030-1619",
+    "tgdbId": 1327
+  },
+  {
+    "name": "Jaws",
+    "id": "neshtg35",
+    "details": "NES hang tab game",
+    "igdbId": 68385,
+    "gbId": 3560,
+    "gbGuid": "3030-3560",
+    "tgdbId": 1468
+  },
+  {
+    "name": "Karate Champ",
+    "id": "neshtg36",
+    "details": "NES hang tab game",
+    "igdbId": 25835,
+    "gbId": 7250,
+    "gbGuid": "3030-7250",
+    "tgdbId": 1470
+  },
+  {
+    "name": "The Karate Kid",
+    "id": "neshtg37",
+    "details": "NES hang tab game",
+    "igdbId": 68386,
+    "gbId": 14763,
+    "gbGuid": "3030-14763",
+    "tgdbId": 1471
+  },
+  {
+    "name": "Karnov",
+    "id": "neshtg38",
+    "details": "NES hang tab game",
+    "igdbId": 13234,
+    "gbId": 2057,
+    "gbGuid": "3030-2057",
+    "tgdbId": 1472
+  },
+  {
+    "name": "Kid Icarus",
+    "id": "neshtg39",
+    "details": "NES hang tab game",
+    "igdbId": 3663,
+    "gbId": 15154,
+    "gbGuid": "3030-15154",
+    "tgdbId": 130
+  },
+  {
+    "name": "Kid Niki: Radical Ninja",
+    "id": "neshtg40",
+    "details": "NES hang tab game",
+    "igdbId": 39465,
+    "gbId": 9766,
+    "gbGuid": "3030-9766",
+    "tgdbId": 1874
+  },
+  {
+    "name": "Kung Fu",
+    "id": "neshtg41",
+    "details": "NES hang tab game",
+    "igdbId": null,
+    "gbId": 50919,
+    "gbGuid": "3030-50919",
+    "tgdbId": 1810
+  },
+  {
+    "name": "The Legend of Kage",
+    "id": "neshtg42",
+    "details": "NES hang tab game",
+    "igdbId": 4593,
+    "gbId": 10701,
+    "gbGuid": "3030-10701",
+    "tgdbId": 1479
+  },
+  {
+    "name": "The Legend Of Zelda ",
+    "id": "neshtg43",
+    "details": "NES hang tab game",
+    "igdbId": 1022,
+    "gbId": 11949,
+    "gbGuid": "3030-11949",
+    "tgdbId": 63984
+  },
+  {
+    "name": "Lode Runner",
+    "id": "neshtg44",
+    "details": "NES hang tab game",
+    "igdbId": 69179,
+    "gbId": 636,
+    "gbGuid": "3030-636",
+    "tgdbId": 955
+  },
+  {
+    "name": "Lunar Pool",
+    "id": "neshtg45",
+    "details": "NES hang tab game",
+    "igdbId": 7550,
+    "gbId": 11351,
+    "gbGuid": "3030-11351",
+    "tgdbId": 357
+  },
+  {
+    "name": "Tag Team Match: M.U.S.C.L.E.",
+    "id": "neshtg46",
+    "details": "NES hang tab game",
+    "igdbId": 48933,
+    "gbId": 10158,
+    "gbGuid": "3030-10158",
+    "tgdbId": 1891
+  },
+  {
+    "name": "Mach Rider",
+    "id": "neshtg47",
+    "details": "NES hang tab game",
+    "igdbId": 4616,
+    "gbId": 5930,
+    "gbGuid": "3030-5930",
+    "tgdbId": 358
+  },
+  {
+    "name": "Mario Bros",
+    "id": "neshtg48",
+    "details": "NES hang tab game",
+    "igdbId": 3105,
+    "gbId": 19726,
+    "gbGuid": "3030-19726",
+    "tgdbId": 63521
+  },
+  {
+    "name": "Mega Man",
+    "id": "neshtg49",
+    "details": "NES hang tab game",
+    "igdbId": 1714,
+    "gbId": 5251,
+    "gbGuid": "3030-5251",
+    "tgdbId": 360
+  },
+  {
+    "name": "Metroid",
+    "id": "neshtg50",
+    "details": "NES hang tab game",
+    "igdbId": 1101,
+    "gbId": 21761,
+    "gbGuid": "3030-21761",
+    "tgdbId": 123
+  },
+  {
+    "name": "Mighty Bomb Jack",
+    "id": "neshtg51",
+    "details": "NES hang tab game",
+    "igdbId": 40531,
+    "gbId": 13256,
+    "gbGuid": "3030-13256",
+    "tgdbId": 1437
+  },
+  {
+    "name": "Mike Tyson's Punch-Out!!",
+    "id": "neshtg52",
+    "details": "NES hang tab game",
+    "igdbId": 2195,
+    "gbId": 4848,
+    "gbGuid": "3030-4848",
+    "tgdbId": 17477
+  },
+  {
+    "name": "Ninja Kid",
+    "id": "neshtg53",
+    "details": "NES hang tab game",
+    "igdbId": 68360,
+    "gbId": 9191,
+    "gbGuid": "3030-9191",
+    "tgdbId": 1975
+  },
+  {
+    "name": "Pinball",
+    "id": "neshtg54",
+    "details": "NES hang tab game",
+    "igdbId": 86428,
+    "gbId": 20885,
+    "gbGuid": "3030-20885",
+    "tgdbId": 372
+  },
+  {
+    "name": "Popeye",
+    "id": "neshtg55",
+    "details": "NES hang tab game",
+    "igdbId": 4619,
+    "gbId": 14419,
+    "gbGuid": "3030-14419",
+    "tgdbId": 1442
+  },
+  {
+    "name": "Rad Racer",
+    "id": "neshtg56",
+    "details": "NES hang tab game",
+    "igdbId": 8359,
+    "gbId": 2386,
+    "gbGuid": "3030-2386",
+    "tgdbId": 211
+  },
+  {
+    "name": "Raid On Bungeling Bay",
+    "id": "neshtg57",
+    "details": "NES hang tab game",
+    "igdbId": 24664,
+    "gbId": 15577,
+    "gbGuid": "3030-15577",
+    "tgdbId": 48377
+  },
+  {
+    "name": "Renegade",
+    "id": "neshtg58",
+    "details": "NES hang tab game",
+    "igdbId": 6852,
+    "gbId": 18293,
+    "gbGuid": "3030-18293",
+    "tgdbId": 1406
+  },
+  {
+    "name": "Ring King",
+    "id": "neshtg59",
+    "details": "NES hang tab game",
+    "igdbId": 48208,
+    "gbId": 11769,
+    "gbGuid": "3030-11769",
+    "tgdbId": 2042
+  },
+  {
+    "name": "Rush'n Attack",
+    "id": "neshtg60",
+    "details": "NES hang tab game",
+    "igdbId": 90990,
+    "gbId": 15457,
+    "gbGuid": "3030-15457",
+    "tgdbId": 376
+  },
+  {
+    "name": "Rygar",
+    "id": "neshtg61",
+    "details": "NES hang tab game",
+    "igdbId": 28841,
+    "gbId": 10397,
+    "gbGuid": "3030-10397",
+    "tgdbId": 1382
+  },
+  {
+    "name": "Section-Z",
+    "id": "neshtg62",
+    "details": "NES hang tab game",
+    "igdbId": 9755,
+    "gbId": 1432,
+    "gbGuid": "3030-1432",
+    "tgdbId": 2060
+  },
+  {
+    "name": "Side Pocket",
+    "id": "neshtg63",
+    "details": "NES hang tab game",
+    "igdbId": 6048,
+    "gbId": 2042,
+    "gbGuid": "3030-2042",
+    "tgdbId": 1415
+  },
+  {
+    "name": "Sky Kid",
+    "id": "neshtg64",
+    "details": "NES hang tab game",
+    "igdbId": 17282,
+    "gbId": 16382,
+    "gbGuid": "3030-16382",
+    "tgdbId": 35607
+  },
+  {
+    "name": "Slalom",
+    "id": "neshtg65",
+    "details": "NES hang tab game",
+    "igdbId": 14589,
+    "gbId": 2599,
+    "gbGuid": "3030-2599",
+    "tgdbId": 379
+  },
+  {
+    "name": "Soccer",
+    "id": "neshtg66",
+    "details": "NES hang tab game",
+    "igdbId": 86375,
+    "gbId": 12955,
+    "gbGuid": "3030-12955",
+    "tgdbId": 42820
+  },
+  {
+    "name": "Solomon's Key",
+    "id": "neshtg67",
+    "details": "NES hang tab game",
+    "igdbId": 28384,
+    "gbId": 928,
+    "gbGuid": "3030-928",
+    "tgdbId": 2101
+  },
+  {
+    "name": "Spelunker",
+    "id": "neshtg68",
+    "details": "NES hang tab game",
+    "igdbId": 4621,
+    "gbId": 3087,
+    "gbGuid": "3030-3087",
+    "tgdbId": 2104
+  },
+  {
+    "name": "Spy Hunter",
+    "id": "neshtg69",
+    "details": "NES hang tab game",
+    "igdbId": 4167,
+    "gbId": 10448,
+    "gbGuid": "3030-10448",
+    "tgdbId": 2106
+  },
+  {
+    "name": "Sqoon",
+    "id": "neshtg70",
+    "details": "NES hang tab game",
+    "igdbId": 4605,
+    "gbId": 309,
+    "gbGuid": "3030-309",
+    "tgdbId": 2107
+  },
+  {
+    "name": "Stack-Up",
+    "id": "neshtg71",
+    "details": "NES hang tab game",
+    "igdbId": 8579,
+    "gbId": 19746,
+    "gbGuid": "3030-19746",
+    "tgdbId": 2108
+  },
+  {
+    "name": "Stadium Events",
+    "id": "neshtg72",
+    "details": "NES hang tab game",
+    "igdbId": 2242,
+    "gbId": 7309,
+    "gbGuid": "3030-7309",
+    "tgdbId": 1452
+  },
+  {
+    "name": "Star Force",
+    "id": "neshtg73",
+    "details": "NES hang tab game",
+    "igdbId": 6139,
+    "gbId": 3329,
+    "gbGuid": "3030-3329",
+    "tgdbId": 2110
+  },
+  {
+    "name": "Stinger",
+    "id": "neshtg74",
+    "details": "NES hang tab game",
+    "igdbId": 52195,
+    "gbId": 16079,
+    "gbGuid": "3030-16079",
+    "tgdbId": 2116
+  },
+  {
+    "name": "Star Voyager",
+    "id": "neshtg75",
+    "details": "NES hang tab game",
+    "igdbId": 3283,
+    "gbId": 867,
+    "gbGuid": "3030-867",
+    "tgdbId": 2113
+  },
+  {
+    "name": "Super Mario Bros.",
+    "id": "neshtg76",
+    "details": "NES hang tab game",
+    "igdbId": 358,
+    "gbId": 15544,
+    "gbGuid": "3030-15544",
+    "tgdbId": 140
+  },
+  {
+    "name": "Super Pitfall",
+    "id": "neshtg77",
+    "details": "NES hang tab game",
+    "igdbId": 48233,
+    "gbId": 13716,
+    "gbGuid": "3030-13716",
+    "tgdbId": 2122
+  },
+  {
+    "name": "Tag Team Wrestling",
+    "id": "neshtg78",
+    "details": "NES hang tab game",
+    "igdbId": 36587,
+    "gbId": 6068,
+    "gbGuid": "3030-6068",
+    "tgdbId": 1421
+  },
+  {
+    "name": "Tennis",
+    "id": "neshtg79",
+    "details": "NES hang tab game",
+    "igdbId": 74548,
+    "gbId": 20780,
+    "gbGuid": "3030-20780",
+    "tgdbId": 384
+  },
+  {
+    "name": "Tiger-Heli",
+    "id": "neshtg80",
+    "details": "NES hang tab game",
+    "igdbId": 4606,
+    "gbId": 9833,
+    "gbGuid": "3030-9833",
+    "tgdbId": 387
+  },
+  {
+    "name": "Top Gun",
+    "id": "neshtg81",
+    "details": "NES hang tab game",
+    "igdbId": 18021,
+    "gbId": 8678,
+    "gbGuid": "3030-8678",
+    "tgdbId": 389
+  },
+  {
+    "name": "Track and Field",
+    "id": "neshtg82",
+    "details": "NES hang tab game",
+    "igdbId": 6439,
+    "gbId": 18232,
+    "gbGuid": "3030-18232",
+    "tgdbId": 34492
+  },
+  {
+    "name": "Trojan",
+    "id": "neshtg83",
+    "details": "NES hang tab game",
+    "igdbId": 39993,
+    "gbId": 14800,
+    "gbGuid": "3030-14800",
+    "tgdbId": 1466
+  },
+  {
+    "name": "Urban Champion",
+    "id": "neshtg84",
+    "details": "NES hang tab game",
+    "igdbId": 4624,
+    "gbId": 8980,
+    "gbGuid": "3030-8980",
+    "tgdbId": 1390
+  },
+  {
+    "name": "Volleyball",
+    "id": "neshtg85",
+    "details": "NES hang tab game",
+    "igdbId": 55052,
+    "gbId": 5902,
+    "gbGuid": "3030-5902",
+    "tgdbId": 2168
+  },
+  {
+    "name": "Wild Gunman",
+    "id": "neshtg86",
+    "details": "NES hang tab game",
+    "igdbId": 4625,
+    "gbId": 4116,
+    "gbGuid": "3030-4116",
+    "tgdbId": 1603
+  },
+  {
+    "name": "Winter Games",
+    "id": "neshtg87",
+    "details": "NES hang tab game",
+    "igdbId": 12268,
+    "gbId": 10492,
+    "gbGuid": "3030-10492",
+    "tgdbId": 2183
+  },
+  {
+    "name": "Wizards & Warriors",
+    "id": "neshtg88",
+    "details": "NES hang tab game",
+    "igdbId": 9720,
+    "gbId": 6633,
+    "gbGuid": "3030-6633",
+    "tgdbId": 1397
+  },
+  {
+    "name": "Wrecking Crew",
+    "id": "neshtg89",
+    "details": "NES hang tab game",
+    "igdbId": 41420,
+    "gbId": 14710,
+    "gbGuid": "3030-14710",
+    "tgdbId": 321
+  },
+  {
+    "name": "Zanac",
+    "id": "neshtg90",
+    "details": "NES hang tab game",
+    "igdbId": 41319,
+    "gbId": 4394,
+    "gbGuid": "3030-4394",
+    "tgdbId": 1595
+  },
+  {
+    "name": "Pro Wrestling",
+    "id": "neshtg91",
+    "details": "NES hang tab game",
+    "igdbId": 18143,
+    "gbId": 20707,
+    "gbGuid": "3030-20707",
+    "tgdbId": 1320
+  }
+]
