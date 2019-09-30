@@ -175,7 +175,8 @@ I've been scouring the web for unique data points and will continue to do so. He
 ### Special
 
 - Sega Genesis Black Box Grid games
-- Nintendo Black Box games
+- NES Black Box games
+- NES hang tab games
 - games banned in various countries with the reason for the ban
 - platforms/consoles that play burned disks without modification
 - PlayStation long box games
@@ -202,8 +203,8 @@ Since I have been using these APIs to try and build out my JSON data matching th
 
 ### Stats
 
-Out of 5351 data points collected so far, the APIs are missing data the following number of items:
+Out of 5442 data points collected so far, the APIs are missing data the following number of items:
 
-- IGDB: 231 (4%)
+- IGDB: 232 (4%)
 - TheGamesDB: 712 (13%)
-- Giantbomb: 676 (13%)
+- Giantbomb: 676 (12%)
