@@ -4,11 +4,13 @@ const fs = require('fs');
 const path = require('path');
 const _sortBy = require('lodash/sortBy');
 const _uniq = require('lodash/uniq');
+const _difference = require('lodash/difference');
 
 // change
 const filesArr = [
   '../../finalOutput/smallFiles/launchTitles/nesLaunchTitles.json',
   '../../finalOutput/smallFiles/special/nesBlackBoxTitles.json',
+  '../../finalOutput/smallFiles/special/nesHangtabGames.json',
   '../../finalOutput/smallFiles/platformExclusives/nesExclusives.json'
 ];
 const mlId = 'ccl1';
@@ -45,18 +47,34 @@ function makeCombinedId(item) {
       }
     });
   }
-  const mayHaveDupes = _sortBy(final, 'name');
+  const sorted = final.sort((a, b) => {
+    if (a.name < b.name) {
+      return -1;
+    }
+    if (a.name > b.name) {
+      return 1;
+    }
+    return 0;
+  });
+  const mayHaveDupes = _sortBy(sorted, 'name').map(d => {
+    if (!Array.isArray(d.details)) {
+      d.details = [d.details];
+    }
+    return d;
+  });
   const withNewIds = mayHaveDupes.map((item, index) => {
     item.id = `${idPrefix}${index}`;
     return item;
   });
   const names = withNewIds.map(i => i.name);
   const unique = _uniq(names);
-  if (names.length !== unique.length) {
+  const diff = _difference(names, unique);
+  if (diff.length) {
     console.log(
       chalk.red.bold(
-        `YOU HAVE SOME DUPLICATES TO LOOK AT MANUALLY! The arrays had a difference of ${names.length -
-          unique.length} items!`
+        `YOU HAVE SOME DUPLICATES TO LOOK AT MANUALLY! The arrays had a difference of ${
+          diff.length
+        } item(s) : ${JSON.stringify(diff)}`
       )
     );
   }
