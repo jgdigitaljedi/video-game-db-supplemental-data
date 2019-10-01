@@ -3,104 +3,128 @@
     "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/nintendoEntertainmentSystem.json",
     "missing": [
       {
-        "id": "nes16",
+        "id": "nes19",
         "name": "America Daitōryō Senkyo",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null
       },
       {
-        "id": "nes78",
+        "id": "nes87",
         "name": "Colorful Dragon",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null
       },
       {
-        "id": "nes111",
+        "id": "nes122",
         "name": "Dragon Ball Z Side Story: Plan to Eradicate the Saiyans",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null
       },
       {
-        "id": "nes183",
+        "id": "nes198",
         "name": "Joyvan Kid",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null
       },
       {
-        "id": "nes191",
+        "id": "nes208",
         "name": "Keisan Game",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null
       },
       {
-        "id": "nes206",
+        "id": "nes225",
         "name": "Layla",
-        "details": "NES exclusive game"
+        "details": [
+          "NES exclusive game"
+        ]
       },
       {
-        "id": "nes230",
+        "id": "nes253",
         "name": "Mighty Atom",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null
       },
       {
-        "id": "nes235",
+        "id": "nes260",
         "name": "Moai-kun",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null
       },
       {
-        "id": "nes236",
+        "id": "nes261",
         "name": "Moero 6!! Shin Moero!! Pro Yakyuu",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null
       },
       {
-        "id": "nes292",
+        "id": "nes323",
         "name": "Sanada Ten Braves",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null
       },
       {
-        "id": "nes305",
+        "id": "nes340",
         "name": "Somari",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null
       },
       {
-        "id": "nes384",
+        "id": "nes432",
         "name": "UWC",
-        "details": "NES exclusive game",
+        "details": [
+          "NES exclusive game"
+        ],
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -710,6 +734,83 @@
         "name": "Rally '99",
         "details": "Nintendo 64 exclusive",
         "id": "n64ex103",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoWiiExclusives.json",
+    "missing": [
+      {
+        "name": "Art Style",
+        "details": "Nintendo Wii exclusive",
+        "id": "nwiiex17",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Ikenie no Yoru",
+        "details": "Nintendo Wii exclusive",
+        "id": "nwiiex139",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "NHK Kōhaku Quiz Gassen",
+        "details": "Nintendo Wii exclusive",
+        "id": "nwiiex196",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Pokémon Mystery Dungeon: Adventure Team",
+        "details": "Nintendo Wii exclusive",
+        "id": "nwiiex216",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Project M (video game)",
+        "details": "Nintendo Wii exclusive",
+        "id": "nwiiex226",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "The Tales of Bearsworth Manor",
+        "details": "Nintendo Wii exclusive",
+        "id": "nwiiex272",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Tenshi no Solitaire",
+        "details": "Nintendo Wii exclusive",
+        "id": "nwiiex275",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Ultra Coliseum DX: Ultra Senshi Daishuketsu",
+        "details": "Nintendo Wii exclusive",
+        "id": "nwiiex288",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
