@@ -8,14 +8,12 @@ const _difference = require('lodash/difference');
 
 // change
 const filesArr = [
-  '../../finalOutput/smallFiles/launchTitles/nesLaunchTitles.json',
-  '../../finalOutput/smallFiles/special/nesBlackBoxTitles.json',
-  '../../finalOutput/smallFiles/special/nesHangtabGames.json',
-  '../../finalOutput/smallFiles/platformExclusives/nesExclusives.json'
+  '../../finalOutput/smallFiles/launchTitles/atari7800LaunchTitles.json',
+  '../../finalOutput/smallFiles/platformExclusives/atari7800Exclusives.json'
 ];
-const mlId = 'ccl1';
-const outPath = '../../finalOutput/consoleLists/nintendoEntertainmentSystem.json';
-const idPrefix = 'nes';
+const mlId = 'ccl30';
+const outPath = '../../finalOutput/consoleLists/Atari7800.json';
+const idPrefix = '7800';
 
 function makeCombinedId(item) {
   return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

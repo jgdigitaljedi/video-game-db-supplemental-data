@@ -203,8 +203,8 @@ Since I have been using these APIs to try and build out my JSON data matching th
 
 ### Stats
 
-Out of 6119 data points collected so far, the APIs are missing data the following number of items:
+Out of 6398 data points collected so far, the APIs are missing data the following number of items:
 
-- IGDB: 258 (4%)
-- TheGamesDB: 803 (13%)
-- Giantbomb: 746 (12%)
+- IGDB: 284 (4%)
+- TheGamesDB: 856 (13%)
+- Giantbomb: 784 (12%)
