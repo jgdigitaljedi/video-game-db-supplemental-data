@@ -14,7 +14,7 @@
     "scrape:wiki": "node scripts/utility/scrapeWikiLists.js",
     "scrape:wiki:tables": "node scripts/utility/wikiScrapeTables.js",
     "stats": "node scripts/utility/apiStats.js",
-    "console:list": "node scripts/utility/makeConsoleSpecificMasterList.js",
+    "console:list": "node scripts/utility/makeConsoleSpecificListImproved.js",
     "fix:details": "node scripts/utility/fixDetails.js",
     "fix:missing": "node scripts/utility/findEntriesMissingAll.js",
     "fix:numbered": "node scripts/utility/cleanNumberedList.js"

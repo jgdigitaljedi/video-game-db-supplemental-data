@@ -1,6 +1,6 @@
 [
   {
-    "id": "78000",
+    "id": "a780",
     "name": "Alien Brigade",
     "details": [
       "Atari 7800 exclusive"
@@ -8,10 +8,22 @@
     "igdbId": 11865,
     "gbId": 4174,
     "gbGuid": "3030-4174",
-    "tgdbId": 21096
+    "tgdbId": 21096,
+    "isExclusive": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
-    "id": "78001",
+    "id": "a781",
     "name": "Asteroids",
     "details": [
       "Atari 7800 launch title"
@@ -19,10 +31,22 @@
     "igdbId": 7758,
     "gbId": 1034,
     "gbGuid": "3030-1034",
-    "tgdbId": 1342
+    "tgdbId": 1342,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
-    "id": "78002",
+    "id": "a782",
     "name": "Dig Dug",
     "details": [
       "Atari 7800 launch title"
@@ -30,10 +54,22 @@
     "igdbId": 2636,
     "gbId": 2587,
     "gbGuid": "3030-2587",
-    "tgdbId": 16994
+    "tgdbId": 16994,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
-    "id": "78003",
+    "id": "a783",
     "name": "Food Fight",
     "details": [
       "Atari 7800 launch title"
@@ -41,10 +77,22 @@
     "igdbId": 12325,
     "gbId": 16876,
     "gbGuid": "3030-16876",
-    "tgdbId": 12197
+    "tgdbId": 12197,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
-    "id": "78004",
+    "id": "a784",
     "name": "Joust",
     "details": [
       "Atari 7800 launch title"
@@ -52,10 +100,22 @@
     "igdbId": 3659,
     "gbId": 11689,
     "gbGuid": "3030-11689",
-    "tgdbId": 1350
+    "tgdbId": 1350,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
-    "id": "78005",
+    "id": "a785",
     "name": "Midnight Mutants",
     "details": [
       "Atari 7800 exclusive"
@@ -63,10 +123,22 @@
     "igdbId": 12335,
     "gbId": 17626,
     "gbGuid": "3030-17626",
-    "tgdbId": 21050
+    "tgdbId": 21050,
+    "isExclusive": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
-    "id": "78006",
+    "id": "a786",
     "name": "Ms. Pac-Man",
     "details": [
       "Atari 7800 launch title"
@@ -74,10 +146,22 @@
     "igdbId": 7452,
     "gbId": 6332,
     "gbGuid": "3030-6332",
-    "tgdbId": 1958
+    "tgdbId": 1958,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
-    "id": "78007",
+    "id": "a787",
     "name": "Ninja Golf",
     "details": [
       "Atari 7800 exclusive"
@@ -85,10 +169,22 @@
     "igdbId": 11121,
     "gbId": 6544,
     "gbGuid": "3030-6544",
-    "tgdbId": 21053
+    "tgdbId": 21053,
+    "isExclusive": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
-    "id": "78008",
+    "id": "a788",
     "name": "Pole Position II",
     "details": [
       "Atari 7800 launch title"
@@ -96,10 +192,22 @@
     "igdbId": 12337,
     "gbId": 3735,
     "gbGuid": "3030-3735",
-    "tgdbId": 4906
+    "tgdbId": 4906,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
-    "id": "78009",
+    "id": "a789",
     "name": "Robotron 2084",
     "details": [
       "Atari 7800 launch title"
@@ -107,6 +215,18 @@
     "igdbId": 3592,
     "gbId": 11233,
     "gbGuid": "3030-11233",
-    "tgdbId": 37862
+    "tgdbId": 37862,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   }
 ]

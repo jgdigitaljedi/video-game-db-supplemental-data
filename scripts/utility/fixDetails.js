@@ -2,8 +2,8 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and detailsFix to run on different files
-const relativePath = '../../finalOutput/smallFiles/backwardCompatibilityIssues/ps1ToPs2Bc.json';
-const detailsFix = 'PS1 game backward compatible on ps2';
+const relativePath = '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json';
+const detailsFix = 'Sega Genesis/Mega Drive black box grid game';
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);

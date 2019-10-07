@@ -4,169 +4,349 @@
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "26000",
+    "id": "a260",
     "igdbId": 40723,
     "gbId": 25476,
     "gbGuid": "3030-25476",
-    "tgdbId": 44230
+    "tgdbId": 44230,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Adventure",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "26001",
+    "id": "a261",
     "igdbId": 8253,
     "gbId": 8851,
     "gbGuid": "3030-8851",
-    "tgdbId": 2570
+    "tgdbId": 2570,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Air Raid",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "26002",
+    "id": "a262",
     "igdbId": 11113,
     "gbId": 9134,
     "gbGuid": "3030-9134",
-    "tgdbId": 7893
+    "tgdbId": 7893,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Air Raiders",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "26003",
+    "id": "a263",
     "igdbId": 11114,
     "gbId": 8722,
     "gbGuid": "3030-8722",
-    "tgdbId": 17494
+    "tgdbId": 17494,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Air-Sea Battle (Target Fun)",
-    "id": "26004",
+    "id": "a264",
     "details": [
       "Atari 2600 launch title"
     ],
     "igdbId": 11859,
     "gbId": 5348,
     "gbGuid": "3030-5348",
-    "tgdbId": 5296
+    "tgdbId": 5296,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
     "name": "Airlock",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "26005",
+    "id": "a265",
     "igdbId": 11856,
     "gbId": 16292,
     "gbGuid": "3030-16292",
-    "tgdbId": 10860
+    "tgdbId": 10860,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Alien",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "26006",
+    "id": "a266",
     "igdbId": 12240,
     "gbId": 23718,
     "gbGuid": "3030-23718",
-    "tgdbId": 19020
+    "tgdbId": 19020,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Alien's Return",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "26007",
+    "id": "a267",
     "igdbId": 79315,
     "gbId": 35915,
     "gbGuid": "3030-35915",
-    "tgdbId": 43503
+    "tgdbId": 43503,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Alpha Beam With Ernie",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "26008",
+    "id": "a268",
     "igdbId": 3252,
     "gbId": 15182,
     "gbGuid": "3030-15182",
-    "tgdbId": 31122
+    "tgdbId": 31122,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Assault",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "26009",
+    "id": "a269",
     "igdbId": 24456,
     "gbId": 19259,
     "gbGuid": "3030-19259",
-    "tgdbId": 7901
+    "tgdbId": 7901,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Bachelor Party",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260010",
+    "id": "a2610",
     "igdbId": 11128,
     "gbId": 2378,
     "gbGuid": "3030-2378",
-    "tgdbId": 45821
+    "tgdbId": 45821,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Bank Heist",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260011",
+    "id": "a2611",
     "igdbId": 11129,
     "gbId": 17390,
     "gbGuid": "3030-17390",
-    "tgdbId": 17503
+    "tgdbId": 17503,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Barnstorming",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260012",
+    "id": "a2612",
     "igdbId": 18032,
     "gbId": 6440,
     "gbGuid": "3030-6440",
-    "tgdbId": 7944
+    "tgdbId": 7944,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Basic Math (Math)",
-    "id": "260013",
+    "id": "a2613",
     "details": [
       "Atari 2600 launch title"
     ],
     "igdbId": 17258,
     "gbId": 19476,
     "gbGuid": "3030-19476",
-    "tgdbId": 10861
+    "tgdbId": 10861,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
     "name": "Beat 'Em & Eat 'Em",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260014",
+    "id": "a2614",
     "igdbId": 11139,
     "gbId": 18220,
     "gbGuid": "3030-18220",
-    "tgdbId": 22143
+    "tgdbId": 22143,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Blackjack",
-    "id": "260015",
+    "id": "a2615",
     "details": [
       "Atari 2600 launch title",
       "Atari 2600 exclusive"
@@ -174,66 +354,147 @@
     "igdbId": 41530,
     "gbId": 23773,
     "gbGuid": "3030-23773",
-    "tgdbId": 1344
+    "tgdbId": 1344,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "special": []
   },
   {
     "name": "Bobby is Going Home",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260016",
+    "id": "a2616",
     "igdbId": 11140,
     "gbId": 28100,
     "gbGuid": "3030-28100",
-    "tgdbId": 9242
+    "tgdbId": 9242,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Boxing",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260017",
+    "id": "a2617",
     "igdbId": 55103,
     "gbId": 23243,
     "gbGuid": "3030-23243",
-    "tgdbId": 4059
+    "tgdbId": 4059,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Casino",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260018",
+    "id": "a2618",
     "igdbId": 54797,
     "gbId": 10070,
     "gbGuid": "3030-10070",
-    "tgdbId": null
+    "tgdbId": null,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Chase the Chuck Wagon",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260019",
+    "id": "a2619",
     "igdbId": 40628,
     "gbId": 14701,
     "gbGuid": "3030-14701",
-    "tgdbId": 31850
+    "tgdbId": 31850,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Chopper Command",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260020",
+    "id": "a2620",
     "igdbId": 18408,
     "gbId": 1247,
     "gbGuid": "3030-1247",
-    "tgdbId": 7612
+    "tgdbId": 7612,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Combat",
-    "id": "260021",
+    "id": "a2621",
     "details": [
       "Atari 2600 launch title",
       "Atari 2600 exclusive"
@@ -241,814 +502,1711 @@
     "igdbId": 16759,
     "gbId": 5368,
     "gbGuid": "3030-5368",
-    "tgdbId": 4887
+    "tgdbId": 4887,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "special": []
   },
   {
     "name": "Communist Mutants From Space",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260022",
+    "id": "a2622",
     "igdbId": 11154,
     "gbId": 12304,
     "gbGuid": "3030-12304",
-    "tgdbId": 23916
+    "tgdbId": 23916,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Cosmic Ark",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260023",
+    "id": "a2623",
     "igdbId": 8466,
     "gbId": 536,
     "gbGuid": "3030-536",
-    "tgdbId": 21347
+    "tgdbId": 21347,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Crackpots",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260024",
+    "id": "a2624",
     "igdbId": 23843,
     "gbId": 5724,
     "gbGuid": "3030-5724",
-    "tgdbId": 22150
+    "tgdbId": 22150,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Custer's Revenge",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260025",
+    "id": "a2625",
     "igdbId": 8529,
     "gbId": 14802,
     "gbGuid": "3030-14802",
-    "tgdbId": 20026
+    "tgdbId": 20026,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Demons To Diamonds",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260026",
+    "id": "a2626",
     "igdbId": 17019,
     "gbId": 14030,
     "gbGuid": "3030-14030",
-    "tgdbId": 14689
+    "tgdbId": 14689,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Dishaster",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260027",
+    "id": "a2627",
     "igdbId": 46901,
     "gbId": 67567,
     "gbGuid": "3030-67567",
-    "tgdbId": 44820
+    "tgdbId": 44820,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Dolphin",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260028",
+    "id": "a2628",
     "igdbId": 22733,
     "gbId": 17406,
     "gbGuid": "3030-17406",
-    "tgdbId": 22152
+    "tgdbId": 22152,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Dragonstomper",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260029",
+    "id": "a2629",
     "igdbId": 18568,
     "gbId": 2754,
     "gbGuid": "3030-2754",
-    "tgdbId": 23917
+    "tgdbId": 23917,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Dragster",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260030",
+    "id": "a2630",
     "igdbId": 46885,
     "gbId": 7833,
     "gbGuid": "3030-7833",
-    "tgdbId": 22154
+    "tgdbId": 22154,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Duck Attack!",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260031",
+    "id": "a2631",
     "igdbId": 93457,
     "gbId": 36910,
     "gbGuid": "3030-36910",
-    "tgdbId": 52214
+    "tgdbId": 52214,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "E.T. the Extra-Terrestrial",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260032",
+    "id": "a2632",
     "igdbId": 6706,
     "gbId": 21595,
     "gbGuid": "3030-21595",
-    "tgdbId": 3416
+    "tgdbId": 3416,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Eggomania",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260033",
+    "id": "a2633",
     "igdbId": 22765,
     "gbId": 7635,
     "gbGuid": "3030-7635",
-    "tgdbId": 14280
+    "tgdbId": 14280,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Entombed",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260034",
+    "id": "a2634",
     "igdbId": 22820,
     "gbId": 13588,
     "gbGuid": "3030-13588",
-    "tgdbId": 17764
+    "tgdbId": 17764,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Escape from the Mindmaster",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260035",
+    "id": "a2635",
     "igdbId": 18567,
     "gbId": 961,
     "gbGuid": "3030-961",
-    "tgdbId": 10326
+    "tgdbId": 10326,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Fast Food",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260036",
+    "id": "a2636",
     "igdbId": 18287,
     "gbId": 4898,
     "gbGuid": "3030-4898",
-    "tgdbId": 22157
+    "tgdbId": 22157,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Fishing Derby",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260037",
+    "id": "a2637",
     "igdbId": 18105,
     "gbId": 11604,
     "gbGuid": "3030-11604",
-    "tgdbId": 20286
+    "tgdbId": 20286,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Frankenstein's Monster",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260038",
+    "id": "a2638",
     "igdbId": 22763,
     "gbId": 5105,
     "gbGuid": "3030-5105",
-    "tgdbId": 5303
+    "tgdbId": 5303,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Freeway",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260039",
+    "id": "a2639",
     "igdbId": 18045,
     "gbId": 917,
     "gbGuid": "3030-917",
-    "tgdbId": 5304
+    "tgdbId": 5304,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Frostbite",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260040",
+    "id": "a2640",
     "igdbId": 18695,
     "gbId": 20353,
     "gbGuid": "3030-20353",
-    "tgdbId": 8356
+    "tgdbId": 8356,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "G.I. Joe: Cobra Strike",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260041",
+    "id": "a2641",
     "igdbId": 22697,
     "gbId": 4359,
     "gbGuid": "3030-4359",
-    "tgdbId": 19843
+    "tgdbId": 19843,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Golf",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260042",
+    "id": "a2642",
     "igdbId": 18008,
     "gbId": 3109,
     "gbGuid": "3030-3109",
-    "tgdbId": 350
+    "tgdbId": 350,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Gopher",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260043",
+    "id": "a2643",
     "igdbId": 22764,
     "gbId": 13689,
     "gbGuid": "3030-13689",
-    "tgdbId": 28690
+    "tgdbId": 28690,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Grand Prix",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260044",
+    "id": "a2644",
     "igdbId": 18103,
     "gbId": 6394,
     "gbGuid": "3030-6394",
-    "tgdbId": 21544
+    "tgdbId": 21544,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Great Escape",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260045",
+    "id": "a2645",
     "igdbId": 24454,
     "gbId": 8848,
     "gbGuid": "3030-8848",
-    "tgdbId": 38788
+    "tgdbId": 38788,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Gremlins",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260046",
+    "id": "a2646",
     "igdbId": 25673,
     "gbId": 15465,
     "gbGuid": "3030-15465",
-    "tgdbId": 5161
+    "tgdbId": 5161,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Halloween",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260047",
+    "id": "a2647",
     "igdbId": 40790,
     "gbId": 2061,
     "gbGuid": "3030-2061",
-    "tgdbId": 22160
+    "tgdbId": 22160,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Halo 2600",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260048",
+    "id": "a2648",
     "igdbId": 18286,
     "gbId": 32258,
     "gbGuid": "3030-32258",
-    "tgdbId": 24954
+    "tgdbId": 24954,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Haunted House",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260049",
+    "id": "a2649",
     "igdbId": 4909,
     "gbId": 4502,
     "gbGuid": "3030-4502",
-    "tgdbId": 1370
+    "tgdbId": 1370,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "I Want My Mommy",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260050",
+    "id": "a2650",
     "igdbId": 40789,
     "gbId": 67565,
     "gbGuid": "3030-67565",
-    "tgdbId": 22161
+    "tgdbId": 22161,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Indy 500",
-    "id": "260051",
+    "id": "a2651",
     "details": [
       "Atari 2600 launch title"
     ],
     "igdbId": 54790,
     "gbId": 19945,
     "gbGuid": "3030-19945",
-    "tgdbId": 16865
+    "tgdbId": 16865,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
     "name": "Journey Escape",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260052",
+    "id": "a2652",
     "igdbId": 22415,
     "gbId": 32597,
     "gbGuid": "3030-32597",
-    "tgdbId": 7950
+    "tgdbId": 7950,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Karate (Ultravision)",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260053",
+    "id": "a2653",
     "igdbId": 14253,
     "gbId": 16498,
     "gbGuid": "3030-16498",
-    "tgdbId": 31491
+    "tgdbId": 31491,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "King Kong",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260054",
+    "id": "a2654",
     "igdbId": 18763,
     "gbId": 1962,
     "gbGuid": "3030-1962",
-    "tgdbId": 17515
+    "tgdbId": 17515,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Krull",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260055",
+    "id": "a2655",
     "igdbId": 18692,
     "gbId": 13552,
     "gbGuid": "3030-13552",
-    "tgdbId": 12318
+    "tgdbId": 12318,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Laser Blast",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260056",
+    "id": "a2656",
     "igdbId": 18034,
     "gbId": 18923,
     "gbGuid": "3030-18923",
-    "tgdbId": 19892
+    "tgdbId": 19892,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Lost Luggage",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260057",
+    "id": "a2657",
     "igdbId": 18501,
     "gbId": 1169,
     "gbGuid": "3030-1169",
-    "tgdbId": 17518
+    "tgdbId": 17518,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Mangia'",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260058",
+    "id": "a2658",
     "igdbId": 24495,
     "gbId": 18200,
     "gbGuid": "3030-18200",
-    "tgdbId": 38202
+    "tgdbId": 38202,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Maze Craze",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260059",
+    "id": "a2659",
     "igdbId": 17261,
     "gbId": 15656,
     "gbGuid": "3030-15656",
-    "tgdbId": 5310
+    "tgdbId": 5310,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Medieval Mayhem",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260060",
+    "id": "a2660",
     "igdbId": 40716,
     "gbId": 17775,
     "gbGuid": "3030-17775",
-    "tgdbId": 40676
+    "tgdbId": 40676,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Miniature Golf",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260061",
+    "id": "a2661",
     "igdbId": 18415,
     "gbId": 15745,
     "gbGuid": "3030-15745",
-    "tgdbId": 34488
+    "tgdbId": 34488,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Name This Game",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260062",
+    "id": "a2662",
     "igdbId": 22838,
     "gbId": 18989,
     "gbGuid": "3030-18989",
-    "tgdbId": 17524
+    "tgdbId": 17524,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Off The Wall",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260063",
+    "id": "a2663",
     "igdbId": 12894,
     "gbId": 11710,
     "gbGuid": "3030-11710",
-    "tgdbId": 30137
+    "tgdbId": 30137,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Oink!",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260064",
+    "id": "a2664",
     "igdbId": 18580,
     "gbId": 1043,
     "gbGuid": "3030-1043",
-    "tgdbId": 7953
+    "tgdbId": 7953,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Parachute",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260065",
+    "id": "a2665",
     "igdbId": 40678,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": 38217
+    "tgdbId": 38217,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Party Mix",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260066",
+    "id": "a2666",
     "igdbId": 40660,
     "gbId": 16863,
     "gbGuid": "3030-16863",
-    "tgdbId": 34332
+    "tgdbId": 34332,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Pelé's Soccer",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260067",
+    "id": "a2667",
     "igdbId": 18413,
     "gbId": 27183,
     "gbGuid": "3030-27183",
-    "tgdbId": 5316
+    "tgdbId": 5316,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Phaser Patrol",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260068",
+    "id": "a2668",
     "igdbId": 18564,
     "gbId": 18137,
     "gbGuid": "3030-18137",
-    "tgdbId": 38219
+    "tgdbId": 38219,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Plaque Attack",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260069",
+    "id": "a2669",
     "igdbId": 18410,
     "gbId": 20408,
     "gbGuid": "3030-20408",
-    "tgdbId": 10130
+    "tgdbId": 10130,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Pressure Cooker",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260070",
+    "id": "a2670",
     "igdbId": 25732,
     "gbId": 14580,
     "gbGuid": "3030-14580",
-    "tgdbId": 22174
+    "tgdbId": 22174,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Private Eye",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260071",
+    "id": "a2671",
     "igdbId": 25833,
     "gbId": 23525,
     "gbGuid": "3030-23525",
-    "tgdbId": 14281
+    "tgdbId": 14281,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Quadrun",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260072",
+    "id": "a2672",
     "igdbId": 40713,
     "gbId": 15953,
     "gbGuid": "3030-15953",
-    "tgdbId": 41365
+    "tgdbId": 41365,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Rabbit Transit",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260073",
+    "id": "a2673",
     "igdbId": 24468,
     "gbId": 7978,
     "gbGuid": "3030-7978",
-    "tgdbId": 34336
+    "tgdbId": 34336,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Raiders of the Lost Ark",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260074",
+    "id": "a2674",
     "igdbId": 18036,
     "gbId": 4739,
     "gbGuid": "3030-4739",
-    "tgdbId": 5319
+    "tgdbId": 5319,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "RealSports Volleyball",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260075",
+    "id": "a2675",
     "igdbId": 18420,
     "gbId": 4723,
     "gbGuid": "3030-4723",
-    "tgdbId": 17532
+    "tgdbId": 17532,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Revenge Of The Apes",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260076",
+    "id": "a2676",
     "igdbId": 40772,
     "gbId": 9545,
     "gbGuid": "3030-9545",
-    "tgdbId": 45836
+    "tgdbId": 45836,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Revenge of the Beefsteak Tomatoes",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260077",
+    "id": "a2677",
     "igdbId": 22760,
     "gbId": 19108,
     "gbGuid": "3030-19108",
-    "tgdbId": 22213
+    "tgdbId": 22213,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Riddle of the Sphinx",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260078",
+    "id": "a2678",
     "igdbId": 18480,
     "gbId": 6942,
     "gbGuid": "3030-6942",
-    "tgdbId": 22177
+    "tgdbId": 22177,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Robot Tank",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260079",
+    "id": "a2679",
     "igdbId": 18675,
     "gbId": 2280,
     "gbGuid": "3030-2280",
-    "tgdbId": 5323
+    "tgdbId": 5323,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Secret Quest",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260080",
+    "id": "a2680",
     "igdbId": 41108,
     "gbId": 13574,
     "gbGuid": "3030-13574",
-    "tgdbId": 5325
+    "tgdbId": 5325,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Skeet Shoot",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260081",
+    "id": "a2681",
     "igdbId": 40615,
     "gbId": 4690,
     "gbGuid": "3030-4690",
-    "tgdbId": 30128
+    "tgdbId": 30128,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Skiing",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260082",
+    "id": "a2682",
     "igdbId": 55104,
     "gbId": 13075,
     "gbGuid": "3030-13075",
-    "tgdbId": 7954
+    "tgdbId": 7954,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Sky Jinks",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260083",
+    "id": "a2683",
     "igdbId": 18529,
     "gbId": 4461,
     "gbGuid": "3030-4461",
-    "tgdbId": 15891
+    "tgdbId": 15891,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Slot Racers (Maze)",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260084",
+    "id": "a2684",
     "igdbId": 18422,
     "gbId": 8522,
     "gbGuid": "3030-8522",
-    "tgdbId": 14694
+    "tgdbId": 14694,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Snoopy and the Red Baron",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260085",
+    "id": "a2685",
     "igdbId": 2757,
     "gbId": 18679,
     "gbGuid": "3030-18679",
-    "tgdbId": 22179
+    "tgdbId": 22179,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Solaris",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260086",
+    "id": "a2686",
     "igdbId": 40577,
     "gbId": 6158,
     "gbGuid": "3030-6158",
-    "tgdbId": 18880
+    "tgdbId": 18880,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Space Cavern",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260087",
+    "id": "a2687",
     "igdbId": 18502,
     "gbId": 8212,
     "gbGuid": "3030-8212",
-    "tgdbId": 22200
+    "tgdbId": 22200,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Space Jockey",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260088",
+    "id": "a2688",
     "igdbId": 18679,
     "gbId": 2251,
     "gbGuid": "3030-2251",
-    "tgdbId": 15890
+    "tgdbId": 15890,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Spacechase",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260089",
+    "id": "a2689",
     "igdbId": 18503,
     "gbId": 7902,
     "gbGuid": "3030-7902",
-    "tgdbId": 34340
+    "tgdbId": 34340,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Spider Fighter",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260090",
+    "id": "a2690",
     "igdbId": 18530,
     "gbId": 2362,
     "gbGuid": "3030-2362",
-    "tgdbId": 1354
+    "tgdbId": 1354,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Spider-Man",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260091",
+    "id": "a2691",
     "igdbId": 3325,
     "gbId": 3228,
     "gbGuid": "3030-3228",
-    "tgdbId": 611
+    "tgdbId": 611,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Spiderdroid",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260092",
+    "id": "a2692",
     "igdbId": 40621,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": 28709
+    "tgdbId": 28709,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Sssnake",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260093",
+    "id": "a2693",
     "igdbId": 18801,
     "gbId": 8184,
     "gbGuid": "3030-8184",
-    "tgdbId": 22184
+    "tgdbId": 22184,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Star Fox",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260094",
+    "id": "a2694",
     "igdbId": 23854,
     "gbId": 34788,
     "gbGuid": "3030-34788",
-    "tgdbId": 1730
+    "tgdbId": 1730,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Star Ship (Outer Space)",
-    "id": "260095",
+    "id": "a2695",
     "details": [
       "Atari 2600 launch title",
       "Atari 2600 exclusive"
@@ -1056,270 +2214,579 @@
     "igdbId": 18424,
     "gbId": 13503,
     "gbGuid": "3030-13503",
-    "tgdbId": 1355
+    "tgdbId": 1355,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "special": []
   },
   {
     "name": "Star Voyager",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260096",
+    "id": "a2696",
     "igdbId": 3284,
     "gbId": 32855,
     "gbGuid": "3030-32855",
-    "tgdbId": 2113
+    "tgdbId": 2113,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Star Wars: Ewok Adventure",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260097",
+    "id": "a2697",
     "igdbId": 10205,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": 31493
+    "tgdbId": 31493,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Star Wars: Jedi Arena",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260098",
+    "id": "a2698",
     "igdbId": 10203,
     "gbId": 5478,
     "gbGuid": "3030-5478",
-    "tgdbId": 5329
+    "tgdbId": 5329,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Stargunner",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "260099",
+    "id": "a2699",
     "igdbId": 23199,
     "gbId": 6139,
     "gbGuid": "3030-6139",
-    "tgdbId": 22665
+    "tgdbId": 22665,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Starmaster",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600100",
+    "id": "a26100",
     "igdbId": 18033,
     "gbId": 3721,
     "gbGuid": "3030-3721",
-    "tgdbId": 1357
+    "tgdbId": 1357,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Stellar Track",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600101",
+    "id": "a26101",
     "igdbId": 18427,
     "gbId": 20288,
     "gbGuid": "3030-20288",
-    "tgdbId": 38243
+    "tgdbId": 38243,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Street Racer",
-    "id": "2600102",
+    "id": "a26102",
     "details": [
       "Atari 2600 launch title"
     ],
     "igdbId": 49118,
     "gbId": 1811,
     "gbGuid": "3030-1811",
-    "tgdbId": 6142
+    "tgdbId": 6142,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
     "name": "Superman",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600103",
+    "id": "a26103",
     "igdbId": 18711,
     "gbId": 769,
     "gbGuid": "3030-769",
-    "tgdbId": 2790
+    "tgdbId": 2790,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Surround (Chase)",
-    "id": "2600104",
+    "id": "a26104",
     "details": [
       "Atari 2600 launch title"
     ],
     "igdbId": 18002,
     "gbId": 16028,
     "gbGuid": "3030-16028",
-    "tgdbId": 21035
+    "tgdbId": 21035,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
     "name": "Sword of Saros",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600105",
+    "id": "a26105",
     "igdbId": 40727,
     "gbId": 19790,
     "gbGuid": "3030-19790",
-    "tgdbId": 38249
+    "tgdbId": 38249,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Tax Avoiders",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600106",
+    "id": "a26106",
     "igdbId": 40618,
     "gbId": 1627,
     "gbGuid": "3030-1627",
-    "tgdbId": 28714
+    "tgdbId": 28714,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Taz",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600107",
+    "id": "a26107",
     "igdbId": 100183,
     "gbId": 10497,
     "gbGuid": "3030-10497",
-    "tgdbId": 22189
+    "tgdbId": 22189,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Texas Chainsaw Massacre",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600108",
+    "id": "a26108",
     "igdbId": 40675,
     "gbId": 2292,
     "gbGuid": "3030-2292",
-    "tgdbId": 34694
+    "tgdbId": 34694,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Tooth Protectors",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600109",
+    "id": "a26109",
     "igdbId": 11236,
     "gbId": 14978,
     "gbGuid": "3030-14978",
-    "tgdbId": 38255
+    "tgdbId": 38255,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Towering Inferno",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600110",
+    "id": "a26110",
     "igdbId": 18771,
     "gbId": 2974,
     "gbGuid": "3030-2974",
-    "tgdbId": 19931
+    "tgdbId": 19931,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Tunnel Runner",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600111",
+    "id": "a26111",
     "igdbId": 22757,
     "gbId": 4149,
     "gbGuid": "3030-4149",
-    "tgdbId": 22192
+    "tgdbId": 22192,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Video Life",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600112",
+    "id": "a26112",
     "igdbId": 40647,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": 33495
+    "tgdbId": 33495,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Video Olympics (Pong Sports)",
-    "id": "2600113",
+    "id": "a26113",
     "details": [
       "Atari 2600 launch title"
     ],
     "igdbId": 54791,
     "gbId": 3294,
     "gbGuid": "3030-3294",
-    "tgdbId": 7957
+    "tgdbId": 7957,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isExclusive": false,
+    "special": []
   },
   {
     "name": "Video Pinball",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600114",
+    "id": "a26114",
     "igdbId": 46877,
     "gbId": 11532,
     "gbGuid": "3030-11532",
-    "tgdbId": 45730
+    "tgdbId": 45730,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Wall defender",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600115",
+    "id": "a26115",
     "igdbId": 46880,
     "gbId": 11169,
     "gbGuid": "3030-11169",
-    "tgdbId": 33837
+    "tgdbId": 33837,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Word Zapper",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600116",
+    "id": "a26116",
     "igdbId": 46884,
     "gbId": 4873,
     "gbGuid": "3030-4873",
-    "tgdbId": 19932
+    "tgdbId": 19932,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Worm War I",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600117",
+    "id": "a26117",
     "igdbId": 22556,
     "gbId": 17057,
     "gbGuid": "3030-17057",
-    "tgdbId": 5228
+    "tgdbId": 5228,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "X-Man",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600118",
+    "id": "a26118",
     "igdbId": 79301,
     "gbId": 6420,
     "gbGuid": "3030-6420",
-    "tgdbId": 35423
+    "tgdbId": 35423,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Z-Tack",
     "details": [
       "Atari 2600 exclusive"
     ],
-    "id": "2600119",
+    "id": "a26119",
     "igdbId": 24455,
     "gbId": 11646,
     "gbGuid": "3030-11646",
-    "tgdbId": 42278
+    "tgdbId": 42278,
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
   }
 ]

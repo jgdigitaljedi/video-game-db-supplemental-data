@@ -8,15 +8,39 @@ const _difference = require('lodash/difference');
 
 // change
 const filesArr = [
-  '../../finalOutput/smallFiles/launchTitles/atari7800LaunchTitles.json',
-  '../../finalOutput/smallFiles/platformExclusives/atari7800Exclusives.json'
+  {
+    key: 'isLaunchTitle',
+    path: '../../finalOutput/smallFiles/launchTitles/turbografx16LaunchTitles.json'
+  },
+  {
+    key: 'isExclusive',
+    path: '../../finalOutput/smallFiles/platformExclusives/turbografx16Exclusives.json'
+  }
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'
+  // }
 ];
-const mlId = 'ccl30';
-const outPath = '../../finalOutput/consoleLists/Atari7800.json';
-const idPrefix = '7800';
+const mlId = 'ccl33';
+const outPath = '../../finalOutput/consoleLists/TurboGrafx16.json';
+const idPrefix = 'tg16';
 
 function makeCombinedId(item) {
   return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
+}
+
+function otherFields(list, item, master, platformData) {
+  if (list.key === 'special') {
+    if (!master.special) {
+      master['special'] = [];
+    }
+    master['special'].push({
+      value: Array.isArray(item.details) ? item.details.join(', ') : item.details,
+      forPlatform: platformData
+    });
+  } else {
+    master[list.key] = [platformData];
+  }
 }
 
 (async function() {
@@ -24,7 +48,7 @@ function makeCombinedId(item) {
   const masterList = await fileUtil.readFile('../../server/static/consoleMasterList.json');
   const platformData = JSON.parse(masterList).filter(item => item.id === mlId)[0];
   for (const list of filesArr) {
-    const fileRaw = await fileUtil.readFile(list);
+    const fileRaw = await fileUtil.readFile(list.path);
     const parsed = JSON.parse(fileRaw);
     // make perfect matches where all 3 ids are the same; the rest will end up as duplicates which we can look at manually
     const idArr = final.map(f => makeCombinedId(f));
@@ -37,10 +61,22 @@ function makeCombinedId(item) {
         }
         if (Array.isArray(item.details)) {
           item.details.forEach(d => final[fIndex].details.push(d));
+          otherFields(list, item, final[fIndex], platformData);
         } else {
           final[fIndex].details.push(item.details);
+          otherFields(list, item, final[fIndex], platformData);
         }
       } else {
+        if (list.key === 'special') {
+          item.special = [
+            {
+              value: Array.isArray(item.details) ? item.details.join(', ') : item.details,
+              forPlatform: platformData
+            }
+          ];
+        } else {
+          item[list.key] = [platformData];
+        }
         final.push(item);
       }
     });
@@ -62,6 +98,15 @@ function makeCombinedId(item) {
   });
   const withNewIds = mayHaveDupes.map((item, index) => {
     item.id = `${idPrefix}${index}`;
+    if (!item.isExclusive) {
+      item.isExclusive = false;
+    }
+    if (!item.isLaunchTitle) {
+      item.isLaunchTitle = false;
+    }
+    if (!item.special) {
+      item.special = [];
+    }
     return item;
   });
   const names = withNewIds.map(i => i.name);
