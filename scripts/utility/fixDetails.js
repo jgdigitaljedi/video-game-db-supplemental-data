@@ -2,10 +2,10 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and detailsFix to run on different files
-const relativePath = '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json';
-const detailsFix = 'Sega Genesis/Mega Drive black box grid game';
+const relativePath = '../../finalOutput/smallFiles/backwardCompatibilityLists/Xbox360ToXboxOne.json';
+const detailsFix = 'Xbox 360 game backward compatible with Xbox One';
 
-(async function() {
+(async function () {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
   const fixed = parsed.map(game => {

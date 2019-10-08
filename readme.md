@@ -67,10 +67,11 @@ Looks at all completed files in fileInfoList.json and console logs stats for how
 
 I'm still gathering data and working out the data structures. To build this out, I will follow this general idea:
 
-1. Finish gathering data into JSON files (I want to have a lot and I can come back later and add more, but would like to start with a TON)
-2. Combine as many JSON files as makes sense via scripts to create master lists
-3. Possibly grab a domain and a server and chunk this up somewhere as a fully built out API. That or make it into a npm module or something. I can figure this out later as it will be usable even as just a public GitHub repo.
-4. Integrate into my existing video game projects (most of which are private for now).
+1. Finish gathering data into JSON files (I want to have a lot and I can come back later and add more, but would like to start with a TON).
+2. Make calls for lists like "bannedInternationally.json" to get platforms list for each entry then write script to add that data to the various final output files.
+3. Combine as many JSON files as makes sense via scripts to create master lists
+4. Possibly grab a domain and a server and chunk this up somewhere as a fully built out API. That or make it into a npm module or something. I can figure this out later as it will be usable even as just a public GitHub repo.
+5. Integrate into my existing video game projects (most of which are private for now).
 
 ---
 

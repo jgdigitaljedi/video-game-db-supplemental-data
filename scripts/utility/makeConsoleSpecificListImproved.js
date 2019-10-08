@@ -10,20 +10,20 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/turbografx16LaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/xboxOneLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/turbografx16Exclusives.json'
-  }
+    path: '../../finalOutput/smallFiles/platformExclusives/xboxOneExclusives.json'
+  },
   // {
   //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'
+  //   path: '../../finalOutput/smallFiles/backwardCompatibilityLists/Xbox360ToXboxOne.json'
   // }
 ];
-const mlId = 'ccl33';
-const outPath = '../../finalOutput/consoleLists/TurboGrafx16.json';
-const idPrefix = 'tg16';
+const mlId = 'ccl27';
+const outPath = '../../finalOutput/consoleLists/MicrosoftXboxOne.json';
+const idPrefix = 'mxb1';
 
 function makeCombinedId(item) {
   return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
@@ -43,7 +43,7 @@ function otherFields(list, item, master, platformData) {
   }
 }
 
-(async function() {
+(async function () {
   const final = [];
   const masterList = await fileUtil.readFile('../../server/static/consoleMasterList.json');
   const platformData = JSON.parse(masterList).filter(item => item.id === mlId)[0];
@@ -116,7 +116,7 @@ function otherFields(list, item, master, platformData) {
     console.log(
       chalk.red.bold(
         `YOU HAVE SOME DUPLICATES TO LOOK AT MANUALLY! The arrays had a difference of ${
-          diff.length
+        diff.length
         } item(s) : ${JSON.stringify(diff)}`
       )
     );
