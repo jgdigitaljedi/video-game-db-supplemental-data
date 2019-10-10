@@ -31,7 +31,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 - gcltX - Nintendo GameCube titles (gamecubeLaunchTitles.json) | GAMES LIST
 - gltX - Sega Genesis launch titles (genesisLaunchTitles.json) | GAMES LIST
 - gmltX - Gizmondo launch titles (gizmondoLaunchTitles.json) | GAMES LIST
-- ivltX - Mattel Intellivision titles (intellivisionLaunchTitles.json) | GAMES LIST
+- ivltX - Mattel Intellivision launch titles (intellivisionLaunchTitles.json) | GAMES LIST
+- mo2X - Magnavox Odyssey 2 launch titles (magnavoxOdyssey2LaunchTitles.json) | GAMES LIST
 - n64ltX - N64 launch titles (n64LaunchTitles.json) | GAMES LIST
 - ndsltX - Nintendo DS launch titles (dsLaunchTitles.json) | GAMES LIST
 - nesltX - NES launch titles (nesLaunchTitles.json) | GAMES LIST
@@ -81,6 +82,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ajexX - Atari Jaguar console exclusives (atariJaguarExclusives.json | GAMES LIST)
 - alexX - Atari Lynx console exclusives (atariLynxExclusives.json | GAMES LIST)
 - amexX - Amiga console exclusives (amigaExclusives.json | GAMES LIST)
+- cdiexX - Philips CD-i console exclusives (philipsCdiExclusives.json | GAMES LIST)
 - cvexX - ColecoVision console exclusives (colecovisionExclusives.json | GAMES LIST)
 - fdsexX - Famicom Disk System console exclusives (famicomDiskSystemExclusives.json | GAMES LIST)
 - gcexX - Nintendo GameCube console exclusives (gamecubeExclusives.json | GAMES LIST)

@@ -153,6 +153,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Nintendo Switch
 - Nintendo Wii
 - Nintendo Wii U
+- Philips CD-i (I can't find info for this so I started a list with what I know to be exclusives)
 - Sega 32x
 - Sega CD
 - Sega Dreamcast
@@ -204,8 +205,8 @@ Since I have been using these APIs to try and build out my JSON data matching th
 
 ### Stats
 
-Out of 6398 data points collected so far, the APIs are missing data the following number of items:
+Out of 6414 data points collected so far, the APIs are missing data the following number of items:
 
-- IGDB: 284 (4%)
+- IGDB: 288 (4%)
 - TheGamesDB: 856 (13%)
-- Giantbomb: 784 (12%)
+- Giantbomb: 789 (12%)

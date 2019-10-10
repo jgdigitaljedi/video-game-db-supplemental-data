@@ -587,5 +587,17 @@
     "filePath": "../textFilesToBeConverted/special/NesHangtabGames.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Philips CD-i Exclusive Games",
+    "filePath": "../textFilesToBeConverted/platformExclusives/philipsCdiExclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Magnavox Odyssey 2 launch titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/magnavoxOdyssey2LaunchTitles.json",
+    "type": "Game",
+    "complete": true
   }
 ]
