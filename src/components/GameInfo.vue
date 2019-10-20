@@ -24,6 +24,7 @@
 
 <script>
 import { mapMutations } from 'vuex';
+import { parens } from 'stringman';
 
 export default {
   name: 'GameInfo',
@@ -45,7 +46,7 @@ export default {
     },
     stripName(name) {
       // remove parenthesis and non ascii characters
-      const noParens = name.replace(/ *\([^)]*\) */g, '');
+      const noParens = parens.remove(name);
 
       // @TODO: add a bit that removes the non-ascii characters and replaces with the ascii equivalent
       return noParens;

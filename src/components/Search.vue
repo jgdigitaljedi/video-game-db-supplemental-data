@@ -82,7 +82,7 @@ export default {
     reset: null,
     fileType: null,
     currentGame: null,
-    fuzzyList: false
+    fuzzyList: null
   },
   data: () => ({
     igdbGames: null,
