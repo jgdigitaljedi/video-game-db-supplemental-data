@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const axios = require('axios');
-const tgdbKey = process.env.TGDBKEY;
+const tgdbKey = process.env.TGDBPUBLICKEY;
 
 router.post('/gamelookup', async (req, res) => {
   if (req.body.name) {

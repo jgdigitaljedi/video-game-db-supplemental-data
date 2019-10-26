@@ -1,6 +1,233 @@
 [
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/nintendoEntertainmentSystem.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/AtariJaguar.json",
+    "missing": [
+      {
+        "name": "Black Out!",
+        "details": [
+          "Atari Jaguar exclusive"
+        ],
+        "id": "ajag5",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Atari Jaguar",
+            "id": "ccl31",
+            "igdbId": 62,
+            "gbId": 28,
+            "gbGuid": "3045-28",
+            "tgdbId": 28
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Mad Bodies",
+        "details": [
+          "Atari Jaguar exclusive"
+        ],
+        "id": "ajag22",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Atari Jaguar",
+            "id": "ccl31",
+            "igdbId": 62,
+            "gbId": 28,
+            "gbGuid": "3045-28",
+            "tgdbId": 28
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/MicrosoftXbox360.json",
+    "missing": [
+      {
+        "name": "Boulder Dash XL",
+        "details": [
+          "Microsoft Xbox 360 console exclusive (Xbox LIVE Arcade)"
+        ],
+        "id": "x36092",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Microsoft Xbox 360",
+            "id": "ccl26",
+            "igdbId": 12,
+            "gbId": 20,
+            "gbGuid": "3045-20",
+            "tgdbId": 15
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Game Room ",
+        "details": [
+          "Microsoft Xbox 360 full exclusive (Xbox LIVE Arcade)"
+        ],
+        "id": "x360303",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Microsoft Xbox 360",
+            "id": "ccl26",
+            "igdbId": 12,
+            "gbId": 20,
+            "gbGuid": "3045-20",
+            "tgdbId": 15
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Senko no Ronde: Dis-United Order",
+        "details": [
+          "Microsoft Xbox 360 full exclusive"
+        ],
+        "id": "x360597",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Microsoft Xbox 360",
+            "id": "ccl26",
+            "igdbId": 12,
+            "gbId": 20,
+            "gbGuid": "3045-20",
+            "tgdbId": 15
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Warface: Xbox 360 Edition",
+        "details": [
+          "Microsoft Xbox 360 console exclusive (Xbox LIVE Arcade)"
+        ],
+        "id": "x360768",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Microsoft Xbox 360",
+            "id": "ccl26",
+            "igdbId": 12,
+            "gbId": 20,
+            "gbGuid": "3045-20",
+            "tgdbId": 15
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/MicrosoftXboxOne.json",
+    "missing": [
+      {
+        "name": "100 Ways",
+        "details": [
+          "Microsoft Xbox One console exclusive (digital only)"
+        ],
+        "id": "mxb11",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Microsoft Xbox One",
+            "id": "ccl27",
+            "igdbId": 49,
+            "gbId": 145,
+            "gbGuid": "3045-145",
+            "tgdbId": 4920
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Azito x Tatsunoko Legends",
+        "details": [
+          "Microsoft Xbox One full exclusive"
+        ],
+        "id": "mxb120",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Microsoft Xbox One",
+            "id": "ccl27",
+            "igdbId": 49,
+            "gbId": 145,
+            "gbGuid": "3045-145",
+            "tgdbId": 4920
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/Nintendo64.json",
+    "missing": [
+      {
+        "name": "Rally '99",
+        "details": [
+          "Nintendo 64 exclusive"
+        ],
+        "id": "n64104",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo 64",
+            "id": "ccl3",
+            "igdbId": 4,
+            "gbId": 43,
+            "gbGuid": "3045-43",
+            "tgdbId": 3
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/NintendoEntertainmentSystem.json",
     "missing": [
       {
         "id": "nes19",
@@ -11,7 +238,19 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes87",
@@ -22,7 +261,19 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes122",
@@ -33,7 +284,19 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes198",
@@ -44,7 +307,19 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes208",
@@ -55,14 +330,38 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes225",
         "name": "Layla",
         "details": [
           "NES exclusive game"
-        ]
+        ],
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes253",
@@ -73,7 +372,19 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes260",
@@ -84,7 +395,19 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes261",
@@ -95,7 +418,19 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes323",
@@ -106,7 +441,19 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes340",
@@ -117,7 +464,19 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "id": "nes432",
@@ -128,7 +487,1214 @@
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
-        "tgdbId": null
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Entertainment System (NES)",
+            "id": "ccl1",
+            "igdbId": 18,
+            "gbId": 21,
+            "gbGuid": "3045-21",
+            "tgdbId": 7
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/NintendoWiiU.json",
+    "missing": [
+      {
+        "name": "6-Hour Video Poker",
+        "details": [
+          "Nintendo Wii U full exclusive (eShop)"
+        ],
+        "id": "wiiu3",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Goutouchi Tetsudou: Goutouchi Chara to Nihon Zengoku no Tabi",
+        "details": [
+          "Nintendo Wii U platform exclusive"
+        ],
+        "id": "wiiu158",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Ivanoid",
+        "details": [
+          "Nintendo Wii U full exclusive (eShop)"
+        ],
+        "id": "wiiu177",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Mon Premier Karaoke",
+        "details": [
+          "Nintendo Wii U full exclusive (eShop)"
+        ],
+        "id": "wiiu217",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "PixelMaker Studio",
+        "details": [
+          "Nintendo Wii U platform exclusive (eShop)"
+        ],
+        "id": "wiiu266",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Plenty of Fishes",
+        "details": [
+          "Nintendo Wii U full exclusive (eShop)"
+        ],
+        "id": "wiiu269",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Shapes of Grey",
+        "details": [
+          "Nintendo Wii U full exclusive (eShop)"
+        ],
+        "id": "wiiu310",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Taiko Drum Master: Wii U Version",
+        "details": [
+          "Nintendo Wii U full exclusive"
+        ],
+        "id": "wiiu370",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Totem Temple",
+        "details": [
+          "Nintendo Wii U full exclusive (eShop)"
+        ],
+        "id": "wiiu398",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Wii Street U",
+        "details": [
+          "Nintendo Wii U full exclusive (eShop)"
+        ],
+        "id": "wiiu420",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "World Logic by POWGI",
+        "details": [
+          "Nintendo Wii U platform exclusive (eShop)"
+        ],
+        "id": "wiiu429",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Nintendo Wii U",
+            "id": "ccl6",
+            "igdbId": 41,
+            "gbId": 139,
+            "gbGuid": "3045-139",
+            "tgdbId": 38
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaDreamcast.json",
+    "missing": [
+      {
+        "name": "El Dorado Gate",
+        "details": [
+          "Sega Dreamcast exclusive"
+        ],
+        "id": "sdc16",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sega Dreamcast",
+            "id": "ccl18",
+            "igdbId": 23,
+            "gbId": 37,
+            "gbGuid": "3045-37",
+            "tgdbId": 16
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "POD 2",
+        "details": [
+          "Sega Dreamcast exclusive"
+        ],
+        "id": "sdc45",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sega Dreamcast",
+            "id": "ccl18",
+            "igdbId": 23,
+            "gbId": 37,
+            "gbGuid": "3045-37",
+            "tgdbId": 16
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaGameGear.json",
+    "missing": [
+      {
+        "name": "Pet Club: Neko Daisuki!",
+        "details": [
+          "Sega Game Gear exclusive"
+        ],
+        "id": "sgg20",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sega Game Gear",
+            "id": "ccl19",
+            "igdbId": 35,
+            "gbId": 5,
+            "gbGuid": "3045-5",
+            "tgdbId": 20
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Poker Face Paul",
+        "details": [
+          "Sega Game Gear exclusive"
+        ],
+        "id": "sgg21",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sega Game Gear",
+            "id": "ccl19",
+            "igdbId": 35,
+            "gbId": 5,
+            "gbGuid": "3045-5",
+            "tgdbId": 20
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaGenesis.json",
+    "missing": [
+      {
+        "name": "Prime Time Football '96",
+        "details": [
+          "Sega Genesis exclusive"
+        ],
+        "id": "smd153",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sega Mega Drive/Genesis",
+            "id": "ccl14",
+            "igdbId": 29,
+            "gbId": 6,
+            "gbGuid": "3045-6",
+            "tgdbId": 18
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaSaturn.json",
+    "missing": [
+      {
+        "name": "Gundam Gaiden 3",
+        "details": [
+          "Sega Saturn exclusive"
+        ],
+        "id": "ssat22",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sega Saturn",
+            "id": "ccl17",
+            "igdbId": 32,
+            "gbId": 42,
+            "gbGuid": "3045-42",
+            "tgdbId": 17
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Virtual Volleyball",
+        "details": [
+          "Sega Saturn exclusive"
+        ],
+        "id": "ssat53",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sega Saturn",
+            "id": "ccl17",
+            "igdbId": 32,
+            "gbId": 42,
+            "gbGuid": "3045-42",
+            "tgdbId": 17
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlayStationPortable.json",
+    "missing": [
+      {
+        "name": "A Certain Scientific Railgun",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp2",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Anohana: The Flower We Saw That Day",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp13",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Baka and Test",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp21",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Championship Manager (PSP)",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp44",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Elminage",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp80",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Finder Love",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp90",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Genso Suikoden I & II",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp95",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Haganai",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp110",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Heaven's Lost Property",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp113",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kamigami no Asobi",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp127",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Marriage Royale",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp148",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Monogatari (series)",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp160",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Nogizaka Haruka no Himitsu",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp177",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Planet PSP",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp187",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Portable Island: Te no Hira no Resort",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp189",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "R-15 (novel series)",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp197",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Sound of the Sky",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp226",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Taishō Baseball Girls",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp234",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Terror of the Stratus",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp244",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Tsukumonogatari",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp261",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Ōkami Kakushi",
+        "details": [
+          "Sony PlayStation Portable exclusive"
+        ],
+        "id": "spsp286",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Portable",
+            "id": "ccl24",
+            "igdbId": 38,
+            "gbId": 18,
+            "gbGuid": "3045-18",
+            "tgdbId": 13
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SuperNintendoEntertainmentSystem.json",
+    "missing": [
+      {
+        "name": "Aim for the Ace!",
+        "details": [
+          "Super Nintendo Entertainment System exclusive"
+        ],
+        "id": "snes4",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Super Nintendo Entertainment System (SNES)",
+            "id": "cc2",
+            "igdbId": 19,
+            "gbId": 9,
+            "gbGuid": "3045-9",
+            "tgdbId": 6
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Bow Wow (manga)",
+        "details": [
+          "Super Nintendo Entertainment System exclusive"
+        ],
+        "id": "snes37",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Super Nintendo Entertainment System (SNES)",
+            "id": "cc2",
+            "igdbId": 19,
+            "gbId": 9,
+            "gbGuid": "3045-9",
+            "tgdbId": 6
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Goldfish Warning!",
+        "details": [
+          "Super Nintendo Entertainment System exclusive"
+        ],
+        "id": "snes96",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Super Nintendo Entertainment System (SNES)",
+            "id": "cc2",
+            "igdbId": 19,
+            "gbId": 9,
+            "gbGuid": "3045-9",
+            "tgdbId": 6
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Gurume Sentai Barayarō",
+        "details": [
+          "Super Nintendo Entertainment System exclusive"
+        ],
+        "id": "snes100",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Super Nintendo Entertainment System (SNES)",
+            "id": "cc2",
+            "igdbId": 19,
+            "gbId": 9,
+            "gbGuid": "3045-9",
+            "tgdbId": 6
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kaizo Mario World",
+        "details": [
+          "Super Nintendo Entertainment System exclusive"
+        ],
+        "id": "snes128",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Super Nintendo Entertainment System (SNES)",
+            "id": "cc2",
+            "igdbId": 19,
+            "gbId": 9,
+            "gbGuid": "3045-9",
+            "tgdbId": 6
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Mighty Atom (1994 video game)",
+        "details": [
+          "Super Nintendo Entertainment System exclusive"
+        ],
+        "id": "snes167",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Super Nintendo Entertainment System (SNES)",
+            "id": "cc2",
+            "igdbId": 19,
+            "gbId": 9,
+            "gbGuid": "3045-9",
+            "tgdbId": 6
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Super Ōzumō: Netsusen Daiichiban",
+        "details": [
+          "Super Nintendo Entertainment System exclusive"
+        ],
+        "id": "snes287",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Super Nintendo Entertainment System (SNES)",
+            "id": "cc2",
+            "igdbId": 19,
+            "gbId": 9,
+            "gbGuid": "3045-9",
+            "tgdbId": 6
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Tottemo! Luckyman",
+        "details": [
+          "Super Nintendo Entertainment System exclusive"
+        ],
+        "id": "snes324",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Super Nintendo Entertainment System (SNES)",
+            "id": "cc2",
+            "igdbId": 19,
+            "gbId": 9,
+            "gbGuid": "3045-9",
+            "tgdbId": 6
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Ōzumō Spirit",
+        "details": [
+          "Super Nintendo Entertainment System exclusive"
+        ],
+        "id": "snes358",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Super Nintendo Entertainment System (SNES)",
+            "id": "cc2",
+            "igdbId": 19,
+            "gbId": 9,
+            "gbGuid": "3045-9",
+            "tgdbId": 6
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/TurboGrafx16.json",
+    "missing": [
+      {
+        "name": "Baribari Legend",
+        "details": [
+          "NEC Turbografx 16 exclusive"
+        ],
+        "id": "tg161",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "NEC TurboGrafx 16",
+            "id": "ccl33",
+            "igdbId": 86,
+            "gbId": 55,
+            "gbGuid": "3045-55",
+            "tgdbId": 34
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/TurboGrafxCD.json",
+    "missing": [
+      {
+        "name": "List of Devil Hunter Yohko video games",
+        "details": [
+          "NEC Turbografx CD exclusive"
+        ],
+        "id": "tgcd13",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "NEC TurboGrafx CD",
+            "id": "ccl34",
+            "igdbId": 150,
+            "gbId": 53,
+            "gbGuid": "3045-53",
+            "tgdbId": 4955
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
       }
     ]
   },
@@ -539,6 +2105,169 @@
         "name": "Yo-kai Watch 2",
         "details": "Nintendo 3DS exclusive",
         "id": "3dsex204",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoDsExclusives.json",
+    "missing": [
+      {
+        "name": "BreakSoul",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex76",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Code (video game)",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex101",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "List of DS:Style products",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex164",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Go Go Cosmo Cops",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex206"
+      },
+      {
+        "name": "Hayate the Combat Butler",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex221",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "IQ Sapuri",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex238",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Irodzuki Tingle no Koi no Balloon Trip",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex240",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Kanji Sonomama Rakubiki Jiten DS",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex253",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Keroro Gunsō the Super Movie",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex254",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Kimi no Yusha",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex257",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Where in the World is Carmen Sandiego? 3 - New Carmen Adventure",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex296",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Mushishi",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex329",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Picopict",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex368",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Project Hacker: Kakusei",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex397",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Puzzle Series",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex400",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Snoopy DS: Let's Go Meet Snoopy and His Friends!",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex441",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Spice and Wolf",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex455",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null
+      },
+      {
+        "name": "Touch Dictionary",
+        "details": "Nintendo DS exclusive",
+        "id": "ndsex500",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
