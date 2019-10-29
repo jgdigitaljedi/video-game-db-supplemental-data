@@ -22,8 +22,8 @@ const filesArr = [
   }
 ];
 const mlId = 'ccl20';
-const outPath = '../../finalOutput/consoleLists/SontPlaystation.json';
-const idPrefix = 'psx1';
+const outPath = '../../finalOutput/consoleLists/SonyPlaystation.json';
+const idPrefix = 'psx';
 
 function makeCombinedId(item) {
   return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
