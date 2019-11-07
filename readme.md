@@ -8,6 +8,10 @@ For now, I'm focused mainly on North American data with some exceptions. I might
 
 Also, since the app isn't the focus here (the JSON files are the focus), there will be console logs, missing error handling, etc. I only need to have this working well enough to get me through all of the json data lists and keep me sane. Features are added only when I am going crazy trying to deal with a particular issue.
 
+### RECENT DEVELOPMENT
+
+NOTE: As of 11/7/2019, I have decided to abondon The Games DB. I've had too many problems with their API keys and that API was also getting the last amount of results so, at this point, it doesn't make sense to keep wrestling with it and just move on. I am freezing it in the UI, will eventually remove it from stats, etc. I'll leave the data I've collected for The Games DB API in there for now.
+
 ---
 
 ## Usage
@@ -74,6 +78,15 @@ I'm still gathering data and working out the data structures. To build this out,
 5. Integrate into my existing video game projects (most of which are private for now).
 
 ---
+
+## TODOs
+
+- Strip out tgdb from stats and fix missing scripts.
+- Reconfigure console list script to not use TGDB.
+- Create script to strip results with nulls in all data from final output files.
+- Get through the rest of the lists.
+- Create an API using collected data.
+- Get more data!
 
 ## Data Being Collected
 

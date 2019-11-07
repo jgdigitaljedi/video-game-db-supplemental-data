@@ -38,7 +38,7 @@ export default {
       return (
         item &&
         item.hasOwnProperty('igdbId') &&
-        item.hasOwnProperty('tgdbId') &&
+        // item.hasOwnProperty('tgdbId') &&
         item.hasOwnProperty('gbId') &&
         item.hasOwnProperty('gbGuid') &&
         item.name

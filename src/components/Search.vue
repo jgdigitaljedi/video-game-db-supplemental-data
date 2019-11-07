@@ -99,13 +99,12 @@ export default {
     platformList: null,
     selectedPlatform: null,
     runIgdb: true,
-    runTgdb: true,
+    runTgdb: false,
     runGb: true,
     readyForSave: false
   }),
   created() {
     this.fuzzy = !!this.fuzzyList;
-    console.log('this.fuzzyList', this.fuzzyList);
     JsonData.getMasterPlatforms()
       .then(result => {
         console.log('platforms result', result);
@@ -327,7 +326,7 @@ export default {
       this.tgdbModel = null;
       this.runIgdb = true;
       this.runGb = true;
-      this.runTgdb = true;
+      this.runTgdb = false;
       this.fuzzy = !!this.fuzzyList;
     },
     fuzzyList: function(val) {

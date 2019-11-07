@@ -199,7 +199,10 @@ export default {
       gCopy.igdbId = gameData.igdbId;
       gCopy.gbId = gameData.gbId;
       gCopy.gbGuid = gameData.gbGuid;
-      gCopy.tgdbId = gameData.tgdbId;
+
+      // commented this out on 11/7 when I decided to drop siupport for tgdb
+      // gCopy.tgdbId = gameData.tgdbId;
+
       gCopy.name = gameData.name;
       this.fixedGame = gCopy;
     },
