@@ -8,6 +8,7 @@ const masterList = '../../server/static/fileInfoList.json';
 let igdb = 0;
 let tgdb = 0;
 let gb = 0;
+let allThree = 0;
 let total = 0;
 
 function getPercentage(num, sum) {
@@ -30,14 +31,18 @@ async function checkFileForApiInfo(file) {
     const fParsed = fContents ? JSON.parse(fContents) : null;
     if (fParsed) {
       fParsed.forEach(item => {
-        if (!item.igdbId) {
-          igdb++;
-        }
-        if (!item.tgdbId) {
-          tgdb++;
-        }
-        if (!item.gbId) {
-          gb++;
+        if (!item.igdbId && !item.gbId && !item.tgdbId) {
+          allThree++;
+        } else {
+          if (!item.igdbId) {
+            igdb++;
+          }
+          if (!item.tgdbId) {
+            tgdb++;
+          }
+          if (!item.gbId) {
+            gb++;
+          }
         }
         total++;
       });
@@ -64,7 +69,9 @@ async function checkFileForApiInfo(file) {
   const igdbPer = getPercentage(igdb, total);
   const tgdbPer = getPercentage(tgdb, total);
   const gbPer = getPercentage(gb, total);
+  const totalPer = getPercentage(allThree, total);
 
+  console.log(chalk.cyan.bold(`Missing from all: ${allThree} (${totalPer}%)`));
   console.log(chalk.green.bold(`IGDB: ${igdb} (${igdbPer}%)`));
   console.log(chalk.yellow.bold(`TheGamesDB: ${tgdb} (${tgdbPer}%)`));
   console.log(chalk.magenta.bold(`Giantbomb: ${gb} (${gbPer}%)`));
@@ -73,7 +80,7 @@ async function checkFileForApiInfo(file) {
   statsRemoved.splice(-6, 6);
   const modified = `${statsRemoved.join(
     '\n'
-  )}\nOut of ${total} data points collected so far, the APIs are missing data the following number of items:\n\n- IGDB: ${igdb} (${igdbPer}%)\n- TheGamesDB: ${tgdb} (${tgdbPer}%)\n- Giantbomb: ${gb} (${gbPer}%)\n`;
+  )}\nOut of ${total} data points collected so far, the APIs are missing data the following number of items:\n\n- Missing from all APIs: ${allThree} (${totalPer}%)\n- IGDB: ${igdb} (${igdbPer}%)\n- Giantbomb: ${gb} (${gbPer}%)\n`;
   fs.writeFile(path.join(__dirname, '../../readme.md'), modified, error => {
     if (error) {
       console.log(chalk.red.bold(`ERROR WRITING TO README: ${error}`));
