@@ -10,20 +10,20 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/ps2LaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/psVitaLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/sonyPlaystation2Exclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/sonyPlaystationVitaExclusives.json'
   }
   // {
   //   key: 'special',
   //   path: '../../finalOutput/smallFiles/special/playstationLongboxGames.json'
   // }
 ];
-const mlId = 'ccl21';
-const outPath = '../../finalOutput/consoleLists/SonyPlaystation2.json';
-const idPrefix = 'ps2';
+const mlId = 'ccl45';
+const outPath = '../../finalOutput/consoleLists/SonyPlaystationVita.json';
+const idPrefix = 'psv';
 
 function makeCombinedId(item) {
   return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

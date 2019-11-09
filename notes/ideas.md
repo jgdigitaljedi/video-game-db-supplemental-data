@@ -1,6 +1,5 @@
 # Ideas I have yet to pursue
 
-- vita launch titles
 - console variants
 - more in-depth console versions
 - greatest hits lists
