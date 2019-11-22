@@ -1,5 +1,13 @@
 # Ideas I have yet to pursue
 
+- playstation multitap games
+- playstation 2 multitap games
+- snes multitap games
+- nes four score games
+- tg16 multitap games
+- Genesis Team Player games
+- 32x Team Player games
+- Saturn Multi-player adapter games
 - console variants
 - more in-depth console versions
 - greatest hits lists
