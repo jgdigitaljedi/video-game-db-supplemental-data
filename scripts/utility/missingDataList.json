@@ -1,6 +1,6 @@
 [
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/AtariJaguar.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/AtariJaguar.json",
     "missing": [
       {
         "name": "Black Out!",
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/MicrosoftXbox360.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/MicrosoftXbox360.json",
     "missing": [
       {
         "name": "Boulder Dash XL",
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/MicrosoftXboxOne.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/MicrosoftXboxOne.json",
     "missing": [
       {
         "name": "100 Ways",
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/Nintendo64.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/Nintendo64.json",
     "missing": [
       {
         "name": "Rally '99",
@@ -227,7 +227,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/NintendoEntertainmentSystem.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/nintendoEntertainmentSystem.json",
     "missing": [
       {
         "id": "nes19",
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/NintendoWiiU.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/NintendoWiiU.json",
     "missing": [
       {
         "name": "6-Hour Video Poker",
@@ -762,7 +762,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaDreamcast.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaDreamcast.json",
     "missing": [
       {
         "name": "El Dorado Gate",
@@ -813,7 +813,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaGameGear.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaGameGear.json",
     "missing": [
       {
         "name": "Pet Club: Neko Daisuki!",
@@ -864,7 +864,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaGenesis.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaGenesis.json",
     "missing": [
       {
         "name": "Prime Time Football '96",
@@ -892,7 +892,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaSaturn.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaSaturn.json",
     "missing": [
       {
         "name": "Gundam Gaiden 3",
@@ -943,7 +943,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystation.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystation.json",
     "missing": [
       {
         "name": "B-Movie (video game)",
@@ -1256,7 +1256,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystation2.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystation2.json",
     "missing": [
       {
         "name": "Best Student Council",
@@ -1951,7 +1951,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlayStationPortable.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlayStationPortable.json",
     "missing": [
       {
         "name": "A Certain Scientific Railgun",
@@ -2439,7 +2439,3975 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SuperNintendoEntertainmentSystem.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystationVita.json",
+    "missing": [
+      {
+        "name": "Akai Suna Ochiru Tsuki",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv20",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Banbutsu Otome Dungeons",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv56",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Believer!",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv58",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Beniiro Tenjou Ayakashi Kitan Futaai",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv60",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Bento Fujiyama Tamagoyaki",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv61",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Browser Sangokushi",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv77",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Cafe Cuillere",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv83",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Chouchou Jiken Rhapsodic",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv95",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Chronovault",
+        "details": [
+          "Sony PlayStation Vita full exclusive (PlayStation Network)"
+        ],
+        "id": "psv96",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "ChuSinGura 46+1",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv97",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Ciel nosurge RE:Incarnation: Ushinawareta Hoshi e Sasagu Uta",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv99",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Civilization Revolution 2 Plus",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv101",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Crank In",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv116",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Daisenryaku WEB",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv129",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Dance with Devils",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv130",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Dance with Devils My Carol",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv131",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Daredemo Shodan ni Nareru Igo Kyoushitsu",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv137",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Destined to Love: Ikemen Samurai Romances",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv156",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Dogimegi Inryoku-Chan: Love & Peace",
+        "details": [
+          "Sony PlayStation Vita full exclusive (PlayStation Network)"
+        ],
+        "id": "psv170",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Double Focus: Aya and Momiji’s Bullet Coverage Travelogue",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv175",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Dream Club Zero Portable",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv186",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Dynamic Chord feat. Apple Polisher V Edition",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv195",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Dynamic Chord feat. Kyohso V Edition",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv196",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Dynamic Chord feat. Liar-S V Edition",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv197",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Dynamic Chord feat. [Reve Parfait] V Edition",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv198",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Dynasty Warriors Online Z",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv201",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "End Sleep",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv210",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Enkan no Memoria: Kakera Tomoshi",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv211",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Furukiyoki Jidai no Boukentan",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv247",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Futagoza no Paradox",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv248",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Gakuen Club: Himitsu no Nightclub",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv251",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Gal Gunvolt",
+        "details": [
+          "Sony PlayStation Vita platform exclusive (PlayStation Network)"
+        ],
+        "id": "psv255",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Galtia V Edition",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv257",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Genji Koi Emaki",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv262",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Getsuei no Kusari: Kyouran Moratorium",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv270",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Getsuei no Kusari: Sakuran Paranoia",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv271",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Girlfriend (Beta): Kimi to Sugosu Natsuyasumi",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv274",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Girls und Panzer: Master the Tankery!",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv275",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Gundam Conquest V",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv291",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Gundemoniums",
+        "details": [
+          "Sony PlayStation Vita platform exclusive (PlayStation Network)"
+        ],
+        "id": "psv292",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Hakuouki Yuugiroku: Taishi-tachi no Daienkai",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv300",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Hakuouki Zuisouroku: Omokagebana",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv301",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Hana Oboro: Sengoku-den Ranki",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv302",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Harukanaru Toki no Naka De 3 Ultimate",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv308",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Harukanaru Toki no Naka De 6: Gentou Rondo",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv309",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Harukanaru Toki no Naka De Ultimate",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv310",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Heiligenstadt no Uta",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv323",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Higurashi When They Cry Sui",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv328",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Hiiro no Kakera: Omoi Iro no Kioku",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv329",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Himawari: Pebble in the Sky",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv330",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Hitotsu Tobashi Ren'ai V",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv334",
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Idolish 7: Twelve Fantasia",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv358",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Ikemen Sengoku Toki o Kakeru Koi: Arata naru Deai",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv360",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Ima Sugu Onii-chan ni Imouto datte Iitai!",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv361",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Irotoridori no Sekai World's End -Re:Birth-",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv368",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Is the Order a Rabbit? Wonderful Party!",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv369",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Jinro Game",
+        "details": [
+          "Sony PlayStation Vita full exclusive (PlayStation Network)"
+        ],
+        "id": "psv381",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Justy x Nasty: Maou Hajimemashita",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv384",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Juuzaengi: Engetsu Sangokuden 1&2",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv385",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "KLAP!! ~Kind Love And Punish~ Fun Party",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv386",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kaleido-Eve",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv390",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kamidanomi Shisugite Ore no Mirai ga Yabai.",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv394",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kamigami no Asobi InFinite",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv395",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Ken ga Kimi for V",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv402",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kimi o Aogi Otome wa Hime ni",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv408",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kin'iro no Corda 2 ff",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv409",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kin'iro no Corda 4",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv410",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kiss Ato",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv412",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Koezaru wa Akai Hana: Koi wa Tsuki ni Michibikareru",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv417",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kono Aozora ni Yakusoku o",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv418",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kono Oozora ni, Tsubasa wo Hirogete: Cruise Sign",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv419",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kono Uta ga Owattara: When This Song is Over",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv420",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Koroshiya to Strawberry",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv423",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kujiragami no Tearstilla",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv427",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kurenai no Homura: Sanada Ninpou Chou",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv428",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kurogane Kaiki Jong",
+        "details": [
+          "Sony PlayStation Vita full exclusive (PlayStation Network)"
+        ],
+        "id": "psv429",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Kyoukai no Shirayuki",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv432",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Letter Quest Remastered",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv440",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Little Busters! Converted Edition",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv442",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Love Revenge",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv453",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Love of Ren'ai Koutei of LOVE!",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv454",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Love:Quiz ~Koi Suru Otome no Final Answer~",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv455",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Lucky Dog 1",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv458",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "M3 The Dark Metal: Mission Memento Mori",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv462",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Macross Delta Scramble",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv468",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Magic Kyun! Renaissance",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv469",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Majo Koi Nikki: Dragon x Caravan",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv475",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Marginal #4: Road to Galaxy",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv479",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Meiji Tokyo Renka: Full Moon",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv483",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Melty Moment",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv484",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Mobile Suit Gundam: Battle Fortress",
+        "details": [
+          "Sony PlayStation Vita full exclusive (PlayStation Network)"
+        ],
+        "id": "psv494",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Moe Moe Niji Taisen 3",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv496",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Moshi, Kono Sekai ni Kami-sama ga Iru to suru Naraba.",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv500",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Motto Nee, Chanto Shouyo! +Plus",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv502",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Moujuu-tachi to Ohime-sama",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv503",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Moujuu-tachi to Ohime-sama ~in blossom~",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv504",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "NadeRevo!",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv515",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Nil Admirari no Tenbin: Kuroyuri En'youtan",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv534",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Nil Admirari no Tenbin: Teito Genwaku Kitan",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv535",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Nobunaga's Ambition 201X",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv543",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Nobunaga's Ambition: Tenshouki with Power-Up Kit HD Version",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv546",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Nora to Oujo to Noraneko Heart",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv547",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Omerta Code: Tycoon Kai",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv564",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Ore ni Hatarakette Iwaretemo Otsu HD",
+        "details": [
+          "Sony PlayStation Vita full exclusive (PlayStation Network)"
+        ],
+        "id": "psv568",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Ore-tachi ni Tsubasa wa Nai",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv570",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Orfleurs: Koufuku no Hanataba",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv572",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Otoko Yukaku",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv575",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Otome Riron to Sono Shuuhen: Bon Voyage",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv576",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Owaru Sekai to Birthday",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv580",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Photo Kano Kiss",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv592",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Plastic Memories",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv597",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "PriministAr",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv605",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Pro Yakyuu Spirts 2019",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv612",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "PsychicEmotion6",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv616",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Rep Kiss",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv644",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Rewrite: Harvest Festa",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv647",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Ryuuyoku no Melodia: Diva with the Blessed Dragonol",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv663",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Saekano: How to Raise a Boring Girlfriend - Blessing Flowers",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv665",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Sakaagari Hurricane Portable",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv666",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Saki: Zenkoku-hen",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv667",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Saki: Zenkoku-hen Plus",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv668",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Sakura-sou no Pet na Kanojo",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv670",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Samurai Warriors 2 with Xtreme Legends & Empires HD Version",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv672",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Sangoku Hime 4: Tenka Ryouran Tenmei no Koi Emaki",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv678",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Scared Rider Xechs Rev.",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv683",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Sengo Muramasa DX: Guren no Kettou",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv688",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Sengoku Shura Soul",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv694",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Senran Kagura: Bon Appetit!",
+        "details": [
+          "Sony PlayStation Vita full exclusive (PlayStation Network)"
+        ],
+        "id": "psv696",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Shikihime no Hiwa",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv702",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Shirogane x Spirits!",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv713",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Shitsuji ga Aruji o Erabu Toki",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv714",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Starry Sky: Autumn Stories",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv743",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Starry Sky: Summer Stories",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv744",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Starry Sky: Winter Stories",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv745",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Stellar Theater",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv750",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Storm Lover 2nd V",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv751",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Storm Lover V",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv752",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Strawberry Nauts",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv755",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Sumika Mikagami’s Uniform Activity",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv757",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Suuran Digit",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv775",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Taiheiyou no Arashi: Koukoku no Kouhai Kokoniari, 1942 Senkan Yamato Hankou no Goujuu",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv787",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Taiheiyou no Arashi: Shijousaidai no Gekisen Normandy Goubousen!",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv788",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Taiko Drum Master: V Version",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv789",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Taishou Mebiusline: Hitotsumi",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv790",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Taishou Mebiusline: Teito Bibouroku",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv791",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Taishou Mebiusline: Vitable",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv792",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Taishou x Alice: Heads & Tails",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv794",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Teikoku Kaigun Koi Bojou: Meiji Yokosuka Koushinkyoku",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv800",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Teikoku Kaleido: Kakumei no Rondo",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv801",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "The Fruit of Grisaia: Side Episode",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv811",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "The House in Fata Morgana: Collected Edition",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv812",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "The Idolmaster: Must Songs Red Board/ Blue Board (Presented by Taiko Drum Master)",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv814",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "The Irregular at Magic High School: Out of Order",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv815",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Timepiece Ensemble",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv831",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Titan Invasion",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv834",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Tokimeki Restaurant: Project Tristars",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv842",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Tokyo Onmyouji: Tengenjibashi Rei no Baai V Edition",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv845",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Tokyo Yamanote Boys for V Fan Disc",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv850",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Tokyo Yamanote Boys for V Main Disc",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv851",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Tonari ni Kanojo no Iru Shiawase: Winter Guest",
+        "details": [
+          "Sony PlayStation Vita console exclusive (PlayStation Network)"
+        ],
+        "id": "psv853",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Torikago no Marriage: Hatsukoi no Tsubasa",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv855",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Tsukitomo. -Tsukiuta 12 Memories-",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv870",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Twin Star Exorcists",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv872",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Usotsuki Shangri-La",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv882",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Walpurgis no Uta: Walpurgisgedichte",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv902",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Wand of Fortune R",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv903",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Wand of Fortune R2: Jikuu ni Shizumu Mokushiroku",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv904",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "We Without Wings",
+        "details": [
+          "Sony PlayStation Vita platform exclusive"
+        ],
+        "id": "psv906",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Wizardry: Torawareshi Bourei no Gai",
+        "details": [
+          "Sony PlayStation Vita full exclusive (PlayStation Network)"
+        ],
+        "id": "psv915",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "World Election",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv916",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Yuki Yuna is a Hero: Memory of the Forest",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv929",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Yunohana Spring! Cherishing Time",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv931",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Yuukyuu no Tier Blade: Fragments of Memory",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv932",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Yuukyuu no Tier Blade: Lost Chronicle",
+        "details": [
+          "Sony PlayStation Vita full exclusive"
+        ],
+        "id": "psv933",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "Zombies: The Last Survivor",
+        "details": [
+          "Sony PlayStation Vita full exclusive (PlayStation Network)"
+        ],
+        "id": "psv941",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      },
+      {
+        "name": "id: Rebirth",
+        "details": [
+          "Sony PlayStation Vita console exclusive"
+        ],
+        "id": "psv944",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null,
+        "tgdbId": null,
+        "isExclusive": [
+          {
+            "name": "Sony Playstation Vita",
+            "id": "ccl45",
+            "igdbId": 46,
+            "gbId": 129,
+            "gbGuid": "3045-129",
+            "tgdbId": 39
+          }
+        ],
+        "isLaunchTitle": false,
+        "special": []
+      }
+    ]
+  },
+  {
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SuperNintendoEntertainmentSystem.json",
     "missing": [
       {
         "name": "Aim for the Ace!",
@@ -2651,7 +6619,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/TurboGrafx16.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/TurboGrafx16.json",
     "missing": [
       {
         "name": "Baribari Legend",
@@ -2679,7 +6647,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/TurboGrafxCD.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/TurboGrafxCD.json",
     "missing": [
       {
         "name": "List of Devil Hunter Yohko video games",
@@ -2707,7 +6675,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/backwardCompatibilityIssues/ps1ToPs2Bc.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/backwardCompatibilityIssues/ps1ToPs2Bc.json",
     "missing": [
       {
         "name": "Gran Turismo 2 Demo",
@@ -2723,7 +6691,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json",
     "missing": [
       {
         "details": [
@@ -2739,7 +6707,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/launchTitles/dsLaunchTitles.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/launchTitles/dsLaunchTitles.json",
     "missing": [
       {
         "id": "ndslt7",
@@ -2753,7 +6721,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/launchTitles/ps4LaunchTitles.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/launchTitles/ps4LaunchTitles.json",
     "missing": [
       {
         "id": "ps4lt28",
@@ -2767,7 +6735,49 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/amigaExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/multiplayer/playStationMultitap.json",
+    "missing": [
+      {
+        "name": "Iwatobi Penguin",
+        "id": "psmt34",
+        "details": "Sony PlayStation multitap compatible title - 4 players",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "Iwatobi Penguin 2",
+        "id": "psmt35",
+        "details": "Sony PlayStation multitap compatible title - 4 players",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "SD Gundam G Century",
+        "id": "psmt58",
+        "details": "Sony PlayStation multitap compatible title - 4 players",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      }
+    ]
+  },
+  {
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/multiplayer/saturnMultiplayerAdapter.json",
+    "missing": [
+      {
+        "name": "World Wide Soccer ’98",
+        "id": "sma41",
+        "details": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      }
+    ]
+  },
+  {
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/amigaExclusives.json",
     "missing": [
       {
         "name": "Final Countdown (video game)",
@@ -2880,7 +6890,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/atariJaguarExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/atariJaguarExclusives.json",
     "missing": [
       {
         "name": "Black Out!",
@@ -2903,7 +6913,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/famicomDiskSystemExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/famicomDiskSystemExclusives.json",
     "missing": [
       {
         "name": "Suishō no Dragon",
@@ -2926,7 +6936,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nesExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nesExclusives.json",
     "missing": [
       {
         "id": "nesex18",
@@ -3035,7 +7045,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendo3dsExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendo3dsExclusives.json",
     "missing": [
       {
         "name": "Age 12",
@@ -3121,7 +7131,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoDsExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoDsExclusives.json",
     "missing": [
       {
         "name": "BreakSoul",
@@ -3284,7 +7294,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyAdvanceExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyAdvanceExclusives.json",
     "missing": [
       {
         "name": "Elemental Gelade",
@@ -3338,7 +7348,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyColorExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyColorExclusives.json",
     "missing": [
       {
         "name": "Bomberman B-Daman Bakugaiden",
@@ -3397,7 +7407,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyExclusives.json",
     "missing": [
       {
         "name": "Boxing (1990 video game)",
@@ -3465,7 +7475,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoN64Exclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoN64Exclusives.json",
     "missing": [
       {
         "name": "Rally '99",
@@ -3479,7 +7489,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoSnesExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoSnesExclusives.json",
     "missing": [
       {
         "name": "Aim for the Ace!",
@@ -3565,7 +7575,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoWiiExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoWiiExclusives.json",
     "missing": [
       {
         "name": "Art Style",
@@ -3642,7 +7652,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoWiiUExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoWiiUExclusives.json",
     "missing": [
       {
         "name": "Goutouchi Tetsudou: Goutouchi Chara to Nihon Zengoku no Tabi",
@@ -3746,7 +7756,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaDreamcastExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaDreamcastExclusives.json",
     "missing": [
       {
         "name": "El Dorado Gate",
@@ -3769,7 +7779,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaGameGearExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaGameGearExclusives.json",
     "missing": [
       {
         "name": "Pet Club: Neko Daisuki!",
@@ -3792,7 +7802,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaGenesisExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaGenesisExclusives.json",
     "missing": [
       {
         "name": "Prime Time Football '96",
@@ -3806,7 +7816,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaSaturnExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaSaturnExclusives.json",
     "missing": [
       {
         "name": "Gundam Gaiden 3",
@@ -3829,7 +7839,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystation2Exclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystation2Exclusives.json",
     "missing": [
       {
         "name": "Best Student Council",
@@ -4104,7 +8114,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystationExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystationExclusives.json",
     "missing": [
       {
         "name": "GP Challenge",
@@ -4222,7 +8232,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystationVitaExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystationVitaExclusives.json",
     "missing": [
       {
         "name": "Akai Suna Ochiru Tsuki",
@@ -5726,7 +9736,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPspExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPspExclusives.json",
     "missing": [
       {
         "name": "Anohana: The Flower We Saw That Day",
@@ -5920,7 +9930,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/turbografx16Exclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/turbografx16Exclusives.json",
     "missing": [
       {
         "name": "Baribari Legend",
@@ -5934,7 +9944,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/turbografxCdExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/turbografxCdExclusives.json",
     "missing": [
       {
         "name": "List of Devil Hunter Yohko video games",
@@ -5948,7 +9958,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/xbox360Exclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/xbox360Exclusives.json",
     "missing": [
       {
         "name": "Senko no Ronde: Dis-United Order",
@@ -5989,7 +9999,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/xboxOneExclusives.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/xboxOneExclusives.json",
     "missing": [
       {
         "name": "Azito x Tatsunoko Legends",
@@ -6012,7 +10022,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/special/bannedInternationally.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/special/bannedInternationally.json",
     "missing": [
       {
         "name": "Mortal Kombat (2011 video game)",
@@ -6028,7 +10038,7 @@
     ]
   },
   {
-    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/special/playstationLongboxGames.json",
+    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/special/playstationLongboxGames.json",
     "missing": [
       {
         "name": "World Cup Golf (Eidos) ",

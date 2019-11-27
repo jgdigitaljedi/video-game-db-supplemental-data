@@ -187,6 +187,15 @@ I've been scouring the web for unique data points and will continue to do so. He
 - platforms/consoles that are region free
 - PS3 games that aren't region free (the PS3 games are region free with a couple of exceptions)
 
+### Multiplayer hardware
+
+- NES Four Score games
+- SNES Super Multitap games
+- Sega Genesis Team Player games
+- Sega Saturn Multiplayer Adapter games
+- TurboGrafx-16 Multitap games
+- Sony PlayStation Multitap games
+
 ### Special
 
 - Sega Genesis Black Box Grid games
@@ -220,8 +229,8 @@ Since I have been using these APIs to try and build out my JSON data matching th
 
 Before deciding to end support for TheGames DB, I had collected 7812 data points and TheGames DB was missing 1106 or 14% of those results.
 
-Out of 8738 data points collected so far, the APIs are missing data the following number of items:
+Out of 8883 data points collected so far, the APIs are missing data the following number of items:
 
-- Missing from all APIs: 367 (4%)
-- IGDB: 217 (2%)
-- Giantbomb: 879 (10%)
+- Missing from all APIs: 371 (4%)
+- IGDB: 218 (2%)
+- Giantbomb: 891 (10%)

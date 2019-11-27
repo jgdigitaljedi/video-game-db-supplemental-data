@@ -233,18 +233,17 @@
     "special": []
   },
   {
-    "name": "Agile Warrior F-111X",
+    "name": "Adidas Power Soccer",
     "id": "psx10",
     "details": [
-      "PlayStation Long Box Game"
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": 12158,
+    "igdbId": 20302,
+    "gbId": 4266,
+    "gbGuid": "3030-4266",
     "special": [
       {
-        "value": "PlayStation Long Box Game",
+        "value": "Sony PlayStation multitap compatible title - 4 players",
         "forPlatform": {
           "name": "Sony PlayStation",
           "id": "ccl20",
@@ -436,11 +435,36 @@
     "special": []
   },
   {
+    "name": "Andretti Racing",
+    "id": "psx18",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 45496,
+    "gbId": 13338,
+    "gbGuid": "3030-13338",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Animaniacs: Ten Pin Alley",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx18",
+    "id": "psx19",
     "igdbId": 19432,
     "gbId": 14746,
     "gbGuid": "3030-14746",
@@ -463,7 +487,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx19",
+    "id": "psx20",
     "igdbId": 43927,
     "gbId": 9114,
     "gbGuid": "3030-9114",
@@ -486,7 +510,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx20",
+    "id": "psx21",
     "igdbId": 18666,
     "gbId": 15769,
     "gbGuid": "3030-15769",
@@ -509,7 +533,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx21",
+    "id": "psx22",
     "igdbId": 74800,
     "gbId": 62023,
     "gbGuid": "3030-62023",
@@ -528,11 +552,36 @@
     "special": []
   },
   {
+    "name": "Ape Escape",
+    "id": "psx23",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 3762,
+    "gbId": 13371,
+    "gbGuid": "3030-13371",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Apocalypse",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx22",
+    "id": "psx24",
     "igdbId": 15547,
     "gbId": 6823,
     "gbGuid": "3030-6823",
@@ -555,7 +604,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx23",
+    "id": "psx25",
     "igdbId": 20589,
     "gbId": 7704,
     "gbGuid": "3030-7704",
@@ -578,7 +627,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx24",
+    "id": "psx26",
     "igdbId": 23100,
     "gbId": 9394,
     "gbGuid": "3030-9394",
@@ -601,7 +650,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx25",
+    "id": "psx27",
     "igdbId": 92977,
     "gbId": 14933,
     "gbGuid": "3030-14933",
@@ -622,9 +671,10 @@
   {
     "name": "Arcade's Greatest Hits: The Atari Collection 2",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx26",
+    "id": "psx28",
     "igdbId": 43925,
     "gbId": 1979,
     "gbGuid": "3030-1979",
@@ -639,15 +689,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Army Men 3D",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx27",
+    "id": "psx29",
     "igdbId": 22833,
     "gbId": 1282,
     "gbGuid": "3030-1282",
@@ -670,7 +732,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx28",
+    "id": "psx30",
     "igdbId": 43948,
     "gbId": 5365,
     "gbGuid": "3030-5365",
@@ -693,7 +755,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx29",
+    "id": "psx31",
     "igdbId": 43947,
     "gbId": 22435,
     "gbGuid": "3030-22435",
@@ -716,7 +778,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx30",
+    "id": "psx32",
     "igdbId": 75693,
     "gbId": 9895,
     "gbGuid": "3030-9895",
@@ -739,7 +801,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx31",
+    "id": "psx33",
     "igdbId": 56050,
     "gbId": 59686,
     "gbGuid": "3030-59686",
@@ -759,7 +821,7 @@
   },
   {
     "name": "Assault Rigs",
-    "id": "psx32",
+    "id": "psx34",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -788,7 +850,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx33",
+    "id": "psx35",
     "igdbId": 77050,
     "gbId": 30928,
     "gbGuid": "3030-30928",
@@ -811,7 +873,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx34",
+    "id": "psx36",
     "igdbId": 64754,
     "gbId": 39341,
     "gbGuid": "3030-39341",
@@ -834,7 +896,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx35",
+    "id": "psx37",
     "igdbId": 45084,
     "gbId": 13885,
     "gbGuid": "3030-13885",
@@ -857,7 +919,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx36",
+    "id": "psx38",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -880,7 +942,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx37",
+    "id": "psx39",
     "igdbId": 177,
     "gbId": 11990,
     "gbGuid": "3030-11990",
@@ -903,7 +965,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx38",
+    "id": "psx40",
     "igdbId": 3314,
     "gbId": 13288,
     "gbGuid": "3030-13288",
@@ -926,7 +988,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx39",
+    "id": "psx41",
     "igdbId": 3312,
     "gbId": 15682,
     "gbGuid": "3030-15682",
@@ -946,7 +1008,7 @@
   },
   {
     "name": "Bases Loaded '96: Double Header",
-    "id": "psx40",
+    "id": "psx42",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -975,7 +1037,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx41",
+    "id": "psx43",
     "igdbId": 44806,
     "gbId": 37511,
     "gbGuid": "3030-37511",
@@ -998,7 +1060,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx42",
+    "id": "psx44",
     "igdbId": 79820,
     "gbId": 13568,
     "gbGuid": "3030-13568",
@@ -1021,7 +1083,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx43",
+    "id": "psx45",
     "igdbId": 44992,
     "gbId": 5234,
     "gbGuid": "3030-5234",
@@ -1044,7 +1106,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx44",
+    "id": "psx46",
     "igdbId": 1417,
     "gbId": 25850,
     "gbGuid": "3030-25850",
@@ -1064,30 +1126,7 @@
   },
   {
     "name": "Battle Arena Toshinden",
-    "id": "psx45",
-    "details": [
-      "Sony PlayStation launch title"
-    ],
-    "igdbId": 1413,
-    "gbId": 5238,
-    "gbGuid": "3030-5238",
-    "tgdbId": 10954,
-    "isLaunchTitle": [
-      {
-        "name": "Sony PlayStation",
-        "id": "ccl20",
-        "igdbId": 7,
-        "gbId": 22,
-        "gbGuid": "3045-22",
-        "tgdbId": 10
-      }
-    ],
-    "isExclusive": false,
-    "special": []
-  },
-  {
-    "name": "Battle Arena Toshinden",
-    "id": "psx46",
+    "id": "psx47",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -1112,8 +1151,31 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Battle Arena Toshinden",
+    "id": "psx48",
+    "details": [
+      "Sony PlayStation launch title"
+    ],
+    "igdbId": 1413,
+    "gbId": 5238,
+    "gbGuid": "3030-5238",
+    "tgdbId": 10954,
+    "isLaunchTitle": [
+      {
+        "name": "Sony PlayStation",
+        "id": "ccl20",
+        "igdbId": 7,
+        "gbId": 22,
+        "gbGuid": "3045-22",
+        "tgdbId": 10
+      }
+    ],
+    "isExclusive": false,
+    "special": []
+  },
+  {
     "name": "Battle Arena Toshinden 2",
-    "id": "psx47",
+    "id": "psx49",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -1142,7 +1204,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx48",
+    "id": "psx50",
     "igdbId": 1415,
     "gbId": 2895,
     "gbGuid": "3030-2895",
@@ -1161,11 +1223,36 @@
     "special": []
   },
   {
+    "name": "Battle Hunter",
+    "id": "psx51",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 3190,
+    "gbId": 10258,
+    "gbGuid": "3030-10258",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Beatmania",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx49",
+    "id": "psx52",
     "igdbId": 20498,
     "gbId": 24384,
     "gbGuid": "3030-24384",
@@ -1188,7 +1275,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx50",
+    "id": "psx53",
     "igdbId": 20303,
     "gbId": 9896,
     "gbGuid": "3030-9896",
@@ -1211,7 +1298,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx51",
+    "id": "psx54",
     "igdbId": 22826,
     "gbId": 12546,
     "gbGuid": "3030-12546",
@@ -1230,11 +1317,36 @@
     "special": []
   },
   {
+    "name": "Bishi Bashi Special",
+    "id": "psx55",
+    "details": [
+      "Sony PlayStation multitap compatible title - 3 players"
+    ],
+    "igdbId": 45047,
+    "gbId": 11271,
+    "gbGuid": "3030-11271",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 3 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Blade",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx52",
+    "id": "psx56",
     "igdbId": 8719,
     "gbId": 12785,
     "gbGuid": "3030-12785",
@@ -1253,11 +1365,36 @@
     "special": []
   },
   {
+    "name": "Blast Chamber",
+    "id": "psx57",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 47014,
+    "gbId": 15493,
+    "gbGuid": "3030-15493",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Blast Lacrosse",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx53",
+    "id": "psx58",
     "igdbId": 44876,
     "gbId": 24082,
     "gbGuid": "3030-24082",
@@ -1280,7 +1417,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx54",
+    "id": "psx59",
     "igdbId": 22829,
     "gbId": 22876,
     "gbGuid": "3030-22876",
@@ -1303,7 +1440,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx55",
+    "id": "psx60",
     "igdbId": 45096,
     "gbId": 16758,
     "gbGuid": "3030-16758",
@@ -1326,7 +1463,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx56",
+    "id": "psx61",
     "igdbId": 86213,
     "gbId": 16048,
     "gbGuid": "3030-16048",
@@ -1345,11 +1482,111 @@
     "special": []
   },
   {
+    "name": "Blaze and Blade Busters",
+    "id": "psx62",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 43787,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Blaze and Blade: Eternal Quest",
+    "id": "psx63",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 18249,
+    "gbId": 13452,
+    "gbGuid": "3030-13452",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Bleach: Blade Battlers 2nd",
+    "id": "psx64",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 75997,
+    "gbId": 22231,
+    "gbGuid": "3030-22231",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Blood Lines",
+    "id": "psx65",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 45056,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Bogey: Dead 6",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx57",
+    "id": "psx66",
     "igdbId": 20590,
     "gbId": 21283,
     "gbGuid": "3030-21283",
@@ -1370,9 +1607,10 @@
   {
     "name": "Bomberman World",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 5 players"
     ],
-    "id": "psx58",
+    "id": "psx67",
     "igdbId": 27255,
     "gbId": 16879,
     "gbGuid": "3030-16879",
@@ -1387,15 +1625,52 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 5 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Bomberman: Party Edition",
+    "id": "psx68",
+    "details": [
+      "Sony PlayStation multitap compatible title - 5 players"
+    ],
+    "igdbId": 18786,
+    "gbId": 7430,
+    "gbGuid": "3030-7430",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 5 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "BoomBots",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx59",
+    "id": "psx69",
     "igdbId": 10918,
     "gbId": 11259,
     "gbGuid": "3030-11259",
@@ -1415,7 +1690,7 @@
   },
   {
     "name": "Bottom of the Ninth",
-    "id": "psx60",
+    "id": "psx70",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -1441,7 +1716,7 @@
   },
   {
     "name": "Brain Dead 13",
-    "id": "psx61",
+    "id": "psx71",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -1470,7 +1745,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx62",
+    "id": "psx72",
     "igdbId": 91891,
     "gbId": 32942,
     "gbGuid": "3030-32942",
@@ -1489,11 +1764,36 @@
     "special": []
   },
   {
+    "name": "Brian Lara Cricket",
+    "id": "psx73",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 94848,
+    "gbId": 5810,
+    "gbGuid": "3030-5810",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Broken Helix",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx63",
+    "id": "psx74",
     "igdbId": 19996,
     "gbId": 13879,
     "gbGuid": "3030-13879",
@@ -1516,7 +1816,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx64",
+    "id": "psx75",
     "igdbId": 7806,
     "gbId": 15580,
     "gbGuid": "3030-15580",
@@ -1539,7 +1839,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx65",
+    "id": "psx76",
     "igdbId": 44857,
     "gbId": 24318,
     "gbGuid": "3030-24318",
@@ -1562,7 +1862,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx66",
+    "id": "psx77",
     "igdbId": 4139,
     "gbId": 2873,
     "gbGuid": "3030-2873",
@@ -1582,7 +1882,7 @@
   },
   {
     "name": "Bust-A-Move 2: Arcade Edition",
-    "id": "psx67",
+    "id": "psx78",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -1611,7 +1911,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx68",
+    "id": "psx79",
     "igdbId": 20137,
     "gbId": 6211,
     "gbGuid": "3030-6211",
@@ -1634,7 +1934,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx69",
+    "id": "psx80",
     "igdbId": 26753,
     "gbId": 2714,
     "gbGuid": "3030-2714",
@@ -1657,7 +1957,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx70",
+    "id": "psx81",
     "igdbId": 45104,
     "gbId": 31943,
     "gbGuid": "3030-31943",
@@ -1680,7 +1980,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx71",
+    "id": "psx82",
     "igdbId": 45010,
     "gbId": 7454,
     "gbGuid": "3030-7454",
@@ -1701,9 +2001,10 @@
   {
     "name": "CART World Series",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx72",
+    "id": "psx83",
     "igdbId": 43834,
     "gbId": 11706,
     "gbGuid": "3030-11706",
@@ -1718,15 +2019,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Cabela's Big Game Hunter: Ultimate Challenge",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx73",
+    "id": "psx84",
     "igdbId": 45298,
     "gbId": 50594,
     "gbGuid": "3030-50594",
@@ -1745,11 +2058,61 @@
     "special": []
   },
   {
+    "name": "Capcom Generations 4: Blazing Guns",
+    "id": "psx85",
+    "details": [
+      "Sony PlayStation multitap compatible title - 3 players"
+    ],
+    "igdbId": 80862,
+    "gbId": 33834,
+    "gbGuid": "3030-33834",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 3 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Captain Commando",
+    "id": "psx86",
+    "details": [
+      "Sony PlayStation multitap compatible title - 3 players"
+    ],
+    "igdbId": 19821,
+    "gbId": 9663,
+    "gbGuid": "3030-9663",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 3 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Captain Tsubasa J: Get In The Tomorrow",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx74",
+    "id": "psx87",
     "igdbId": 45320,
     "gbId": 38262,
     "gbGuid": "3030-38262",
@@ -1772,7 +2135,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx75",
+    "id": "psx88",
     "igdbId": 26657,
     "gbId": 132,
     "gbGuid": "3030-132",
@@ -1793,9 +2156,14 @@
   {
     "name": "Castrol Honda Superbike Racing",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "PlayStation Long Box Game",
+      "PlayStation Long Box Game",
+      "Sony PlayStation multitap compatible title - 4 players",
+      "Sony PlayStation multitap compatible title - 4 players",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx76",
+    "id": "psx89",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1810,15 +2178,71 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "PlayStation Long Box Game",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      },
+      {
+        "value": "PlayStation Long Box Game",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      },
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      },
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      },
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Castrol Honda VTR",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx77",
+    "id": "psx90",
     "igdbId": 60974,
     "gbId": 47831,
     "gbGuid": "3030-47831",
@@ -1841,7 +2265,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx78",
+    "id": "psx91",
     "igdbId": 44830,
     "gbId": 16874,
     "gbGuid": "3030-16874",
@@ -1864,7 +2288,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx79",
+    "id": "psx92",
     "igdbId": 46084,
     "gbId": 26144,
     "gbGuid": "3030-26144",
@@ -1887,7 +2311,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx80",
+    "id": "psx93",
     "igdbId": 92889,
     "gbId": 16646,
     "gbGuid": "3030-16646",
@@ -1910,7 +2334,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx81",
+    "id": "psx94",
     "igdbId": 79608,
     "gbId": 32024,
     "gbGuid": "3030-32024",
@@ -1933,7 +2357,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx82",
+    "id": "psx95",
     "igdbId": 43747,
     "gbId": 31554,
     "gbGuid": "3030-31554",
@@ -1954,9 +2378,10 @@
   {
     "name": "Circuit Breakers",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx83",
+    "id": "psx96",
     "igdbId": 34753,
     "gbId": 21415,
     "gbGuid": "3030-21415",
@@ -1971,14 +2396,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "College Slam",
-    "id": "psx84",
+    "id": "psx97",
     "details": [
-      "PlayStation Long Box Game"
+      "PlayStation Long Box Game",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
     "igdbId": 4541,
     "gbId": 125,
@@ -1987,6 +2425,17 @@
     "special": [
       {
         "value": "PlayStation Long Box Game",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      },
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
         "forPlatform": {
           "name": "Sony PlayStation",
           "id": "ccl20",
@@ -2005,7 +2454,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx85",
+    "id": "psx98",
     "igdbId": 8280,
     "gbId": 4830,
     "gbGuid": "3030-4830",
@@ -2028,7 +2477,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx86",
+    "id": "psx99",
     "igdbId": 8282,
     "gbId": 6907,
     "gbGuid": "3030-6907",
@@ -2051,7 +2500,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx87",
+    "id": "psx100",
     "igdbId": 8281,
     "gbId": 4544,
     "gbGuid": "3030-4544",
@@ -2074,7 +2523,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx88",
+    "id": "psx101",
     "igdbId": 64877,
     "gbId": 39059,
     "gbGuid": "3030-39059",
@@ -2097,7 +2546,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx89",
+    "id": "psx102",
     "igdbId": 44853,
     "gbId": 22894,
     "gbGuid": "3030-22894",
@@ -2120,7 +2569,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx90",
+    "id": "psx103",
     "igdbId": 20728,
     "gbId": 12112,
     "gbGuid": "3030-12112",
@@ -2143,7 +2592,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx91",
+    "id": "psx104",
     "igdbId": 26115,
     "gbId": 15024,
     "gbGuid": "3030-15024",
@@ -2166,7 +2615,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx92",
+    "id": "psx105",
     "igdbId": 26131,
     "gbId": 17935,
     "gbGuid": "3030-17935",
@@ -2189,7 +2638,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx93",
+    "id": "psx106",
     "igdbId": 78852,
     "gbId": 21288,
     "gbGuid": "3030-21288",
@@ -2212,7 +2661,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx94",
+    "id": "psx107",
     "igdbId": 28055,
     "gbId": 37681,
     "gbGuid": "3030-37681",
@@ -2235,7 +2684,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx95",
+    "id": "psx108",
     "igdbId": 4137,
     "gbId": 18354,
     "gbGuid": "3030-18354",
@@ -2258,7 +2707,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx96",
+    "id": "psx109",
     "igdbId": 45027,
     "gbId": 4824,
     "gbGuid": "3030-4824",
@@ -2281,7 +2730,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx97",
+    "id": "psx110",
     "igdbId": 1185,
     "gbId": 7380,
     "gbGuid": "3030-7380",
@@ -2304,7 +2753,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx98",
+    "id": "psx111",
     "igdbId": 1187,
     "gbId": 12909,
     "gbGuid": "3030-12909",
@@ -2323,11 +2772,37 @@
     "special": []
   },
   {
+    "name": "Crash Bash",
+    "id": "psx112",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 1195,
+    "gbId": 15952,
+    "gbGuid": "3030-15952",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Crash Team Racing",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx99",
+    "id": "psx113",
     "igdbId": 1192,
     "gbId": 6196,
     "gbGuid": "3030-6196",
@@ -2342,15 +2817,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Critical Blow",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx100",
+    "id": "psx114",
     "igdbId": 44797,
     "gbId": 28087,
     "gbGuid": "3030-28087",
@@ -2370,7 +2857,7 @@
   },
   {
     "name": "Criticom",
-    "id": "psx101",
+    "id": "psx115",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2399,7 +2886,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx102",
+    "id": "psx116",
     "igdbId": 72900,
     "gbId": 22405,
     "gbGuid": "3030-22405",
@@ -2419,7 +2906,7 @@
   },
   {
     "name": "Cyber Sled",
-    "id": "psx103",
+    "id": "psx117",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2445,7 +2932,7 @@
   },
   {
     "name": "CyberSpeed",
-    "id": "psx104",
+    "id": "psx118",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2471,7 +2958,7 @@
   },
   {
     "name": "Cyberia",
-    "id": "psx105",
+    "id": "psx119",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2497,7 +2984,7 @@
   },
   {
     "name": "D",
-    "id": "psx106",
+    "id": "psx120",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2526,7 +3013,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx107",
+    "id": "psx121",
     "igdbId": 45226,
     "gbId": 5756,
     "gbGuid": "3030-5756",
@@ -2546,7 +3033,7 @@
   },
   {
     "name": "Dare Devil Derby 3D",
-    "id": "psx108",
+    "id": "psx122",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2572,7 +3059,7 @@
   },
   {
     "name": "Darkstalkers",
-    "id": "psx109",
+    "id": "psx123",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2601,7 +3088,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx110",
+    "id": "psx124",
     "igdbId": 44757,
     "gbId": 34450,
     "gbGuid": "3030-34450",
@@ -2621,7 +3108,7 @@
   },
   {
     "name": "Defcon 5",
-    "id": "psx111",
+    "id": "psx125",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2647,7 +3134,7 @@
   },
   {
     "name": "Descent",
-    "id": "psx112",
+    "id": "psx126",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2673,7 +3160,7 @@
   },
   {
     "name": "Destruction Derby",
-    "id": "psx113",
+    "id": "psx127",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2700,9 +3187,10 @@
   {
     "name": "Destruction Derby RAW",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx114",
+    "id": "psx128",
     "igdbId": 1169,
     "gbId": 10337,
     "gbGuid": "3030-10337",
@@ -2717,15 +3205,77 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Devil Dice",
+    "id": "psx129",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 28400,
+    "gbId": 16824,
+    "gbGuid": "3030-16824",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Devil Dice",
+    "id": "psx130",
+    "details": [
+      "Sony PlayStation multitap compatible title - 5 players"
+    ],
+    "igdbId": 28400,
+    "gbId": 16824,
+    "gbGuid": "3030-16824",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 5 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Dexter's Laboratory: Mandark's Lab?",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx115",
+    "id": "psx131",
     "igdbId": 2814,
     "gbId": 16536,
     "gbGuid": "3030-16536",
@@ -2748,7 +3298,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx116",
+    "id": "psx132",
     "igdbId": 44819,
     "gbId": 12071,
     "gbGuid": "3030-12071",
@@ -2771,7 +3321,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx117",
+    "id": "psx133",
     "igdbId": 4133,
     "gbId": 18389,
     "gbGuid": "3030-18389",
@@ -2794,7 +3344,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx118",
+    "id": "psx134",
     "igdbId": 36508,
     "gbId": 17979,
     "gbGuid": "3030-17979",
@@ -2817,7 +3367,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx119",
+    "id": "psx135",
     "igdbId": 19678,
     "gbId": 3879,
     "gbGuid": "3030-3879",
@@ -2837,7 +3387,7 @@
   },
   {
     "name": "Discworld",
-    "id": "psx120",
+    "id": "psx136",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2866,7 +3416,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx121",
+    "id": "psx137",
     "igdbId": 43895,
     "gbId": 34227,
     "gbGuid": "3030-34227",
@@ -2889,7 +3439,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx122",
+    "id": "psx138",
     "igdbId": 20654,
     "gbId": 16971,
     "gbGuid": "3030-16971",
@@ -2909,7 +3459,7 @@
   },
   {
     "name": "Doom",
-    "id": "psx123",
+    "id": "psx139",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -2938,7 +3488,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx124",
+    "id": "psx140",
     "igdbId": 78579,
     "gbId": 33935,
     "gbGuid": "3030-33935",
@@ -2961,7 +3511,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx125",
+    "id": "psx141",
     "igdbId": 2558,
     "gbId": 18645,
     "gbGuid": "3030-18645",
@@ -2984,7 +3534,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx126",
+    "id": "psx142",
     "igdbId": 2543,
     "gbId": 1490,
     "gbGuid": "3030-1490",
@@ -3007,7 +3557,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx127",
+    "id": "psx143",
     "igdbId": 8504,
     "gbId": 6614,
     "gbGuid": "3030-6614",
@@ -3030,7 +3580,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx128",
+    "id": "psx144",
     "igdbId": 4130,
     "gbId": 6654,
     "gbGuid": "3030-6654",
@@ -3053,7 +3603,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx129",
+    "id": "psx145",
     "igdbId": 2982,
     "gbId": 9658,
     "gbGuid": "3030-9658",
@@ -3076,7 +3626,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx130",
+    "id": "psx146",
     "igdbId": 44985,
     "gbId": 35757,
     "gbGuid": "3030-35757",
@@ -3096,7 +3646,7 @@
   },
   {
     "name": "ESPN Extreme Games",
-    "id": "psx131",
+    "id": "psx147",
     "details": [
       "Sony PlayStation launch title",
       "PlayStation Long Box Game"
@@ -3135,7 +3685,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx132",
+    "id": "psx148",
     "igdbId": 93462,
     "gbId": 1988,
     "gbGuid": "3030-1988",
@@ -3158,7 +3708,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx133",
+    "id": "psx149",
     "igdbId": 44948,
     "gbId": 3302,
     "gbGuid": "3030-3302",
@@ -3181,7 +3731,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx134",
+    "id": "psx150",
     "igdbId": 9137,
     "gbId": 11912,
     "gbGuid": "3030-11912",
@@ -3204,7 +3754,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx135",
+    "id": "psx151",
     "igdbId": 78144,
     "gbId": 63052,
     "gbGuid": "3030-63052",
@@ -3224,10 +3774,35 @@
   },
   {
     "name": "Everybody's Golf",
+    "id": "psx152",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 28187,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Everybody's Golf",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx136",
+    "id": "psx153",
     "igdbId": 36665,
     "gbId": 47827,
     "gbGuid": "3030-47827",
@@ -3248,9 +3823,10 @@
   {
     "name": "Everybody's Golf 2",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx137",
+    "id": "psx154",
     "igdbId": 36558,
     "gbId": null,
     "gbGuid": null,
@@ -3265,15 +3841,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Evil Zone",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx138",
+    "id": "psx155",
     "igdbId": 4129,
     "gbId": 12014,
     "gbGuid": "3030-12014",
@@ -3292,8 +3880,58 @@
     "special": []
   },
   {
+    "name": "FIFA 97",
+    "id": "psx156",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 45582,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "FIFA 99",
+    "id": "psx157",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 699,
+    "gbId": 15945,
+    "gbGuid": "3030-15945",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "FIFA Soccer 96",
-    "id": "psx139",
+    "id": "psx158",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -3319,7 +3957,7 @@
   },
   {
     "name": "FIFA Soccer 97",
-    "id": "psx140",
+    "id": "psx159",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -3344,8 +3982,33 @@
     "isLaunchTitle": false
   },
   {
+    "name": "FIFA: Road to World Cup 98",
+    "id": "psx160",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 705,
+    "gbId": 11207,
+    "gbGuid": "3030-11207",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Fade to Black",
-    "id": "psx141",
+    "id": "psx161",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -3374,7 +4037,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx142",
+    "id": "psx162",
     "igdbId": 3914,
     "gbId": 2660,
     "gbGuid": "3030-2660",
@@ -3397,7 +4060,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx143",
+    "id": "psx163",
     "igdbId": 8600,
     "gbId": 7360,
     "gbGuid": "3030-7360",
@@ -3420,7 +4083,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx144",
+    "id": "psx164",
     "igdbId": 8601,
     "gbId": 17000,
     "gbGuid": "3030-17000",
@@ -3443,7 +4106,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx145",
+    "id": "psx165",
     "igdbId": 45078,
     "gbId": 32645,
     "gbGuid": "3030-32645",
@@ -3466,7 +4129,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx146",
+    "id": "psx166",
     "igdbId": 420,
     "gbId": 14455,
     "gbGuid": "3030-14455",
@@ -3489,7 +4152,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx147",
+    "id": "psx167",
     "igdbId": 43859,
     "gbId": 9133,
     "gbGuid": "3030-9133",
@@ -3512,7 +4175,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx148",
+    "id": "psx168",
     "igdbId": 44943,
     "gbId": 32062,
     "gbGuid": "3030-32062",
@@ -3535,7 +4198,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx149",
+    "id": "psx169",
     "igdbId": 43805,
     "gbId": null,
     "gbGuid": null,
@@ -3558,7 +4221,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx150",
+    "id": "psx170",
     "igdbId": 8296,
     "gbId": 8792,
     "gbGuid": "3030-8792",
@@ -3581,7 +4244,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx151",
+    "id": "psx171",
     "igdbId": 66335,
     "gbId": 32948,
     "gbGuid": "3030-32948",
@@ -3601,7 +4264,7 @@
   },
   {
     "name": "Frank Thomas Big Hurt Baseball",
-    "id": "psx152",
+    "id": "psx172",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -3626,11 +4289,36 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Frogger",
+    "id": "psx173",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 11465,
+    "gbId": 24704,
+    "gbGuid": "3030-24704",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "From TV Animation: One Piece Grand Battle!",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx153",
+    "id": "psx174",
     "igdbId": 75738,
     "gbId": 36329,
     "gbGuid": "3030-36329",
@@ -3653,7 +4341,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx154",
+    "id": "psx175",
     "igdbId": 75743,
     "gbId": 36328,
     "gbGuid": "3030-36328",
@@ -3676,7 +4364,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx155",
+    "id": "psx176",
     "igdbId": 8306,
     "gbId": 3386,
     "gbGuid": "3030-3386",
@@ -3696,7 +4384,7 @@
   },
   {
     "name": "GEX",
-    "id": "psx156",
+    "id": "psx177",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -3723,10 +4411,9 @@
   {
     "name": "GP Challenge",
     "details": [
-      "Sony PlayStation exclusive",
-      "PlayStation Long Box Game"
+      "Sony PlayStation exclusive"
     ],
-    "id": "psx157",
+    "id": "psx178",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3741,27 +4428,15 @@
         "tgdbId": 10
       }
     ],
-    "special": [
-      {
-        "value": "PlayStation Long Box Game",
-        "forPlatform": {
-          "name": "Sony PlayStation",
-          "id": "ccl20",
-          "igdbId": 7,
-          "gbId": 22,
-          "gbGuid": "3045-22",
-          "tgdbId": 10
-        }
-      }
-    ],
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": []
   },
   {
     "name": "Galerians",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx158",
+    "id": "psx179",
     "igdbId": 54552,
     "gbId": 11126,
     "gbGuid": "3030-11126",
@@ -3784,7 +4459,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx159",
+    "id": "psx180",
     "igdbId": 44865,
     "gbId": 5082,
     "gbGuid": "3030-5082",
@@ -3807,7 +4482,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx160",
+    "id": "psx181",
     "igdbId": 68750,
     "gbId": 13034,
     "gbGuid": "3030-13034",
@@ -3830,7 +4505,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx161",
+    "id": "psx182",
     "igdbId": 44794,
     "gbId": 17001,
     "gbGuid": "3030-17001",
@@ -3853,7 +4528,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx162",
+    "id": "psx183",
     "igdbId": 4128,
     "gbId": 905,
     "gbGuid": "3030-905",
@@ -3876,7 +4551,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx163",
+    "id": "psx184",
     "igdbId": 44761,
     "gbId": 38253,
     "gbGuid": "3030-38253",
@@ -3899,7 +4574,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx164",
+    "id": "psx185",
     "igdbId": 43815,
     "gbId": 28088,
     "gbGuid": "3030-28088",
@@ -3922,7 +4597,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx165",
+    "id": "psx186",
     "igdbId": 1455,
     "gbId": null,
     "gbGuid": null,
@@ -3942,7 +4617,7 @@
   },
   {
     "name": "Geom Cube",
-    "id": "psx166",
+    "id": "psx187",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -3971,7 +4646,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx167",
+    "id": "psx188",
     "igdbId": 8336,
     "gbId": 14899,
     "gbGuid": "3030-14899",
@@ -3990,12 +4665,37 @@
     "special": []
   },
   {
+    "name": "Giant Gram: All Japan Pro Wrestling 2",
+    "id": "psx189",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 45828,
+    "gbId": 68541,
+    "gbGuid": "3030-68541",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Goal Storm",
     "details": [
       "Sony PlayStation exclusive",
       "PlayStation Long Box Game"
     ],
-    "id": "psx168",
+    "id": "psx190",
     "igdbId": 20315,
     "gbId": 31422,
     "gbGuid": "3030-31422",
@@ -4030,7 +4730,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx169",
+    "id": "psx191",
     "igdbId": 72806,
     "gbId": 22891,
     "gbGuid": "3030-22891",
@@ -4053,7 +4753,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx170",
+    "id": "psx192",
     "igdbId": 1594,
     "gbId": 2416,
     "gbGuid": "3030-2416",
@@ -4076,7 +4776,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx171",
+    "id": "psx193",
     "igdbId": 1597,
     "gbId": 8100,
     "gbGuid": "3030-8100",
@@ -4099,7 +4799,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx172",
+    "id": "psx194",
     "igdbId": 45018,
     "gbId": 5464,
     "gbGuid": "3030-5464",
@@ -4122,7 +4822,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx173",
+    "id": "psx195",
     "igdbId": 19269,
     "gbId": 22941,
     "gbGuid": "3030-22941",
@@ -4145,7 +4845,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx174",
+    "id": "psx196",
     "igdbId": 45006,
     "gbId": 22634,
     "gbGuid": "3030-22634",
@@ -4168,7 +4868,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx175",
+    "id": "psx197",
     "igdbId": 44936,
     "gbId": 12852,
     "gbGuid": "3030-12852",
@@ -4191,7 +4891,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx176",
+    "id": "psx198",
     "igdbId": 44863,
     "gbId": 24319,
     "gbGuid": "3030-24319",
@@ -4214,7 +4914,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx177",
+    "id": "psx199",
     "igdbId": 23152,
     "gbId": 45257,
     "gbGuid": "3030-45257",
@@ -4234,7 +4934,7 @@
   },
   {
     "name": "Gunship",
-    "id": "psx178",
+    "id": "psx200",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -4260,7 +4960,7 @@
   },
   {
     "name": "HardBall 5",
-    "id": "psx179",
+    "id": "psx201",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -4289,7 +4989,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx180",
+    "id": "psx202",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4312,7 +5012,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx181",
+    "id": "psx203",
     "igdbId": 14160,
     "gbId": 10568,
     "gbGuid": "3030-10568",
@@ -4335,7 +5035,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx182",
+    "id": "psx204",
     "igdbId": 44800,
     "gbId": 31022,
     "gbGuid": "3030-31022",
@@ -4355,7 +5055,7 @@
   },
   {
     "name": "Hi-Octane",
-    "id": "psx183",
+    "id": "psx205",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -4380,11 +5080,36 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Hogs of War",
+    "id": "psx206",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 8877,
+    "gbId": 16885,
+    "gbGuid": "3030-16885",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Honoo no Ryourijin: Cooking Fighter Hao",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx184",
+    "id": "psx207",
     "igdbId": null,
     "gbId": 17138,
     "gbGuid": "3030-17138",
@@ -4407,7 +5132,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx185",
+    "id": "psx208",
     "igdbId": 45223,
     "gbId": 14011,
     "gbGuid": "3030-14011",
@@ -4430,7 +5155,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx186",
+    "id": "psx209",
     "igdbId": 45058,
     "gbId": 7582,
     "gbGuid": "3030-7582",
@@ -4449,11 +5174,36 @@
     "special": []
   },
   {
+    "name": "Hunter X Hunter: Maboroshi no Greed Island",
+    "id": "psx210",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": null,
+    "gbId": 48794,
+    "gbGuid": "3030-48794",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "IS: internal section",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx187",
+    "id": "psx211",
     "igdbId": 25094,
     "gbId": 8840,
     "gbGuid": "3030-8840",
@@ -4476,7 +5226,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx188",
+    "id": "psx212",
     "igdbId": 28403,
     "gbId": 10340,
     "gbGuid": "3030-10340",
@@ -4499,7 +5249,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx189",
+    "id": "psx213",
     "igdbId": null,
     "gbId": 8000,
     "gbGuid": "3030-8000",
@@ -4518,11 +5268,36 @@
     "special": []
   },
   {
+    "name": "ISS Pro Evolution Soccer 2",
+    "id": "psx214",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 18681,
+    "gbId": 8000,
+    "gbGuid": "3030-8000",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Imadoki no Vampire: Bloody Bride",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx190",
+    "id": "psx215",
     "igdbId": 43778,
     "gbId": 11748,
     "gbGuid": "3030-11748",
@@ -4542,7 +5317,7 @@
   },
   {
     "name": "In the Hunt",
-    "id": "psx191",
+    "id": "psx216",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -4571,7 +5346,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx192",
+    "id": "psx217",
     "igdbId": 4863,
     "gbId": 19902,
     "gbGuid": "3030-19902",
@@ -4594,7 +5369,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx193",
+    "id": "psx218",
     "igdbId": 20141,
     "gbId": null,
     "gbGuid": null,
@@ -4615,9 +5390,10 @@
   {
     "name": "International Superstar Soccer Pro '98",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx194",
+    "id": "psx219",
     "igdbId": 44932,
     "gbId": null,
     "gbGuid": null,
@@ -4632,14 +5408,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "International Track & Field",
-    "id": "psx195",
+    "id": "psx220",
     "details": [
-      "PlayStation Long Box Game"
+      "PlayStation Long Box Game",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
     "igdbId": 20406,
     "gbId": 22209,
@@ -4648,6 +5437,42 @@
     "special": [
       {
         "value": "PlayStation Long Box Game",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      },
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "International Track & Field 2000",
+    "id": "psx221",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 3517,
+    "gbId": 6820,
+    "gbGuid": "3030-6820",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
         "forPlatform": {
           "name": "Sony PlayStation",
           "id": "ccl20",
@@ -4666,7 +5491,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx196",
+    "id": "psx222",
     "igdbId": 100268,
     "gbId": 37429,
     "gbGuid": "3030-37429",
@@ -4689,7 +5514,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx197",
+    "id": "psx223",
     "igdbId": 45004,
     "gbId": 16165,
     "gbGuid": "3030-16165",
@@ -4712,7 +5537,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx198",
+    "id": "psx224",
     "igdbId": 92863,
     "gbId": 17253,
     "gbGuid": "3030-17253",
@@ -4735,7 +5560,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx199",
+    "id": "psx225",
     "igdbId": null,
     "gbId": 39174,
     "gbGuid": "3030-39174",
@@ -4758,7 +5583,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx200",
+    "id": "psx226",
     "igdbId": 44793,
     "gbId": 37613,
     "gbGuid": "3030-37613",
@@ -4781,7 +5606,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx201",
+    "id": "psx227",
     "igdbId": null,
     "gbId": 73310,
     "gbGuid": "3030-73310",
@@ -4804,7 +5629,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx202",
+    "id": "psx228",
     "igdbId": 18943,
     "gbId": 17277,
     "gbGuid": "3030-17277",
@@ -4823,11 +5648,36 @@
     "special": []
   },
   {
+    "name": "James Bond 007: Nightfire",
+    "id": "psx229",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 1631,
+    "gbId": 6647,
+    "gbGuid": "3030-6647",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Jeff Wayne's The War of the Worlds",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx203",
+    "id": "psx230",
     "igdbId": 25730,
     "gbId": 38080,
     "gbGuid": "3030-38080",
@@ -4850,7 +5700,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx204",
+    "id": "psx231",
     "igdbId": 4125,
     "gbId": null,
     "gbGuid": null,
@@ -4873,7 +5723,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx205",
+    "id": "psx232",
     "igdbId": 22223,
     "gbId": 57710,
     "gbGuid": "3030-57710",
@@ -4893,7 +5743,7 @@
   },
   {
     "name": "Johnny Bazookatone",
-    "id": "psx206",
+    "id": "psx233",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -4918,11 +5768,36 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Jonah Lomu Rugby",
+    "id": "psx234",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 2401,
+    "gbId": 4264,
+    "gbGuid": "3030-4264",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Juggernaut",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx207",
+    "id": "psx235",
     "igdbId": 25249,
     "gbId": 29476,
     "gbGuid": "3030-29476",
@@ -4942,7 +5817,7 @@
   },
   {
     "name": "Jumping Flash!",
-    "id": "psx208",
+    "id": "psx236",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -4968,7 +5843,7 @@
   },
   {
     "name": "Jupiter Strike",
-    "id": "psx209",
+    "id": "psx237",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -4997,7 +5872,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx210",
+    "id": "psx238",
     "igdbId": 43723,
     "gbId": 22851,
     "gbGuid": "3030-22851",
@@ -5020,7 +5895,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx211",
+    "id": "psx239",
     "igdbId": 36746,
     "gbId": 6409,
     "gbGuid": "3030-6409",
@@ -5040,7 +5915,7 @@
   },
   {
     "name": "Kileak: The DNA Imperative",
-    "id": "psx212",
+    "id": "psx240",
     "details": [
       "Sony PlayStation launch title",
       "PlayStation Long Box Game"
@@ -5079,7 +5954,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx213",
+    "id": "psx241",
     "igdbId": 20596,
     "gbId": 41034,
     "gbGuid": "3030-41034",
@@ -5099,7 +5974,7 @@
   },
   {
     "name": "King's Field",
-    "id": "psx214",
+    "id": "psx242",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -5128,7 +6003,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx215",
+    "id": "psx243",
     "igdbId": 8308,
     "gbId": 22439,
     "gbGuid": "3030-22439",
@@ -5149,9 +6024,10 @@
   {
     "name": "Klonoa Beach Volleyball",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx216",
+    "id": "psx244",
     "igdbId": 22702,
     "gbId": 18909,
     "gbGuid": "3030-18909",
@@ -5166,15 +6042,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Knockout Kings",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx217",
+    "id": "psx245",
     "igdbId": 71110,
     "gbId": 2039,
     "gbGuid": "3030-2039",
@@ -5197,7 +6085,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx218",
+    "id": "psx246",
     "igdbId": 4169,
     "gbId": 5223,
     "gbGuid": "3030-5223",
@@ -5217,7 +6105,7 @@
   },
   {
     "name": "Krazy Ivan",
-    "id": "psx219",
+    "id": "psx247",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -5246,7 +6134,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx220",
+    "id": "psx248",
     "igdbId": 43721,
     "gbId": 4950,
     "gbGuid": "3030-4950",
@@ -5269,7 +6157,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx221",
+    "id": "psx249",
     "igdbId": 22541,
     "gbId": 17090,
     "gbGuid": "3030-17090",
@@ -5292,7 +6180,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx222",
+    "id": "psx250",
     "igdbId": 13676,
     "gbId": 16716,
     "gbGuid": "3030-16716",
@@ -5312,7 +6200,7 @@
   },
   {
     "name": "Lemmings 3D",
-    "id": "psx223",
+    "id": "psx251",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -5341,7 +6229,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx224",
+    "id": "psx252",
     "igdbId": 44772,
     "gbId": 61157,
     "gbGuid": "3030-61157",
@@ -5361,7 +6249,7 @@
   },
   {
     "name": "Loaded",
-    "id": "psx225",
+    "id": "psx253",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -5390,7 +6278,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx226",
+    "id": "psx254",
     "igdbId": 44753,
     "gbId": 29231,
     "gbGuid": "3030-29231",
@@ -5413,7 +6301,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx227",
+    "id": "psx255",
     "igdbId": 63368,
     "gbId": 42711,
     "gbGuid": "3030-42711",
@@ -5436,7 +6324,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx228",
+    "id": "psx256",
     "igdbId": 22772,
     "gbId": 22874,
     "gbGuid": "3030-22874",
@@ -5459,7 +6347,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx229",
+    "id": "psx257",
     "igdbId": 28191,
     "gbId": 5123,
     "gbGuid": "3030-5123",
@@ -5482,7 +6370,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx230",
+    "id": "psx258",
     "igdbId": 20724,
     "gbId": 25439,
     "gbGuid": "3030-25439",
@@ -5501,8 +6389,58 @@
     "special": []
   },
   {
+    "name": "Madden NFL 2000",
+    "id": "psx259",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 3537,
+    "gbId": 12373,
+    "gbGuid": "3030-12373",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Madden NFL 99",
+    "id": "psx260",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 779,
+    "gbId": 13996,
+    "gbGuid": "3030-13996",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Magic Carpet",
-    "id": "psx231",
+    "id": "psx261",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -5531,7 +6469,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx232",
+    "id": "psx262",
     "igdbId": 122570,
     "gbId": null,
     "gbGuid": null,
@@ -5554,7 +6492,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx233",
+    "id": "psx263",
     "igdbId": null,
     "gbId": 30535,
     "gbGuid": "3030-30535",
@@ -5577,7 +6515,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx234",
+    "id": "psx264",
     "igdbId": 1307,
     "gbId": 19230,
     "gbGuid": "3030-19230",
@@ -5600,7 +6538,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx235",
+    "id": "psx265",
     "igdbId": 4002,
     "gbId": 3438,
     "gbGuid": "3030-3438",
@@ -5623,7 +6561,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx236",
+    "id": "psx266",
     "igdbId": 71135,
     "gbId": 2345,
     "gbGuid": "3030-2345",
@@ -5646,7 +6584,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx237",
+    "id": "psx267",
     "igdbId": 112178,
     "gbId": 70273,
     "gbGuid": "3030-70273",
@@ -5665,11 +6603,61 @@
     "special": []
   },
   {
+    "name": "Micro Machines V3",
+    "id": "psx268",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 24413,
+    "gbId": 496,
+    "gbGuid": "3030-496",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Micro Maniacs",
+    "id": "psx269",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 8514,
+    "gbId": 27621,
+    "gbGuid": "3030-27621",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Mitsumete Knight",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx238",
+    "id": "psx270",
     "igdbId": 92966,
     "gbId": 15004,
     "gbGuid": "3030-15004",
@@ -5692,7 +6680,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx239",
+    "id": "psx271",
     "igdbId": 43839,
     "gbId": 34158,
     "gbGuid": "3030-34158",
@@ -5715,7 +6703,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx240",
+    "id": "psx272",
     "igdbId": 77032,
     "gbId": 37431,
     "gbGuid": "3030-37431",
@@ -5738,7 +6726,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx241",
+    "id": "psx273",
     "igdbId": 21643,
     "gbId": 17658,
     "gbGuid": "3030-17658",
@@ -5761,7 +6749,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx242",
+    "id": "psx274",
     "igdbId": 45220,
     "gbId": 9496,
     "gbGuid": "3030-9496",
@@ -5782,9 +6770,10 @@
   {
     "name": "Monopoly",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 8 players"
     ],
-    "id": "psx243",
+    "id": "psx275",
     "igdbId": 332,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -5799,15 +6788,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Monster Rancher",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx244",
+    "id": "psx276",
     "igdbId": 4104,
     "gbId": 17676,
     "gbGuid": "3030-17676",
@@ -5830,7 +6831,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx245",
+    "id": "psx277",
     "igdbId": 45219,
     "gbId": 18386,
     "gbGuid": "3030-18386",
@@ -5853,7 +6854,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx246",
+    "id": "psx278",
     "igdbId": 73672,
     "gbId": 11046,
     "gbGuid": "3030-11046",
@@ -5876,7 +6877,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx247",
+    "id": "psx279",
     "igdbId": 65450,
     "gbId": 30774,
     "gbGuid": "3030-30774",
@@ -5899,7 +6900,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx248",
+    "id": "psx280",
     "igdbId": 45049,
     "gbId": 22900,
     "gbGuid": "3030-22900",
@@ -5919,7 +6920,7 @@
   },
   {
     "name": "Mortal Kombat 3",
-    "id": "psx249",
+    "id": "psx281",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -5948,7 +6949,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx250",
+    "id": "psx282",
     "igdbId": 1623,
     "gbId": 18083,
     "gbGuid": "3030-18083",
@@ -5971,7 +6972,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx251",
+    "id": "psx283",
     "igdbId": 10562,
     "gbId": 34761,
     "gbGuid": "3030-34761",
@@ -5994,7 +6995,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx252",
+    "id": "psx284",
     "igdbId": 45109,
     "gbId": 4911,
     "gbGuid": "3030-4911",
@@ -6017,7 +7018,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx253",
+    "id": "psx285",
     "igdbId": 3258,
     "gbId": 32229,
     "gbGuid": "3030-32229",
@@ -6040,7 +7041,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx254",
+    "id": "psx286",
     "igdbId": 3259,
     "gbId": 13679,
     "gbGuid": "3030-13679",
@@ -6063,7 +7064,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx255",
+    "id": "psx287",
     "igdbId": 60260,
     "gbId": 49735,
     "gbGuid": "3030-49735",
@@ -6086,7 +7087,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx256",
+    "id": "psx288",
     "igdbId": 44879,
     "gbId": 310,
     "gbGuid": "3030-310",
@@ -6105,12 +7106,63 @@
     "special": []
   },
   {
+    "name": "NBA Hangtime",
+    "id": "psx289",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 3550,
+    "gbId": 10512,
+    "gbGuid": "3030-10512",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NBA Hoopz",
+    "id": "psx290",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 10634,
+    "gbId": 417,
+    "gbGuid": "3030-417",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "NBA In The Zone",
     "details": [
       "Sony PlayStation exclusive",
-      "PlayStation Long Box Game"
+      "PlayStation Long Box Game",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx257",
+    "id": "psx291",
     "igdbId": 20639,
     "gbId": 21798,
     "gbGuid": "3030-21798",
@@ -6136,6 +7188,17 @@
           "gbGuid": "3045-22",
           "tgdbId": 10
         }
+      },
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
       }
     ],
     "isLaunchTitle": false
@@ -6145,7 +7208,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx258",
+    "id": "psx292",
     "igdbId": 20729,
     "gbId": 35648,
     "gbGuid": "3030-35648",
@@ -6164,11 +7227,37 @@
     "special": []
   },
   {
+    "name": "NBA Jam Extreme",
+    "id": "psx293",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 40205,
+    "gbId": 2725,
+    "gbGuid": "3030-2725",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "NBA Jam Tournament Edition",
-    "id": "psx259",
+    "id": "psx294",
     "details": [
       "Sony PlayStation launch title",
-      "PlayStation Long Box Game"
+      "PlayStation Long Box Game",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
     "igdbId": 19712,
     "gbId": 14792,
@@ -6195,13 +7284,24 @@
           "gbGuid": "3045-22",
           "tgdbId": 10
         }
+      },
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
       }
     ],
     "isExclusive": false
   },
   {
     "name": "NBA Live 96",
-    "id": "psx260",
+    "id": "psx295",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -6226,12 +7326,37 @@
     "isLaunchTitle": false
   },
   {
+    "name": "NBA Live 99",
+    "id": "psx296",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 811,
+    "gbId": 2861,
+    "gbGuid": "3030-2861",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "NBA Shootout",
     "details": [
       "Sony PlayStation exclusive",
       "PlayStation Long Box Game"
     ],
-    "id": "psx261",
+    "id": "psx297",
     "igdbId": 20260,
     "gbId": 21747,
     "gbGuid": "3030-21747",
@@ -6262,11 +7387,36 @@
     "isLaunchTitle": false
   },
   {
+    "name": "NBA Showtime: NBA on NBC",
+    "id": "psx298",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 3554,
+    "gbId": 4632,
+    "gbGuid": "3030-4632",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "NCAA Basketball Final Four 97",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx262",
+    "id": "psx299",
     "igdbId": 43717,
     "gbId": 19182,
     "gbGuid": "3030-19182",
@@ -6289,7 +7439,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx263",
+    "id": "psx300",
     "isExclusive": [
       {
         "name": "Sony PlayStation",
@@ -6308,7 +7458,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx264",
+    "id": "psx301",
     "igdbId": 43825,
     "gbId": 22884,
     "gbGuid": "3030-22884",
@@ -6331,7 +7481,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx265",
+    "id": "psx302",
     "igdbId": 43710,
     "gbId": null,
     "gbGuid": null,
@@ -6350,12 +7500,87 @@
     "special": []
   },
   {
+    "name": "NFL Blitz 2000",
+    "id": "psx303",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 4366,
+    "gbId": 2849,
+    "gbGuid": "3030-2849",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NFL Blitz 2001",
+    "id": "psx304",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 47752,
+    "gbId": 12669,
+    "gbGuid": "3030-12669",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NFL Blitz 2001",
+    "id": "psx305",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 47752,
+    "gbId": 12669,
+    "gbGuid": "3030-12669",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "NFL GameDay",
     "details": [
       "Sony PlayStation exclusive",
       "PlayStation Long Box Game"
     ],
-    "id": "psx266",
+    "id": "psx306",
     "igdbId": 20254,
     "gbId": 7171,
     "gbGuid": "3030-7171",
@@ -6390,7 +7615,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx267",
+    "id": "psx307",
     "igdbId": 20716,
     "gbId": 14735,
     "gbGuid": "3030-14735",
@@ -6413,7 +7638,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx268",
+    "id": "psx308",
     "igdbId": 43707,
     "gbId": 9640,
     "gbGuid": "3030-9640",
@@ -6436,7 +7661,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx269",
+    "id": "psx309",
     "igdbId": 45216,
     "gbId": 3333,
     "gbGuid": "3030-3333",
@@ -6459,7 +7684,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx270",
+    "id": "psx310",
     "igdbId": 43899,
     "gbId": 22877,
     "gbGuid": "3030-22877",
@@ -6478,12 +7703,62 @@
     "special": []
   },
   {
+    "name": "NHL 2000",
+    "id": "psx311",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 813,
+    "gbId": 2788,
+    "gbGuid": "3030-2788",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NHL 98",
+    "id": "psx312",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 818,
+    "gbId": 18845,
+    "gbGuid": "3030-18845",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "NHL FaceOff",
     "details": [
       "Sony PlayStation exclusive",
       "PlayStation Long Box Game"
     ],
-    "id": "psx271",
+    "id": "psx313",
     "igdbId": 20428,
     "gbId": 899,
     "gbGuid": "3030-899",
@@ -6518,7 +7793,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx272",
+    "id": "psx314",
     "igdbId": 20429,
     "gbId": 13662,
     "gbGuid": "3030-13662",
@@ -6537,11 +7812,36 @@
     "special": []
   },
   {
+    "name": "NHL Open Ice: 2 On 2 Challenge",
+    "id": "psx315",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 45001,
+    "gbId": 22054,
+    "gbGuid": "3030-22054",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Namco Museum Vol. 1",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx273",
+    "id": "psx316",
     "igdbId": 20611,
     "gbId": 31411,
     "gbGuid": "3030-31411",
@@ -6564,7 +7864,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx274",
+    "id": "psx317",
     "igdbId": 20138,
     "gbId": 16037,
     "gbGuid": "3030-16037",
@@ -6584,7 +7884,7 @@
   },
   {
     "name": "Need for Speed II",
-    "id": "psx275",
+    "id": "psx318",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -6609,11 +7909,61 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Need for Speed: Porsche Unleashed",
+    "id": "psx319",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 94,
+    "gbId": 8831,
+    "gbGuid": "3030-8831",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Need for Speed: V-Rally 2",
+    "id": "psx320",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 74104,
+    "gbId": 6829,
+    "gbGuid": "3030-6829",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Nijiiro Dodge Ball: Otome Tachi no Seishun",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx276",
+    "id": "psx321",
     "igdbId": 65646,
     "gbId": 36552,
     "gbGuid": "3030-36552",
@@ -6636,7 +7986,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx277",
+    "id": "psx322",
     "igdbId": 18941,
     "gbId": 13788,
     "gbGuid": "3030-13788",
@@ -6659,7 +8009,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx278",
+    "id": "psx323",
     "igdbId": 4107,
     "gbId": 13325,
     "gbGuid": "3030-13325",
@@ -6682,7 +8032,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx279",
+    "id": "psx324",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6702,7 +8052,7 @@
   },
   {
     "name": "Novastorm",
-    "id": "psx280",
+    "id": "psx325",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -6728,7 +8078,7 @@
   },
   {
     "name": "Off-World Interceptor Extreme",
-    "id": "psx281",
+    "id": "psx326",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -6757,7 +8107,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx282",
+    "id": "psx327",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6776,11 +8126,36 @@
     "special": []
   },
   {
+    "name": "Olympic Soccer",
+    "id": "psx328",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 4292,
+    "gbId": 22204,
+    "gbGuid": "3030-22204",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Omega Boost",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx283",
+    "id": "psx329",
     "igdbId": 24009,
     "gbId": 9788,
     "gbGuid": "3030-9788",
@@ -6803,7 +8178,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx284",
+    "id": "psx330",
     "igdbId": 37288,
     "gbId": 1681,
     "gbGuid": "3030-1681",
@@ -6826,7 +8201,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx285",
+    "id": "psx331",
     "igdbId": 75740,
     "gbId": null,
     "gbGuid": null,
@@ -6849,7 +8224,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx286",
+    "id": "psx332",
     "igdbId": 20000,
     "gbId": 8813,
     "gbGuid": "3030-8813",
@@ -6868,11 +8243,36 @@
     "special": []
   },
   {
+    "name": "Overboard!",
+    "id": "psx333",
+    "details": [
+      "Sony PlayStation multitap compatible title - 5 players"
+    ],
+    "igdbId": 7664,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 5 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "PGA Tour '98",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx287",
+    "id": "psx334",
     "igdbId": 43734,
     "gbId": 16126,
     "gbGuid": "3030-16126",
@@ -6892,7 +8292,7 @@
   },
   {
     "name": "PGA Tour 96",
-    "id": "psx288",
+    "id": "psx335",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -6918,7 +8318,7 @@
   },
   {
     "name": "PO'ed",
-    "id": "psx289",
+    "id": "psx336",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -6943,8 +8343,33 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Panzer Bandit",
+    "id": "psx337",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 45108,
+    "gbId": 11728,
+    "gbGuid": "3030-11728",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Panzer General",
-    "id": "psx290",
+    "id": "psx338",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -6973,7 +8398,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx291",
+    "id": "psx339",
     "igdbId": 37305,
     "gbId": 10043,
     "gbGuid": "3030-10043",
@@ -6996,7 +8421,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx292",
+    "id": "psx340",
     "igdbId": 20139,
     "gbId": 34250,
     "gbGuid": "3030-34250",
@@ -7019,7 +8444,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx293",
+    "id": "psx341",
     "igdbId": 27701,
     "gbId": 13795,
     "gbGuid": "3030-13795",
@@ -7039,7 +8464,7 @@
   },
   {
     "name": "Philosoma",
-    "id": "psx294",
+    "id": "psx342",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -7066,9 +8491,10 @@
   {
     "name": "Pitball",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx295",
+    "id": "psx343",
     "igdbId": 20723,
     "gbId": 14663,
     "gbGuid": "3030-14663",
@@ -7083,15 +8509,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Pitfall 3D: Beyond the Jungle",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx296",
+    "id": "psx344",
     "igdbId": 44980,
     "gbId": 2666,
     "gbGuid": "3030-2666",
@@ -7114,7 +8552,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx297",
+    "id": "psx345",
     "igdbId": 56583,
     "gbId": 23138,
     "gbGuid": "3030-23138",
@@ -7133,11 +8571,36 @@
     "special": []
   },
   {
+    "name": "Pong: The Next Level",
+    "id": "psx346",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 9187,
+    "gbId": 977,
+    "gbGuid": "3030-977",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Pop'n Tanks",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx298",
+    "id": "psx347",
     "igdbId": 43801,
     "gbId": 42579,
     "gbGuid": "3030-42579",
@@ -7160,7 +8623,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx299",
+    "id": "psx348",
     "igdbId": 45023,
     "gbId": 14990,
     "gbGuid": "3030-14990",
@@ -7183,7 +8646,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx300",
+    "id": "psx349",
     "igdbId": 44763,
     "gbId": 9216,
     "gbGuid": "3030-9216",
@@ -7203,7 +8666,7 @@
   },
   {
     "name": "Power Serve 3D Tennis",
-    "id": "psx301",
+    "id": "psx350",
     "details": [
       "Sony PlayStation launch title",
       "Sony PlayStation exclusive",
@@ -7248,11 +8711,37 @@
     ]
   },
   {
+    "name": "Poy Poy",
+    "id": "psx351",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 45092,
+    "gbId": 2462,
+    "gbGuid": "3030-2462",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Poy Poy 2",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx302",
+    "id": "psx352",
     "igdbId": 44751,
     "gbId": 18190,
     "gbGuid": "3030-18190",
@@ -7267,12 +8756,24 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Primal Rage",
-    "id": "psx303",
+    "id": "psx353",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -7297,11 +8798,36 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Professional Underground League of Pain",
+    "id": "psx354",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 45038,
+    "gbId": 24379,
+    "gbGuid": "3030-24379",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Project Overkill",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx304",
+    "id": "psx355",
     "igdbId": 20804,
     "gbId": 13246,
     "gbGuid": "3030-13246",
@@ -7324,7 +8850,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx305",
+    "id": "psx356",
     "igdbId": 20296,
     "gbId": 14016,
     "gbGuid": "3030-14016",
@@ -7347,7 +8873,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx306",
+    "id": "psx357",
     "igdbId": 78791,
     "gbId": 8839,
     "gbGuid": "3030-8839",
@@ -7367,7 +8893,7 @@
   },
   {
     "name": "Psychic Detective",
-    "id": "psx307",
+    "id": "psx358",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -7396,7 +8922,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx308",
+    "id": "psx359",
     "igdbId": 61333,
     "gbId": 46919,
     "gbGuid": "3030-46919",
@@ -7419,7 +8945,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx309",
+    "id": "psx360",
     "igdbId": 44881,
     "gbId": 23901,
     "gbGuid": "3030-23901",
@@ -7442,7 +8968,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx310",
+    "id": "psx361",
     "igdbId": 44780,
     "gbId": 6396,
     "gbGuid": "3030-6396",
@@ -7461,11 +8987,36 @@
     "special": []
   },
   {
+    "name": "Quake II",
+    "id": "psx362",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 286,
+    "gbId": 3207,
+    "gbGuid": "3030-3207",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "R/C Stunt Copter",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx311",
+    "id": "psx363",
     "igdbId": 44953,
     "gbId": 9176,
     "gbGuid": "3030-9176",
@@ -7488,7 +9039,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx312",
+    "id": "psx364",
     "igdbId": 77793,
     "gbId": 34762,
     "gbGuid": "3030-34762",
@@ -7511,7 +9062,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx313",
+    "id": "psx365",
     "igdbId": 94303,
     "gbId": 4515,
     "gbGuid": "3030-4515",
@@ -7534,7 +9085,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx314",
+    "id": "psx366",
     "igdbId": 76182,
     "gbId": 10917,
     "gbGuid": "3030-10917",
@@ -7557,7 +9108,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx315",
+    "id": "psx367",
     "igdbId": 18698,
     "gbId": 8930,
     "gbGuid": "3030-8930",
@@ -7576,11 +9127,37 @@
     "special": []
   },
   {
+    "name": "Rakugaki Showtime",
+    "id": "psx368",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 46082,
+    "gbId": 21216,
+    "gbGuid": "3030-21216",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Rally Cross",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx316",
+    "id": "psx369",
     "igdbId": 8647,
     "gbId": 8379,
     "gbGuid": "3030-8379",
@@ -7595,15 +9172,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Rally Cross 2",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx317",
+    "id": "psx370",
     "igdbId": 8648,
     "gbId": 13945,
     "gbGuid": "3030-13945",
@@ -7622,11 +9211,37 @@
     "special": []
   },
   {
+    "name": "Rampage 2: Universal Tour",
+    "id": "psx371",
+    "details": [
+      "Sony PlayStation multitap compatible title - 3 players"
+    ],
+    "igdbId": 3583,
+    "gbId": 9382,
+    "gbGuid": "3030-9382",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 3 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Rampage Through Time",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 3 players"
     ],
-    "id": "psx318",
+    "id": "psx372",
     "igdbId": 45091,
     "gbId": 5284,
     "gbGuid": "3030-5284",
@@ -7641,15 +9256,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 3 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Rascal",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx319",
+    "id": "psx373",
     "igdbId": 94445,
     "gbId": 9504,
     "gbGuid": "3030-9504",
@@ -7669,7 +9296,7 @@
   },
   {
     "name": "Rayman",
-    "id": "psx320",
+    "id": "psx374",
     "details": [
       "Sony PlayStation launch title",
       "PlayStation Long Box Game"
@@ -7708,7 +9335,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx321",
+    "id": "psx375",
     "igdbId": 51953,
     "gbId": 14471,
     "gbGuid": "3030-14471",
@@ -7731,7 +9358,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx322",
+    "id": "psx376",
     "igdbId": 13900,
     "gbId": 3818,
     "gbGuid": "3030-3818",
@@ -7751,7 +9378,7 @@
   },
   {
     "name": "Resident Evil",
-    "id": "psx323",
+    "id": "psx377",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -7780,7 +9407,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx324",
+    "id": "psx378",
     "igdbId": 45017,
     "gbId": 11900,
     "gbGuid": "3030-11900",
@@ -7800,7 +9427,7 @@
   },
   {
     "name": "Return Fire",
-    "id": "psx325",
+    "id": "psx379",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -7826,7 +9453,7 @@
   },
   {
     "name": "Revolution X",
-    "id": "psx326",
+    "id": "psx380",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -7852,7 +9479,7 @@
   },
   {
     "name": "Ridge Racer",
-    "id": "psx327",
+    "id": "psx381",
     "details": [
       "Sony PlayStation launch title",
       "PlayStation Long Box Game"
@@ -7891,7 +9518,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx328",
+    "id": "psx382",
     "igdbId": 18697,
     "gbId": 11607,
     "gbGuid": "3030-11607",
@@ -7911,7 +9538,7 @@
   },
   {
     "name": "Rise 2: Resurrection",
-    "id": "psx329",
+    "id": "psx383",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -7937,7 +9564,7 @@
   },
   {
     "name": "Road Rash",
-    "id": "psx330",
+    "id": "psx384",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -7966,7 +9593,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx331",
+    "id": "psx385",
     "igdbId": 6564,
     "gbId": 18026,
     "gbGuid": "3030-18026",
@@ -7989,7 +9616,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx332",
+    "id": "psx386",
     "igdbId": 84124,
     "gbId": 282,
     "gbGuid": "3030-282",
@@ -8012,7 +9639,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx333",
+    "id": "psx387",
     "igdbId": 26143,
     "gbId": 2392,
     "gbGuid": "3030-2392",
@@ -8032,7 +9659,7 @@
   },
   {
     "name": "Romance of the Three Kingdoms IV: Wall of Fire",
-    "id": "psx334",
+    "id": "psx388",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -8061,7 +9688,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx335",
+    "id": "psx389",
     "igdbId": 44899,
     "gbId": 12355,
     "gbGuid": "3030-12355",
@@ -8084,7 +9711,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx336",
+    "id": "psx390",
     "igdbId": 2787,
     "gbId": 18043,
     "gbGuid": "3030-18043",
@@ -8107,7 +9734,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx337",
+    "id": "psx391",
     "igdbId": 44900,
     "gbId": 39126,
     "gbGuid": "3030-39126",
@@ -8128,9 +9755,10 @@
   {
     "name": "Running Wild",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx338",
+    "id": "psx392",
     "igdbId": 44973,
     "gbId": 16882,
     "gbGuid": "3030-16882",
@@ -8145,15 +9773,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "SD Gundam: G Generation",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx339",
+    "id": "psx393",
     "igdbId": 66588,
     "gbId": 31328,
     "gbGuid": "3030-31328",
@@ -8176,7 +9816,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx340",
+    "id": "psx394",
     "igdbId": 45055,
     "gbId": 15576,
     "gbGuid": "3030-15576",
@@ -8199,7 +9839,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx341",
+    "id": "psx395",
     "igdbId": 44969,
     "gbId": 3592,
     "gbGuid": "3030-3592",
@@ -8219,7 +9859,7 @@
   },
   {
     "name": "Shellshock",
-    "id": "psx342",
+    "id": "psx396",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -8245,7 +9885,7 @@
   },
   {
     "name": "Shockwave Assault",
-    "id": "psx343",
+    "id": "psx397",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -8274,7 +9914,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx344",
+    "id": "psx398",
     "igdbId": 44967,
     "gbId": 40706,
     "gbGuid": "3030-40706",
@@ -8297,7 +9937,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx345",
+    "id": "psx399",
     "igdbId": 480,
     "gbId": 4312,
     "gbGuid": "3030-4312",
@@ -8317,7 +9957,7 @@
   },
   {
     "name": "Silverload",
-    "id": "psx346",
+    "id": "psx400",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -8343,7 +9983,7 @@
   },
   {
     "name": "Skeleton Warriors",
-    "id": "psx347",
+    "id": "psx401",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -8372,7 +10012,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx348",
+    "id": "psx402",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8395,7 +10035,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx349",
+    "id": "psx403",
     "igdbId": 10917,
     "gbId": 8992,
     "gbGuid": "3030-8992",
@@ -8415,9 +10055,10 @@
   },
   {
     "name": "Slam 'n Jam '96 Featuring Magic & Kareem",
-    "id": "psx350",
+    "id": "psx404",
     "details": [
-      "PlayStation Long Box Game"
+      "PlayStation Long Box Game",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
     "igdbId": 44904,
     "gbId": 4337,
@@ -8426,6 +10067,17 @@
     "special": [
       {
         "value": "PlayStation Long Box Game",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      },
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
         "forPlatform": {
           "name": "Sony PlayStation",
           "id": "ccl20",
@@ -8444,7 +10096,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx351",
+    "id": "psx405",
     "igdbId": 71894,
     "gbId": 23994,
     "gbGuid": "3030-23994",
@@ -8465,9 +10117,10 @@
   {
     "name": "Sled Storm",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx352",
+    "id": "psx406",
     "igdbId": 81484,
     "gbId": 27918,
     "gbGuid": "3030-27918",
@@ -8482,15 +10135,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Soul of the Samurai",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx353",
+    "id": "psx407",
     "igdbId": 44905,
     "gbId": 10482,
     "gbGuid": "3030-10482",
@@ -8509,11 +10174,36 @@
     "special": []
   },
   {
+    "name": "South Park: Chef's Luv Shack",
+    "id": "psx408",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 1258,
+    "gbId": 2127,
+    "gbGuid": "3030-2127",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Space Battleship Yamato (video game)",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx354",
+    "id": "psx409",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8533,7 +10223,7 @@
   },
   {
     "name": "Space Griffon VF-9",
-    "id": "psx355",
+    "id": "psx410",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -8559,7 +10249,7 @@
   },
   {
     "name": "Space Hulk",
-    "id": "psx356",
+    "id": "psx411",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -8588,7 +10278,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx357",
+    "id": "psx412",
     "igdbId": 45208,
     "gbId": 380,
     "gbGuid": "3030-380",
@@ -8611,7 +10301,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx358",
+    "id": "psx413",
     "igdbId": 46764,
     "gbId": null,
     "gbGuid": null,
@@ -8630,11 +10320,36 @@
     "special": []
   },
   {
+    "name": "Speed Punks",
+    "id": "psx414",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 4119,
+    "gbId": 13178,
+    "gbGuid": "3030-13178",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Speed Racer",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx359",
+    "id": "psx415",
     "igdbId": 111562,
     "gbId": 22888,
     "gbGuid": "3030-22888",
@@ -8657,7 +10372,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx360",
+    "id": "psx416",
     "igdbId": 44907,
     "gbId": 7919,
     "gbGuid": "3030-7919",
@@ -8680,7 +10395,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx361",
+    "id": "psx417",
     "igdbId": 4118,
     "gbId": 12305,
     "gbGuid": "3030-12305",
@@ -8703,7 +10418,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx362",
+    "id": "psx418",
     "igdbId": 45034,
     "gbId": 10554,
     "gbGuid": "3030-10554",
@@ -8726,7 +10441,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx363",
+    "id": "psx419",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8749,7 +10464,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx364",
+    "id": "psx420",
     "igdbId": 94357,
     "gbId": 6191,
     "gbGuid": "3030-6191",
@@ -8772,7 +10487,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx365",
+    "id": "psx421",
     "igdbId": 24155,
     "gbId": 1715,
     "gbGuid": "3030-1715",
@@ -8795,7 +10510,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx366",
+    "id": "psx422",
     "igdbId": 18044,
     "gbId": 9603,
     "gbGuid": "3030-9603",
@@ -8815,7 +10530,7 @@
   },
   {
     "name": "StarBlade Alpha",
-    "id": "psx367",
+    "id": "psx423",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -8844,7 +10559,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx368",
+    "id": "psx424",
     "igdbId": 45032,
     "gbId": 7371,
     "gbGuid": "3030-7371",
@@ -8867,7 +10582,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx369",
+    "id": "psx425",
     "igdbId": 9584,
     "gbId": 31028,
     "gbGuid": "3030-31028",
@@ -8887,7 +10602,7 @@
   },
   {
     "name": "Street Fighter Alpha: Warriors' Dreams",
-    "id": "psx370",
+    "id": "psx426",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -8913,7 +10628,7 @@
   },
   {
     "name": "Street Fighter: The Movie",
-    "id": "psx371",
+    "id": "psx427",
     "details": [
       "Sony PlayStation launch title",
       "PlayStation Long Box Game"
@@ -8948,10 +10663,36 @@
     "isExclusive": false
   },
   {
-    "name": "Striker '96",
-    "id": "psx372",
+    "name": "Street Racer",
+    "id": "psx428",
     "details": [
-      "PlayStation Long Box Game"
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 19770,
+    "gbId": 22190,
+    "gbGuid": "3030-22190",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Striker '96",
+    "id": "psx429",
+    "details": [
+      "PlayStation Long Box Game",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
     "igdbId": 22675,
     "gbId": 6753,
@@ -8960,6 +10701,17 @@
     "special": [
       {
         "value": "PlayStation Long Box Game",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      },
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
         "forPlatform": {
           "name": "Sony PlayStation",
           "id": "ccl20",
@@ -8978,7 +10730,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx373",
+    "id": "psx430",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -9001,7 +10753,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx374",
+    "id": "psx431",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -9024,7 +10776,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx375",
+    "id": "psx432",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -9047,7 +10799,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx376",
+    "id": "psx433",
     "igdbId": 44913,
     "gbId": 34849,
     "gbGuid": "3030-34849",
@@ -9070,7 +10822,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx377",
+    "id": "psx434",
     "igdbId": 45048,
     "gbId": null,
     "gbGuid": null,
@@ -9089,11 +10841,36 @@
     "special": []
   },
   {
+    "name": "Syndicate Wars",
+    "id": "psx435",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 51,
+    "gbId": 14525,
+    "gbGuid": "3030-14525",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Syphon Filter 2",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx378",
+    "id": "psx436",
     "igdbId": 4116,
     "gbId": 18599,
     "gbGuid": "3030-18599",
@@ -9116,7 +10893,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx379",
+    "id": "psx437",
     "igdbId": 4117,
     "gbId": 15691,
     "gbGuid": "3030-15691",
@@ -9139,7 +10916,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx380",
+    "id": "psx438",
     "igdbId": 8279,
     "gbId": 10414,
     "gbGuid": "3030-10414",
@@ -9162,7 +10939,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx381",
+    "id": "psx439",
     "igdbId": 38513,
     "gbId": 8698,
     "gbGuid": "3030-8698",
@@ -9181,11 +10958,86 @@
     "special": []
   },
   {
+    "name": "Tales of Destiny",
+    "id": "psx440",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 1201,
+    "gbId": 1335,
+    "gbGuid": "3030-1335",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Tales of Eternia",
+    "id": "psx441",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 1202,
+    "gbId": 21441,
+    "gbGuid": "3030-21441",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Tales of Phantasia",
+    "id": "psx442",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 1200,
+    "gbId": 36419,
+    "gbGuid": "3030-36419",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Tatsunoko Fight",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx382",
+    "id": "psx443",
     "igdbId": 43811,
     "gbId": 23038,
     "gbGuid": "3030-23038",
@@ -9206,9 +11058,10 @@
   {
     "name": "Team Buddies",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx383",
+    "id": "psx444",
     "igdbId": 45024,
     "gbId": 7730,
     "gbGuid": "3030-7730",
@@ -9223,15 +11076,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "TearRing Saga: Yutona Eiyuu Senki",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx384",
+    "id": "psx445",
     "igdbId": 43872,
     "gbId": 22475,
     "gbGuid": "3030-22475",
@@ -9251,7 +11116,7 @@
   },
   {
     "name": "Tecmo World Golf",
-    "id": "psx385",
+    "id": "psx446",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -9277,7 +11142,7 @@
   },
   {
     "name": "Tekken",
-    "id": "psx386",
+    "id": "psx447",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -9306,7 +11171,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx387",
+    "id": "psx448",
     "igdbId": 4114,
     "gbId": 15737,
     "gbGuid": "3030-15737",
@@ -9329,7 +11194,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx388",
+    "id": "psx449",
     "igdbId": 4113,
     "gbId": 16004,
     "gbGuid": "3030-16004",
@@ -9352,7 +11217,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx389",
+    "id": "psx450",
     "igdbId": 43688,
     "gbId": 31761,
     "gbGuid": "3030-31761",
@@ -9371,8 +11236,33 @@
     "special": []
   },
   {
+    "name": "Tetris X",
+    "id": "psx451",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 43727,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "The Chessmaster 3-D",
-    "id": "psx390",
+    "id": "psx452",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -9401,7 +11291,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx391",
+    "id": "psx453",
     "igdbId": 44986,
     "gbId": 45563,
     "gbGuid": "3030-45563",
@@ -9420,11 +11310,36 @@
     "special": []
   },
   {
+    "name": "The Fantastic Four",
+    "id": "psx454",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 71328,
+    "gbId": 2660,
+    "gbGuid": "3030-2660",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "The Granstream Saga",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx392",
+    "id": "psx455",
     "igdbId": 19156,
     "gbId": 11768,
     "gbGuid": "3030-11768",
@@ -9444,7 +11359,7 @@
   },
   {
     "name": "The Need for Speed",
-    "id": "psx393",
+    "id": "psx456",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -9473,7 +11388,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx394",
+    "id": "psx457",
     "igdbId": 76728,
     "gbId": 41537,
     "gbGuid": "3030-41537",
@@ -9493,7 +11408,7 @@
   },
   {
     "name": "The Raiden Project",
-    "id": "psx395",
+    "id": "psx458",
     "details": [
       "Sony PlayStation launch title",
       "Sony PlayStation exclusive",
@@ -9542,7 +11457,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx396",
+    "id": "psx459",
     "igdbId": 2841,
     "gbId": 8697,
     "gbGuid": "3030-8697",
@@ -9565,7 +11480,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx397",
+    "id": "psx460",
     "igdbId": 44915,
     "gbId": 3465,
     "gbGuid": "3030-3465",
@@ -9585,7 +11500,7 @@
   },
   {
     "name": "Theme Park",
-    "id": "psx398",
+    "id": "psx461",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -9610,11 +11525,36 @@
     "isLaunchTitle": false
   },
   {
+    "name": "This is Football",
+    "id": "psx462",
+    "details": [
+      "Sony PlayStation multitap compatible title - 8 players"
+    ],
+    "igdbId": 70158,
+    "gbId": 13754,
+    "gbGuid": "3030-13754",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 8 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Thoroughbred Breeder",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx399",
+    "id": "psx463",
     "igdbId": 37789,
     "gbId": 47738,
     "gbGuid": "3030-47738",
@@ -9637,7 +11577,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx400",
+    "id": "psx464",
     "igdbId": 15461,
     "gbId": 3762,
     "gbGuid": "3030-3762",
@@ -9660,7 +11600,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx401",
+    "id": "psx465",
     "igdbId": 44916,
     "gbId": 18624,
     "gbGuid": "3030-18624",
@@ -9681,9 +11621,10 @@
   {
     "name": "Thrill Kill",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx402",
+    "id": "psx466",
     "igdbId": 2387,
     "gbId": 21282,
     "gbGuid": "3030-21282",
@@ -9698,12 +11639,24 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "ThunderStrike 2",
-    "id": "psx403",
+    "id": "psx467",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -9732,7 +11685,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx404",
+    "id": "psx468",
     "igdbId": 12899,
     "gbId": 9645,
     "gbGuid": "3030-9645",
@@ -9755,7 +11708,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx405",
+    "id": "psx469",
     "igdbId": 44918,
     "gbId": 5373,
     "gbGuid": "3030-5373",
@@ -9778,7 +11731,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx406",
+    "id": "psx470",
     "igdbId": 8056,
     "gbId": 10522,
     "gbGuid": "3030-10522",
@@ -9801,7 +11754,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx407",
+    "id": "psx471",
     "igdbId": 8054,
     "gbId": 209,
     "gbGuid": "3030-209",
@@ -9824,7 +11777,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx408",
+    "id": "psx472",
     "igdbId": 8055,
     "gbId": 22906,
     "gbGuid": "3030-22906",
@@ -9847,7 +11800,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx409",
+    "id": "psx473",
     "igdbId": 1662,
     "gbId": 15156,
     "gbGuid": "3030-15156",
@@ -9870,7 +11823,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx410",
+    "id": "psx474",
     "igdbId": 1661,
     "gbId": 21878,
     "gbGuid": "3030-21878",
@@ -9893,7 +11846,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx411",
+    "id": "psx475",
     "igdbId": 8032,
     "gbId": 39963,
     "gbGuid": "3030-39963",
@@ -9913,7 +11866,7 @@
   },
   {
     "name": "Top Gun: Fire at Will!",
-    "id": "psx412",
+    "id": "psx476",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -9942,7 +11895,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx413",
+    "id": "psx477",
     "igdbId": 1416,
     "gbId": 11293,
     "gbGuid": "3030-11293",
@@ -9965,7 +11918,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx414",
+    "id": "psx478",
     "igdbId": null,
     "gbId": 16509,
     "gbGuid": "3030-16509",
@@ -9985,7 +11938,7 @@
   },
   {
     "name": "Total Eclipse Turbo",
-    "id": "psx415",
+    "id": "psx479",
     "details": [
       "Sony PlayStation launch title",
       "PlayStation Long Box Game"
@@ -10024,7 +11977,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx416",
+    "id": "psx480",
     "igdbId": 44945,
     "gbId": 3170,
     "gbGuid": "3030-3170",
@@ -10047,7 +12000,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx417",
+    "id": "psx481",
     "igdbId": 45209,
     "gbId": 17282,
     "gbGuid": "3030-17282",
@@ -10070,7 +12023,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx418",
+    "id": "psx482",
     "igdbId": 44923,
     "gbId": 22898,
     "gbGuid": "3030-22898",
@@ -10090,7 +12043,7 @@
   },
   {
     "name": "Triple Play 97",
-    "id": "psx419",
+    "id": "psx483",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -10116,7 +12069,7 @@
   },
   {
     "name": "Triple Play 98",
-    "id": "psx420",
+    "id": "psx484",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -10145,7 +12098,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx421",
+    "id": "psx485",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -10168,7 +12121,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx422",
+    "id": "psx486",
     "igdbId": 65885,
     "gbId": 35756,
     "gbGuid": "3030-35756",
@@ -10191,7 +12144,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx423",
+    "id": "psx487",
     "igdbId": 59667,
     "gbId": 51208,
     "gbGuid": "3030-51208",
@@ -10214,7 +12167,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx424",
+    "id": "psx488",
     "igdbId": null,
     "gbId": 23420,
     "gbGuid": "3030-23420",
@@ -10234,7 +12187,7 @@
   },
   {
     "name": "Twisted Metal",
-    "id": "psx425",
+    "id": "psx489",
     "details": [
       "Sony PlayStation launch title",
       "PlayStation Long Box Game"
@@ -10271,9 +12224,10 @@
   {
     "name": "Twisted Metal 4",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx426",
+    "id": "psx490",
     "igdbId": 4698,
     "gbId": 10173,
     "gbGuid": "3030-10173",
@@ -10288,15 +12242,28 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Twisted Metal III",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx427",
+    "id": "psx491",
     "igdbId": 4697,
     "gbId": 4635,
     "gbGuid": "3030-4635",
@@ -10311,15 +12278,27 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Twisted Metal: Small Brawl",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx428",
+    "id": "psx492",
     "igdbId": 5417,
     "gbId": 14769,
     "gbGuid": "3030-14769",
@@ -10342,7 +12321,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx429",
+    "id": "psx493",
     "igdbId": 44889,
     "gbId": 18832,
     "gbGuid": "3030-18832",
@@ -10365,7 +12344,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx430",
+    "id": "psx494",
     "igdbId": 44742,
     "gbId": 27576,
     "gbGuid": "3030-27576",
@@ -10388,7 +12367,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx431",
+    "id": "psx495",
     "igdbId": 78940,
     "gbId": 23645,
     "gbGuid": "3030-23645",
@@ -10411,7 +12390,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx432",
+    "id": "psx496",
     "igdbId": 66409,
     "gbId": 32509,
     "gbGuid": "3030-32509",
@@ -10431,7 +12410,7 @@
   },
   {
     "name": "V-Tennis",
-    "id": "psx433",
+    "id": "psx497",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -10460,7 +12439,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx434",
+    "id": "psx498",
     "igdbId": 44930,
     "gbId": 20706,
     "gbGuid": "3030-20706",
@@ -10483,7 +12462,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx435",
+    "id": "psx499",
     "igdbId": 20819,
     "gbId": 45064,
     "gbGuid": "3030-45064",
@@ -10506,7 +12485,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx436",
+    "id": "psx500",
     "igdbId": 44931,
     "gbId": 58313,
     "gbGuid": "3030-58313",
@@ -10525,8 +12504,33 @@
     "special": []
   },
   {
+    "name": "VR Golf '97",
+    "id": "psx501",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 20807,
+    "gbId": 22287,
+    "gbGuid": "3030-22287",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "VR Soccer '96",
-    "id": "psx437",
+    "id": "psx502",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -10555,7 +12559,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx438",
+    "id": "psx503",
     "igdbId": null,
     "gbId": 15476,
     "gbGuid": "3030-15476",
@@ -10578,7 +12582,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx439",
+    "id": "psx504",
     "igdbId": 6543,
     "gbId": 8352,
     "gbGuid": "3030-8352",
@@ -10598,7 +12602,7 @@
   },
   {
     "name": "Viewpoint",
-    "id": "psx440",
+    "id": "psx505",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -10627,7 +12631,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx441",
+    "id": "psx506",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -10650,7 +12654,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx442",
+    "id": "psx507",
     "igdbId": 43794,
     "gbId": null,
     "gbGuid": null,
@@ -10673,7 +12677,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx443",
+    "id": "psx508",
     "igdbId": 66699,
     "gbId": 31027,
     "gbGuid": "3030-31027",
@@ -10696,7 +12700,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx444",
+    "id": "psx509",
     "igdbId": 18307,
     "gbId": 22887,
     "gbGuid": "3030-22887",
@@ -10719,7 +12723,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx445",
+    "id": "psx510",
     "igdbId": 18316,
     "gbId": 557,
     "gbGuid": "3030-557",
@@ -10742,7 +12746,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx446",
+    "id": "psx511",
     "igdbId": 18315,
     "gbId": 1873,
     "gbGuid": "3030-1873",
@@ -10765,7 +12769,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx447",
+    "id": "psx512",
     "igdbId": 79734,
     "gbId": 47657,
     "gbGuid": "3030-47657",
@@ -10784,11 +12788,62 @@
     "special": []
   },
   {
+    "name": "WWF Attitude",
+    "id": "psx513",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 3643,
+    "gbId": 16435,
+    "gbGuid": "3030-16435",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "WWF In Your House",
+    "id": "psx514",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 23238,
+    "gbId": 7485,
+    "gbGuid": "3030-7485",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "WWF Smackdown!",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx448",
+    "id": "psx515",
     "igdbId": 6443,
     "gbId": 17436,
     "gbGuid": "3030-17436",
@@ -10803,15 +12858,28 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "WWF Smackdown! 2: Know Your Role",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx449",
+    "id": "psx516",
     "igdbId": 6444,
     "gbId": 17814,
     "gbGuid": "3030-17814",
@@ -10826,12 +12894,49 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "WWF War Zone",
+    "id": "psx517",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 3645,
+    "gbId": 18801,
+    "gbGuid": "3030-18801",
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "WWF WrestleMania: The Arcade Game",
-    "id": "psx450",
+    "id": "psx518",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -10857,7 +12962,7 @@
   },
   {
     "name": "Warhawk",
-    "id": "psx451",
+    "id": "psx519",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -10886,7 +12991,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx452",
+    "id": "psx520",
     "igdbId": 8278,
     "gbId": 6062,
     "gbGuid": "3030-6062",
@@ -10909,7 +13014,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx453",
+    "id": "psx521",
     "igdbId": 15840,
     "gbId": 592,
     "gbGuid": "3030-592",
@@ -10932,7 +13037,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx454",
+    "id": "psx522",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -10952,7 +13057,7 @@
   },
   {
     "name": "Williams Arcade's Greatest Hits",
-    "id": "psx455",
+    "id": "psx523",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -10978,7 +13083,7 @@
   },
   {
     "name": "Wing Commander III: Heart of the Tiger",
-    "id": "psx456",
+    "id": "psx524",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -11004,7 +13109,7 @@
   },
   {
     "name": "Wipeout",
-    "id": "psx457",
+    "id": "psx525",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -11033,7 +13138,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx458",
+    "id": "psx526",
     "igdbId": 1540,
     "gbId": 12298,
     "gbGuid": "3030-12298",
@@ -11052,11 +13157,36 @@
     "special": []
   },
   {
+    "name": "World Soccer Winning Eleven 2002",
+    "id": "psx527",
+    "details": [
+      "Sony PlayStation multitap compatible title - 4 players"
+    ],
+    "igdbId": 43838,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Worms Pinball",
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx459",
+    "id": "psx528",
     "igdbId": 9335,
     "gbId": 32022,
     "gbGuid": "3030-32022",
@@ -11077,9 +13207,10 @@
   {
     "name": "Wu-Tang: Shaolin Style",
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation multitap compatible title - 4 players"
     ],
-    "id": "psx460",
+    "id": "psx529",
     "igdbId": 18300,
     "gbId": 10872,
     "gbGuid": "3030-10872",
@@ -11094,12 +13225,24 @@
         "tgdbId": 10
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PlayStation multitap compatible title - 4 players",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "X-Com: UFO Defense",
-    "id": "psx461",
+    "id": "psx530",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -11128,7 +13271,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx462",
+    "id": "psx531",
     "igdbId": 4110,
     "gbId": 3965,
     "gbGuid": "3030-3965",
@@ -11151,7 +13294,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx463",
+    "id": "psx532",
     "igdbId": 79811,
     "gbId": 28176,
     "gbGuid": "3030-28176",
@@ -11174,7 +13317,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx464",
+    "id": "psx533",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -11197,7 +13340,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx465",
+    "id": "psx534",
     "igdbId": 4108,
     "gbId": 223,
     "gbGuid": "3030-223",
@@ -11220,7 +13363,7 @@
     "details": [
       "Sony PlayStation exclusive"
     ],
-    "id": "psx466",
+    "id": "psx535",
     "igdbId": 9688,
     "gbId": 37187,
     "gbGuid": "3030-37187",
@@ -11240,7 +13383,7 @@
   },
   {
     "name": "Zero Divide",
-    "id": "psx467",
+    "id": "psx536",
     "details": [
       "PlayStation Long Box Game"
     ],
@@ -11266,7 +13409,7 @@
   },
   {
     "name": "Zoop",
-    "id": "psx468",
+    "id": "psx537",
     "details": [
       "PlayStation Long Box Game"
     ],

@@ -618,5 +618,23 @@
     "filePath": "../textFilesToBeConverted/multiplayer/tg16Multitap.json",
     "type": "Game",
     "complete": false
+  },
+  {
+    "title": "Sega Genesis Team Player compatible titles",
+    "filePath": "../textFilesToBeConverted/multiplayer/segaTeamPlayer.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Sony PlayStation multitap compatible titles",
+    "filePath": "../textFilesToBeConverted/multiplayer/playStationMultitap.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega Saturn Multiplayer Adapter compatible titles",
+    "filePath": "../textFilesToBeConverted/multiplayer/saturnMultiplayerAdapter.json",
+    "type": "Game",
+    "complete": true
   }
 ]
