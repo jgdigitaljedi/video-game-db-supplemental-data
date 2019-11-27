@@ -10,24 +10,24 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/playstationLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/segaSaturnLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/sonyPlaystationExclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/segaSaturnExclusives.json'
   },
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/special/playstationLongboxGames.json'
+  // },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/special/playstationLongboxGames.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/multiplayer/playStationMultitap.json'
+    path: '../../finalOutput/smallFiles/multiplayer/saturnMultiplayerAdapter.json'
   }
 ];
-const mlId = 'ccl20';
-const outPath = '../../finalOutput/consoleLists/SonyPlaystation.json';
-const idPrefix = 'psx';
+const mlId = 'ccl17';
+const outPath = '../../finalOutput/consoleLists/SegaSaturn.json';
+const idPrefix = 'ssat';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

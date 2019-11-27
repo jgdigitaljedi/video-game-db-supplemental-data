@@ -115,11 +115,61 @@
     "special": []
   },
   {
+    "name": "Blast Chamber",
+    "id": "ssat5",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 47014,
+    "gbId": 15493,
+    "gbGuid": "3030-15493",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Break Point Tennis",
+    "id": "ssat6",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 45493,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Burning Rangers",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat5",
+    "id": "ssat7",
     "igdbId": 19666,
     "gbId": 5765,
     "gbGuid": "3030-5765",
@@ -139,7 +189,7 @@
   },
   {
     "name": "Clockwork Knight",
-    "id": "ssat6",
+    "id": "ssat8",
     "details": [
       "Sega Saturn launch title",
       "Sega Saturn exclusive"
@@ -175,7 +225,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat7",
+    "id": "ssat9",
     "igdbId": 19717,
     "gbId": 29093,
     "gbGuid": "3030-29093",
@@ -194,11 +244,36 @@
     "special": []
   },
   {
+    "name": "College Slam",
+    "id": "ssat10",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 4541,
+    "gbId": 125,
+    "gbGuid": "3030-125",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Congo The Movie: The Lost City of Zinj",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat8",
+    "id": "ssat11",
     "igdbId": 45516,
     "gbId": 31291,
     "gbGuid": "3030-31291",
@@ -221,7 +296,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat9",
+    "id": "ssat12",
     "igdbId": 73152,
     "gbId": 19747,
     "gbGuid": "3030-19747",
@@ -244,7 +319,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat10",
+    "id": "ssat13",
     "igdbId": 19740,
     "gbId": 18723,
     "gbGuid": "3030-18723",
@@ -267,7 +342,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat11",
+    "id": "ssat14",
     "igdbId": 46668,
     "gbId": 26413,
     "gbGuid": "3030-26413",
@@ -290,7 +365,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat12",
+    "id": "ssat15",
     "igdbId": 46058,
     "gbId": 18766,
     "gbGuid": "3030-18766",
@@ -310,7 +385,7 @@
   },
   {
     "name": "Daytona USA",
-    "id": "ssat13",
+    "id": "ssat16",
     "details": [
       "Sega Saturn launch title"
     ],
@@ -336,7 +411,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat14",
+    "id": "ssat17",
     "igdbId": 46057,
     "gbId": 16413,
     "gbGuid": "3030-16413",
@@ -359,7 +434,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat15",
+    "id": "ssat18",
     "igdbId": 19737,
     "gbId": 10645,
     "gbGuid": "3030-10645",
@@ -378,11 +453,36 @@
     "special": []
   },
   {
+    "name": "Duke Nukem 3D",
+    "id": "ssat19",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 7 players (contains Death Tank Zwei mini-game)"
+    ],
+    "igdbId": 342,
+    "gbId": 3407,
+    "gbGuid": "3030-3407",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 7 players (contains Death Tank Zwei mini-game)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Dungeon Master Nexus",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat16",
+    "id": "ssat20",
     "igdbId": 3801,
     "gbId": 61262,
     "gbGuid": "3030-61262",
@@ -405,7 +505,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat17",
+    "id": "ssat21",
     "igdbId": 22831,
     "gbId": 19755,
     "gbGuid": "3030-19755",
@@ -428,7 +528,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat18",
+    "id": "ssat22",
     "igdbId": 95383,
     "gbId": 39701,
     "gbGuid": "3030-39701",
@@ -447,11 +547,61 @@
     "special": []
   },
   {
+    "name": "FIFA Soccer 96",
+    "id": "ssat23",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
+    ],
+    "igdbId": 704,
+    "gbId": 14524,
+    "gbGuid": "3030-14524",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Fire Pro Wrestling",
+    "id": "ssat24",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
+    ],
+    "igdbId": 6407,
+    "gbId": 61714,
+    "gbGuid": "3030-61714",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Ghen War",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat19",
+    "id": "ssat25",
     "igdbId": 45526,
     "gbId": 23639,
     "gbGuid": "3030-23639",
@@ -474,7 +624,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat20",
+    "id": "ssat26",
     "igdbId": 92102,
     "gbId": 33446,
     "gbGuid": "3030-33446",
@@ -497,7 +647,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat21",
+    "id": "ssat27",
     "igdbId": 21658,
     "gbId": 23434,
     "gbGuid": "3030-23434",
@@ -516,11 +666,37 @@
     "special": []
   },
   {
+    "name": "Guardian Heroes",
+    "id": "ssat28",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
+    ],
+    "igdbId": 21838,
+    "gbId": 5901,
+    "gbGuid": "3030-5901",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Gundam Gaiden 3",
     "details": [
-      "Sega Saturn exclusive"
+      "Sega Saturn exclusive",
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4"
     ],
-    "id": "ssat22",
+    "id": "ssat29",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -535,15 +711,27 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Gungriffon",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat23",
+    "id": "ssat30",
     "igdbId": 46054,
     "gbId": 7104,
     "gbGuid": "3030-7104",
@@ -566,7 +754,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat24",
+    "id": "ssat31",
     "igdbId": 46098,
     "gbId": 7503,
     "gbGuid": "3030-7503",
@@ -585,11 +773,36 @@
     "special": []
   },
   {
+    "name": "Hansha de Spark!",
+    "id": "ssat32",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 98122,
+    "gbId": 66690,
+    "gbGuid": "3030-66690",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "High Velocity: Mountain Racing Challenge",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat25",
+    "id": "ssat33",
     "igdbId": 45519,
     "gbId": 34248,
     "gbGuid": "3030-34248",
@@ -608,11 +821,36 @@
     "special": []
   },
   {
+    "name": "Hyper 3D Pinball",
+    "id": "ssat34",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 45489,
+    "gbId": 9104,
+    "gbGuid": "3030-9104",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Iron Storm",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat26",
+    "id": "ssat35",
     "igdbId": 8929,
     "gbId": 6756,
     "gbGuid": "3030-6756",
@@ -631,11 +869,36 @@
     "special": []
   },
   {
+    "name": "Keriotosse!",
+    "id": "ssat36",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 58728,
+    "gbId": 53224,
+    "gbGuid": "3030-53224",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Linkle Liver Story",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat27",
+    "id": "ssat37",
     "igdbId": 94005,
     "gbId": 23457,
     "gbGuid": "3030-23457",
@@ -658,7 +921,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat28",
+    "id": "ssat38",
     "igdbId": 71493,
     "gbId": 3997,
     "gbGuid": "3030-3997",
@@ -677,11 +940,61 @@
     "special": []
   },
   {
+    "name": "Madden NFL 97",
+    "id": "ssat39",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
+    "igdbId": 4589,
+    "gbId": 6279,
+    "gbGuid": "3030-6279",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Madden NFL 98",
+    "id": "ssat40",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
+    "igdbId": 4590,
+    "gbId": 8679,
+    "gbGuid": "3030-8679",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Magic Knight Rayearth",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat29",
+    "id": "ssat41",
     "igdbId": 105043,
     "gbId": 19038,
     "gbGuid": "3030-19038",
@@ -704,7 +1017,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat30",
+    "id": "ssat42",
     "igdbId": 38231,
     "gbId": 17102,
     "gbGuid": "3030-17102",
@@ -727,7 +1040,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat31",
+    "id": "ssat43",
     "igdbId": 25804,
     "gbId": 13186,
     "gbGuid": "3030-13186",
@@ -750,7 +1063,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat32",
+    "id": "ssat44",
     "igdbId": 45513,
     "gbId": 709,
     "gbGuid": "3030-709",
@@ -769,11 +1082,137 @@
     "special": []
   },
   {
+    "name": "NBA Action 98",
+    "id": "ssat45",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 10 players"
+    ],
+    "igdbId": 45486,
+    "gbId": 16087,
+    "gbGuid": "3030-16087",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 10 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NBA Jam Extreme",
+    "id": "ssat46",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 40205,
+    "gbId": 2725,
+    "gbGuid": "3030-2725",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NBA Jam Tournament Edition",
+    "id": "ssat47",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 19712,
+    "gbId": 14792,
+    "gbGuid": "3030-14792",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NBA Live 97",
+    "id": "ssat48",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 10 players"
+    ],
+    "igdbId": 20134,
+    "gbId": 1356,
+    "gbGuid": "3030-1356",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 10 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NBA Live 98",
+    "id": "ssat49",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
+    "igdbId": 26013,
+    "gbId": 15170,
+    "gbGuid": "3030-15170",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "NFL '97",
     "details": [
-      "Sega Saturn exclusive"
+      "Sega Saturn exclusive",
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
     ],
-    "id": "ssat33",
+    "id": "ssat50",
     "igdbId": 45485,
     "gbId": 53218,
     "gbGuid": "3030-53218",
@@ -788,15 +1227,177 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NFL '98",
+    "id": "ssat51",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
+    "igdbId": 126091,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NFL Quarterback Club 96",
+    "id": "ssat52",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players"
+    ],
+    "igdbId": 25080,
+    "gbId": 11504,
+    "gbGuid": "3030-11504",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NFL Quarterback Club 97",
+    "id": "ssat53",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players"
+    ],
+    "igdbId": 20258,
+    "gbId": 9596,
+    "gbGuid": "3030-9596",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NHL 98",
+    "id": "ssat54",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
+    "igdbId": 818,
+    "gbId": 18845,
+    "gbGuid": "3030-18845",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NHL All-Star Hockey",
+    "id": "ssat55",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players"
+    ],
+    "igdbId": 19732,
+    "gbId": 2488,
+    "gbGuid": "3030-2488",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NHL Powerplay '96",
+    "id": "ssat56",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
+    ],
+    "igdbId": 45122,
+    "gbId": 7575,
+    "gbGuid": "3030-7575",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Nanatsu Kaze No Shima Monogatari",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat34",
+    "id": "ssat57",
     "igdbId": 18493,
     "gbId": 21771,
     "gbGuid": "3030-21771",
@@ -815,8 +1416,58 @@
     "special": []
   },
   {
+    "name": "Olympic Soccer",
+    "id": "ssat58",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 4292,
+    "gbId": 22204,
+    "gbGuid": "3030-22204",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "PGA Tour 97",
+    "id": "ssat59",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 45484,
+    "gbId": 22799,
+    "gbGuid": "3030-22799",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Panzer Dragoon",
-    "id": "ssat35",
+    "id": "ssat60",
     "details": [
       "Sega Saturn launch title"
     ],
@@ -842,7 +1493,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat36",
+    "id": "ssat61",
     "igdbId": 1671,
     "gbId": 3692,
     "gbGuid": "3030-3692",
@@ -862,9 +1513,10 @@
   },
   {
     "name": "Pebble Beach Golf Links",
-    "id": "ssat37",
+    "id": "ssat62",
     "details": [
-      "Sega Saturn launch title"
+      "Sega Saturn launch title",
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
     ],
     "igdbId": 4273,
     "gbId": 3325,
@@ -880,15 +1532,52 @@
         "tgdbId": 17
       }
     ],
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false
+  },
+  {
+    "name": "PowerSlave",
+    "id": "ssat63",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players (contains Death Tank)"
+    ],
+    "igdbId": 8338,
+    "gbId": 9553,
+    "gbGuid": "3030-9553",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players (contains Death Tank)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
     "isExclusive": false,
-    "special": []
+    "isLaunchTitle": false
   },
   {
     "name": "Princess Quest",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat38",
+    "id": "ssat64",
     "igdbId": 77600,
     "gbId": 62710,
     "gbGuid": "3030-62710",
@@ -907,11 +1596,36 @@
     "special": []
   },
   {
+    "name": "Pro Pinball: The Web",
+    "id": "ssat65",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 18333,
+    "gbId": 5661,
+    "gbGuid": "3030-5661",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Robotica",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat39",
+    "id": "ssat66",
     "igdbId": 19744,
     "gbId": 23289,
     "gbGuid": "3030-23289",
@@ -932,9 +1646,10 @@
   {
     "name": "Saturn Bomberman",
     "details": [
-      "Sega Saturn exclusive"
+      "Sega Saturn exclusive",
+      "Sega Saturn Multiplayer Adapter compatible title– 1 to 10 players"
     ],
-    "id": "ssat40",
+    "id": "ssat67",
     "igdbId": 28393,
     "gbId": 17854,
     "gbGuid": "3030-17854",
@@ -949,15 +1664,27 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title– 1 to 10 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Saturn Bomberman Fight!!",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat41",
+    "id": "ssat68",
     "igdbId": 66221,
     "gbId": 33442,
     "gbGuid": "3030-33442",
@@ -980,7 +1707,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat42",
+    "id": "ssat69",
     "igdbId": 45483,
     "gbId": 11835,
     "gbGuid": "3030-11835",
@@ -999,11 +1726,61 @@
     "special": []
   },
   {
+    "name": "Sega Worldwide Soccer '97",
+    "id": "ssat70",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 45498,
+    "gbId": 18030,
+    "gbGuid": "3030-18030",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Sega Worldwide Soccer '98",
+    "id": "ssat71",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 45468,
+    "gbId": 4404,
+    "gbGuid": "3030-4404",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Shining Force III",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat43",
+    "id": "ssat72",
     "igdbId": 28396,
     "gbId": 8306,
     "gbGuid": "3030-8306",
@@ -1026,7 +1803,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat44",
+    "id": "ssat73",
     "igdbId": 46059,
     "gbId": 20150,
     "gbGuid": "3030-20150",
@@ -1049,7 +1826,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat45",
+    "id": "ssat74",
     "igdbId": 46063,
     "gbId": 16913,
     "gbGuid": "3030-16913",
@@ -1072,7 +1849,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat46",
+    "id": "ssat75",
     "igdbId": 10221,
     "gbId": 12895,
     "gbGuid": "3030-12895",
@@ -1095,7 +1872,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat47",
+    "id": "ssat76",
     "igdbId": 45456,
     "gbId": 16726,
     "gbGuid": "3030-16726",
@@ -1114,11 +1891,86 @@
     "special": []
   },
   {
+    "name": "Slam 'n Jam '96 Featuring Magic & Kareem",
+    "id": "ssat77",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 44904,
+    "gbId": 4337,
+    "gbGuid": "3030-4337",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Space Jam",
+    "id": "ssat78",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
+    ],
+    "igdbId": 46096,
+    "gbId": 18341,
+    "gbGuid": "3030-18341",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Striker '96",
+    "id": "ssat79",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 22675,
+    "gbId": 6753,
+    "gbGuid": "3030-6753",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Super Tempo",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat48",
+    "id": "ssat80",
     "igdbId": 46050,
     "gbId": 29099,
     "gbGuid": "3030-29099",
@@ -1141,7 +1993,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat49",
+    "id": "ssat81",
     "igdbId": 22504,
     "gbId": 22635,
     "gbGuid": "3030-22635",
@@ -1160,8 +2012,83 @@
     "special": []
   },
   {
+    "name": "Three Dirty Dwarves",
+    "id": "ssat82",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 3 players"
+    ],
+    "igdbId": 45480,
+    "gbId": 5201,
+    "gbGuid": "3030-5201",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 3 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "True Pinball",
+    "id": "ssat83",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
+    "igdbId": 9131,
+    "gbId": 16591,
+    "gbGuid": "3030-16591",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Valora Valley Golf",
+    "id": "ssat84",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 45467,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Virtua Fighter",
-    "id": "ssat50",
+    "id": "ssat85",
     "details": [
       "Sega Saturn launch title"
     ],
@@ -1187,7 +2114,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat51",
+    "id": "ssat86",
     "igdbId": 19738,
     "gbId": 4083,
     "gbGuid": "3030-4083",
@@ -1208,9 +2135,10 @@
   {
     "name": "Virtual Open Tennis",
     "details": [
-      "Sega Saturn exclusive"
+      "Sega Saturn exclusive",
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
     ],
-    "id": "ssat52",
+    "id": "ssat87",
     "igdbId": 45477,
     "gbId": 16599,
     "gbGuid": "3030-16599",
@@ -1225,15 +2153,27 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Virtual Volleyball",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat53",
+    "id": "ssat88",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1256,7 +2196,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat54",
+    "id": "ssat89",
     "igdbId": 102439,
     "gbId": 5933,
     "gbGuid": "3030-5933",
@@ -1275,11 +2215,36 @@
     "special": []
   },
   {
+    "name": "WWF In Your House",
+    "id": "ssat90",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 23238,
+    "gbId": 7485,
+    "gbGuid": "3030-7485",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Wachenröder",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat55",
+    "id": "ssat91",
     "igdbId": 93007,
     "gbId": 14295,
     "gbGuid": "3030-14295",
@@ -1302,7 +2267,7 @@
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat56",
+    "id": "ssat92",
     "igdbId": 19720,
     "gbId": 4075,
     "gbGuid": "3030-4075",
@@ -1321,11 +2286,36 @@
     "special": []
   },
   {
+    "name": "Winter Heat",
+    "id": "ssat93",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "igdbId": 45476,
+    "gbId": 13059,
+    "gbGuid": "3030-13059",
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "World Series Baseball II",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat57",
+    "id": "ssat94",
     "igdbId": 45511,
     "gbId": 33005,
     "gbGuid": "3030-33005",
@@ -1345,10 +2335,11 @@
   },
   {
     "name": "Worldwide Soccer: Sega International Victory Goal Edition",
-    "id": "ssat58",
+    "id": "ssat95",
     "details": [
       "Sega Saturn launch title",
-      "Sega Saturn exclusive"
+      "Sega Saturn exclusive",
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
     ],
     "igdbId": 19755,
     "gbId": 19794,
@@ -1374,6 +2365,18 @@
         "tgdbId": 17
       }
     ],
-    "special": []
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ]
   }
 ]
