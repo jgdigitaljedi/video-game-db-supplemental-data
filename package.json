@@ -17,7 +17,8 @@
     "console:list": "node scripts/utility/makeConsoleSpecificListImproved.js",
     "fix:details": "node scripts/utility/fixDetails.js",
     "fix:missing": "node scripts/utility/findEntriesMissingAll.js",
-    "fix:numbered": "node scripts/utility/cleanNumberedList.js"
+    "fix:numbered": "node scripts/utility/cleanNumberedList.js",
+    "fix:dump": "node scripts/utility/formatStringDump.js"
   },
   "repository": {
     "type": "git",

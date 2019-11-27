@@ -600,5 +600,23 @@
     "filePath": "../textFilesToBeConverted/launchTitles/magnavoxOdyssey2LaunchTitles.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "NES Four Score compatible titles",
+    "filePath": "../textFilesToBeConverted/multiplayer/nesFourScore.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "SNES Super Multitap compatible titles",
+    "filePath": "../textFilesToBeConverted/multiplayer/snesSuperMultitap.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "TurboGrafx-16 Multitap compatible titles",
+    "filePath": "../textFilesToBeConverted/multiplayer/tg16Multitap.json",
+    "type": "Game",
+    "complete": false
   }
 ]

@@ -64,6 +64,12 @@ I simply chose a prefix for each list then slap a number on the end to different
 - rleX - PS3 Region Lock Exceptions (ps3RegionLockExceptions.json) | GAMES LIST
 - rfpX - region free consoles/platforms (regionFreePlatforms.json) | CONSOLE/PLATFORM LIST
 
+### Multiplayer related
+
+- nesfsX - NES Four Score compatible games (nesFourScore.json) | GAMES LIST
+- snessmX - SNES Super Multitap compatible games (snesSuperMultitap.json) | GAMES LIST
+- tg16mtX - TurboGrafx-16 Multitap compatible games (tg16Multitap.json) | GAMES LIST
+
 ### Special/Misc
 
 - biX - games banned in various countries (bannedInternationally.json) | GAMES LIST
