@@ -10,24 +10,24 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/segaSaturnLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/genesisLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/segaSaturnExclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/segaGenesisExclusives.json'
   },
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/special/playstationLongboxGames.json'
-  // },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/multiplayer/saturnMultiplayerAdapter.json'
+    path: '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/multiplayer/segaTeamPlayer.json'
   }
 ];
-const mlId = 'ccl17';
-const outPath = '../../finalOutput/consoleLists/SegaSaturn.json';
-const idPrefix = 'ssat';
+const mlId = 'ccl14';
+const outPath = '../../finalOutput/consoleLists/SegaGenesis.json';
+const idPrefix = 'smd';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
@@ -48,7 +48,7 @@ function otherFields(list, item, master, platformData) {
   }
 }
 
-(async function () {
+(async function() {
   const final = [];
   const masterList = await fileUtil.readFile('../../server/static/consoleMasterList.json');
   const platformData = JSON.parse(masterList).filter(item => item.id === mlId)[0];
@@ -121,7 +121,7 @@ function otherFields(list, item, master, platformData) {
     console.log(
       chalk.red.bold(
         `YOU HAVE SOME DUPLICATES TO LOOK AT MANUALLY! The arrays had a difference of ${
-        diff.length
+          diff.length
         } item(s) : ${JSON.stringify(diff)}`
       )
     );

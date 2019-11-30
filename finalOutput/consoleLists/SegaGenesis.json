@@ -26,7 +26,32 @@
     "isLaunchTitle": false
   },
   {
+    "name": "ATP Tour Championship Tennis",
     "id": "smd1",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 46234,
+    "gbId": 5332,
+    "gbGuid": "3030-5332",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "smd2",
     "name": "After Burner II",
     "igdbId": 5352,
     "gbId": 2139,
@@ -56,7 +81,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd2",
+    "id": "smd3",
     "igdbId": 5354,
     "gbId": 11812,
     "gbGuid": "3030-11812",
@@ -76,7 +101,7 @@
   },
   {
     "name": "Alex Kidd in the Enchanted Castle",
-    "id": "smd3",
+    "id": "smd4",
     "details": [
       "Genesis launch title",
       "Sega Genesis/Mega Drive black box grid game"
@@ -111,7 +136,7 @@
     "isExclusive": false
   },
   {
-    "id": "smd4",
+    "id": "smd5",
     "name": "Alien Storm",
     "igdbId": 9969,
     "gbId": 2596,
@@ -142,7 +167,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd5",
+    "id": "smd6",
     "igdbId": 19508,
     "gbId": 9988,
     "gbGuid": "3030-9988",
@@ -174,7 +199,7 @@
   },
   {
     "name": "Altered Beast",
-    "id": "smd6",
+    "id": "smd7",
     "details": [
       "Genesis launch title",
       "Sega Genesis/Mega Drive black box grid game"
@@ -214,7 +239,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd7",
+    "id": "smd8",
     "igdbId": 12869,
     "gbId": 2762,
     "gbGuid": "3030-2762",
@@ -249,7 +274,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd8",
+    "id": "smd9",
     "igdbId": 46522,
     "gbId": 12266,
     "gbGuid": "3030-12266",
@@ -272,7 +297,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd9",
+    "id": "smd10",
     "igdbId": 46288,
     "gbId": 782,
     "gbGuid": "3030-782",
@@ -295,7 +320,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd10",
+    "id": "smd11",
     "igdbId": 19781,
     "gbId": 19247,
     "gbGuid": "3030-19247",
@@ -318,7 +343,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd11",
+    "id": "smd12",
     "igdbId": 45756,
     "gbId": 13028,
     "gbGuid": "3030-13028",
@@ -341,7 +366,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd12",
+    "id": "smd13",
     "igdbId": 46240,
     "gbId": 17584,
     "gbGuid": "3030-17584",
@@ -360,7 +385,7 @@
     "special": []
   },
   {
-    "id": "smd13",
+    "id": "smd14",
     "name": "Ayrton Senna's Super Monaco GP II",
     "igdbId": 27077,
     "gbId": 8935,
@@ -390,7 +415,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd14",
+    "id": "smd15",
     "igdbId": 45759,
     "gbId": 22748,
     "gbGuid": "3030-22748",
@@ -411,9 +436,10 @@
   {
     "name": "Barkley Shut Up and Jam! 2",
     "details": [
-      "Sega Genesis exclusive"
+      "Sega Genesis exclusive",
+      "Sega Genesis Team Player compatible title"
     ],
-    "id": "smd15",
+    "id": "smd16",
     "igdbId": 4524,
     "gbId": 68531,
     "gbGuid": "3030-68531",
@@ -428,15 +454,52 @@
         "tgdbId": 18
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Barkley: Shut Up and Jam!",
+    "id": "smd17",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 4520,
+    "gbId": 11891,
+    "gbGuid": "3030-11891",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Barney's Hide & Seek Game",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd16",
+    "id": "smd18",
     "igdbId": 46286,
     "gbId": 1587,
     "gbGuid": "3030-1587",
@@ -459,7 +522,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd17",
+    "id": "smd19",
     "igdbId": 10510,
     "gbId": 21264,
     "gbGuid": "3030-21264",
@@ -478,7 +541,7 @@
     "special": []
   },
   {
-    "id": "smd18",
+    "id": "smd20",
     "name": "Batman Returns",
     "igdbId": 4379,
     "gbId": 9710,
@@ -508,7 +571,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd19",
+    "id": "smd21",
     "igdbId": 4470,
     "gbId": 33328,
     "gbGuid": "3030-33328",
@@ -531,7 +594,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd20",
+    "id": "smd22",
     "igdbId": 45734,
     "gbId": null,
     "gbGuid": null,
@@ -554,7 +617,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd21",
+    "id": "smd23",
     "igdbId": 46239,
     "gbId": 1926,
     "gbGuid": "3030-1926",
@@ -577,7 +640,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd22",
+    "id": "smd24",
     "igdbId": 5364,
     "gbId": 4199,
     "gbGuid": "3030-4199",
@@ -600,7 +663,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd23",
+    "id": "smd25",
     "igdbId": 4436,
     "gbId": 5826,
     "gbGuid": "3030-5826",
@@ -619,7 +682,7 @@
     "special": []
   },
   {
-    "id": "smd24",
+    "id": "smd26",
     "name": "Bio-Hazard Battle",
     "igdbId": 4517,
     "gbId": 15244,
@@ -649,7 +712,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd25",
+    "id": "smd27",
     "igdbId": 45565,
     "gbId": 16733,
     "gbGuid": "3030-16733",
@@ -672,7 +735,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd26",
+    "id": "smd28",
     "igdbId": 46238,
     "gbId": 9851,
     "gbGuid": "3030-9851",
@@ -695,7 +758,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd27",
+    "id": "smd29",
     "igdbId": 45761,
     "gbId": 10171,
     "gbGuid": "3030-10171",
@@ -714,7 +777,7 @@
     "special": []
   },
   {
-    "id": "smd28",
+    "id": "smd30",
     "name": "Bonanza Bros.",
     "igdbId": 4511,
     "gbId": 14087,
@@ -744,7 +807,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd29",
+    "id": "smd31",
     "igdbId": 46067,
     "gbId": null,
     "gbGuid": null,
@@ -763,7 +826,7 @@
     "special": []
   },
   {
-    "id": "smd30",
+    "id": "smd32",
     "name": "California Games",
     "igdbId": 11984,
     "gbId": 3193,
@@ -789,7 +852,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd31",
+    "id": "smd33",
     "name": "Castle of Illusion Starring Mickey Mouse",
     "igdbId": 8122,
     "gbId": 9513,
@@ -815,7 +878,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd32",
+    "id": "smd34",
     "name": "Chakan: The Forever Man",
     "igdbId": 18091,
     "gbId": 11805,
@@ -845,7 +908,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd33",
+    "id": "smd35",
     "igdbId": 4442,
     "gbId": null,
     "gbGuid": null,
@@ -868,7 +931,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd34",
+    "id": "smd36",
     "igdbId": 45733,
     "gbId": 42607,
     "gbGuid": "3030-42607",
@@ -891,7 +954,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd35",
+    "id": "smd37",
     "igdbId": 46226,
     "gbId": 17594,
     "gbGuid": "3030-17594",
@@ -914,7 +977,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd36",
+    "id": "smd38",
     "igdbId": 56697,
     "gbId": 58346,
     "gbGuid": "3030-58346",
@@ -937,7 +1000,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd37",
+    "id": "smd39",
     "igdbId": 46536,
     "gbId": 31925,
     "gbGuid": "3030-31925",
@@ -958,9 +1021,10 @@
   {
     "name": "College Football's National Championship",
     "details": [
-      "Sega Genesis exclusive"
+      "Sega Genesis exclusive",
+      "Sega Genesis Team Player compatible title"
     ],
-    "id": "smd38",
+    "id": "smd40",
     "igdbId": 4386,
     "gbId": 5755,
     "gbGuid": "3030-5755",
@@ -975,15 +1039,28 @@
         "tgdbId": 18
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "College Football's National Championship II",
     "details": [
-      "Sega Genesis exclusive"
+      "Sega Genesis exclusive",
+      "Sega Genesis Team Player compatible title"
     ],
-    "id": "smd39",
+    "id": "smd41",
     "igdbId": 46535,
     "gbId": 43820,
     "gbGuid": "3030-43820",
@@ -998,11 +1075,48 @@
         "tgdbId": 18
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
-    "id": "smd40",
+    "name": "College Slam",
+    "id": "smd42",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 4541,
+    "gbId": 125,
+    "gbGuid": "3030-125",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "smd43",
     "name": "Columns",
     "igdbId": 4446,
     "gbId": 5487,
@@ -1028,11 +1142,36 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Columns III",
+    "id": "smd44",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 14971,
+    "gbId": 15020,
+    "gbGuid": "3030-15020",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Combat Cars",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd41",
+    "id": "smd45",
     "igdbId": 4537,
     "gbId": 11952,
     "gbGuid": "3030-11952",
@@ -1055,7 +1194,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd42",
+    "id": "smd46",
     "igdbId": 4552,
     "gbId": 7763,
     "gbGuid": "3030-7763",
@@ -1078,7 +1217,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd43",
+    "id": "smd47",
     "igdbId": 46278,
     "gbId": 5753,
     "gbGuid": "3030-5753",
@@ -1101,7 +1240,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd44",
+    "id": "smd48",
     "igdbId": 11281,
     "gbId": 5941,
     "gbGuid": "3030-5941",
@@ -1124,7 +1263,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd45",
+    "id": "smd49",
     "igdbId": 4448,
     "gbId": 41031,
     "gbGuid": "3030-41031",
@@ -1147,7 +1286,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd46",
+    "id": "smd50",
     "igdbId": 45732,
     "gbId": 13961,
     "gbGuid": "3030-13961",
@@ -1166,7 +1305,7 @@
     "special": []
   },
   {
-    "id": "smd47",
+    "id": "smd51",
     "name": "Cyberball",
     "igdbId": 12022,
     "gbId": 8655,
@@ -1197,7 +1336,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd48",
+    "id": "smd52",
     "igdbId": 46236,
     "gbId": 3743,
     "gbGuid": "3030-3743",
@@ -1232,7 +1371,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd49",
+    "id": "smd53",
     "igdbId": 46185,
     "gbId": 10754,
     "gbGuid": "3030-10754",
@@ -1255,7 +1394,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd50",
+    "id": "smd54",
     "igdbId": 46247,
     "gbId": 14231,
     "gbGuid": "3030-14231",
@@ -1274,7 +1413,7 @@
     "special": []
   },
   {
-    "id": "smd51",
+    "id": "smd55",
     "name": "David Crane's Amazing Tennis",
     "igdbId": 46534,
     "gbId": 22384,
@@ -1305,7 +1444,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd52",
+    "id": "smd56",
     "igdbId": 46533,
     "gbId": 22046,
     "gbGuid": "3030-22046",
@@ -1336,7 +1475,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd53",
+    "id": "smd57",
     "name": "Death Duel",
     "igdbId": 46224,
     "gbId": 5003,
@@ -1362,7 +1501,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd54",
+    "id": "smd58",
     "name": "Decap Attack",
     "igdbId": 6067,
     "gbId": 5596,
@@ -1392,7 +1531,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd55",
+    "id": "smd59",
     "igdbId": 4518,
     "gbId": 15084,
     "gbGuid": "3030-15084",
@@ -1411,7 +1550,7 @@
     "special": []
   },
   {
-    "id": "smd56",
+    "id": "smd60",
     "name": "Dick Tracy",
     "igdbId": 13058,
     "gbId": 40441,
@@ -1437,7 +1576,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd57",
+    "id": "smd61",
     "name": "Disney's Ariel: The Little Mermaid",
     "igdbId": 45628,
     "gbId": 6251,
@@ -1467,7 +1606,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd58",
+    "id": "smd62",
     "igdbId": 4505,
     "gbId": 43843,
     "gbGuid": "3030-43843",
@@ -1490,7 +1629,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd59",
+    "id": "smd63",
     "igdbId": 45710,
     "gbId": 36029,
     "gbGuid": "3030-36029",
@@ -1511,9 +1650,10 @@
   {
     "name": "Double Dribble: The Playoff Edition",
     "details": [
-      "Sega Genesis exclusive"
+      "Sega Genesis exclusive",
+      "Sega Genesis Team Player compatible title"
     ],
-    "id": "smd60",
+    "id": "smd64",
     "igdbId": 4433,
     "gbId": 2749,
     "gbGuid": "3030-2749",
@@ -1528,15 +1668,27 @@
         "tgdbId": 18
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Dragon Ball Z: Buyuu Retsuden",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd61",
+    "id": "smd65",
     "igdbId": 45758,
     "gbId": 9785,
     "gbGuid": "3030-9785",
@@ -1559,7 +1711,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd62",
+    "id": "smd66",
     "igdbId": 46219,
     "gbId": 19853,
     "gbGuid": "3030-19853",
@@ -1578,12 +1730,37 @@
     "special": []
   },
   {
+    "name": "Dragon: The Bruce Lee Story",
+    "id": "smd67",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 18617,
+    "gbId": 11980,
+    "gbGuid": "3030-11980",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Dungeons & Dragons: Warriors of the Eternal Sun",
     "details": [
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd63",
+    "id": "smd68",
     "igdbId": 4486,
     "gbId": 314,
     "gbGuid": "3030-314",
@@ -1614,7 +1791,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd64",
+    "id": "smd69",
     "name": "Dynamite Duke",
     "igdbId": null,
     "gbId": 3504,
@@ -1640,7 +1817,32 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd65",
+    "name": "ESPN National Hockey Night",
+    "id": "smd70",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 5381,
+    "gbId": 30852,
+    "gbGuid": "3030-30852",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "smd71",
     "name": "ESWAT: City Under Siege",
     "igdbId": 6670,
     "gbId": 29056,
@@ -1670,7 +1872,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd66",
+    "id": "smd72",
     "igdbId": null,
     "gbId": 58066,
     "gbGuid": "3030-58066",
@@ -1689,7 +1891,7 @@
     "special": []
   },
   {
-    "id": "smd67",
+    "id": "smd73",
     "name": "Ecco the Dolphin",
     "igdbId": 5378,
     "gbId": 9286,
@@ -1719,7 +1921,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd68",
+    "id": "smd74",
     "igdbId": 81222,
     "gbId": 20401,
     "gbGuid": "3030-20401",
@@ -1742,7 +1944,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd69",
+    "id": "smd75",
     "igdbId": 46218,
     "gbId": 12664,
     "gbGuid": "3030-12664",
@@ -1765,7 +1967,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd70",
+    "id": "smd76",
     "igdbId": 46176,
     "gbId": 34393,
     "gbGuid": "3030-34393",
@@ -1786,9 +1988,15 @@
   {
     "name": "European Club Soccer",
     "details": [
-      "Sega Genesis exclusive"
+      "Sega Genesis exclusive",
+      "Sega Genesis Team Player compatible title",
+      "Sega Genesis Team Player compatible title",
+      "Sega Genesis Team Player compatible title",
+      "Sega Genesis Team Player 8 Player Demo (requires two Teamplayers, one in each port)",
+      "Sega Genesis Team Player compatible title",
+      "Sega Genesis Team Player compatible title"
     ],
-    "id": "smd71",
+    "id": "smd77",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1803,11 +2011,67 @@
         "tgdbId": 18
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      },
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      },
+      {
+        "value": "Sega Genesis Team Player compatible title, Sega Genesis Team Player 8 Player Demo (requires two Teamplayers, one in each port)",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      },
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      },
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
-    "id": "smd72",
+    "id": "smd78",
     "name": "Evander Holyfield's 'Real Deal' Boxing",
     "igdbId": 45557,
     "gbId": 1260,
@@ -1833,7 +2097,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd73",
+    "id": "smd79",
     "name": "Ex-Mutants",
     "igdbId": 36738,
     "gbId": 17597,
@@ -1863,7 +2127,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd74",
+    "id": "smd80",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1886,7 +2150,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd75",
+    "id": "smd81",
     "igdbId": 45719,
     "gbId": 12106,
     "gbGuid": "3030-12106",
@@ -1909,7 +2173,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd76",
+    "id": "smd82",
     "igdbId": 46216,
     "gbId": 33105,
     "gbGuid": "3030-33105",
@@ -1932,7 +2196,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd77",
+    "id": "smd83",
     "igdbId": 19494,
     "gbId": 17702,
     "gbGuid": "3030-17702",
@@ -1955,7 +2219,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd78",
+    "id": "smd84",
     "igdbId": 4539,
     "gbId": 12888,
     "gbGuid": "3030-12888",
@@ -1979,7 +2243,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd79",
+    "id": "smd85",
     "igdbId": 45587,
     "gbId": 20273,
     "gbGuid": "3030-20273",
@@ -2014,7 +2278,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd80",
+    "id": "smd86",
     "igdbId": null,
     "gbId": 74677,
     "gbGuid": "3030-74677",
@@ -2033,7 +2297,7 @@
     "special": []
   },
   {
-    "id": "smd81",
+    "id": "smd87",
     "name": "Fatal Labyrinth",
     "igdbId": 4496,
     "gbId": 6380,
@@ -2063,7 +2327,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd82",
+    "id": "smd88",
     "igdbId": 46215,
     "gbId": 10105,
     "gbGuid": "3030-10105",
@@ -2082,7 +2346,7 @@
     "special": []
   },
   {
-    "id": "smd83",
+    "id": "smd89",
     "name": "Flicky",
     "igdbId": 6105,
     "gbId": 12914,
@@ -2108,7 +2372,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd84",
+    "id": "smd90",
     "name": "Forgotten Worlds",
     "igdbId": 6794,
     "gbId": 14220,
@@ -2138,7 +2402,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd85",
+    "id": "smd91",
     "igdbId": 48490,
     "gbId": null,
     "gbGuid": null,
@@ -2157,7 +2421,7 @@
     "special": []
   },
   {
-    "id": "smd86",
+    "id": "smd92",
     "name": "G-LOC Air Battle",
     "igdbId": 4464,
     "gbId": 13742,
@@ -2187,7 +2451,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd87",
+    "id": "smd93",
     "igdbId": 93373,
     "gbId": 4900,
     "gbGuid": "3030-4900",
@@ -2206,7 +2470,7 @@
     "special": []
   },
   {
-    "id": "smd88",
+    "id": "smd94",
     "name": "Galaxy Force II",
     "igdbId": 6799,
     "gbId": 8320,
@@ -2236,7 +2500,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd89",
+    "id": "smd95",
     "igdbId": 4530,
     "gbId": 352,
     "gbGuid": "3030-352",
@@ -2255,7 +2519,7 @@
     "special": []
   },
   {
-    "id": "smd90",
+    "id": "smd96",
     "name": "Garry Kitchen's Super Battletank: War in the Gulf",
     "igdbId": 46681,
     "gbId": 8036,
@@ -2281,11 +2545,36 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Gauntlet IV",
+    "id": "smd97",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 46214,
+    "gbId": 1206,
+    "gbGuid": "3030-1206",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "General Chaos",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd91",
+    "id": "smd98",
     "igdbId": 10149,
     "gbId": 2267,
     "gbGuid": "3030-2267",
@@ -2308,7 +2597,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd92",
+    "id": "smd99",
     "igdbId": 19784,
     "gbId": 3780,
     "gbGuid": "3030-3780",
@@ -2332,7 +2621,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd93",
+    "id": "smd100",
     "igdbId": 4534,
     "gbId": 21416,
     "gbGuid": "3030-21416",
@@ -2364,7 +2653,7 @@
   },
   {
     "name": "Ghouls 'n Ghosts",
-    "id": "smd94",
+    "id": "smd101",
     "details": [
       "Genesis launch title",
       "Sega Genesis/Mega Drive black box grid game"
@@ -2399,7 +2688,7 @@
     "isExclusive": false
   },
   {
-    "id": "smd95",
+    "id": "smd102",
     "name": "Golden Axe",
     "igdbId": 5565,
     "gbId": 14351,
@@ -2425,7 +2714,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd96",
+    "id": "smd103",
     "name": "Golden Axe II",
     "igdbId": 16214,
     "gbId": 5402,
@@ -2455,7 +2744,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd97",
+    "id": "smd104",
     "igdbId": 46210,
     "gbId": 30917,
     "gbGuid": "3030-30917",
@@ -2478,7 +2767,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd98",
+    "id": "smd105",
     "igdbId": 45783,
     "gbId": 7349,
     "gbGuid": "3030-7349",
@@ -2497,7 +2786,7 @@
     "special": []
   },
   {
-    "id": "smd99",
+    "id": "smd106",
     "name": "Greendog: The Beached Surfer Dude!",
     "igdbId": 45792,
     "gbId": 11123,
@@ -2523,12 +2812,37 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Head-On Soccer",
+    "id": "smd107",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 19758,
+    "gbId": 12463,
+    "gbGuid": "3030-12463",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Herzog Zwei",
     "details": [
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd100",
+    "id": "smd108",
     "igdbId": 24073,
     "gbId": 11439,
     "gbGuid": "3030-11439",
@@ -2559,7 +2873,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd101",
+    "id": "smd109",
     "name": "Home Alone",
     "igdbId": 4523,
     "gbId": 50880,
@@ -2589,7 +2903,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd102",
+    "id": "smd110",
     "igdbId": 14502,
     "gbId": 7239,
     "gbGuid": "3030-7239",
@@ -2612,7 +2926,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd103",
+    "id": "smd111",
     "igdbId": 46207,
     "gbId": 20352,
     "gbGuid": "3030-20352",
@@ -2635,7 +2949,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd104",
+    "id": "smd112",
     "igdbId": 73006,
     "gbId": 21504,
     "gbGuid": "3030-21504",
@@ -2654,7 +2968,132 @@
     "special": []
   },
   {
-    "id": "smd105",
+    "name": "International Superstar Soccer Deluxe",
+    "id": "smd113",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 9862,
+    "gbId": 7025,
+    "gbGuid": "3030-7025",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "J League Pro Striker 93",
+    "id": "smd114",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 46169,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "J. League Pro Striker 2",
+    "id": "smd115",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 45727,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "J. League Pro Striker Final Stage",
+    "id": "smd116",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 45726,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "J. League Pro Striker Perfect",
+    "id": "smd117",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 45725,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "smd118",
     "name": "James 'Buster' Douglas Knock Out Boxing",
     "igdbId": 46530,
     "gbId": 5261,
@@ -2684,7 +3123,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd106",
+    "id": "smd119",
     "igdbId": 46205,
     "gbId": 43138,
     "gbGuid": "3030-43138",
@@ -2703,7 +3142,7 @@
     "special": []
   },
   {
-    "id": "smd107",
+    "id": "smd120",
     "name": "Jerry Glanville's Pigskin Footbrawl",
     "igdbId": 46188,
     "gbId": null,
@@ -2734,7 +3173,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd108",
+    "id": "smd121",
     "igdbId": 4536,
     "gbId": 629,
     "gbGuid": "3030-629",
@@ -2765,7 +3204,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd109",
+    "id": "smd122",
     "name": "Joe Montana Football",
     "igdbId": 5396,
     "gbId": 1700,
@@ -2791,7 +3230,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd110",
+    "id": "smd123",
     "name": "Joe Montana II: Sports Talk Football",
     "igdbId": 46274,
     "gbId": 29301,
@@ -2821,7 +3260,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd111",
+    "id": "smd124",
     "igdbId": 4588,
     "gbId": 17667,
     "gbGuid": "3030-17667",
@@ -2844,7 +3283,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd112",
+    "id": "smd125",
     "igdbId": 4519,
     "gbId": 73443,
     "gbGuid": "3030-73443",
@@ -2867,7 +3306,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd113",
+    "id": "smd126",
     "igdbId": 10678,
     "gbId": 21293,
     "gbGuid": "3030-21293",
@@ -2886,7 +3325,7 @@
     "special": []
   },
   {
-    "id": "smd114",
+    "id": "smd127",
     "name": "Kid Chameleon",
     "igdbId": 16035,
     "gbId": 11175,
@@ -2916,7 +3355,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd115",
+    "id": "smd128",
     "igdbId": 4480,
     "gbId": 40559,
     "gbGuid": "3030-40559",
@@ -2936,7 +3375,7 @@
   },
   {
     "name": "Last Battle",
-    "id": "smd116",
+    "id": "smd129",
     "details": [
       "Genesis launch title",
       "Sega Genesis/Mega Drive black box grid game"
@@ -2971,7 +3410,7 @@
     "isExclusive": false
   },
   {
-    "id": "smd117",
+    "id": "smd130",
     "name": "Lightening Force: Quest for the Darkstar",
     "igdbId": 46273,
     "gbId": 11627,
@@ -2997,7 +3436,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd118",
+    "id": "smd131",
     "name": "M-1 Abrams Battle Tank",
     "igdbId": 45775,
     "gbId": 18337,
@@ -3023,7 +3462,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd119",
+    "id": "smd132",
     "name": "MERCS",
     "igdbId": 4487,
     "gbId": 10360,
@@ -3053,7 +3492,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd120",
+    "id": "smd133",
     "igdbId": 7777,
     "gbId": 18248,
     "gbGuid": "3030-18248",
@@ -3076,7 +3515,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd121",
+    "id": "smd134",
     "igdbId": 45722,
     "gbId": 61158,
     "gbGuid": "3030-61158",
@@ -3099,7 +3538,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd122",
+    "id": "smd135",
     "igdbId": 20593,
     "gbId": 4770,
     "gbGuid": "3030-4770",
@@ -3118,7 +3557,7 @@
     "special": []
   },
   {
-    "id": "smd123",
+    "id": "smd136",
     "name": "Mario Lemieux Hockey",
     "igdbId": 4441,
     "gbId": 30095,
@@ -3148,7 +3587,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd124",
+    "id": "smd137",
     "igdbId": 18142,
     "gbId": 8567,
     "gbGuid": "3030-8567",
@@ -3171,7 +3610,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd125",
+    "id": "smd138",
     "igdbId": 36947,
     "gbId": 26959,
     "gbGuid": "3030-26959",
@@ -3194,7 +3633,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd126",
+    "id": "smd139",
     "igdbId": 36923,
     "gbId": 14905,
     "gbGuid": "3030-14905",
@@ -3213,11 +3652,36 @@
     "special": []
   },
   {
+    "name": "Mega Bomberman",
+    "id": "smd140",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 4513,
+    "gbId": 18127,
+    "gbGuid": "3030-18127",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Mega Man: The Wily Wars",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd127",
+    "id": "smd141",
     "igdbId": 1727,
     "gbId": 20206,
     "gbGuid": "3030-20206",
@@ -3236,7 +3700,7 @@
     "special": []
   },
   {
-    "id": "smd128",
+    "id": "smd142",
     "name": "Mega Twins",
     "igdbId": 12184,
     "gbId": 7238,
@@ -3266,7 +3730,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd129",
+    "id": "smd143",
     "igdbId": 45720,
     "gbId": 62610,
     "gbGuid": "3030-62610",
@@ -3285,7 +3749,7 @@
     "special": []
   },
   {
-    "id": "smd130",
+    "id": "smd144",
     "name": "Michael Jackson's Moonwalker",
     "igdbId": 18139,
     "gbId": 21182,
@@ -3311,7 +3775,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd131",
+    "id": "smd145",
     "name": "Midnight Resistance",
     "igdbId": 4401,
     "gbId": 7405,
@@ -3341,7 +3805,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd132",
+    "id": "smd146",
     "igdbId": 75974,
     "gbId": 27004,
     "gbGuid": "3030-27004",
@@ -3364,7 +3828,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd133",
+    "id": "smd147",
     "igdbId": 75980,
     "gbId": 21927,
     "gbGuid": "3030-21927",
@@ -3383,11 +3847,36 @@
     "special": []
   },
   {
+    "name": "Mortal Kombat 3",
+    "id": "smd148",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 1620,
+    "gbId": 1434,
+    "gbGuid": "3030-1434",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Mutant League Hockey",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd134",
+    "id": "smd149",
     "igdbId": 46253,
     "gbId": 8270,
     "gbGuid": "3030-8270",
@@ -3411,7 +3900,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd135",
+    "id": "smd150",
     "igdbId": 27989,
     "gbId": 3162,
     "gbGuid": "3030-3162",
@@ -3446,7 +3935,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd136",
+    "id": "smd151",
     "igdbId": 45772,
     "gbId": 39087,
     "gbGuid": "3030-39087",
@@ -3467,9 +3956,10 @@
   {
     "name": "NBA Action '95 Starring David Robinson",
     "details": [
-      "Sega Genesis exclusive"
+      "Sega Genesis exclusive",
+      "Sega Genesis Team Player compatible title"
     ],
-    "id": "smd137",
+    "id": "smd152",
     "igdbId": 4551,
     "gbId": 54372,
     "gbGuid": "3030-54372",
@@ -3484,15 +3974,177 @@
         "tgdbId": 18
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NBA Action 94'",
+    "id": "smd153",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 45552,
+    "gbId": 13784,
+    "gbGuid": "3030-13784",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NBA Hangtime",
+    "id": "smd154",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 3550,
+    "gbId": 10512,
+    "gbGuid": "3030-10512",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NBA Jam",
+    "id": "smd155",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 8995,
+    "gbId": 16928,
+    "gbGuid": "3030-16928",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NBA Jam Tournament Edition",
+    "id": "smd156",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 19712,
+    "gbId": 14792,
+    "gbGuid": "3030-14792",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NCAA Final Four Basketball",
+    "id": "smd157",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 4385,
+    "gbId": 52965,
+    "gbGuid": "3030-52965",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NCAA Football",
+    "id": "smd158",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 46680,
+    "gbId": 15972,
+    "gbGuid": "3030-15972",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "NFL Football '94 Starring Joe Montana",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd138",
+    "id": "smd159",
     "igdbId": 46268,
     "gbId": 164,
     "gbGuid": "3030-164",
@@ -3511,12 +4163,62 @@
     "special": []
   },
   {
+    "name": "NFL Quarterback Club",
+    "id": "smd160",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 114754,
+    "gbId": 22136,
+    "gbGuid": "3030-22136",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NFL Quarterback Club 96",
+    "id": "smd161",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 25080,
+    "gbId": 11504,
+    "gbGuid": "3030-11504",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "NFL Sports Talk Football '93 Starring Joe Montana",
     "details": [
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd139",
+    "id": "smd162",
     "igdbId": 46267,
     "gbId": 8073,
     "gbGuid": "3030-8073",
@@ -3551,7 +4253,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd140",
+    "id": "smd163",
     "igdbId": 19559,
     "gbId": null,
     "gbGuid": null,
@@ -3574,7 +4276,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd141",
+    "id": "smd164",
     "igdbId": 27062,
     "gbId": 11129,
     "gbGuid": "3030-11129",
@@ -3597,7 +4299,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd142",
+    "id": "smd165",
     "igdbId": 45718,
     "gbId": null,
     "gbGuid": null,
@@ -3620,7 +4322,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd143",
+    "id": "smd166",
     "igdbId": 46177,
     "gbId": 1937,
     "gbGuid": "3030-1937",
@@ -3639,11 +4341,36 @@
     "special": []
   },
   {
+    "name": "Olympic Summer Games",
+    "id": "smd167",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 4493,
+    "gbId": 12273,
+    "gbGuid": "3030-12273",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Osomatsu-kun: Hachamecha Gekijou",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd144",
+    "id": "smd168",
     "igdbId": 4432,
     "gbId": 36294,
     "gbGuid": "3030-36294",
@@ -3662,7 +4389,7 @@
     "special": []
   },
   {
-    "id": "smd145",
+    "id": "smd169",
     "name": "OutRun",
     "igdbId": 2051,
     "gbId": 11260,
@@ -3693,7 +4420,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd146",
+    "id": "smd170",
     "igdbId": 45767,
     "gbId": 3452,
     "gbGuid": "3030-3452",
@@ -3728,7 +4455,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd147",
+    "id": "smd171",
     "igdbId": 45781,
     "gbId": 14247,
     "gbGuid": "3030-14247",
@@ -3751,7 +4478,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd148",
+    "id": "smd172",
     "igdbId": 45715,
     "gbId": 14193,
     "gbGuid": "3030-14193",
@@ -3770,12 +4497,37 @@
     "special": []
   },
   {
+    "name": "Party Quiz Mega Q",
+    "id": "smd173",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 45611,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Pat Riley Basketball",
     "details": [
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd149",
+    "id": "smd174",
     "igdbId": 28020,
     "gbId": 29303,
     "gbGuid": "3030-29303",
@@ -3810,7 +4562,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd150",
+    "id": "smd175",
     "igdbId": 4421,
     "gbId": 12028,
     "gbGuid": "3030-12028",
@@ -3829,7 +4581,57 @@
     "special": []
   },
   {
-    "id": "smd151",
+    "name": "Pelé's Soccer",
+    "id": "smd176",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 18413,
+    "gbId": 27183,
+    "gbGuid": "3030-27183",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Pepenga Pengo",
+    "id": "smd177",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 4503,
+    "gbId": 46364,
+    "gbGuid": "3030-46364",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "smd178",
     "name": "Phantasy Star II",
     "igdbId": 1232,
     "gbId": 4492,
@@ -3855,7 +4657,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd152",
+    "id": "smd179",
     "name": "Phantasy Star III: Generations of Doom",
     "igdbId": 1231,
     "gbId": 18253,
@@ -3885,7 +4687,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd153",
+    "id": "smd180",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3906,9 +4708,10 @@
   {
     "name": "Prime Time NFL Starring Deion Sanders",
     "details": [
-      "Sega Genesis exclusive"
+      "Sega Genesis exclusive",
+      "Sega Genesis Team Player compatible title"
     ],
-    "id": "smd154",
+    "id": "smd181",
     "igdbId": 45770,
     "gbId": 26459,
     "gbGuid": "3030-26459",
@@ -3923,15 +4726,27 @@
         "tgdbId": 18
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Pro Moves Soccer",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd155",
+    "id": "smd182",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3950,7 +4765,57 @@
     "special": []
   },
   {
-    "id": "smd156",
+    "name": "Puzzle & Action: Tant-R",
+    "id": "smd183",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 46071,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Puzzle & Action: Tanto-R",
+    "id": "smd184",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 45713,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "smd185",
     "name": "QuackShot Starring Donald Duck",
     "igdbId": 46213,
     "gbId": 9412,
@@ -3980,7 +4845,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd157",
+    "id": "smd186",
     "igdbId": 46212,
     "gbId": 73663,
     "gbGuid": "3030-73663",
@@ -4004,7 +4869,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd158",
+    "id": "smd187",
     "igdbId": 18145,
     "gbId": 1172,
     "gbGuid": "3030-1172",
@@ -4039,7 +4904,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd159",
+    "id": "smd188",
     "igdbId": 46265,
     "gbId": 1421,
     "gbGuid": "3030-1421",
@@ -4062,7 +4927,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd160",
+    "id": "smd189",
     "igdbId": 81530,
     "gbId": 13618,
     "gbGuid": "3030-13618",
@@ -4085,7 +4950,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd161",
+    "id": "smd190",
     "igdbId": 7224,
     "gbId": 13615,
     "gbGuid": "3030-13615",
@@ -4108,7 +4973,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd162",
+    "id": "smd191",
     "igdbId": 7703,
     "gbId": 1253,
     "gbGuid": "3030-1253",
@@ -4131,7 +4996,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd163",
+    "id": "smd192",
     "igdbId": 9766,
     "gbId": 6339,
     "gbGuid": "3030-6339",
@@ -4154,7 +5019,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd164",
+    "id": "smd193",
     "igdbId": 46243,
     "gbId": 1652,
     "gbGuid": "3030-1652",
@@ -4177,7 +5042,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd165",
+    "id": "smd194",
     "igdbId": 46200,
     "gbId": 10371,
     "gbGuid": "3030-10371",
@@ -4200,7 +5065,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd166",
+    "id": "smd195",
     "igdbId": 46199,
     "gbId": 6028,
     "gbGuid": "3030-6028",
@@ -4223,7 +5088,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd167",
+    "id": "smd196",
     "igdbId": 46183,
     "gbId": 1162,
     "gbGuid": "3030-1162",
@@ -4242,11 +5107,36 @@
     "special": []
   },
   {
+    "name": "Sega Sports 1",
+    "id": "smd197",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 56844,
+    "gbId": 58064,
+    "gbGuid": "3030-58064",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Shadow Blasters",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd168",
+    "id": "smd198",
     "igdbId": 4522,
     "gbId": 50235,
     "gbGuid": "3030-50235",
@@ -4265,7 +5155,7 @@
     "special": []
   },
   {
-    "id": "smd169",
+    "id": "smd199",
     "name": "Shadow Dancer: The Secret of Shinobi",
     "igdbId": 10217,
     "gbId": 9761,
@@ -4295,7 +5185,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd170",
+    "id": "smd200",
     "igdbId": 3000,
     "gbId": 21710,
     "gbGuid": "3030-21710",
@@ -4314,7 +5204,7 @@
     "special": []
   },
   {
-    "id": "smd171",
+    "id": "smd201",
     "name": "Shining Force",
     "igdbId": 3041,
     "gbId": 20113,
@@ -4340,7 +5230,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd172",
+    "id": "smd202",
     "name": "Shining in the Darkness",
     "igdbId": 9406,
     "gbId": 15684,
@@ -4370,7 +5260,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd173",
+    "id": "smd203",
     "igdbId": 27075,
     "gbId": 18512,
     "gbGuid": "3030-18512",
@@ -4389,11 +5279,36 @@
     "special": []
   },
   {
+    "name": "Slam Dunk: Kyougou Makkou Taiketsu!",
+    "id": "smd204",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 45640,
+    "gbId": 44626,
+    "gbGuid": "3030-44626",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Slap Fight",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd174",
+    "id": "smd205",
     "igdbId": 37296,
     "gbId": null,
     "gbGuid": null,
@@ -4412,7 +5327,7 @@
     "special": []
   },
   {
-    "id": "smd175",
+    "id": "smd206",
     "name": "Slaughter Sport",
     "igdbId": 4378,
     "gbId": 14672,
@@ -4442,7 +5357,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd176",
+    "id": "smd207",
     "igdbId": 4439,
     "gbId": 31951,
     "gbGuid": "3030-31951",
@@ -4461,7 +5376,7 @@
     "special": []
   },
   {
-    "id": "smd177",
+    "id": "smd208",
     "name": "Sonic The Hedgehog",
     "igdbId": 3192,
     "gbId": 2465,
@@ -4491,7 +5406,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd178",
+    "id": "smd209",
     "igdbId": 46197,
     "gbId": 8490,
     "gbGuid": "3030-8490",
@@ -4511,7 +5426,7 @@
   },
   {
     "name": "Space Harrier II",
-    "id": "smd179",
+    "id": "smd210",
     "details": [
       "Genesis launch title",
       "Sega Genesis/Mega Drive black box grid game"
@@ -4550,7 +5465,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd180",
+    "id": "smd211",
     "igdbId": 1264,
     "gbId": 21235,
     "gbGuid": "3030-21235",
@@ -4569,7 +5484,7 @@
     "special": []
   },
   {
-    "id": "smd181",
+    "id": "smd212",
     "name": "Spider-Man",
     "igdbId": 4500,
     "gbId": 2926,
@@ -4600,7 +5515,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd182",
+    "id": "smd213",
     "igdbId": 46261,
     "gbId": 15142,
     "gbGuid": "3030-15142",
@@ -4631,7 +5546,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd183",
+    "id": "smd214",
     "name": "Stormlord",
     "igdbId": 12781,
     "gbId": 1044,
@@ -4657,7 +5572,32 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd184",
+    "name": "Street Racer",
+    "id": "smd215",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 19770,
+    "gbId": 22190,
+    "gbGuid": "3030-22190",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "smd216",
     "name": "Streets of Rage",
     "igdbId": 1652,
     "gbId": 20436,
@@ -4683,7 +5623,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd185",
+    "id": "smd217",
     "name": "Strider",
     "igdbId": 6969,
     "gbId": 26410,
@@ -4709,11 +5649,36 @@
     "isLaunchTitle": false
   },
   {
+    "name": "Striker",
+    "id": "smd218",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 12783,
+    "gbId": 28817,
+    "gbGuid": "3030-28817",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Sub Terrania",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd186",
+    "id": "smd219",
     "igdbId": 22680,
     "gbId": 19046,
     "gbGuid": "3030-19046",
@@ -4732,7 +5697,7 @@
     "special": []
   },
   {
-    "id": "smd187",
+    "id": "smd220",
     "name": "Super Hang-On",
     "igdbId": 6145,
     "gbId": 18692,
@@ -4758,7 +5723,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd188",
+    "id": "smd221",
     "name": "Super Monaco GP",
     "igdbId": 4528,
     "gbId": 532,
@@ -4784,7 +5749,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd189",
+    "id": "smd222",
     "name": "Super Thunder Blade",
     "igdbId": 4471,
     "gbId": 234,
@@ -4810,7 +5775,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd190",
+    "id": "smd223",
     "name": "Super Volleyball",
     "igdbId": 46192,
     "gbId": 34438,
@@ -4840,7 +5805,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd191",
+    "id": "smd224",
     "igdbId": 3005,
     "gbId": 30327,
     "gbGuid": "3030-30327",
@@ -4859,7 +5824,7 @@
     "special": []
   },
   {
-    "id": "smd192",
+    "id": "smd225",
     "name": "Sword of Vermilion",
     "igdbId": 30148,
     "gbId": null,
@@ -4889,7 +5854,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd193",
+    "id": "smd226",
     "igdbId": 46190,
     "gbId": 19102,
     "gbGuid": "3030-19102",
@@ -4912,7 +5877,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd194",
+    "id": "smd227",
     "igdbId": 46244,
     "gbId": 26540,
     "gbGuid": "3030-26540",
@@ -4931,7 +5896,7 @@
     "special": []
   },
   {
-    "id": "smd195",
+    "id": "smd228",
     "name": "TaleSpin",
     "igdbId": 8067,
     "gbId": 48591,
@@ -4962,7 +5927,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd196",
+    "id": "smd229",
     "igdbId": 8066,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -4997,7 +5962,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd197",
+    "id": "smd230",
     "igdbId": 46260,
     "gbId": 18969,
     "gbGuid": "3030-18969",
@@ -5016,7 +5981,7 @@
     "special": []
   },
   {
-    "id": "smd198",
+    "id": "smd231",
     "name": "Techno Cop",
     "igdbId": 22746,
     "gbId": 11861,
@@ -5046,7 +6011,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd199",
+    "id": "smd232",
     "igdbId": 4535,
     "gbId": 5927,
     "gbGuid": "3030-5927",
@@ -5069,7 +6034,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd200",
+    "id": "smd233",
     "igdbId": 46166,
     "gbId": null,
     "gbGuid": null,
@@ -5092,7 +6057,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd201",
+    "id": "smd234",
     "igdbId": 46597,
     "gbId": 30091,
     "gbGuid": "3030-30091",
@@ -5115,7 +6080,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd202",
+    "id": "smd235",
     "igdbId": 4404,
     "gbId": 11404,
     "gbGuid": "3030-11404",
@@ -5138,7 +6103,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd203",
+    "id": "smd236",
     "igdbId": 48274,
     "gbId": 4896,
     "gbGuid": "3030-4896",
@@ -5161,7 +6126,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd204",
+    "id": "smd237",
     "igdbId": 4485,
     "gbId": 64866,
     "gbGuid": "3030-64866",
@@ -5184,7 +6149,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd205",
+    "id": "smd238",
     "igdbId": 47059,
     "gbId": 69644,
     "gbGuid": "3030-69644",
@@ -5207,7 +6172,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd206",
+    "id": "smd239",
     "igdbId": 5346,
     "gbId": 12434,
     "gbGuid": "3030-12434",
@@ -5226,7 +6191,7 @@
     "special": []
   },
   {
-    "id": "smd207",
+    "id": "smd240",
     "name": "The Adventures of Rocky and Bullwinkle and Friends",
     "igdbId": 5347,
     "gbId": 8118,
@@ -5256,7 +6221,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd208",
+    "id": "smd241",
     "igdbId": 51942,
     "gbId": 16005,
     "gbGuid": "3030-16005",
@@ -5279,7 +6244,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd209",
+    "id": "smd242",
     "igdbId": 8075,
     "gbId": 4125,
     "gbGuid": "3030-4125",
@@ -5298,7 +6263,7 @@
     "special": []
   },
   {
-    "id": "smd210",
+    "id": "smd243",
     "name": "The Revenge of Shinobi",
     "igdbId": 3327,
     "gbId": 236,
@@ -5325,7 +6290,7 @@
   },
   {
     "name": "Thunder Force II",
-    "id": "smd211",
+    "id": "smd244",
     "details": [
       "Genesis launch title",
       "Sega Genesis/Mega Drive black box grid game"
@@ -5364,7 +6329,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd212",
+    "id": "smd245",
     "igdbId": 46165,
     "gbId": null,
     "gbGuid": null,
@@ -5387,7 +6352,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd213",
+    "id": "smd246",
     "igdbId": 46593,
     "gbId": 468,
     "gbGuid": "3030-468",
@@ -5408,9 +6373,10 @@
   {
     "name": "Tiny Toon Adventures: ACME All-Stars",
     "details": [
-      "Sega Genesis exclusive"
+      "Sega Genesis exclusive",
+      "Sega Genesis Team Player compatible title"
     ],
-    "id": "smd214",
+    "id": "smd247",
     "igdbId": 8052,
     "gbId": 14369,
     "gbGuid": "3030-14369",
@@ -5425,15 +6391,27 @@
         "tgdbId": 18
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Tiny Toon Adventures: Buster's Hidden Treasure",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd215",
+    "id": "smd248",
     "igdbId": 8049,
     "gbId": 9716,
     "gbGuid": "3030-9716",
@@ -5452,7 +6430,7 @@
     "special": []
   },
   {
-    "id": "smd216",
+    "id": "smd249",
     "name": "ToeJam & Earl",
     "igdbId": 8389,
     "gbId": 13306,
@@ -5478,7 +6456,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd217",
+    "id": "smd250",
     "name": "Toki",
     "igdbId": 12228,
     "gbId": 9823,
@@ -5508,7 +6486,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd218",
+    "id": "smd251",
     "igdbId": 46252,
     "gbId": 7583,
     "gbGuid": "3030-7583",
@@ -5528,7 +6506,7 @@
   },
   {
     "name": "Tommy Lasorda Baseball",
-    "id": "smd219",
+    "id": "smd252",
     "details": [
       "Genesis launch title",
       "Sega Genesis/Mega Drive black box grid game"
@@ -5567,7 +6545,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd220",
+    "id": "smd253",
     "igdbId": 46524,
     "gbId": 13139,
     "gbGuid": "3030-13139",
@@ -5586,7 +6564,7 @@
     "special": []
   },
   {
-    "id": "smd221",
+    "id": "smd254",
     "name": "Toxic Crusaders",
     "igdbId": 8022,
     "gbId": 10876,
@@ -5612,7 +6590,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd222",
+    "id": "smd255",
     "name": "Toys",
     "igdbId": 78103,
     "gbId": 2166,
@@ -5642,7 +6620,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd223",
+    "id": "smd256",
     "igdbId": 46689,
     "gbId": 22753,
     "gbGuid": "3030-22753",
@@ -5665,7 +6643,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd224",
+    "id": "smd257",
     "igdbId": 44924,
     "gbId": 9670,
     "gbGuid": "3030-9670",
@@ -5688,7 +6666,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd225",
+    "id": "smd258",
     "igdbId": 26556,
     "gbId": 11119,
     "gbGuid": "3030-11119",
@@ -5707,7 +6685,7 @@
     "special": []
   },
   {
-    "id": "smd226",
+    "id": "smd259",
     "name": "Truxton",
     "igdbId": 4418,
     "gbId": 7598,
@@ -5737,7 +6715,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd227",
+    "id": "smd260",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5756,7 +6734,7 @@
     "special": []
   },
   {
-    "id": "smd228",
+    "id": "smd261",
     "name": "Twin Cobra",
     "igdbId": 8189,
     "gbId": 11930,
@@ -5786,7 +6764,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd229",
+    "id": "smd262",
     "igdbId": 46179,
     "gbId": 19494,
     "gbGuid": "3030-19494",
@@ -5805,11 +6783,86 @@
     "special": []
   },
   {
+    "name": "Ultimate Mortal Kombat 3",
+    "id": "smd263",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 1621,
+    "gbId": 2178,
+    "gbGuid": "3030-2178",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Ultimate Soccer",
+    "id": "smd264",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 4540,
+    "gbId": 3214,
+    "gbGuid": "3030-3214",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Unnecessary Roughness 95",
+    "id": "smd265",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 47057,
+    "gbId": 3925,
+    "gbGuid": "3030-3925",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Uzu Keobukseon",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd230",
+    "id": "smd266",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5832,7 +6885,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd231",
+    "id": "smd267",
     "igdbId": 46162,
     "gbId": 40883,
     "gbGuid": "3030-40883",
@@ -5855,7 +6908,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd232",
+    "id": "smd268",
     "igdbId": 4458,
     "gbId": 7843,
     "gbGuid": "3030-7843",
@@ -5878,7 +6931,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd233",
+    "id": "smd269",
     "igdbId": 4452,
     "gbId": 4111,
     "gbGuid": "3030-4111",
@@ -5897,11 +6950,36 @@
     "special": []
   },
   {
+    "name": "WWF Raw",
+    "id": "smd270",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 19771,
+    "gbId": 4155,
+    "gbGuid": "3030-4155",
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Warrior of Rome",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd234",
+    "id": "smd271",
     "igdbId": 4426,
     "gbId": 42949,
     "gbGuid": "3030-42949",
@@ -5924,7 +7002,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd235",
+    "id": "smd272",
     "igdbId": 5934,
     "gbId": 49496,
     "gbGuid": "3030-49496",
@@ -5947,7 +7025,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd236",
+    "id": "smd273",
     "igdbId": 28039,
     "gbId": 13861,
     "gbGuid": "3030-13861",
@@ -5966,7 +7044,7 @@
     "special": []
   },
   {
-    "id": "smd237",
+    "id": "smd274",
     "name": "Wonder Boy",
     "igdbId": 9540,
     "gbId": 9245,
@@ -5992,7 +7070,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "smd238",
+    "id": "smd275",
     "name": "World Championship Soccer",
     "igdbId": 27972,
     "gbId": 2934,
@@ -6020,9 +7098,10 @@
   {
     "name": "World Championship Soccer 2",
     "details": [
-      "Sega Genesis exclusive"
+      "Sega Genesis exclusive",
+      "Sega Genesis Team Player compatible title"
     ],
-    "id": "smd239",
+    "id": "smd276",
     "igdbId": 46686,
     "gbId": 10073,
     "gbGuid": "3030-10073",
@@ -6037,8 +7116,20 @@
         "tgdbId": 18
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "World of Illusion Starring Mickey Mouse and Donald Duck",
@@ -6046,7 +7137,7 @@
       "Sega Genesis exclusive",
       "Sega Genesis/Mega Drive black box grid game"
     ],
-    "id": "smd240",
+    "id": "smd277",
     "igdbId": 8124,
     "gbId": 6710,
     "gbGuid": "3030-6710",
@@ -6081,7 +7172,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd241",
+    "id": "smd278",
     "igdbId": 4531,
     "gbId": 5428,
     "gbGuid": "3030-5428",
@@ -6104,7 +7195,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd242",
+    "id": "smd279",
     "igdbId": 9161,
     "gbId": 11564,
     "gbGuid": "3030-11564",
@@ -6127,7 +7218,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd243",
+    "id": "smd280",
     "igdbId": 46684,
     "gbId": 1011,
     "gbGuid": "3030-1011",
@@ -6150,7 +7241,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd244",
+    "id": "smd281",
     "igdbId": 59760,
     "gbId": 51001,
     "gbGuid": "3030-51001",
@@ -6169,11 +7260,36 @@
     "special": []
   },
   {
+    "name": "Yu Yu Hakusho Gaiden",
+    "id": "smd282",
+    "details": [
+      "Sega Genesis Team Player compatible title"
+    ],
+    "igdbId": 45606,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega Genesis Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Yuu Yuu Hakusho: Makyou Toitsusen",
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd245",
+    "id": "smd283",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6196,7 +7312,7 @@
     "details": [
       "Sega Genesis exclusive"
     ],
-    "id": "smd246",
+    "id": "smd284",
     "igdbId": 46682,
     "gbId": 1699,
     "gbGuid": "3030-1699",
@@ -6215,7 +7331,7 @@
     "special": []
   },
   {
-    "id": "smd247",
+    "id": "smd285",
     "name": "Zoom!",
     "igdbId": 28001,
     "gbId": 16107,
