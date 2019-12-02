@@ -10,24 +10,24 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/genesisLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/turbografx16LaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/segaGenesisExclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/turbografx16Exclusives.json'
   },
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'
+  // },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/multiplayer/segaTeamPlayer.json'
+    path: '../../finalOutput/smallFiles/multiplayer/tg16Multitap.json'
   }
 ];
-const mlId = 'ccl14';
-const outPath = '../../finalOutput/consoleLists/SegaGenesis.json';
-const idPrefix = 'smd';
+const mlId = 'ccl33';
+const outPath = '../../finalOutput/consoleLists/TurboGrafx16.json';
+const idPrefix = 'tg16';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

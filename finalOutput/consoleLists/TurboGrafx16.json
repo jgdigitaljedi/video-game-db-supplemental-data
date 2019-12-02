@@ -1,6 +1,32 @@
 [
   {
+    "name": "Aero Blasters",
     "id": "tg160",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 12491,
+    "gbId": 19275,
+    "gbGuid": "3030-19275",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "tg161",
     "name": "Alien Crush",
     "details": [
       "TurboGrafx 16 launch title"
@@ -23,11 +49,63 @@
     "special": []
   },
   {
+    "name": "Andre Panza Kick Boxing",
+    "id": "tg162",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 42128,
+    "gbId": 74001,
+    "gbGuid": "3030-74001",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Ballistix",
+    "id": "tg163",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 5878,
+    "gbId": 15973,
+    "gbGuid": "3030-15973",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Baribari Legend",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg161",
+    "id": "tg164",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -46,11 +124,117 @@
     "special": []
   },
   {
+    "name": "Battle Royale",
+    "id": "tg165",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 5 player"
+    ],
+    "igdbId": 8938,
+    "gbId": 34378,
+    "gbGuid": "3030-34378",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 5 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Bomberman",
+    "id": "tg166",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 5 player",
+      "also supports TurboExpress Link"
+    ],
+    "igdbId": 3446,
+    "gbId": 20589,
+    "gbGuid": "3030-20589",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 5 player, also supports TurboExpress Link",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Bomberman '93",
+    "id": "tg167",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 5 player",
+      "also supports TurboExpress Link"
+    ],
+    "igdbId": 42097,
+    "gbId": 7646,
+    "gbGuid": "3030-7646",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 5 player, also supports TurboExpress Link",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Bonk III: Bonk's Big Adventure",
+    "id": "tg168",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 12493,
+    "gbId": 11312,
+    "gbGuid": "3030-11312",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Burning Angels",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg162",
+    "id": "tg169",
     "igdbId": 37719,
     "gbId": 52559,
     "gbGuid": "3030-52559",
@@ -69,11 +253,65 @@
     "special": []
   },
   {
+    "name": "Cadash",
+    "id": "tg1610",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 6652,
+    "gbId": 18068,
+    "gbGuid": "3030-18068",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Champions Forever Boxing",
+    "id": "tg1611",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 42115,
+    "gbId": 34379,
+    "gbGuid": "3030-34379",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Chew-Man-Fu",
     "details": [
-      "NEC Turbografx 16 exclusive"
+      "NEC Turbografx 16 exclusive",
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
     ],
-    "id": "tg163",
+    "id": "tg1612",
     "igdbId": 42114,
     "gbId": 1452,
     "gbGuid": "3030-1452",
@@ -88,11 +326,23 @@
         "tgdbId": 34
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
-    "id": "tg164",
+    "id": "tg1613",
     "name": "China Warrior",
     "details": [
       "TurboGrafx 16 launch title"
@@ -119,7 +369,7 @@
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg165",
+    "id": "tg1614",
     "igdbId": 42083,
     "gbId": 42804,
     "gbGuid": "3030-42804",
@@ -138,11 +388,37 @@
     "special": []
   },
   {
+    "name": "Davis Cup Tennis",
+    "id": "tg1615",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 4 player"
+    ],
+    "igdbId": 49175,
+    "gbId": 18902,
+    "gbGuid": "3030-18902",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 4 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Dead Moon",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg166",
+    "id": "tg1616",
     "igdbId": 42111,
     "gbId": 15250,
     "gbGuid": "3030-15250",
@@ -165,7 +441,7 @@
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg167",
+    "id": "tg1617",
     "igdbId": 75524,
     "gbId": 34389,
     "gbGuid": "3030-34389",
@@ -184,11 +460,37 @@
     "special": []
   },
   {
+    "name": "Devil's Crush",
+    "id": "tg1618",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 alternating 2 player"
+    ],
+    "igdbId": 6827,
+    "gbId": 11721,
+    "gbGuid": "3030-11721",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 alternating 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Disney's Darkwing Duck",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg168",
+    "id": "tg1619",
     "igdbId": 81487,
     "gbId": 17216,
     "gbGuid": "3030-17216",
@@ -207,10 +509,38 @@
     "special": []
   },
   {
-    "id": "tg169",
+    "name": "Double Dungeons",
+    "id": "tg1620",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 42110,
+    "gbId": 20894,
+    "gbGuid": "3030-20894",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "tg1621",
     "name": "Dungeon Explorer",
     "details": [
-      "TurboGrafx 16 launch title"
+      "TurboGrafx 16 launch title",
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 5 player"
     ],
     "igdbId": 74314,
     "gbId": 7849,
@@ -226,15 +556,27 @@
         "tgdbId": 34
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 5 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
     "name": "Dungeons & Dragons: Order of the Griffon",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg1610",
+    "id": "tg1622",
     "igdbId": 42102,
     "gbId": 19681,
     "gbGuid": "3030-19681",
@@ -253,11 +595,40 @@
     "special": []
   },
   {
+    "name": "Falcon",
+    "id": "tg1623",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player",
+      "TurboExpress Link ONLY"
+    ],
+    "igdbId": 12088,
+    "gbId": 11453,
+    "gbGuid": "3030-11453",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player, TurboExpress Link ONLY",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Final Lap Twin",
     "details": [
-      "NEC Turbografx 16 exclusive"
+      "NEC Turbografx 16 exclusive",
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
     ],
-    "id": "tg1611",
+    "id": "tg1624",
     "igdbId": 42124,
     "gbId": 12897,
     "gbGuid": "3030-12897",
@@ -272,15 +643,27 @@
         "tgdbId": 34
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Final Match Tennis",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg1612",
+    "id": "tg1625",
     "igdbId": 42060,
     "gbId": 40445,
     "gbGuid": "3030-40445",
@@ -299,7 +682,59 @@
     "special": []
   },
   {
-    "id": "tg1613",
+    "name": "Hit the Ice: The Video Hockey League",
+    "id": "tg1626",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 4 player"
+    ],
+    "igdbId": 46208,
+    "gbId": 22324,
+    "gbGuid": "3030-22324",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 4 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf",
+    "id": "tg1627",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 4 player"
+    ],
+    "igdbId": 18101,
+    "gbId": 15139,
+    "gbGuid": "3030-15139",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 4 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "tg1628",
     "name": "Keith Courage in Alpha Zones",
     "details": [
       "TurboGrafx 16 launch title",
@@ -332,11 +767,37 @@
     "special": []
   },
   {
+    "name": "King Of Casino",
+    "id": "tg1629",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 5 player"
+    ],
+    "igdbId": 42105,
+    "gbId": 34390,
+    "gbGuid": "3030-34390",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 5 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Knight Rider Special",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg1614",
+    "id": "tg1630",
     "igdbId": 42058,
     "gbId": 51753,
     "gbGuid": "3030-51753",
@@ -359,7 +820,7 @@
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg1615",
+    "id": "tg1631",
     "igdbId": 42120,
     "gbId": 6441,
     "gbGuid": "3030-6441",
@@ -378,11 +839,37 @@
     "special": []
   },
   {
+    "name": "Military Madness",
+    "id": "tg1632",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 44334,
+    "gbId": 4152,
+    "gbGuid": "3030-4152",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Momotarou Densetsu Turbo",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg1616",
+    "id": "tg1633",
     "igdbId": 42049,
     "gbId": null,
     "gbGuid": null,
@@ -401,10 +888,116 @@
     "special": []
   },
   {
-    "id": "tg1617",
+    "name": "Moto Roader",
+    "id": "tg1634",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 5 player"
+    ],
+    "igdbId": 42104,
+    "gbId": 9303,
+    "gbGuid": "3030-9303",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 5 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Ninja Spirit",
+    "id": "tg1635",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 alternating 2 player"
+    ],
+    "igdbId": 6819,
+    "gbId": 11674,
+    "gbGuid": "3030-11674",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 alternating 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Ordyne",
+    "id": "tg1636",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 39968,
+    "gbId": 5879,
+    "gbGuid": "3030-5879",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Parasol Stars: The Story of Bubble Bobble III",
+    "id": "tg1637",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 42101,
+    "gbId": 10496,
+    "gbGuid": "3030-10496",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "tg1638",
     "name": "Power Golf",
     "details": [
-      "TurboGrafx 16 launch title"
+      "TurboGrafx 16 launch title",
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 3 player"
     ],
     "igdbId": 42100,
     "gbId": 20949,
@@ -420,11 +1013,23 @@
         "tgdbId": 34
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 3 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
-    "id": "tg1618",
+    "id": "tg1639",
     "name": "R-Type",
     "details": [
       "TurboGrafx 16 launch title"
@@ -447,11 +1052,37 @@
     "special": []
   },
   {
+    "name": "Shockman",
+    "id": "tg1640",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 42098,
+    "gbId": 33381,
+    "gbGuid": "3030-33381",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Sinistron",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg1619",
+    "id": "tg1641",
     "igdbId": 44342,
     "gbId": 14706,
     "gbGuid": "3030-14706",
@@ -474,7 +1105,7 @@
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg1620",
+    "id": "tg1642",
     "igdbId": 44341,
     "gbId": 930,
     "gbGuid": "3030-930",
@@ -493,11 +1124,167 @@
     "special": []
   },
   {
+    "name": "Sonic Spike",
+    "id": "tg1643",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 4 player"
+    ],
+    "igdbId": 44340,
+    "gbId": 34437,
+    "gbGuid": "3030-34437",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 4 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Super Volleyball",
+    "id": "tg1644",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 46192,
+    "gbId": 34438,
+    "gbGuid": "3030-34438",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "TV Sports Basketball",
+    "id": "tg1645",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 5 player"
+    ],
+    "igdbId": 8672,
+    "gbId": 4869,
+    "gbGuid": "3030-4869",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 5 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "TV Sports Football",
+    "id": "tg1646",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 5 player"
+    ],
+    "igdbId": 8671,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 5 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "TV Sports Hockey",
+    "id": "tg1647",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 5 player"
+    ],
+    "igdbId": 8675,
+    "gbId": 26553,
+    "gbGuid": "3030-26553",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 5 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Takin' it to the Hoop",
+    "id": "tg1648",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 44338,
+    "gbId": 30612,
+    "gbGuid": "3030-30612",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "TaleSpin",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg1621",
+    "id": "tg1649",
     "igdbId": 8067,
     "gbId": 48591,
     "gbGuid": "3030-48591",
@@ -516,7 +1303,7 @@
     "special": []
   },
   {
-    "id": "tg1622",
+    "id": "tg1650",
     "name": "The Legendary Axe",
     "details": [
       "TurboGrafx 16 launch title",
@@ -553,7 +1340,7 @@
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg1623",
+    "id": "tg1651",
     "igdbId": 92879,
     "gbId": 16919,
     "gbGuid": "3030-16919",
@@ -572,7 +1359,7 @@
     "special": []
   },
   {
-    "id": "tg1624",
+    "id": "tg1652",
     "name": "Victory Run",
     "details": [
       "TurboGrafx 16 launch title"
@@ -595,7 +1382,7 @@
     "special": []
   },
   {
-    "id": "tg1625",
+    "id": "tg1653",
     "name": "Vigilante",
     "details": [
       "TurboGrafx 16 launch title"
@@ -618,11 +1405,115 @@
     "special": []
   },
   {
+    "name": "World Class Baseball",
+    "id": "tg1654",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 37734,
+    "gbId": 20977,
+    "gbGuid": "3030-20977",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "World Court Tennis",
+    "id": "tg1655",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 4 player"
+    ],
+    "igdbId": 37732,
+    "gbId": 34442,
+    "gbGuid": "3030-34442",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 4 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "World Sports Competition",
+    "id": "tg1656",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 5 player"
+    ],
+    "igdbId": 37731,
+    "gbId": 20978,
+    "gbGuid": "3030-20978",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 5 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Yo' Bro",
+    "id": "tg1657",
+    "details": [
+      "TurboGrafx-16 Multitap compatible title",
+      "TurboGrafx-16 simultaneous 2 player"
+    ],
+    "igdbId": 42023,
+    "gbId": 17505,
+    "gbGuid": "3030-17505",
+    "special": [
+      {
+        "value": "TurboGrafx-16 Multitap compatible title, TurboGrafx-16 simultaneous 2 player",
+        "forPlatform": {
+          "name": "NEC TurboGrafx 16",
+          "id": "ccl33",
+          "igdbId": 86,
+          "gbId": 55,
+          "gbGuid": "3045-55",
+          "tgdbId": 34
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Zero4 Champ",
     "details": [
       "NEC Turbografx 16 exclusive"
     ],
-    "id": "tg1626",
+    "id": "tg1658",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,

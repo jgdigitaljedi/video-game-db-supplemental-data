@@ -1,6 +1,6 @@
 [
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/AtariJaguar.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/AtariJaguar.json",
     "missing": [
       {
         "name": "Black Out!",
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/MicrosoftXbox360.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/MicrosoftXbox360.json",
     "missing": [
       {
         "name": "Boulder Dash XL",
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/MicrosoftXboxOne.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/MicrosoftXboxOne.json",
     "missing": [
       {
         "name": "100 Ways",
@@ -199,7 +199,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/Nintendo64.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/Nintendo64.json",
     "missing": [
       {
         "name": "Rally '99",
@@ -227,7 +227,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/nintendoEntertainmentSystem.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/NintendoEntertainmentSystem.json",
     "missing": [
       {
         "id": "nes19",
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/NintendoWiiU.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/NintendoWiiU.json",
     "missing": [
       {
         "name": "6-Hour Video Poker",
@@ -762,7 +762,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaDreamcast.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaDreamcast.json",
     "missing": [
       {
         "name": "El Dorado Gate",
@@ -813,7 +813,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaGameGear.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaGameGear.json",
     "missing": [
       {
         "name": "Pet Club: Neko Daisuki!",
@@ -864,14 +864,14 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaGenesis.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaGenesis.json",
     "missing": [
       {
         "name": "Prime Time Football '96",
         "details": [
           "Sega Genesis exclusive"
         ],
-        "id": "smd153",
+        "id": "smd180",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -892,14 +892,15 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaSaturn.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SegaSaturn.json",
     "missing": [
       {
         "name": "Gundam Gaiden 3",
         "details": [
-          "Sega Saturn exclusive"
+          "Sega Saturn exclusive",
+          "Sega Saturn Multiplayer Adapter compatible title – 1 to 4"
         ],
-        "id": "ssat22",
+        "id": "ssat29",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -914,15 +915,27 @@
             "tgdbId": 17
           }
         ],
-        "isLaunchTitle": false,
-        "special": []
+        "special": [
+          {
+            "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4",
+            "forPlatform": {
+              "name": "Sega Saturn",
+              "id": "ccl17",
+              "igdbId": 32,
+              "gbId": 42,
+              "gbGuid": "3045-42",
+              "tgdbId": 17
+            }
+          }
+        ],
+        "isLaunchTitle": false
       },
       {
         "name": "Virtual Volleyball",
         "details": [
           "Sega Saturn exclusive"
         ],
-        "id": "ssat53",
+        "id": "ssat88",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -943,14 +956,14 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystation.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystation.json",
     "missing": [
       {
         "name": "B-Movie (video game)",
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx36",
+        "id": "psx38",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -971,10 +984,9 @@
       {
         "name": "GP Challenge",
         "details": [
-          "Sony PlayStation exclusive",
-          "PlayStation Long Box Game"
+          "Sony PlayStation exclusive"
         ],
-        "id": "psx157",
+        "id": "psx178",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -989,27 +1001,15 @@
             "tgdbId": 10
           }
         ],
-        "special": [
-          {
-            "value": "PlayStation Long Box Game",
-            "forPlatform": {
-              "name": "Sony PlayStation",
-              "id": "ccl20",
-              "igdbId": 7,
-              "gbId": 22,
-              "gbGuid": "3045-22",
-              "tgdbId": 10
-            }
-          }
-        ],
-        "isLaunchTitle": false
+        "isLaunchTitle": false,
+        "special": []
       },
       {
         "name": "Haunted Junction",
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx180",
+        "id": "psx202",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -1032,7 +1032,7 @@
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx263",
+        "id": "psx300",
         "isExclusive": [
           {
             "name": "Sony PlayStation",
@@ -1051,7 +1051,7 @@
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx279",
+        "id": "psx324",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -1074,7 +1074,7 @@
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx282",
+        "id": "psx327",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -1097,7 +1097,7 @@
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx354",
+        "id": "psx409",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -1120,7 +1120,7 @@
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx373",
+        "id": "psx430",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -1143,7 +1143,7 @@
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx374",
+        "id": "psx431",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -1166,7 +1166,7 @@
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx375",
+        "id": "psx432",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -1189,7 +1189,7 @@
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx421",
+        "id": "psx485",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -1212,7 +1212,7 @@
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx441",
+        "id": "psx506",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -1235,7 +1235,7 @@
         "details": [
           "Sony PlayStation exclusive"
         ],
-        "id": "psx464",
+        "id": "psx533",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -1256,7 +1256,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystation2.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystation2.json",
     "missing": [
       {
         "name": "Best Student Council",
@@ -1951,7 +1951,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlayStationPortable.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlayStationPortable.json",
     "missing": [
       {
         "name": "A Certain Scientific Railgun",
@@ -2439,7 +2439,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystationVita.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SonyPlaystationVita.json",
     "missing": [
       {
         "name": "Akai Suna Ochiru Tsuki",
@@ -6407,7 +6407,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/SuperNintendoEntertainmentSystem.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/SuperNintendoEntertainmentSystem.json",
     "missing": [
       {
         "name": "Aim for the Ace!",
@@ -6619,14 +6619,14 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/TurboGrafx16.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/TurboGrafx16.json",
     "missing": [
       {
         "name": "Baribari Legend",
         "details": [
           "NEC Turbografx 16 exclusive"
         ],
-        "id": "tg161",
+        "id": "tg164",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
@@ -6647,7 +6647,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/consoleLists/TurboGrafxCD.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/consoleLists/TurboGrafxCD.json",
     "missing": [
       {
         "name": "List of Devil Hunter Yohko video games",
@@ -6675,7 +6675,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/backwardCompatibilityIssues/ps1ToPs2Bc.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/backwardCompatibilityIssues/ps1ToPs2Bc.json",
     "missing": [
       {
         "name": "Gran Turismo 2 Demo",
@@ -6691,7 +6691,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json",
     "missing": [
       {
         "details": [
@@ -6707,7 +6707,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/launchTitles/dsLaunchTitles.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/launchTitles/dsLaunchTitles.json",
     "missing": [
       {
         "id": "ndslt7",
@@ -6721,7 +6721,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/launchTitles/ps4LaunchTitles.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/launchTitles/ps4LaunchTitles.json",
     "missing": [
       {
         "id": "ps4lt28",
@@ -6735,7 +6735,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/multiplayer/playStationMultitap.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/multiplayer/playStationMultitap.json",
     "missing": [
       {
         "name": "Iwatobi Penguin",
@@ -6764,7 +6764,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/multiplayer/saturnMultiplayerAdapter.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/multiplayer/saturnMultiplayerAdapter.json",
     "missing": [
       {
         "name": "World Wide Soccer ’98",
@@ -6777,7 +6777,55 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/amigaExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/multiplayer/segaTeamPlayer.json",
+    "missing": [
+      {
+        "name": "Blockbuster Competition 2",
+        "id": "sgtp4",
+        "details": "Sega Genesis Team Player compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "Joe Montana NFL '95",
+        "id": "sgtp19",
+        "details": "Sega Genesis Team Player compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "Mega Bomberman - 8 Player Demo",
+        "id": "sgtp21",
+        "details": [
+          "Sega Genesis Team Player compatible title",
+          "Sega Genesis Team Player 8 Player Demo (requires two Teamplayers, one in each port)"
+        ],
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "NFL Prime Time '98",
+        "id": "sgtp32",
+        "details": "Sega Genesis Team Player compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "Gekitotsu",
+        "id": "sgtp42",
+        "details": "Sega Genesis Team Player compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/amigaExclusives.json",
     "missing": [
       {
         "name": "Final Countdown (video game)",
@@ -6890,7 +6938,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/atariJaguarExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/atariJaguarExclusives.json",
     "missing": [
       {
         "name": "Black Out!",
@@ -6913,7 +6961,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/famicomDiskSystemExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/famicomDiskSystemExclusives.json",
     "missing": [
       {
         "name": "Suishō no Dragon",
@@ -6936,7 +6984,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nesExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nesExclusives.json",
     "missing": [
       {
         "id": "nesex18",
@@ -7045,7 +7093,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendo3dsExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendo3dsExclusives.json",
     "missing": [
       {
         "name": "Age 12",
@@ -7131,7 +7179,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoDsExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoDsExclusives.json",
     "missing": [
       {
         "name": "BreakSoul",
@@ -7294,7 +7342,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyAdvanceExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyAdvanceExclusives.json",
     "missing": [
       {
         "name": "Elemental Gelade",
@@ -7348,7 +7396,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyColorExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyColorExclusives.json",
     "missing": [
       {
         "name": "Bomberman B-Daman Bakugaiden",
@@ -7407,7 +7455,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoGameBoyExclusives.json",
     "missing": [
       {
         "name": "Boxing (1990 video game)",
@@ -7475,7 +7523,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoN64Exclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoN64Exclusives.json",
     "missing": [
       {
         "name": "Rally '99",
@@ -7489,7 +7537,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoSnesExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoSnesExclusives.json",
     "missing": [
       {
         "name": "Aim for the Ace!",
@@ -7575,7 +7623,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoWiiExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoWiiExclusives.json",
     "missing": [
       {
         "name": "Art Style",
@@ -7652,7 +7700,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoWiiUExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/nintendoWiiUExclusives.json",
     "missing": [
       {
         "name": "Goutouchi Tetsudou: Goutouchi Chara to Nihon Zengoku no Tabi",
@@ -7756,7 +7804,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaDreamcastExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaDreamcastExclusives.json",
     "missing": [
       {
         "name": "El Dorado Gate",
@@ -7779,7 +7827,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaGameGearExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaGameGearExclusives.json",
     "missing": [
       {
         "name": "Pet Club: Neko Daisuki!",
@@ -7802,7 +7850,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaGenesisExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaGenesisExclusives.json",
     "missing": [
       {
         "name": "Prime Time Football '96",
@@ -7816,7 +7864,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaSaturnExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/segaSaturnExclusives.json",
     "missing": [
       {
         "name": "Gundam Gaiden 3",
@@ -7839,7 +7887,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystation2Exclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystation2Exclusives.json",
     "missing": [
       {
         "name": "Best Student Council",
@@ -8114,7 +8162,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystationExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystationExclusives.json",
     "missing": [
       {
         "name": "GP Challenge",
@@ -8232,7 +8280,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystationVitaExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPlaystationVitaExclusives.json",
     "missing": [
       {
         "name": "Akai Suna Ochiru Tsuki",
@@ -9736,7 +9784,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPspExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/sonyPspExclusives.json",
     "missing": [
       {
         "name": "Anohana: The Flower We Saw That Day",
@@ -9930,7 +9978,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/turbografx16Exclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/turbografx16Exclusives.json",
     "missing": [
       {
         "name": "Baribari Legend",
@@ -9944,7 +9992,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/turbografxCdExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/turbografxCdExclusives.json",
     "missing": [
       {
         "name": "List of Devil Hunter Yohko video games",
@@ -9958,7 +10006,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/xbox360Exclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/xbox360Exclusives.json",
     "missing": [
       {
         "name": "Senko no Ronde: Dis-United Order",
@@ -9999,7 +10047,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/xboxOneExclusives.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/platformExclusives/xboxOneExclusives.json",
     "missing": [
       {
         "name": "Azito x Tatsunoko Legends",
@@ -10022,7 +10070,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/special/bannedInternationally.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/special/bannedInternationally.json",
     "missing": [
       {
         "name": "Mortal Kombat (2011 video game)",
@@ -10038,7 +10086,7 @@
     ]
   },
   {
-    "file": "/Users/JoeyGauthier/code/video-game-db-supplemental-data/finalOutput/smallFiles/special/playstationLongboxGames.json",
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/special/playstationLongboxGames.json",
     "missing": [
       {
         "name": "World Cup Golf (Eidos) ",

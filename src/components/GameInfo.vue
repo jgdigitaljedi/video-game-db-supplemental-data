@@ -10,6 +10,12 @@
     <v-btn dark color="warning" @click.native="copyAfterColon">
       <v-icon left>mdi-clipboard-arrow-right</v-icon>Copy Name After Colon
     </v-btn>
+    <v-btn dark color="secondary" @click.native="copyBeforeHyphen">
+      <v-icon left>mdi-clipboard-arrow-left</v-icon>Copy Name Before Hyphen
+    </v-btn>
+    <v-btn dark color="error" @click.native="copyAfterHyphen">
+      <v-icon left>mdi-clipboard-arrow-right</v-icon>Copy Name After Hyphen
+    </v-btn>
     <div class="game-info">
       <h4>Old</h4>
       <pre :class="isComplete(game) ? 'complete-item' : ''">{{game ? game : ''}}</pre>
@@ -56,6 +62,19 @@ export default {
         this.game.name ? this.stripName(this.game.name) : this.stripName(this.game.title)
       );
     },
+    copyBeforeHyphen() {
+      const before = this.game.name
+        ? parens.remove(this.game.name.split('-')[0])
+        : parens.remove(this.game.title.split('-')[0]);
+      this.setCurrentName(before);
+    },
+    copyAfterHyphen() {
+      const nSplit = this.game.name ? this.game.name.split('-') : this.game.title.split('-');
+      const after = this.game.name
+        ? parens.remove(nSplit[nSplit.length - 1])
+        : parens.remove(nSplit[nSplit.length - 1]);
+      this.setCurrentName(after);
+    },
     copyBeforeColon() {
       const before = this.game.name
         ? this.stripName(this.game.name.split(':')[0])
@@ -78,7 +97,7 @@ export default {
 <style lang="scss">
 .info-card {
   button {
-    margin-right: 1rem;
+    margin: 1rem 1rem 0 0;
   }
 }
 .game-info {
