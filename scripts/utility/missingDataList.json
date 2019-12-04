@@ -6412,7 +6412,8 @@
       {
         "name": "Aim for the Ace!",
         "details": [
-          "Super Nintendo Entertainment System exclusive"
+          "Super Nintendo Entertainment System exclusive",
+          "SNES Super Multitap compatible title"
         ],
         "id": "snes4",
         "igdbId": null,
@@ -6420,37 +6421,27 @@
         "gbGuid": null,
         "tgdbId": null,
         "isExclusive": [
+          null
+        ],
+        "special": [
           {
-            "name": "Super Nintendo Entertainment System (SNES)",
-            "id": "cc2",
-            "igdbId": 19,
-            "gbId": 9,
-            "gbGuid": "3045-9",
-            "tgdbId": 6
+            "value": "SNES Super Multitap compatible title"
           }
         ],
-        "isLaunchTitle": false,
-        "special": []
+        "isLaunchTitle": false
       },
       {
         "name": "Bow Wow (manga)",
         "details": [
           "Super Nintendo Entertainment System exclusive"
         ],
-        "id": "snes37",
+        "id": "snes42",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null,
         "isExclusive": [
-          {
-            "name": "Super Nintendo Entertainment System (SNES)",
-            "id": "cc2",
-            "igdbId": 19,
-            "gbId": 9,
-            "gbGuid": "3045-9",
-            "tgdbId": 6
-          }
+          null
         ],
         "isLaunchTitle": false,
         "special": []
@@ -6460,20 +6451,13 @@
         "details": [
           "Super Nintendo Entertainment System exclusive"
         ],
-        "id": "snes96",
+        "id": "snes115",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null,
         "isExclusive": [
-          {
-            "name": "Super Nintendo Entertainment System (SNES)",
-            "id": "cc2",
-            "igdbId": 19,
-            "gbId": 9,
-            "gbGuid": "3045-9",
-            "tgdbId": 6
-          }
+          null
         ],
         "isLaunchTitle": false,
         "special": []
@@ -6483,20 +6467,13 @@
         "details": [
           "Super Nintendo Entertainment System exclusive"
         ],
-        "id": "snes100",
+        "id": "snes119",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null,
         "isExclusive": [
-          {
-            "name": "Super Nintendo Entertainment System (SNES)",
-            "id": "cc2",
-            "igdbId": 19,
-            "gbId": 9,
-            "gbGuid": "3045-9",
-            "tgdbId": 6
-          }
+          null
         ],
         "isLaunchTitle": false,
         "special": []
@@ -6506,20 +6483,13 @@
         "details": [
           "Super Nintendo Entertainment System exclusive"
         ],
-        "id": "snes128",
+        "id": "snes155",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null,
         "isExclusive": [
-          {
-            "name": "Super Nintendo Entertainment System (SNES)",
-            "id": "cc2",
-            "igdbId": 19,
-            "gbId": 9,
-            "gbGuid": "3045-9",
-            "tgdbId": 6
-          }
+          null
         ],
         "isLaunchTitle": false,
         "special": []
@@ -6529,20 +6499,13 @@
         "details": [
           "Super Nintendo Entertainment System exclusive"
         ],
-        "id": "snes167",
+        "id": "snes203",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null,
         "isExclusive": [
-          {
-            "name": "Super Nintendo Entertainment System (SNES)",
-            "id": "cc2",
-            "igdbId": 19,
-            "gbId": 9,
-            "gbGuid": "3045-9",
-            "tgdbId": 6
-          }
+          null
         ],
         "isLaunchTitle": false,
         "special": []
@@ -6552,20 +6515,13 @@
         "details": [
           "Super Nintendo Entertainment System exclusive"
         ],
-        "id": "snes287",
+        "id": "snes362",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null,
         "isExclusive": [
-          {
-            "name": "Super Nintendo Entertainment System (SNES)",
-            "id": "cc2",
-            "igdbId": 19,
-            "gbId": 9,
-            "gbGuid": "3045-9",
-            "tgdbId": 6
-          }
+          null
         ],
         "isLaunchTitle": false,
         "special": []
@@ -6575,20 +6531,13 @@
         "details": [
           "Super Nintendo Entertainment System exclusive"
         ],
-        "id": "snes324",
+        "id": "snes403",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null,
         "isExclusive": [
-          {
-            "name": "Super Nintendo Entertainment System (SNES)",
-            "id": "cc2",
-            "igdbId": 19,
-            "gbId": 9,
-            "gbGuid": "3045-9",
-            "tgdbId": 6
-          }
+          null
         ],
         "isLaunchTitle": false,
         "special": []
@@ -6598,20 +6547,13 @@
         "details": [
           "Super Nintendo Entertainment System exclusive"
         ],
-        "id": "snes358",
+        "id": "snes441",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null,
         "tgdbId": null,
         "isExclusive": [
-          {
-            "name": "Super Nintendo Entertainment System (SNES)",
-            "id": "cc2",
-            "igdbId": 19,
-            "gbId": 9,
-            "gbGuid": "3045-9",
-            "tgdbId": 6
-          }
+          null
         ],
         "isLaunchTitle": false,
         "special": []
@@ -6818,6 +6760,67 @@
         "name": "Gekitotsu",
         "id": "sgtp42",
         "details": "Sega Genesis Team Player compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      }
+    ]
+  },
+  {
+    "file": "/mnt/c/code/video-game-db-supplemental-data/finalOutput/smallFiles/multiplayer/snesSuperMultitap.json",
+    "missing": [
+      {
+        "name": "J. League Excite Stage '94",
+        "id": "snessm30",
+        "details": "SNES Super Multitap compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "J. League Excite Stage '95",
+        "id": "snessm31",
+        "details": "SNES Super Multitap compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "J. League Excite Stage '96",
+        "id": "snessm32",
+        "details": "SNES Super Multitap compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "J. League Super Soccer '95",
+        "id": "snessm33",
+        "details": "SNES Super Multitap compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "J. League Super Soccer",
+        "id": "snessm34",
+        "details": "SNES Super Multitap compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "NHL Pro Hockey '94",
+        "id": "snessm63",
+        "details": "SNES Super Multitap compatible title",
+        "igdbId": null,
+        "gbId": null,
+        "gbGuid": null
+      },
+      {
+        "name": "Zero 4 Champ RR",
+        "id": "snessm111",
+        "details": "SNES Super Multitap compatible title",
         "igdbId": null,
         "gbId": null,
         "gbGuid": null

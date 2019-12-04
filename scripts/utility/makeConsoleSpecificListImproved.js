@@ -10,24 +10,28 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/turbografx16LaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/nesLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/turbografx16Exclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/nesExclusives.json'
   },
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'
-  // },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/multiplayer/tg16Multitap.json'
+    path: '../../finalOutput/smallFiles/special/nesBlackBoxTitles.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/special/nesHangTabGames.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
   }
 ];
-const mlId = 'ccl33';
-const outPath = '../../finalOutput/consoleLists/TurboGrafx16.json';
-const idPrefix = 'tg16';
+const mlId = 'ccl1';
+const outPath = '../../finalOutput/consoleLists/NintendoEntertainmentSystem.json';
+const idPrefix = 'nes';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

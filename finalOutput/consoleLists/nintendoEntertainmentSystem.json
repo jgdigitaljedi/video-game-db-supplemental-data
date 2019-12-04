@@ -149,7 +149,8 @@
     "id": "nes5",
     "name": "A Nightmare on Elm Street",
     "details": [
-      "NES exclusive game"
+      "NES exclusive game",
+      "NES Four Score compatible title"
     ],
     "igdbId": 40935,
     "gbId": 11827,
@@ -165,8 +166,20 @@
         "tgdbId": 7
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "id": "nes6",
@@ -1558,7 +1571,8 @@
     "id": "nes64",
     "name": "Bomberman II",
     "details": [
-      "NES exclusive game"
+      "NES exclusive game",
+      "NES Four Score compatible title"
     ],
     "igdbId": 3447,
     "gbId": 5993,
@@ -1574,8 +1588,20 @@
         "tgdbId": 7
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "id": "nes65",
@@ -2387,7 +2413,32 @@
     "special": []
   },
   {
+    "name": "Danny Sullivan's Indy Heat",
     "id": "nes98",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 12734,
+    "gbId": 15374,
+    "gbGuid": "3030-15374",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes99",
     "name": "Dash Galaxy in the Alien Asylum",
     "details": [
       "NES exclusive game"
@@ -2410,7 +2461,7 @@
     "special": []
   },
   {
-    "id": "nes99",
+    "id": "nes100",
     "name": "Day Dreamin' Davey",
     "details": [
       "NES exclusive game"
@@ -2433,7 +2484,7 @@
     "special": []
   },
   {
-    "id": "nes100",
+    "id": "nes101",
     "name": "Deadly Towers",
     "details": [
       "NES exclusive game",
@@ -2469,7 +2520,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes101",
+    "id": "nes102",
     "name": "Death Race",
     "details": [
       "NES exclusive game"
@@ -2492,7 +2543,7 @@
     "special": []
   },
   {
-    "id": "nes102",
+    "id": "nes103",
     "name": "Decathlon",
     "details": [
       "NES exclusive game"
@@ -2515,7 +2566,7 @@
     "special": []
   },
   {
-    "id": "nes103",
+    "id": "nes104",
     "name": "Deep Dungeon",
     "details": [
       "NES exclusive game"
@@ -2538,7 +2589,7 @@
     "special": []
   },
   {
-    "id": "nes104",
+    "id": "nes105",
     "name": "Defenders of Dynatron City",
     "details": [
       "NES exclusive game"
@@ -2561,7 +2612,7 @@
     "special": []
   },
   {
-    "id": "nes105",
+    "id": "nes106",
     "name": "Demon Sword",
     "details": [
       "NES exclusive game"
@@ -2584,7 +2635,7 @@
     "special": []
   },
   {
-    "id": "nes106",
+    "id": "nes107",
     "name": "Desert Commander",
     "details": [
       "NES exclusive game"
@@ -2607,7 +2658,7 @@
     "special": []
   },
   {
-    "id": "nes107",
+    "id": "nes108",
     "name": "Destination Earthstar",
     "details": [
       "NES exclusive game"
@@ -2630,7 +2681,7 @@
     "special": []
   },
   {
-    "id": "nes108",
+    "id": "nes109",
     "name": "Destiny of an Emperor",
     "details": [
       "NES exclusive game"
@@ -2653,7 +2704,7 @@
     "special": []
   },
   {
-    "id": "nes109",
+    "id": "nes110",
     "name": "Die Hard",
     "details": [
       "NES exclusive game"
@@ -2676,7 +2727,7 @@
     "special": []
   },
   {
-    "id": "nes110",
+    "id": "nes111",
     "name": "Dirty Harry",
     "details": [
       "NES exclusive game"
@@ -2699,7 +2750,7 @@
     "special": []
   },
   {
-    "id": "nes111",
+    "id": "nes112",
     "name": "Doki! Doki! Yūenchi: Crazy Land Daisakusen",
     "details": [
       "NES exclusive game"
@@ -2722,7 +2773,7 @@
     "special": []
   },
   {
-    "id": "nes112",
+    "id": "nes113",
     "name": "Don Doko Don 2",
     "details": [
       "NES exclusive game"
@@ -2745,7 +2796,7 @@
     "special": []
   },
   {
-    "id": "nes113",
+    "id": "nes114",
     "name": "Donald Land",
     "details": [
       "NES exclusive game"
@@ -2768,7 +2819,7 @@
     "special": []
   },
   {
-    "id": "nes114",
+    "id": "nes115",
     "name": "Donkey Kong",
     "details": [
       "NES black box game: Arcade Series",
@@ -2806,7 +2857,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes115",
+    "id": "nes116",
     "name": "Donkey Kong 3",
     "details": [
       "NES black box game: Arcade Series",
@@ -2844,7 +2895,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes116",
+    "id": "nes117",
     "name": "Donkey Kong Jr.",
     "details": [
       "NES black box game: Arcade Series",
@@ -2882,7 +2933,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes117",
+    "id": "nes118",
     "name": "Donkey Kong Jr. Math",
     "details": [
       "NES black box game: Educational Series",
@@ -2920,7 +2971,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes118",
+    "id": "nes119",
     "name": "Doraemon",
     "details": [
       "NES exclusive game"
@@ -2944,7 +2995,7 @@
   },
   {
     "name": "Double Dribble",
-    "id": "nes119",
+    "id": "nes120",
     "details": [
       "NES hang tab game"
     ],
@@ -2969,7 +3020,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes120",
+    "id": "nes121",
     "name": "Dr. Jekyll and Mr. Hyde",
     "details": [
       "NES exclusive game"
@@ -2992,7 +3043,7 @@
     "special": []
   },
   {
-    "id": "nes121",
+    "id": "nes122",
     "name": "Drac's Night Out",
     "details": [
       "NES exclusive game"
@@ -3015,7 +3066,7 @@
     "special": []
   },
   {
-    "id": "nes122",
+    "id": "nes123",
     "name": "Dragon Ball Z Side Story: Plan to Eradicate the Saiyans",
     "details": [
       "NES exclusive game"
@@ -3038,7 +3089,7 @@
     "special": []
   },
   {
-    "id": "nes123",
+    "id": "nes124",
     "name": "Dragon Fighter",
     "details": [
       "NES exclusive game"
@@ -3061,7 +3112,7 @@
     "special": []
   },
   {
-    "id": "nes124",
+    "id": "nes125",
     "name": "Dragon Scroll: Yomigaerishi Maryuu",
     "details": [
       "NES exclusive game"
@@ -3084,7 +3135,7 @@
     "special": []
   },
   {
-    "id": "nes125",
+    "id": "nes126",
     "name": "Dragon Spirit: The New Legend",
     "details": [
       "NES exclusive game"
@@ -3107,7 +3158,7 @@
     "special": []
   },
   {
-    "id": "nes126",
+    "id": "nes127",
     "name": "Dragon's Lair",
     "details": [
       "NES exclusive game"
@@ -3130,7 +3181,7 @@
     "special": []
   },
   {
-    "id": "nes127",
+    "id": "nes128",
     "details": [
       "NES launch title",
       "NES black box game: Light Gun Series",
@@ -3178,7 +3229,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes128",
+    "id": "nes129",
     "name": "Dungeon Magic: Sword of the Elements",
     "details": [
       "NES exclusive game"
@@ -3201,7 +3252,7 @@
     "special": []
   },
   {
-    "id": "nes129",
+    "id": "nes130",
     "name": "Dusty Diamond's All-Star Softball",
     "details": [
       "NES exclusive game"
@@ -3224,7 +3275,7 @@
     "special": []
   },
   {
-    "id": "nes130",
+    "id": "nes131",
     "name": "Dynowarz: Destruction of Spondylus",
     "details": [
       "NES exclusive game"
@@ -3247,7 +3298,7 @@
     "special": []
   },
   {
-    "id": "nes131",
+    "id": "nes132",
     "name": "Egypt",
     "details": [
       "NES exclusive game"
@@ -3271,7 +3322,7 @@
   },
   {
     "name": "Elevator Action",
-    "id": "nes132",
+    "id": "nes133",
     "details": [
       "NES hang tab game"
     ],
@@ -3296,7 +3347,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes133",
+    "id": "nes134",
     "name": "Eliminator: Boat Duel",
     "details": [
       "NES exclusive game"
@@ -3319,7 +3370,7 @@
     "special": []
   },
   {
-    "id": "nes134",
+    "id": "nes135",
     "name": "Erika to Satoru no Yume Bōken",
     "details": [
       "NES exclusive game"
@@ -3342,7 +3393,7 @@
     "special": []
   },
   {
-    "id": "nes135",
+    "id": "nes136",
     "details": [
       "NES launch title",
       "NES black box game: Programmable Series",
@@ -3390,7 +3441,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes136",
+    "id": "nes137",
     "name": "F-1 Sensation",
     "details": [
       "NES exclusive game"
@@ -3413,7 +3464,7 @@
     "special": []
   },
   {
-    "id": "nes137",
+    "id": "nes138",
     "name": "F-117A Stealth Fighter",
     "details": [
       "NES exclusive game"
@@ -3436,7 +3487,7 @@
     "special": []
   },
   {
-    "id": "nes138",
+    "id": "nes139",
     "name": "Famicom Jump II: Saikyō no Shichinin",
     "details": [
       "NES exclusive game"
@@ -3459,7 +3510,7 @@
     "special": []
   },
   {
-    "id": "nes139",
+    "id": "nes140",
     "name": "Famicom Jump: Hero Retsuden",
     "details": [
       "NES exclusive game"
@@ -3482,7 +3533,7 @@
     "special": []
   },
   {
-    "id": "nes140",
+    "id": "nes141",
     "name": "Family Circuit",
     "details": [
       "NES exclusive game"
@@ -3505,7 +3556,7 @@
     "special": []
   },
   {
-    "id": "nes141",
+    "id": "nes142",
     "name": "Faria: A World of Mystery and Danger!",
     "details": [
       "NES exclusive game"
@@ -3528,7 +3579,7 @@
     "special": []
   },
   {
-    "id": "nes142",
+    "id": "nes143",
     "name": "Final Fantasy VII",
     "details": [
       "NES exclusive game"
@@ -3551,7 +3602,7 @@
     "special": []
   },
   {
-    "id": "nes143",
+    "id": "nes144",
     "name": "Fire 'n Ice",
     "details": [
       "NES exclusive game"
@@ -3574,7 +3625,7 @@
     "special": []
   },
   {
-    "id": "nes144",
+    "id": "nes145",
     "name": "Fist of the North Star",
     "details": [
       "NES exclusive game"
@@ -3597,7 +3648,7 @@
     "special": []
   },
   {
-    "id": "nes145",
+    "id": "nes146",
     "name": "Formula One: Built to Win",
     "details": [
       "NES exclusive game"
@@ -3620,7 +3671,7 @@
     "special": []
   },
   {
-    "id": "nes146",
+    "id": "nes147",
     "name": "Frankenstein: The Monster Returns",
     "details": [
       "NES exclusive game"
@@ -3643,7 +3694,7 @@
     "special": []
   },
   {
-    "id": "nes147",
+    "id": "nes148",
     "name": "Friday the 13th",
     "details": [
       "NES exclusive game"
@@ -3666,7 +3717,7 @@
     "special": []
   },
   {
-    "id": "nes148",
+    "id": "nes149",
     "name": "Fushigi no Umi Nadia: The Secret of Blue Water",
     "details": [
       "NES exclusive game"
@@ -3689,7 +3740,7 @@
     "special": []
   },
   {
-    "id": "nes149",
+    "id": "nes150",
     "name": "Fuzzical Fighter",
     "details": [
       "NES exclusive game"
@@ -3712,7 +3763,7 @@
     "special": []
   },
   {
-    "id": "nes150",
+    "id": "nes151",
     "name": "G.I. JOE: A Real American Hero",
     "details": [
       "NES exclusive game"
@@ -3735,7 +3786,7 @@
     "special": []
   },
   {
-    "id": "nes151",
+    "id": "nes152",
     "name": "G.I. Joe: The Atlantis Factor",
     "details": [
       "NES exclusive game"
@@ -3758,7 +3809,7 @@
     "special": []
   },
   {
-    "id": "nes152",
+    "id": "nes153",
     "name": "Galaxy 5000",
     "details": [
       "NES exclusive game"
@@ -3781,7 +3832,7 @@
     "special": []
   },
   {
-    "id": "nes153",
+    "id": "nes154",
     "name": "Ganso Saiyuuki: Super Monkey Daibouken",
     "details": [
       "NES exclusive game"
@@ -3804,7 +3855,7 @@
     "special": []
   },
   {
-    "id": "nes154",
+    "id": "nes155",
     "name": "Gauntlet",
     "details": [
       "NES exclusive game"
@@ -3827,7 +3878,32 @@
     "special": []
   },
   {
-    "id": "nes155",
+    "name": "Gauntlet II",
+    "id": "nes156",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 3503,
+    "gbId": 648,
+    "gbGuid": "3030-648",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes157",
     "name": "Gekitotsu Yonku Battle",
     "details": [
       "NES exclusive game"
@@ -3850,7 +3926,7 @@
     "special": []
   },
   {
-    "id": "nes156",
+    "id": "nes158",
     "name": "Ghost Lion",
     "details": [
       "NES exclusive game"
@@ -3873,7 +3949,7 @@
     "special": []
   },
   {
-    "id": "nes157",
+    "id": "nes159",
     "name": "Ghostbusters II",
     "details": [
       "NES exclusive game"
@@ -3897,7 +3973,7 @@
   },
   {
     "name": "Ghosts 'n Goblins",
-    "id": "nes158",
+    "id": "nes160",
     "details": [
       "NES hang tab game"
     ],
@@ -3922,7 +3998,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes159",
+    "id": "nes161",
     "name": "Ghoul School",
     "details": [
       "NES exclusive game"
@@ -3945,7 +4021,7 @@
     "special": []
   },
   {
-    "id": "nes160",
+    "id": "nes162",
     "name": "Godzilla 2: War of the Monsters",
     "details": [
       "NES exclusive game"
@@ -3968,7 +4044,7 @@
     "special": []
   },
   {
-    "id": "nes161",
+    "id": "nes163",
     "name": "Godzilla: Monster of Monsters!",
     "details": [
       "NES exclusive game"
@@ -3991,7 +4067,7 @@
     "special": []
   },
   {
-    "id": "nes162",
+    "id": "nes164",
     "details": [
       "NES launch title",
       "NES black box game: Sports Series",
@@ -4039,7 +4115,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes163",
+    "id": "nes165",
     "name": "Golf Grand Slam",
     "details": [
       "NES exclusive game"
@@ -4062,7 +4138,7 @@
     "special": []
   },
   {
-    "id": "nes164",
+    "id": "nes166",
     "name": "Golgo 13: Top Secret Episode",
     "details": [
       "NES exclusive game"
@@ -4085,7 +4161,7 @@
     "special": []
   },
   {
-    "id": "nes165",
+    "id": "nes167",
     "name": "Gotcha! The Sport!",
     "details": [
       "NES exclusive game",
@@ -4122,7 +4198,7 @@
   },
   {
     "name": "Gradius",
-    "id": "nes166",
+    "id": "nes168",
     "details": [
       "NES hang tab game"
     ],
@@ -4147,10 +4223,11 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes167",
+    "id": "nes169",
     "name": "Greg Norman's Golf Power",
     "details": [
-      "NES exclusive game"
+      "NES exclusive game",
+      "NES Four Score compatible title"
     ],
     "igdbId": 48701,
     "gbId": null,
@@ -4166,11 +4243,23 @@
         "tgdbId": 7
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
-    "id": "nes168",
+    "id": "nes170",
     "name": "Gumshoe",
     "details": [
       "NES black box game: Light Gun Series",
@@ -4208,7 +4297,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes169",
+    "id": "nes171",
     "name": "Gun-Nac",
     "details": [
       "NES exclusive game"
@@ -4231,7 +4320,7 @@
     "special": []
   },
   {
-    "id": "nes170",
+    "id": "nes172",
     "details": [
       "NES launch title",
       "NES black box game: Robot Series",
@@ -4279,7 +4368,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes171",
+    "id": "nes173",
     "name": "Hanjuku Hero",
     "details": [
       "NES exclusive game"
@@ -4302,7 +4391,32 @@
     "special": []
   },
   {
-    "id": "nes172",
+    "name": "Harlem Globetrotters",
+    "id": "nes174",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 92724,
+    "gbId": 22903,
+    "gbGuid": "3030-22903",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes175",
     "name": "Heavy Shreddin'",
     "details": [
       "NES exclusive game"
@@ -4325,7 +4439,7 @@
     "special": []
   },
   {
-    "id": "nes173",
+    "id": "nes176",
     "name": "Hello Kitty no Hanabatake",
     "details": [
       "NES exclusive game"
@@ -4348,7 +4462,7 @@
     "special": []
   },
   {
-    "id": "nes174",
+    "id": "nes177",
     "name": "Hi no Tori Hououhen: Gaou no Bouken",
     "details": [
       "NES exclusive game"
@@ -4371,7 +4485,7 @@
     "special": []
   },
   {
-    "id": "nes175",
+    "id": "nes178",
     "name": "High Speed",
     "details": [
       "NES exclusive game"
@@ -4394,7 +4508,7 @@
     "special": []
   },
   {
-    "id": "nes176",
+    "id": "nes179",
     "details": [
       "NES launch title",
       "NES black box game: Light Gun Series",
@@ -4442,7 +4556,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes177",
+    "id": "nes180",
     "name": "Holy Diver",
     "details": [
       "NES exclusive game"
@@ -4465,7 +4579,7 @@
     "special": []
   },
   {
-    "id": "nes178",
+    "id": "nes181",
     "name": "Home Alone",
     "details": [
       "NES exclusive game"
@@ -4488,7 +4602,7 @@
     "special": []
   },
   {
-    "id": "nes179",
+    "id": "nes182",
     "name": "Hoops",
     "details": [
       "NES exclusive game"
@@ -4511,7 +4625,7 @@
     "special": []
   },
   {
-    "id": "nes180",
+    "id": "nes183",
     "name": "Hoshi wo Miru Hito",
     "details": [
       "NES exclusive game"
@@ -4534,7 +4648,7 @@
     "special": []
   },
   {
-    "id": "nes181",
+    "id": "nes184",
     "name": "Hot Slots",
     "details": [
       "NES exclusive game"
@@ -4557,7 +4671,7 @@
     "special": []
   },
   {
-    "id": "nes182",
+    "id": "nes185",
     "name": "Hottaman no Chisoko Tanken",
     "details": [
       "NES exclusive game"
@@ -4580,7 +4694,7 @@
     "special": []
   },
   {
-    "id": "nes183",
+    "id": "nes186",
     "details": [
       "NES launch title",
       "NES black box game: Action Series",
@@ -4628,7 +4742,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes184",
+    "id": "nes187",
     "name": "Idol Hakkenden",
     "details": [
       "NES exclusive game"
@@ -4652,7 +4766,7 @@
   },
   {
     "name": "Ikari Warriors",
-    "id": "nes185",
+    "id": "nes188",
     "details": [
       "NES hang tab game"
     ],
@@ -4677,7 +4791,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes186",
+    "id": "nes189",
     "name": "Incantation",
     "details": [
       "NES exclusive game"
@@ -4700,7 +4814,7 @@
     "special": []
   },
   {
-    "id": "nes187",
+    "id": "nes190",
     "name": "Indiana Jones and the Temple of Doom",
     "details": [
       "NES exclusive game"
@@ -4723,7 +4837,7 @@
     "special": []
   },
   {
-    "id": "nes188",
+    "id": "nes191",
     "name": "International Cricket",
     "details": [
       "NES exclusive game"
@@ -4746,7 +4860,7 @@
     "special": []
   },
   {
-    "id": "nes189",
+    "id": "nes192",
     "name": "Iron Tank: The Invasion of Normandy",
     "details": [
       "NES exclusive game"
@@ -4769,7 +4883,7 @@
     "special": []
   },
   {
-    "id": "nes190",
+    "id": "nes193",
     "name": "Ironsword: Wizards & Warriors II",
     "details": [
       "NES exclusive game"
@@ -4792,7 +4906,7 @@
     "special": []
   },
   {
-    "id": "nes191",
+    "id": "nes194",
     "name": "Isolated Warrior",
     "details": [
       "NES exclusive game"
@@ -4815,7 +4929,32 @@
     "special": []
   },
   {
-    "id": "nes192",
+    "name": "Ivan ''Ironman'' Stewart's Super Off Road",
+    "id": "nes195",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 12735,
+    "gbId": 9509,
+    "gbGuid": "3030-9509",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes196",
     "name": "J. League Super Top Players",
     "details": [
       "NES exclusive game"
@@ -4838,7 +4977,7 @@
     "special": []
   },
   {
-    "id": "nes193",
+    "id": "nes197",
     "name": "JaJaMaru no Daibouken",
     "details": [
       "NES exclusive game"
@@ -4861,7 +5000,7 @@
     "special": []
   },
   {
-    "id": "nes194",
+    "id": "nes198",
     "name": "Jajamaru Gekimaden: Maboroshi no Kinmajou",
     "details": [
       "NES exclusive game"
@@ -4884,7 +5023,7 @@
     "special": []
   },
   {
-    "id": "nes195",
+    "id": "nes199",
     "name": "Jajamaru Ninpou Chou",
     "details": [
       "NES exclusive game"
@@ -4907,7 +5046,7 @@
     "special": []
   },
   {
-    "id": "nes196",
+    "id": "nes200",
     "name": "Jaws",
     "details": [
       "NES exclusive game",
@@ -4943,7 +5082,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes197",
+    "id": "nes201",
     "name": "Journey to Silius",
     "details": [
       "NES exclusive game"
@@ -4966,7 +5105,7 @@
     "special": []
   },
   {
-    "id": "nes198",
+    "id": "nes202",
     "name": "Joyvan Kid",
     "details": [
       "NES exclusive game"
@@ -4989,7 +5128,7 @@
     "special": []
   },
   {
-    "id": "nes199",
+    "id": "nes203",
     "name": "Jumpin' Kid: Jack to Mame no Ki Monogatari",
     "details": [
       "NES exclusive game"
@@ -5012,7 +5151,7 @@
     "special": []
   },
   {
-    "id": "nes200",
+    "id": "nes204",
     "name": "Jurassic Park",
     "details": [
       "NES exclusive game"
@@ -5035,7 +5174,7 @@
     "special": []
   },
   {
-    "id": "nes201",
+    "id": "nes205",
     "name": "Just Breed",
     "details": [
       "NES exclusive game"
@@ -5058,7 +5197,7 @@
     "special": []
   },
   {
-    "id": "nes202",
+    "id": "nes206",
     "name": "Kabuki Quantum Fighter",
     "details": [
       "NES exclusive game"
@@ -5081,7 +5220,7 @@
     "special": []
   },
   {
-    "id": "nes203",
+    "id": "nes207",
     "name": "Kaijuu Monogatari",
     "details": [
       "NES exclusive game"
@@ -5104,7 +5243,7 @@
     "special": []
   },
   {
-    "id": "nes204",
+    "id": "nes208",
     "name": "Karaoke Studio",
     "details": [
       "NES exclusive game"
@@ -5128,7 +5267,7 @@
   },
   {
     "name": "Karate Champ",
-    "id": "nes205",
+    "id": "nes209",
     "details": [
       "NES hang tab game"
     ],
@@ -5154,7 +5293,7 @@
   },
   {
     "name": "Karnov",
-    "id": "nes206",
+    "id": "nes210",
     "details": [
       "NES hang tab game"
     ],
@@ -5179,7 +5318,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes207",
+    "id": "nes211",
     "name": "Kart Fighter",
     "details": [
       "NES exclusive game"
@@ -5202,7 +5341,7 @@
     "special": []
   },
   {
-    "id": "nes208",
+    "id": "nes212",
     "name": "Keisan Game",
     "details": [
       "NES exclusive game"
@@ -5225,7 +5364,7 @@
     "special": []
   },
   {
-    "id": "nes209",
+    "id": "nes213",
     "name": "Kero Kero Keroppi no Daibouken",
     "details": [
       "NES exclusive game"
@@ -5248,7 +5387,7 @@
     "special": []
   },
   {
-    "id": "nes210",
+    "id": "nes214",
     "name": "Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi",
     "details": [
       "NES exclusive game"
@@ -5271,7 +5410,7 @@
     "special": []
   },
   {
-    "id": "nes211",
+    "id": "nes215",
     "name": "Kick Master",
     "details": [
       "NES exclusive game"
@@ -5295,7 +5434,7 @@
   },
   {
     "name": "Kid Icarus",
-    "id": "nes212",
+    "id": "nes216",
     "details": [
       "NES hang tab game"
     ],
@@ -5320,7 +5459,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes213",
+    "id": "nes217",
     "name": "Kid Klown in Night Mayor World",
     "details": [
       "NES exclusive game"
@@ -5343,7 +5482,7 @@
     "special": []
   },
   {
-    "id": "nes214",
+    "id": "nes218",
     "name": "Kid Kool and the Quest for the Seven Wonder Herbs",
     "details": [
       "NES exclusive game"
@@ -5367,7 +5506,7 @@
   },
   {
     "name": "Kid Niki: Radical Ninja",
-    "id": "nes215",
+    "id": "nes219",
     "details": [
       "NES hang tab game"
     ],
@@ -5392,7 +5531,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes216",
+    "id": "nes220",
     "name": "King Kong 2: Ikari no Megaton Punch",
     "details": [
       "NES exclusive game"
@@ -5415,7 +5554,7 @@
     "special": []
   },
   {
-    "id": "nes217",
+    "id": "nes221",
     "name": "King Of Kings",
     "details": [
       "NES exclusive game"
@@ -5438,7 +5577,7 @@
     "special": []
   },
   {
-    "id": "nes218",
+    "id": "nes222",
     "name": "King of Kings: The Early Years",
     "details": [
       "NES exclusive game"
@@ -5461,7 +5600,32 @@
     "special": []
   },
   {
-    "id": "nes219",
+    "name": "Kings of the Beach",
+    "id": "nes223",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 41117,
+    "gbId": 14465,
+    "gbGuid": "3030-14465",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes224",
     "name": "Knight Rider",
     "details": [
       "NES exclusive game"
@@ -5484,7 +5648,7 @@
     "special": []
   },
   {
-    "id": "nes220",
+    "id": "nes225",
     "name": "Konami Hyper Soccer",
     "details": [
       "NES exclusive game"
@@ -5507,7 +5671,7 @@
     "special": []
   },
   {
-    "id": "nes221",
+    "id": "nes226",
     "details": [
       "NES launch title",
       "NES black box game: Action Series",
@@ -5555,7 +5719,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes222",
+    "id": "nes227",
     "name": "Kyatto Ninden Teyandee",
     "details": [
       "NES exclusive game"
@@ -5578,7 +5742,7 @@
     "special": []
   },
   {
-    "id": "nes223",
+    "id": "nes228",
     "name": "Lagrange Point",
     "details": [
       "NES exclusive game"
@@ -5601,7 +5765,7 @@
     "special": []
   },
   {
-    "id": "nes224",
+    "id": "nes229",
     "name": "Laser Invasion",
     "details": [
       "NES exclusive game"
@@ -5624,7 +5788,7 @@
     "special": []
   },
   {
-    "id": "nes225",
+    "id": "nes230",
     "name": "Layla",
     "details": [
       "NES exclusive game"
@@ -5643,7 +5807,7 @@
     "special": []
   },
   {
-    "id": "nes226",
+    "id": "nes231",
     "name": "Legends of the Diamond",
     "details": [
       "NES exclusive game"
@@ -5666,7 +5830,7 @@
     "special": []
   },
   {
-    "id": "nes227",
+    "id": "nes232",
     "name": "Little League Baseball: Championship Series",
     "details": [
       "NES exclusive game"
@@ -5689,7 +5853,7 @@
     "special": []
   },
   {
-    "id": "nes228",
+    "id": "nes233",
     "name": "Little Nemo: The Dream Master",
     "details": [
       "NES exclusive game"
@@ -5712,7 +5876,7 @@
     "special": []
   },
   {
-    "id": "nes229",
+    "id": "nes234",
     "name": "Little Samson",
     "details": [
       "NES exclusive game"
@@ -5736,7 +5900,7 @@
   },
   {
     "name": "Lode Runner",
-    "id": "nes230",
+    "id": "nes235",
     "details": [
       "NES hang tab game"
     ],
@@ -5761,7 +5925,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes231",
+    "id": "nes236",
     "name": "Lost Word of JeNnY: Ushinawareta Message",
     "details": [
       "NES exclusive game"
@@ -5784,7 +5948,7 @@
     "special": []
   },
   {
-    "id": "nes232",
+    "id": "nes237",
     "name": "Low G Man: The Low Gravity Man",
     "details": [
       "NES exclusive game"
@@ -5808,7 +5972,7 @@
   },
   {
     "name": "Lunar Pool",
-    "id": "nes233",
+    "id": "nes238",
     "details": [
       "NES hang tab game"
     ],
@@ -5833,7 +5997,32 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes234",
+    "name": "M.U.L.E.",
+    "id": "nes239",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 23895,
+    "gbId": 14520,
+    "gbGuid": "3030-14520",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes240",
     "details": [
       "NES launch title",
       "NES black box game: Programmable Series",
@@ -5881,7 +6070,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes235",
+    "id": "nes241",
     "name": "Mad Max",
     "details": [
       "NES exclusive game"
@@ -5904,7 +6093,7 @@
     "special": []
   },
   {
-    "id": "nes236",
+    "id": "nes242",
     "name": "Magic Bubble",
     "details": [
       "NES exclusive game"
@@ -5927,7 +6116,7 @@
     "special": []
   },
   {
-    "id": "nes237",
+    "id": "nes243",
     "name": "Magic Darts",
     "details": [
       "NES exclusive game"
@@ -5950,7 +6139,32 @@
     "special": []
   },
   {
-    "id": "nes238",
+    "name": "Magic Johnson's Fast Break",
+    "id": "nes244",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 48180,
+    "gbId": 1725,
+    "gbGuid": "3030-1725",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes245",
     "name": "Magician",
     "details": [
       "NES exclusive game"
@@ -5973,7 +6187,7 @@
     "special": []
   },
   {
-    "id": "nes239",
+    "id": "nes246",
     "name": "Major League Baseball",
     "details": [
       "NES exclusive game"
@@ -5996,7 +6210,7 @@
     "special": []
   },
   {
-    "id": "nes240",
+    "id": "nes247",
     "name": "Mappy Kids",
     "details": [
       "NES exclusive game"
@@ -6019,7 +6233,7 @@
     "special": []
   },
   {
-    "id": "nes241",
+    "id": "nes248",
     "name": "Mario Bros",
     "details": [
       "NES black box game: Arcade Series",
@@ -6058,7 +6272,7 @@
   },
   {
     "name": "Mega Man",
-    "id": "nes242",
+    "id": "nes249",
     "details": [
       "NES hang tab game"
     ],
@@ -6083,7 +6297,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes243",
+    "id": "nes250",
     "name": "Meitantei Holmes: M-Kara no Chousenjou",
     "details": [
       "NES exclusive game"
@@ -6106,7 +6320,7 @@
     "special": []
   },
   {
-    "id": "nes244",
+    "id": "nes251",
     "name": "Menace Beach",
     "details": [
       "NES exclusive game"
@@ -6129,7 +6343,7 @@
     "special": []
   },
   {
-    "id": "nes245",
+    "id": "nes252",
     "name": "Metal Mech: Man & Machine",
     "details": [
       "NES exclusive game"
@@ -6152,7 +6366,7 @@
     "special": []
   },
   {
-    "id": "nes246",
+    "id": "nes253",
     "name": "Metal Storm",
     "details": [
       "NES exclusive game"
@@ -6176,7 +6390,7 @@
   },
   {
     "name": "Metroid",
-    "id": "nes247",
+    "id": "nes254",
     "details": [
       "NES hang tab game"
     ],
@@ -6201,7 +6415,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes248",
+    "id": "nes255",
     "name": "Mezase! Top Pro Green ni Kakeru Yume",
     "details": [
       "NES exclusive game"
@@ -6224,7 +6438,7 @@
     "special": []
   },
   {
-    "id": "nes249",
+    "id": "nes256",
     "name": "Michael Andretti's World GP",
     "details": [
       "NES exclusive game"
@@ -6247,7 +6461,7 @@
     "special": []
   },
   {
-    "id": "nes250",
+    "id": "nes257",
     "name": "Mickey Mousecapade",
     "details": [
       "NES exclusive game"
@@ -6270,7 +6484,7 @@
     "special": []
   },
   {
-    "id": "nes251",
+    "id": "nes258",
     "name": "Mickey's Adventure in Numberland",
     "details": [
       "NES exclusive game"
@@ -6293,7 +6507,7 @@
     "special": []
   },
   {
-    "id": "nes252",
+    "id": "nes259",
     "name": "Mickey's Safari in Letterland",
     "details": [
       "NES exclusive game"
@@ -6316,7 +6530,7 @@
     "special": []
   },
   {
-    "id": "nes253",
+    "id": "nes260",
     "name": "Mighty Atom",
     "details": [
       "NES exclusive game"
@@ -6340,7 +6554,7 @@
   },
   {
     "name": "Mighty Bomb Jack",
-    "id": "nes254",
+    "id": "nes261",
     "details": [
       "NES hang tab game"
     ],
@@ -6366,7 +6580,7 @@
   },
   {
     "name": "Mike Tyson's Punch-Out!!",
-    "id": "nes255",
+    "id": "nes262",
     "details": [
       "NES hang tab game"
     ],
@@ -6391,7 +6605,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes256",
+    "id": "nes263",
     "name": "Minelvaton Saga: Ragon no Fukkatsu",
     "details": [
       "NES exclusive game"
@@ -6414,7 +6628,7 @@
     "special": []
   },
   {
-    "id": "nes257",
+    "id": "nes264",
     "name": "Miracle Ropitt: 2100-nen no Daibouken",
     "details": [
       "NES exclusive game"
@@ -6437,7 +6651,7 @@
     "special": []
   },
   {
-    "id": "nes258",
+    "id": "nes265",
     "name": "Mission: Impossible",
     "details": [
       "NES exclusive game"
@@ -6460,7 +6674,7 @@
     "special": []
   },
   {
-    "id": "nes259",
+    "id": "nes266",
     "name": "Mitsume Ga Tooru",
     "details": [
       "NES exclusive game"
@@ -6483,7 +6697,7 @@
     "special": []
   },
   {
-    "id": "nes260",
+    "id": "nes267",
     "name": "Moai-kun",
     "details": [
       "NES exclusive game"
@@ -6506,7 +6720,7 @@
     "special": []
   },
   {
-    "id": "nes261",
+    "id": "nes268",
     "name": "Moero 6!! Shin Moero!! Pro Yakyuu",
     "details": [
       "NES exclusive game"
@@ -6529,7 +6743,7 @@
     "special": []
   },
   {
-    "id": "nes262",
+    "id": "nes269",
     "name": "Moero!! Judo Warriors",
     "details": [
       "NES exclusive game"
@@ -6552,7 +6766,32 @@
     "special": []
   },
   {
-    "id": "nes263",
+    "name": "Monopoly",
+    "id": "nes270",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 122241,
+    "gbId": 2958,
+    "gbGuid": "3030-2958",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes271",
     "name": "Monster Party",
     "details": [
       "NES exclusive game"
@@ -6575,10 +6814,11 @@
     "special": []
   },
   {
-    "id": "nes264",
+    "id": "nes272",
     "name": "Monster Truck Rally",
     "details": [
-      "NES exclusive game"
+      "NES exclusive game",
+      "NES Four Score compatible title"
     ],
     "igdbId": 48199,
     "gbId": 40422,
@@ -6594,11 +6834,23 @@
         "tgdbId": 7
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
-    "id": "nes265",
+    "id": "nes273",
     "name": "Monster in My Pocket",
     "details": [
       "NES exclusive game"
@@ -6621,7 +6873,7 @@
     "special": []
   },
   {
-    "id": "nes266",
+    "id": "nes274",
     "name": "Moon Ranger",
     "details": [
       "NES exclusive game"
@@ -6644,7 +6896,7 @@
     "special": []
   },
   {
-    "id": "nes267",
+    "id": "nes275",
     "name": "Motor City Patrol",
     "details": [
       "NES exclusive game"
@@ -6667,7 +6919,7 @@
     "special": []
   },
   {
-    "id": "nes268",
+    "id": "nes276",
     "name": "Musashi no Bouken",
     "details": [
       "NES exclusive game"
@@ -6690,7 +6942,7 @@
     "special": []
   },
   {
-    "id": "nes269",
+    "id": "nes277",
     "name": "Musashi no Ken: Tadaima Shugyou Chuu",
     "details": [
       "NES exclusive game"
@@ -6713,7 +6965,32 @@
     "special": []
   },
   {
-    "id": "nes270",
+    "name": "NES Play Action Football",
+    "id": "nes278",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 48194,
+    "gbId": 1853,
+    "gbGuid": "3030-1853",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes279",
     "name": "NFL Football",
     "details": [
       "NES exclusive game"
@@ -6736,7 +7013,7 @@
     "special": []
   },
   {
-    "id": "nes271",
+    "id": "nes280",
     "name": "Nagagutsu o Haita Neko: Sekai Isshuu 80 Nichi Dai Bouken",
     "details": [
       "NES exclusive game"
@@ -6759,7 +7036,7 @@
     "special": []
   },
   {
-    "id": "nes272",
+    "id": "nes281",
     "name": "Nakajima Satoru: F1 Hero 2",
     "details": [
       "NES exclusive game"
@@ -6782,7 +7059,7 @@
     "special": []
   },
   {
-    "id": "nes273",
+    "id": "nes282",
     "name": "Napoleon Senki",
     "details": [
       "NES exclusive game"
@@ -6805,7 +7082,7 @@
     "special": []
   },
   {
-    "id": "nes274",
+    "id": "nes283",
     "name": "Nekketsu Kakutou Densetsu",
     "details": [
       "NES exclusive game"
@@ -6828,7 +7105,7 @@
     "special": []
   },
   {
-    "id": "nes275",
+    "id": "nes284",
     "name": "New Ghostbusters II",
     "details": [
       "NES exclusive game"
@@ -6851,7 +7128,7 @@
     "special": []
   },
   {
-    "id": "nes276",
+    "id": "nes285",
     "name": "Nightshade",
     "details": [
       "NES exclusive game"
@@ -6874,7 +7151,7 @@
     "special": []
   },
   {
-    "id": "nes277",
+    "id": "nes286",
     "name": "Niji no Silkroad",
     "details": [
       "NES exclusive game"
@@ -6897,7 +7174,7 @@
     "special": []
   },
   {
-    "id": "nes278",
+    "id": "nes287",
     "name": "Ninja Crusaders",
     "details": [
       "NES exclusive game"
@@ -6920,7 +7197,7 @@
     "special": []
   },
   {
-    "id": "nes279",
+    "id": "nes288",
     "name": "Ninja Hattori-kun: Ninja wa Syugyou de Gozaru",
     "details": [
       "NES exclusive game"
@@ -6943,7 +7220,7 @@
     "special": []
   },
   {
-    "id": "nes280",
+    "id": "nes289",
     "name": "Ninja Kid",
     "details": [
       "NES exclusive game",
@@ -6979,7 +7256,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes281",
+    "id": "nes290",
     "name": "Noah's Ark",
     "details": [
       "NES exclusive game"
@@ -7002,7 +7279,7 @@
     "special": []
   },
   {
-    "id": "nes282",
+    "id": "nes291",
     "name": "Oishinbo: Kyukyoku no Menu 3bon Syoubu",
     "details": [
       "NES exclusive game"
@@ -7025,7 +7302,7 @@
     "special": []
   },
   {
-    "id": "nes283",
+    "id": "nes292",
     "name": "Operation Secret Storm",
     "details": [
       "NES exclusive game"
@@ -7048,7 +7325,7 @@
     "special": []
   },
   {
-    "id": "nes284",
+    "id": "nes293",
     "name": "Over Horizon",
     "details": [
       "NES exclusive game"
@@ -7071,7 +7348,7 @@
     "special": []
   },
   {
-    "id": "nes285",
+    "id": "nes294",
     "name": "Pachi-Slot Adventure 2: Sorotta-kun no Pachi-Slot Tanteidan",
     "details": [
       "NES exclusive game"
@@ -7094,7 +7371,7 @@
     "special": []
   },
   {
-    "id": "nes286",
+    "id": "nes295",
     "name": "Pachi-Slot Adventure 3: Bitaoshii 7 Kenzan!",
     "details": [
       "NES exclusive game"
@@ -7117,7 +7394,7 @@
     "special": []
   },
   {
-    "id": "nes287",
+    "id": "nes296",
     "name": "Panic Restaurant",
     "details": [
       "NES exclusive game"
@@ -7140,7 +7417,7 @@
     "special": []
   },
   {
-    "id": "nes288",
+    "id": "nes297",
     "name": "Parallel World",
     "details": [
       "NES exclusive game"
@@ -7163,7 +7440,7 @@
     "special": []
   },
   {
-    "id": "nes289",
+    "id": "nes298",
     "name": "Peek-A-Boo Poker",
     "details": [
       "NES exclusive game"
@@ -7186,7 +7463,7 @@
     "special": []
   },
   {
-    "id": "nes290",
+    "id": "nes299",
     "name": "Pesterminator: The Western Exterminator",
     "details": [
       "NES exclusive game"
@@ -7209,7 +7486,7 @@
     "special": []
   },
   {
-    "id": "nes291",
+    "id": "nes300",
     "name": "Peter Pan & The Pirates",
     "details": [
       "NES exclusive game"
@@ -7232,7 +7509,7 @@
     "special": []
   },
   {
-    "id": "nes292",
+    "id": "nes301",
     "name": "Phantom Fighter",
     "details": [
       "NES exclusive game"
@@ -7255,7 +7532,7 @@
     "special": []
   },
   {
-    "id": "nes293",
+    "id": "nes302",
     "name": "Pictionary",
     "details": [
       "NES exclusive game"
@@ -7278,7 +7555,7 @@
     "special": []
   },
   {
-    "id": "nes294",
+    "id": "nes303",
     "name": "PinBot",
     "details": [
       "NES exclusive game"
@@ -7301,7 +7578,7 @@
     "special": []
   },
   {
-    "id": "nes295",
+    "id": "nes304",
     "details": [
       "NES launch title",
       "NES black box game: Action Series",
@@ -7349,7 +7626,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes296",
+    "id": "nes305",
     "name": "Pinball Quest",
     "details": [
       "NES exclusive game"
@@ -7372,7 +7649,7 @@
     "special": []
   },
   {
-    "id": "nes297",
+    "id": "nes306",
     "name": "Popeye",
     "details": [
       "NES black box game: Arcade Series",
@@ -7410,7 +7687,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes298",
+    "id": "nes307",
     "name": "Popeye no Eigo Asobi",
     "details": [
       "NES exclusive game"
@@ -7433,7 +7710,7 @@
     "special": []
   },
   {
-    "id": "nes299",
+    "id": "nes308",
     "name": "Power Blade 2",
     "details": [
       "NES exclusive game"
@@ -7456,7 +7733,7 @@
     "special": []
   },
   {
-    "id": "nes300",
+    "id": "nes309",
     "name": "Power Punch II",
     "details": [
       "NES exclusive game"
@@ -7479,7 +7756,7 @@
     "special": []
   },
   {
-    "id": "nes301",
+    "id": "nes310",
     "name": "Power Soccer",
     "details": [
       "NES exclusive game"
@@ -7502,7 +7779,7 @@
     "special": []
   },
   {
-    "id": "nes302",
+    "id": "nes311",
     "name": "Pro Wrestling",
     "details": [
       "NES black box game: Sports Series",
@@ -7540,7 +7817,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes303",
+    "id": "nes312",
     "name": "Puss 'n Boots: Pero's Great Adventure",
     "details": [
       "NES exclusive game"
@@ -7563,7 +7840,32 @@
     "special": []
   },
   {
-    "id": "nes304",
+    "name": "R.C. Pro-Am II",
+    "id": "nes313",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 9156,
+    "gbId": 1316,
+    "gbGuid": "3030-1316",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes314",
     "name": "RPG Jinsei Game",
     "details": [
       "NES exclusive game"
@@ -7586,7 +7888,7 @@
     "special": []
   },
   {
-    "id": "nes305",
+    "id": "nes315",
     "name": "Race America",
     "details": [
       "NES exclusive game"
@@ -7609,7 +7911,7 @@
     "special": []
   },
   {
-    "id": "nes306",
+    "id": "nes316",
     "name": "Racer Mini Yonku: Japan Cup",
     "details": [
       "NES exclusive game"
@@ -7632,7 +7934,7 @@
     "special": []
   },
   {
-    "id": "nes307",
+    "id": "nes317",
     "name": "Racket Attack",
     "details": [
       "NES exclusive game"
@@ -7655,8 +7957,33 @@
     "special": []
   },
   {
+    "name": "Rackets & Rivals",
+    "id": "nes318",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 48213,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Rad Racer",
-    "id": "nes308",
+    "id": "nes319",
     "details": [
       "NES hang tab game"
     ],
@@ -7681,7 +8008,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes309",
+    "id": "nes320",
     "name": "Radia Senki: Reimmeihen",
     "details": [
       "NES exclusive game"
@@ -7704,7 +8031,7 @@
     "special": []
   },
   {
-    "id": "nes310",
+    "id": "nes321",
     "name": "Raid !!!",
     "details": [
       "NES exclusive game"
@@ -7727,7 +8054,7 @@
     "special": []
   },
   {
-    "id": "nes311",
+    "id": "nes322",
     "name": "Raid 2020",
     "details": [
       "NES exclusive game"
@@ -7751,7 +8078,7 @@
   },
   {
     "name": "Raid On Bungeling Bay",
-    "id": "nes312",
+    "id": "nes323",
     "details": [
       "NES hang tab game"
     ],
@@ -7776,7 +8103,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes313",
+    "id": "nes324",
     "name": "Rambo",
     "details": [
       "NES exclusive game"
@@ -7800,7 +8127,7 @@
   },
   {
     "name": "Renegade",
-    "id": "nes314",
+    "id": "nes325",
     "details": [
       "NES hang tab game"
     ],
@@ -7826,7 +8153,7 @@
   },
   {
     "name": "Ring King",
-    "id": "nes315",
+    "id": "nes326",
     "details": [
       "NES hang tab game"
     ],
@@ -7851,7 +8178,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes316",
+    "id": "nes327",
     "name": "Robocco Wars",
     "details": [
       "NES exclusive game"
@@ -7874,7 +8201,7 @@
     "special": []
   },
   {
-    "id": "nes317",
+    "id": "nes328",
     "name": "Robodemons",
     "details": [
       "NES exclusive game"
@@ -7897,10 +8224,11 @@
     "special": []
   },
   {
-    "id": "nes318",
+    "id": "nes329",
     "name": "Rock 'n' Ball",
     "details": [
-      "NES exclusive game"
+      "NES exclusive game",
+      "NES Four Score compatible title"
     ],
     "igdbId": 48206,
     "gbId": 1790,
@@ -7916,11 +8244,23 @@
         "tgdbId": 7
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
-    "id": "nes319",
+    "id": "nes330",
     "name": "RollerGames",
     "details": [
       "NES exclusive game"
@@ -7943,7 +8283,32 @@
     "special": []
   },
   {
-    "id": "nes320",
+    "name": "Roundball: 2 on 2 Challenge",
+    "id": "nes331",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 48203,
+    "gbId": 33589,
+    "gbGuid": "3030-33589",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes332",
     "name": "Roundball: 2 on 2 Challenge",
     "details": [
       "NES exclusive game"
@@ -7967,7 +8332,7 @@
   },
   {
     "name": "Rush'n Attack",
-    "id": "nes321",
+    "id": "nes333",
     "details": [
       "NES hang tab game"
     ],
@@ -7993,7 +8358,7 @@
   },
   {
     "name": "Rygar",
-    "id": "nes322",
+    "id": "nes334",
     "details": [
       "NES hang tab game"
     ],
@@ -8018,7 +8383,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes323",
+    "id": "nes335",
     "name": "Sanada Ten Braves",
     "details": [
       "NES exclusive game"
@@ -8041,7 +8406,7 @@
     "special": []
   },
   {
-    "id": "nes324",
+    "id": "nes336",
     "name": "Sanrio Cup: Ponpon Volleyball",
     "details": [
       "NES exclusive game"
@@ -8065,7 +8430,7 @@
   },
   {
     "name": "Section-Z",
-    "id": "nes325",
+    "id": "nes337",
     "details": [
       "NES hang tab game"
     ],
@@ -8090,7 +8455,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes326",
+    "id": "nes338",
     "name": "Sherlock Holmes: Hakushaku Reijou Yuukai Jiken",
     "details": [
       "NES exclusive game"
@@ -8113,7 +8478,7 @@
     "special": []
   },
   {
-    "id": "nes327",
+    "id": "nes339",
     "name": "Shockwave",
     "details": [
       "NES exclusive game"
@@ -8136,7 +8501,7 @@
     "special": []
   },
   {
-    "id": "nes328",
+    "id": "nes340",
     "name": "Shooting Range",
     "details": [
       "NES exclusive game"
@@ -8160,7 +8525,7 @@
   },
   {
     "name": "Side Pocket",
-    "id": "nes329",
+    "id": "nes341",
     "details": [
       "NES hang tab game"
     ],
@@ -8185,7 +8550,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes330",
+    "id": "nes342",
     "name": "Sidewinder",
     "details": [
       "NES exclusive game"
@@ -8208,7 +8573,7 @@
     "special": []
   },
   {
-    "id": "nes331",
+    "id": "nes343",
     "name": "Silver Surfer",
     "details": [
       "NES exclusive game"
@@ -8231,7 +8596,7 @@
     "special": []
   },
   {
-    "id": "nes332",
+    "id": "nes344",
     "name": "Skate or Die 2: The Search for Double Trouble",
     "details": [
       "NES exclusive game"
@@ -8255,7 +8620,7 @@
   },
   {
     "name": "Sky Kid",
-    "id": "nes333",
+    "id": "nes345",
     "details": [
       "NES hang tab game"
     ],
@@ -8280,7 +8645,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes334",
+    "id": "nes346",
     "name": "Slalom",
     "details": [
       "NES black box game: Sports Series",
@@ -8318,7 +8683,32 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes335",
+    "name": "Smash T.V.",
+    "id": "nes347",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 12853,
+    "gbId": 16194,
+    "gbGuid": "3030-16194",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes348",
     "name": "Snake's Revenge",
     "details": [
       "NES exclusive game"
@@ -8341,7 +8731,7 @@
     "special": []
   },
   {
-    "id": "nes336",
+    "id": "nes349",
     "name": "Snoopy's Silly Sports Spectacular!",
     "details": [
       "NES exclusive game"
@@ -8364,7 +8754,7 @@
     "special": []
   },
   {
-    "id": "nes337",
+    "id": "nes350",
     "name": "Soccer",
     "details": [
       "NES black box game: Sports Series",
@@ -8403,7 +8793,7 @@
   },
   {
     "name": "Solomon's Key",
-    "id": "nes338",
+    "id": "nes351",
     "details": [
       "NES hang tab game"
     ],
@@ -8428,7 +8818,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes339",
+    "id": "nes352",
     "name": "Solstice: The Quest for the Staff of Demnos",
     "details": [
       "NES exclusive game"
@@ -8451,7 +8841,7 @@
     "special": []
   },
   {
-    "id": "nes340",
+    "id": "nes353",
     "name": "Somari",
     "details": [
       "NES exclusive game"
@@ -8474,7 +8864,7 @@
     "special": []
   },
   {
-    "id": "nes341",
+    "id": "nes354",
     "name": "Space Hunter",
     "details": [
       "NES exclusive game"
@@ -8497,7 +8887,7 @@
     "special": []
   },
   {
-    "id": "nes342",
+    "id": "nes355",
     "name": "Space Shuttle Project",
     "details": [
       "NES exclusive game"
@@ -8520,7 +8910,7 @@
     "special": []
   },
   {
-    "id": "nes343",
+    "id": "nes356",
     "name": "Spartan X 2",
     "details": [
       "NES exclusive game"
@@ -8544,7 +8934,7 @@
   },
   {
     "name": "Spelunker",
-    "id": "nes344",
+    "id": "nes357",
     "details": [
       "NES hang tab game"
     ],
@@ -8569,7 +8959,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes345",
+    "id": "nes358",
     "name": "Spelunker II: Yuushahe no Chousen",
     "details": [
       "NES exclusive game"
@@ -8592,7 +8982,7 @@
     "special": []
   },
   {
-    "id": "nes346",
+    "id": "nes359",
     "name": "Splatterhouse: Wanpaku Graffiti",
     "details": [
       "NES exclusive game"
@@ -8615,8 +9005,33 @@
     "special": []
   },
   {
+    "name": "Spot: The Video Game",
+    "id": "nes360",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 48075,
+    "gbId": 5156,
+    "gbGuid": "3030-5156",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Spy Hunter",
-    "id": "nes347",
+    "id": "nes361",
     "details": [
       "NES hang tab game"
     ],
@@ -8641,7 +9056,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes348",
+    "id": "nes362",
     "name": "Sqoon",
     "details": [
       "NES exclusive game",
@@ -8677,7 +9092,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes349",
+    "id": "nes363",
     "name": "Square no Tom Sawyer",
     "details": [
       "NES exclusive game"
@@ -8700,7 +9115,7 @@
     "special": []
   },
   {
-    "id": "nes350",
+    "id": "nes364",
     "details": [
       "NES launch title",
       "NES black box game: Robot Series",
@@ -8748,7 +9163,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes351",
+    "id": "nes365",
     "name": "Stadium Events",
     "details": [
       "NES exclusive game",
@@ -8784,7 +9199,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes352",
+    "id": "nes366",
     "name": "Stanley: The Search for Dr. Livingston",
     "details": [
       "NES exclusive game"
@@ -8808,7 +9223,7 @@
   },
   {
     "name": "Star Force",
-    "id": "nes353",
+    "id": "nes367",
     "details": [
       "NES hang tab game"
     ],
@@ -8833,7 +9248,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes354",
+    "id": "nes368",
     "name": "Star Trek: 25th Anniversary",
     "details": [
       "NES exclusive game"
@@ -8856,7 +9271,7 @@
     "special": []
   },
   {
-    "id": "nes355",
+    "id": "nes369",
     "name": "Star Voyager",
     "details": [
       "NES exclusive game",
@@ -8892,7 +9307,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes356",
+    "id": "nes370",
     "name": "Star Wars",
     "details": [
       "NES exclusive game"
@@ -8915,7 +9330,7 @@
     "special": []
   },
   {
-    "id": "nes357",
+    "id": "nes371",
     "name": "Starship Hector",
     "details": [
       "NES exclusive game"
@@ -8938,7 +9353,7 @@
     "special": []
   },
   {
-    "id": "nes358",
+    "id": "nes372",
     "name": "Stealth ATF",
     "details": [
       "NES exclusive game"
@@ -8962,7 +9377,7 @@
   },
   {
     "name": "Stinger",
-    "id": "nes359",
+    "id": "nes373",
     "details": [
       "NES hang tab game"
     ],
@@ -8987,7 +9402,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes360",
+    "id": "nes374",
     "name": "Sunman",
     "details": [
       "NES exclusive game"
@@ -9010,7 +9425,7 @@
     "special": []
   },
   {
-    "id": "nes361",
+    "id": "nes375",
     "name": "Super Chinese 3",
     "details": [
       "NES exclusive game"
@@ -9033,7 +9448,7 @@
     "special": []
   },
   {
-    "id": "nes362",
+    "id": "nes376",
     "name": "Super Glove Ball",
     "details": [
       "NES exclusive game"
@@ -9056,7 +9471,32 @@
     "special": []
   },
   {
-    "id": "nes363",
+    "name": "Super Jeopardy!",
+    "id": "nes377",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 64476,
+    "gbId": 24201,
+    "gbGuid": "3030-24201",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes378",
     "details": [
       "NES launch title",
       "NES black box game: Action Series",
@@ -9105,7 +9545,7 @@
   },
   {
     "name": "Super Pitfall",
-    "id": "nes364",
+    "id": "nes379",
     "details": [
       "NES hang tab game"
     ],
@@ -9130,7 +9570,32 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes365",
+    "name": "Super Spike V'Ball",
+    "id": "nes380",
+    "details": [
+      "NES Four Score compatible title"
+    ],
+    "igdbId": 48073,
+    "gbId": 12512,
+    "gbGuid": "3030-12512",
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "nes381",
     "name": "Super Star Force: Jikūreki no Himitsu",
     "details": [
       "NES exclusive game"
@@ -9153,7 +9618,7 @@
     "special": []
   },
   {
-    "id": "nes366",
+    "id": "nes382",
     "name": "Super Turrican",
     "details": [
       "NES exclusive game"
@@ -9176,7 +9641,7 @@
     "special": []
   },
   {
-    "id": "nes367",
+    "id": "nes383",
     "name": "Superman",
     "details": [
       "NES exclusive game"
@@ -9199,7 +9664,7 @@
     "special": []
   },
   {
-    "id": "nes368",
+    "id": "nes384",
     "name": "Sweet Home",
     "details": [
       "NES exclusive game"
@@ -9222,7 +9687,7 @@
     "special": []
   },
   {
-    "id": "nes369",
+    "id": "nes385",
     "name": "Sword Master",
     "details": [
       "NES exclusive game"
@@ -9245,10 +9710,11 @@
     "special": []
   },
   {
-    "id": "nes370",
+    "id": "nes386",
     "name": "Swords and Serpents",
     "details": [
-      "NES exclusive game"
+      "NES exclusive game",
+      "NES Four Score compatible title"
     ],
     "igdbId": 48230,
     "gbId": 3639,
@@ -9264,11 +9730,23 @@
         "tgdbId": 7
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
-    "id": "nes371",
+    "id": "nes387",
     "name": "TM Network: Live in Power Bowl",
     "details": [
       "NES exclusive game"
@@ -9291,7 +9769,7 @@
     "special": []
   },
   {
-    "id": "nes372",
+    "id": "nes388",
     "name": "Taboo: The Sixth Sense",
     "details": [
       "NES exclusive game"
@@ -9314,31 +9792,8 @@
     "special": []
   },
   {
-    "id": "nes373",
     "name": "Tag Team Match: M.U.S.C.L.E.",
-    "details": [
-      "NES exclusive game"
-    ],
-    "igdbId": 48933,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": 1891,
-    "isExclusive": [
-      {
-        "name": "Nintendo Entertainment System (NES)",
-        "id": "ccl1",
-        "igdbId": 18,
-        "gbId": 21,
-        "gbGuid": "3045-21",
-        "tgdbId": 7
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Tag Team Match: M.U.S.C.L.E.",
-    "id": "nes374",
+    "id": "nes389",
     "details": [
       "NES hang tab game"
     ],
@@ -9363,8 +9818,31 @@
     "isLaunchTitle": false
   },
   {
+    "id": "nes390",
+    "name": "Tag Team Match: M.U.S.C.L.E.",
+    "details": [
+      "NES exclusive game"
+    ],
+    "igdbId": 48933,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 1891,
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
     "name": "Tag Team Wrestling",
-    "id": "nes375",
+    "id": "nes391",
     "details": [
       "NES hang tab game"
     ],
@@ -9389,7 +9867,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes376",
+    "id": "nes392",
     "name": "Takahashi Meijin no Bouken Jima IV",
     "details": [
       "NES exclusive game"
@@ -9412,7 +9890,7 @@
     "special": []
   },
   {
-    "id": "nes377",
+    "id": "nes393",
     "name": "Tecmo Baseball",
     "details": [
       "NES exclusive game"
@@ -9435,7 +9913,7 @@
     "special": []
   },
   {
-    "id": "nes378",
+    "id": "nes394",
     "name": "Tecmo Cup Soccer Game",
     "details": [
       "NES exclusive game"
@@ -9458,7 +9936,7 @@
     "special": []
   },
   {
-    "id": "nes379",
+    "id": "nes395",
     "name": "Tecmo NBA Basketball",
     "details": [
       "NES exclusive game"
@@ -9481,7 +9959,7 @@
     "special": []
   },
   {
-    "id": "nes380",
+    "id": "nes396",
     "name": "Tecmo World Wrestling",
     "details": [
       "NES exclusive game"
@@ -9504,7 +9982,7 @@
     "special": []
   },
   {
-    "id": "nes381",
+    "id": "nes397",
     "name": "Teenage Mutant Ninja Turtles III: The Manhattan Project",
     "details": [
       "NES exclusive game"
@@ -9527,7 +10005,7 @@
     "special": []
   },
   {
-    "id": "nes382",
+    "id": "nes398",
     "name": "Teenage Mutant Ninja Turtles: Tournament Fighters",
     "details": [
       "NES exclusive game"
@@ -9550,7 +10028,7 @@
     "special": []
   },
   {
-    "id": "nes383",
+    "id": "nes399",
     "name": "Tenchi wo Kurau II: Shokatsu Koumei Den",
     "details": [
       "NES exclusive game"
@@ -9573,7 +10051,7 @@
     "special": []
   },
   {
-    "id": "nes384",
+    "id": "nes400",
     "name": "Tenkaichi Bushi: Keru Naguuru",
     "details": [
       "NES exclusive game"
@@ -9596,7 +10074,7 @@
     "special": []
   },
   {
-    "id": "nes385",
+    "id": "nes401",
     "details": [
       "NES launch title",
       "NES black box game: Sports Series",
@@ -9644,7 +10122,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes386",
+    "id": "nes402",
     "name": "The Adventures of Bayou Billy",
     "details": [
       "NES exclusive game"
@@ -9667,7 +10145,7 @@
     "special": []
   },
   {
-    "id": "nes387",
+    "id": "nes403",
     "name": "The Adventures of Gilligan's Island",
     "details": [
       "NES exclusive game"
@@ -9690,7 +10168,7 @@
     "special": []
   },
   {
-    "id": "nes388",
+    "id": "nes404",
     "name": "The Adventures of Rad Gravity",
     "details": [
       "NES exclusive game"
@@ -9713,7 +10191,7 @@
     "special": []
   },
   {
-    "id": "nes389",
+    "id": "nes405",
     "name": "The Black Bass",
     "details": [
       "NES exclusive game"
@@ -9736,7 +10214,7 @@
     "special": []
   },
   {
-    "id": "nes390",
+    "id": "nes406",
     "name": "The Blue Marlin",
     "details": [
       "NES exclusive game"
@@ -9759,7 +10237,7 @@
     "special": []
   },
   {
-    "id": "nes391",
+    "id": "nes407",
     "name": "The Bugs Bunny Birthday Blowout",
     "details": [
       "NES exclusive game"
@@ -9782,7 +10260,7 @@
     "special": []
   },
   {
-    "id": "nes392",
+    "id": "nes408",
     "name": "The California Raisins: The Grape Escape",
     "details": [
       "NES exclusive game"
@@ -9805,7 +10283,7 @@
     "special": []
   },
   {
-    "id": "nes393",
+    "id": "nes409",
     "name": "The Flintstones: The Rescue of Dino & Hoppy",
     "details": [
       "NES exclusive game"
@@ -9828,7 +10306,7 @@
     "special": []
   },
   {
-    "id": "nes394",
+    "id": "nes410",
     "name": "The Flintstones: The Surprise at Dinosaur Peak!",
     "details": [
       "NES exclusive game"
@@ -9851,7 +10329,7 @@
     "special": []
   },
   {
-    "id": "nes395",
+    "id": "nes411",
     "name": "The Golf '92",
     "details": [
       "NES exclusive game"
@@ -9874,7 +10352,7 @@
     "special": []
   },
   {
-    "id": "nes396",
+    "id": "nes412",
     "name": "The Goonies II",
     "details": [
       "NES exclusive game",
@@ -9910,7 +10388,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes397",
+    "id": "nes413",
     "name": "The Guardian Legend",
     "details": [
       "NES exclusive game"
@@ -9933,7 +10411,7 @@
     "special": []
   },
   {
-    "id": "nes398",
+    "id": "nes414",
     "name": "The Jetsons: Cogswell's Caper",
     "details": [
       "NES exclusive game"
@@ -9956,7 +10434,7 @@
     "special": []
   },
   {
-    "id": "nes399",
+    "id": "nes415",
     "name": "The Karate Kid",
     "details": [
       "NES exclusive game",
@@ -9993,7 +10471,7 @@
   },
   {
     "name": "The Legend Of Zelda ",
-    "id": "nes400",
+    "id": "nes416",
     "details": [
       "NES hang tab game"
     ],
@@ -10019,7 +10497,7 @@
   },
   {
     "name": "The Legend of Kage",
-    "id": "nes401",
+    "id": "nes417",
     "details": [
       "NES hang tab game"
     ],
@@ -10044,7 +10522,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes402",
+    "id": "nes418",
     "name": "The Lone Ranger",
     "details": [
       "NES exclusive game"
@@ -10067,7 +10545,7 @@
     "special": []
   },
   {
-    "id": "nes403",
+    "id": "nes419",
     "name": "The Mafat Conspiracy",
     "details": [
       "NES exclusive game"
@@ -10090,7 +10568,7 @@
     "special": []
   },
   {
-    "id": "nes404",
+    "id": "nes420",
     "name": "The Magic of Scheherazade",
     "details": [
       "NES exclusive game"
@@ -10113,7 +10591,7 @@
     "special": []
   },
   {
-    "id": "nes405",
+    "id": "nes421",
     "name": "The Mutant Virus: \"Crisis in a Computer World!\"",
     "details": [
       "NES exclusive game"
@@ -10136,7 +10614,7 @@
     "special": []
   },
   {
-    "id": "nes406",
+    "id": "nes422",
     "name": "The Quest of Ki",
     "details": [
       "NES exclusive game"
@@ -10159,7 +10637,7 @@
     "special": []
   },
   {
-    "id": "nes407",
+    "id": "nes423",
     "name": "The Rocketeer",
     "details": [
       "NES exclusive game"
@@ -10182,7 +10660,7 @@
     "special": []
   },
   {
-    "id": "nes408",
+    "id": "nes424",
     "name": "The Super Dimension Fortress Macross",
     "details": [
       "NES exclusive game"
@@ -10205,7 +10683,7 @@
     "special": []
   },
   {
-    "id": "nes409",
+    "id": "nes425",
     "name": "The Ultimate Stuntman",
     "details": [
       "NES exclusive game"
@@ -10228,7 +10706,7 @@
     "special": []
   },
   {
-    "id": "nes410",
+    "id": "nes426",
     "name": "The Uncanny X-Men",
     "details": [
       "NES exclusive game"
@@ -10251,7 +10729,7 @@
     "special": []
   },
   {
-    "id": "nes411",
+    "id": "nes427",
     "name": "The Young Indiana Jones Chronicles",
     "details": [
       "NES exclusive game"
@@ -10275,7 +10753,7 @@
   },
   {
     "name": "Tiger-Heli",
-    "id": "nes412",
+    "id": "nes428",
     "details": [
       "NES hang tab game"
     ],
@@ -10300,7 +10778,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes413",
+    "id": "nes429",
     "name": "Time Diver: Eon Man",
     "details": [
       "NES exclusive game"
@@ -10323,7 +10801,7 @@
     "special": []
   },
   {
-    "id": "nes414",
+    "id": "nes430",
     "name": "Time Lord",
     "details": [
       "NES exclusive game"
@@ -10346,7 +10824,7 @@
     "special": []
   },
   {
-    "id": "nes415",
+    "id": "nes431",
     "name": "Tiny Toon Adventures",
     "details": [
       "NES exclusive game"
@@ -10369,7 +10847,7 @@
     "special": []
   },
   {
-    "id": "nes416",
+    "id": "nes432",
     "name": "Tiny Toon Adventures 2: Trouble in Wackyland",
     "details": [
       "NES exclusive game"
@@ -10392,7 +10870,7 @@
     "special": []
   },
   {
-    "id": "nes417",
+    "id": "nes433",
     "name": "Tiny Toon Adventures Cartoon Workshop",
     "details": [
       "NES exclusive game"
@@ -10415,7 +10893,7 @@
     "special": []
   },
   {
-    "id": "nes418",
+    "id": "nes434",
     "name": "To the Earth",
     "details": [
       "NES exclusive game"
@@ -10438,7 +10916,7 @@
     "special": []
   },
   {
-    "id": "nes419",
+    "id": "nes435",
     "name": "Toki no Tabibito: Time Stranger",
     "details": [
       "NES exclusive game"
@@ -10461,7 +10939,7 @@
     "special": []
   },
   {
-    "id": "nes420",
+    "id": "nes436",
     "name": "Tokyo Pachi-Slot Adventure",
     "details": [
       "NES exclusive game"
@@ -10485,7 +10963,7 @@
   },
   {
     "name": "Top Gun",
-    "id": "nes421",
+    "id": "nes437",
     "details": [
       "NES hang tab game"
     ],
@@ -10510,10 +10988,11 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes422",
+    "id": "nes438",
     "name": "Top Players' Tennis",
     "details": [
-      "NES exclusive game"
+      "NES exclusive game",
+      "NES Four Score compatible title"
     ],
     "igdbId": 48700,
     "gbId": 7081,
@@ -10529,11 +11008,23 @@
         "tgdbId": 7
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "NES Four Score compatible title",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
-    "id": "nes423",
+    "id": "nes439",
     "name": "Top Striker",
     "details": [
       "NES exclusive game"
@@ -10556,7 +11047,7 @@
     "special": []
   },
   {
-    "id": "nes424",
+    "id": "nes440",
     "name": "Totally Rad",
     "details": [
       "NES exclusive game"
@@ -10579,7 +11070,7 @@
     "special": []
   },
   {
-    "id": "nes425",
+    "id": "nes441",
     "name": "Town & Country Surf Designs II: Thrilla's Surfari",
     "details": [
       "NES exclusive game"
@@ -10602,7 +11093,7 @@
     "special": []
   },
   {
-    "id": "nes426",
+    "id": "nes442",
     "name": "Town & Country Surf Designs: Wood & Water Rage",
     "details": [
       "NES exclusive game"
@@ -10625,7 +11116,7 @@
     "special": []
   },
   {
-    "id": "nes427",
+    "id": "nes443",
     "name": "Track & Field II",
     "details": [
       "NES exclusive game"
@@ -10649,7 +11140,7 @@
   },
   {
     "name": "Track and Field",
-    "id": "nes428",
+    "id": "nes444",
     "details": [
       "NES hang tab game"
     ],
@@ -10674,7 +11165,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes429",
+    "id": "nes445",
     "name": "Treasure Master",
     "details": [
       "NES exclusive game"
@@ -10698,7 +11189,7 @@
   },
   {
     "name": "Trojan",
-    "id": "nes430",
+    "id": "nes446",
     "details": [
       "NES hang tab game"
     ],
@@ -10723,7 +11214,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes431",
+    "id": "nes447",
     "name": "Tsuppari Wars",
     "details": [
       "NES exclusive game"
@@ -10746,7 +11237,7 @@
     "special": []
   },
   {
-    "id": "nes432",
+    "id": "nes448",
     "name": "UWC",
     "details": [
       "NES exclusive game"
@@ -10769,7 +11260,7 @@
     "special": []
   },
   {
-    "id": "nes433",
+    "id": "nes449",
     "name": "Ultimate Air Combat",
     "details": [
       "NES exclusive game"
@@ -10792,7 +11283,7 @@
     "special": []
   },
   {
-    "id": "nes434",
+    "id": "nes450",
     "name": "Ultimate Basketball",
     "details": [
       "NES exclusive game"
@@ -10815,7 +11306,7 @@
     "special": []
   },
   {
-    "id": "nes435",
+    "id": "nes451",
     "name": "Urban Champion",
     "details": [
       "NES black box game: Action Series",
@@ -10853,7 +11344,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes436",
+    "id": "nes452",
     "name": "Ushio to Tora: Shinen no Daiyou",
     "details": [
       "NES exclusive game"
@@ -10876,7 +11367,7 @@
     "special": []
   },
   {
-    "id": "nes437",
+    "id": "nes453",
     "name": "Utsurun Desu.: Kawauso Hawaii e Iku!!!",
     "details": [
       "NES exclusive game"
@@ -10899,7 +11390,7 @@
     "special": []
   },
   {
-    "id": "nes438",
+    "id": "nes454",
     "name": "Vegas Connection: Casino Kara Ai o Komete",
     "details": [
       "NES exclusive game"
@@ -10922,7 +11413,7 @@
     "special": []
   },
   {
-    "id": "nes439",
+    "id": "nes455",
     "name": "Vegas Dream",
     "details": [
       "NES exclusive game"
@@ -10945,7 +11436,7 @@
     "special": []
   },
   {
-    "id": "nes440",
+    "id": "nes456",
     "name": "Vice: Project Doom",
     "details": [
       "NES exclusive game"
@@ -10968,7 +11459,7 @@
     "special": []
   },
   {
-    "id": "nes441",
+    "id": "nes457",
     "name": "Videomation",
     "details": [
       "NES exclusive game"
@@ -10991,7 +11482,7 @@
     "special": []
   },
   {
-    "id": "nes442",
+    "id": "nes458",
     "name": "Volleyball",
     "details": [
       "NES black box game: Sports Series",
@@ -11029,7 +11520,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes443",
+    "id": "nes459",
     "name": "WCW Wrestling",
     "details": [
       "NES exclusive game"
@@ -11052,7 +11543,7 @@
     "special": []
   },
   {
-    "id": "nes444",
+    "id": "nes460",
     "name": "WWF WrestleMania",
     "details": [
       "NES exclusive game"
@@ -11075,7 +11566,7 @@
     "special": []
   },
   {
-    "id": "nes445",
+    "id": "nes461",
     "name": "WWF WrestleMania Challenge",
     "details": [
       "NES exclusive game"
@@ -11098,7 +11589,7 @@
     "special": []
   },
   {
-    "id": "nes446",
+    "id": "nes462",
     "name": "Wacky Races",
     "details": [
       "NES exclusive game"
@@ -11121,7 +11612,7 @@
     "special": []
   },
   {
-    "id": "nes447",
+    "id": "nes463",
     "name": "Wagyan Land",
     "details": [
       "NES exclusive game"
@@ -11144,7 +11635,7 @@
     "special": []
   },
   {
-    "id": "nes448",
+    "id": "nes464",
     "name": "Wall Street Kid",
     "details": [
       "NES exclusive game"
@@ -11167,7 +11658,7 @@
     "special": []
   },
   {
-    "id": "nes449",
+    "id": "nes465",
     "name": "Wally Bear and the NO! Gang",
     "details": [
       "NES exclusive game"
@@ -11190,7 +11681,7 @@
     "special": []
   },
   {
-    "id": "nes450",
+    "id": "nes466",
     "name": "Werewolf: The Last Warrior",
     "details": [
       "NES exclusive game"
@@ -11213,7 +11704,7 @@
     "special": []
   },
   {
-    "id": "nes451",
+    "id": "nes467",
     "name": "Where's Waldo?",
     "details": [
       "NES exclusive game"
@@ -11236,7 +11727,7 @@
     "special": []
   },
   {
-    "id": "nes452",
+    "id": "nes468",
     "name": "Who Framed Roger Rabbit",
     "details": [
       "NES exclusive game"
@@ -11259,7 +11750,7 @@
     "special": []
   },
   {
-    "id": "nes453",
+    "id": "nes469",
     "name": "Whomp 'Em",
     "details": [
       "NES exclusive game"
@@ -11282,7 +11773,7 @@
     "special": []
   },
   {
-    "id": "nes454",
+    "id": "nes470",
     "name": "Widget",
     "details": [
       "NES exclusive game"
@@ -11305,7 +11796,7 @@
     "special": []
   },
   {
-    "id": "nes455",
+    "id": "nes471",
     "details": [
       "NES launch title",
       "NES black box game: Light Gun Series",
@@ -11353,7 +11844,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes456",
+    "id": "nes472",
     "name": "Willow",
     "details": [
       "NES exclusive game"
@@ -11376,7 +11867,7 @@
     "special": []
   },
   {
-    "id": "nes457",
+    "id": "nes473",
     "name": "Wily & Light's Rockboard: That's Paradise!!",
     "details": [
       "NES exclusive game"
@@ -11400,7 +11891,7 @@
   },
   {
     "name": "Winter Games",
-    "id": "nes458",
+    "id": "nes474",
     "details": [
       "NES hang tab game"
     ],
@@ -11425,7 +11916,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes459",
+    "id": "nes475",
     "name": "Wizards & Warriors",
     "details": [
       "NES exclusive game",
@@ -11461,7 +11952,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes460",
+    "id": "nes476",
     "name": "Wizards & Warriors III: Kuros: Visions of Power",
     "details": [
       "NES exclusive game"
@@ -11484,7 +11975,7 @@
     "special": []
   },
   {
-    "id": "nes461",
+    "id": "nes477",
     "name": "Wolverine",
     "details": [
       "NES exclusive game"
@@ -11507,7 +11998,7 @@
     "special": []
   },
   {
-    "id": "nes462",
+    "id": "nes478",
     "name": "Wrath of the Black Manta",
     "details": [
       "NES exclusive game"
@@ -11530,7 +12021,7 @@
     "special": []
   },
   {
-    "id": "nes463",
+    "id": "nes479",
     "details": [
       "NES launch title",
       "NES black box game: Programmable Series",
@@ -11578,7 +12069,7 @@
     "isExclusive": false
   },
   {
-    "id": "nes464",
+    "id": "nes480",
     "name": "Wurm: Journey to the Center of the Earth",
     "details": [
       "NES exclusive game"
@@ -11601,7 +12092,7 @@
     "special": []
   },
   {
-    "id": "nes465",
+    "id": "nes481",
     "name": "Xexyz",
     "details": [
       "NES exclusive game"
@@ -11624,7 +12115,7 @@
     "special": []
   },
   {
-    "id": "nes466",
+    "id": "nes482",
     "name": "Yume Penguin Monogatari",
     "details": [
       "NES exclusive game"
@@ -11648,7 +12139,7 @@
   },
   {
     "name": "Zanac",
-    "id": "nes467",
+    "id": "nes483",
     "details": [
       "NES hang tab game"
     ],
@@ -11673,7 +12164,7 @@
     "isLaunchTitle": false
   },
   {
-    "id": "nes468",
+    "id": "nes484",
     "name": "Zombie Nation",
     "details": [
       "NES exclusive game"
