@@ -10,28 +10,28 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/nesLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/xboxLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/nesExclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/microsoftXboxExclusives.json'
   },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/special/nesBlackBoxTitles.json'
+    path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json'
   },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/special/nesHangTabGames.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
+    path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXboxOne.json'
   }
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
+  // }
 ];
-const mlId = 'ccl1';
-const outPath = '../../finalOutput/consoleLists/NintendoEntertainmentSystem.json';
-const idPrefix = 'nes';
+const mlId = 'ccl25';
+const outPath = '../../finalOutput/consoleLists/MicrosoftXbox.json';
+const idPrefix = 'xbox';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
