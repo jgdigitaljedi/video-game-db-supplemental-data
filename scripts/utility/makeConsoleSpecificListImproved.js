@@ -10,28 +10,28 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/xboxLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/gameBoyColorLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/microsoftXboxExclusives.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXboxOne.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/nintendoGameBoyColorExclusives.json'
   }
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json'
+  // },
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXboxOne.json'
+  // }
   // {
   //   key: 'special',
   //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
   // }
 ];
-const mlId = 'ccl25';
-const outPath = '../../finalOutput/consoleLists/MicrosoftXbox.json';
-const idPrefix = 'xbox';
+const mlId = 'ccl9';
+const outPath = '../../finalOutput/consoleLists/NintendoGameBoyColor.json';
+const idPrefix = 'ngbc';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
