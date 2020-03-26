@@ -10,11 +10,11 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/gameBoyColorLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/ps4LaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/nintendoGameBoyColorExclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/sonyPlaystation4Exclusives.json'
   }
   // {
   //   key: 'special',
@@ -29,9 +29,9 @@ const filesArr = [
   //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
   // }
 ];
-const mlId = 'ccl9';
-const outPath = '../../finalOutput/consoleLists/NintendoGameBoyColor.json';
-const idPrefix = 'ngbc';
+const mlId = 'ccl23';
+const outPath = '../../finalOutput/consoleLists/SonyPlayStation4.json';
+const idPrefix = 'sps4';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
