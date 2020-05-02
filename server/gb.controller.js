@@ -7,7 +7,7 @@ router.post('/gamelookup', async (req, res) => {
   try {
     let url;
     if (req.body.name) {
-      const { name, platform } = req.body;
+      const { name, platform, fullData } = req.body;
       if (platform) {
         url = `https://www.giantbomb.com/api/games/?api_key=${gbKey}&filter=name:${name},platforms:${platform}&format=json`;
       } else {
@@ -18,15 +18,25 @@ router.post('/gamelookup', async (req, res) => {
         .then(result => {
           if (result && result.data && result.data.results) {
             try {
-              const cleaned = result.data.results.map(item => {
-                item.gbid = item.id;
-                return {
-                  gbId: item.id,
-                  gbGuid: item.guid,
-                  name: item.name
-                };
-              });
-              res.json(cleaned);
+              if (fullData) {
+                const cleaned = result.data.results.map(item => {
+                  item.gbid = item.id;
+                  item.gbGuid = item.guid;
+                  return item;
+                });
+                console.log('cleaned', cleaned);
+                res.json(cleaned);
+              } else {
+                const cleaned = result.data.results.map(item => {
+                  item.gbid = item.id;
+                  return {
+                    gbId: item.id,
+                    gbGuid: item.guid,
+                    name: item.name
+                  };
+                });
+                res.json(cleaned);
+              }
             } catch (err) {
               console.log('gb error', error);
               res

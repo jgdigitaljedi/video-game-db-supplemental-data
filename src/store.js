@@ -6,7 +6,8 @@ Vue.use(Vuex);
 export default new Vuex.Store({
   state: {
     snack: { status: '', txt: '' },
-    currentName: ''
+    currentName: '',
+    gameFullData: false
   },
   mutations: {
     setSnack(state, snack) {
@@ -14,6 +15,10 @@ export default new Vuex.Store({
     },
     setCurrentName(state, name) {
       state.currentName = name;
+    },
+    setGameFullData(state, fullData) {
+      state.gameFullData = fullData;
+      console.log('STORE state.gameFullData', state.gameFullData);
     }
   },
   actions: {}

@@ -116,6 +116,9 @@ export default {
     snackTime(snack) {
       this.setSnack(snack);
     },
+    gameFullData(fullData) {
+      this.setGameFullData(fullData);
+    },
     getJointList(files) {
       JsonData.jointList(files)
         .then(result => {
@@ -162,6 +165,7 @@ export default {
       this.fileInfo = file;
       this.fileType = file.type;
       this.currentIndex = 0;
+      this.gameFullData(!!file.fullData);
       this.getFile(file);
     },
     fuzzyToggled(fuzzy) {
@@ -226,7 +230,8 @@ export default {
         });
     },
     ...mapMutations({
-      setSnack: 'setSnack'
+      setSnack: 'setSnack',
+      setGameFullData: 'setGameFullData'
     })
   }
 };

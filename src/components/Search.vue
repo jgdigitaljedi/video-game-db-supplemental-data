@@ -63,7 +63,7 @@
       </div>
       <v-btn class="select-btn" @click="selectionMade()" color="primary" :disabled="readyForSave">
         <v-icon dark left>mdi-check-bold</v-icon>
-        Select {{fileType}}
+        Select {{ fileType }}
       </v-btn>
     </div>
   </v-card>
@@ -188,11 +188,12 @@ export default {
       this.$emit('gameData', cleaned);
     },
     searchAll(name, platform) {
+      console.log('searchAll', this.$store.state.gameFullData);
       if (this.runIgdb) {
-        this.searchIgdb(name, platform);
+        this.searchIgdb(name, platform, this.$store.state.gameFullData);
       }
       if (this.runGb) {
-        this.searchGb(name, platform);
+        this.searchGb(name, platform, this.$store.state.gameFullData);
       }
       if (this.runTgdb) {
         this.searchTgdb(name, platform);
@@ -201,7 +202,11 @@ export default {
     searchGb(name, platform) {
       this.isGbLoading = true;
       if (this.fileType === 'Game') {
-        JsonData.gbGameLookup(name, this.fuzzy ? null : platform.gbId)
+        JsonData.gbGameLookup(
+          name,
+          this.fuzzy ? null : platform.gbId,
+          this.$store.state.gameFullData
+        )
           .then(result => {
             const list = Helper.sortByName(result.data);
             list.unshift({ name: 'not found in DB', gbId: null, gbGuid: null });
@@ -259,11 +264,11 @@ export default {
           });
       }
     },
-    searchIgdb(name, platform) {
+    searchIgdb(name, platform, fullData) {
       this.isIgdbLoading = true;
       if (this.fileType === 'Game') {
         if (this.fuzzy) {
-          JsonData.igdbGameFuzzy(name)
+          JsonData.igdbGameFuzzy(name, fullData)
             .then(result => {
               const list = Helper.sortByName(result.data);
               list.unshift({ name: 'not found in DB', igdbId: null });
@@ -276,8 +281,9 @@ export default {
               console.warn('ERROR searching: ', error);
             });
         } else {
-          JsonData.igdbGameLookup(name, platform.igdbId)
+          JsonData.igdbGameLookup(name, platform.igdbId, fullData)
             .then(result => {
+              console.log('result', result);
               const list = Helper.sortByName(result.data);
               list.unshift({ name: 'not found in DB', igdbId: null });
               this.igdbGames = list;

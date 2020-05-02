@@ -2,17 +2,18 @@ import axios from 'axios';
 
 export default {
   /**  API lookups **/
-  igdbGameLookup(name, platform) {
-    return axios.post('http://localhost:4001/igdb/gamelookup', { name, platform });
+  igdbGameLookup(name, platform, fullData) {
+    console.log('fullData in json', fullData);
+    return axios.post('http://localhost:4001/igdb/gamelookup', { name, platform, fullData });
   },
-  igdbGameFuzzy(name) {
-    return axios.post('http://localhost:4001/igdb/gamefuzzy', { name });
+  igdbGameFuzzy(name, fullData) {
+    return axios.post('http://localhost:4001/igdb/gamefuzzy', { name, fullData });
   },
   igdbPlatform(name) {
     return axios.post('http://localhost:4001/igdb/platform', { name });
   },
-  gbGameLookup(name, platform) {
-    return axios.post('http://localhost:4001/gb/gamelookup', { name, platform });
+  gbGameLookup(name, platform, fullData) {
+    return axios.post('http://localhost:4001/gb/gamelookup', { name, platform, fullData });
   },
   gbPlatformLookup(name, platform) {
     return axios.post('http://localhost:4001/gb/platformlookup', { name, platform });
