@@ -14,7 +14,7 @@
         <v-card class="next-and-previous game-card">
           <v-btn color="primary" @click="changeGame(-1)" :disabled="currentIndex === 0">
             <v-icon dark left>mdi-arrow-left</v-icon>
-            Previous {{fileType}}
+            Previous {{ fileType }}
           </v-btn>
           <v-btn color="warning" @click="changeGame(-10)" :disabled="currentIndex < 10">
             <v-icon left>mdi-rewind</v-icon>Back 10
@@ -24,7 +24,7 @@
             <v-icon right>mdi-fast-forward</v-icon>
           </v-btn>
           <v-btn color="primary" @click="changeGame(1)">
-            Next {{fileType}}
+            Next {{ fileType }}
             <v-icon dark right>mdi-arrow-right</v-icon>
           </v-btn>
         </v-card>
@@ -40,7 +40,10 @@
           v-on:gameData="gameSelected"
           v-on:jointList="getJointList"
         ></FileSearch>
-        <ConsolesSearch v-if="searchSource === 'Consoles List Search'" :currentList="currentList"></ConsolesSearch>
+        <ConsolesSearch
+          v-if="searchSource === 'Consoles List Search'"
+          :currentList="currentList"
+        ></ConsolesSearch>
         <Search
           :platform="selected"
           v-on:gameData="gameSelected"
@@ -55,16 +58,21 @@
         <v-card class="save-game">
           <v-btn color="success" @click="saveGame()" :disabled="!fixedGame">
             <v-icon dark left>mdi-content-save</v-icon>
-            Save {{fileType}}
+            Save {{ fileType }}
           </v-btn>
           <v-btn color="warning" @click="clearGame()">
             <v-icon dark left>mdi-close</v-icon>
-            Clear {{fileType}} Data
+            Clear {{ fileType }} Data
           </v-btn>
         </v-card>
       </v-container>
       <v-container class="app-right" style="height: 100%;">
-        <GameInfo :game="currentGame" :fixed="fixedGame" class="game-card" :reset="reset"></GameInfo>
+        <GameInfo
+          :game="currentGame"
+          :fixed="fixedGame"
+          class="game-card"
+          :reset="reset"
+        ></GameInfo>
         <FSListEntries :jointList="jointList" v-if="jointList"></FSListEntries>
       </v-container>
     </v-layout>
@@ -199,16 +207,22 @@ export default {
     },
     gameSelected(gameData) {
       console.log('gameData', gameData);
-      const gCopy = _cloneDeep(this.currentGame);
-      gCopy.igdbId = gameData.igdbId;
-      gCopy.gbId = gameData.gbId;
-      gCopy.gbGuid = gameData.gbGuid;
+      console.log('this.currentGame', this.currentGame);
+      if (this.$store.state.gameFullData) {
+        this.fixedGame = gameData;
+        this.fixedGame.id = this.currentGame.id;
+      } else {
+        const gCopy = _cloneDeep(this.currentGame);
+        gCopy.igdbId = gameData.igdbId;
+        gCopy.gbId = gameData.gbId;
+        gCopy.gbGuid = gameData.gbGuid;
 
-      // commented this out on 11/7 when I decided to drop siupport for tgdb
-      // gCopy.tgdbId = gameData.tgdbId;
+        // commented this out on 11/7 when I decided to drop support for tgdb
+        // gCopy.tgdbId = gameData.tgdbId;
 
-      gCopy.name = gameData.name;
-      this.fixedGame = gCopy;
+        gCopy.name = gameData.name;
+        this.fixedGame = gCopy;
+      }
     },
     changeList(list) {
       this.selected = list;

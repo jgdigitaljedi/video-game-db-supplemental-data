@@ -61,7 +61,7 @@ router.post('/jsonfile', async (req, res) => {
 
 router.patch('/jsonfile', async (req, res) => {
   try {
-    const { filePath, data } = req.body;
+    const { filePath, data, removeId } = req.body;
     if (filePath && data) {
       const fileData = await getJsonFile(filePath);
       const parsed = JSON.parse(fileData);
@@ -156,9 +156,7 @@ router.post('/jointlist', async (req, res) => {
         .then(results => {
           const fullListArr = results.map(r => JSON.parse(r));
           const flattened = [].concat.apply([], fullListArr);
-          res.json(
-            flattened.map(o => o.name).sort()
-          );
+          res.json(flattened.map(o => o.name).sort());
         })
         .catch(error => {
           res.status(500).json({ error: true, message: 'ERROR FETCHING JOINT LIST!', code: error });
@@ -166,7 +164,9 @@ router.post('/jointlist', async (req, res) => {
         });
     } catch (error) {
       console.log('joint list error', error);
-      res.status(500).json({ error: true, message: 'ERROR FETCHING JOINT LIST DATA!', code: error });
+      res
+        .status(500)
+        .json({ error: true, message: 'ERROR FETCHING JOINT LIST DATA!', code: error });
     }
   } else {
     res.status(400).json({ error: true, message: 'YOU MUST SEND A FILE LIST!' });

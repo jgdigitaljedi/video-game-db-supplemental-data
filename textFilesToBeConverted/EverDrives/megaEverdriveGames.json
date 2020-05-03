@@ -100,9 +100,50 @@
     "details": "Mega Everdrive"
   },
   {
-    "name": "aero blasters",
-    "id": "meg21",
-    "details": "Mega Everdrive"
+    "igdb": {
+      "genres": [
+        "Shooter"
+      ],
+      "name": "Aero Blasters",
+      "id": 12491,
+      "total_rating": null,
+      "total_rating_count": null,
+      "first_release_date": "12/30/1990",
+      "developers": "",
+      "esrb": ""
+    },
+    "gb": {
+      "aliases": "Air Buster",
+      "guid": "3030-19275",
+      "gbid": 19275,
+      "image": "https://giantbomb1.cbsistatic.com/uploads/scale_medium/9/93770/2365508-tg16_aeroblasters.jpg",
+      "deck": "A horizontal-scrolling Arcade shoot 'em up developed by Kaneko. It saw home conversions for the TurboGrafx-16 and Genesis (on the Genesis it is known as Air Buster).",
+      "platforms": "[object Object], [object Object], [object Object]"
+    },
+    "name": "Aero Blasters",
+    "consoleName": "Sega Mega Drive/Genesis",
+    "consoleIgdbId": 29,
+    "consoleGbid": 6,
+    "consoleGbGuid": "3045-6",
+    "condition": "Other",
+    "case": "none",
+    "pricePaid": "",
+    "physical": false,
+    "cib": false,
+    "pirated": false,
+    "multiplayerNumber": 1,
+    "datePurchased": null,
+    "howAcquired": null,
+    "notes": "Mega EverDrive",
+    "createdAt": "05/03/2020 06:26 am",
+    "updatedAt": "05/03/2020 06:26 am",
+    "consoleArr": [
+      {
+        "consoleName": "Sega Mega Drive/Genesis",
+        "consoleId": 29
+      }
+    ],
+    "id": "meg21"
   },
   {
     "name": "aero the acro-bat",

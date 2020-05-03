@@ -168,27 +168,39 @@ export default {
       return null;
     },
     selectionMade() {
-      const cleaned = {
-        igdbId:
-          this.igdbModel && this.igdbModel.id
-            ? this.igdbModel.id
-            : this.getFromCurrentData('igdbId'),
-        gbId:
-          this.gbModel && this.gbModel.gbId ? this.gbModel.gbId : this.getFromCurrentData('gbId'),
-        gbGuid:
-          this.gbModel && this.gbModel.gbGuid
-            ? this.gbModel.gbGuid
-            : this.getFromCurrentData('gbGuid'),
-        tgdbId:
-          this.tgdbModel && this.tgdbModel.tgdbId
-            ? this.tgdbModel.tgdbId
-            : this.getFromCurrentData('tgdbId'),
-        name: this.getName()
-      };
-      this.$emit('gameData', cleaned);
+      if (this.$store.state.gameFullData) {
+        const fullData = Helper.fullDataFormat(
+          this.igdbModel,
+          this.gbModel,
+          this.selectedPlatform,
+          this.getName()
+        );
+        console.log('fullData result', fullData);
+        this.$emit('gameData', fullData);
+      } else {
+        const cleaned = {
+          igdbId:
+            this.igdbModel && this.igdbModel.id
+              ? this.igdbModel.id
+              : this.getFromCurrentData('igdbId'),
+          gbId:
+            this.gbModel && this.gbModel.gbId ? this.gbModel.gbId : this.getFromCurrentData('gbId'),
+          gbGuid:
+            this.gbModel && this.gbModel.gbGuid
+              ? this.gbModel.gbGuid
+              : this.getFromCurrentData('gbGuid'),
+          tgdbId:
+            this.tgdbModel && this.tgdbModel.tgdbId
+              ? this.tgdbModel.tgdbId
+              : this.getFromCurrentData('tgdbId'),
+          name: this.getName()
+        };
+        this.$emit('gameData', cleaned);
+      }
     },
     searchAll(name, platform) {
       console.log('searchAll', this.$store.state.gameFullData);
+      console.log('this.selectedPlatform', this.selectedPlatform);
       if (this.runIgdb) {
         this.searchIgdb(name, platform, this.$store.state.gameFullData);
       }
