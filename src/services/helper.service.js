@@ -9,6 +9,7 @@ export default {
     });
   },
   fullDataFormat(igdbData, gbData, platform, name) {
+    console.log('igdbData', igdbData);
     const igdbBlank = {
       genres: [],
       name: '',
@@ -23,16 +24,21 @@ export default {
     igdbObj.esrb =
       igdbData && igdbData.esrb && igdbData.esrb.letterRating ? igdbData.esrb.letterRating : '';
 
+    igdbObj.name = igdbObj.name === 'not found in DB' ? name : igdbData.name;
+
+    console.log('gbData', gbData);
     const gbObj = {
       aliases: gbData.aliases || '',
       guid: gbData.guid || '',
       gbid: gbData.gbid || 9999,
       image: gbData && gbData.image ? gbData.image.medium_url : '',
       deck: gbData.deck || '',
-      platforms: gbData.platforms ? gbData.platforms.join(', ') : ''
+      platforms: gbData.platforms ? gbData.platforms.map(p => p.name).join(', ') : ''
     };
 
     const dateFormatted = moment().format('MM/DD/YYYY hh:mm a');
+    const multiplayerNumber =
+      Array.isArray(igdbData.game_modes) && igdbData.game_modes.indexOf(2) >= 0 ? 2 : 1;
 
     return {
       igdb: igdbObj,
@@ -48,7 +54,7 @@ export default {
       physical: false,
       cib: false,
       pirated: false,
-      multiplayerNumber: 1,
+      multiplayerNumber,
       datePurchased: null,
       howAcquired: null,
       notes: 'Mega EverDrive',

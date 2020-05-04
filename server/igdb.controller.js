@@ -35,7 +35,7 @@ const platformOptions = {
 };
 
 const fullGameQueryString =
-  'age_ratings.rating,total_rating,total_rating_count,first_release_date,genres.name,name';
+  'age_ratings.rating,total_rating,total_rating_count,first_release_date,genres.name,name,game_modes';
 
 function parseFullDataResult(data) {
   return data.map(item => {
@@ -52,6 +52,7 @@ function parseFullDataResult(data) {
       const esrb = item.age_ratings.filter(r => r.rating > 5).map(r => r.rating);
       item.esrb.rating = esrb[0];
       item.esrb.letterRating = esrbData && esrb && esrb.length ? esrbData[esrb[0].toString()] : '';
+      delete item.age_ratings;
     }
     const gCopy = _cloneDeep(item.genres);
     const gCleaned = gCopy && gCopy.length ? gCopy.map(g => g.name) : null;
