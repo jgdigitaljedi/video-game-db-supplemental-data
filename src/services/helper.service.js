@@ -10,6 +10,7 @@ export default {
   },
   fullDataFormat(igdbData, gbData, platform, name) {
     console.log('igdbData', igdbData);
+    console.log('MULTIPLAYER ***** igdbData.game_modes', igdbData.game_modes || 'none');
     const igdbBlank = {
       genres: [],
       name: '',
@@ -37,8 +38,11 @@ export default {
     };
 
     const dateFormatted = moment().format('MM/DD/YYYY hh:mm a');
-    const multiplayerNumber =
-      Array.isArray(igdbData.game_modes) && igdbData.game_modes.indexOf(2) >= 0 ? 2 : 1;
+    const multiplayerNumber = !igdbData.hasOwnProperty('game_modes')
+      ? ''
+      : Array.isArray(igdbData.game_modes) && igdbData.game_modes.indexOf(2) >= 0
+      ? 2
+      : 1;
 
     return {
       igdb: igdbObj,

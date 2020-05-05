@@ -40,10 +40,7 @@
           v-on:gameData="gameSelected"
           v-on:jointList="getJointList"
         ></FileSearch>
-        <ConsolesSearch
-          v-if="searchSource === 'Consoles List Search'"
-          :currentList="currentList"
-        ></ConsolesSearch>
+        <ConsolesSearch v-if="searchSource === 'Consoles List Search'" :currentList="currentList"></ConsolesSearch>
         <Search
           :platform="selected"
           v-on:gameData="gameSelected"
@@ -67,12 +64,7 @@
         </v-card>
       </v-container>
       <v-container class="app-right" style="height: 100%;">
-        <GameInfo
-          :game="currentGame"
-          :fixed="fixedGame"
-          class="game-card"
-          :reset="reset"
-        ></GameInfo>
+        <GameInfo :game="currentGame" :fixed="fixedGame" class="game-card" :reset="reset"></GameInfo>
         <FSListEntries :jointList="jointList" v-if="jointList"></FSListEntries>
       </v-container>
     </v-layout>
@@ -142,7 +134,6 @@ export default {
       const newStatus = status ? 'yes' : 'no';
       JsonData.markListStatus(this.fileInfo, newStatus)
         .then(result => {
-          console.log('list status call result', result);
           if (result && result.data) {
             this.pullFileList++;
             this.snackTime({
@@ -157,10 +148,8 @@ export default {
         });
     },
     getFile(data) {
-      console.log('data', data);
       JsonData.getFile(data.filePath)
         .then(result => {
-          console.log('file result', result);
           this.currentList = result.data;
           this.currentGame = result.data[this.currentIndex];
           this.fixedGame = null;
@@ -182,7 +171,6 @@ export default {
     saveGame() {
       JsonData.saveFile(this.fixedGame, this.fileInfo)
         .then(result => {
-          console.log('save result', result);
           this.currentIndex++;
           this.getList(this.selected);
           this.reset++;
@@ -206,8 +194,6 @@ export default {
       this.currentGame = this.currentList[this.currentIndex];
     },
     gameSelected(gameData) {
-      console.log('gameData', gameData);
-      console.log('this.currentGame', this.currentGame);
       if (this.$store.state.gameFullData) {
         this.fixedGame = gameData;
         this.fixedGame.id = this.currentGame.id;

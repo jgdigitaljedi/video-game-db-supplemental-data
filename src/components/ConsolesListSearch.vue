@@ -59,7 +59,6 @@ export default {
         });
         return item;
       });
-      console.log('final', final);
       // @TODO: add save call here; want to think about data structure more before implementing
     },
     addField() {

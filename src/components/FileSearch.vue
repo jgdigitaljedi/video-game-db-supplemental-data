@@ -63,7 +63,6 @@ export default {
   created() {
     JsonData.getFile('static/fileInfoList.json')
       .then(result => {
-        console.log('filSearch result', result);
         this.filesList = result.data;
       })
       .catch(error => {
@@ -79,7 +78,6 @@ export default {
       this.$emit('jointList', this.selectedFiles);
     },
     resultSelected() {
-      console.log('resultSelected', this.selectedFiles.filter(f => typeof f !== 'string'));
       const cleaned = {
         igdbId: this.selectedResult.igdbId,
         gbId: this.selectedResult.gbId,

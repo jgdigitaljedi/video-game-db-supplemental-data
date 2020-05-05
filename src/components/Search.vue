@@ -107,7 +107,6 @@ export default {
     this.fuzzy = !!this.fuzzyList;
     JsonData.getMasterPlatforms()
       .then(result => {
-        console.log('platforms result', result);
         // this.platformList = result.data.sort((a, b) => {
         //   if (a.name > b.name) return 1;
         //   if (a.name < b.name) return -1;
@@ -124,7 +123,6 @@ export default {
         return state.currentName;
       },
       val => {
-        console.log('val', val);
         this.search = val;
       }
     );
@@ -199,8 +197,6 @@ export default {
       }
     },
     searchAll(name, platform) {
-      console.log('searchAll', this.$store.state.gameFullData);
-      console.log('this.selectedPlatform', this.selectedPlatform);
       if (this.runIgdb) {
         this.searchIgdb(name, platform, this.$store.state.gameFullData);
       }
@@ -237,7 +233,6 @@ export default {
             list.unshift({ name: 'not found in DB', gbId: null, gbGuid: null });
             this.gbGames = list;
             this.isGbLoading = false;
-            console.log('gb platform result', result);
           })
           .catch(error => {
             this.snackTime({ status: 'error', txt: 'ERROR FETCHING GB PLATFORM DATA!' });
@@ -295,7 +290,6 @@ export default {
         } else {
           JsonData.igdbGameLookup(name, platform.igdbId, fullData)
             .then(result => {
-              console.log('result', result);
               const list = Helper.sortByName(result.data);
               list.unshift({ name: 'not found in DB', igdbId: null });
               this.igdbGames = list;

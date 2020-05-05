@@ -24,7 +24,6 @@ router.post('/gamelookup', async (req, res) => {
                   item.gbGuid = item.guid;
                   return item;
                 });
-                console.log('cleaned', cleaned);
                 res.json(cleaned);
               } else {
                 const cleaned = result.data.results.map(item => {

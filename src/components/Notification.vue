@@ -22,7 +22,6 @@ export default {
         return state.snack;
       },
       val => {
-        console.log('val', val);
         const msg = val.txt;
         if (msg !== '') {
           this.show = true;

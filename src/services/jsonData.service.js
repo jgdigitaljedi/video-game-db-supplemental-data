@@ -3,7 +3,6 @@ import axios from 'axios';
 export default {
   /**  API lookups **/
   igdbGameLookup(name, platform, fullData) {
-    console.log('fullData in json', fullData);
     return axios.post('http://localhost:4001/igdb/gamelookup', { name, platform, fullData });
   },
   igdbGameFuzzy(name, fullData) {

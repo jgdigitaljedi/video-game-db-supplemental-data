@@ -18,7 +18,6 @@ export default new Vuex.Store({
     },
     setGameFullData(state, fullData) {
       state.gameFullData = fullData;
-      console.log('STORE state.gameFullData', state.gameFullData);
     }
   },
   actions: {}
