@@ -4,6 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const _sortBy = require('lodash/sortBy');
 const _uniq = require('lodash/uniq');
+const _uniqBy = require('lodash/uniqBy');
 const _difference = require('lodash/difference');
 
 // change
@@ -130,7 +131,18 @@ function otherFields(list, item, master, platformData) {
       )
     );
   }
-  fs.writeFile(path.join(__dirname, outPath), JSON.stringify(withNewIds, null, 2), error => {
+  // now to dedupe details and special arrays
+  const deduped = withNewIds.map(game => {
+    const uniqDetails = _uniq(game.details);
+    game.details = uniqDetails;
+
+    const uniqSpecial = _uniqBy(game.special, 'value');
+    game.special = uniqSpecial;
+
+    return game;
+  });
+
+  fs.writeFile(path.join(__dirname, outPath), JSON.stringify(deduped, null, 2), error => {
     if (error) {
       console.log(chalk.red.bold('ERROR WRITING OUTPUT FILE!', error));
     } else {
