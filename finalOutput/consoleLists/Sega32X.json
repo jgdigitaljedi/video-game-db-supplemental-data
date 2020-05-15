@@ -71,7 +71,8 @@
   {
     "name": "Golf Magazine Presents 36 Great Holes Starring Fred Couples",
     "details": [
-      "Sega 32x exclusive"
+      "Sega 32x exclusive",
+      "Sega 32X Team Player compatible title"
     ],
     "id": "s32x3",
     "igdbId": 94921,
@@ -88,8 +89,20 @@
         "tgdbId": 33
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega 32X Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Knuckles' Chaotix",
@@ -184,11 +197,61 @@
     "special": []
   },
   {
+    "name": "NBA Jam Tournament Edition",
+    "id": "s32x8",
+    "details": [
+      "Sega 32X Team Player compatible title"
+    ],
+    "igdbId": 19712,
+    "gbId": 14792,
+    "gbGuid": "3030-14792",
+    "special": [
+      {
+        "value": "Sega 32X Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "NFL Quarterback Club",
+    "id": "s32x9",
+    "details": [
+      "Sega 32X Team Player compatible title"
+    ],
+    "igdbId": 114754,
+    "gbId": 22136,
+    "gbGuid": "3030-22136",
+    "special": [
+      {
+        "value": "Sega 32X Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "RBI Baseball '95",
     "details": [
       "Sega 32x exclusive"
     ],
-    "id": "s32x8",
+    "id": "s32x10",
     "igdbId": 45876,
     "gbId": null,
     "gbGuid": null,
@@ -211,7 +274,7 @@
     "details": [
       "Sega 32x exclusive"
     ],
-    "id": "s32x9",
+    "id": "s32x11",
     "igdbId": 19763,
     "gbId": 11386,
     "gbGuid": "3030-11386",
@@ -231,7 +294,7 @@
   },
   {
     "name": "Star Wars Arcade",
-    "id": "s32x10",
+    "id": "s32x12",
     "details": [
       "Sega 32X launch title"
     ],
@@ -257,7 +320,7 @@
     "details": [
       "Sega 32x exclusive"
     ],
-    "id": "s32x11",
+    "id": "s32x13",
     "igdbId": 45881,
     "gbId": 3595,
     "gbGuid": "3030-3595",
@@ -280,7 +343,7 @@
     "details": [
       "Sega 32x exclusive"
     ],
-    "id": "s32x12",
+    "id": "s32x14",
     "igdbId": 45882,
     "gbId": 4219,
     "gbGuid": "3030-4219",
@@ -300,7 +363,7 @@
   },
   {
     "name": "Virtua Racing Deluxe",
-    "id": "s32x13",
+    "id": "s32x15",
     "details": [
       "Sega 32X launch title"
     ],
@@ -322,11 +385,36 @@
     "special": []
   },
   {
+    "name": "WWF Raw",
+    "id": "s32x16",
+    "details": [
+      "Sega 32X Team Player compatible title"
+    ],
+    "igdbId": 19771,
+    "gbId": 4155,
+    "gbGuid": "3030-4155",
+    "special": [
+      {
+        "value": "Sega 32X Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "World Series Baseball Starring Deion Sanders",
     "details": [
       "Sega 32x exclusive"
     ],
-    "id": "s32x14",
+    "id": "s32x17",
     "igdbId": 46428,
     "gbId": 17117,
     "gbGuid": "3030-17117",
@@ -349,7 +437,7 @@
     "details": [
       "Sega 32x exclusive"
     ],
-    "id": "s32x15",
+    "id": "s32x18",
     "igdbId": 19764,
     "gbId": 7390,
     "gbGuid": "3030-7390",

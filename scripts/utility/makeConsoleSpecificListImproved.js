@@ -10,28 +10,28 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/ps4LaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/genesisLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/sonyPlaystation4Exclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/segaGenesisExclusives.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/multiplayer/segaGenesisTeamPlayer.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'
   }
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json'
-  // },
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXboxOne.json'
-  // }
   // {
   //   key: 'special',
   //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
   // }
 ];
-const mlId = 'ccl23';
-const outPath = '../../finalOutput/consoleLists/SonyPlayStation4.json';
-const idPrefix = 'sps4';
+const mlId = 'ccl14';
+const outPath = '../../finalOutput/consoleLists/SegaGenesis.json';
+const idPrefix = 'smd';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

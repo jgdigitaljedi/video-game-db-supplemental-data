@@ -68,7 +68,9 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 - nesfsX - NES Four Score compatible games (nesFourScore.json) | GAMES LIST
 - spmtX - Sony PlayStation multitap compatible games (playStationMultitap.json) | GAMES LIST
-- sgtpX - Sega Genesis Team Player compatible games (segaTeamPlayer.json) | GAMES LIST
+- s32tpX - Sega 32X Team Player compatible games (sega32xTeamPlayer.json) | GAMES LIST
+- scdtpX - Sega CD Team Player compatible games (segaCdTeamPlayer.json) | GAMES LIST
+- sgtpX - Sega Genesis Team Player compatible games (segaGenesisTeamPlayer.json) | GAMES LIST
 - smaX - Sega Saturn Multiplayer Adapter compatible games (saturnMultiplayerAdapter.json) | GAMES LIST
 - snessmX - SNES Super Multitap compatible games (snesSuperMultitap.json) | GAMES LIST
 - tg16mtX - TurboGrafx-16 Multitap compatible games (tg16Multitap.json) | GAMES LIST

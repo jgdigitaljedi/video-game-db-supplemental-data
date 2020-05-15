@@ -621,7 +621,7 @@
   },
   {
     "title": "Sega Genesis Team Player compatible titles",
-    "filePath": "../textFilesToBeConverted/multiplayer/segaTeamPlayer.json",
+    "filePath": "../textFilesToBeConverted/multiplayer/segaGenesisTeamPlayer.json",
     "type": "Game",
     "complete": true
   },
@@ -641,7 +641,19 @@
     "title": "Mega EverDrive Games",
     "filePath": "../textFilesToBeConverted/EverDrives/megaEverdriveGames.json",
     "type": "Game",
-    "complete": false,
+    "complete": true,
     "fullData": true
+  },
+  {
+    "title": "Sega CD Team Player Games",
+    "filePath": "../textFilesToBeConverted/multiplayer/segaCdTeamPlayer.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega 32X Team Player Games",
+    "filePath": "../textFilesToBeConverted/multiplayer/sega32xTeamPlayer.json",
+    "type": "Game",
+    "complete": true
   }
 ]

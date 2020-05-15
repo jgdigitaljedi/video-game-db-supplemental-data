@@ -253,11 +253,61 @@
     "special": []
   },
   {
+    "name": "Dungeon Explorer",
+    "id": "scd11",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "igdbId": 19742,
+    "gbId": 28218,
+    "gbGuid": "3030-28218",
+    "special": [
+      {
+        "value": "Sega CD Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Dynamic Country Club: 3D Golf Simulation",
+    "id": "scd12",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "igdbId": 45873,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega CD Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "ESPN NBA HangTime '95",
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd11",
+    "id": "scd13",
     "igdbId": 46406,
     "gbId": 10512,
     "gbGuid": "3030-10512",
@@ -276,11 +326,61 @@
     "special": []
   },
   {
+    "name": "ESPN NBA HangTime '95",
+    "id": "scd14",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "igdbId": 46406,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega CD Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "ESPN National Hockey Night",
+    "id": "scd15",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "igdbId": 5381,
+    "gbId": 30852,
+    "gbGuid": "3030-30852",
+    "special": [
+      {
+        "value": "Sega CD Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Eternal Champions: Challenge from the Dark Side",
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd12",
+    "id": "scd16",
     "igdbId": 5383,
     "gbId": 8021,
     "gbGuid": "3030-8021",
@@ -303,7 +403,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd13",
+    "id": "scd17",
     "igdbId": 5388,
     "gbId": 7432,
     "gbGuid": "3030-7432",
@@ -326,7 +426,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd14",
+    "id": "scd18",
     "igdbId": 5390,
     "gbId": 20309,
     "gbGuid": "3030-20309",
@@ -349,7 +449,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd15",
+    "id": "scd19",
     "igdbId": 46420,
     "gbId": 17785,
     "gbGuid": "3030-17785",
@@ -369,7 +469,7 @@
   },
   {
     "name": "INXS: Make My Video",
-    "id": "scd16",
+    "id": "scd20",
     "details": [
       "Sega CD launch title",
       "Sega CD exclusive"
@@ -405,7 +505,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd17",
+    "id": "scd21",
     "igdbId": 4519,
     "gbId": 21383,
     "gbGuid": "3030-21383",
@@ -428,7 +528,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd18",
+    "id": "scd22",
     "igdbId": 12912,
     "gbId": 16410,
     "gbGuid": "3030-16410",
@@ -451,7 +551,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd19",
+    "id": "scd23",
     "igdbId": 46417,
     "gbId": 10670,
     "gbGuid": "3030-10670",
@@ -474,7 +574,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd20",
+    "id": "scd24",
     "igdbId": 5334,
     "gbId": 13562,
     "gbGuid": "3030-13562",
@@ -494,32 +594,10 @@
   },
   {
     "name": "Marky Mark and the Funky Bunch: Make My Video",
+    "id": "scd25",
     "details": [
+      "Sega CD launch title",
       "Sega CD exclusive"
-    ],
-    "id": "scd21",
-    "igdbId": 46416,
-    "gbId": 5307,
-    "gbGuid": "3030-5307",
-    "tgdbId": 5059,
-    "isExclusive": [
-      {
-        "name": "Sega CD",
-        "id": "ccl15",
-        "igdbId": 78,
-        "gbId": 29,
-        "gbGuid": "3045-29",
-        "tgdbId": 21
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Marky Mark and the Funky Bunch: Make My Video",
-    "id": "scd22",
-    "details": [
-      "Sega CD launch title"
     ],
     "igdbId": 46416,
     "gbId": 5307,
@@ -535,7 +613,16 @@
         "tgdbId": 21
       }
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Sega CD",
+        "id": "ccl15",
+        "igdbId": 78,
+        "gbId": 29,
+        "gbGuid": "3045-29",
+        "tgdbId": 21
+      }
+    ],
     "special": []
   },
   {
@@ -543,7 +630,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd23",
+    "id": "scd26",
     "igdbId": 19743,
     "gbId": 16280,
     "gbGuid": "3030-16280",
@@ -562,11 +649,36 @@
     "special": []
   },
   {
+    "name": "Mighty Mighty Missile!",
+    "id": "scd27",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "igdbId": 128890,
+    "gbId": null,
+    "gbGuid": null,
+    "special": [
+      {
+        "value": "Sega CD Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Mighty Morphin Power Rangers",
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd24",
+    "id": "scd28",
     "igdbId": 3286,
     "gbId": 27002,
     "gbGuid": "3030-27002",
@@ -585,8 +697,33 @@
     "special": []
   },
   {
+    "name": "NBA Jam",
+    "id": "scd29",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "igdbId": 8995,
+    "gbId": 16928,
+    "gbGuid": "3030-16928",
+    "special": [
+      {
+        "value": "Sega CD Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Night Trap",
-    "id": "scd25",
+    "id": "scd30",
     "details": [
       "Sega CD launch title"
     ],
@@ -612,7 +749,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd26",
+    "id": "scd31",
     "igdbId": 5420,
     "gbId": 18613,
     "gbGuid": "3030-18613",
@@ -635,7 +772,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd27",
+    "id": "scd32",
     "igdbId": 5424,
     "gbId": 8564,
     "gbGuid": "3030-8564",
@@ -658,7 +795,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd28",
+    "id": "scd33",
     "igdbId": 46606,
     "gbId": null,
     "gbGuid": null,
@@ -681,7 +818,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd29",
+    "id": "scd34",
     "igdbId": 5426,
     "gbId": 14317,
     "gbGuid": "3030-14317",
@@ -704,7 +841,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd30",
+    "id": "scd35",
     "igdbId": 5430,
     "gbId": 12066,
     "gbGuid": "3030-12066",
@@ -724,7 +861,7 @@
   },
   {
     "name": "Sega Classics Arcade Collection 4-in-1",
-    "id": "scd31",
+    "id": "scd36",
     "details": [
       "Sega CD launch title",
       "Sega CD exclusive"
@@ -757,7 +894,7 @@
   },
   {
     "name": "Sewer Shark",
-    "id": "scd32",
+    "id": "scd37",
     "details": [
       "Sega CD launch title"
     ],
@@ -783,7 +920,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd33",
+    "id": "scd38",
     "igdbId": 78514,
     "gbId": 34672,
     "gbGuid": "3030-34672",
@@ -803,7 +940,7 @@
   },
   {
     "name": "Sherlock Holmes Consulting Detective",
-    "id": "scd34",
+    "id": "scd39",
     "details": [
       "Sega CD launch title"
     ],
@@ -829,7 +966,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd35",
+    "id": "scd40",
     "igdbId": 3198,
     "gbId": 16383,
     "gbGuid": "3030-16383",
@@ -849,7 +986,7 @@
   },
   {
     "name": "Sol-Feace",
-    "id": "scd36",
+    "id": "scd41",
     "details": [
       "Sega CD launch title"
     ],
@@ -875,7 +1012,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd37",
+    "id": "scd42",
     "igdbId": 5453,
     "gbId": 15595,
     "gbGuid": "3030-15595",
@@ -898,7 +1035,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd38",
+    "id": "scd43",
     "igdbId": 5346,
     "gbId": 12434,
     "gbGuid": "3030-12434",
@@ -921,7 +1058,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd39",
+    "id": "scd44",
     "igdbId": 46409,
     "gbId": 15630,
     "gbGuid": "3030-15630",
@@ -944,7 +1081,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd40",
+    "id": "scd45",
     "igdbId": 5457,
     "gbId": 40982,
     "gbGuid": "3030-40982",
@@ -967,7 +1104,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd41",
+    "id": "scd46",
     "igdbId": 5465,
     "gbId": 22268,
     "gbGuid": "3030-22268",
@@ -990,7 +1127,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd42",
+    "id": "scd47",
     "igdbId": 5461,
     "gbId": 20438,
     "gbGuid": "3030-20438",
@@ -1013,7 +1150,7 @@
     "details": [
       "Sega CD exclusive"
     ],
-    "id": "scd43",
+    "id": "scd48",
     "igdbId": 5462,
     "gbId": 5705,
     "gbGuid": "3030-5705",
@@ -1030,5 +1167,30 @@
     ],
     "isLaunchTitle": false,
     "special": []
+  },
+  {
+    "name": "World Cup USA '94",
+    "id": "scd49",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "igdbId": 5464,
+    "gbId": 5498,
+    "gbGuid": "3030-5498",
+    "special": [
+      {
+        "value": "Sega CD Team Player compatible title",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   }
 ]
