@@ -31,6 +31,8 @@ If you want to contribute, feel free to contact me. If you know of more data you
 - "src" contains the Vue.js app that I'm using to to speed up this process.
 - "scripts" contains some Node.js scripts I'm using to parse data, merge data, scrape sites for data, add ids, etc.
 
+Just a note here, the "EverDrives" folder is not really meant to be a part of this. I intend to remove it when I'm done generating this data. Basically, this is me generating json files with full game info for the games I have on my EverDrives so that another video game app I created for myself can use this data (basically its an app to help me decide what to play).
+
 ---
 
 ## Tasks
