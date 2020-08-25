@@ -662,5 +662,17 @@
     "filePath": "../textFilesToBeConverted/multiplayer/sega32xTeamPlayer.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Atari 5200 Exclusive Games",
+    "filePath": "../textFilesToBeConverted/platformExclusives/atari5200Exclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Atari 5200 4 Player Games",
+    "filePath": "../textFilesToBeConverted/multiplayer/atari5200FourPlayerGames.json",
+    "type": "Game",
+    "complete": false
   }
 ]

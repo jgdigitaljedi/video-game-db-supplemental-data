@@ -1,0 +1,225 @@
+[
+  {
+    "id": "a520",
+    "name": "Castle Crisis",
+    "details": [
+      "Atari 5200 4 player game"
+    ],
+    "igdbId": 40782,
+    "gbId": 17536,
+    "gbGuid": "3030-17536",
+    "special": [
+      {
+        "value": "Atari 5200 4 player game",
+        "forPlatform": {
+          "name": "Atari 5200",
+          "id": "ccl29",
+          "igdbId": 66,
+          "gbId": 67,
+          "gbGuid": "3045-67",
+          "tgdbId": 26
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "a521",
+    "name": "Countermeasure",
+    "igdbId": 12306,
+    "gbId": 13853,
+    "gbGuid": "3030-13853",
+    "isExclusive": [
+      {
+        "name": "Atari 5200",
+        "id": "ccl29",
+        "igdbId": 66,
+        "gbId": 67,
+        "gbGuid": "3045-67",
+        "tgdbId": 26
+      }
+    ],
+    "details": [
+      null
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "name": "Galaxian",
+    "id": "a522",
+    "details": [
+      "Atari 5200 launch title"
+    ],
+    "igdbId": 4614,
+    "gbId": 2445,
+    "gbGuid": "3030-2445",
+    "tgdbId": 5158,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 5200",
+        "id": "ccl29",
+        "igdbId": 66,
+        "gbId": 67,
+        "gbGuid": "3045-67",
+        "tgdbId": 26
+      }
+    ],
+    "isExclusive": false,
+    "special": []
+  },
+  {
+    "id": "a523",
+    "name": "Gremlins",
+    "igdbId": 25673,
+    "gbId": 15465,
+    "gbGuid": "3030-15465",
+    "isExclusive": [
+      {
+        "name": "Atari 5200",
+        "id": "ccl29",
+        "igdbId": 66,
+        "gbId": 67,
+        "gbGuid": "3045-67",
+        "tgdbId": 26
+      }
+    ],
+    "details": [
+      null
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "id": "a524",
+    "name": "M.U.L.E.",
+    "details": [
+      "Atari 5200 4 player game"
+    ],
+    "igdbId": 23895,
+    "gbId": 14520,
+    "gbGuid": "3030-14520",
+    "special": [
+      {
+        "value": "Atari 5200 4 player game",
+        "forPlatform": {
+          "name": "Atari 5200",
+          "id": "ccl29",
+          "igdbId": 66,
+          "gbId": 67,
+          "gbGuid": "3045-67",
+          "tgdbId": 26
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "a525",
+    "name": "RealSports Tennis",
+    "details": [
+      "Atari 5200 4 player game"
+    ],
+    "igdbId": 18419,
+    "gbId": 17776,
+    "gbGuid": "3030-17776",
+    "special": [
+      {
+        "value": "Atari 5200 4 player game",
+        "forPlatform": {
+          "name": "Atari 5200",
+          "id": "ccl29",
+          "igdbId": 66,
+          "gbId": 67,
+          "gbGuid": "3045-67",
+          "tgdbId": 26
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "a526",
+    "name": "Space Dungeon",
+    "igdbId": 18842,
+    "gbId": 19413,
+    "gbGuid": "3030-19413",
+    "isExclusive": [
+      {
+        "name": "Atari 5200",
+        "id": "ccl29",
+        "igdbId": 66,
+        "gbId": 67,
+        "gbGuid": "3045-67",
+        "tgdbId": 26
+      }
+    ],
+    "details": [
+      null
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "name": "Space Invaders",
+    "id": "a527",
+    "details": [
+      "Atari 5200 launch title"
+    ],
+    "igdbId": 3601,
+    "gbId": 5099,
+    "gbGuid": "3030-5099",
+    "tgdbId": 116,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 5200",
+        "id": "ccl29",
+        "igdbId": 66,
+        "gbId": 67,
+        "gbGuid": "3045-67",
+        "tgdbId": 26
+      }
+    ],
+    "isExclusive": false,
+    "special": []
+  },
+  {
+    "name": "Super Breakout",
+    "id": "a528",
+    "details": [
+      "Atari 5200 launch title",
+      "Atari 5200 4 player game"
+    ],
+    "igdbId": 12321,
+    "gbId": 1055,
+    "gbGuid": "3030-1055",
+    "tgdbId": 5221,
+    "isLaunchTitle": [
+      {
+        "name": "Atari 5200",
+        "id": "ccl29",
+        "igdbId": 66,
+        "gbId": 67,
+        "gbGuid": "3045-67",
+        "tgdbId": 26
+      }
+    ],
+    "special": [
+      {
+        "value": "Atari 5200 4 player game",
+        "forPlatform": {
+          "name": "Atari 5200",
+          "id": "ccl29",
+          "igdbId": 66,
+          "gbId": 67,
+          "gbGuid": "3045-67",
+          "tgdbId": 26
+        }
+      }
+    ],
+    "isExclusive": false
+  }
+]

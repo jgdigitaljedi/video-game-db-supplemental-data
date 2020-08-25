@@ -116,6 +116,28 @@
   },
   {
     "id": "a785",
+    "name": "Meltdown",
+    "details": [
+      "Atari 7800 exclusive"
+    ],
+    "igdbId": 80511,
+    "gbId": 2533,
+    "gbGuid": "3030-2533",
+    "isExclusive": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "id": "a786",
     "name": "Midnight Mutants",
     "details": [
       "Atari 7800 exclusive"
@@ -138,7 +160,29 @@
     "special": []
   },
   {
-    "id": "a786",
+    "id": "a787",
+    "name": "Missing In Action",
+    "details": [
+      "Atari 7800 exclusive"
+    ],
+    "igdbId": 40806,
+    "gbId": null,
+    "gbGuid": null,
+    "isExclusive": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "id": "a788",
     "name": "Ms. Pac-Man",
     "details": [
       "Atari 7800 launch title"
@@ -161,7 +205,7 @@
     "special": []
   },
   {
-    "id": "a787",
+    "id": "a789",
     "name": "Ninja Golf",
     "details": [
       "Atari 7800 exclusive"
@@ -184,7 +228,7 @@
     "special": []
   },
   {
-    "id": "a788",
+    "id": "a7810",
     "name": "Pole Position II",
     "details": [
       "Atari 7800 launch title"
@@ -207,7 +251,7 @@
     "special": []
   },
   {
-    "id": "a789",
+    "id": "a7811",
     "name": "Robotron 2084",
     "details": [
       "Atari 7800 launch title"
@@ -227,6 +271,72 @@
       }
     ],
     "isExclusive": false,
+    "special": []
+  },
+  {
+    "id": "a7812",
+    "name": "Super Skateboardin'",
+    "details": [
+      "Atari 7800 exclusive"
+    ],
+    "igdbId": 12341,
+    "gbId": 7882,
+    "gbGuid": "3030-7882",
+    "isExclusive": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "id": "a7813",
+    "name": "Tank Command",
+    "details": [
+      "Atari 7800 exclusive"
+    ],
+    "igdbId": 12342,
+    "gbId": 10550,
+    "gbGuid": "3030-10550",
+    "isExclusive": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "id": "a7814",
+    "name": "Water Ski",
+    "details": [
+      "Atari 7800 exclusive"
+    ],
+    "igdbId": 117410,
+    "gbId": 8206,
+    "gbGuid": "3030-8206",
+    "isExclusive": [
+      {
+        "name": "Atari 7800",
+        "id": "ccl30",
+        "igdbId": 60,
+        "gbId": 70,
+        "gbGuid": "3045-70",
+        "tgdbId": 27
+      }
+    ],
+    "isLaunchTitle": false,
     "special": []
   }
 ]
