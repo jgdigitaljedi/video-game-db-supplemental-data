@@ -11,16 +11,16 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/atari7800LaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/snesLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/atari7800Exclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/nintendoSnesExclusives.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/multiplayer/snesSuperMultitap.json'
   }
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/multiplayer/atari5200FourPlayerGames.json'
-  // }
   // {
   //   key: 'special',
   //   path: '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'
@@ -30,9 +30,9 @@ const filesArr = [
   //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
   // }
 ];
-const mlId = 'ccl30';
-const outPath = '../../finalOutput/consoleLists/Atari7800.json';
-const idPrefix = 'a78';
+const mlId = 'ccl2';
+const outPath = '../../finalOutput/consoleLists/SuperNintendoEntertainmentSystem.json';
+const idPrefix = 'snes';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
