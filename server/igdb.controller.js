@@ -1,8 +1,15 @@
 const express = require('express');
 const router = express.Router();
-const apicalypse = require('apicalypse').default;
 const moment = require('moment');
 const _cloneDeep = require('lodash/cloneDeep');
+const axios = require('axios');
+const igdb = require('igdb-api-node').default;
+
+let client;
+let appKey;
+let appKeyTimestamp;
+const twitchClientId = process.env.TWITCH_CLIENT_ID;
+const twitchSecretToken = process.env.TWITCH_SECRET_TOKEN;
 
 /* IGDB Search */
 
@@ -16,26 +23,23 @@ const esrbData = {
   '12': 'AO'
 };
 
-const requestOptions = {
-  method: 'POST',
-  baseURL: 'https://api-v3.igdb.com',
-  headers: {
-    Accept: 'application/json',
-    'user-key': process.env.IGDBV3KEY
-  }
-};
-
-const platformOptions = {
-  method: 'POST',
-  baseURL: 'https://api-v3.igdb.com',
-  headers: {
-    Accept: 'application/json',
-    'user-key': process.env.IGDBV3KEY
-  }
-};
-
 const fullGameQueryString =
   'age_ratings.rating,total_rating,total_rating_count,first_release_date,genres.name,name,game_modes';
+
+async function getAppAccessToken() {
+  return axios.post(
+    `https://id.twitch.tv/oauth2/token?client_id=${twitchClientId}&client_secret=${twitchSecretToken}&grant_type=client_credentials`
+  );
+}
+
+async function refreshAppKey() {
+  const appKeyRes = await getAppAccessToken();
+  appKey = appKeyRes.data;
+  appKeyTimestamp = moment().add(appKey.expires_in - 60, 'seconds');
+  console.log('clientId', twitchClientId);
+  console.log('token', appKey.access_token);
+  return igdb(twitchClientId, appKey.access_token);
+}
 
 function parseFullDataResult(data) {
   return data.map(item => {
@@ -61,8 +65,11 @@ function parseFullDataResult(data) {
   });
 }
 
-function apiFullSearch(name, platform) {
-  const request = apicalypse(requestOptions)
+async function apiFullSearch(name, platform) {
+  if (!client || !appKey || moment().isAfter(appKeyTimestamp)) {
+    client = await refreshAppKey();
+  }
+  const request = client
     .fields(fullGameQueryString)
     .search(name)
     .where(`platforms = [${platform}]`)
@@ -80,16 +87,22 @@ function apiFullSearch(name, platform) {
   });
 }
 
-function apiSearch(name, platform) {
-  return apicalypse(requestOptions)
+async function apiSearch(name, platform) {
+  if (!client || !appKey || moment().isAfter(appKeyTimestamp)) {
+    client = await refreshAppKey();
+  }
+  return client
     .fields(`name,id`)
     .search(name)
     .where(`platforms = [${platform}]`)
     .request('/games');
 }
 
-function fuzzyFullApiSearch(name) {
-  const request = apicalypse(requestOptions)
+async function fuzzyFullApiSearch(name) {
+  if (!client || !appKey || moment().isAfter(appKeyTimestamp)) {
+    client = await refreshAppKey();
+  }
+  const request = client
     .fields(fullGameQueryString)
     .search(name)
     .request('/games');
@@ -106,15 +119,21 @@ function fuzzyFullApiSearch(name) {
   });
 }
 
-function fuzzyApiSearch(name) {
-  return apicalypse(requestOptions)
+async function fuzzyApiSearch(name) {
+  if (!client || !appKey || moment().isAfter(appKeyTimestamp)) {
+    client = await refreshAppKey();
+  }
+  return client
     .fields(`name,id`)
     .search(name)
     .request('/games');
 }
 
-function platformSearch(platform) {
-  return apicalypse(platformOptions)
+async function platformSearch(platform) {
+  if (!client || !appKey || moment().isAfter(appKeyTimestamp)) {
+    client = await refreshAppKey();
+  }
+  return client
     .fields(`name,id`)
     .search(platform)
     .request('/platforms');
