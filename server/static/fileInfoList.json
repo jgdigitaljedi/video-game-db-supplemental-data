@@ -9,7 +9,7 @@
     "title": "Game Boy to GBA BC",
     "filePath": "../textFilesToBeConverted/backwardCompatibility/gbToGbaBc.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "PS to PS2 BC",
@@ -673,6 +673,24 @@
     "title": "Atari 5200 4 Player Games",
     "filePath": "../textFilesToBeConverted/multiplayer/atari5200FourPlayerGames.json",
     "type": "Game",
-    "complete": false
+    "complete": true
+  },
+  {
+    "title": "Nintendo 3DS Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/nintendo3dsLaunchTitles.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "3DO Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/3doLaunchTitles.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Virtual Boy Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/virtualBoyExclusives.json",
+    "type": "Game",
+    "complete": true
   }
 ]

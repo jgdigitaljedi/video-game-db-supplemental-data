@@ -13,6 +13,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 ### Launch Titles
 
+- 3doltX - 3DO Interactive Multiplayer launch titles (3doLaunchTitles.json) | GAMES LIST
 - alltX - Atari Lynx launch titles (atariLynxLaunchTitles.json) | GAMES LIST
 - at26ltX - Atari 2600 launch titles (atari2600LaunchTitles.json) | GAMES LIST
 - at52ltX - Atari 5200 launch titles (atari5200LaunchTitles.json) | GAMES LIST
@@ -33,6 +34,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - gmltX - Gizmondo launch titles (gizmondoLaunchTitles.json) | GAMES LIST
 - ivltX - Mattel Intellivision launch titles (intellivisionLaunchTitles.json) | GAMES LIST
 - mo2X - Magnavox Odyssey 2 launch titles (magnavoxOdyssey2LaunchTitles.json) | GAMES LIST
+- n3dsltX - Nintendo 3DS launch titles (nintendo3dsLaunchTitles.json) | GAMES LIST
 - n64ltX - N64 launch titles (n64LaunchTitles.json) | GAMES LIST
 - ndsltX - Nintendo DS launch titles (dsLaunchTitles.json) | GAMES LIST
 - nesltX - NES launch titles (nesLaunchTitles.json) | GAMES LIST
@@ -106,6 +108,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ngbcexX - Nintendo Game Boy Color console exclusives (nintendoGameBoyColorExclusives.json | GAMES LIST)
 - ngbexX - Nintendo Game Boy console exclusives (nintendoGameBoyExclusives.json | GAMES LIST)
 - nswexX - Nintendo Switch console exclusives (nintendoSwitchExclusives.json | GAMES LIST)
+- nvbexX - Nintendo Virtual Boy console exclusives (virtualBoyExclusives.json | GAMES LIST)
 - nwiiexX - Nintendo Wii console exclusives (nintendoWiiExclusives.json | GAMES LIST)
 - nwuexX - Nintendo Wii U console exclusives (nintendoWiiUExclusives.json | GAMES LIST)
 - psexX - Sony PlayStation console exclusives (sonyPlaystationExclusives.json | GAMES LIST)

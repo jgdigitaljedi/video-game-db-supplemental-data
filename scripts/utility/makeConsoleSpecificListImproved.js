@@ -11,16 +11,16 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/snesLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/3doLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/nintendoSnesExclusives.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/multiplayer/snesSuperMultitap.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/3doExclusives.json'
   }
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/multiplayer/snesSuperMultitap.json'
+  // }
   // {
   //   key: 'special',
   //   path: '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'
@@ -30,9 +30,9 @@ const filesArr = [
   //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
   // }
 ];
-const mlId = 'ccl2';
-const outPath = '../../finalOutput/consoleLists/SuperNintendoEntertainmentSystem.json';
-const idPrefix = 'snes';
+const mlId = 'ccl35';
+const outPath = '../../finalOutput/consoleLists/3DOInteractiveMultiplayer.json';
+const idPrefix = 'r3do';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
