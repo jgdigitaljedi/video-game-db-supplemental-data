@@ -692,5 +692,65 @@
     "filePath": "../textFilesToBeConverted/platformExclusives/virtualBoyExclusives.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "3DS Nintendo Selects",
+    "filePath": "../textFilesToBeConverted/greatestHits/3dsNintendoSelects.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Game Boy Color Nintendo Selects",
+    "filePath": "../textFilesToBeConverted/greatestHits/gameBoyColorNintendoSelects.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Game Boy Player's Choice",
+    "filePath": "../textFilesToBeConverted/greatestHits/gameboyPlayersChoice.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "GameCube Europe Player's Choice",
+    "filePath": "../textFilesToBeConverted/greatestHits/gamecubeEuropePlayersChoice.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "GameCube Player's Choice",
+    "filePath": "../textFilesToBeConverted/greatestHits/gamecubePlayersChoice.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "GBA Player's Choice",
+    "filePath": "../textFilesToBeConverted/greatestHits/gbaPlayersChoice.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Nintendo 64 Player's Choice",
+    "filePath": "../textFilesToBeConverted/greatestHits/nintendo64PlayersChoice.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "SNES Player's Choice",
+    "filePath": "../textFilesToBeConverted/greatestHits/snesPlayersChoice.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Wii Nintendo Selects",
+    "filePath": "../textFilesToBeConverted/greatestHits/wiiNintendoSelects.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Wii U Nintendo Selects",
+    "filePath": "../textFilesToBeConverted/greatestHits/wiiUNintendoSelects.json",
+    "type": "Game",
+    "complete": true
   }
 ]

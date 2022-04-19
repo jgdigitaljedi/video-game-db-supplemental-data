@@ -130,3 +130,16 @@ I simply chose a prefix for each list then slap a number on the end to different
 - xb1exX - Microsoft Xbox One console exclusives (xboxOneExclusives.json | GAMES LIST)
 - xb360exX - Microsoft Xbox 360 console exclusives (xbox360Exclusives.json | GAMES LIST)
 - xbexX - Microsoft Xbox console exclusives (microsoftXboxExclusives.json | GAMES LIST)
+
+### Greatest Hits/Player's Choice/Nintendo Selects/etc
+
+- 3dsnsX - Nintendo 3DS Nintendo Selects (3dsNintendoSelects.json | GAMES LIST)
+- gbapcX - Nintendo Game Boy Advance Player's Choice (gbaPlayersChoice.json | GAMES LIST)
+- gbcnsX - Nintendo Game Boy Color Nintendo Selects (gameBointendoSelects.json | GAMES LIST)
+- gbpcX - Nintendo Game Boy Player's Choice (gameboyPlayersChoice.json | GAMES LIST)
+- gcepcX - Nintendo GameCube Player's Choice (Europe) (gamecubeEuropePlayersChoice.json | GAMES LIST)
+- gcpcX - Nintendo GameCube Player's Choice (gamecubePlayersChoice.json | GAMES LIST)
+- n64pcX - Nintendo 64 Player's Choice (nintendo64PlayersChoice.json | GAMES LIST)
+- snespcX - SNES Player's Choice (snesPlayersChoice.json | GAMES LIST)
+- wpcX - Nintendo Wii Nintendo Selects (wiiNintendoSelects.json | GAMES LIST)
+- wupcX - Nintendo Wii U Nintendo Selects (wiiUNintendoSelects.json | GAMES LIST)

@@ -25,6 +25,18 @@ module.exports.readFile = function(filePath, fullPath) {
 module.exports.incrementIds = function(data, prefix) {
   return data.map((d, index) => {
     d.id = `${prefix}${index + 1}`;
+    if (!d.hasOwnProperty('igdbId')) {
+      d.igdbId = null;
+    }
+    if (!d.hasOwnProperty('gbId')) {
+      d.gbId = null;
+    }
+    if (!d.hasOwnProperty('gbGuid')) {
+      d.gbGuid = null;
+    }
+    if (!d.hasOwnProperty('tgdbId')) {
+      d.tgdbId = null;
+    }
     return d;
   });
 };
