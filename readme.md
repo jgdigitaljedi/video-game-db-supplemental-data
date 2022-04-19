@@ -114,6 +114,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - NEC Turbografx CD
 - Neo Geo Pocket Color
 - Nintendo 64
+- Nintendo 3DS
 - Nintendo DS
 - Nintendo Entertainment System
 - Nintendo Game Boy
@@ -126,6 +127,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Nintendo Wii U
 - Nokia N-Gage
 - Philips CD-i
+- REAL 3DO
 - Sega 32x
 - Sega CD
 - Sega Dreamcast
@@ -166,6 +168,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Nintendo Game Boy Color
 - Nintendo GameCube
 - Nintendo Switch
+- Nintendo Virtual Boy
 - Nintendo Wii
 - Nintendo Wii U
 - Philips CD-i (I can't find info for this so I started a list with what I know to be exclusives)
@@ -214,6 +217,19 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Xbox games that work on the Xbox 360
 - Xbox games that work on the Xbox One
 - Xbox 360 games that work on the Xbox One
+
+### Greatest Hits/Player's Choice/Selects/etc
+
+- Nintendo 3DS Nintendo Selects
+- Nintendo 64 Player's Choice
+- Nintendo Game Boy Player's Choice
+- Nintendo Game Boy Advance Player's Choice
+- Nintendo Game Boy Color Nintendo Selects
+- Nintendo GameCube Player's Choice (Europe)
+- Nintendo GameCube Player's Choice
+- Nintendo SNES Player's Choice
+- Nintendo Wii Nintendo Selects
+- Nintendo Wii U Nintendo Selects
 
 ---
 
