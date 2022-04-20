@@ -1813,11 +1813,89 @@
     "special": []
   },
   {
+    "name": "Donkey Kong Country",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes77",
+    "igdbId": 1090,
+    "gbId": 15738,
+    "gbGuid": "3030-15738",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes78",
+    "igdbId": 1092,
+    "gbId": 16889,
+    "gbGuid": "3030-16889",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes79",
+    "igdbId": 1094,
+    "gbId": 4547,
+    "gbGuid": "3030-4547",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Doomsday Warrior",
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes77",
+    "id": "snes80",
     "igdbId": 42599,
     "gbId": 14779,
     "gbGuid": "3030-14779",
@@ -1840,7 +1918,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes78",
+    "id": "snes81",
     "igdbId": 42635,
     "gbId": 18388,
     "gbGuid": "3030-18388",
@@ -1860,7 +1938,7 @@
   },
   {
     "name": "Dragon: The Bruce Lee Story",
-    "id": "snes79",
+    "id": "snes82",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -1885,7 +1963,7 @@
   },
   {
     "name": "Dream Basketball: Dunk & Hoop",
-    "id": "snes80",
+    "id": "snes83",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -1913,7 +1991,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes81",
+    "id": "snes84",
     "igdbId": 93573,
     "gbId": 35318,
     "gbGuid": "3030-35318",
@@ -1933,7 +2011,7 @@
   },
   {
     "name": "Dynamic Stadium",
-    "id": "snes82",
+    "id": "snes85",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -1961,7 +2039,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes83",
+    "id": "snes86",
     "igdbId": 6979,
     "gbId": 3397,
     "gbGuid": "3030-3397",
@@ -1981,7 +2059,7 @@
   },
   {
     "name": "ESPN National Hockey Night",
-    "id": "snes84",
+    "id": "snes87",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -2009,7 +2087,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes85",
+    "id": "snes88",
     "igdbId": 15899,
     "gbId": 27673,
     "gbGuid": "3030-27673",
@@ -2032,7 +2110,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes86",
+    "id": "snes89",
     "igdbId": 42559,
     "gbId": 22056,
     "gbGuid": "3030-22056",
@@ -2055,7 +2133,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes87",
+    "id": "snes90",
     "igdbId": 100180,
     "gbId": 13849,
     "gbGuid": "3030-13849",
@@ -2078,7 +2156,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes88",
+    "id": "snes91",
     "igdbId": 42485,
     "gbId": null,
     "gbGuid": null,
@@ -2101,7 +2179,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes89",
+    "id": "snes92",
     "igdbId": 42558,
     "gbId": 37310,
     "gbGuid": "3030-37310",
@@ -2121,9 +2199,10 @@
   },
   {
     "name": "F-Zero",
-    "id": "snes90",
+    "id": "snes93",
     "details": [
-      "SNES laucnh title"
+      "SNES laucnh title",
+      "SNES Player's Choice"
     ],
     "igdbId": 3490,
     "gbId": 15242,
@@ -2139,15 +2218,27 @@
         "tgdbId": 6
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
     "name": "F1 Pole Position",
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes91",
+    "id": "snes94",
     "igdbId": 48947,
     "gbId": null,
     "gbGuid": null,
@@ -2170,7 +2261,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes92",
+    "id": "snes95",
     "igdbId": 42557,
     "gbId": 38982,
     "gbGuid": "3030-38982",
@@ -2193,7 +2284,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes93",
+    "id": "snes96",
     "igdbId": 42572,
     "gbId": 38012,
     "gbGuid": "3030-38012",
@@ -2216,7 +2307,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes94",
+    "id": "snes97",
     "igdbId": 42571,
     "gbId": 22442,
     "gbGuid": "3030-22442",
@@ -2236,7 +2327,7 @@
   },
   {
     "name": "FIFA International Soccer",
-    "id": "snes95",
+    "id": "snes98",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -2261,7 +2352,7 @@
   },
   {
     "name": "FIFA Soccer 96",
-    "id": "snes96",
+    "id": "snes99",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -2286,7 +2377,7 @@
   },
   {
     "name": "FIFA Soccer 97",
-    "id": "snes97",
+    "id": "snes100",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -2311,7 +2402,7 @@
   },
   {
     "name": "FIFA: Road to World Cup 98",
-    "id": "snes98",
+    "id": "snes101",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -2339,7 +2430,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes99",
+    "id": "snes102",
     "igdbId": 58791,
     "gbId": 53048,
     "gbGuid": "3030-53048",
@@ -2359,7 +2450,7 @@
   },
   {
     "name": "Final Set",
-    "id": "snes100",
+    "id": "snes103",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -2387,7 +2478,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes101",
+    "id": "snes104",
     "igdbId": 42277,
     "gbId": 38925,
     "gbGuid": "3030-38925",
@@ -2411,7 +2502,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes102",
+    "id": "snes105",
     "igdbId": 42553,
     "gbId": 7528,
     "gbGuid": "3030-7528",
@@ -2446,7 +2537,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes103",
+    "id": "snes106",
     "igdbId": 64265,
     "gbId": 40594,
     "gbGuid": "3030-40594",
@@ -2469,7 +2560,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes104",
+    "id": "snes107",
     "igdbId": 42551,
     "gbId": 44147,
     "gbGuid": "3030-44147",
@@ -2492,7 +2583,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes105",
+    "id": "snes108",
     "igdbId": 42620,
     "gbId": 27050,
     "gbGuid": "3030-27050",
@@ -2512,7 +2603,7 @@
   },
   {
     "name": "From TV Animation: Slam Dunk SD Heat Up!!",
-    "id": "snes106",
+    "id": "snes109",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -2540,7 +2631,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes107",
+    "id": "snes110",
     "igdbId": 42594,
     "gbId": 17447,
     "gbGuid": "3030-17447",
@@ -2563,7 +2654,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes108",
+    "id": "snes111",
     "igdbId": null,
     "gbId": 33729,
     "gbGuid": "3030-33729",
@@ -2586,7 +2677,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes109",
+    "id": "snes112",
     "igdbId": 18613,
     "gbId": 36333,
     "gbGuid": "3030-36333",
@@ -2609,7 +2700,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes110",
+    "id": "snes113",
     "igdbId": 42591,
     "gbId": 37312,
     "gbGuid": "3030-37312",
@@ -2632,7 +2723,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes111",
+    "id": "snes114",
     "igdbId": 42590,
     "gbId": 4257,
     "gbGuid": "3030-4257",
@@ -2655,7 +2746,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes112",
+    "id": "snes115",
     "igdbId": 37634,
     "gbId": null,
     "gbGuid": null,
@@ -2675,7 +2766,7 @@
   },
   {
     "name": "Go! Go! Dodge League",
-    "id": "snes113",
+    "id": "snes116",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -2703,7 +2794,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes114",
+    "id": "snes117",
     "igdbId": 36739,
     "gbId": null,
     "gbGuid": null,
@@ -2726,7 +2817,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes115",
+    "id": "snes118",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2749,7 +2840,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes116",
+    "id": "snes119",
     "igdbId": 97118,
     "gbId": null,
     "gbGuid": null,
@@ -2772,7 +2863,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes117",
+    "id": "snes120",
     "igdbId": 8163,
     "gbId": 11349,
     "gbGuid": "3030-11349",
@@ -2792,7 +2883,7 @@
   },
   {
     "name": "Gradius III",
-    "id": "snes118",
+    "id": "snes121",
     "details": [
       "SNES laucnh title"
     ],
@@ -2818,7 +2909,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes119",
+    "id": "snes122",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2841,7 +2932,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes120",
+    "id": "snes123",
     "igdbId": 3653,
     "gbId": 30540,
     "gbGuid": "3030-30540",
@@ -2864,7 +2955,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes121",
+    "id": "snes124",
     "igdbId": null,
     "gbId": 47501,
     "gbGuid": "3030-47501",
@@ -2887,7 +2978,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes122",
+    "id": "snes125",
     "igdbId": 42611,
     "gbId": 11438,
     "gbGuid": "3030-11438",
@@ -2911,7 +3002,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes123",
+    "id": "snes126",
     "igdbId": 42589,
     "gbId": 38662,
     "gbGuid": "3030-38662",
@@ -2946,7 +3037,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes124",
+    "id": "snes127",
     "igdbId": 42302,
     "gbId": 44168,
     "gbGuid": "3030-44168",
@@ -2970,7 +3061,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes125",
+    "id": "snes128",
     "igdbId": 42619,
     "gbId": 50821,
     "gbGuid": "3030-50821",
@@ -3005,7 +3096,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes126",
+    "id": "snes129",
     "igdbId": 20337,
     "gbId": 17331,
     "gbGuid": "3030-17331",
@@ -3029,7 +3120,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes127",
+    "id": "snes130",
     "igdbId": 38332,
     "gbId": 37195,
     "gbGuid": "3030-37195",
@@ -3061,7 +3152,7 @@
   },
   {
     "name": "Head-On Soccer",
-    "id": "snes128",
+    "id": "snes131",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -3086,7 +3177,7 @@
   },
   {
     "name": "Hebereke no Oishii Puzzle wa Irimasenka",
-    "id": "snes129",
+    "id": "snes132",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -3114,7 +3205,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes130",
+    "id": "snes133",
     "igdbId": 11541,
     "gbId": 512,
     "gbGuid": "3030-512",
@@ -3137,7 +3228,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes131",
+    "id": "snes134",
     "igdbId": 9616,
     "gbId": 40832,
     "gbGuid": "3030-40832",
@@ -3157,7 +3248,7 @@
   },
   {
     "name": "Human Grand Prix III: F1 Triple Battle",
-    "id": "snes132",
+    "id": "snes135",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -3182,7 +3273,7 @@
   },
   {
     "name": "Human Grand Prix IV: F1 Dream Battle",
-    "id": "snes133",
+    "id": "snes136",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -3207,7 +3298,7 @@
   },
   {
     "name": "Hungry Dinosaurs",
-    "id": "snes134",
+    "id": "snes137",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -3235,7 +3326,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes135",
+    "id": "snes138",
     "igdbId": 42334,
     "gbId": 41329,
     "gbGuid": "3030-41329",
@@ -3258,7 +3349,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes136",
+    "id": "snes139",
     "igdbId": 42608,
     "gbId": 889,
     "gbGuid": "3030-889",
@@ -3281,7 +3372,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes137",
+    "id": "snes140",
     "igdbId": 42289,
     "gbId": 16712,
     "gbGuid": "3030-16712",
@@ -3304,7 +3395,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes138",
+    "id": "snes141",
     "igdbId": 3016,
     "gbId": 5199,
     "gbGuid": "3030-5199",
@@ -3327,7 +3418,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes139",
+    "id": "snes142",
     "igdbId": null,
     "gbId": 44480,
     "gbGuid": "3030-44480",
@@ -3350,7 +3441,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes140",
+    "id": "snes143",
     "igdbId": 44454,
     "gbId": 450,
     "gbGuid": "3030-450",
@@ -3373,7 +3464,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes141",
+    "id": "snes144",
     "igdbId": 10843,
     "gbId": 6329,
     "gbGuid": "3030-6329",
@@ -3396,7 +3487,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes142",
+    "id": "snes145",
     "igdbId": 4859,
     "gbId": 3376,
     "gbGuid": "3030-3376",
@@ -3419,7 +3510,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes143",
+    "id": "snes146",
     "igdbId": 9861,
     "gbId": 6106,
     "gbGuid": "3030-6106",
@@ -3439,7 +3530,7 @@
   },
   {
     "name": "International Superstar Soccer Deluxe",
-    "id": "snes144",
+    "id": "snes147",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -3467,7 +3558,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes145",
+    "id": "snes148",
     "igdbId": 44453,
     "gbId": 28144,
     "gbGuid": "3030-28144",
@@ -3490,7 +3581,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes146",
+    "id": "snes149",
     "igdbId": 42392,
     "gbId": 28167,
     "gbGuid": "3030-28167",
@@ -3510,7 +3601,7 @@
   },
   {
     "name": "JWP Joshi Pro Wrestling: Pure Wrestle Queens",
-    "id": "snes147",
+    "id": "snes150",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -3538,7 +3629,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes148",
+    "id": "snes151",
     "igdbId": 38361,
     "gbId": null,
     "gbGuid": null,
@@ -3562,7 +3653,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes149",
+    "id": "snes152",
     "igdbId": 42415,
     "gbId": 28186,
     "gbGuid": "3030-28186",
@@ -3594,7 +3685,7 @@
   },
   {
     "name": "Jimmy Connors Pro Tennis Tour",
-    "id": "snes150",
+    "id": "snes153",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -3622,7 +3713,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes151",
+    "id": "snes154",
     "igdbId": 42643,
     "gbId": 28198,
     "gbGuid": "3030-28198",
@@ -3645,7 +3736,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes152",
+    "id": "snes155",
     "igdbId": 42604,
     "gbId": 9982,
     "gbGuid": "3030-9982",
@@ -3668,7 +3759,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes153",
+    "id": "snes156",
     "igdbId": 11067,
     "gbId": 5721,
     "gbGuid": "3030-5721",
@@ -3691,7 +3782,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes154",
+    "id": "snes157",
     "igdbId": 42387,
     "gbId": null,
     "gbGuid": null,
@@ -3714,7 +3805,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes155",
+    "id": "snes158",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3737,7 +3828,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes156",
+    "id": "snes159",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3760,7 +3851,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes157",
+    "id": "snes160",
     "igdbId": 37967,
     "gbId": 53062,
     "gbGuid": "3030-53062",
@@ -3783,7 +3874,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes158",
+    "id": "snes161",
     "igdbId": 38267,
     "gbId": 28244,
     "gbGuid": "3030-28244",
@@ -3806,7 +3897,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes159",
+    "id": "snes162",
     "igdbId": 42508,
     "gbId": 987,
     "gbGuid": "3030-987",
@@ -3829,7 +3920,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes160",
+    "id": "snes163",
     "igdbId": 42507,
     "gbId": 3894,
     "gbGuid": "3030-3894",
@@ -3852,7 +3943,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes161",
+    "id": "snes164",
     "igdbId": 15845,
     "gbId": 13210,
     "gbGuid": "3030-13210",
@@ -3875,7 +3966,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes162",
+    "id": "snes165",
     "igdbId": 42618,
     "gbId": 29480,
     "gbGuid": "3030-29480",
@@ -3898,7 +3989,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes163",
+    "id": "snes166",
     "igdbId": 38212,
     "gbId": null,
     "gbGuid": null,
@@ -3921,7 +4012,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes164",
+    "id": "snes167",
     "igdbId": 42506,
     "gbId": 12248,
     "gbGuid": "3030-12248",
@@ -3944,7 +4035,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes165",
+    "id": "snes168",
     "igdbId": 37947,
     "gbId": 28290,
     "gbGuid": "3030-28290",
@@ -3964,7 +4055,7 @@
   },
   {
     "name": "Kunio-Kun no Dodge Ball Dayo Zenin Shuugo!",
-    "id": "snes166",
+    "id": "snes169",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -3992,7 +4083,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes167",
+    "id": "snes170",
     "igdbId": 42505,
     "gbId": 31707,
     "gbGuid": "3030-31707",
@@ -4015,7 +4106,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes168",
+    "id": "snes171",
     "igdbId": 42578,
     "gbId": 1774,
     "gbGuid": "3030-1774",
@@ -4038,7 +4129,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes169",
+    "id": "snes172",
     "igdbId": 38376,
     "gbId": 1135,
     "gbGuid": "3030-1135",
@@ -4061,7 +4152,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes170",
+    "id": "snes173",
     "igdbId": 42504,
     "gbId": 2657,
     "gbGuid": "3030-2657",
@@ -4084,7 +4175,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes171",
+    "id": "snes174",
     "igdbId": 42585,
     "gbId": 17850,
     "gbGuid": "3030-17850",
@@ -4104,7 +4195,7 @@
   },
   {
     "name": "Looney Tunes B-Ball",
-    "id": "snes172",
+    "id": "snes175",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -4132,7 +4223,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes173",
+    "id": "snes176",
     "igdbId": 1177,
     "gbId": 2516,
     "gbGuid": "3030-2516",
@@ -4155,7 +4246,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes174",
+    "id": "snes177",
     "igdbId": 1178,
     "gbId": 5739,
     "gbGuid": "3030-5739",
@@ -4178,7 +4269,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes175",
+    "id": "snes178",
     "igdbId": 7777,
     "gbId": 18248,
     "gbGuid": "3030-18248",
@@ -4198,7 +4289,7 @@
   },
   {
     "name": "Madden NFL '94",
-    "id": "snes176",
+    "id": "snes179",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -4223,7 +4314,7 @@
   },
   {
     "name": "Madden NFL 95",
-    "id": "snes177",
+    "id": "snes180",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -4248,7 +4339,7 @@
   },
   {
     "name": "Madden NFL 96",
-    "id": "snes178",
+    "id": "snes181",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -4273,7 +4364,7 @@
   },
   {
     "name": "Madden NFL 97",
-    "id": "snes179",
+    "id": "snes182",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -4298,7 +4389,7 @@
   },
   {
     "name": "Madden NFL 98",
-    "id": "snes180",
+    "id": "snes183",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -4326,7 +4417,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes181",
+    "id": "snes184",
     "igdbId": 9671,
     "gbId": 12491,
     "gbGuid": "3030-12491",
@@ -4349,7 +4440,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes182",
+    "id": "snes185",
     "igdbId": 37937,
     "gbId": 28318,
     "gbGuid": "3030-28318",
@@ -4372,7 +4463,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes183",
+    "id": "snes186",
     "igdbId": null,
     "gbId": 31636,
     "gbGuid": "3030-31636",
@@ -4395,7 +4486,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes184",
+    "id": "snes187",
     "igdbId": 42503,
     "gbId": 37635,
     "gbGuid": "3030-37635",
@@ -4416,9 +4507,10 @@
   {
     "name": "Mario Paint",
     "details": [
-      "Super Nintendo Entertainment System exclusive"
+      "Super Nintendo Entertainment System exclusive",
+      "SNES Player's Choice"
     ],
-    "id": "snes185",
+    "id": "snes188",
     "igdbId": 8203,
     "gbId": 8791,
     "gbGuid": "3030-8791",
@@ -4433,15 +4525,27 @@
         "tgdbId": 6
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Mario and Wario",
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes186",
+    "id": "snes189",
     "igdbId": 1709,
     "gbId": 22862,
     "gbGuid": "3030-22862",
@@ -4464,7 +4568,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes187",
+    "id": "snes190",
     "igdbId": 42499,
     "gbId": 30217,
     "gbGuid": "3030-30217",
@@ -4487,7 +4591,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes188",
+    "id": "snes191",
     "igdbId": 42656,
     "gbId": 8899,
     "gbGuid": "3030-8899",
@@ -4510,7 +4614,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes189",
+    "id": "snes192",
     "igdbId": 37930,
     "gbId": 28338,
     "gbGuid": "3030-28338",
@@ -4533,7 +4637,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes190",
+    "id": "snes193",
     "igdbId": 41089,
     "gbId": 28340,
     "gbGuid": "3030-28340",
@@ -4556,7 +4660,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes191",
+    "id": "snes194",
     "igdbId": 42498,
     "gbId": 38339,
     "gbGuid": "3030-38339",
@@ -4579,7 +4683,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes192",
+    "id": "snes195",
     "igdbId": 19188,
     "gbId": 13931,
     "gbGuid": "3030-13931",
@@ -4602,7 +4706,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes193",
+    "id": "snes196",
     "igdbId": 1730,
     "gbId": 11496,
     "gbGuid": "3030-11496",
@@ -4625,7 +4729,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes194",
+    "id": "snes197",
     "igdbId": 45264,
     "gbId": null,
     "gbGuid": null,
@@ -4648,7 +4752,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes195",
+    "id": "snes198",
     "igdbId": 44461,
     "gbId": 3484,
     "gbGuid": "3030-3484",
@@ -4671,7 +4775,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes196",
+    "id": "snes199",
     "igdbId": 42556,
     "gbId": 13118,
     "gbGuid": "3030-13118",
@@ -4694,7 +4798,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes197",
+    "id": "snes200",
     "igdbId": 14386,
     "gbId": 15559,
     "gbGuid": "3030-15559",
@@ -4717,7 +4821,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes198",
+    "id": "snes201",
     "igdbId": 42496,
     "gbId": 26638,
     "gbGuid": "3030-26638",
@@ -4740,7 +4844,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes199",
+    "id": "snes202",
     "igdbId": 42490,
     "gbId": 6694,
     "gbGuid": "3030-6694",
@@ -4763,7 +4867,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes200",
+    "id": "snes203",
     "igdbId": 42543,
     "gbId": 28344,
     "gbGuid": "3030-28344",
@@ -4783,7 +4887,7 @@
   },
   {
     "name": "Micro Machines",
-    "id": "snes201",
+    "id": "snes204",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -4808,7 +4912,7 @@
   },
   {
     "name": "Micro Machines 2: Turbo Tournament",
-    "id": "snes202",
+    "id": "snes205",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -4836,7 +4940,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes203",
+    "id": "snes206",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4859,7 +4963,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes204",
+    "id": "snes207",
     "igdbId": 3324,
     "gbId": 6531,
     "gbGuid": "3030-6531",
@@ -4882,7 +4986,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes205",
+    "id": "snes208",
     "igdbId": 3287,
     "gbId": 11585,
     "gbGuid": "3030-11585",
@@ -4905,7 +5009,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes206",
+    "id": "snes209",
     "igdbId": 3288,
     "gbId": 21927,
     "gbGuid": "3030-21927",
@@ -4928,7 +5032,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes207",
+    "id": "snes210",
     "igdbId": 42386,
     "gbId": 28350,
     "gbGuid": "3030-28350",
@@ -4948,7 +5052,7 @@
   },
   {
     "name": "Mizuki Shigeru no Youkai Hyakki Yakou",
-    "id": "snes208",
+    "id": "snes211",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -4976,7 +5080,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes209",
+    "id": "snes212",
     "igdbId": 42487,
     "gbId": 7939,
     "gbGuid": "3030-7939",
@@ -4999,7 +5103,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes210",
+    "id": "snes213",
     "igdbId": 42297,
     "gbId": null,
     "gbGuid": null,
@@ -5022,7 +5126,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes211",
+    "id": "snes214",
     "igdbId": 37920,
     "gbId": 28362,
     "gbGuid": "3030-28362",
@@ -5042,7 +5146,7 @@
   },
   {
     "name": "Multi Play Volleyball",
-    "id": "snes212",
+    "id": "snes215",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5070,7 +5174,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes213",
+    "id": "snes216",
     "igdbId": 36740,
     "gbId": 39003,
     "gbGuid": "3030-39003",
@@ -5093,7 +5197,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes214",
+    "id": "snes217",
     "igdbId": 42484,
     "gbId": 168,
     "gbGuid": "3030-168",
@@ -5117,7 +5221,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes215",
+    "id": "snes218",
     "igdbId": 42482,
     "gbId": 11202,
     "gbGuid": "3030-11202",
@@ -5149,7 +5253,7 @@
   },
   {
     "name": "NBA Hangtime",
-    "id": "snes216",
+    "id": "snes219",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5174,7 +5278,7 @@
   },
   {
     "name": "NBA Jam",
-    "id": "snes217",
+    "id": "snes220",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5199,7 +5303,7 @@
   },
   {
     "name": "NBA Jam Tournament Edition",
-    "id": "snes218",
+    "id": "snes221",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5224,7 +5328,7 @@
   },
   {
     "name": "NBA Live 95",
-    "id": "snes219",
+    "id": "snes222",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5249,7 +5353,7 @@
   },
   {
     "name": "NBA Live 96",
-    "id": "snes220",
+    "id": "snes223",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5274,7 +5378,7 @@
   },
   {
     "name": "NBA Live 97",
-    "id": "snes221",
+    "id": "snes224",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5299,7 +5403,7 @@
   },
   {
     "name": "NBA Live 98",
-    "id": "snes222",
+    "id": "snes225",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5327,7 +5431,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes223",
+    "id": "snes226",
     "igdbId": 42480,
     "gbId": 20007,
     "gbGuid": "3030-20007",
@@ -5347,7 +5451,7 @@
   },
   {
     "name": "NCAA Final Four Basketball",
-    "id": "snes224",
+    "id": "snes227",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5372,7 +5476,7 @@
   },
   {
     "name": "NCAA Football",
-    "id": "snes225",
+    "id": "snes228",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5397,7 +5501,7 @@
   },
   {
     "name": "NFL Quarterback Club",
-    "id": "snes226",
+    "id": "snes229",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5422,7 +5526,7 @@
   },
   {
     "name": "NFL Quarterback Club 96",
-    "id": "snes227",
+    "id": "snes230",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5447,7 +5551,7 @@
   },
   {
     "name": "NHL '94",
-    "id": "snes228",
+    "id": "snes231",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5472,7 +5576,7 @@
   },
   {
     "name": "NHL 98",
-    "id": "snes229",
+    "id": "snes232",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5500,7 +5604,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes230",
+    "id": "snes233",
     "igdbId": 42655,
     "gbId": 14125,
     "gbGuid": "3030-14125",
@@ -5523,7 +5627,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes231",
+    "id": "snes234",
     "igdbId": 37914,
     "gbId": 28368,
     "gbGuid": "3030-28368",
@@ -5546,7 +5650,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes232",
+    "id": "snes235",
     "igdbId": 37913,
     "gbId": null,
     "gbGuid": null,
@@ -5569,7 +5673,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes233",
+    "id": "snes236",
     "igdbId": 38210,
     "gbId": 28375,
     "gbGuid": "3030-28375",
@@ -5589,7 +5693,7 @@
   },
   {
     "name": "Natsume Championship Wrestling",
-    "id": "snes234",
+    "id": "snes237",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5617,7 +5721,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes235",
+    "id": "snes238",
     "igdbId": 15848,
     "gbId": 14451,
     "gbGuid": "3030-14451",
@@ -5640,7 +5744,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes236",
+    "id": "snes239",
     "igdbId": 85808,
     "gbId": 37538,
     "gbGuid": "3030-37538",
@@ -5663,7 +5767,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes237",
+    "id": "snes240",
     "igdbId": 42477,
     "gbId": 30887,
     "gbGuid": "3030-30887",
@@ -5686,7 +5790,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes238",
+    "id": "snes241",
     "igdbId": 11125,
     "gbId": 6408,
     "gbGuid": "3030-6408",
@@ -5709,7 +5813,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes239",
+    "id": "snes242",
     "igdbId": 38229,
     "gbId": 30213,
     "gbGuid": "3030-30213",
@@ -5732,7 +5836,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes240",
+    "id": "snes243",
     "igdbId": 42653,
     "gbId": 7224,
     "gbGuid": "3030-7224",
@@ -5755,7 +5859,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes241",
+    "id": "snes244",
     "igdbId": 38118,
     "gbId": 30222,
     "gbGuid": "3030-30222",
@@ -5778,7 +5882,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes242",
+    "id": "snes245",
     "igdbId": 42475,
     "gbId": 33018,
     "gbGuid": "3030-33018",
@@ -5801,7 +5905,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes243",
+    "id": "snes246",
     "igdbId": 46586,
     "gbId": 10392,
     "gbGuid": "3030-10392",
@@ -5824,7 +5928,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes244",
+    "id": "snes247",
     "igdbId": 42374,
     "gbId": 30456,
     "gbGuid": "3030-30456",
@@ -5844,7 +5948,7 @@
   },
   {
     "name": "Pieces",
-    "id": "snes245",
+    "id": "snes248",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -5869,7 +5973,7 @@
   },
   {
     "name": "Pilotwings",
-    "id": "snes246",
+    "id": "snes249",
     "details": [
       "SNES laucnh title"
     ],
@@ -5895,7 +5999,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes247",
+    "id": "snes250",
     "igdbId": 42466,
     "gbId": null,
     "gbGuid": null,
@@ -5918,7 +6022,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes248",
+    "id": "snes251",
     "igdbId": 1803,
     "gbId": 11566,
     "gbGuid": "3030-11566",
@@ -5941,7 +6045,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes249",
+    "id": "snes252",
     "igdbId": 44462,
     "gbId": 7069,
     "gbGuid": "3030-7069",
@@ -5965,7 +6069,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes250",
+    "id": "snes253",
     "igdbId": 44458,
     "gbId": 946,
     "gbGuid": "3030-946",
@@ -6000,7 +6104,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes251",
+    "id": "snes254",
     "igdbId": 44457,
     "gbId": 38915,
     "gbGuid": "3030-38915",
@@ -6023,7 +6127,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes252",
+    "id": "snes255",
     "igdbId": 38369,
     "gbId": 8261,
     "gbGuid": "3030-8261",
@@ -6046,7 +6150,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes253",
+    "id": "snes256",
     "igdbId": 42651,
     "gbId": 8948,
     "gbGuid": "3030-8948",
@@ -6069,7 +6173,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes254",
+    "id": "snes257",
     "igdbId": 8099,
     "gbId": 18398,
     "gbGuid": "3030-18398",
@@ -6092,7 +6196,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes255",
+    "id": "snes258",
     "igdbId": 42649,
     "gbId": 394,
     "gbGuid": "3030-394",
@@ -6115,7 +6219,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes256",
+    "id": "snes259",
     "igdbId": 7562,
     "gbId": 22711,
     "gbGuid": "3030-22711",
@@ -6138,7 +6242,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes257",
+    "id": "snes260",
     "igdbId": 42648,
     "gbId": 11083,
     "gbGuid": "3030-11083",
@@ -6161,7 +6265,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes258",
+    "id": "snes261",
     "igdbId": 38292,
     "gbId": 2270,
     "gbGuid": "3030-2270",
@@ -6184,7 +6288,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes259",
+    "id": "snes262",
     "igdbId": 22358,
     "gbId": 18064,
     "gbGuid": "3030-18064",
@@ -6207,7 +6311,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes260",
+    "id": "snes263",
     "igdbId": 38328,
     "gbId": 37413,
     "gbGuid": "3030-37413",
@@ -6230,7 +6334,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes261",
+    "id": "snes264",
     "igdbId": 24008,
     "gbId": 13078,
     "gbGuid": "3030-13078",
@@ -6253,7 +6357,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes262",
+    "id": "snes265",
     "igdbId": 8068,
     "gbId": 4706,
     "gbGuid": "3030-4706",
@@ -6273,7 +6377,7 @@
   },
   {
     "name": "Saturday Night Slam Masters",
-    "id": "snes263",
+    "id": "snes266",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -6301,7 +6405,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes264",
+    "id": "snes267",
     "igdbId": 1359,
     "gbId": 8723,
     "gbGuid": "3030-8723",
@@ -6321,7 +6425,7 @@
   },
   {
     "name": "Secret of Mana",
-    "id": "snes265",
+    "id": "snes268",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -6349,7 +6453,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes266",
+    "id": "snes269",
     "igdbId": 42368,
     "gbId": 40924,
     "gbGuid": "3030-40924",
@@ -6372,7 +6476,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes267",
+    "id": "snes270",
     "igdbId": 7640,
     "gbId": 21198,
     "gbGuid": "3030-21198",
@@ -6395,7 +6499,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes268",
+    "id": "snes271",
     "igdbId": 20173,
     "gbId": 5058,
     "gbGuid": "3030-5058",
@@ -6418,7 +6522,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes269",
+    "id": "snes272",
     "igdbId": 38202,
     "gbId": 37265,
     "gbGuid": "3030-37265",
@@ -6441,7 +6545,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes270",
+    "id": "snes273",
     "igdbId": 46584,
     "gbId": 5471,
     "gbGuid": "3030-5471",
@@ -6461,7 +6565,7 @@
   },
   {
     "name": "Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome",
-    "id": "snes271",
+    "id": "snes274",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -6486,7 +6590,7 @@
   },
   {
     "name": "Shin Nippon Pro Wrestling '95: Tokyo Dome Battle 7",
-    "id": "snes272",
+    "id": "snes275",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -6511,7 +6615,7 @@
   },
   {
     "name": "Shin Nippon Pro Wrestling: Chou Senshi in Tokyo Dome",
-    "id": "snes273",
+    "id": "snes276",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -6539,7 +6643,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes274",
+    "id": "snes277",
     "igdbId": 42367,
     "gbId": 38783,
     "gbGuid": "3030-38783",
@@ -6562,7 +6666,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes275",
+    "id": "snes278",
     "igdbId": 38217,
     "gbId": null,
     "gbGuid": null,
@@ -6585,7 +6689,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes276",
+    "id": "snes279",
     "igdbId": 38232,
     "gbId": 50067,
     "gbGuid": "3030-50067",
@@ -6608,7 +6712,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes277",
+    "id": "snes280",
     "igdbId": 42380,
     "gbId": 55126,
     "gbGuid": "3030-55126",
@@ -6631,7 +6735,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes278",
+    "id": "snes281",
     "igdbId": 63758,
     "gbId": 41830,
     "gbGuid": "3030-41830",
@@ -6651,7 +6755,7 @@
   },
   {
     "name": "SimCity",
-    "id": "snes279",
+    "id": "snes282",
     "details": [
       "SNES laucnh title"
     ],
@@ -6673,11 +6777,37 @@
     "special": []
   },
   {
+    "name": "SimCity",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes283",
+    "igdbId": 180001,
+    "gbId": 15035,
+    "gbGuid": "3030-15035",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Simulation Pro Yakyuu",
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes280",
+    "id": "snes284",
     "igdbId": 38301,
     "gbId": 53433,
     "gbGuid": "3030-53433",
@@ -6700,7 +6830,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes281",
+    "id": "snes285",
     "igdbId": 42664,
     "gbId": 8519,
     "gbGuid": "3030-8519",
@@ -6723,7 +6853,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes282",
+    "id": "snes286",
     "igdbId": 42581,
     "gbId": 6763,
     "gbGuid": "3030-6763",
@@ -6746,7 +6876,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes283",
+    "id": "snes287",
     "igdbId": 42462,
     "gbId": 8998,
     "gbGuid": "3030-8998",
@@ -6769,7 +6899,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes284",
+    "id": "snes288",
     "igdbId": 42461,
     "gbId": 21634,
     "gbGuid": "3030-21634",
@@ -6792,7 +6922,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes285",
+    "id": "snes289",
     "igdbId": 42383,
     "gbId": 34569,
     "gbGuid": "3030-34569",
@@ -6815,7 +6945,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes286",
+    "id": "snes290",
     "igdbId": 42582,
     "gbId": 40459,
     "gbGuid": "3030-40459",
@@ -6838,7 +6968,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes287",
+    "id": "snes291",
     "igdbId": 44437,
     "gbId": 14760,
     "gbGuid": "3030-14760",
@@ -6861,7 +6991,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes288",
+    "id": "snes292",
     "igdbId": 42459,
     "gbId": 5676,
     "gbGuid": "3030-5676",
@@ -6884,7 +7014,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes289",
+    "id": "snes293",
     "igdbId": 42533,
     "gbId": 47599,
     "gbGuid": "3030-47599",
@@ -6907,7 +7037,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes290",
+    "id": "snes294",
     "igdbId": 11616,
     "gbId": 13986,
     "gbGuid": "3030-13986",
@@ -6930,7 +7060,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes291",
+    "id": "snes295",
     "igdbId": 42458,
     "gbId": 31928,
     "gbGuid": "3030-31928",
@@ -6953,7 +7083,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes292",
+    "id": "snes296",
     "igdbId": 42583,
     "gbId": 3838,
     "gbGuid": "3030-3838",
@@ -6976,7 +7106,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes293",
+    "id": "snes297",
     "igdbId": 1263,
     "gbId": 19920,
     "gbGuid": "3030-19920",
@@ -6999,7 +7129,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes294",
+    "id": "snes298",
     "igdbId": 42457,
     "gbId": 18983,
     "gbGuid": "3030-18983",
@@ -7022,7 +7152,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes295",
+    "id": "snes299",
     "igdbId": 8076,
     "gbId": 10961,
     "gbGuid": "3030-10961",
@@ -7045,7 +7175,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes296",
+    "id": "snes300",
     "igdbId": 24679,
     "gbId": 44689,
     "gbGuid": "3030-44689",
@@ -7069,7 +7199,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes297",
+    "id": "snes301",
     "igdbId": 38434,
     "gbId": 43476,
     "gbGuid": "3030-43476",
@@ -7105,7 +7235,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes298",
+    "id": "snes302",
     "igdbId": 38431,
     "gbId": 23132,
     "gbGuid": "3030-23132",
@@ -7137,7 +7267,7 @@
   },
   {
     "name": "Street Racer",
-    "id": "snes299",
+    "id": "snes303",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7165,7 +7295,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes300",
+    "id": "snes304",
     "igdbId": 28509,
     "gbId": 19991,
     "gbGuid": "3030-19991",
@@ -7185,7 +7315,7 @@
   },
   {
     "name": "Sugoi Hebereke",
-    "id": "snes301",
+    "id": "snes305",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7210,7 +7340,7 @@
   },
   {
     "name": "Sugoro Quest++ Dicenics",
-    "id": "snes302",
+    "id": "snes306",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7238,7 +7368,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes303",
+    "id": "snes307",
     "igdbId": 38430,
     "gbId": null,
     "gbGuid": null,
@@ -7261,7 +7391,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes304",
+    "id": "snes308",
     "igdbId": 42601,
     "gbId": 18669,
     "gbGuid": "3030-18669",
@@ -7284,7 +7414,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes305",
+    "id": "snes309",
     "igdbId": 42430,
     "gbId": 21659,
     "gbGuid": "3030-21659",
@@ -7307,7 +7437,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes306",
+    "id": "snes310",
     "igdbId": 38429,
     "gbId": 21660,
     "gbGuid": "3030-21660",
@@ -7330,7 +7460,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes307",
+    "id": "snes311",
     "igdbId": 38428,
     "gbId": 21661,
     "gbGuid": "3030-21661",
@@ -7353,7 +7483,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes308",
+    "id": "snes312",
     "igdbId": 38427,
     "gbId": 24454,
     "gbGuid": "3030-24454",
@@ -7376,7 +7506,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes309",
+    "id": "snes313",
     "igdbId": 38425,
     "gbId": 32829,
     "gbGuid": "3030-32829",
@@ -7396,7 +7526,7 @@
   },
   {
     "name": "Super Bomberman",
-    "id": "snes310",
+    "id": "snes314",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7423,9 +7553,10 @@
     "name": "Super Bomberman 2",
     "details": [
       "Super Nintendo Entertainment System exclusive",
-      "SNES Super Multitap compatible title"
+      "SNES Super Multitap compatible title",
+      "SNES Player's Choice"
     ],
-    "id": "snes311",
+    "id": "snes315",
     "igdbId": 14530,
     "gbId": 12414,
     "gbGuid": "3030-12414",
@@ -7451,6 +7582,17 @@
           "gbGuid": "3045-9",
           "tgdbId": 6
         }
+      },
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
       }
     ],
     "isLaunchTitle": false
@@ -7461,7 +7603,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes312",
+    "id": "snes316",
     "igdbId": 18618,
     "gbId": 7190,
     "gbGuid": "3030-7190",
@@ -7496,7 +7638,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes313",
+    "id": "snes317",
     "igdbId": 38388,
     "gbId": 10163,
     "gbGuid": "3030-10163",
@@ -7516,7 +7658,7 @@
   },
   {
     "name": "Super Bomberman 4",
-    "id": "snes314",
+    "id": "snes318",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7545,7 +7687,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes315",
+    "id": "snes319",
     "igdbId": 38387,
     "gbId": 3354,
     "gbGuid": "3030-3354",
@@ -7577,7 +7719,7 @@
   },
   {
     "name": "Super Bomberman: Panic Bomber W",
-    "id": "snes316",
+    "id": "snes320",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7605,7 +7747,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes317",
+    "id": "snes321",
     "igdbId": 38304,
     "gbId": 50072,
     "gbGuid": "3030-50072",
@@ -7628,7 +7770,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes318",
+    "id": "snes322",
     "igdbId": 42322,
     "gbId": 41292,
     "gbGuid": "3030-41292",
@@ -7651,7 +7793,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes319",
+    "id": "snes323",
     "igdbId": 37840,
     "gbId": 1017,
     "gbGuid": "3030-1017",
@@ -7674,7 +7816,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes320",
+    "id": "snes324",
     "igdbId": 42304,
     "gbId": 17731,
     "gbGuid": "3030-17731",
@@ -7697,7 +7839,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes321",
+    "id": "snes325",
     "igdbId": 38421,
     "gbId": 14530,
     "gbGuid": "3030-14530",
@@ -7720,7 +7862,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes322",
+    "id": "snes326",
     "igdbId": 9929,
     "gbId": 7711,
     "gbGuid": "3030-7711",
@@ -7743,7 +7885,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes323",
+    "id": "snes327",
     "igdbId": 42417,
     "gbId": 39887,
     "gbGuid": "3030-39887",
@@ -7763,7 +7905,7 @@
   },
   {
     "name": "Super Family Tennis",
-    "id": "snes324",
+    "id": "snes328",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7788,7 +7930,7 @@
   },
   {
     "name": "Super Fire Pro Wrestling Special",
-    "id": "snes325",
+    "id": "snes329",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7813,7 +7955,7 @@
   },
   {
     "name": "Super Fire Pro Wrestling X",
-    "id": "snes326",
+    "id": "snes330",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7838,7 +7980,7 @@
   },
   {
     "name": "Super Fire Pro Wrestling X Premium",
-    "id": "snes327",
+    "id": "snes331",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7863,7 +8005,7 @@
   },
   {
     "name": "Super Fire Pro Wrestling: Queen's Special",
-    "id": "snes328",
+    "id": "snes332",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7892,7 +8034,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes329",
+    "id": "snes333",
     "igdbId": 42362,
     "gbId": 39323,
     "gbGuid": "3030-39323",
@@ -7924,7 +8066,7 @@
   },
   {
     "name": "Super Formation Soccer 94: World Cup Final Data",
-    "id": "snes330",
+    "id": "snes334",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7949,7 +8091,7 @@
   },
   {
     "name": "Super Formation Soccer 95: della Serie A",
-    "id": "snes331",
+    "id": "snes335",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -7978,7 +8120,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes332",
+    "id": "snes336",
     "igdbId": 42359,
     "gbId": 40164,
     "gbGuid": "3030-40164",
@@ -8014,7 +8156,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes333",
+    "id": "snes337",
     "igdbId": 42363,
     "gbId": 46495,
     "gbGuid": "3030-46495",
@@ -8049,7 +8191,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes334",
+    "id": "snes338",
     "igdbId": 42408,
     "gbId": null,
     "gbGuid": null,
@@ -8072,7 +8214,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes335",
+    "id": "snes339",
     "igdbId": 38419,
     "gbId": 32962,
     "gbGuid": "3030-32962",
@@ -8095,7 +8237,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes336",
+    "id": "snes340",
     "igdbId": 38418,
     "gbId": 22183,
     "gbGuid": "3030-22183",
@@ -8119,7 +8261,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes337",
+    "id": "snes341",
     "igdbId": 38196,
     "gbId": 49294,
     "gbGuid": "3030-49294",
@@ -8154,7 +8296,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes338",
+    "id": "snes342",
     "igdbId": 42456,
     "gbId": 21668,
     "gbGuid": "3030-21668",
@@ -8177,7 +8319,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes339",
+    "id": "snes343",
     "igdbId": 37820,
     "gbId": 37176,
     "gbGuid": "3030-37176",
@@ -8197,7 +8339,7 @@
   },
   {
     "name": "Super Kyousouba: Kaze no Silpheed",
-    "id": "snes340",
+    "id": "snes344",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -8225,7 +8367,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes341",
+    "id": "snes345",
     "igdbId": 37817,
     "gbId": 53632,
     "gbGuid": "3030-53632",
@@ -8248,7 +8390,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes342",
+    "id": "snes346",
     "igdbId": 42356,
     "gbId": 37279,
     "gbGuid": "3030-37279",
@@ -8267,10 +8409,63 @@
     "special": []
   },
   {
-    "name": "Super Mario World",
-    "id": "snes343",
+    "name": "Super Mario All-Stars",
     "details": [
-      "SNES laucnh title"
+      "SNES Player's Choice"
+    ],
+    "id": "snes347",
+    "igdbId": 5199,
+    "gbId": 18529,
+    "gbGuid": "3030-18529",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Super Mario Kart",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes348",
+    "igdbId": 2332,
+    "gbId": 19071,
+    "gbGuid": "3030-19071",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Super Mario World",
+    "id": "snes349",
+    "details": [
+      "SNES laucnh title",
+      "SNES Player's Choice"
     ],
     "igdbId": 1070,
     "gbId": 1334,
@@ -8286,15 +8481,79 @@
         "tgdbId": 6
       }
     ],
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false
+  },
+  {
+    "name": "Super Mario World 2: Yoshi's Island",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes350",
+    "igdbId": 1073,
+    "gbId": 2866,
+    "gbGuid": "3030-2866",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
     "isExclusive": false,
-    "special": []
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Super Metroid",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes351",
+    "igdbId": 1103,
+    "gbId": 8292,
+    "gbGuid": "3030-8292",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Super Morph",
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes344",
+    "id": "snes352",
     "igdbId": 76904,
     "gbId": 37109,
     "gbGuid": "3030-37109",
@@ -8317,7 +8576,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes345",
+    "id": "snes353",
     "igdbId": 42455,
     "gbId": 17398,
     "gbGuid": "3030-17398",
@@ -8340,7 +8599,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes346",
+    "id": "snes354",
     "igdbId": 42454,
     "gbId": 455,
     "gbGuid": "3030-455",
@@ -8360,7 +8619,7 @@
   },
   {
     "name": "Super Power League",
-    "id": "snes347",
+    "id": "snes355",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -8388,7 +8647,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes348",
+    "id": "snes356",
     "igdbId": 37854,
     "gbId": 44224,
     "gbGuid": "3030-44224",
@@ -8411,7 +8670,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes349",
+    "id": "snes357",
     "igdbId": 5332,
     "gbId": 38287,
     "gbGuid": "3030-38287",
@@ -8434,7 +8693,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes350",
+    "id": "snes358",
     "igdbId": 71316,
     "gbId": 2543,
     "gbGuid": "3030-2543",
@@ -8457,7 +8716,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes351",
+    "id": "snes359",
     "igdbId": 42452,
     "gbId": 26563,
     "gbGuid": "3030-26563",
@@ -8480,7 +8739,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes352",
+    "id": "snes360",
     "igdbId": 94561,
     "gbId": 13699,
     "gbGuid": "3030-13699",
@@ -8503,7 +8762,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes353",
+    "id": "snes361",
     "igdbId": 77457,
     "gbId": 11864,
     "gbGuid": "3030-11864",
@@ -8526,7 +8785,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes354",
+    "id": "snes362",
     "igdbId": 42450,
     "gbId": 4955,
     "gbGuid": "3030-4955",
@@ -8545,11 +8804,63 @@
     "special": []
   },
   {
+    "name": "Super Star Wars",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes363",
+    "igdbId": 20031,
+    "gbId": 14450,
+    "gbGuid": "3030-14450",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Super Street Fighter II: The New Challengers",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes364",
+    "igdbId": 12860,
+    "gbId": 6665,
+    "gbGuid": "3030-6665",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Super Strike Eagle",
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes355",
+    "id": "snes365",
     "igdbId": 42449,
     "gbId": 39278,
     "gbGuid": "3030-39278",
@@ -8569,7 +8880,7 @@
   },
   {
     "name": "Super Tekkyuu Fight!",
-    "id": "snes356",
+    "id": "snes366",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -8597,7 +8908,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes357",
+    "id": "snes367",
     "igdbId": 81523,
     "gbId": 18664,
     "gbGuid": "3030-18664",
@@ -8617,7 +8928,7 @@
   },
   {
     "name": "Super Tetris 3",
-    "id": "snes358",
+    "id": "snes368",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -8645,7 +8956,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes359",
+    "id": "snes369",
     "igdbId": 42448,
     "gbId": 12300,
     "gbGuid": "3030-12300",
@@ -8668,7 +8979,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes360",
+    "id": "snes370",
     "igdbId": 42495,
     "gbId": 4533,
     "gbGuid": "3030-4533",
@@ -8691,7 +9002,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes361",
+    "id": "snes371",
     "igdbId": 38288,
     "gbId": 37652,
     "gbGuid": "3030-37652",
@@ -8714,7 +9025,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes362",
+    "id": "snes372",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8734,7 +9045,7 @@
   },
   {
     "name": "Syndicate",
-    "id": "snes363",
+    "id": "snes373",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -8762,7 +9073,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes364",
+    "id": "snes374",
     "igdbId": 42440,
     "gbId": 28262,
     "gbGuid": "3030-28262",
@@ -8785,7 +9096,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes365",
+    "id": "snes375",
     "igdbId": 37799,
     "gbId": 50514,
     "gbGuid": "3030-50514",
@@ -8808,7 +9119,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes366",
+    "id": "snes376",
     "igdbId": 114033,
     "gbId": 1402,
     "gbGuid": "3030-1402",
@@ -8831,7 +9142,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes367",
+    "id": "snes377",
     "igdbId": 37793,
     "gbId": 44345,
     "gbGuid": "3030-44345",
@@ -8854,7 +9165,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes368",
+    "id": "snes378",
     "igdbId": 8066,
     "gbId": 46448,
     "gbGuid": "3030-46448",
@@ -8877,7 +9188,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes369",
+    "id": "snes379",
     "igdbId": 15893,
     "gbId": 12462,
     "gbGuid": "3030-12462",
@@ -8900,7 +9211,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes370",
+    "id": "snes380",
     "igdbId": 48274,
     "gbId": 4896,
     "gbGuid": "3030-4896",
@@ -8923,7 +9234,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes371",
+    "id": "snes381",
     "igdbId": 42444,
     "gbId": 25732,
     "gbGuid": "3030-25732",
@@ -8946,7 +9257,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes372",
+    "id": "snes382",
     "igdbId": 15900,
     "gbId": 15375,
     "gbGuid": "3030-15375",
@@ -8966,7 +9277,7 @@
   },
   {
     "name": "Tenryu Genichiro no Pro Wrestling Revolution",
-    "id": "snes373",
+    "id": "snes383",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -8994,7 +9305,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes374",
+    "id": "snes384",
     "igdbId": 9633,
     "gbId": 13828,
     "gbGuid": "3030-13828",
@@ -9015,9 +9326,10 @@
   {
     "name": "Tetris & Dr. Mario",
     "details": [
-      "Super Nintendo Entertainment System exclusive"
+      "Super Nintendo Entertainment System exclusive",
+      "SNES Player's Choice"
     ],
-    "id": "snes375",
+    "id": "snes385",
     "igdbId": 14531,
     "gbId": 6805,
     "gbGuid": "3030-6805",
@@ -9032,15 +9344,53 @@
         "tgdbId": 6
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Tetris 2",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes386",
+    "igdbId": 9083,
+    "gbId": 12562,
+    "gbGuid": "3030-12562",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Tetris Battle Gaiden",
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes376",
+    "id": "snes387",
     "igdbId": 38371,
     "gbId": 30673,
     "gbGuid": "3030-30673",
@@ -9063,7 +9413,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes377",
+    "id": "snes388",
     "igdbId": 15846,
     "gbId": 20389,
     "gbGuid": "3030-20389",
@@ -9086,7 +9436,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes378",
+    "id": "snes389",
     "igdbId": 5346,
     "gbId": 12434,
     "gbGuid": "3030-12434",
@@ -9109,7 +9459,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes379",
+    "id": "snes390",
     "igdbId": 42403,
     "gbId": 34997,
     "gbGuid": "3030-34997",
@@ -9132,7 +9482,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes380",
+    "id": "snes391",
     "igdbId": 42621,
     "gbId": 1160,
     "gbGuid": "3030-1160",
@@ -9155,7 +9505,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes381",
+    "id": "snes392",
     "igdbId": 8450,
     "gbId": 13694,
     "gbGuid": "3030-13694",
@@ -9178,7 +9528,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes382",
+    "id": "snes393",
     "igdbId": 42511,
     "gbId": 12576,
     "gbGuid": "3030-12576",
@@ -9197,11 +9547,37 @@
     "special": []
   },
   {
+    "name": "The Legend of Zelda: A Link to the Past",
+    "details": [
+      "SNES Player's Choice"
+    ],
+    "id": "snes394",
+    "igdbId": 1026,
+    "gbId": 10276,
+    "gbGuid": "3030-10276",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "SNES Player's Choice",
+        "forPlatform": {
+          "name": "Super Nintendo Entertainment System (SNES)",
+          "id": "ccl2",
+          "igdbId": 19,
+          "gbId": 9,
+          "gbGuid": "3045-9",
+          "tgdbId": 6
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "The Mask",
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes383",
+    "id": "snes395",
     "igdbId": 42730,
     "gbId": 6111,
     "gbGuid": "3030-6111",
@@ -9224,7 +9600,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes384",
+    "id": "snes396",
     "igdbId": 67593,
     "gbId": 28354,
     "gbGuid": "3030-28354",
@@ -9247,7 +9623,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes385",
+    "id": "snes397",
     "igdbId": 42654,
     "gbId": 1618,
     "gbGuid": "3030-1618",
@@ -9271,7 +9647,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes386",
+    "id": "snes398",
     "igdbId": 44465,
     "gbId": 7950,
     "gbGuid": "3030-7950",
@@ -9303,7 +9679,7 @@
   },
   {
     "name": "The Sporting News Baseball",
-    "id": "snes387",
+    "id": "snes399",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -9331,7 +9707,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes388",
+    "id": "snes400",
     "igdbId": 16295,
     "gbId": 2626,
     "gbGuid": "3030-2626",
@@ -9354,7 +9730,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes389",
+    "id": "snes401",
     "igdbId": 25781,
     "gbId": 22692,
     "gbGuid": "3030-22692",
@@ -9377,7 +9753,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes390",
+    "id": "snes402",
     "igdbId": 37789,
     "gbId": 46853,
     "gbGuid": "3030-46853",
@@ -9400,7 +9776,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes391",
+    "id": "snes403",
     "igdbId": 42441,
     "gbId": 11222,
     "gbGuid": "3030-11222",
@@ -9423,7 +9799,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes392",
+    "id": "snes404",
     "igdbId": 42442,
     "gbId": 21340,
     "gbGuid": "3030-21340",
@@ -9446,7 +9822,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes393",
+    "id": "snes405",
     "igdbId": 28484,
     "gbId": 17309,
     "gbGuid": "3030-17309",
@@ -9469,7 +9845,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes394",
+    "id": "snes406",
     "igdbId": 104677,
     "gbId": 22002,
     "gbGuid": "3030-22002",
@@ -9492,7 +9868,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes395",
+    "id": "snes407",
     "igdbId": 8050,
     "gbId": 9441,
     "gbGuid": "3030-9441",
@@ -9512,7 +9888,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Wacky Sports Challenge",
-    "id": "snes396",
+    "id": "snes408",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -9540,7 +9916,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes397",
+    "id": "snes409",
     "igdbId": 42580,
     "gbId": 23058,
     "gbGuid": "3030-23058",
@@ -9563,7 +9939,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes398",
+    "id": "snes410",
     "igdbId": 42429,
     "gbId": 30873,
     "gbGuid": "3030-30873",
@@ -9586,7 +9962,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes399",
+    "id": "snes411",
     "igdbId": 42540,
     "gbId": 36366,
     "gbGuid": "3030-36366",
@@ -9609,7 +9985,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes400",
+    "id": "snes412",
     "igdbId": 27461,
     "gbId": 9364,
     "gbGuid": "3030-9364",
@@ -9633,7 +10009,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes401",
+    "id": "snes413",
     "igdbId": 46007,
     "gbId": 3215,
     "gbGuid": "3030-3215",
@@ -9668,7 +10044,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes402",
+    "id": "snes414",
     "igdbId": 42439,
     "gbId": 6411,
     "gbGuid": "3030-6411",
@@ -9691,7 +10067,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes403",
+    "id": "snes415",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -9714,7 +10090,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes404",
+    "id": "snes416",
     "igdbId": 37782,
     "gbId": 41045,
     "gbGuid": "3030-41045",
@@ -9737,7 +10113,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes405",
+    "id": "snes417",
     "igdbId": 37778,
     "gbId": 50467,
     "gbGuid": "3030-50467",
@@ -9760,7 +10136,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes406",
+    "id": "snes418",
     "igdbId": 46006,
     "gbId": 14880,
     "gbGuid": "3030-14880",
@@ -9783,7 +10159,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes407",
+    "id": "snes419",
     "igdbId": 44445,
     "gbId": 33387,
     "gbGuid": "3030-33387",
@@ -9806,7 +10182,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes408",
+    "id": "snes420",
     "igdbId": 42353,
     "gbId": 37439,
     "gbGuid": "3030-37439",
@@ -9829,7 +10205,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes409",
+    "id": "snes421",
     "igdbId": 38413,
     "gbId": 22953,
     "gbGuid": "3030-22953",
@@ -9852,7 +10228,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes410",
+    "id": "snes422",
     "igdbId": 42354,
     "gbId": 38486,
     "gbGuid": "3030-38486",
@@ -9875,7 +10251,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes411",
+    "id": "snes423",
     "igdbId": 16743,
     "gbId": 16228,
     "gbGuid": "3030-16228",
@@ -9898,7 +10274,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes412",
+    "id": "snes424",
     "igdbId": 37772,
     "gbId": 46754,
     "gbGuid": "3030-46754",
@@ -9922,7 +10298,7 @@
       "Super Nintendo Entertainment System exclusive",
       "SNES Super Multitap compatible title"
     ],
-    "id": "snes413",
+    "id": "snes425",
     "igdbId": 46005,
     "gbId": 28166,
     "gbGuid": "3030-28166",
@@ -9957,7 +10333,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes414",
+    "id": "snes426",
     "igdbId": 81436,
     "gbId": 9146,
     "gbGuid": "3030-9146",
@@ -9977,7 +10353,7 @@
   },
   {
     "name": "Vs. Collection",
-    "id": "snes415",
+    "id": "snes427",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -10005,7 +10381,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes416",
+    "id": "snes428",
     "igdbId": 38404,
     "gbId": 22273,
     "gbGuid": "3030-22273",
@@ -10025,7 +10401,7 @@
   },
   {
     "name": "WWF Raw",
-    "id": "snes417",
+    "id": "snes429",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -10053,7 +10429,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes418",
+    "id": "snes430",
     "igdbId": 48550,
     "gbId": 37159,
     "gbGuid": "3030-37159",
@@ -10076,7 +10452,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes419",
+    "id": "snes431",
     "igdbId": 42394,
     "gbId": 47378,
     "gbGuid": "3030-47378",
@@ -10099,7 +10475,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes420",
+    "id": "snes432",
     "igdbId": 37770,
     "gbId": 40942,
     "gbGuid": "3030-40942",
@@ -10122,7 +10498,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes421",
+    "id": "snes433",
     "igdbId": 38398,
     "gbId": 54902,
     "gbGuid": "3030-54902",
@@ -10145,7 +10521,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes422",
+    "id": "snes434",
     "igdbId": 38397,
     "gbId": 58870,
     "gbGuid": "3030-58870",
@@ -10168,7 +10544,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes423",
+    "id": "snes435",
     "igdbId": 46588,
     "gbId": 4795,
     "gbGuid": "3030-4795",
@@ -10191,7 +10567,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes424",
+    "id": "snes436",
     "igdbId": 42577,
     "gbId": 30807,
     "gbGuid": "3030-30807",
@@ -10214,7 +10590,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes425",
+    "id": "snes437",
     "igdbId": 37255,
     "gbId": 14145,
     "gbGuid": "3030-14145",
@@ -10237,7 +10613,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes426",
+    "id": "snes438",
     "igdbId": 37248,
     "gbId": 39086,
     "gbGuid": "3030-39086",
@@ -10260,7 +10636,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes427",
+    "id": "snes439",
     "igdbId": 42428,
     "gbId": 14324,
     "gbGuid": "3030-14324",
@@ -10283,7 +10659,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes428",
+    "id": "snes440",
     "igdbId": 38406,
     "gbId": 30781,
     "gbGuid": "3030-30781",
@@ -10306,7 +10682,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes429",
+    "id": "snes441",
     "igdbId": 42576,
     "gbId": 5981,
     "gbGuid": "3030-5981",
@@ -10329,7 +10705,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes430",
+    "id": "snes442",
     "igdbId": 38407,
     "gbId": 28136,
     "gbGuid": "3030-28136",
@@ -10352,7 +10728,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes431",
+    "id": "snes443",
     "igdbId": 37762,
     "gbId": 38281,
     "gbGuid": "3030-38281",
@@ -10375,7 +10751,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes432",
+    "id": "snes444",
     "igdbId": 11604,
     "gbId": 3699,
     "gbGuid": "3030-3699",
@@ -10398,7 +10774,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes433",
+    "id": "snes445",
     "igdbId": 11665,
     "gbId": 14108,
     "gbGuid": "3030-14108",
@@ -10418,7 +10794,7 @@
   },
   {
     "name": "Yuujin no Furi Furi Girls",
-    "id": "snes434",
+    "id": "snes446",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -10446,7 +10822,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes435",
+    "id": "snes447",
     "igdbId": 42351,
     "gbId": 50517,
     "gbGuid": "3030-50517",
@@ -10469,7 +10845,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes436",
+    "id": "snes448",
     "igdbId": 42350,
     "gbId": 37293,
     "gbGuid": "3030-37293",
@@ -10489,7 +10865,7 @@
   },
   {
     "name": "Zero 4 Champ",
-    "id": "snes437",
+    "id": "snes449",
     "details": [
       "SNES Super Multitap compatible title"
     ],
@@ -10517,7 +10893,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes438",
+    "id": "snes450",
     "igdbId": 60307,
     "gbId": 49619,
     "gbGuid": "3030-49619",
@@ -10540,7 +10916,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes439",
+    "id": "snes451",
     "igdbId": 58090,
     "gbId": 54792,
     "gbGuid": "3030-54792",
@@ -10563,7 +10939,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes440",
+    "id": "snes452",
     "igdbId": 42348,
     "gbId": 37604,
     "gbGuid": "3030-37604",
@@ -10586,7 +10962,7 @@
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],
-    "id": "snes441",
+    "id": "snes453",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,

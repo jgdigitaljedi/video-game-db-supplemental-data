@@ -324,7 +324,8 @@
   {
     "name": "Animal Crossing: City Folk",
     "details": [
-      "Nintendo Wii exclusive"
+      "Nintendo Wii exclusive",
+      "Wii Nintendo Select"
     ],
     "id": "wii14",
     "igdbId": 2688,
@@ -341,8 +342,20 @@
         "tgdbId": 9
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Another Code: R - A Journey into Lost Memories",
@@ -1702,11 +1715,37 @@
     "special": []
   },
   {
+    "name": "Donkey Kong Country Returns",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii74",
+    "igdbId": 1100,
+    "gbId": 31732,
+    "gbGuid": "3030-31732",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Donkey Kong: Barrel Blast",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii74",
+    "id": "wii75",
     "igdbId": 4817,
     "gbId": 20644,
     "gbGuid": "3030-20644",
@@ -1729,7 +1768,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii75",
+    "id": "wii76",
     "igdbId": 4818,
     "gbId": 33914,
     "gbGuid": "3030-33914",
@@ -1752,7 +1791,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii76",
+    "id": "wii77",
     "igdbId": 21910,
     "gbId": 20691,
     "gbGuid": "3030-20691",
@@ -1771,7 +1810,7 @@
     "special": []
   },
   {
-    "id": "wii77",
+    "id": "wii78",
     "name": "Dragon Ball Z: Budokai Tenkaichi 2",
     "details": [
       "Nintendo Wii launch title"
@@ -1798,7 +1837,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii78",
+    "id": "wii79",
     "igdbId": 19309,
     "gbId": 26597,
     "gbGuid": "3030-26597",
@@ -1821,7 +1860,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii79",
+    "id": "wii80",
     "igdbId": 4819,
     "gbId": 20505,
     "gbGuid": "3030-20505",
@@ -1844,7 +1883,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii80",
+    "id": "wii81",
     "igdbId": 1822,
     "gbId": 21556,
     "gbGuid": "3030-21556",
@@ -1867,7 +1906,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii81",
+    "id": "wii82",
     "igdbId": 51116,
     "gbId": 25847,
     "gbGuid": "3030-25847",
@@ -1890,7 +1929,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii82",
+    "id": "wii83",
     "igdbId": 4826,
     "gbId": 24481,
     "gbGuid": "3030-24481",
@@ -1913,7 +1952,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii83",
+    "id": "wii84",
     "igdbId": 4828,
     "gbId": 32357,
     "gbGuid": "3030-32357",
@@ -1936,7 +1975,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii84",
+    "id": "wii85",
     "igdbId": 4829,
     "gbId": 31560,
     "gbGuid": "3030-31560",
@@ -1959,7 +1998,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii85",
+    "id": "wii86",
     "igdbId": 20506,
     "gbId": 29515,
     "gbGuid": "3030-29515",
@@ -1982,7 +2021,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii86",
+    "id": "wii87",
     "igdbId": 21193,
     "gbId": 24997,
     "gbGuid": "3030-24997",
@@ -2005,7 +2044,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii87",
+    "id": "wii88",
     "igdbId": 79918,
     "gbId": 37954,
     "gbGuid": "3030-37954",
@@ -2028,7 +2067,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii88",
+    "id": "wii89",
     "igdbId": 2747,
     "gbId": 20399,
     "gbGuid": "3030-20399",
@@ -2051,7 +2090,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii89",
+    "id": "wii90",
     "igdbId": 4830,
     "gbId": 20882,
     "gbGuid": "3030-20882",
@@ -2074,7 +2113,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii90",
+    "id": "wii91",
     "igdbId": 4831,
     "gbId": 20865,
     "gbGuid": "3030-20865",
@@ -2097,7 +2136,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii91",
+    "id": "wii92",
     "igdbId": 4832,
     "gbId": 445,
     "gbGuid": "3030-445",
@@ -2120,7 +2159,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii92",
+    "id": "wii93",
     "igdbId": 4833,
     "gbId": null,
     "gbGuid": null,
@@ -2143,7 +2182,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii93",
+    "id": "wii94",
     "igdbId": 4834,
     "gbId": 5768,
     "gbGuid": "3030-5768",
@@ -2166,7 +2205,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii94",
+    "id": "wii95",
     "igdbId": 4835,
     "gbId": 20510,
     "gbGuid": "3030-20510",
@@ -2189,7 +2228,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii95",
+    "id": "wii96",
     "igdbId": 51018,
     "gbId": 24502,
     "gbGuid": "3030-24502",
@@ -2208,7 +2247,7 @@
     "special": []
   },
   {
-    "id": "wii96",
+    "id": "wii97",
     "name": "Excite Truck",
     "details": [
       "Nintendo Wii launch title",
@@ -2245,7 +2284,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii97",
+    "id": "wii98",
     "igdbId": 21046,
     "gbId": 29109,
     "gbGuid": "3030-29109",
@@ -2268,7 +2307,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii98",
+    "id": "wii99",
     "igdbId": 4836,
     "gbId": 25438,
     "gbGuid": "3030-25438",
@@ -2291,7 +2330,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii99",
+    "id": "wii100",
     "igdbId": 14890,
     "gbId": 35189,
     "gbGuid": "3030-35189",
@@ -2314,7 +2353,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii100",
+    "id": "wii101",
     "igdbId": 85647,
     "gbId": 25492,
     "gbGuid": "3030-25492",
@@ -2337,7 +2376,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii101",
+    "id": "wii102",
     "igdbId": 82139,
     "gbId": 65064,
     "gbGuid": "3030-65064",
@@ -2360,7 +2399,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii102",
+    "id": "wii103",
     "igdbId": 21203,
     "gbId": 25113,
     "gbGuid": "3030-25113",
@@ -2383,7 +2422,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii103",
+    "id": "wii104",
     "igdbId": 50744,
     "gbId": 25532,
     "gbGuid": "3030-25532",
@@ -2406,7 +2445,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii104",
+    "id": "wii105",
     "igdbId": 50700,
     "gbId": 25466,
     "gbGuid": "3030-25466",
@@ -2429,7 +2468,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii105",
+    "id": "wii106",
     "igdbId": 67779,
     "gbId": 27821,
     "gbGuid": "3030-27821",
@@ -2452,7 +2491,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii106",
+    "id": "wii107",
     "igdbId": 4854,
     "gbId": null,
     "gbGuid": null,
@@ -2475,7 +2514,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii107",
+    "id": "wii108",
     "igdbId": 26142,
     "gbId": null,
     "gbGuid": null,
@@ -2498,7 +2537,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii108",
+    "id": "wii109",
     "igdbId": 41856,
     "gbId": 25659,
     "gbGuid": "3030-25659",
@@ -2521,7 +2560,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii109",
+    "id": "wii110",
     "igdbId": 21054,
     "gbId": 20648,
     "gbGuid": "3030-20648",
@@ -2544,7 +2583,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii110",
+    "id": "wii111",
     "igdbId": 401,
     "gbId": 21881,
     "gbGuid": "3030-21881",
@@ -2567,7 +2606,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii111",
+    "id": "wii112",
     "igdbId": 1442,
     "gbId": 14489,
     "gbGuid": "3030-14489",
@@ -2590,7 +2629,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii112",
+    "id": "wii113",
     "igdbId": 20905,
     "gbId": 25750,
     "gbGuid": "3030-25750",
@@ -2613,7 +2652,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii113",
+    "id": "wii114",
     "igdbId": 21511,
     "gbId": 21934,
     "gbGuid": "3030-21934",
@@ -2636,7 +2675,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii114",
+    "id": "wii115",
     "igdbId": 19929,
     "gbId": 35969,
     "gbGuid": "3030-35969",
@@ -2659,7 +2698,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii115",
+    "id": "wii116",
     "igdbId": 4856,
     "gbId": 30112,
     "gbGuid": "3030-30112",
@@ -2682,7 +2721,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii116",
+    "id": "wii117",
     "igdbId": 4857,
     "gbId": 26614,
     "gbGuid": "3030-26614",
@@ -2705,7 +2744,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii117",
+    "id": "wii118",
     "igdbId": 21169,
     "gbId": 32485,
     "gbGuid": "3030-32485",
@@ -2728,7 +2767,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii118",
+    "id": "wii119",
     "igdbId": 4858,
     "gbId": 26695,
     "gbGuid": "3030-26695",
@@ -2751,7 +2790,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii119",
+    "id": "wii120",
     "igdbId": 4872,
     "gbId": 21406,
     "gbGuid": "3030-21406",
@@ -2774,7 +2813,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii120",
+    "id": "wii121",
     "igdbId": 85156,
     "gbId": 22936,
     "gbGuid": "3030-22936",
@@ -2797,7 +2836,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii121",
+    "id": "wii122",
     "igdbId": 4875,
     "gbId": 20849,
     "gbGuid": "3030-20849",
@@ -2816,7 +2855,7 @@
     "special": []
   },
   {
-    "id": "wii122",
+    "id": "wii123",
     "name": "GT Pro Series",
     "details": [
       "Nintendo Wii launch title",
@@ -2853,7 +2892,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii123",
+    "id": "wii124",
     "igdbId": 51073,
     "gbId": null,
     "gbGuid": null,
@@ -2876,7 +2915,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii124",
+    "id": "wii125",
     "igdbId": 4880,
     "gbId": 8406,
     "gbGuid": "3030-8406",
@@ -2899,7 +2938,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii125",
+    "id": "wii126",
     "igdbId": 84506,
     "gbId": null,
     "gbGuid": null,
@@ -2922,7 +2961,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii126",
+    "id": "wii127",
     "igdbId": 4893,
     "gbId": 24302,
     "gbGuid": "3030-24302",
@@ -2945,7 +2984,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii127",
+    "id": "wii128",
     "igdbId": 1489,
     "gbId": 23658,
     "gbGuid": "3030-23658",
@@ -2968,7 +3007,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii128",
+    "id": "wii129",
     "igdbId": 4894,
     "gbId": 24396,
     "gbGuid": "3030-24396",
@@ -2991,7 +3030,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii129",
+    "id": "wii130",
     "igdbId": 21035,
     "gbId": 25088,
     "gbGuid": "3030-25088",
@@ -3014,7 +3053,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii130",
+    "id": "wii131",
     "igdbId": 21791,
     "gbId": 22010,
     "gbGuid": "3030-22010",
@@ -3037,7 +3076,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii131",
+    "id": "wii132",
     "igdbId": 80583,
     "gbId": 27545,
     "gbGuid": "3030-27545",
@@ -3056,7 +3095,7 @@
     "special": []
   },
   {
-    "id": "wii132",
+    "id": "wii133",
     "name": "Happy Feet",
     "details": [
       "Nintendo Wii launch title"
@@ -3083,7 +3122,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii133",
+    "id": "wii134",
     "igdbId": 3390,
     "gbId": 23846,
     "gbGuid": "3030-23846",
@@ -3106,7 +3145,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii134",
+    "id": "wii135",
     "igdbId": 67793,
     "gbId": 27772,
     "gbGuid": "3030-27772",
@@ -3129,7 +3168,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii135",
+    "id": "wii136",
     "igdbId": 3388,
     "gbId": 20929,
     "gbGuid": "3030-20929",
@@ -3152,7 +3191,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii136",
+    "id": "wii137",
     "igdbId": 60734,
     "gbId": 23508,
     "gbGuid": "3030-23508",
@@ -3175,7 +3214,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii137",
+    "id": "wii138",
     "igdbId": 21190,
     "gbId": 25456,
     "gbGuid": "3030-25456",
@@ -3198,7 +3237,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii138",
+    "id": "wii139",
     "igdbId": 72558,
     "gbId": 24066,
     "gbGuid": "3030-24066",
@@ -3221,7 +3260,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii139",
+    "id": "wii140",
     "igdbId": 85182,
     "gbId": 24862,
     "gbGuid": "3030-24862",
@@ -3244,7 +3283,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii140",
+    "id": "wii141",
     "igdbId": 4914,
     "gbId": 30334,
     "gbGuid": "3030-30334",
@@ -3267,7 +3306,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii141",
+    "id": "wii142",
     "igdbId": 21744,
     "gbId": 22306,
     "gbGuid": "3030-22306",
@@ -3290,7 +3329,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii142",
+    "id": "wii143",
     "igdbId": 57218,
     "gbId": 57183,
     "gbGuid": "3030-57183",
@@ -3313,7 +3352,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii143",
+    "id": "wii144",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3336,7 +3375,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii144",
+    "id": "wii145",
     "igdbId": 22686,
     "gbId": 42070,
     "gbGuid": "3030-42070",
@@ -3359,7 +3398,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii145",
+    "id": "wii146",
     "igdbId": 4930,
     "gbId": 31464,
     "gbGuid": "3030-31464",
@@ -3382,7 +3421,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii146",
+    "id": "wii147",
     "igdbId": 4931,
     "gbId": 42069,
     "gbGuid": "3030-42069",
@@ -3405,7 +3444,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii147",
+    "id": "wii148",
     "igdbId": 25120,
     "gbId": 27330,
     "gbGuid": "3030-27330",
@@ -3424,11 +3463,37 @@
     "special": []
   },
   {
+    "name": "James Cameron's Avatar: The Game",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii149",
+    "igdbId": 4211,
+    "gbId": 26589,
+    "gbGuid": "3030-26589",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Jawa: Mammoth to Himitsu no Ishi",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii148",
+    "id": "wii150",
     "igdbId": 4939,
     "gbId": 20910,
     "gbGuid": "3030-20910",
@@ -3451,7 +3516,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii149",
+    "id": "wii151",
     "igdbId": 50722,
     "gbId": 30296,
     "gbGuid": "3030-30296",
@@ -3474,7 +3539,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii150",
+    "id": "wii152",
     "igdbId": 4945,
     "gbId": 25888,
     "gbGuid": "3030-25888",
@@ -3497,7 +3562,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii151",
+    "id": "wii153",
     "igdbId": 11299,
     "gbId": 25059,
     "gbGuid": "3030-25059",
@@ -3520,7 +3585,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii152",
+    "id": "wii154",
     "igdbId": 2704,
     "gbId": 27859,
     "gbGuid": "3030-27859",
@@ -3543,7 +3608,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii153",
+    "id": "wii155",
     "igdbId": 2664,
     "gbId": 31347,
     "gbGuid": "3030-31347",
@@ -3566,7 +3631,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii154",
+    "id": "wii156",
     "igdbId": 3299,
     "gbId": 32900,
     "gbGuid": "3030-32900",
@@ -3589,7 +3654,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii155",
+    "id": "wii157",
     "igdbId": 14982,
     "gbId": 35733,
     "gbGuid": "3030-35733",
@@ -3612,7 +3677,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii156",
+    "id": "wii158",
     "igdbId": 63485,
     "gbId": 42433,
     "gbGuid": "3030-42433",
@@ -3635,7 +3700,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii157",
+    "id": "wii159",
     "igdbId": 4948,
     "gbId": 27526,
     "gbGuid": "3030-27526",
@@ -3658,7 +3723,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii158",
+    "id": "wii160",
     "igdbId": 68633,
     "gbId": 26202,
     "gbGuid": "3030-26202",
@@ -3681,7 +3746,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii159",
+    "id": "wii161",
     "igdbId": 4950,
     "gbId": 10508,
     "gbGuid": "3030-10508",
@@ -3704,7 +3769,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii160",
+    "id": "wii162",
     "igdbId": 4951,
     "gbId": 6749,
     "gbGuid": "3030-6749",
@@ -3727,7 +3792,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii161",
+    "id": "wii163",
     "igdbId": 5012,
     "gbId": 27062,
     "gbGuid": "3030-27062",
@@ -3750,7 +3815,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii162",
+    "id": "wii164",
     "igdbId": 3716,
     "gbId": null,
     "gbGuid": null,
@@ -3769,11 +3834,37 @@
     "special": []
   },
   {
+    "name": "Kirby's Epic Yarn",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii165",
+    "igdbId": 2184,
+    "gbId": 31730,
+    "gbGuid": "3030-31730",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Klonoa",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii163",
+    "id": "wii166",
     "igdbId": 21184,
     "gbId": 9546,
     "gbGuid": "3030-9546",
@@ -3796,7 +3887,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii164",
+    "id": "wii167",
     "igdbId": 21352,
     "gbId": 24064,
     "gbGuid": "3030-24064",
@@ -3819,7 +3910,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii165",
+    "id": "wii168",
     "igdbId": 4971,
     "gbId": 26894,
     "gbGuid": "3030-26894",
@@ -3842,7 +3933,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii166",
+    "id": "wii169",
     "igdbId": 4973,
     "gbId": 1074,
     "gbGuid": "3030-1074",
@@ -3865,7 +3956,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii167",
+    "id": "wii170",
     "igdbId": 67207,
     "gbId": 29566,
     "gbGuid": "3030-29566",
@@ -3888,7 +3979,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii168",
+    "id": "wii171",
     "igdbId": 4979,
     "gbId": 20634,
     "gbGuid": "3030-20634",
@@ -3911,7 +4002,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii169",
+    "id": "wii172",
     "igdbId": 5011,
     "gbId": 48589,
     "gbGuid": "3030-48589",
@@ -3934,7 +4025,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii170",
+    "id": "wii173",
     "igdbId": 50702,
     "gbId": 25204,
     "gbGuid": "3030-25204",
@@ -3957,7 +4048,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii171",
+    "id": "wii174",
     "igdbId": 3214,
     "gbId": 21173,
     "gbGuid": "3030-21173",
@@ -3976,7 +4067,7 @@
     "special": []
   },
   {
-    "id": "wii172",
+    "id": "wii175",
     "name": "Madden NFL 07",
     "details": [
       "Nintendo Wii launch title"
@@ -4003,7 +4094,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii173",
+    "id": "wii176",
     "igdbId": 50721,
     "gbId": 24072,
     "gbGuid": "3030-24072",
@@ -4026,7 +4117,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii174",
+    "id": "wii177",
     "igdbId": 21790,
     "gbId": 20650,
     "gbGuid": "3030-20650",
@@ -4049,7 +4140,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii175",
+    "id": "wii178",
     "igdbId": 4994,
     "gbId": 21518,
     "gbGuid": "3030-21518",
@@ -4072,7 +4163,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii176",
+    "id": "wii179",
     "igdbId": 4962,
     "gbId": 23487,
     "gbGuid": "3030-23487",
@@ -4093,9 +4184,10 @@
   {
     "name": "Mario Kart Wii",
     "details": [
-      "Nintendo Wii exclusive"
+      "Nintendo Wii exclusive",
+      "Wii Nintendo Select"
     ],
-    "id": "wii177",
+    "id": "wii180",
     "igdbId": 2183,
     "gbId": 20645,
     "gbGuid": "3030-20645",
@@ -4110,15 +4202,28 @@
         "tgdbId": 9
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Mario Party 8",
     "details": [
-      "Nintendo Wii exclusive"
+      "Nintendo Wii exclusive",
+      "Wii Nintendo Select"
     ],
-    "id": "wii178",
+    "id": "wii181",
     "igdbId": 2193,
     "gbId": 8362,
     "gbGuid": "3030-8362",
@@ -4133,15 +4238,28 @@
         "tgdbId": 9
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Mario Party 9",
     "details": [
-      "Nintendo Wii exclusive"
+      "Nintendo Wii exclusive",
+      "Wii Nintendo Select"
     ],
-    "id": "wii179",
+    "id": "wii182",
     "igdbId": 2336,
     "gbId": 35578,
     "gbGuid": "3030-35578",
@@ -4156,15 +4274,105 @@
         "tgdbId": 9
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Mario Power Tennis",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii183",
+    "igdbId": 3985,
+    "gbId": 15398,
+    "gbGuid": "3030-15398",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Mario Strikers Charged",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii184",
+    "igdbId": 2255,
+    "gbId": 6718,
+    "gbGuid": "3030-6718",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Mario Super Sluggers",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii185",
+    "igdbId": 3987,
+    "gbId": 20948,
+    "gbGuid": "3030-20948",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Mart Racer",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii180",
+    "id": "wii186",
     "igdbId": 21060,
     "gbId": 24193,
     "gbGuid": "3030-24193",
@@ -4183,7 +4391,7 @@
     "special": []
   },
   {
-    "id": "wii181",
+    "id": "wii187",
     "name": "Marvel: Ultimate Alliance",
     "details": [
       "Nintendo Wii launch title"
@@ -4210,7 +4418,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii182",
+    "id": "wii188",
     "igdbId": 5001,
     "gbId": 26852,
     "gbGuid": "3030-26852",
@@ -4233,7 +4441,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii183",
+    "id": "wii189",
     "igdbId": 1111,
     "gbId": 4725,
     "gbGuid": "3030-4725",
@@ -4256,7 +4464,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii184",
+    "id": "wii190",
     "igdbId": 5008,
     "gbId": null,
     "gbGuid": null,
@@ -4275,7 +4483,7 @@
     "special": []
   },
   {
-    "id": "wii185",
+    "id": "wii191",
     "name": "Monster 4x4 World Circuit",
     "details": [
       "Nintendo Wii launch title"
@@ -4302,7 +4510,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii186",
+    "id": "wii192",
     "igdbId": 5019,
     "gbId": 20867,
     "gbGuid": "3030-20867",
@@ -4325,7 +4533,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii187",
+    "id": "wii193",
     "igdbId": 50991,
     "gbId": 25357,
     "gbGuid": "3030-25357",
@@ -4348,7 +4556,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii188",
+    "id": "wii194",
     "igdbId": 15914,
     "gbId": 26450,
     "gbGuid": "3030-26450",
@@ -4367,11 +4575,37 @@
     "special": []
   },
   {
+    "name": "My Fitness Coach",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii195",
+    "igdbId": 78661,
+    "gbId": 24645,
+    "gbGuid": "3030-24645",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "My Pokémon Ranch",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii189",
+    "id": "wii196",
     "igdbId": 4563,
     "gbId": 21989,
     "gbGuid": "3030-21989",
@@ -4394,7 +4628,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii190",
+    "id": "wii197",
     "igdbId": 5040,
     "gbId": 35481,
     "gbGuid": "3030-35481",
@@ -4417,7 +4651,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii191",
+    "id": "wii198",
     "igdbId": 5053,
     "gbId": 24733,
     "gbGuid": "3030-24733",
@@ -4440,7 +4674,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii192",
+    "id": "wii199",
     "igdbId": 2665,
     "gbId": 25327,
     "gbGuid": "3030-25327",
@@ -4463,7 +4697,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii193",
+    "id": "wii200",
     "igdbId": 2666,
     "gbId": null,
     "gbGuid": null,
@@ -4486,7 +4720,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii194",
+    "id": "wii201",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4509,7 +4743,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii195",
+    "id": "wii202",
     "igdbId": 5071,
     "gbId": 31481,
     "gbGuid": "3030-31481",
@@ -4532,7 +4766,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii196",
+    "id": "wii203",
     "igdbId": 5048,
     "gbId": 33307,
     "gbGuid": "3030-33307",
@@ -4555,7 +4789,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii197",
+    "id": "wii204",
     "igdbId": 5047,
     "gbId": 23216,
     "gbGuid": "3030-23216",
@@ -4574,7 +4808,7 @@
     "special": []
   },
   {
-    "id": "wii198",
+    "id": "wii205",
     "name": "Need for Speed: Carbon",
     "details": [
       "Nintendo Wii launch title"
@@ -4601,7 +4835,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii199",
+    "id": "wii206",
     "igdbId": 5066,
     "gbId": 51716,
     "gbGuid": "3030-51716",
@@ -4620,11 +4854,37 @@
     "special": []
   },
   {
+    "name": "New Super Mario Bros. Wii",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii207",
+    "igdbId": 2178,
+    "gbId": 26841,
+    "gbGuid": "3030-26841",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "NiGHTS: Journey of Dreams",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii200",
+    "id": "wii208",
     "igdbId": 5074,
     "gbId": 4161,
     "gbGuid": "3030-4161",
@@ -4647,7 +4907,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii201",
+    "id": "wii209",
     "igdbId": 70522,
     "gbId": 24863,
     "gbGuid": "3030-24863",
@@ -4670,7 +4930,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii202",
+    "id": "wii210",
     "igdbId": 2272,
     "gbId": 5581,
     "gbGuid": "3030-5581",
@@ -4693,7 +4953,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii203",
+    "id": "wii211",
     "igdbId": 68584,
     "gbId": null,
     "gbGuid": null,
@@ -4716,7 +4976,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii204",
+    "id": "wii212",
     "igdbId": 5084,
     "gbId": 20851,
     "gbGuid": "3030-20851",
@@ -4739,7 +4999,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii205",
+    "id": "wii213",
     "igdbId": 5085,
     "gbId": 21604,
     "gbGuid": "3030-21604",
@@ -4762,7 +5022,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii206",
+    "id": "wii214",
     "igdbId": 15329,
     "gbId": 15280,
     "gbGuid": "3030-15280",
@@ -4785,7 +5045,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii207",
+    "id": "wii215",
     "igdbId": 5087,
     "gbId": 20864,
     "gbGuid": "3030-20864",
@@ -4808,7 +5068,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii208",
+    "id": "wii216",
     "igdbId": 47,
     "gbId": 23620,
     "gbGuid": "3030-23620",
@@ -4831,7 +5091,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii209",
+    "id": "wii217",
     "igdbId": 66506,
     "gbId": 32005,
     "gbGuid": "3030-32005",
@@ -4854,7 +5114,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii210",
+    "id": "wii218",
     "igdbId": 69132,
     "gbId": 25753,
     "gbGuid": "3030-25753",
@@ -4877,7 +5137,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii211",
+    "id": "wii219",
     "igdbId": 79012,
     "gbId": 26879,
     "gbGuid": "3030-26879",
@@ -4896,11 +5156,37 @@
     "special": []
   },
   {
+    "name": "Pikmin 2",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii220",
+    "igdbId": 2240,
+    "gbId": 2480,
+    "gbGuid": "3030-2480",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Pirates PlundARRR",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii212",
+    "id": "wii221",
     "igdbId": 5101,
     "gbId": null,
     "gbGuid": null,
@@ -4923,7 +5209,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii213",
+    "id": "wii222",
     "igdbId": 21827,
     "gbId": 23520,
     "gbGuid": "3030-23520",
@@ -4946,7 +5232,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii214",
+    "id": "wii223",
     "igdbId": 70650,
     "gbId": null,
     "gbGuid": null,
@@ -4969,7 +5255,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii215",
+    "id": "wii224",
     "igdbId": 72555,
     "gbId": 24094,
     "gbGuid": "3030-24094",
@@ -4992,7 +5278,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii216",
+    "id": "wii225",
     "igdbId": 21801,
     "gbId": null,
     "gbGuid": null,
@@ -5015,7 +5301,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii217",
+    "id": "wii226",
     "igdbId": 4559,
     "gbId": 36391,
     "gbGuid": "3030-36391",
@@ -5034,11 +5320,37 @@
     "special": []
   },
   {
+    "name": "PokéPark Wii: Pikachu's Adventure",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii227",
+    "igdbId": 4558,
+    "gbId": 31115,
+    "gbGuid": "3030-31115",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Pokémon Mystery Dungeon: Adventure Team",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii218",
+    "id": "wii228",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5061,7 +5373,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii219",
+    "id": "wii229",
     "igdbId": 4562,
     "gbId": 26921,
     "gbGuid": "3030-26921",
@@ -5084,7 +5396,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii220",
+    "id": "wii230",
     "igdbId": 2325,
     "gbId": 19141,
     "gbGuid": "3030-19141",
@@ -5107,7 +5419,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii221",
+    "id": "wii231",
     "igdbId": 79654,
     "gbId": 25115,
     "gbGuid": "3030-25115",
@@ -5130,7 +5442,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii222",
+    "id": "wii232",
     "igdbId": 5103,
     "gbId": 46689,
     "gbGuid": "3030-46689",
@@ -5153,7 +5465,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii223",
+    "id": "wii233",
     "igdbId": 70649,
     "gbId": 24406,
     "gbGuid": "3030-24406",
@@ -5176,7 +5488,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii224",
+    "id": "wii234",
     "igdbId": 85347,
     "gbId": null,
     "gbGuid": null,
@@ -5199,7 +5511,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii225",
+    "id": "wii235",
     "igdbId": 21799,
     "gbId": 23764,
     "gbGuid": "3030-23764",
@@ -5222,7 +5534,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii226",
+    "id": "wii236",
     "igdbId": 2468,
     "gbId": 29321,
     "gbGuid": "3030-29321",
@@ -5245,7 +5557,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii227",
+    "id": "wii237",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5268,7 +5580,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii228",
+    "id": "wii238",
     "igdbId": 14409,
     "gbId": 37561,
     "gbGuid": "3030-37561",
@@ -5287,11 +5599,37 @@
     "special": []
   },
   {
+    "name": "Punch-Out!!",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii239",
+    "igdbId": 2194,
+    "gbId": 23965,
+    "gbGuid": "3030-23965",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Puzzle Bobble Plus!",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii229",
+    "id": "wii240",
     "igdbId": 84796,
     "gbId": null,
     "gbGuid": null,
@@ -5310,7 +5648,7 @@
     "special": []
   },
   {
-    "id": "wii230",
+    "id": "wii241",
     "name": "Rampage: Total Destruction",
     "details": [
       "Nintendo Wii launch title"
@@ -5333,7 +5671,7 @@
     "special": []
   },
   {
-    "id": "wii231",
+    "id": "wii242",
     "name": "Rayman Raving Rabbids",
     "details": [
       "Nintendo Wii launch title"
@@ -5356,11 +5694,89 @@
     "special": []
   },
   {
+    "name": "Rayman Raving Rabbids",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii243",
+    "igdbId": 193362,
+    "gbId": 25606,
+    "gbGuid": "3030-25606",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Rayman Raving Rabbids 2",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii244",
+    "igdbId": 2745,
+    "gbId": 20568,
+    "gbGuid": "3030-20568",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Rayman Raving Rabbids: TV Party",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii245",
+    "igdbId": 5117,
+    "gbId": 21080,
+    "gbGuid": "3030-21080",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Ready 2 Rumble: Revolution",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii232",
+    "id": "wii246",
     "igdbId": 5118,
     "gbId": 24673,
     "gbGuid": "3030-24673",
@@ -5379,11 +5795,12 @@
     "special": []
   },
   {
-    "id": "wii233",
+    "id": "wii247",
     "name": "Red Steel",
     "details": [
       "Nintendo Wii launch title",
-      "Nintendo Wii exclusive"
+      "Nintendo Wii exclusive",
+      "Wii Nintendo Select"
     ],
     "igdbId": 2258,
     "gbId": 7712,
@@ -5409,14 +5826,26 @@
         "tgdbId": 9
       }
     ],
-    "special": []
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ]
   },
   {
     "name": "Red Steel 2",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii234",
+    "id": "wii248",
     "igdbId": 2179,
     "gbId": 22361,
     "gbGuid": "3030-22361",
@@ -5439,7 +5868,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii235",
+    "id": "wii249",
     "igdbId": 21454,
     "gbId": 22885,
     "gbGuid": "3030-22885",
@@ -5462,7 +5891,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii236",
+    "id": "wii250",
     "igdbId": 66748,
     "gbId": 30872,
     "gbGuid": "3030-30872",
@@ -5485,7 +5914,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii237",
+    "id": "wii251",
     "igdbId": 73017,
     "gbId": null,
     "gbGuid": null,
@@ -5508,7 +5937,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii238",
+    "id": "wii252",
     "igdbId": 23364,
     "gbId": 27845,
     "gbGuid": "3030-27845",
@@ -5531,7 +5960,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii239",
+    "id": "wii253",
     "igdbId": 5132,
     "gbId": null,
     "gbGuid": null,
@@ -5554,7 +5983,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii240",
+    "id": "wii254",
     "igdbId": 5144,
     "gbId": 27782,
     "gbGuid": "3030-27782",
@@ -5577,7 +6006,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii241",
+    "id": "wii255",
     "igdbId": 21048,
     "gbId": 22089,
     "gbGuid": "3030-22089",
@@ -5600,7 +6029,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii242",
+    "id": "wii256",
     "igdbId": 5192,
     "gbId": 22615,
     "gbGuid": "3030-22615",
@@ -5623,7 +6052,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii243",
+    "id": "wii257",
     "igdbId": 4178,
     "gbId": 17969,
     "gbGuid": "3030-17969",
@@ -5646,7 +6075,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii244",
+    "id": "wii258",
     "igdbId": 5137,
     "gbId": 20850,
     "gbGuid": "3030-20850",
@@ -5669,7 +6098,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii245",
+    "id": "wii259",
     "igdbId": 85366,
     "gbId": 24996,
     "gbGuid": "3030-24996",
@@ -5692,7 +6121,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii246",
+    "id": "wii260",
     "igdbId": 67109,
     "gbId": 29746,
     "gbGuid": "3030-29746",
@@ -5711,11 +6140,37 @@
     "special": []
   },
   {
+    "name": "Shaun White Snowboarding: Road Trip",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii261",
+    "igdbId": 21878,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Shaun White Snowboarding: World Stage",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii247",
+    "id": "wii262",
     "igdbId": 5153,
     "gbId": 26635,
     "gbGuid": "3030-26635",
@@ -5738,7 +6193,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii248",
+    "id": "wii263",
     "igdbId": 85371,
     "gbId": 26620,
     "gbGuid": "3030-26620",
@@ -5761,7 +6216,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii249",
+    "id": "wii264",
     "igdbId": 67963,
     "gbId": 27180,
     "gbGuid": "3030-27180",
@@ -5784,7 +6239,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii250",
+    "id": "wii265",
     "igdbId": 1493,
     "gbId": 20960,
     "gbGuid": "3030-20960",
@@ -5807,7 +6262,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii251",
+    "id": "wii266",
     "igdbId": 5161,
     "gbId": 27672,
     "gbGuid": "3030-27672",
@@ -5830,7 +6285,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii252",
+    "id": "wii267",
     "igdbId": 20477,
     "gbId": 24404,
     "gbGuid": "3030-24404",
@@ -5853,7 +6308,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii253",
+    "id": "wii268",
     "igdbId": 85383,
     "gbId": 33248,
     "gbGuid": "3030-33248",
@@ -5876,7 +6331,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii254",
+    "id": "wii269",
     "igdbId": 5166,
     "gbId": 21247,
     "gbGuid": "3030-21247",
@@ -5899,7 +6354,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii255",
+    "id": "wii270",
     "igdbId": 5167,
     "gbId": 2512,
     "gbGuid": "3030-2512",
@@ -5922,7 +6377,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii256",
+    "id": "wii271",
     "igdbId": 5170,
     "gbId": 11945,
     "gbGuid": "3030-11945",
@@ -5945,7 +6400,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii257",
+    "id": "wii272",
     "igdbId": 21789,
     "gbId": 23551,
     "gbGuid": "3030-23551",
@@ -5968,7 +6423,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii258",
+    "id": "wii273",
     "igdbId": 5173,
     "gbId": 25374,
     "gbGuid": "3030-25374",
@@ -5987,7 +6442,7 @@
     "special": []
   },
   {
-    "id": "wii259",
+    "id": "wii274",
     "name": "SpongeBob SquarePants: Creature from the Krusty Krab",
     "details": [
       "Nintendo Wii launch title"
@@ -6014,7 +6469,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii260",
+    "id": "wii275",
     "igdbId": 5191,
     "gbId": 25120,
     "gbGuid": "3030-25120",
@@ -6037,7 +6492,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii261",
+    "id": "wii276",
     "igdbId": 5205,
     "gbId": 49625,
     "gbGuid": "3030-49625",
@@ -6060,7 +6515,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii262",
+    "id": "wii277",
     "igdbId": 5206,
     "gbId": 20717,
     "gbGuid": "3030-20717",
@@ -6083,7 +6538,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii263",
+    "id": "wii278",
     "igdbId": 21820,
     "gbId": 22021,
     "gbGuid": "3030-22021",
@@ -6106,7 +6561,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii264",
+    "id": "wii279",
     "igdbId": 5194,
     "gbId": 21023,
     "gbGuid": "3030-21023",
@@ -6129,7 +6584,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii265",
+    "id": "wii280",
     "igdbId": 50994,
     "gbId": 51067,
     "gbGuid": "3030-51067",
@@ -6152,7 +6607,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii266",
+    "id": "wii281",
     "igdbId": 5195,
     "gbId": 29554,
     "gbGuid": "3030-29554",
@@ -6175,7 +6630,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii267",
+    "id": "wii282",
     "igdbId": 5197,
     "gbId": 24176,
     "gbGuid": "3030-24176",
@@ -6194,7 +6649,85 @@
     "special": []
   },
   {
-    "id": "wii268",
+    "name": "Super Mario All-Stars: Limited Edition",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii283",
+    "igdbId": 84920,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Super Mario Galaxy",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii284",
+    "igdbId": 1077,
+    "gbId": 16094,
+    "gbGuid": "3030-16094",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Super Mario Galaxy 2",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii285",
+    "igdbId": 1078,
+    "gbId": 26839,
+    "gbGuid": "3030-26839",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "wii286",
     "name": "Super Monkey Ball: Banana Blitz",
     "details": [
       "Nintendo Wii launch title"
@@ -6221,7 +6754,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii269",
+    "id": "wii287",
     "igdbId": 5201,
     "gbId": 27447,
     "gbGuid": "3030-27447",
@@ -6240,11 +6773,37 @@
     "special": []
   },
   {
+    "name": "Super Paper Mario",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii288",
+    "igdbId": 2191,
+    "gbId": 12739,
+    "gbGuid": "3030-12739",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Super Robot Wars Neo",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii270",
+    "id": "wii289",
     "igdbId": 76902,
     "gbId": 27741,
     "gbGuid": "3030-27741",
@@ -6265,9 +6824,10 @@
   {
     "name": "Super Smash Bros. Brawl",
     "details": [
-      "Nintendo Wii exclusive"
+      "Nintendo Wii exclusive",
+      "Wii Nintendo Select"
     ],
-    "id": "wii271",
+    "id": "wii290",
     "igdbId": 1628,
     "gbId": 20588,
     "gbGuid": "3030-20588",
@@ -6282,15 +6842,27 @@
         "tgdbId": 9
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Super Swing Golf",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii272",
+    "id": "wii291",
     "igdbId": 5202,
     "gbId": 22203,
     "gbGuid": "3030-22203",
@@ -6313,7 +6885,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii273",
+    "id": "wii292",
     "igdbId": 5203,
     "gbId": 24256,
     "gbGuid": "3030-24256",
@@ -6336,7 +6908,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii274",
+    "id": "wii293",
     "igdbId": 5248,
     "gbId": 24627,
     "gbGuid": "3030-24627",
@@ -6359,7 +6931,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii275",
+    "id": "wii294",
     "igdbId": 5211,
     "gbId": null,
     "gbGuid": null,
@@ -6382,7 +6954,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii276",
+    "id": "wii295",
     "igdbId": 2275,
     "gbId": 20728,
     "gbGuid": "3030-20728",
@@ -6405,7 +6977,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii277",
+    "id": "wii296",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6428,7 +7000,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii278",
+    "id": "wii297",
     "igdbId": 21293,
     "gbId": 25206,
     "gbGuid": "3030-25206",
@@ -6451,7 +7023,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii279",
+    "id": "wii298",
     "igdbId": 4804,
     "gbId": 19405,
     "gbGuid": "3030-19405",
@@ -6470,7 +7042,7 @@
     "special": []
   },
   {
-    "id": "wii280",
+    "id": "wii299",
     "name": "The Grim Adventures of Billy & Mandy",
     "details": [
       "Nintendo Wii launch title"
@@ -6497,7 +7069,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii281",
+    "id": "wii300",
     "igdbId": 4918,
     "gbId": null,
     "gbGuid": null,
@@ -6520,7 +7092,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii282",
+    "id": "wii301",
     "igdbId": 21792,
     "gbId": 24202,
     "gbGuid": "3030-24202",
@@ -6543,7 +7115,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii283",
+    "id": "wii302",
     "igdbId": 4960,
     "gbId": 23397,
     "gbGuid": "3030-23397",
@@ -6566,7 +7138,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii284",
+    "id": "wii303",
     "igdbId": 4966,
     "gbId": 29904,
     "gbGuid": "3030-29904",
@@ -6589,7 +7161,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii285",
+    "id": "wii304",
     "igdbId": 534,
     "gbId": 26934,
     "gbGuid": "3030-26934",
@@ -6608,7 +7180,7 @@
     "special": []
   },
   {
-    "id": "wii286",
+    "id": "wii305",
     "name": "The Legend of Zelda: Twilight Princess",
     "details": [
       "Nintendo Wii launch title"
@@ -6631,11 +7203,37 @@
     "special": []
   },
   {
+    "name": "The Legend of Zelda: Twilight Princess",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii306",
+    "igdbId": 134014,
+    "gbId": 19467,
+    "gbGuid": "3030-19467",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "The Munchables",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii287",
+    "id": "wii307",
     "igdbId": 5024,
     "gbId": 25517,
     "gbGuid": "3030-25517",
@@ -6658,7 +7256,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii288",
+    "id": "wii308",
     "igdbId": 5160,
     "gbId": 24051,
     "gbGuid": "3030-24051",
@@ -6681,7 +7279,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii289",
+    "id": "wii309",
     "igdbId": 3304,
     "gbId": 35350,
     "gbGuid": "3030-35350",
@@ -6704,7 +7302,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii290",
+    "id": "wii310",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6727,7 +7325,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii291",
+    "id": "wii311",
     "igdbId": 20486,
     "gbId": null,
     "gbGuid": null,
@@ -6750,7 +7348,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii292",
+    "id": "wii312",
     "igdbId": 77978,
     "gbId": 32351,
     "gbGuid": "3030-32351",
@@ -6769,7 +7367,7 @@
     "special": []
   },
   {
-    "id": "wii293",
+    "id": "wii313",
     "name": "Tony Hawk's Downhill Jam",
     "details": [
       "Nintendo Wii launch title"
@@ -6796,7 +7394,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii294",
+    "id": "wii314",
     "igdbId": 5236,
     "gbId": 55783,
     "gbGuid": "3030-55783",
@@ -6819,7 +7417,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii295",
+    "id": "wii315",
     "igdbId": 5239,
     "gbId": 26611,
     "gbGuid": "3030-26611",
@@ -6842,7 +7440,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii296",
+    "id": "wii316",
     "igdbId": 5242,
     "gbId": null,
     "gbGuid": null,
@@ -6865,7 +7463,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii297",
+    "id": "wii317",
     "igdbId": 1525,
     "gbId": 16944,
     "gbGuid": "3030-16944",
@@ -6884,7 +7482,7 @@
     "special": []
   },
   {
-    "id": "wii298",
+    "id": "wii318",
     "name": "Trauma Center: Second Opinion",
     "details": [
       "Nintendo Wii launch title",
@@ -6921,7 +7519,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii299",
+    "id": "wii319",
     "igdbId": 50600,
     "gbId": 28184,
     "gbGuid": "3030-28184",
@@ -6944,7 +7542,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii300",
+    "id": "wii320",
     "igdbId": 5186,
     "gbId": null,
     "gbGuid": null,
@@ -6967,7 +7565,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii301",
+    "id": "wii321",
     "igdbId": 5185,
     "gbId": 32359,
     "gbGuid": "3030-32359",
@@ -6990,7 +7588,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii302",
+    "id": "wii322",
     "igdbId": 18255,
     "gbId": 32358,
     "gbGuid": "3030-32358",
@@ -7013,7 +7611,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii303",
+    "id": "wii323",
     "igdbId": 5252,
     "gbId": 24300,
     "gbGuid": "3030-24300",
@@ -7036,7 +7634,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii304",
+    "id": "wii324",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -7059,7 +7657,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii305",
+    "id": "wii325",
     "igdbId": 21823,
     "gbId": null,
     "gbGuid": null,
@@ -7082,7 +7680,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii306",
+    "id": "wii326",
     "igdbId": 5255,
     "gbId": 24145,
     "gbGuid": "3030-24145",
@@ -7105,7 +7703,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii307",
+    "id": "wii327",
     "igdbId": 5256,
     "gbId": 6550,
     "gbGuid": "3030-6550",
@@ -7128,7 +7726,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii308",
+    "id": "wii328",
     "igdbId": 5264,
     "gbId": 27141,
     "gbGuid": "3030-27141",
@@ -7151,7 +7749,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii309",
+    "id": "wii329",
     "igdbId": 5301,
     "gbId": null,
     "gbGuid": null,
@@ -7174,7 +7772,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii310",
+    "id": "wii330",
     "igdbId": 5260,
     "gbId": 26094,
     "gbGuid": "3030-26094",
@@ -7193,11 +7791,37 @@
     "special": []
   },
   {
+    "name": "WarioWare: Smooth Moves",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii331",
+    "igdbId": 1706,
+    "gbId": 13685,
+    "gbGuid": "3030-13685",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Water Warfare",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii311",
+    "id": "wii332",
     "igdbId": 21212,
     "gbId": 26704,
     "gbGuid": "3030-26704",
@@ -7220,7 +7844,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii312",
+    "id": "wii333",
     "igdbId": 5263,
     "gbId": 21140,
     "gbGuid": "3030-21140",
@@ -7243,7 +7867,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii313",
+    "id": "wii334",
     "igdbId": 5265,
     "gbId": 20811,
     "gbGuid": "3030-20811",
@@ -7266,7 +7890,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii314",
+    "id": "wii335",
     "igdbId": 5127,
     "gbId": null,
     "gbGuid": null,
@@ -7289,7 +7913,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii315",
+    "id": "wii336",
     "igdbId": 5266,
     "gbId": 28029,
     "gbGuid": "3030-28029",
@@ -7312,7 +7936,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii316",
+    "id": "wii337",
     "igdbId": 5272,
     "gbId": 32213,
     "gbGuid": "3030-32213",
@@ -7335,7 +7959,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii317",
+    "id": "wii338",
     "igdbId": 5273,
     "gbId": null,
     "gbGuid": null,
@@ -7358,7 +7982,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii318",
+    "id": "wii339",
     "igdbId": 5267,
     "gbId": 41403,
     "gbGuid": "3030-41403",
@@ -7381,7 +8005,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii319",
+    "id": "wii340",
     "igdbId": 5268,
     "gbId": 41405,
     "gbGuid": "3030-41405",
@@ -7404,7 +8028,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii320",
+    "id": "wii341",
     "igdbId": 5269,
     "gbId": 48037,
     "gbGuid": "3030-48037",
@@ -7427,7 +8051,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii321",
+    "id": "wii342",
     "igdbId": 5270,
     "gbId": 31283,
     "gbGuid": "3030-31283",
@@ -7450,7 +8074,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii322",
+    "id": "wii343",
     "igdbId": 5271,
     "gbId": null,
     "gbGuid": null,
@@ -7473,7 +8097,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii323",
+    "id": "wii344",
     "igdbId": 5274,
     "gbId": 41406,
     "gbGuid": "3030-41406",
@@ -7496,7 +8120,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii324",
+    "id": "wii345",
     "igdbId": 5275,
     "gbId": 20880,
     "gbGuid": "3030-20880",
@@ -7519,7 +8143,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii325",
+    "id": "wii346",
     "igdbId": 5276,
     "gbId": 24449,
     "gbGuid": "3030-24449",
@@ -7542,7 +8166,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii326",
+    "id": "wii347",
     "igdbId": 5277,
     "gbId": 28474,
     "gbGuid": "3030-28474",
@@ -7565,7 +8189,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii327",
+    "id": "wii348",
     "igdbId": 5177,
     "gbId": null,
     "gbGuid": null,
@@ -7588,7 +8212,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii328",
+    "id": "wii349",
     "igdbId": 5280,
     "gbId": 26007,
     "gbGuid": "3030-26007",
@@ -7611,7 +8235,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii329",
+    "id": "wii350",
     "igdbId": 2186,
     "gbId": 20503,
     "gbGuid": "3030-20503",
@@ -7634,7 +8258,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii330",
+    "id": "wii351",
     "igdbId": 2187,
     "gbId": 26869,
     "gbGuid": "3030-26869",
@@ -7657,7 +8281,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii331",
+    "id": "wii352",
     "igdbId": 3244,
     "gbId": 21099,
     "gbGuid": "3030-21099",
@@ -7678,9 +8302,10 @@
   {
     "name": "Wii Party",
     "details": [
-      "Nintendo Wii exclusive"
+      "Nintendo Wii exclusive",
+      "Wii Nintendo Select"
     ],
-    "id": "wii332",
+    "id": "wii353",
     "igdbId": 2189,
     "gbId": 31210,
     "gbGuid": "3030-31210",
@@ -7695,15 +8320,27 @@
         "tgdbId": 9
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Wii Play",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii333",
+    "id": "wii354",
     "igdbId": 2185,
     "gbId": 9439,
     "gbGuid": "3030-9439",
@@ -7726,7 +8363,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii334",
+    "id": "wii355",
     "igdbId": 5281,
     "gbId": 35609,
     "gbGuid": "3030-35609",
@@ -7745,11 +8382,12 @@
     "special": []
   },
   {
-    "id": "wii335",
+    "id": "wii356",
     "name": "Wii Sports",
     "details": [
       "Nintendo Wii launch title",
-      "Nintendo Wii exclusive"
+      "Nintendo Wii exclusive",
+      "Wii Nintendo Select"
     ],
     "igdbId": 2181,
     "gbId": 13328,
@@ -7775,14 +8413,53 @@
         "tgdbId": 9
       }
     ],
-    "special": []
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ]
+  },
+  {
+    "name": "Wii Sports + Wii Sports Resort",
+    "details": [
+      "Wii Nintendo Select"
+    ],
+    "id": "wii357",
+    "igdbId": 130310,
+    "gbId": 77245,
+    "gbGuid": "3030-77245",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Wii Sports Resort",
     "details": [
-      "Nintendo Wii exclusive"
+      "Nintendo Wii exclusive",
+      "Wii Nintendo Select"
     ],
-    "id": "wii336",
+    "id": "wii358",
     "igdbId": 2182,
     "gbId": 21098,
     "gbGuid": "3030-21098",
@@ -7797,15 +8474,27 @@
         "tgdbId": 9
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Wii Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Wii",
+          "id": "ccl5",
+          "igdbId": 5,
+          "gbId": 36,
+          "gbGuid": "3045-36",
+          "tgdbId": 9
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Wing Island",
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii337",
+    "id": "wii359",
     "igdbId": 5282,
     "gbId": 6267,
     "gbGuid": "3030-6267",
@@ -7828,7 +8517,7 @@
     "details": [
       "Nintendo Wii exclusive"
     ],
-    "id": "wii338",
+    "id": "wii360",
     "igdbId": 19655,
     "gbId": null,
     "gbGuid": null,

@@ -598,11 +598,38 @@
     "special": []
   },
   {
-    "name": "Castlevania Legends",
+    "name": "Castlevania II: Belmont's Revenge",
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy Player's Choice"
     ],
     "id": "ngb26",
+    "igdbId": 1123,
+    "gbId": 16921,
+    "gbGuid": "3030-16921",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Castlevania Legends",
+    "details": [
+      "Nintendo Game Boy exclusive",
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb27",
     "igdbId": 1129,
     "gbId": 12001,
     "gbGuid": "3030-12001",
@@ -617,15 +644,53 @@
         "tgdbId": 4
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Castlevania: The Adventure",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb28",
+    "igdbId": 1118,
+    "gbId": 8654,
+    "gbGuid": "3030-8654",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Chikyuu Kaihougun ZAS",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb27",
+    "id": "ngb29",
     "igdbId": 7822,
     "gbId": 32925,
     "gbGuid": "3030-32925",
@@ -648,7 +713,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb28",
+    "id": "ngb30",
     "igdbId": 7826,
     "gbId": null,
     "gbGuid": null,
@@ -671,7 +736,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb29",
+    "id": "ngb31",
     "igdbId": 8132,
     "gbId": 18031,
     "gbGuid": "3030-18031",
@@ -694,7 +759,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb30",
+    "id": "ngb32",
     "igdbId": 48959,
     "gbId": 13556,
     "gbGuid": "3030-13556",
@@ -717,7 +782,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb31",
+    "id": "ngb33",
     "igdbId": 48950,
     "gbId": null,
     "gbGuid": null,
@@ -740,7 +805,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb32",
+    "id": "ngb34",
     "igdbId": 91263,
     "gbId": 32867,
     "gbGuid": "3030-32867",
@@ -759,11 +824,89 @@
     "special": []
   },
   {
+    "name": "Donkey Kong",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb35",
+    "igdbId": 1089,
+    "gbId": 25744,
+    "gbGuid": "3030-25744",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Donkey Kong Land",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb36",
+    "igdbId": 1091,
+    "gbId": 8200,
+    "gbGuid": "3030-8200",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Donkey Kong Land 2",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb37",
+    "igdbId": 1093,
+    "gbId": 9722,
+    "gbGuid": "3030-9722",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Dragon's Lair: The Legend",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb33",
+    "id": "ngb38",
     "igdbId": 117950,
     "gbId": 71737,
     "gbGuid": "3030-71737",
@@ -786,7 +929,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb34",
+    "id": "ngb39",
     "igdbId": 41705,
     "gbId": 14201,
     "gbGuid": "3030-14201",
@@ -809,7 +952,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb35",
+    "id": "ngb40",
     "igdbId": 41649,
     "gbId": 7355,
     "gbGuid": "3030-7355",
@@ -832,7 +975,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb36",
+    "id": "ngb41",
     "igdbId": 48922,
     "gbId": 24474,
     "gbGuid": "3030-24474",
@@ -855,7 +998,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb37",
+    "id": "ngb42",
     "igdbId": 64344,
     "gbId": 40372,
     "gbGuid": "3030-40372",
@@ -878,7 +1021,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb38",
+    "id": "ngb43",
     "igdbId": 84643,
     "gbId": 24032,
     "gbGuid": "3030-24032",
@@ -901,7 +1044,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb39",
+    "id": "ngb44",
     "igdbId": 1687,
     "gbId": 21674,
     "gbGuid": "3030-21674",
@@ -924,7 +1067,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb40",
+    "id": "ngb45",
     "igdbId": 48997,
     "gbId": 34659,
     "gbGuid": "3030-34659",
@@ -947,7 +1090,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb41",
+    "id": "ngb46",
     "igdbId": 60782,
     "gbId": 48304,
     "gbGuid": "3030-48304",
@@ -970,7 +1113,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb42",
+    "id": "ngb47",
     "igdbId": 75887,
     "gbId": 3063,
     "gbGuid": "3030-3063",
@@ -993,7 +1136,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb43",
+    "id": "ngb48",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1016,7 +1159,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb44",
+    "id": "ngb49",
     "igdbId": 48994,
     "gbId": 1992,
     "gbGuid": "3030-1992",
@@ -1039,7 +1182,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb45",
+    "id": "ngb50",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1062,7 +1205,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb46",
+    "id": "ngb51",
     "igdbId": 48980,
     "gbId": 34330,
     "gbGuid": "3030-34330",
@@ -1085,7 +1228,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb47",
+    "id": "ngb52",
     "igdbId": 2836,
     "gbId": null,
     "gbGuid": null,
@@ -1108,7 +1251,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb48",
+    "id": "ngb53",
     "igdbId": 1639,
     "gbId": 21300,
     "gbGuid": "3030-21300",
@@ -1131,7 +1274,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb49",
+    "id": "ngb54",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1154,7 +1297,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb50",
+    "id": "ngb55",
     "igdbId": 48979,
     "gbId": 17244,
     "gbGuid": "3030-17244",
@@ -1177,7 +1320,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb51",
+    "id": "ngb56",
     "igdbId": 72803,
     "gbId": 22868,
     "gbGuid": "3030-22868",
@@ -1200,7 +1343,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb52",
+    "id": "ngb57",
     "igdbId": 1125,
     "gbId": 1913,
     "gbGuid": "3030-1913",
@@ -1223,7 +1366,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb53",
+    "id": "ngb58",
     "igdbId": null,
     "gbId": 28298,
     "gbGuid": "3030-28298",
@@ -1246,7 +1389,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb54",
+    "id": "ngb59",
     "igdbId": 49047,
     "gbId": null,
     "gbGuid": null,
@@ -1267,9 +1410,10 @@
   {
     "name": "Kirby's Dream Land",
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "Nintendo Game Boy Player's Choice"
     ],
-    "id": "ngb55",
+    "id": "ngb60",
     "igdbId": 1063,
     "gbId": 19788,
     "gbGuid": "3030-19788",
@@ -1284,15 +1428,79 @@
         "tgdbId": 4
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Kirby's Dream Land 2",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb61",
+    "igdbId": 3718,
+    "gbId": 4474,
+    "gbGuid": "3030-4474",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Kirby's Pinball Land",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb62",
+    "igdbId": 3715,
+    "gbId": 14646,
+    "gbGuid": "3030-14646",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Konami GB Collection Vol. 1",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb56",
+    "id": "ngb63",
     "igdbId": null,
     "gbId": 41149,
     "gbGuid": "3030-41149",
@@ -1315,7 +1523,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb57",
+    "id": "ngb64",
     "igdbId": null,
     "gbId": 41150,
     "gbGuid": "3030-41150",
@@ -1338,7 +1546,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb58",
+    "id": "ngb65",
     "igdbId": null,
     "gbId": 41151,
     "gbGuid": "3030-41151",
@@ -1361,7 +1569,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb59",
+    "id": "ngb66",
     "igdbId": null,
     "gbId": 41153,
     "gbGuid": "3030-41153",
@@ -1384,7 +1592,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb60",
+    "id": "ngb67",
     "igdbId": 7777,
     "gbId": 18248,
     "gbGuid": "3030-18248",
@@ -1407,7 +1615,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb61",
+    "id": "ngb68",
     "igdbId": 49046,
     "gbId": null,
     "gbGuid": null,
@@ -1426,11 +1634,63 @@
     "special": []
   },
   {
+    "name": "Mega Man II",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb69",
+    "igdbId": 1734,
+    "gbId": 14547,
+    "gbGuid": "3030-14547",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Mega Man: Dr. Wily's Revenge",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb70",
+    "igdbId": 1733,
+    "gbId": 17134,
+    "gbGuid": "3030-17134",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Megalit",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb62",
+    "id": "ngb71",
     "igdbId": 19558,
     "gbId": 60118,
     "gbGuid": "3030-60118",
@@ -1449,11 +1709,37 @@
     "special": []
   },
   {
+    "name": "Metroid II: Return of Samus",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb72",
+    "igdbId": 1102,
+    "gbId": 5708,
+    "gbGuid": "3030-5708",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Mickey Mouse: Magic Wands",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb63",
+    "id": "ngb73",
     "igdbId": 48990,
     "gbId": null,
     "gbGuid": null,
@@ -1474,9 +1760,10 @@
   {
     "name": "Mickey's Dangerous Chase",
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "Nintendo Game Boy Player's Choice"
     ],
-    "id": "ngb64",
+    "id": "ngb74",
     "igdbId": 8127,
     "gbId": 22059,
     "gbGuid": "3030-22059",
@@ -1491,15 +1778,27 @@
         "tgdbId": 4
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Mighty Morphin Power Rangers",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb65",
+    "id": "ngb75",
     "igdbId": 75978,
     "gbId": 6531,
     "gbGuid": "3030-6531",
@@ -1522,7 +1821,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb66",
+    "id": "ngb76",
     "igdbId": 75981,
     "gbId": 21927,
     "gbGuid": "3030-21927",
@@ -1545,7 +1844,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb67",
+    "id": "ngb77",
     "igdbId": 18629,
     "gbId": 18183,
     "gbGuid": "3030-18183",
@@ -1568,7 +1867,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb68",
+    "id": "ngb78",
     "igdbId": 73130,
     "gbId": 19879,
     "gbGuid": "3030-19879",
@@ -1591,7 +1890,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb69",
+    "id": "ngb79",
     "igdbId": 49037,
     "gbId": 31052,
     "gbGuid": "3030-31052",
@@ -1614,7 +1913,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb70",
+    "id": "ngb80",
     "igdbId": null,
     "gbId": 3241,
     "gbGuid": "3030-3241",
@@ -1637,7 +1936,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb71",
+    "id": "ngb81",
     "igdbId": 49035,
     "gbId": null,
     "gbGuid": null,
@@ -1660,7 +1959,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb72",
+    "id": "ngb82",
     "igdbId": 18630,
     "gbId": 28016,
     "gbGuid": "3030-28016",
@@ -1683,7 +1982,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb73",
+    "id": "ngb83",
     "igdbId": 1482,
     "gbId": 18815,
     "gbGuid": "3030-18815",
@@ -1706,7 +2005,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb74",
+    "id": "ngb84",
     "igdbId": 48967,
     "gbId": 41286,
     "gbGuid": "3030-41286",
@@ -1729,7 +2028,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb75",
+    "id": "ngb85",
     "igdbId": 48966,
     "gbId": 34751,
     "gbGuid": "3030-34751",
@@ -1752,7 +2051,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb76",
+    "id": "ngb86",
     "igdbId": 48929,
     "gbId": null,
     "gbGuid": null,
@@ -1775,7 +2074,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb77",
+    "id": "ngb87",
     "igdbId": 49034,
     "gbId": 34674,
     "gbGuid": "3030-34674",
@@ -1798,7 +2097,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb78",
+    "id": "ngb88",
     "igdbId": 49050,
     "gbId": 17303,
     "gbGuid": "3030-17303",
@@ -1817,11 +2116,37 @@
     "special": []
   },
   {
+    "name": "Pac-Man",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb89",
+    "igdbId": 2750,
+    "gbId": 7624,
+    "gbGuid": "3030-7624",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Panel Action Bingo",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb79",
+    "id": "ngb90",
     "igdbId": 49031,
     "gbId": null,
     "gbGuid": null,
@@ -1840,11 +2165,89 @@
     "special": []
   },
   {
+    "name": "Pokémon Gold",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb91",
+    "igdbId": 1558,
+    "gbId": 8210,
+    "gbGuid": "3030-8210",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Pokémon Red",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb92",
+    "igdbId": 1561,
+    "gbId": 3966,
+    "gbGuid": "3030-3966",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Pokémon Yellow",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb93",
+    "igdbId": 1512,
+    "gbId": 18673,
+    "gbGuid": "3030-18673",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Popeye",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb80",
+    "id": "ngb94",
     "igdbId": null,
     "gbId": 37309,
     "gbGuid": "3030-37309",
@@ -1867,7 +2270,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb81",
+    "id": "ngb95",
     "igdbId": 12593,
     "gbId": 37306,
     "gbGuid": "3030-37306",
@@ -1890,7 +2293,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb82",
+    "id": "ngb96",
     "igdbId": 49026,
     "gbId": 27985,
     "gbGuid": "3030-27985",
@@ -1913,7 +2316,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb83",
+    "id": "ngb97",
     "igdbId": 49009,
     "gbId": 27398,
     "gbGuid": "3030-27398",
@@ -1936,7 +2339,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb84",
+    "id": "ngb98",
     "igdbId": 48921,
     "gbId": 23928,
     "gbGuid": "3030-23928",
@@ -1959,7 +2362,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb85",
+    "id": "ngb99",
     "igdbId": 49023,
     "gbId": 935,
     "gbGuid": "3030-935",
@@ -1982,7 +2385,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb86",
+    "id": "ngb100",
     "igdbId": 49022,
     "gbId": 39763,
     "gbGuid": "3030-39763",
@@ -2005,7 +2408,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb87",
+    "id": "ngb101",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2028,7 +2431,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb88",
+    "id": "ngb102",
     "igdbId": 49021,
     "gbId": 38932,
     "gbGuid": "3030-38932",
@@ -2051,7 +2454,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb89",
+    "id": "ngb103",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2074,7 +2477,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb90",
+    "id": "ngb104",
     "igdbId": 49020,
     "gbId": 23556,
     "gbGuid": "3030-23556",
@@ -2097,7 +2500,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb91",
+    "id": "ngb105",
     "igdbId": 48942,
     "gbId": 5589,
     "gbGuid": "3030-5589",
@@ -2120,7 +2523,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb92",
+    "id": "ngb106",
     "igdbId": 49019,
     "gbId": 23286,
     "gbGuid": "3030-23286",
@@ -2143,7 +2546,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb93",
+    "id": "ngb107",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2166,7 +2569,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb94",
+    "id": "ngb108",
     "igdbId": 6597,
     "gbId": null,
     "gbGuid": null,
@@ -2189,7 +2592,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb95",
+    "id": "ngb109",
     "igdbId": 48940,
     "gbId": 10870,
     "gbGuid": "3030-10870",
@@ -2212,7 +2615,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb96",
+    "id": "ngb110",
     "igdbId": 48926,
     "gbId": 10954,
     "gbGuid": "3030-10954",
@@ -2235,7 +2638,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb97",
+    "id": "ngb111",
     "igdbId": 79444,
     "gbId": 55728,
     "gbGuid": "3030-55728",
@@ -2258,7 +2661,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb98",
+    "id": "ngb112",
     "igdbId": 2621,
     "gbId": 34772,
     "gbGuid": "3030-34772",
@@ -2281,7 +2684,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb99",
+    "id": "ngb113",
     "igdbId": 48970,
     "gbId": 19400,
     "gbGuid": "3030-19400",
@@ -2304,7 +2707,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb100",
+    "id": "ngb114",
     "igdbId": null,
     "gbId": 15069,
     "gbGuid": "3030-15069",
@@ -2323,11 +2726,37 @@
     "special": []
   },
   {
+    "name": "Star Wars",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb115",
+    "igdbId": 54649,
+    "gbId": 54,
+    "gbGuid": "3030-54",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Stop That Roach!",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb101",
+    "id": "ngb116",
     "igdbId": 49016,
     "gbId": 30685,
     "gbGuid": "3030-30685",
@@ -2350,7 +2779,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb102",
+    "id": "ngb117",
     "igdbId": 49006,
     "gbId": 37292,
     "gbGuid": "3030-37292",
@@ -2373,7 +2802,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb103",
+    "id": "ngb118",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2396,7 +2825,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb104",
+    "id": "ngb119",
     "igdbId": 63969,
     "gbId": 41285,
     "gbGuid": "3030-41285",
@@ -2419,7 +2848,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb105",
+    "id": "ngb120",
     "igdbId": null,
     "gbId": 41287,
     "gbGuid": "3030-41287",
@@ -2442,7 +2871,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb106",
+    "id": "ngb121",
     "igdbId": 49014,
     "gbId": 6458,
     "gbGuid": "3030-6458",
@@ -2461,10 +2890,11 @@
     "special": []
   },
   {
-    "id": "ngb107",
+    "id": "ngb122",
     "name": "Super Mario Land",
     "details": [
-      "Nintendo Game Boy launch title"
+      "Nintendo Game Boy launch title",
+      "Nintendo Game Boy Player's Choice"
     ],
     "igdbId": 1069,
     "gbId": 19834,
@@ -2480,15 +2910,54 @@
         "tgdbId": 4
       }
     ],
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false
+  },
+  {
+    "name": "Super Mario Land 2: 6 Golden Coins",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb123",
+    "igdbId": 1071,
+    "gbId": 14425,
+    "gbGuid": "3030-14425",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
     "isExclusive": false,
-    "special": []
+    "isLaunchTitle": false
   },
   {
     "name": "Super R.C. Pro-AM",
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "Nintendo Game Boy Player's Choice"
     ],
-    "id": "ngb108",
+    "id": "ngb124",
     "igdbId": 9157,
     "gbId": 19111,
     "gbGuid": "3030-19111",
@@ -2503,15 +2972,27 @@
         "tgdbId": 4
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "TV Champion (video game)",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb109",
+    "id": "ngb125",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2534,7 +3015,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb110",
+    "id": "ngb126",
     "igdbId": 49063,
     "gbId": 32272,
     "gbGuid": "3030-32272",
@@ -2557,7 +3038,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb111",
+    "id": "ngb127",
     "igdbId": 49061,
     "gbId": 38965,
     "gbGuid": "3030-38965",
@@ -2580,7 +3061,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb112",
+    "id": "ngb128",
     "igdbId": 19137,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -2603,7 +3084,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb113",
+    "id": "ngb129",
     "igdbId": 18639,
     "gbId": 15414,
     "gbGuid": "3030-15414",
@@ -2626,7 +3107,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb114",
+    "id": "ngb130",
     "igdbId": 48927,
     "gbId": 17952,
     "gbGuid": "3030-17952",
@@ -2649,7 +3130,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb115",
+    "id": "ngb131",
     "igdbId": 48928,
     "gbId": 15797,
     "gbGuid": "3030-15797",
@@ -2668,7 +3149,7 @@
     "special": []
   },
   {
-    "id": "ngb116",
+    "id": "ngb132",
     "name": "Tennis",
     "details": [
       "Nintendo Game Boy launch title"
@@ -2691,10 +3172,37 @@
     "special": []
   },
   {
-    "id": "ngb117",
+    "name": "Tennis",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb133",
+    "igdbId": 20461,
+    "gbId": 20780,
+    "gbGuid": "3030-20780",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "ngb134",
     "name": "Tetris",
     "details": [
-      "Nintendo Game Boy launch title"
+      "Nintendo Game Boy launch title",
+      "Nintendo Game Boy Player's Choice"
     ],
     "igdbId": 86490,
     "gbId": 1896,
@@ -2710,15 +3218,27 @@
         "tgdbId": 4
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
     "name": "The Addams Family",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb118",
+    "id": "ngb135",
     "igdbId": 14208,
     "gbId": 2865,
     "gbGuid": "3030-2865",
@@ -2741,7 +3261,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb119",
+    "id": "ngb136",
     "igdbId": 7745,
     "gbId": 11420,
     "gbGuid": "3030-11420",
@@ -2764,7 +3284,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb120",
+    "id": "ngb137",
     "igdbId": 83898,
     "gbId": 5266,
     "gbGuid": "3030-5266",
@@ -2787,7 +3307,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb121",
+    "id": "ngb138",
     "igdbId": 107330,
     "gbId": 44217,
     "gbGuid": "3030-44217",
@@ -2810,7 +3330,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb122",
+    "id": "ngb139",
     "igdbId": 7814,
     "gbId": 569,
     "gbGuid": "3030-569",
@@ -2829,11 +3349,37 @@
     "special": []
   },
   {
+    "name": "The Legend of Zelda: Link's Awakening",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb140",
+    "igdbId": 1028,
+    "gbId": 3645,
+    "gbGuid": "3030-3645",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "The Real GhostBusters",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb123",
+    "id": "ngb141",
     "igdbId": 81546,
     "gbId": 27203,
     "gbGuid": "3030-27203",
@@ -2856,7 +3402,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb124",
+    "id": "ngb142",
     "igdbId": 2837,
     "gbId": 5737,
     "gbGuid": "3030-5737",
@@ -2879,7 +3425,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb125",
+    "id": "ngb143",
     "igdbId": 2831,
     "gbId": 9730,
     "gbGuid": "3030-9730",
@@ -2902,7 +3448,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb126",
+    "id": "ngb144",
     "igdbId": 8048,
     "gbId": 7456,
     "gbGuid": "3030-7456",
@@ -2925,7 +3471,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb127",
+    "id": "ngb145",
     "igdbId": 8046,
     "gbId": 5782,
     "gbGuid": "3030-5782",
@@ -2948,7 +3494,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb128",
+    "id": "ngb146",
     "igdbId": 22914,
     "gbId": 7182,
     "gbGuid": "3030-7182",
@@ -2971,7 +3517,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb129",
+    "id": "ngb147",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2994,7 +3540,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb130",
+    "id": "ngb148",
     "igdbId": 49059,
     "gbId": 40811,
     "gbGuid": "3030-40811",
@@ -3017,7 +3563,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb131",
+    "id": "ngb149",
     "igdbId": 49058,
     "gbId": 16753,
     "gbGuid": "3030-16753",
@@ -3040,7 +3586,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb132",
+    "id": "ngb150",
     "igdbId": 1325,
     "gbId": 7257,
     "gbGuid": "3030-7257",
@@ -3063,7 +3609,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb133",
+    "id": "ngb151",
     "igdbId": 49057,
     "gbId": 34382,
     "gbGuid": "3030-34382",
@@ -3086,7 +3632,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb134",
+    "id": "ngb152",
     "igdbId": 71941,
     "gbId": 5540,
     "gbGuid": "3030-5540",
@@ -3109,7 +3655,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb135",
+    "id": "ngb153",
     "igdbId": 48918,
     "gbId": 42338,
     "gbGuid": "3030-42338",
@@ -3132,7 +3678,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb136",
+    "id": "ngb154",
     "igdbId": 39424,
     "gbId": 30804,
     "gbGuid": "3030-30804",
@@ -3155,7 +3701,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb137",
+    "id": "ngb155",
     "igdbId": 49054,
     "gbId": 30803,
     "gbGuid": "3030-30803",
@@ -3178,7 +3724,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb138",
+    "id": "ngb156",
     "igdbId": 1713,
     "gbId": 15003,
     "gbGuid": "3030-15003",
@@ -3197,11 +3743,38 @@
     "special": []
   },
   {
+    "name": "Wario Land: Super Mario Land 3",
+    "details": [
+      "Nintendo Game Boy Player's Choice"
+    ],
+    "id": "ngb157",
+    "igdbId": 1072,
+    "gbId": 19225,
+    "gbGuid": "3030-19225",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Wave Race",
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "Nintendo Game Boy Player's Choice"
     ],
-    "id": "ngb139",
+    "id": "ngb158",
     "igdbId": 48915,
     "gbId": 11105,
     "gbGuid": "3030-11105",
@@ -3216,15 +3789,27 @@
         "tgdbId": 4
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo Game Boy Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Who Framed Roger Rabbit",
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb140",
+    "id": "ngb159",
     "igdbId": 75692,
     "gbId": 4274,
     "gbGuid": "3030-4274",
@@ -3247,7 +3832,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb141",
+    "id": "ngb160",
     "igdbId": null,
     "gbId": 23931,
     "gbGuid": "3030-23931",
@@ -3270,7 +3855,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb142",
+    "id": "ngb161",
     "igdbId": 67330,
     "gbId": 29144,
     "gbGuid": "3030-29144",
@@ -3293,7 +3878,7 @@
     "details": [
       "Nintendo Game Boy exclusive"
     ],
-    "id": "ngb143",
+    "id": "ngb162",
     "igdbId": 49053,
     "gbId": 28647,
     "gbGuid": "3030-28647",

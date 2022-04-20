@@ -11,28 +11,32 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/3doLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/wiiULaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/3doExclusives.json'
-  }
+    path: '../../finalOutput/smallFiles/platformExclusives/nintendoWiiUExclusives.json'
+  },
   // {
   //   key: 'special',
   //   path: '../../finalOutput/smallFiles/multiplayer/snesSuperMultitap.json'
-  // }
+  // },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/greatestHits/wiiUNintendoSelects.json'
+  }
   // {
   //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'
+  //   path: '../../finalOutput/smallFiles/greatestHits/gamecubeEuropePlayersChoice.json'
   // }
   // {
   //   key: 'special',
   //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
   // }
 ];
-const mlId = 'ccl35';
-const outPath = '../../finalOutput/consoleLists/3DOInteractiveMultiplayer.json';
-const idPrefix = 'r3do';
+const mlId = 'ccl6';
+const outPath = '../../finalOutput/consoleLists/NintendoWiiU.json';
+const idPrefix = 'wiiu';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

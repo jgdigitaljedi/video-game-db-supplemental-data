@@ -1288,11 +1288,63 @@
     "special": []
   },
   {
+    "name": "Mario Golf",
+    "details": [
+      "Nintendo Game Boy Color Nintendo Select"
+    ],
+    "id": "ngbc56",
+    "igdbId": 135389,
+    "gbId": 29972,
+    "gbGuid": "3030-29972",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Color Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Mario Tennis",
+    "details": [
+      "Nintendo Game Boy Color Nintendo Select"
+    ],
+    "id": "ngbc57",
+    "igdbId": 128874,
+    "gbId": 29973,
+    "gbGuid": "3030-29973",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Color Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Marvin Strikes Back!",
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc56",
+    "id": "ngbc58",
     "igdbId": 49854,
     "gbId": null,
     "gbGuid": null,
@@ -1315,7 +1367,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc57",
+    "id": "ngbc59",
     "igdbId": 5918,
     "gbId": null,
     "gbGuid": null,
@@ -1338,7 +1390,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc58",
+    "id": "ngbc60",
     "igdbId": 49912,
     "gbId": 36935,
     "gbGuid": "3030-36935",
@@ -1361,7 +1413,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc59",
+    "id": "ngbc61",
     "igdbId": 77231,
     "gbId": 21227,
     "gbGuid": "3030-21227",
@@ -1384,7 +1436,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc60",
+    "id": "ngbc62",
     "igdbId": 49872,
     "gbId": 25437,
     "gbGuid": "3030-25437",
@@ -1407,7 +1459,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc61",
+    "id": "ngbc63",
     "igdbId": 8128,
     "gbId": 3125,
     "gbGuid": "3030-3125",
@@ -1430,7 +1482,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc62",
+    "id": "ngbc64",
     "igdbId": 118557,
     "gbId": 1622,
     "gbGuid": "3030-1622",
@@ -1453,7 +1505,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc63",
+    "id": "ngbc65",
     "igdbId": 50026,
     "gbId": 24257,
     "gbGuid": "3030-24257",
@@ -1476,7 +1528,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc64",
+    "id": "ngbc66",
     "igdbId": 104241,
     "gbId": 19994,
     "gbGuid": "3030-19994",
@@ -1499,7 +1551,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc65",
+    "id": "ngbc67",
     "igdbId": 49860,
     "gbId": 4272,
     "gbGuid": "3030-4272",
@@ -1522,7 +1574,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc66",
+    "id": "ngbc68",
     "igdbId": 49903,
     "gbId": null,
     "gbGuid": null,
@@ -1545,7 +1597,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc67",
+    "id": "ngbc69",
     "igdbId": 50549,
     "gbId": 65431,
     "gbGuid": "3030-65431",
@@ -1568,7 +1620,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc68",
+    "id": "ngbc70",
     "igdbId": 50550,
     "gbId": 2035,
     "gbGuid": "3030-2035",
@@ -1591,7 +1643,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc69",
+    "id": "ngbc71",
     "igdbId": 1464,
     "gbId": 2930,
     "gbGuid": "3030-2930",
@@ -1614,7 +1666,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc70",
+    "id": "ngbc72",
     "igdbId": 49861,
     "gbId": 29263,
     "gbGuid": "3030-29263",
@@ -1633,7 +1685,7 @@
     "special": []
   },
   {
-    "id": "ngbc71",
+    "id": "ngbc73",
     "name": "Pocket Bomberman",
     "details": [
       "Nintendo Game Boy Color launch title"
@@ -1660,7 +1712,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc72",
+    "id": "ngbc74",
     "igdbId": 4068,
     "gbId": 19154,
     "gbGuid": "3030-19154",
@@ -1683,7 +1735,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc73",
+    "id": "ngbc75",
     "igdbId": 67765,
     "gbId": 27875,
     "gbGuid": "3030-27875",
@@ -1706,7 +1758,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc74",
+    "id": "ngbc76",
     "igdbId": 3293,
     "gbId": null,
     "gbGuid": null,
@@ -1729,7 +1781,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc75",
+    "id": "ngbc77",
     "igdbId": 49831,
     "gbId": 36958,
     "gbGuid": "3030-36958",
@@ -1752,7 +1804,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc76",
+    "id": "ngbc78",
     "igdbId": 49949,
     "gbId": 22909,
     "gbGuid": "3030-22909",
@@ -1775,7 +1827,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc77",
+    "id": "ngbc79",
     "igdbId": 49892,
     "gbId": 24608,
     "gbGuid": "3030-24608",
@@ -1798,7 +1850,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc78",
+    "id": "ngbc80",
     "igdbId": 969,
     "gbId": null,
     "gbGuid": null,
@@ -1821,7 +1873,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc79",
+    "id": "ngbc81",
     "igdbId": 49858,
     "gbId": 45167,
     "gbGuid": "3030-45167",
@@ -1844,7 +1896,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc80",
+    "id": "ngbc82",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1867,7 +1919,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc81",
+    "id": "ngbc83",
     "igdbId": 50007,
     "gbId": 23128,
     "gbGuid": "3030-23128",
@@ -1890,7 +1942,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc82",
+    "id": "ngbc84",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1913,7 +1965,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc83",
+    "id": "ngbc85",
     "igdbId": 50022,
     "gbId": null,
     "gbGuid": null,
@@ -1936,7 +1988,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc84",
+    "id": "ngbc86",
     "igdbId": 49878,
     "gbId": 32834,
     "gbGuid": "3030-32834",
@@ -1959,7 +2011,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc85",
+    "id": "ngbc87",
     "igdbId": 49968,
     "gbId": null,
     "gbGuid": null,
@@ -1982,7 +2034,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc86",
+    "id": "ngbc88",
     "igdbId": 49969,
     "gbId": 8050,
     "gbGuid": "3030-8050",
@@ -2005,7 +2057,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc87",
+    "id": "ngbc89",
     "igdbId": 49971,
     "gbId": 14254,
     "gbGuid": "3030-14254",
@@ -2028,7 +2080,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc88",
+    "id": "ngbc90",
     "igdbId": 2760,
     "gbId": 4052,
     "gbGuid": "3030-4052",
@@ -2051,7 +2103,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc89",
+    "id": "ngbc91",
     "igdbId": 18950,
     "gbId": 6181,
     "gbGuid": "3030-6181",
@@ -2074,7 +2126,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc90",
+    "id": "ngbc92",
     "igdbId": 154,
     "gbId": 31227,
     "gbGuid": "3030-31227",
@@ -2097,7 +2149,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc91",
+    "id": "ngbc93",
     "igdbId": 50557,
     "gbId": null,
     "gbGuid": null,
@@ -2116,11 +2168,37 @@
     "special": []
   },
   {
+    "name": "Super Mario Bros. Deluxe",
+    "details": [
+      "Nintendo Game Boy Color Nintendo Select"
+    ],
+    "id": "ngbc94",
+    "igdbId": 49877,
+    "gbId": 7314,
+    "gbGuid": "3030-7314",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Color Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Sweet Ange",
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc92",
+    "id": "ngbc95",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2143,7 +2221,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc93",
+    "id": "ngbc96",
     "igdbId": 69114,
     "gbId": 25907,
     "gbGuid": "3030-25907",
@@ -2166,7 +2244,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc94",
+    "id": "ngbc97",
     "igdbId": 49967,
     "gbId": 40985,
     "gbGuid": "3030-40985",
@@ -2189,7 +2267,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc95",
+    "id": "ngbc98",
     "igdbId": 49876,
     "gbId": 706,
     "gbGuid": "3030-706",
@@ -2212,7 +2290,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc96",
+    "id": "ngbc99",
     "igdbId": 49906,
     "gbId": null,
     "gbGuid": null,
@@ -2231,7 +2309,7 @@
     "special": []
   },
   {
-    "id": "ngbc97",
+    "id": "ngbc100",
     "name": "Tetris DX",
     "details": [
       "Nintendo Game Boy Color launch title"
@@ -2258,7 +2336,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc98",
+    "id": "ngbc101",
     "igdbId": 1041,
     "gbId": 8004,
     "gbGuid": "3030-8004",
@@ -2281,7 +2359,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc99",
+    "id": "ngbc102",
     "igdbId": 1032,
     "gbId": 5895,
     "gbGuid": "3030-5895",
@@ -2304,7 +2382,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc100",
+    "id": "ngbc103",
     "igdbId": 3246,
     "gbId": 14137,
     "gbGuid": "3030-14137",
@@ -2327,7 +2405,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc101",
+    "id": "ngbc104",
     "igdbId": 5885,
     "gbId": 8470,
     "gbGuid": "3030-8470",
@@ -2350,7 +2428,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc102",
+    "id": "ngbc105",
     "igdbId": 2840,
     "gbId": 21949,
     "gbGuid": "3030-21949",
@@ -2373,7 +2451,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc103",
+    "id": "ngbc106",
     "igdbId": 8057,
     "gbId": 5597,
     "gbGuid": "3030-5597",
@@ -2396,7 +2474,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc104",
+    "id": "ngbc107",
     "igdbId": 8058,
     "gbId": 3278,
     "gbGuid": "3030-3278",
@@ -2419,7 +2497,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc105",
+    "id": "ngbc108",
     "igdbId": 36878,
     "gbId": 36872,
     "gbGuid": "3030-36872",
@@ -2442,7 +2520,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc106",
+    "id": "ngbc109",
     "igdbId": 49993,
     "gbId": 3237,
     "gbGuid": "3030-3237",
@@ -2465,7 +2543,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc107",
+    "id": "ngbc110",
     "igdbId": 1326,
     "gbId": 7052,
     "gbGuid": "3030-7052",
@@ -2488,7 +2566,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc108",
+    "id": "ngbc111",
     "igdbId": 1328,
     "gbId": 10047,
     "gbGuid": "3030-10047",
@@ -2511,7 +2589,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc109",
+    "id": "ngbc112",
     "igdbId": 1327,
     "gbId": 7962,
     "gbGuid": "3030-7962",
@@ -2534,7 +2612,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc110",
+    "id": "ngbc113",
     "igdbId": 50058,
     "gbId": 55835,
     "gbGuid": "3030-55835",
@@ -2557,7 +2635,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc111",
+    "id": "ngbc114",
     "igdbId": 86361,
     "gbId": 35570,
     "gbGuid": "3030-35570",
@@ -2580,7 +2658,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc112",
+    "id": "ngbc115",
     "igdbId": 49981,
     "gbId": 24982,
     "gbGuid": "3030-24982",
@@ -2603,7 +2681,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc113",
+    "id": "ngbc116",
     "igdbId": 50016,
     "gbId": 8337,
     "gbGuid": "3030-8337",
@@ -2626,7 +2704,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc114",
+    "id": "ngbc117",
     "igdbId": 49874,
     "gbId": 11740,
     "gbGuid": "3030-11740",
@@ -2649,7 +2727,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc115",
+    "id": "ngbc118",
     "igdbId": 49855,
     "gbId": 19779,
     "gbGuid": "3030-19779",
@@ -2672,7 +2750,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc116",
+    "id": "ngbc119",
     "igdbId": 49982,
     "gbId": 65453,
     "gbGuid": "3030-65453",
@@ -2695,7 +2773,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc117",
+    "id": "ngbc120",
     "igdbId": 43561,
     "gbId": 20246,
     "gbGuid": "3030-20246",
@@ -2718,7 +2796,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc118",
+    "id": "ngbc121",
     "igdbId": 49887,
     "gbId": 12288,
     "gbGuid": "3030-12288",
@@ -2741,7 +2819,7 @@
     "details": [
       "Nintendo Game Boy Color exclusive"
     ],
-    "id": "ngbc119",
+    "id": "ngbc122",
     "igdbId": 49899,
     "gbId": 458,
     "gbGuid": "3030-458",

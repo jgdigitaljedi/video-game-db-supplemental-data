@@ -1,10 +1,36 @@
 [
   {
+    "name": "18 Wheeler: American Pro Trucker",
+    "id": "sdc0",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 3706,
+    "gbId": 22445,
+    "gbGuid": "3030-22445",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "4 Wheel Thunder",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc0",
+    "id": "sdc1",
     "igdbId": 3701,
     "gbId": 15821,
     "gbGuid": "3030-15821",
@@ -27,7 +53,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc1",
+    "id": "sdc2",
     "igdbId": 3707,
     "gbId": 45187,
     "gbGuid": "3030-45187",
@@ -50,7 +76,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc2",
+    "id": "sdc3",
     "igdbId": 3709,
     "gbId": 7963,
     "gbGuid": "3030-7963",
@@ -73,7 +99,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc3",
+    "id": "sdc4",
     "igdbId": 3708,
     "gbId": 8209,
     "gbGuid": "3030-8209",
@@ -92,11 +118,37 @@
     "special": []
   },
   {
+    "name": "Airforce Delta",
+    "id": "sdc5",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 3710,
+    "gbId": 7790,
+    "gbGuid": "3030-7790",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Armada",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc4",
+    "id": "sdc6",
     "igdbId": 6713,
     "gbId": 7164,
     "gbGuid": "3030-7164",
@@ -115,8 +167,34 @@
     "special": []
   },
   {
+    "name": "Black/Matrix Advanced",
+    "id": "sdc7",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": null,
+    "gbId": 14237,
+    "gbGuid": "3030-14237",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Blue Stinger",
-    "id": "sdc5",
+    "id": "sdc8",
     "details": [
       "Sega Dreamcast launch title",
       "Sega Dreamcast exclusive"
@@ -152,7 +230,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc6",
+    "id": "sdc9",
     "igdbId": 6716,
     "gbId": 18180,
     "gbGuid": "3030-18180",
@@ -172,7 +250,7 @@
   },
   {
     "name": "CART Flag to Flag",
-    "id": "sdc7",
+    "id": "sdc10",
     "details": [
       "Sega Dreamcast launch title",
       "Sega Dreamcast exclusive"
@@ -204,11 +282,37 @@
     "special": []
   },
   {
+    "name": "Capcom vs. SNK: Millennium Fight 2000 Pro",
+    "id": "sdc11",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 45829,
+    "gbId": 5640,
+    "gbGuid": "3030-5640",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Carrier",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc8",
+    "id": "sdc12",
     "igdbId": 6720,
     "gbId": 13518,
     "gbGuid": "3030-13518",
@@ -227,11 +331,63 @@
     "special": []
   },
   {
+    "name": "Castle Fantasia: Seimadaisen",
+    "id": "sdc13",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 78008,
+    "gbId": 11163,
+    "gbGuid": "3030-11163",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Close to: Inori no Oka",
+    "id": "sdc14",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 196027,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Coaster Works",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc9",
+    "id": "sdc15",
     "igdbId": 6725,
     "gbId": 38082,
     "gbGuid": "3030-38082",
@@ -250,11 +406,89 @@
     "special": []
   },
   {
+    "name": "Comic Party",
+    "id": "sdc16",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 80719,
+    "gbId": 23687,
+    "gbGuid": "3030-23687",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Confidential Mission",
+    "id": "sdc17",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 6726,
+    "gbId": 15008,
+    "gbGuid": "3030-15008",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Cool Boarders Burrrn!",
+    "id": "sdc18",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 45784,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Cool Cool Toon",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc10",
+    "id": "sdc19",
     "igdbId": 6728,
     "gbId": 21422,
     "gbGuid": "3030-21422",
@@ -273,11 +507,64 @@
     "special": []
   },
   {
+    "name": "Crazy Taxi",
+    "details": [
+      "Sega All-Stars game (NA)"
+    ],
+    "id": "sdc20",
+    "igdbId": 1805,
+    "gbId": 9112,
+    "gbGuid": "3030-9112",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Crazy Taxi 2",
+    "id": "sdc21",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 1806,
+    "gbId": 18195,
+    "gbGuid": "3030-18195",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Culdcept II",
     "details": [
-      "Sega Dreamcast exclusive"
+      "Sega Dreamcast exclusive",
+      "Sega All-Stars game (JP)"
     ],
-    "id": "sdc11",
+    "id": "sdc22",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -292,15 +579,105 @@
         "tgdbId": 16
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Culdcept II",
+    "id": "sdc23",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 137524,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Cyber Troopers Virtual-On Oratorio Tangram",
+    "id": "sdc24",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 9190,
+    "gbId": 4819,
+    "gbGuid": "3030-4819",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "D+Vine [Luv]",
+    "id": "sdc25",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": null,
+    "gbId": 85882,
+    "gbGuid": "3030-85882",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "D2",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc12",
+    "id": "sdc26",
     "igdbId": 36736,
     "gbId": 18898,
     "gbGuid": "3030-18898",
@@ -323,7 +700,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc13",
+    "id": "sdc27",
     "igdbId": 22007,
     "gbId": null,
     "gbGuid": null,
@@ -346,7 +723,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc14",
+    "id": "sdc28",
     "igdbId": 9189,
     "gbId": 7960,
     "gbGuid": "3030-7960",
@@ -369,7 +746,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc15",
+    "id": "sdc29",
     "igdbId": 68409,
     "gbId": 26362,
     "gbGuid": "3030-26362",
@@ -392,7 +769,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc16",
+    "id": "sdc30",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -415,7 +792,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc17",
+    "id": "sdc31",
     "igdbId": 45862,
     "gbId": 4499,
     "gbGuid": "3030-4499",
@@ -434,11 +811,37 @@
     "special": []
   },
   {
+    "name": "Ever17: The Out of Infinity",
+    "id": "sdc32",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 18037,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Evolution",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc18",
+    "id": "sdc33",
     "igdbId": 23132,
     "gbId": 4202,
     "gbGuid": "3030-4202",
@@ -461,7 +864,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc19",
+    "id": "sdc34",
     "igdbId": 45858,
     "gbId": 10842,
     "gbGuid": "3030-10842",
@@ -480,11 +883,37 @@
     "special": []
   },
   {
+    "name": "Fighting Vipers 2",
+    "id": "sdc35",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 39447,
+    "gbId": 13923,
+    "gbGuid": "3030-13923",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Floigan Bros.: Episode 1",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc20",
+    "id": "sdc36",
     "igdbId": 22050,
     "gbId": null,
     "gbGuid": null,
@@ -507,7 +936,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc21",
+    "id": "sdc37",
     "igdbId": 10908,
     "gbId": 29057,
     "gbGuid": "3030-29057",
@@ -530,7 +959,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc22",
+    "id": "sdc38",
     "igdbId": 4354,
     "gbId": 8649,
     "gbGuid": "3030-8649",
@@ -553,7 +982,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc23",
+    "id": "sdc39",
     "igdbId": 45824,
     "gbId": 22855,
     "gbGuid": "3030-22855",
@@ -572,11 +1001,63 @@
     "special": []
   },
   {
+    "name": "Grandia II",
+    "id": "sdc40",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 9580,
+    "gbId": 10129,
+    "gbGuid": "3030-10129",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Guilty Gear X",
+    "id": "sdc41",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 9141,
+    "gbId": 3978,
+    "gbGuid": "3030-3978",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Gundam Side Story 0079: Rise From the Ashes",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc24",
+    "id": "sdc42",
     "igdbId": 45859,
     "gbId": 21439,
     "gbGuid": "3030-21439",
@@ -595,10 +1076,63 @@
     "special": []
   },
   {
-    "name": "Hydro Thunder",
-    "id": "sdc25",
+    "name": "Hanagumi Taisen Columns 2",
+    "id": "sdc43",
     "details": [
-      "Sega Dreamcast launch title"
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 81567,
+    "gbId": 35912,
+    "gbGuid": "3030-35912",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Happy Lesson",
+    "id": "sdc44",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 78643,
+    "gbId": 25182,
+    "gbGuid": "3030-25182",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Hydro Thunder",
+    "id": "sdc45",
+    "details": [
+      "Sega Dreamcast launch title",
+      "Sega All-Stars game (NA)"
     ],
     "igdbId": 3370,
     "gbId": 13241,
@@ -614,15 +1148,27 @@
         "tgdbId": 16
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
     "name": "Illbleed",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc26",
+    "id": "sdc46",
     "igdbId": 26450,
     "gbId": 126,
     "gbGuid": "3030-126",
@@ -641,11 +1187,37 @@
     "special": []
   },
   {
+    "name": "Interlude",
+    "id": "sdc47",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 139421,
+    "gbId": 39326,
+    "gbGuid": "3030-39326",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Iron Aces",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc27",
+    "id": "sdc48",
     "igdbId": 45853,
     "gbId": 13397,
     "gbGuid": "3030-13397",
@@ -668,7 +1240,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc28",
+    "id": "sdc49",
     "igdbId": 45799,
     "gbId": 27575,
     "gbGuid": "3030-27575",
@@ -687,11 +1259,63 @@
     "special": []
   },
   {
+    "name": "Martian Successor Nadesico: Nadesico the Mission",
+    "id": "sdc50",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 125366,
+    "gbId": 75963,
+    "gbGuid": "3030-75963",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Marvel vs. Capcom: Clash of Super Heroes",
+    "details": [
+      "Sega All-Stars game (NA)"
+    ],
+    "id": "sdc51",
+    "igdbId": 8246,
+    "gbId": 8605,
+    "gbGuid": "3030-8605",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Max Steel: Covert Missions",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc29",
+    "id": "sdc52",
     "igdbId": 4352,
     "gbId": 17376,
     "gbGuid": "3030-17376",
@@ -710,11 +1334,63 @@
     "special": []
   },
   {
+    "name": "Memories Off 2nd",
+    "id": "sdc53",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 78209,
+    "gbId": 26570,
+    "gbGuid": "3030-26570",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Mercurius Pretty: End of the Century",
+    "id": "sdc54",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 66277,
+    "gbId": 33176,
+    "gbGuid": "3030-33176",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Metropolis Street Racer",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc30",
+    "id": "sdc55",
     "igdbId": 3319,
     "gbId": 3027,
     "gbGuid": "3030-3027",
@@ -734,7 +1410,7 @@
   },
   {
     "name": "Millennium Soldier Expendable",
-    "id": "sdc31",
+    "id": "sdc56",
     "details": [
       "Sega Dreamcast launch title"
     ],
@@ -757,7 +1433,7 @@
   },
   {
     "name": "Monaco Grand Prix",
-    "id": "sdc32",
+    "id": "sdc57",
     "details": [
       "Sega Dreamcast launch title"
     ],
@@ -780,7 +1456,7 @@
   },
   {
     "name": "Mortal Kombat Gold",
-    "id": "sdc33",
+    "id": "sdc58",
     "details": [
       "Sega Dreamcast launch title",
       "Sega Dreamcast exclusive"
@@ -814,9 +1490,10 @@
   {
     "name": "NBA 2K",
     "details": [
-      "Sega Dreamcast exclusive"
+      "Sega Dreamcast exclusive",
+      "Sega All-Stars game (NA)"
     ],
-    "id": "sdc34",
+    "id": "sdc59",
     "igdbId": 8832,
     "gbId": 6839,
     "gbGuid": "3030-6839",
@@ -831,15 +1508,28 @@
         "tgdbId": 16
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "NBA 2K1",
     "details": [
-      "Sega Dreamcast exclusive"
+      "Sega Dreamcast exclusive",
+      "Sega All-Stars game (NA)"
     ],
-    "id": "sdc35",
+    "id": "sdc60",
     "igdbId": 28836,
     "gbId": 16896,
     "gbGuid": "3030-16896",
@@ -854,15 +1544,27 @@
         "tgdbId": 16
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "NCAA College Football 2K2",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc36",
+    "id": "sdc61",
     "igdbId": 46380,
     "gbId": 7532,
     "gbGuid": "3030-7532",
@@ -882,10 +1584,12 @@
   },
   {
     "name": "NFL 2K",
-    "id": "sdc37",
+    "id": "sdc62",
     "details": [
       "Sega Dreamcast launch title",
-      "Sega Dreamcast exclusive"
+      "Sega Dreamcast exclusive",
+      "Sega All-Stars game (JP)",
+      "Sega All-Stars game (NA)"
     ],
     "igdbId": 8842,
     "gbId": 4659,
@@ -911,14 +1615,38 @@
         "tgdbId": 16
       }
     ],
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      },
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ]
   },
   {
     "name": "NFL 2K1",
     "details": [
-      "Sega Dreamcast exclusive"
+      "Sega Dreamcast exclusive",
+      "Sega All-Stars game (NA)"
     ],
-    "id": "sdc38",
+    "id": "sdc63",
     "igdbId": 8843,
     "gbId": 805,
     "gbGuid": "3030-805",
@@ -933,14 +1661,27 @@
         "tgdbId": 16
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "NFL Blitz 2000",
-    "id": "sdc39",
+    "id": "sdc64",
     "details": [
-      "Sega Dreamcast launch title"
+      "Sega Dreamcast launch title",
+      "Sega All-Stars game (NA)"
     ],
     "igdbId": 4366,
     "gbId": 2849,
@@ -956,15 +1697,28 @@
         "tgdbId": 16
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
     "name": "NHL 2K",
     "details": [
-      "Sega Dreamcast exclusive"
+      "Sega Dreamcast exclusive",
+      "Sega All-Stars game (NA)"
     ],
-    "id": "sdc40",
+    "id": "sdc65",
     "igdbId": 8839,
     "gbId": 16447,
     "gbGuid": "3030-16447",
@@ -979,15 +1733,27 @@
         "tgdbId": 16
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "NHL 2K2",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc41",
+    "id": "sdc66",
     "igdbId": 8840,
     "gbId": 21789,
     "gbGuid": "3030-21789",
@@ -1010,7 +1776,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc42",
+    "id": "sdc67",
     "igdbId": 108772,
     "gbId": 69415,
     "gbGuid": "3030-69415",
@@ -1031,9 +1797,10 @@
   {
     "name": "Napple Tale: Arsia in Daydream",
     "details": [
-      "Sega Dreamcast exclusive"
+      "Sega Dreamcast exclusive",
+      "Sega All-Stars game (JP)"
     ],
-    "id": "sdc43",
+    "id": "sdc68",
     "igdbId": 28152,
     "gbId": 19006,
     "gbGuid": "3030-19006",
@@ -1048,15 +1815,53 @@
         "tgdbId": 16
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Never 7: The End of Infinity",
+    "id": "sdc69",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 18018,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Ooga Booga",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc44",
+    "id": "sdc70",
     "igdbId": 10961,
     "gbId": 13790,
     "gbGuid": "3030-13790",
@@ -1079,7 +1884,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc45",
+    "id": "sdc71",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1099,7 +1904,7 @@
   },
   {
     "name": "Pen Pen TriIcelon",
-    "id": "sdc46",
+    "id": "sdc72",
     "details": [
       "Sega Dreamcast launch title",
       "Sega Dreamcast exclusive"
@@ -1132,9 +1937,10 @@
   },
   {
     "name": "Power Stone",
-    "id": "sdc47",
+    "id": "sdc73",
     "details": [
-      "Sega Dreamcast launch title"
+      "Sega Dreamcast launch title",
+      "Sega All-Stars game (NA)"
     ],
     "igdbId": 4355,
     "gbId": 20100,
@@ -1150,15 +1956,105 @@
         "tgdbId": 16
       }
     ],
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false
+  },
+  {
+    "name": "Power Stone 2",
+    "id": "sdc74",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 13106,
+    "gbId": 3712,
+    "gbGuid": "3030-3712",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
     "isExclusive": false,
-    "special": []
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Princess Maker Collection",
+    "id": "sdc75",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 78302,
+    "gbId": 39219,
+    "gbGuid": "3030-39219",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Project Justice",
+    "id": "sdc76",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 13096,
+    "gbId": 4348,
+    "gbGuid": "3030-4348",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Propeller Arena",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc48",
+    "id": "sdc77",
     "igdbId": 46555,
     "gbId": 24986,
     "gbGuid": "3030-24986",
@@ -1177,10 +2073,37 @@
     "special": []
   },
   {
-    "name": "Ready 2 Rumble Boxing",
-    "id": "sdc49",
+    "name": "Puyo Pop Fever",
+    "id": "sdc78",
     "details": [
-      "Sega Dreamcast launch title"
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 4075,
+    "gbId": 7226,
+    "gbGuid": "3030-7226",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Ready 2 Rumble Boxing",
+    "id": "sdc79",
+    "details": [
+      "Sega Dreamcast launch title",
+      "Sega All-Stars game (NA)"
     ],
     "igdbId": 3586,
     "gbId": 19836,
@@ -1196,15 +2119,28 @@
         "tgdbId": 16
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
     "name": "Record of Lodoss War",
     "details": [
-      "Sega Dreamcast exclusive"
+      "Sega Dreamcast exclusive",
+      "Sega All-Stars game (JP)"
     ],
-    "id": "sdc50",
+    "id": "sdc80",
     "igdbId": 69656,
     "gbId": 11521,
     "gbGuid": "3030-11521",
@@ -1219,15 +2155,27 @@
         "tgdbId": 16
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Red Dog: Superior Firepower",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc51",
+    "id": "sdc81",
     "igdbId": 45835,
     "gbId": 5326,
     "gbGuid": "3030-5326",
@@ -1250,7 +2198,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc52",
+    "id": "sdc82",
     "igdbId": 26132,
     "gbId": null,
     "gbGuid": null,
@@ -1273,7 +2221,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc53",
+    "id": "sdc83",
     "igdbId": 44900,
     "gbId": 39126,
     "gbGuid": "3030-39126",
@@ -1296,7 +2244,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc54",
+    "id": "sdc84",
     "igdbId": 43599,
     "gbId": 39127,
     "gbGuid": "3030-39127",
@@ -1315,11 +2263,38 @@
     "special": []
   },
   {
+    "name": "Sega Bass Fishing",
+    "details": [
+      "Sega All-Stars game (NA)"
+    ],
+    "id": "sdc85",
+    "igdbId": 5147,
+    "gbId": 10998,
+    "gbGuid": "3030-10998",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Segagaga",
     "details": [
-      "Sega Dreamcast exclusive"
+      "Sega Dreamcast exclusive",
+      "Sega All-Stars game (JP)"
     ],
-    "id": "sdc55",
+    "id": "sdc86",
     "igdbId": 28151,
     "gbId": 2259,
     "gbGuid": "3030-2259",
@@ -1334,15 +2309,27 @@
         "tgdbId": 16
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Seventh Cross Evolution",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc56",
+    "id": "sdc87",
     "igdbId": 45788,
     "gbId": 4047,
     "gbGuid": "3030-4047",
@@ -1361,10 +2348,37 @@
     "special": []
   },
   {
-    "name": "Sonic Adventure",
-    "id": "sdc57",
+    "name": "Shenmue II",
+    "id": "sdc88",
     "details": [
-      "Sega Dreamcast launch title"
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 1218,
+    "gbId": 1187,
+    "gbGuid": "3030-1187",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Sonic Adventure",
+    "id": "sdc89",
+    "details": [
+      "Sega Dreamcast launch title",
+      "Sega All-Stars game (NA)"
     ],
     "igdbId": 7860,
     "gbId": 7852,
@@ -1380,15 +2394,27 @@
         "tgdbId": 16
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
     "name": "Sonic Shuffle",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc58",
+    "id": "sdc90",
     "igdbId": 21969,
     "gbId": 2819,
     "gbGuid": "3030-2819",
@@ -1411,7 +2437,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc59",
+    "id": "sdc91",
     "igdbId": 45840,
     "gbId": 11592,
     "gbGuid": "3030-11592",
@@ -1431,7 +2457,7 @@
   },
   {
     "name": "SoulCalibur",
-    "id": "sdc60",
+    "id": "sdc92",
     "details": [
       "Sega Dreamcast launch title"
     ],
@@ -1453,11 +2479,37 @@
     "special": []
   },
   {
+    "name": "Space Channel 5",
+    "id": "sdc93",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 6602,
+    "gbId": 7466,
+    "gbGuid": "3030-7466",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Street Fighter III: Double Impact",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc61",
+    "id": "sdc94",
     "igdbId": 45194,
     "gbId": 28446,
     "gbGuid": "3030-28446",
@@ -1480,7 +2532,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc62",
+    "id": "sdc95",
     "igdbId": 9126,
     "gbId": 36873,
     "gbGuid": "3030-36873",
@@ -1503,7 +2555,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc63",
+    "id": "sdc96",
     "igdbId": 45863,
     "gbId": 20208,
     "gbGuid": "3030-20208",
@@ -1526,7 +2578,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc64",
+    "id": "sdc97",
     "igdbId": 45804,
     "gbId": 19097,
     "gbGuid": "3030-19097",
@@ -1549,7 +2601,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc65",
+    "id": "sdc98",
     "igdbId": 28840,
     "gbId": 5405,
     "gbGuid": "3030-5405",
@@ -1569,7 +2621,7 @@
   },
   {
     "name": "TNN Motorsports Hardcore Heat",
-    "id": "sdc66",
+    "id": "sdc99",
     "details": [
       "Sega Dreamcast launch title",
       "Sega Dreamcast exclusive"
@@ -1601,10 +2653,37 @@
     "special": []
   },
   {
-    "name": "The House of the Dead 2",
-    "id": "sdc67",
+    "name": "Tako no Marine",
+    "id": "sdc100",
     "details": [
-      "Sega Dreamcast launch title"
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 107647,
+    "gbId": 69456,
+    "gbGuid": "3030-69456",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "The House of the Dead 2",
+    "id": "sdc101",
+    "details": [
+      "Sega Dreamcast launch title",
+      "Sega All-Stars game (NA)"
     ],
     "igdbId": 13777,
     "gbId": 422,
@@ -1620,15 +2699,131 @@
         "tgdbId": 16
       }
     ],
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false
+  },
+  {
+    "name": "The King of Fighters 2000",
+    "id": "sdc102",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 15431,
+    "gbId": 15728,
+    "gbGuid": "3030-15728",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
     "isExclusive": false,
-    "special": []
+    "isLaunchTitle": false
+  },
+  {
+    "name": "The King of Fighters 2001",
+    "id": "sdc103",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 15432,
+    "gbId": 449,
+    "gbGuid": "3030-449",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "The King of Fighters 2002",
+    "id": "sdc104",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 5884,
+    "gbId": 7581,
+    "gbGuid": "3030-7581",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "The King of Fighters: Dream Match 1999",
+    "id": "sdc105",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 45861,
+    "gbId": 6452,
+    "gbGuid": "3030-6452",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "The Lost Golem",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc68",
+    "id": "sdc106",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1651,7 +2846,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc69",
+    "id": "sdc107",
     "igdbId": 45832,
     "gbId": 22224,
     "gbGuid": "3030-22224",
@@ -1674,7 +2869,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc70",
+    "id": "sdc108",
     "igdbId": 45846,
     "gbId": 3784,
     "gbGuid": "3030-3784",
@@ -1694,7 +2889,7 @@
   },
   {
     "name": "Tokyo Xtreme Racer",
-    "id": "sdc71",
+    "id": "sdc109",
     "details": [
       "Sega Dreamcast launch title"
     ],
@@ -1720,7 +2915,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc72",
+    "id": "sdc110",
     "igdbId": 4359,
     "gbId": 5397,
     "gbGuid": "3030-5397",
@@ -1739,11 +2934,37 @@
     "special": []
   },
   {
+    "name": "Tony Hawk's Pro Skater",
+    "details": [
+      "Sega All-Stars game (NA)"
+    ],
+    "id": "sdc111",
+    "igdbId": 6692,
+    "gbId": 7236,
+    "gbGuid": "3030-7236",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Toy Commander",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc73",
+    "id": "sdc112",
     "igdbId": 10125,
     "gbId": 3544,
     "gbGuid": "3030-3544",
@@ -1763,7 +2984,7 @@
   },
   {
     "name": "TrickStyle",
-    "id": "sdc74",
+    "id": "sdc113",
     "details": [
       "Sega Dreamcast launch title"
     ],
@@ -1789,7 +3010,7 @@
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc75",
+    "id": "sdc114",
     "igdbId": 86084,
     "gbId": 19118,
     "gbGuid": "3030-19118",
@@ -1808,11 +3029,38 @@
     "special": []
   },
   {
+    "name": "Virtua Tennis",
+    "details": [
+      "Sega All-Stars game (NA)"
+    ],
+    "id": "sdc115",
+    "igdbId": 6291,
+    "gbId": 10676,
+    "gbGuid": "3030-10676",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "World Series Baseball 2K1",
     "details": [
-      "Sega Dreamcast exclusive"
+      "Sega Dreamcast exclusive",
+      "Sega All-Stars game (NA)"
     ],
-    "id": "sdc76",
+    "id": "sdc116",
     "igdbId": 45849,
     "gbId": 15930,
     "gbGuid": "3030-15930",
@@ -1827,15 +3075,79 @@
         "tgdbId": 16
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sega All-Stars game (NA)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Yume no Tsubasa",
+    "id": "sdc117",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 166390,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Zero Gunner 2",
+    "id": "sdc118",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "igdbId": 21014,
+    "gbId": 15418,
+    "gbGuid": "3030-15418",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Zusar Vasar",
     "details": [
       "Sega Dreamcast exclusive"
     ],
-    "id": "sdc77",
+    "id": "sdc119",
     "igdbId": 58167,
     "gbId": 54592,
     "gbGuid": "3030-54592",

@@ -907,7 +907,33 @@
     "special": []
   },
   {
+    "name": "Castlevania: Aria of Sorrow",
+    "details": [
+      "Nintendo Game Boy Advance Player's Choice"
+    ],
     "id": "gba39",
+    "igdbId": 1134,
+    "gbId": 12036,
+    "gbGuid": "3030-12036",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Advance Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Advance",
+          "id": "ccl10",
+          "igdbId": 24,
+          "gbId": 4,
+          "gbGuid": "3045-4",
+          "tgdbId": 5
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "gba40",
     "name": "Castlevania: Circle of the Moon",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -934,7 +960,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba40",
+    "id": "gba41",
     "igdbId": 4165,
     "gbId": null,
     "gbGuid": null,
@@ -953,7 +979,7 @@
     "special": []
   },
   {
-    "id": "gba41",
+    "id": "gba42",
     "name": "ChuChu Rocket!",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -980,7 +1006,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba42",
+    "id": "gba43",
     "igdbId": 49159,
     "gbId": 44077,
     "gbGuid": "3030-44077",
@@ -1003,7 +1029,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba43",
+    "id": "gba44",
     "igdbId": 6350,
     "gbId": 1271,
     "gbGuid": "3030-1271",
@@ -1026,7 +1052,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba44",
+    "id": "gba45",
     "igdbId": 1198,
     "gbId": 355,
     "gbGuid": "3030-355",
@@ -1049,7 +1075,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba45",
+    "id": "gba46",
     "igdbId": 1197,
     "gbId": 7659,
     "gbGuid": "3030-7659",
@@ -1072,7 +1098,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba46",
+    "id": "gba47",
     "igdbId": 1808,
     "gbId": 18611,
     "gbGuid": "3030-18611",
@@ -1095,7 +1121,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba47",
+    "id": "gba48",
     "igdbId": 49191,
     "gbId": 3281,
     "gbGuid": "3030-3281",
@@ -1118,7 +1144,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba48",
+    "id": "gba49",
     "igdbId": 3867,
     "gbId": 24914,
     "gbGuid": "3030-24914",
@@ -1141,7 +1167,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba49",
+    "id": "gba50",
     "igdbId": 3464,
     "gbId": 24883,
     "gbGuid": "3030-24883",
@@ -1164,7 +1190,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba50",
+    "id": "gba51",
     "igdbId": 18254,
     "gbId": 5795,
     "gbGuid": "3030-5795",
@@ -1187,7 +1213,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba51",
+    "id": "gba52",
     "igdbId": 6367,
     "gbId": 14972,
     "gbGuid": "3030-14972",
@@ -1210,7 +1236,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba52",
+    "id": "gba53",
     "igdbId": 6368,
     "gbId": 3238,
     "gbGuid": "3030-3238",
@@ -1233,7 +1259,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba53",
+    "id": "gba54",
     "igdbId": 3872,
     "gbId": 3032,
     "gbGuid": "3030-3032",
@@ -1256,7 +1282,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba54",
+    "id": "gba55",
     "igdbId": null,
     "gbId": 24006,
     "gbGuid": "3030-24006",
@@ -1279,7 +1305,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba55",
+    "id": "gba56",
     "igdbId": 6371,
     "gbId": 15298,
     "gbGuid": "3030-15298",
@@ -1302,7 +1328,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba56",
+    "id": "gba57",
     "igdbId": 6372,
     "gbId": 14855,
     "gbGuid": "3030-14855",
@@ -1325,7 +1351,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba57",
+    "id": "gba58",
     "igdbId": 6373,
     "gbId": 23934,
     "gbGuid": "3030-23934",
@@ -1348,7 +1374,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba58",
+    "id": "gba59",
     "igdbId": 2813,
     "gbId": 23935,
     "gbGuid": "3030-23935",
@@ -1371,7 +1397,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba59",
+    "id": "gba60",
     "igdbId": 6376,
     "gbId": 10806,
     "gbGuid": "3030-10806",
@@ -1394,7 +1420,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba60",
+    "id": "gba61",
     "igdbId": 6378,
     "gbId": 46010,
     "gbGuid": "3030-46010",
@@ -1417,7 +1443,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba61",
+    "id": "gba62",
     "igdbId": 3006,
     "gbId": 19647,
     "gbGuid": "3030-19647",
@@ -1440,7 +1466,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba62",
+    "id": "gba63",
     "igdbId": 49408,
     "gbId": null,
     "gbGuid": null,
@@ -1463,7 +1489,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba63",
+    "id": "gba64",
     "igdbId": 25912,
     "gbId": 2811,
     "gbGuid": "3030-2811",
@@ -1486,7 +1512,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba64",
+    "id": "gba65",
     "igdbId": 3886,
     "gbId": 404,
     "gbGuid": "3030-404",
@@ -1509,7 +1535,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba65",
+    "id": "gba66",
     "igdbId": 49339,
     "gbId": 16908,
     "gbGuid": "3030-16908",
@@ -1532,7 +1558,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba66",
+    "id": "gba67",
     "igdbId": 49272,
     "gbId": 19921,
     "gbGuid": "3030-19921",
@@ -1555,7 +1581,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba67",
+    "id": "gba68",
     "igdbId": 3781,
     "gbId": 16805,
     "gbGuid": "3030-16805",
@@ -1578,7 +1604,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba68",
+    "id": "gba69",
     "igdbId": 6382,
     "gbId": null,
     "gbGuid": null,
@@ -1601,7 +1627,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba69",
+    "id": "gba70",
     "igdbId": 6383,
     "gbId": null,
     "gbGuid": null,
@@ -1624,7 +1650,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba70",
+    "id": "gba71",
     "igdbId": 6384,
     "gbId": 20754,
     "gbGuid": "3030-20754",
@@ -1647,7 +1673,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba71",
+    "id": "gba72",
     "igdbId": 3895,
     "gbId": 8035,
     "gbGuid": "3030-8035",
@@ -1670,7 +1696,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba72",
+    "id": "gba73",
     "igdbId": 6354,
     "gbId": 57721,
     "gbGuid": "3030-57721",
@@ -1693,7 +1719,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba73",
+    "id": "gba74",
     "igdbId": 24269,
     "gbId": 15454,
     "gbGuid": "3030-15454",
@@ -1716,7 +1742,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba74",
+    "id": "gba75",
     "igdbId": 6387,
     "gbId": 3510,
     "gbGuid": "3030-3510",
@@ -1739,7 +1765,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba75",
+    "id": "gba76",
     "igdbId": 6386,
     "gbId": 9872,
     "gbGuid": "3030-9872",
@@ -1762,7 +1788,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba76",
+    "id": "gba77",
     "igdbId": 6388,
     "gbId": 24011,
     "gbGuid": "3030-24011",
@@ -1785,7 +1811,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba77",
+    "id": "gba78",
     "igdbId": 3766,
     "gbId": 24443,
     "gbGuid": "3030-24443",
@@ -1808,7 +1834,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba78",
+    "id": "gba79",
     "igdbId": 6395,
     "gbId": null,
     "gbGuid": null,
@@ -1831,7 +1857,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba79",
+    "id": "gba80",
     "igdbId": 6392,
     "gbId": 14248,
     "gbGuid": "3030-14248",
@@ -1854,7 +1880,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba80",
+    "id": "gba81",
     "igdbId": 6393,
     "gbId": 2729,
     "gbGuid": "3030-2729",
@@ -1877,7 +1903,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba81",
+    "id": "gba82",
     "igdbId": 49197,
     "gbId": 18058,
     "gbGuid": "3030-18058",
@@ -1900,7 +1926,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba82",
+    "id": "gba83",
     "igdbId": 6394,
     "gbId": 10702,
     "gbGuid": "3030-10702",
@@ -1923,7 +1949,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba83",
+    "id": "gba84",
     "igdbId": 6397,
     "gbId": 22200,
     "gbGuid": "3030-22200",
@@ -1946,7 +1972,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba84",
+    "id": "gba85",
     "igdbId": 3905,
     "gbId": 20023,
     "gbGuid": "3030-20023",
@@ -1965,7 +1991,7 @@
     "special": []
   },
   {
-    "id": "gba85",
+    "id": "gba86",
     "name": "Earthworm Jim",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -1992,7 +2018,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba86",
+    "id": "gba87",
     "igdbId": 6396,
     "gbId": 15516,
     "gbGuid": "3030-15516",
@@ -2015,7 +2041,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba87",
+    "id": "gba88",
     "igdbId": 2816,
     "gbId": 6495,
     "gbGuid": "3030-6495",
@@ -2038,7 +2064,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba88",
+    "id": "gba89",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2061,7 +2087,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba89",
+    "id": "gba90",
     "igdbId": 49284,
     "gbId": 12706,
     "gbGuid": "3030-12706",
@@ -2080,7 +2106,7 @@
     "special": []
   },
   {
-    "id": "gba90",
+    "id": "gba91",
     "name": "F-Zero: Maximum Velocity",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -2107,7 +2133,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba91",
+    "id": "gba92",
     "igdbId": 6406,
     "gbId": null,
     "gbGuid": null,
@@ -2126,7 +2152,7 @@
     "special": []
   },
   {
-    "id": "gba92",
+    "id": "gba93",
     "name": "Fire Pro Wrestling",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -2153,7 +2179,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba93",
+    "id": "gba94",
     "igdbId": 6409,
     "gbId": 30955,
     "gbGuid": "3030-30955",
@@ -2176,7 +2202,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba94",
+    "id": "gba95",
     "igdbId": 11465,
     "gbId": 11903,
     "gbGuid": "3030-11903",
@@ -2199,7 +2225,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba95",
+    "id": "gba96",
     "igdbId": 6412,
     "gbId": 4859,
     "gbGuid": "3030-4859",
@@ -2222,7 +2248,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba96",
+    "id": "gba97",
     "igdbId": 6411,
     "gbId": 9886,
     "gbGuid": "3030-9886",
@@ -2245,7 +2271,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba97",
+    "id": "gba98",
     "igdbId": 6425,
     "gbId": 12194,
     "gbGuid": "3030-12194",
@@ -2268,7 +2294,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba98",
+    "id": "gba99",
     "igdbId": 6426,
     "gbId": 13599,
     "gbGuid": "3030-13599",
@@ -2287,7 +2313,7 @@
     "special": []
   },
   {
-    "id": "gba99",
+    "id": "gba100",
     "name": "GT Advance Championship Racing",
     "details": [
       "Nintendo Game Boy Advance launch title",
@@ -2324,7 +2350,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba100",
+    "id": "gba101",
     "igdbId": 4088,
     "gbId": 15562,
     "gbGuid": "3030-15562",
@@ -2347,7 +2373,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba101",
+    "id": "gba102",
     "igdbId": 6417,
     "gbId": 39231,
     "gbGuid": "3030-39231",
@@ -2370,7 +2396,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba102",
+    "id": "gba103",
     "igdbId": 6416,
     "gbId": 3647,
     "gbGuid": "3030-3647",
@@ -2393,7 +2419,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba103",
+    "id": "gba104",
     "igdbId": 1451,
     "gbId": 19925,
     "gbGuid": "3030-19925",
@@ -2416,7 +2442,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba104",
+    "id": "gba105",
     "igdbId": 6421,
     "gbId": 15623,
     "gbGuid": "3030-15623",
@@ -2439,7 +2465,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba105",
+    "id": "gba106",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2462,7 +2488,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba106",
+    "id": "gba107",
     "igdbId": 1487,
     "gbId": null,
     "gbGuid": null,
@@ -2485,7 +2511,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba107",
+    "id": "gba108",
     "igdbId": 3266,
     "gbId": 3527,
     "gbGuid": "3030-3527",
@@ -2508,7 +2534,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba108",
+    "id": "gba109",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2531,7 +2557,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba109",
+    "id": "gba110",
     "igdbId": 6422,
     "gbId": 11973,
     "gbGuid": "3030-11973",
@@ -2554,7 +2580,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba110",
+    "id": "gba111",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2577,7 +2603,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba111",
+    "id": "gba112",
     "igdbId": 6428,
     "gbId": 16651,
     "gbGuid": "3030-16651",
@@ -2600,7 +2626,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba112",
+    "id": "gba113",
     "igdbId": 6431,
     "gbId": null,
     "gbGuid": null,
@@ -2623,7 +2649,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba113",
+    "id": "gba114",
     "igdbId": 6565,
     "gbId": 32329,
     "gbGuid": "3030-32329",
@@ -2646,7 +2672,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba114",
+    "id": "gba115",
     "igdbId": 6435,
     "gbId": 16036,
     "gbGuid": "3030-16036",
@@ -2669,7 +2695,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba115",
+    "id": "gba116",
     "igdbId": 6437,
     "gbId": 5479,
     "gbGuid": "3030-5479",
@@ -2692,7 +2718,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba116",
+    "id": "gba117",
     "igdbId": 49295,
     "gbId": null,
     "gbGuid": null,
@@ -2715,7 +2741,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba117",
+    "id": "gba118",
     "igdbId": 6446,
     "gbId": 37685,
     "gbGuid": "3030-37685",
@@ -2738,7 +2764,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba118",
+    "id": "gba119",
     "igdbId": 6447,
     "gbId": 41038,
     "gbGuid": "3030-41038",
@@ -2761,7 +2787,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba119",
+    "id": "gba120",
     "igdbId": 4864,
     "gbId": 38845,
     "gbGuid": "3030-38845",
@@ -2780,7 +2806,7 @@
     "special": []
   },
   {
-    "id": "gba120",
+    "id": "gba121",
     "name": "Iridion 3D",
     "details": [
       "Nintendo Game Boy Advance launch title",
@@ -2817,7 +2843,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba121",
+    "id": "gba122",
     "igdbId": 6450,
     "gbId": 10969,
     "gbGuid": "3030-10969",
@@ -2840,7 +2866,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba122",
+    "id": "gba123",
     "igdbId": 8155,
     "gbId": 10253,
     "gbGuid": "3030-10253",
@@ -2863,7 +2889,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba123",
+    "id": "gba124",
     "igdbId": 6477,
     "gbId": 46792,
     "gbGuid": "3030-46792",
@@ -2886,7 +2912,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba124",
+    "id": "gba125",
     "igdbId": 6479,
     "gbId": 17024,
     "gbGuid": "3030-17024",
@@ -2909,7 +2935,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba125",
+    "id": "gba126",
     "igdbId": 6482,
     "gbId": 18850,
     "gbGuid": "3030-18850",
@@ -2932,7 +2958,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba126",
+    "id": "gba127",
     "igdbId": 6483,
     "gbId": 1022,
     "gbGuid": "3030-1022",
@@ -2955,7 +2981,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba127",
+    "id": "gba128",
     "igdbId": 6481,
     "gbId": 12195,
     "gbGuid": "3030-12195",
@@ -2978,7 +3004,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba128",
+    "id": "gba129",
     "igdbId": 6486,
     "gbId": 17817,
     "gbGuid": "3030-17817",
@@ -3001,7 +3027,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba129",
+    "id": "gba130",
     "igdbId": 6485,
     "gbId": 13170,
     "gbGuid": "3030-13170",
@@ -3024,7 +3050,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba130",
+    "id": "gba131",
     "igdbId": 6484,
     "gbId": 14314,
     "gbGuid": "3030-14314",
@@ -3047,7 +3073,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba131",
+    "id": "gba132",
     "igdbId": 49638,
     "gbId": 1320,
     "gbGuid": "3030-1320",
@@ -3070,7 +3096,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba132",
+    "id": "gba133",
     "igdbId": 6494,
     "gbId": null,
     "gbGuid": null,
@@ -3089,7 +3115,7 @@
     "special": []
   },
   {
-    "id": "gba133",
+    "id": "gba134",
     "name": "Konami Krazy Racers",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -3116,7 +3142,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba134",
+    "id": "gba135",
     "igdbId": 6496,
     "gbId": null,
     "gbGuid": null,
@@ -3139,7 +3165,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba135",
+    "id": "gba136",
     "igdbId": 6323,
     "gbId": 16342,
     "gbGuid": "3030-16342",
@@ -3162,7 +3188,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba136",
+    "id": "gba137",
     "igdbId": 6498,
     "gbId": 38776,
     "gbGuid": "3030-38776",
@@ -3185,7 +3211,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba137",
+    "id": "gba138",
     "igdbId": 6497,
     "gbId": 6846,
     "gbGuid": "3030-6846",
@@ -3208,7 +3234,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba138",
+    "id": "gba139",
     "igdbId": 1180,
     "gbId": 12264,
     "gbGuid": "3030-12264",
@@ -3231,7 +3257,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba139",
+    "id": "gba140",
     "igdbId": 13907,
     "gbId": 5395,
     "gbGuid": "3030-5395",
@@ -3254,7 +3280,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba140",
+    "id": "gba141",
     "igdbId": 776,
     "gbId": 15987,
     "gbGuid": "3030-15987",
@@ -3273,11 +3299,63 @@
     "special": []
   },
   {
+    "name": "Mario & Luigi: Superstar Saga",
+    "details": [
+      "Nintendo Game Boy Advance Player's Choice"
+    ],
+    "id": "gba142",
+    "igdbId": 3351,
+    "gbId": 9306,
+    "gbGuid": "3030-9306",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Advance Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Advance",
+          "id": "ccl10",
+          "igdbId": 24,
+          "gbId": 4,
+          "gbGuid": "3045-4",
+          "tgdbId": 5
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Mario Kart: Super Circuit",
+    "details": [
+      "Nintendo Game Boy Advance Player's Choice"
+    ],
+    "id": "gba143",
+    "igdbId": 2343,
+    "gbId": 16769,
+    "gbGuid": "3030-16769",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Advance Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Advance",
+          "id": "ccl10",
+          "igdbId": 24,
+          "gbId": 4,
+          "gbGuid": "3045-4",
+          "tgdbId": 5
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Marvel's The Invincible Iron Man",
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba141",
+    "id": "gba144",
     "igdbId": 49231,
     "gbId": 6063,
     "gbGuid": "3030-6063",
@@ -3300,7 +3378,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba142",
+    "id": "gba145",
     "igdbId": 6432,
     "gbId": null,
     "gbGuid": null,
@@ -3323,7 +3401,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba143",
+    "id": "gba146",
     "igdbId": 3993,
     "gbId": 7099,
     "gbGuid": "3030-7099",
@@ -3346,7 +3424,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba144",
+    "id": "gba147",
     "igdbId": 6508,
     "gbId": 12876,
     "gbGuid": "3030-12876",
@@ -3369,7 +3447,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba145",
+    "id": "gba148",
     "igdbId": 1317,
     "gbId": 12457,
     "gbGuid": "3030-12457",
@@ -3392,7 +3470,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba146",
+    "id": "gba149",
     "igdbId": 1406,
     "gbId": 8583,
     "gbGuid": "3030-8583",
@@ -3415,7 +3493,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba147",
+    "id": "gba150",
     "igdbId": 4012,
     "gbId": 2571,
     "gbGuid": "3030-2571",
@@ -3438,7 +3516,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba148",
+    "id": "gba151",
     "igdbId": 49390,
     "gbId": 918,
     "gbGuid": "3030-918",
@@ -3461,7 +3539,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba149",
+    "id": "gba152",
     "igdbId": 6511,
     "gbId": 4700,
     "gbGuid": "3030-4700",
@@ -3484,7 +3562,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba150",
+    "id": "gba153",
     "igdbId": 6512,
     "gbId": 11375,
     "gbGuid": "3030-11375",
@@ -3507,7 +3585,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba151",
+    "id": "gba154",
     "igdbId": 1612,
     "gbId": 6588,
     "gbGuid": "3030-6588",
@@ -3530,7 +3608,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba152",
+    "id": "gba155",
     "igdbId": 6515,
     "gbId": 26194,
     "gbGuid": "3030-26194",
@@ -3553,7 +3631,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba153",
+    "id": "gba156",
     "igdbId": 49389,
     "gbId": 37886,
     "gbGuid": "3030-37886",
@@ -3576,7 +3654,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba154",
+    "id": "gba157",
     "igdbId": 6523,
     "gbId": 37453,
     "gbGuid": "3030-37453",
@@ -3595,7 +3673,7 @@
     "special": []
   },
   {
-    "id": "gba155",
+    "id": "gba158",
     "name": "Namco Museum",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -3622,7 +3700,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba156",
+    "id": "gba159",
     "igdbId": 24065,
     "gbId": 6939,
     "gbGuid": "3030-6939",
@@ -3645,7 +3723,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba157",
+    "id": "gba160",
     "igdbId": 96,
     "gbId": 12254,
     "gbGuid": "3030-12254",
@@ -3668,7 +3746,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba158",
+    "id": "gba161",
     "igdbId": 97,
     "gbId": 9651,
     "gbGuid": "3030-9651",
@@ -3691,7 +3769,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba159",
+    "id": "gba162",
     "igdbId": 6365,
     "gbId": 27765,
     "gbGuid": "3030-27765",
@@ -3714,7 +3792,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba160",
+    "id": "gba163",
     "igdbId": 6385,
     "gbId": 23903,
     "gbGuid": "3030-23903",
@@ -3737,7 +3815,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba161",
+    "id": "gba164",
     "igdbId": 2766,
     "gbId": 27253,
     "gbGuid": "3030-27253",
@@ -3760,7 +3838,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba162",
+    "id": "gba165",
     "igdbId": 6524,
     "gbId": 13904,
     "gbGuid": "3030-13904",
@@ -3783,7 +3861,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba163",
+    "id": "gba166",
     "igdbId": 6525,
     "gbId": 41879,
     "gbGuid": "3030-41879",
@@ -3806,7 +3884,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba164",
+    "id": "gba167",
     "igdbId": 75755,
     "gbId": 33385,
     "gbGuid": "3030-33385",
@@ -3829,7 +3907,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba165",
+    "id": "gba168",
     "igdbId": 6529,
     "gbId": 30902,
     "gbGuid": "3030-30902",
@@ -3848,7 +3926,7 @@
     "special": []
   },
   {
-    "id": "gba166",
+    "id": "gba169",
     "name": "Pinobee: Wings of Adventure",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -3875,7 +3953,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba167",
+    "id": "gba170",
     "igdbId": 19218,
     "gbId": 13282,
     "gbGuid": "3030-13282",
@@ -3898,7 +3976,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba168",
+    "id": "gba171",
     "igdbId": 4070,
     "gbId": 7298,
     "gbGuid": "3030-7298",
@@ -3917,7 +3995,7 @@
     "special": []
   },
   {
-    "id": "gba169",
+    "id": "gba172",
     "name": "Pitfall: The Mayan Adventure",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -3944,7 +4022,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba170",
+    "id": "gba173",
     "igdbId": 1517,
     "gbId": 11552,
     "gbGuid": "3030-11552",
@@ -3965,9 +4043,10 @@
   {
     "name": "Pokémon FireRed Version",
     "details": [
-      "Nintendo Game Boy Advance exclusive"
+      "Nintendo Game Boy Advance exclusive",
+      "Nintendo Game Boy Advance Player's Choice"
     ],
-    "id": "gba171",
+    "id": "gba174",
     "igdbId": 1559,
     "gbId": 14522,
     "gbGuid": "3030-14522",
@@ -3982,15 +4061,28 @@
         "tgdbId": 5
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo Game Boy Advance Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Advance",
+          "id": "ccl10",
+          "igdbId": 24,
+          "gbId": 4,
+          "gbGuid": "3045-4",
+          "tgdbId": 5
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Pokémon LeafGreen Version",
     "details": [
-      "Nintendo Game Boy Advance exclusive"
+      "Nintendo Game Boy Advance exclusive",
+      "Nintendo Game Boy Advance Player's Choice"
     ],
-    "id": "gba172",
+    "id": "gba175",
     "igdbId": 1516,
     "gbId": 14522,
     "gbGuid": "3030-14522",
@@ -4005,15 +4097,27 @@
         "tgdbId": 5
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo Game Boy Advance Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Advance",
+          "id": "ccl10",
+          "igdbId": 24,
+          "gbId": 4,
+          "gbGuid": "3045-4",
+          "tgdbId": 5
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Pokémon Ruby",
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba173",
+    "id": "gba176",
     "igdbId": 1557,
     "gbId": 10122,
     "gbGuid": "3030-10122",
@@ -4036,7 +4140,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba174",
+    "id": "gba177",
     "igdbId": 1515,
     "gbId": 10122,
     "gbGuid": "3030-10122",
@@ -4059,7 +4163,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba175",
+    "id": "gba178",
     "igdbId": 6538,
     "gbId": 43,
     "gbGuid": "3030-43",
@@ -4082,7 +4186,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba176",
+    "id": "gba179",
     "igdbId": 3292,
     "gbId": null,
     "gbGuid": null,
@@ -4105,7 +4209,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba177",
+    "id": "gba180",
     "igdbId": 3293,
     "gbId": null,
     "gbGuid": null,
@@ -4128,7 +4232,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba178",
+    "id": "gba181",
     "igdbId": 49181,
     "gbId": null,
     "gbGuid": null,
@@ -4151,7 +4255,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba179",
+    "id": "gba182",
     "igdbId": 81459,
     "gbId": 40279,
     "gbGuid": "3030-40279",
@@ -4174,7 +4278,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba180",
+    "id": "gba183",
     "igdbId": 6551,
     "gbId": 14600,
     "gbGuid": "3030-14600",
@@ -4197,7 +4301,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba181",
+    "id": "gba184",
     "igdbId": 6552,
     "gbId": 5109,
     "gbGuid": "3030-5109",
@@ -4216,7 +4320,7 @@
     "special": []
   },
   {
-    "id": "gba182",
+    "id": "gba185",
     "name": "Rayman Advance",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -4243,7 +4347,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba183",
+    "id": "gba186",
     "igdbId": 1967,
     "gbId": 6833,
     "gbGuid": "3030-6833",
@@ -4262,7 +4366,7 @@
     "special": []
   },
   {
-    "id": "gba184",
+    "id": "gba187",
     "name": "Ready 2 Rumble Boxing: Round 2",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -4289,7 +4393,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba185",
+    "id": "gba188",
     "igdbId": 6554,
     "gbId": 17276,
     "gbGuid": "3030-17276",
@@ -4312,7 +4416,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba186",
+    "id": "gba189",
     "igdbId": 49412,
     "gbId": 43479,
     "gbGuid": "3030-43479",
@@ -4335,7 +4439,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba187",
+    "id": "gba190",
     "igdbId": 4086,
     "gbId": 8994,
     "gbGuid": "3030-8994",
@@ -4358,7 +4462,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba188",
+    "id": "gba191",
     "igdbId": 6561,
     "gbId": 23117,
     "gbGuid": "3030-23117",
@@ -4381,7 +4485,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba189",
+    "id": "gba192",
     "igdbId": 6560,
     "gbId": 23117,
     "gbGuid": "3030-23117",
@@ -4404,7 +4508,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba190",
+    "id": "gba193",
     "igdbId": 6562,
     "gbId": 19360,
     "gbGuid": "3030-19360",
@@ -4427,7 +4531,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba191",
+    "id": "gba194",
     "igdbId": 6563,
     "gbId": 6233,
     "gbGuid": "3030-6233",
@@ -4450,7 +4554,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba192",
+    "id": "gba195",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4473,7 +4577,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba193",
+    "id": "gba196",
     "igdbId": 1769,
     "gbId": 11723,
     "gbGuid": "3030-11723",
@@ -4496,7 +4600,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba194",
+    "id": "gba197",
     "igdbId": 2795,
     "gbId": 35641,
     "gbGuid": "3030-35641",
@@ -4519,7 +4623,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba195",
+    "id": "gba198",
     "igdbId": 2794,
     "gbId": 18124,
     "gbGuid": "3030-18124",
@@ -4542,7 +4646,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba196",
+    "id": "gba199",
     "igdbId": 6582,
     "gbId": 23502,
     "gbGuid": "3030-23502",
@@ -4565,7 +4669,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba197",
+    "id": "gba200",
     "igdbId": 6583,
     "gbId": null,
     "gbGuid": null,
@@ -4588,7 +4692,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba198",
+    "id": "gba201",
     "igdbId": 2822,
     "gbId": 3116,
     "gbGuid": "3030-3116",
@@ -4611,7 +4715,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba199",
+    "id": "gba202",
     "igdbId": 49386,
     "gbId": 734,
     "gbGuid": "3030-734",
@@ -4634,7 +4738,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba200",
+    "id": "gba203",
     "igdbId": 6630,
     "gbId": 2248,
     "gbGuid": "3030-2248",
@@ -4657,7 +4761,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba201",
+    "id": "gba204",
     "igdbId": 22241,
     "gbId": 4335,
     "gbGuid": "3030-4335",
@@ -4680,7 +4784,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba202",
+    "id": "gba205",
     "igdbId": 6587,
     "gbId": 32989,
     "gbGuid": "3030-32989",
@@ -4703,7 +4807,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba203",
+    "id": "gba206",
     "igdbId": 6591,
     "gbId": 18224,
     "gbGuid": "3030-18224",
@@ -4726,7 +4830,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba204",
+    "id": "gba207",
     "igdbId": 6593,
     "gbId": 16201,
     "gbGuid": "3030-16201",
@@ -4749,7 +4853,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba205",
+    "id": "gba208",
     "igdbId": 6594,
     "gbId": 14289,
     "gbGuid": "3030-14289",
@@ -4772,7 +4876,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba206",
+    "id": "gba209",
     "igdbId": 6588,
     "gbId": 26575,
     "gbGuid": "3030-26575",
@@ -4795,7 +4899,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba207",
+    "id": "gba210",
     "igdbId": 6589,
     "gbId": 26576,
     "gbGuid": "3030-26576",
@@ -4818,7 +4922,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba208",
+    "id": "gba211",
     "igdbId": 6590,
     "gbId": 19486,
     "gbGuid": "3030-19486",
@@ -4841,7 +4945,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba209",
+    "id": "gba212",
     "igdbId": 49241,
     "gbId": 19239,
     "gbGuid": "3030-19239",
@@ -4864,7 +4968,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba210",
+    "id": "gba213",
     "igdbId": 6595,
     "gbId": 3955,
     "gbGuid": "3030-3955",
@@ -4887,7 +4991,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba211",
+    "id": "gba214",
     "igdbId": 1823,
     "gbId": 24123,
     "gbGuid": "3030-24123",
@@ -4910,7 +5014,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba212",
+    "id": "gba215",
     "igdbId": 6600,
     "gbId": 9985,
     "gbGuid": "3030-9985",
@@ -4933,7 +5037,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba213",
+    "id": "gba216",
     "igdbId": 6601,
     "gbId": 4979,
     "gbGuid": "3030-4979",
@@ -4956,7 +5060,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba214",
+    "id": "gba217",
     "igdbId": 6605,
     "gbId": 19475,
     "gbGuid": "3030-19475",
@@ -4979,7 +5083,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba215",
+    "id": "gba218",
     "igdbId": 1588,
     "gbId": 13370,
     "gbGuid": "3030-13370",
@@ -5002,7 +5106,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba216",
+    "id": "gba219",
     "igdbId": 1589,
     "gbId": 19433,
     "gbGuid": "3030-19433",
@@ -5025,7 +5129,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba217",
+    "id": "gba220",
     "igdbId": 1587,
     "gbId": 10579,
     "gbGuid": "3030-10579",
@@ -5048,7 +5152,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba218",
+    "id": "gba221",
     "igdbId": 6609,
     "gbId": 7262,
     "gbGuid": "3030-7262",
@@ -5071,7 +5175,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba219",
+    "id": "gba222",
     "igdbId": 18951,
     "gbId": 18331,
     "gbGuid": "3030-18331",
@@ -5094,7 +5198,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba220",
+    "id": "gba223",
     "igdbId": 6608,
     "gbId": 10164,
     "gbGuid": "3030-10164",
@@ -5117,7 +5221,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba221",
+    "id": "gba224",
     "igdbId": 6607,
     "gbId": 2201,
     "gbGuid": "3030-2201",
@@ -5140,7 +5244,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba222",
+    "id": "gba225",
     "igdbId": 6610,
     "gbId": 4164,
     "gbGuid": "3030-4164",
@@ -5163,7 +5267,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba223",
+    "id": "gba226",
     "igdbId": 49810,
     "gbId": 163,
     "gbGuid": "3030-163",
@@ -5186,7 +5290,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba224",
+    "id": "gba227",
     "igdbId": 6615,
     "gbId": 294,
     "gbGuid": "3030-294",
@@ -5209,7 +5313,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba225",
+    "id": "gba228",
     "igdbId": 6616,
     "gbId": 14817,
     "gbGuid": "3030-14817",
@@ -5232,7 +5336,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba226",
+    "id": "gba229",
     "igdbId": 6617,
     "gbId": 22684,
     "gbGuid": "3030-22684",
@@ -5255,7 +5359,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba227",
+    "id": "gba230",
     "igdbId": 63963,
     "gbId": 41294,
     "gbGuid": "3030-41294",
@@ -5274,7 +5378,7 @@
     "special": []
   },
   {
-    "id": "gba228",
+    "id": "gba231",
     "name": "Super Dodge Ball Advance",
     "details": [
       "Nintendo Game Boy Advance launch title",
@@ -5311,67 +5415,6 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba229",
-    "isExclusive": [
-      {
-        "name": "Nintendo Game Boy Advance",
-        "id": "ccl10",
-        "igdbId": 24,
-        "gbId": 4,
-        "gbGuid": "3045-4",
-        "tgdbId": 5
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "id": "gba230",
-    "name": "Super Mario Advance",
-    "details": [
-      "Nintendo Game Boy Advance launch title"
-    ],
-    "igdbId": 81197,
-    "gbId": 5215,
-    "gbGuid": "3030-5215",
-    "tgdbId": 2347,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo Game Boy Advance",
-        "id": "ccl10",
-        "igdbId": 24,
-        "gbId": 4,
-        "gbGuid": "3045-4",
-        "tgdbId": 5
-      }
-    ],
-    "isExclusive": false,
-    "special": []
-  },
-  {
-    "name": "Super Robot Taisen: Original Generation",
-    "details": [
-      "Nintendo Game Boy Advance exclusive"
-    ],
-    "id": "gba231",
-    "isExclusive": [
-      {
-        "name": "Nintendo Game Boy Advance",
-        "id": "ccl10",
-        "igdbId": 24,
-        "gbId": 4,
-        "gbGuid": "3045-4",
-        "tgdbId": 5
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Super Robot Taisen: Original Generation 2",
-    "details": [
-      "Nintendo Game Boy Advance exclusive"
-    ],
     "id": "gba232",
     "isExclusive": [
       {
@@ -5387,12 +5430,17 @@
     "special": []
   },
   {
-    "name": "Super Robot Wars D",
-    "details": [
-      "Nintendo Game Boy Advance exclusive"
-    ],
     "id": "gba233",
-    "isExclusive": [
+    "name": "Super Mario Advance",
+    "details": [
+      "Nintendo Game Boy Advance launch title",
+      "Nintendo Game Boy Advance Player's Choice"
+    ],
+    "igdbId": 81197,
+    "gbId": 5215,
+    "gbGuid": "3030-5215",
+    "tgdbId": 2347,
+    "isLaunchTitle": [
       {
         "name": "Nintendo Game Boy Advance",
         "id": "ccl10",
@@ -5402,49 +5450,75 @@
         "tgdbId": 5
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo Game Boy Advance Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Advance",
+          "id": "ccl10",
+          "igdbId": 24,
+          "gbId": 4,
+          "gbGuid": "3045-4",
+          "tgdbId": 5
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
-    "name": "Super Robot Wars J",
+    "name": "Super Mario Advance 3: Yoshi's Island",
     "details": [
-      "Nintendo Game Boy Advance exclusive"
+      "Nintendo Game Boy Advance Player's Choice"
     ],
     "id": "gba234",
-    "isExclusive": [
+    "igdbId": 16747,
+    "gbId": 11016,
+    "gbGuid": "3030-11016",
+    "tgdbId": null,
+    "special": [
       {
-        "name": "Nintendo Game Boy Advance",
-        "id": "ccl10",
-        "igdbId": 24,
-        "gbId": 4,
-        "gbGuid": "3045-4",
-        "tgdbId": 5
+        "value": "Nintendo Game Boy Advance Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Advance",
+          "id": "ccl10",
+          "igdbId": 24,
+          "gbId": 4,
+          "gbGuid": "3045-4",
+          "tgdbId": 5
+        }
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
-    "name": "Super Robot Wars R",
+    "name": "Super Mario World: Super Mario Advance 2",
     "details": [
-      "Nintendo Game Boy Advance exclusive"
+      "Nintendo Game Boy Advance Player's Choice"
     ],
     "id": "gba235",
-    "isExclusive": [
+    "igdbId": 16617,
+    "gbId": 7551,
+    "gbGuid": "3030-7551",
+    "tgdbId": null,
+    "special": [
       {
-        "name": "Nintendo Game Boy Advance",
-        "id": "ccl10",
-        "igdbId": 24,
-        "gbId": 4,
-        "gbGuid": "3045-4",
-        "tgdbId": 5
+        "value": "Nintendo Game Boy Advance Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Advance",
+          "id": "ccl10",
+          "igdbId": 24,
+          "gbId": 4,
+          "gbGuid": "3045-4",
+          "tgdbId": 5
+        }
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
-    "name": "Superman Returns: Fortress of Solitude",
+    "name": "Super Robot Taisen: Original Generation",
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
@@ -5463,7 +5537,7 @@
     "special": []
   },
   {
-    "name": "Superman: Countdown to Apokolips",
+    "name": "Super Robot Taisen: Original Generation 2",
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
@@ -5482,11 +5556,106 @@
     "special": []
   },
   {
-    "name": "Surf's Up",
+    "name": "Super Robot Wars D",
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
     "id": "gba238",
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "name": "Super Robot Wars J",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "id": "gba239",
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "name": "Super Robot Wars R",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "id": "gba240",
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "name": "Superman Returns: Fortress of Solitude",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "id": "gba241",
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "name": "Superman: Countdown to Apokolips",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "id": "gba242",
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": []
+  },
+  {
+    "name": "Surf's Up",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "id": "gba243",
     "igdbId": 4191,
     "gbId": 7576,
     "gbGuid": "3030-7576",
@@ -5509,7 +5678,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba239",
+    "id": "gba244",
     "igdbId": 3817,
     "gbId": 4443,
     "gbGuid": "3030-4443",
@@ -5532,7 +5701,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba240",
+    "id": "gba245",
     "igdbId": 6635,
     "gbId": 12869,
     "gbGuid": "3030-12869",
@@ -5555,7 +5724,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba241",
+    "id": "gba246",
     "igdbId": 49828,
     "gbId": 25908,
     "gbGuid": "3030-25908",
@@ -5578,7 +5747,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba242",
+    "id": "gba247",
     "igdbId": 49827,
     "gbId": 31224,
     "gbGuid": "3030-31224",
@@ -5601,7 +5770,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba243",
+    "id": "gba248",
     "igdbId": 49826,
     "gbId": 25909,
     "gbGuid": "3030-25909",
@@ -5624,7 +5793,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba244",
+    "id": "gba249",
     "igdbId": 39912,
     "gbId": 27968,
     "gbGuid": "3030-27968",
@@ -5647,7 +5816,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba245",
+    "id": "gba250",
     "igdbId": 4195,
     "gbId": 2894,
     "gbGuid": "3030-2894",
@@ -5670,7 +5839,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba246",
+    "id": "gba251",
     "igdbId": 19747,
     "gbId": 26368,
     "gbGuid": "3030-26368",
@@ -5693,7 +5862,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba247",
+    "id": "gba252",
     "igdbId": 1240,
     "gbId": 3243,
     "gbGuid": "3030-3243",
@@ -5716,7 +5885,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba248",
+    "id": "gba253",
     "igdbId": 6196,
     "gbId": 6580,
     "gbGuid": "3030-6580",
@@ -5739,7 +5908,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba249",
+    "id": "gba254",
     "igdbId": 49367,
     "gbId": null,
     "gbGuid": null,
@@ -5762,7 +5931,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba250",
+    "id": "gba255",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5781,11 +5950,37 @@
     "special": []
   },
   {
+    "name": "The Legend of Zelda: A Link to the Past & Four Swords",
+    "details": [
+      "Nintendo Game Boy Advance Player's Choice"
+    ],
+    "id": "gba256",
+    "igdbId": 77336,
+    "gbId": 35064,
+    "gbGuid": "3030-35064",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Advance Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Advance",
+          "id": "ccl10",
+          "igdbId": 24,
+          "gbId": 4,
+          "gbGuid": "3045-4",
+          "tgdbId": 5
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "The Lord of the Rings: The Third Age",
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba251",
+    "id": "gba257",
     "igdbId": 6500,
     "gbId": 2959,
     "gbGuid": "3030-2959",
@@ -5808,7 +6003,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba252",
+    "id": "gba258",
     "igdbId": 6534,
     "gbId": 4130,
     "gbGuid": "3030-4130",
@@ -5831,7 +6026,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba253",
+    "id": "gba259",
     "igdbId": 10222,
     "gbId": 40139,
     "gbGuid": "3030-40139",
@@ -5854,7 +6049,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba254",
+    "id": "gba260",
     "igdbId": 49236,
     "gbId": 12281,
     "gbGuid": "3030-12281",
@@ -5877,7 +6072,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba255",
+    "id": "gba261",
     "igdbId": 6639,
     "gbId": 29129,
     "gbGuid": "3030-29129",
@@ -5900,7 +6095,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba256",
+    "id": "gba262",
     "igdbId": 49246,
     "gbId": 11486,
     "gbGuid": "3030-11486",
@@ -5923,7 +6118,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba257",
+    "id": "gba263",
     "igdbId": 6640,
     "gbId": 7204,
     "gbGuid": "3030-7204",
@@ -5946,7 +6141,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba258",
+    "id": "gba264",
     "igdbId": 6642,
     "gbId": 3587,
     "gbGuid": "3030-3587",
@@ -5969,7 +6164,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba259",
+    "id": "gba265",
     "igdbId": 37471,
     "gbId": 33481,
     "gbGuid": "3030-33481",
@@ -5992,7 +6187,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba260",
+    "id": "gba266",
     "igdbId": 18809,
     "gbId": 7141,
     "gbGuid": "3030-7141",
@@ -6011,7 +6206,7 @@
     "special": []
   },
   {
-    "id": "gba261",
+    "id": "gba267",
     "name": "Tony Hawk's Pro Skater 2",
     "details": [
       "Nintendo Game Boy Advance launch title"
@@ -6038,7 +6233,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba262",
+    "id": "gba268",
     "igdbId": 49342,
     "gbId": 36510,
     "gbGuid": "3030-36510",
@@ -6061,7 +6256,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba263",
+    "id": "gba269",
     "igdbId": 8021,
     "gbId": 15202,
     "gbGuid": "3030-15202",
@@ -6084,7 +6279,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba264",
+    "id": "gba270",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6107,7 +6302,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba265",
+    "id": "gba271",
     "igdbId": 6647,
     "gbId": 11262,
     "gbGuid": "3030-11262",
@@ -6130,7 +6325,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba266",
+    "id": "gba272",
     "igdbId": 6682,
     "gbId": null,
     "gbGuid": null,
@@ -6153,7 +6348,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba267",
+    "id": "gba273",
     "igdbId": 6683,
     "gbId": 14912,
     "gbGuid": "3030-14912",
@@ -6176,7 +6371,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba268",
+    "id": "gba274",
     "igdbId": 6685,
     "gbId": 27740,
     "gbGuid": "3030-27740",
@@ -6199,7 +6394,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba269",
+    "id": "gba275",
     "igdbId": 6686,
     "gbId": 38403,
     "gbGuid": "3030-38403",
@@ -6222,7 +6417,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba270",
+    "id": "gba276",
     "igdbId": 6676,
     "gbId": 1928,
     "gbGuid": "3030-1928",
@@ -6245,7 +6440,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba271",
+    "id": "gba277",
     "igdbId": 1704,
     "gbId": 12208,
     "gbGuid": "3030-12208",
@@ -6268,7 +6463,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba272",
+    "id": "gba278",
     "igdbId": 6688,
     "gbId": 6206,
     "gbGuid": "3030-6206",
@@ -6291,7 +6486,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba273",
+    "id": "gba279",
     "igdbId": 4578,
     "gbId": 232,
     "gbGuid": "3030-232",
@@ -6310,11 +6505,37 @@
     "special": []
   },
   {
+    "name": "Yoshi Topsy-Turvy",
+    "details": [
+      "Nintendo Game Boy Advance Player's Choice"
+    ],
+    "id": "gba280",
+    "igdbId": 49212,
+    "gbId": 1307,
+    "gbGuid": "3030-1307",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Nintendo Game Boy Advance Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Advance",
+          "id": "ccl10",
+          "igdbId": 24,
+          "gbId": 4,
+          "gbGuid": "3045-4",
+          "tgdbId": 5
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Yoshi's Universal Gravitation",
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba274",
+    "id": "gba281",
     "igdbId": 6694,
     "gbId": null,
     "gbGuid": null,
@@ -6337,7 +6558,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba275",
+    "id": "gba282",
     "igdbId": 6696,
     "gbId": null,
     "gbGuid": null,
@@ -6360,7 +6581,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba276",
+    "id": "gba283",
     "igdbId": 6695,
     "gbId": null,
     "gbGuid": null,
@@ -6383,7 +6604,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba277",
+    "id": "gba284",
     "igdbId": 6697,
     "gbId": 17038,
     "gbGuid": "3030-17038",
@@ -6406,7 +6627,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba278",
+    "id": "gba285",
     "igdbId": 6698,
     "gbId": 17067,
     "gbGuid": "3030-17067",
@@ -6429,7 +6650,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba279",
+    "id": "gba286",
     "igdbId": 6699,
     "gbId": 19813,
     "gbGuid": "3030-19813",
@@ -6452,7 +6673,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba280",
+    "id": "gba287",
     "igdbId": 1474,
     "gbId": 19532,
     "gbGuid": "3030-19532",
@@ -6475,7 +6696,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba281",
+    "id": "gba288",
     "igdbId": 49436,
     "gbId": null,
     "gbGuid": null,
@@ -6498,7 +6719,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba282",
+    "id": "gba289",
     "igdbId": 49483,
     "gbId": null,
     "gbGuid": null,
@@ -6521,7 +6742,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba283",
+    "id": "gba290",
     "igdbId": 49484,
     "gbId": null,
     "gbGuid": null,
@@ -6544,7 +6765,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba284",
+    "id": "gba291",
     "igdbId": 49481,
     "gbId": null,
     "gbGuid": null,
@@ -6567,7 +6788,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba285",
+    "id": "gba292",
     "igdbId": 49452,
     "gbId": null,
     "gbGuid": null,
@@ -6590,7 +6811,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba286",
+    "id": "gba293",
     "igdbId": 49513,
     "gbId": null,
     "gbGuid": null,
@@ -6613,7 +6834,7 @@
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
-    "id": "gba287",
+    "id": "gba294",
     "igdbId": 49482,
     "gbId": null,
     "gbGuid": null,
