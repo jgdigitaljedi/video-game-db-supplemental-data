@@ -2,8 +2,8 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/greatestHits/dreamcastNAAllStars.json';
-const idPrefix = 'dcas';
+const relativePath = '../../textFilesToBeConverted/greatestHits/sonyPlayStation4GreatestHits.json';
+const idPrefix = 'ps4gh';
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);

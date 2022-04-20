@@ -3,8 +3,8 @@ const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
 
-const siteUrl = 'https://wikiless.org/wiki/Sega_All_Stars?lang=en';
-const filePath = '../../textFilesToBeConverted/greatestHits/dreamcastAllStars.json';
+const siteUrl = 'https://wikiless.org/wiki/Greatest_Hits_(PlayStation)?lang=en#PlayStation';
+const filePath = '../../textFilesToBeConverted/greatestHits/sonyPS.json';
 const platform = '';
 const digitalText = '';
 
