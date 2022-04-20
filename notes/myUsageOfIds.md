@@ -131,9 +131,11 @@ I simply chose a prefix for each list then slap a number on the end to different
 - xb360exX - Microsoft Xbox 360 console exclusives (xbox360Exclusives.json | GAMES LIST)
 - xbexX - Microsoft Xbox console exclusives (microsoftXboxExclusives.json | GAMES LIST)
 
-### Greatest Hits/Player's Choice/Nintendo Selects/etc
+### Greatest Hits/Player's Choice/Nintendo Selects/All-Stars/Platinum/etc
 
 - 3dsnsX - Nintendo 3DS Nintendo Selects (3dsNintendoSelects.json | GAMES LIST)
+- dcasX - Sega Dreamcast All-Stars (North America) (dreamcastNAAllStars.json | GAMES LIST)
+- dcjasX - Sega Dreamcast All-Stars (Japan) (dreamcastJPAllStars.json | GAMES LIST)
 - gbapcX - Nintendo Game Boy Advance Player's Choice (gbaPlayersChoice.json | GAMES LIST)
 - gbcnsX - Nintendo Game Boy Color Nintendo Selects (gameBointendoSelects.json | GAMES LIST)
 - gbpcX - Nintendo Game Boy Player's Choice (gameboyPlayersChoice.json | GAMES LIST)

@@ -46,7 +46,11 @@ module.exports.stringArrToObjectArr = function(data, details, prefix) {
     return {
       name: d,
       id: `${prefix}${index + 1}`,
-      details
+      details,
+      igdbId: null,
+      gbId: null,
+      gbGuid: null,
+      tgdbId: null
     };
   });
 };

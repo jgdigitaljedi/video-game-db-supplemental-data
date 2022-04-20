@@ -727,29 +727,41 @@
     "title": "GBA Player's Choice",
     "filePath": "../textFilesToBeConverted/greatestHits/gbaPlayersChoice.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Nintendo 64 Player's Choice",
     "filePath": "../textFilesToBeConverted/greatestHits/nintendo64PlayersChoice.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "SNES Player's Choice",
     "filePath": "../textFilesToBeConverted/greatestHits/snesPlayersChoice.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Wii Nintendo Selects",
     "filePath": "../textFilesToBeConverted/greatestHits/wiiNintendoSelects.json",
     "type": "Game",
-    "complete": false
+    "complete": true
   },
   {
     "title": "Wii U Nintendo Selects",
     "filePath": "../textFilesToBeConverted/greatestHits/wiiUNintendoSelects.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega Dreamcast All-Stars (NA)",
+    "filePath": "../textFilesToBeConverted/greatestHits/dreamcastNAAllStars.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega Dreamcast All-Stars (JP)",
+    "filePath": "../textFilesToBeConverted/greatestHits/dreamcastJPAllStars.json",
     "type": "Game",
     "complete": true
   }
