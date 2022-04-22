@@ -11,32 +11,32 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/wiiULaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/pspLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/nintendoWiiUExclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/sonyPspExclusives.json'
   },
   // {
   //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/multiplayer/snesSuperMultitap.json'
+  //   path: '../../finalOutput/smallFiles/multiplayer/playStationMultitap.json'
   // },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/greatestHits/wiiUNintendoSelects.json'
+    path: '../../finalOutput/smallFiles/greatestHits/sonyPlayStationPortableGreatestHits.json'
   }
   // {
   //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/greatestHits/gamecubeEuropePlayersChoice.json'
+  //   path: '../../finalOutput/smallFiles/special/playstationLongboxGames.json'
   // }
   // {
   //   key: 'special',
   //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
   // }
 ];
-const mlId = 'ccl6';
-const outPath = '../../finalOutput/consoleLists/NintendoWiiU.json';
-const idPrefix = 'wiiu';
+const mlId = 'ccl24';
+const outPath = '../../finalOutput/consoleLists/SonyPlayStationPortable.json';
+const idPrefix = 'spsp';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

@@ -25,7 +25,8 @@
   {
     "name": "300: March to Glory",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
     "id": "spsp1",
     "igdbId": 23086,
@@ -42,8 +43,20 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "A Certain Scientific Railgun",
@@ -117,7 +130,8 @@
   {
     "name": "ATV Offroad Fury: Blazin' Trails",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
     "id": "spsp5",
     "igdbId": 8272,
@@ -134,8 +148,20 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Ace Combat X Skies of Deception",
@@ -394,7 +420,8 @@
     "id": "spsp17",
     "name": "Ape Escape: On the Loose",
     "details": [
-      "Sony PSP launch title"
+      "Sony PSP launch title",
+      "Sony PSP Greatest Hits"
     ],
     "igdbId": 44530,
     "gbId": 7961,
@@ -410,8 +437,20 @@
         "tgdbId": 13
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
     "name": "Ape Quest",
@@ -462,7 +501,8 @@
   {
     "name": "Assassin's Creed: Bloodlines",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
     "id": "spsp20",
     "igdbId": 10661,
@@ -479,8 +519,20 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Baka and Test",
@@ -874,11 +926,37 @@
     "special": []
   },
   {
+    "name": "Burnout Legends",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp38",
+    "igdbId": 10916,
+    "gbId": 4970,
+    "gbGuid": "3030-4970",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Busou Shinki: Battle Masters Mk. 2",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp38",
+    "id": "spsp39",
     "igdbId": 56498,
     "gbId": 58533,
     "gbGuid": "3030-58533",
@@ -901,7 +979,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp39",
+    "id": "spsp40",
     "igdbId": 23267,
     "gbId": null,
     "gbGuid": null,
@@ -924,7 +1002,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp40",
+    "id": "spsp41",
     "igdbId": 21944,
     "gbId": 21117,
     "gbGuid": "3030-21117",
@@ -947,7 +1025,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp41",
+    "id": "spsp42",
     "igdbId": 80845,
     "gbId": 24905,
     "gbGuid": "3030-24905",
@@ -970,7 +1048,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp42",
+    "id": "spsp43",
     "igdbId": 3120,
     "gbId": 7827,
     "gbGuid": "3030-7827",
@@ -993,7 +1071,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp43",
+    "id": "spsp44",
     "igdbId": 44503,
     "gbId": 9046,
     "gbGuid": "3030-9046",
@@ -1012,11 +1090,63 @@
     "special": []
   },
   {
+    "name": "Cars",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp45",
+    "igdbId": 3849,
+    "gbId": 7158,
+    "gbGuid": "3030-7158",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Castlevania: The Dracula X Chronicles",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp46",
+    "igdbId": 21888,
+    "gbId": 16851,
+    "gbGuid": "3030-16851",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Championship Manager (PSP)",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp44",
+    "id": "spsp47",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1039,7 +1169,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp45",
+    "id": "spsp48",
     "igdbId": 23111,
     "gbId": 19080,
     "gbGuid": "3030-19080",
@@ -1062,7 +1192,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp46",
+    "id": "spsp49",
     "igdbId": 42859,
     "gbId": 29902,
     "gbGuid": "3030-29902",
@@ -1085,7 +1215,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp47",
+    "id": "spsp50",
     "igdbId": 21576,
     "gbId": 32107,
     "gbGuid": "3030-32107",
@@ -1108,7 +1238,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp48",
+    "id": "spsp51",
     "igdbId": 20998,
     "gbId": 25134,
     "gbGuid": "3030-25134",
@@ -1129,9 +1259,10 @@
   {
     "name": "Coded Arms",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp49",
+    "id": "spsp52",
     "igdbId": 21619,
     "gbId": 5764,
     "gbGuid": "3030-5764",
@@ -1146,15 +1277,27 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Coded Arms: Contagion",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp50",
+    "id": "spsp53",
     "igdbId": 21939,
     "gbId": 25029,
     "gbGuid": "3030-25029",
@@ -1177,7 +1320,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp51",
+    "id": "spsp54",
     "igdbId": 67801,
     "gbId": 27727,
     "gbGuid": "3030-27727",
@@ -1200,7 +1343,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp52",
+    "id": "spsp55",
     "igdbId": 1809,
     "gbId": 9443,
     "gbGuid": "3030-9443",
@@ -1221,9 +1364,10 @@
   {
     "name": "Crisis Core: Final Fantasy VII",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp53",
+    "id": "spsp56",
     "igdbId": 2407,
     "gbId": 2361,
     "gbGuid": "3030-2361",
@@ -1238,15 +1382,27 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "DJ Max Fever",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp54",
+    "id": "spsp57",
     "igdbId": 42892,
     "gbId": null,
     "gbGuid": null,
@@ -1269,7 +1425,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp55",
+    "id": "spsp58",
     "igdbId": 25913,
     "gbId": 17021,
     "gbGuid": "3030-17021",
@@ -1292,7 +1448,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp56",
+    "id": "spsp59",
     "igdbId": 42724,
     "gbId": 21232,
     "gbGuid": "3030-21232",
@@ -1315,7 +1471,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp57",
+    "id": "spsp60",
     "igdbId": 44491,
     "gbId": 31427,
     "gbGuid": "3030-31427",
@@ -1338,7 +1494,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp58",
+    "id": "spsp61",
     "igdbId": 42742,
     "gbId": 31663,
     "gbGuid": "3030-31663",
@@ -1361,7 +1517,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp59",
+    "id": "spsp62",
     "igdbId": 42745,
     "gbId": 24618,
     "gbGuid": "3030-24618",
@@ -1384,7 +1540,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp60",
+    "id": "spsp63",
     "igdbId": 79327,
     "gbId": 24424,
     "gbGuid": "3030-24424",
@@ -1403,7 +1559,7 @@
     "special": []
   },
   {
-    "id": "spsp61",
+    "id": "spsp64",
     "name": "Darkstalkers Chronicle: The Chaos Tower",
     "details": [
       "Sony PSP launch title"
@@ -1428,9 +1584,10 @@
   {
     "name": "Daxter",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp62",
+    "id": "spsp65",
     "igdbId": 1533,
     "gbId": 14604,
     "gbGuid": "3030-14604",
@@ -1445,15 +1602,27 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Dead Head Fred",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp63",
+    "id": "spsp66",
     "igdbId": 21047,
     "gbId": 7941,
     "gbGuid": "3030-7941",
@@ -1476,7 +1645,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp64",
+    "id": "spsp67",
     "igdbId": 3010,
     "gbId": 9743,
     "gbGuid": "3030-9743",
@@ -1499,7 +1668,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp65",
+    "id": "spsp68",
     "igdbId": 45988,
     "gbId": 19740,
     "gbGuid": "3030-19740",
@@ -1522,7 +1691,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp66",
+    "id": "spsp69",
     "igdbId": 23123,
     "gbId": null,
     "gbGuid": null,
@@ -1545,7 +1714,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp67",
+    "id": "spsp70",
     "igdbId": 21742,
     "gbId": 29233,
     "gbGuid": "3030-29233",
@@ -1566,9 +1735,10 @@
   {
     "name": "Dissidia: Final Fantasy",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp68",
+    "id": "spsp71",
     "igdbId": 391,
     "gbId": 21202,
     "gbGuid": "3030-21202",
@@ -1583,15 +1753,53 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Dragon Ball Z: Shin Budokai",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp72",
+    "igdbId": 2567,
+    "gbId": 22285,
+    "gbGuid": "3030-22285",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Dragon Ball: Evolution",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp69",
+    "id": "spsp73",
     "igdbId": 2571,
     "gbId": null,
     "gbGuid": null,
@@ -1614,7 +1822,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp70",
+    "id": "spsp74",
     "igdbId": 69176,
     "gbId": null,
     "gbGuid": null,
@@ -1637,7 +1845,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp71",
+    "id": "spsp75",
     "igdbId": 24279,
     "gbId": 21924,
     "gbGuid": "3030-21924",
@@ -1660,7 +1868,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp72",
+    "id": "spsp76",
     "igdbId": 22018,
     "gbId": 4486,
     "gbGuid": "3030-4486",
@@ -1683,7 +1891,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp73",
+    "id": "spsp77",
     "igdbId": 24284,
     "gbId": 14484,
     "gbGuid": "3030-14484",
@@ -1706,7 +1914,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp74",
+    "id": "spsp78",
     "igdbId": 9270,
     "gbId": 11620,
     "gbGuid": "3030-11620",
@@ -1729,7 +1937,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp75",
+    "id": "spsp79",
     "igdbId": 23051,
     "gbId": 21996,
     "gbGuid": "3030-21996",
@@ -1748,7 +1956,7 @@
     "special": []
   },
   {
-    "id": "spsp76",
+    "id": "spsp80",
     "name": "Dynasty Warriors",
     "details": [
       "Sony PSP launch title",
@@ -1785,7 +1993,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp77",
+    "id": "spsp81",
     "igdbId": 42886,
     "gbId": 21764,
     "gbGuid": "3030-21764",
@@ -1808,7 +2016,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp78",
+    "id": "spsp82",
     "igdbId": 23084,
     "gbId": 10965,
     "gbGuid": "3030-10965",
@@ -1831,7 +2039,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp79",
+    "id": "spsp83",
     "igdbId": 22976,
     "gbId": 26908,
     "gbGuid": "3030-26908",
@@ -1854,7 +2062,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp80",
+    "id": "spsp84",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1877,7 +2085,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp81",
+    "id": "spsp85",
     "igdbId": 22453,
     "gbId": null,
     "gbGuid": null,
@@ -1896,11 +2104,37 @@
     "special": []
   },
   {
+    "name": "Everybody's Golf Portable",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp86",
+    "igdbId": 22453,
+    "gbId": 1547,
+    "gbGuid": "3030-1547",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Everybody's Golf Portable 2",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp82",
+    "id": "spsp87",
     "igdbId": 21050,
     "gbId": null,
     "gbGuid": null,
@@ -1923,7 +2157,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp83",
+    "id": "spsp88",
     "igdbId": 21754,
     "gbId": null,
     "gbGuid": null,
@@ -1946,7 +2180,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp84",
+    "id": "spsp89",
     "igdbId": 38472,
     "gbId": 15352,
     "gbGuid": "3030-15352",
@@ -1969,7 +2203,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp85",
+    "id": "spsp90",
     "igdbId": 12382,
     "gbId": 30825,
     "gbGuid": "3030-30825",
@@ -1992,7 +2226,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp86",
+    "id": "spsp91",
     "igdbId": 12331,
     "gbId": 22027,
     "gbGuid": "3030-22027",
@@ -2015,7 +2249,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp87",
+    "id": "spsp92",
     "igdbId": 42873,
     "gbId": 4563,
     "gbGuid": "3030-4563",
@@ -2034,11 +2268,37 @@
     "special": []
   },
   {
+    "name": "Fight Night Round 3",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp93",
+    "igdbId": 5836,
+    "gbId": 8095,
+    "gbGuid": "3030-8095",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Final Fantasy IV: The Complete Collection",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp88",
+    "id": "spsp94",
     "igdbId": 21779,
     "gbId": 34076,
     "gbGuid": "3030-34076",
@@ -2057,11 +2317,37 @@
     "special": []
   },
   {
+    "name": "Final Fantasy Tactics: The War of the Lions",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp95",
+    "igdbId": 394,
+    "gbId": 27994,
+    "gbGuid": "3030-27994",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Final Fantasy Type-0",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp89",
+    "id": "spsp96",
     "igdbId": 383,
     "gbId": 21848,
     "gbGuid": "3030-21848",
@@ -2084,7 +2370,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp90",
+    "id": "spsp97",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2107,7 +2393,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp91",
+    "id": "spsp98",
     "igdbId": 22451,
     "gbId": 21166,
     "gbGuid": "3030-21166",
@@ -2130,7 +2416,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp92",
+    "id": "spsp99",
     "igdbId": 22563,
     "gbId": 3881,
     "gbGuid": "3030-3881",
@@ -2153,7 +2439,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp93",
+    "id": "spsp100",
     "igdbId": 23136,
     "gbId": 20591,
     "gbGuid": "3030-20591",
@@ -2176,7 +2462,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp94",
+    "id": "spsp101",
     "igdbId": 21018,
     "gbId": 40252,
     "gbGuid": "3030-40252",
@@ -2199,7 +2485,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp95",
+    "id": "spsp102",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2222,7 +2508,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp96",
+    "id": "spsp103",
     "igdbId": 1453,
     "gbId": 36942,
     "gbGuid": "3030-36942",
@@ -2245,7 +2531,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp97",
+    "id": "spsp104",
     "igdbId": 114138,
     "gbId": 22944,
     "gbGuid": "3030-22944",
@@ -2268,7 +2554,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp98",
+    "id": "spsp105",
     "igdbId": 41028,
     "gbId": 27744,
     "gbGuid": "3030-27744",
@@ -2291,7 +2577,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp99",
+    "id": "spsp106",
     "igdbId": 66057,
     "gbId": 34627,
     "gbGuid": "3030-34627",
@@ -2310,11 +2596,38 @@
     "special": []
   },
   {
+    "name": "God of War: Chains of Olympus",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp107",
+    "igdbId": 552,
+    "gbId": 20592,
+    "gbGuid": "3030-20592",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Gran Turismo",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp100",
+    "id": "spsp108",
     "igdbId": 20426,
     "gbId": 26842,
     "gbGuid": "3030-26842",
@@ -2329,15 +2642,27 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Grand Knights History",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp101",
+    "id": "spsp109",
     "igdbId": 42808,
     "gbId": 34617,
     "gbGuid": "3030-34617",
@@ -2356,11 +2681,89 @@
     "special": []
   },
   {
+    "name": "Grand Theft Auto: Chinatown Wars",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp110",
+    "igdbId": 3270,
+    "gbId": 21100,
+    "gbGuid": "3030-21100",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Grand Theft Auto: Liberty City Stories",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp111",
+    "igdbId": 3263,
+    "gbId": 6731,
+    "gbGuid": "3030-6731",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Grand Theft Auto: Vice City Stories",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp112",
+    "igdbId": 3262,
+    "gbId": 10264,
+    "gbGuid": "3030-10264",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Great Battle Full Blast",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp102",
+    "id": "spsp113",
     "igdbId": 65516,
     "gbId": 36911,
     "gbGuid": "3030-36911",
@@ -2379,7 +2782,7 @@
     "special": []
   },
   {
-    "id": "spsp103",
+    "id": "spsp114",
     "name": "Gretzky NHL 2005",
     "details": [
       "Sony PSP launch title"
@@ -2406,7 +2809,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp104",
+    "id": "spsp115",
     "igdbId": 24196,
     "gbId": 21802,
     "gbGuid": "3030-21802",
@@ -2429,7 +2832,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp105",
+    "id": "spsp116",
     "igdbId": 66596,
     "gbId": 31310,
     "gbGuid": "3030-31310",
@@ -2452,7 +2855,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp106",
+    "id": "spsp117",
     "igdbId": 72879,
     "gbId": 22614,
     "gbGuid": "3030-22614",
@@ -2475,7 +2878,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp107",
+    "id": "spsp118",
     "igdbId": 42717,
     "gbId": 22606,
     "gbGuid": "3030-22606",
@@ -2498,7 +2901,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp108",
+    "id": "spsp119",
     "igdbId": 72752,
     "gbId": 23091,
     "gbGuid": "3030-23091",
@@ -2521,7 +2924,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp109",
+    "id": "spsp120",
     "igdbId": 42882,
     "gbId": 34264,
     "gbGuid": "3030-34264",
@@ -2544,7 +2947,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp110",
+    "id": "spsp121",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2567,7 +2970,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp111",
+    "id": "spsp122",
     "igdbId": 42842,
     "gbId": 24864,
     "gbGuid": "3030-24864",
@@ -2590,7 +2993,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp112",
+    "id": "spsp123",
     "igdbId": 42887,
     "gbId": 30915,
     "gbGuid": "3030-30915",
@@ -2613,7 +3016,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp113",
+    "id": "spsp124",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2636,7 +3039,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp114",
+    "id": "spsp125",
     "igdbId": 65495,
     "gbId": 37015,
     "gbGuid": "3030-37015",
@@ -2659,7 +3062,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp115",
+    "id": "spsp126",
     "igdbId": 42884,
     "gbId": 27501,
     "gbGuid": "3030-27501",
@@ -2682,7 +3085,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp116",
+    "id": "spsp127",
     "igdbId": 82160,
     "gbId": 65012,
     "gbGuid": "3030-65012",
@@ -2705,7 +3108,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp117",
+    "id": "spsp128",
     "igdbId": 94205,
     "gbId": 37352,
     "gbGuid": "3030-37352",
@@ -2728,7 +3131,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp118",
+    "id": "spsp129",
     "igdbId": 23096,
     "gbId": 8776,
     "gbGuid": "3030-8776",
@@ -2751,7 +3154,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp119",
+    "id": "spsp130",
     "igdbId": 44482,
     "gbId": 15349,
     "gbGuid": "3030-15349",
@@ -2774,7 +3177,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp120",
+    "id": "spsp131",
     "igdbId": 44524,
     "gbId": 2988,
     "gbGuid": "3030-2988",
@@ -2797,7 +3200,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp121",
+    "id": "spsp132",
     "igdbId": 2994,
     "gbId": 26906,
     "gbGuid": "3030-26906",
@@ -2820,7 +3223,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp122",
+    "id": "spsp133",
     "igdbId": 2996,
     "gbId": 35803,
     "gbGuid": "3030-35803",
@@ -2843,7 +3246,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp123",
+    "id": "spsp134",
     "igdbId": 3001,
     "gbId": 35804,
     "gbGuid": "3030-35804",
@@ -2862,11 +3265,37 @@
     "special": []
   },
   {
+    "name": "Iron Man",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp135",
+    "igdbId": 4935,
+    "gbId": 20530,
+    "gbGuid": "3030-20530",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Jeanne d'Arc",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp124",
+    "id": "spsp136",
     "igdbId": 11326,
     "gbId": 20593,
     "gbGuid": "3030-20593",
@@ -2889,7 +3318,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp125",
+    "id": "spsp137",
     "igdbId": 17268,
     "gbId": 31372,
     "gbGuid": "3030-31372",
@@ -2912,7 +3341,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp126",
+    "id": "spsp138",
     "igdbId": 18262,
     "gbId": 21310,
     "gbGuid": "3030-21310",
@@ -2935,7 +3364,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp127",
+    "id": "spsp139",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2958,7 +3387,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp128",
+    "id": "spsp140",
     "igdbId": 22564,
     "gbId": 19548,
     "gbGuid": "3030-19548",
@@ -2981,7 +3410,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp129",
+    "id": "spsp141",
     "igdbId": 21891,
     "gbId": 27256,
     "gbGuid": "3030-27256",
@@ -3002,9 +3431,10 @@
   {
     "name": "Killzone: Liberation",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp130",
+    "id": "spsp142",
     "igdbId": 1868,
     "gbId": 5556,
     "gbGuid": "3030-5556",
@@ -3019,15 +3449,27 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Kingdom of Paradise",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp131",
+    "id": "spsp143",
     "igdbId": 42878,
     "gbId": 7048,
     "gbGuid": "3030-7048",
@@ -3050,7 +3492,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp132",
+    "id": "spsp144",
     "igdbId": 112296,
     "gbId": 70539,
     "gbGuid": "3030-70539",
@@ -3073,7 +3515,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp133",
+    "id": "spsp145",
     "igdbId": 66611,
     "gbId": 31243,
     "gbGuid": "3030-31243",
@@ -3092,11 +3534,89 @@
     "special": []
   },
   {
+    "name": "LEGO Batman: The Video Game",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp146",
+    "igdbId": 2738,
+    "gbId": 20822,
+    "gbGuid": "3030-20822",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "LEGO Indiana Jones: The Original Adventures",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp147",
+    "igdbId": 189,
+    "gbId": 20534,
+    "gbGuid": "3030-20534",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "LEGO Star Wars II: The Original Trilogy",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp148",
+    "igdbId": 190,
+    "gbId": 9631,
+    "gbGuid": "3030-9631",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "La Storia della Arcana Famiglia",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp134",
+    "id": "spsp149",
     "igdbId": 81580,
     "gbId": 39553,
     "gbGuid": "3030-39553",
@@ -3119,7 +3639,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp135",
+    "id": "spsp150",
     "igdbId": 38461,
     "gbId": 28131,
     "gbGuid": "3030-28131",
@@ -3142,7 +3662,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp136",
+    "id": "spsp151",
     "igdbId": 1058,
     "gbId": 25422,
     "gbGuid": "3030-25422",
@@ -3161,11 +3681,37 @@
     "special": []
   },
   {
+    "name": "LittleBigPlanet",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp152",
+    "igdbId": 21911,
+    "gbId": 25422,
+    "gbGuid": "3030-25422",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "LocoRoco",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp137",
+    "id": "spsp153",
     "igdbId": 1459,
     "gbId": 9410,
     "gbGuid": "3030-9410",
@@ -3188,7 +3734,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp138",
+    "id": "spsp154",
     "igdbId": 1461,
     "gbId": 21111,
     "gbGuid": "3030-21111",
@@ -3211,7 +3757,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp139",
+    "id": "spsp155",
     "igdbId": 1462,
     "gbId": 27865,
     "gbGuid": "3030-27865",
@@ -3234,7 +3780,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp140",
+    "id": "spsp156",
     "igdbId": 21736,
     "gbId": 32630,
     "gbGuid": "3030-32630",
@@ -3253,7 +3799,7 @@
     "special": []
   },
   {
-    "id": "spsp141",
+    "id": "spsp157",
     "name": "Lumines",
     "details": [
       "Sony PSP launch title"
@@ -3280,7 +3826,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp142",
+    "id": "spsp158",
     "igdbId": 4690,
     "gbId": 1601,
     "gbGuid": "3030-1601",
@@ -3303,7 +3849,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp143",
+    "id": "spsp159",
     "igdbId": 13909,
     "gbId": 26422,
     "gbGuid": "3030-26422",
@@ -3326,7 +3872,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp144",
+    "id": "spsp160",
     "igdbId": 18267,
     "gbId": 5389,
     "gbGuid": "3030-5389",
@@ -3345,11 +3891,37 @@
     "special": []
   },
   {
+    "name": "MX vs. ATV: Untamed",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp161",
+    "igdbId": 5028,
+    "gbId": 20889,
+    "gbGuid": "3030-20889",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Macross Ace Frontier",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp145",
+    "id": "spsp162",
     "igdbId": 44486,
     "gbId": 22918,
     "gbGuid": "3030-22918",
@@ -3372,7 +3944,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp146",
+    "id": "spsp163",
     "igdbId": 42836,
     "gbId": 38886,
     "gbGuid": "3030-38886",
@@ -3395,7 +3967,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp147",
+    "id": "spsp164",
     "igdbId": 38451,
     "gbId": 38887,
     "gbGuid": "3030-38887",
@@ -3418,7 +3990,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp148",
+    "id": "spsp165",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3437,11 +4009,37 @@
     "special": []
   },
   {
+    "name": "Marvel: Ultimate Alliance",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp166",
+    "igdbId": 4999,
+    "gbId": 7527,
+    "gbGuid": "3030-7527",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Me & My Katamari",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp149",
+    "id": "spsp167",
     "igdbId": 6455,
     "gbId": 6924,
     "gbGuid": "3030-6924",
@@ -3462,9 +4060,10 @@
   {
     "name": "Medal of Honor: Heroes",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp150",
+    "id": "spsp168",
     "igdbId": 1312,
     "gbId": 5484,
     "gbGuid": "3030-5484",
@@ -3479,15 +4078,53 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Medal of Honor: Heroes 2",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp169",
+    "igdbId": 1315,
+    "gbId": 9967,
+    "gbGuid": "3030-9967",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "MediEvil: Resurrection",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp151",
+    "id": "spsp170",
     "igdbId": 4005,
     "gbId": 14258,
     "gbGuid": "3030-14258",
@@ -3510,7 +4147,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp152",
+    "id": "spsp171",
     "igdbId": 12937,
     "gbId": 16360,
     "gbGuid": "3030-16360",
@@ -3529,7 +4166,7 @@
     "special": []
   },
   {
-    "id": "spsp153",
+    "id": "spsp172",
     "name": "Metal Gear Acid",
     "details": [
       "Sony PSP launch title",
@@ -3566,7 +4203,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp154",
+    "id": "spsp173",
     "igdbId": 9886,
     "gbId": null,
     "gbGuid": null,
@@ -3585,11 +4222,63 @@
     "special": []
   },
   {
+    "name": "Metal Gear Solid: Peace Walker",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp174",
+    "igdbId": 382,
+    "gbId": 26817,
+    "gbGuid": "3030-26817",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Metal Gear Solid: Portable Ops",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp175",
+    "igdbId": 381,
+    "gbId": 14555,
+    "gbGuid": "3030-14555",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Miami Vice",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp155",
+    "id": "spsp176",
     "igdbId": 23818,
     "gbId": 1440,
     "gbGuid": "3030-1440",
@@ -3608,11 +4297,63 @@
     "special": []
   },
   {
+    "name": "Midnight Club 3: DUB Edition",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp177",
+    "igdbId": 5928,
+    "gbId": 5875,
+    "gbGuid": "3030-5875",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Midnight Club L.A. Remix",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp178",
+    "igdbId": 42857,
+    "gbId": 21114,
+    "gbGuid": "3030-21114",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Midway Arcade Treasures: Extended Play",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp156",
+    "id": "spsp179",
     "igdbId": 71407,
     "gbId": 3538,
     "gbGuid": "3030-3538",
@@ -3635,7 +4376,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp157",
+    "id": "spsp180",
     "igdbId": 42711,
     "gbId": 29104,
     "gbGuid": "3030-29104",
@@ -3658,7 +4399,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp158",
+    "id": "spsp181",
     "igdbId": 78401,
     "gbId": 29700,
     "gbGuid": "3030-29700",
@@ -3681,7 +4422,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp159",
+    "id": "spsp182",
     "igdbId": 75722,
     "gbId": 36645,
     "gbGuid": "3030-36645",
@@ -3704,7 +4445,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp160",
+    "id": "spsp183",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3727,7 +4468,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp161",
+    "id": "spsp184",
     "igdbId": 2269,
     "gbId": 13822,
     "gbGuid": "3030-13822",
@@ -3750,7 +4491,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp162",
+    "id": "spsp185",
     "igdbId": 23066,
     "gbId": 20223,
     "gbGuid": "3030-20223",
@@ -3773,7 +4514,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp163",
+    "id": "spsp186",
     "igdbId": 42890,
     "gbId": 3364,
     "gbGuid": "3030-3364",
@@ -3792,11 +4533,37 @@
     "special": []
   },
   {
+    "name": "Mortal Kombat: Unchained",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp187",
+    "igdbId": 1615,
+    "gbId": 10651,
+    "gbGuid": "3030-10651",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "MotoGP",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp164",
+    "id": "spsp188",
     "igdbId": 23012,
     "gbId": 7808,
     "gbGuid": "3030-7808",
@@ -3819,7 +4586,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp165",
+    "id": "spsp189",
     "igdbId": null,
     "gbId": 51927,
     "gbGuid": "3030-51927",
@@ -3842,7 +4609,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp166",
+    "id": "spsp190",
     "igdbId": 19202,
     "gbId": 24597,
     "gbGuid": "3030-24597",
@@ -3861,7 +4628,7 @@
     "special": []
   },
   {
-    "id": "spsp167",
+    "id": "spsp191",
     "name": "NBA",
     "details": [
       "Sony PSP launch title",
@@ -3898,7 +4665,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp168",
+    "id": "spsp192",
     "igdbId": 72721,
     "gbId": 23316,
     "gbGuid": "3030-23316",
@@ -3921,7 +4688,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp169",
+    "id": "spsp193",
     "igdbId": 38479,
     "gbId": 698,
     "gbGuid": "3030-698",
@@ -3940,7 +4707,7 @@
     "special": []
   },
   {
-    "id": "spsp170",
+    "id": "spsp194",
     "name": "NFL Street 2: Unleashed",
     "details": [
       "Sony PSP launch title"
@@ -3967,7 +4734,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp171",
+    "id": "spsp195",
     "igdbId": 46000,
     "gbId": null,
     "gbGuid": null,
@@ -3986,11 +4753,63 @@
     "special": []
   },
   {
+    "name": "Namco Museum Battle Collection",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp196",
+    "igdbId": 46000,
+    "gbId": 31470,
+    "gbGuid": "3030-31470",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Naruto: Ultimate Ninja Heroes",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp197",
+    "igdbId": 24281,
+    "gbId": 23007,
+    "gbGuid": "3030-23007",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Nayuta no Kiseki",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp172",
+    "id": "spsp198",
     "igdbId": 42722,
     "gbId": 37980,
     "gbGuid": "3030-37980",
@@ -4009,10 +4828,89 @@
     "special": []
   },
   {
-    "id": "spsp173",
+    "name": "Need for Speed: Carbon - Own the City",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp199",
+    "igdbId": 11639,
+    "gbId": 18021,
+    "gbGuid": "3030-18021",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Need for Speed: Most Wanted 5-1-0",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp200",
+    "igdbId": 121504,
+    "gbId": 11445,
+    "gbGuid": "3030-11445",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Need for Speed: ProStreet",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp201",
+    "igdbId": 100,
+    "gbId": 18095,
+    "gbGuid": "3030-18095",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "spsp202",
     "name": "Need for Speed: Underground Rivals",
     "details": [
-      "Sony PSP launch title"
+      "Sony PSP launch title",
+      "Sony PSP Greatest Hits"
     ],
     "igdbId": 22509,
     "gbId": 1591,
@@ -4028,15 +4926,27 @@
         "tgdbId": 13
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
     "name": "NeoGeo Heroes: Ultimate Shooting",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp174",
+    "id": "spsp203",
     "igdbId": 44507,
     "gbId": 31237,
     "gbGuid": "3030-31237",
@@ -4059,7 +4969,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp175",
+    "id": "spsp204",
     "igdbId": null,
     "gbId": 24968,
     "gbGuid": "3030-24968",
@@ -4082,7 +4992,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp176",
+    "id": "spsp205",
     "igdbId": 63077,
     "gbId": 43392,
     "gbGuid": "3030-43392",
@@ -4105,7 +5015,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp177",
+    "id": "spsp206",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4128,7 +5038,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp178",
+    "id": "spsp207",
     "igdbId": 93388,
     "gbId": 4342,
     "gbGuid": "3030-4342",
@@ -4151,7 +5061,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp179",
+    "id": "spsp208",
     "igdbId": 44506,
     "gbId": 20566,
     "gbGuid": "3030-20566",
@@ -4174,7 +5084,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp180",
+    "id": "spsp209",
     "igdbId": 46019,
     "gbId": 10673,
     "gbGuid": "3030-10673",
@@ -4195,9 +5105,10 @@
   {
     "name": "Patapon",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp181",
+    "id": "spsp210",
     "igdbId": 7812,
     "gbId": 14147,
     "gbGuid": "3030-14147",
@@ -4212,15 +5123,27 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Patapon 2",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp182",
+    "id": "spsp211",
     "igdbId": 7813,
     "gbId": 21113,
     "gbGuid": "3030-21113",
@@ -4243,7 +5166,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp183",
+    "id": "spsp212",
     "igdbId": 18373,
     "gbId": 31751,
     "gbGuid": "3030-31751",
@@ -4266,7 +5189,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp184",
+    "id": "spsp213",
     "igdbId": 21873,
     "gbId": 20887,
     "gbGuid": "3030-20887",
@@ -4289,7 +5212,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp185",
+    "id": "spsp214",
     "igdbId": 19256,
     "gbId": 27657,
     "gbGuid": "3030-27657",
@@ -4312,7 +5235,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp186",
+    "id": "spsp215",
     "igdbId": 23121,
     "gbId": 25329,
     "gbGuid": "3030-25329",
@@ -4335,7 +5258,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp187",
+    "id": "spsp216",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4358,7 +5281,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp188",
+    "id": "spsp217",
     "igdbId": 21618,
     "gbId": 20565,
     "gbGuid": "3030-20565",
@@ -4381,7 +5304,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp189",
+    "id": "spsp218",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4404,7 +5327,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp190",
+    "id": "spsp219",
     "igdbId": 21769,
     "gbId": 29106,
     "gbGuid": "3030-29106",
@@ -4427,7 +5350,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp191",
+    "id": "spsp220",
     "igdbId": 19101,
     "gbId": 23692,
     "gbGuid": "3030-23692",
@@ -4450,7 +5373,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp192",
+    "id": "spsp221",
     "igdbId": 11846,
     "gbId": 38890,
     "gbGuid": "3030-38890",
@@ -4473,7 +5396,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp193",
+    "id": "spsp222",
     "igdbId": 26995,
     "gbId": 205,
     "gbGuid": "3030-205",
@@ -4496,7 +5419,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp194",
+    "id": "spsp223",
     "igdbId": 23055,
     "gbId": 22289,
     "gbGuid": "3030-22289",
@@ -4519,7 +5442,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp195",
+    "id": "spsp224",
     "igdbId": 78105,
     "gbId": 20997,
     "gbGuid": "3030-20997",
@@ -4542,7 +5465,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp196",
+    "id": "spsp225",
     "igdbId": 66176,
     "gbId": 33585,
     "gbGuid": "3030-33585",
@@ -4565,7 +5488,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp197",
+    "id": "spsp226",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4588,7 +5511,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp198",
+    "id": "spsp227",
     "igdbId": 23036,
     "gbId": null,
     "gbGuid": null,
@@ -4611,7 +5534,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp199",
+    "id": "spsp228",
     "igdbId": 44505,
     "gbId": 27742,
     "gbGuid": "3030-27742",
@@ -4634,7 +5557,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp200",
+    "id": "spsp229",
     "igdbId": 93991,
     "gbId": 23808,
     "gbGuid": "3030-23808",
@@ -4657,7 +5580,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp201",
+    "id": "spsp230",
     "igdbId": 21702,
     "gbId": 39125,
     "gbGuid": "3030-39125",
@@ -4680,7 +5603,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp202",
+    "id": "spsp231",
     "igdbId": 23087,
     "gbId": 29072,
     "gbGuid": "3030-29072",
@@ -4699,11 +5622,37 @@
     "special": []
   },
   {
+    "name": "Ratchet & Clank: Size Matters",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp232",
+    "igdbId": 1791,
+    "gbId": 8837,
+    "gbGuid": "3030-8837",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Rengoku II: The Stairway to H.E.A.V.E.N.",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp203",
+    "id": "spsp233",
     "igdbId": 24185,
     "gbId": 17183,
     "gbGuid": "3030-17183",
@@ -4724,9 +5673,10 @@
   {
     "name": "Resistance: Retribution",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp204",
+    "id": "spsp234",
     "igdbId": 22885,
     "gbId": 21109,
     "gbGuid": "3030-21109",
@@ -4741,15 +5691,27 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Ricky Ponting 2007: Pressure Play",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp205",
+    "id": "spsp235",
     "igdbId": 70025,
     "gbId": 15955,
     "gbGuid": "3030-15955",
@@ -4768,11 +5730,12 @@
     "special": []
   },
   {
-    "id": "spsp206",
+    "id": "spsp236",
     "name": "Ridge Racer",
     "details": [
       "Sony PSP launch title",
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
     "igdbId": 18787,
     "gbId": 23114,
@@ -4798,14 +5761,26 @@
         "tgdbId": 13
       }
     ],
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ]
   },
   {
     "name": "Ridge Racer 2",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp207",
+    "id": "spsp237",
     "igdbId": 76259,
     "gbId": 23116,
     "gbGuid": "3030-23116",
@@ -4828,7 +5803,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp208",
+    "id": "spsp238",
     "igdbId": 2721,
     "gbId": 25421,
     "gbGuid": "3030-25421",
@@ -4851,7 +5826,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp209",
+    "id": "spsp239",
     "igdbId": 23112,
     "gbId": 37028,
     "gbGuid": "3030-37028",
@@ -4874,7 +5849,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp210",
+    "id": "spsp240",
     "igdbId": 77134,
     "gbId": 28874,
     "gbGuid": "3030-28874",
@@ -4895,9 +5870,10 @@
   {
     "name": "SOCOM: U.S. Navy SEALs Fireteam Bravo",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp211",
+    "id": "spsp241",
     "igdbId": 24148,
     "gbId": 2972,
     "gbGuid": "3030-2972",
@@ -4912,15 +5888,28 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "SOCOM: U.S. Navy SEALs Fireteam Bravo 2",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp212",
+    "id": "spsp242",
     "igdbId": 19431,
     "gbId": 5910,
     "gbGuid": "3030-5910",
@@ -4935,15 +5924,27 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "SOCOM: U.S. Navy SEALs Fireteam Bravo 3",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp213",
+    "id": "spsp243",
     "igdbId": 21665,
     "gbId": 25894,
     "gbGuid": "3030-25894",
@@ -4964,9 +5965,10 @@
   {
     "name": "SOCOM: U.S. Navy SEALs Tactical Strike",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp214",
+    "id": "spsp244",
     "igdbId": 22530,
     "gbId": 7023,
     "gbGuid": "3030-7023",
@@ -4981,15 +5983,27 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "SWAT: Target Liberty",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp215",
+    "id": "spsp245",
     "igdbId": 319,
     "gbId": 22538,
     "gbGuid": "3030-22538",
@@ -5012,7 +6026,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp216",
+    "id": "spsp246",
     "igdbId": 79069,
     "gbId": 52247,
     "gbGuid": "3030-52247",
@@ -5031,11 +6045,63 @@
     "special": []
   },
   {
+    "name": "Scarface: Money. Power. Respect.",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp247",
+    "igdbId": 5140,
+    "gbId": 23611,
+    "gbGuid": "3030-23611",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Secret Agent Clank",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp248",
+    "igdbId": 1793,
+    "gbId": 21000,
+    "gbGuid": "3030-21000",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Shining Ark",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp217",
+    "id": "spsp249",
     "igdbId": 64460,
     "gbId": 40112,
     "gbGuid": "3030-40112",
@@ -5058,7 +6124,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp218",
+    "id": "spsp250",
     "igdbId": 65348,
     "gbId": 37724,
     "gbGuid": "3030-37724",
@@ -5081,7 +6147,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp219",
+    "id": "spsp251",
     "igdbId": 66402,
     "gbId": 32553,
     "gbGuid": "3030-32553",
@@ -5104,7 +6170,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp220",
+    "id": "spsp252",
     "igdbId": 23108,
     "gbId": 24155,
     "gbGuid": "3030-24155",
@@ -5127,7 +6193,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp221",
+    "id": "spsp253",
     "igdbId": 72930,
     "gbId": 22278,
     "gbGuid": "3030-22278",
@@ -5150,7 +6216,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp222",
+    "id": "spsp254",
     "igdbId": 38467,
     "gbId": 39585,
     "gbGuid": "3030-39585",
@@ -5171,9 +6237,10 @@
   {
     "name": "Sonic Rivals",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp223",
+    "id": "spsp255",
     "igdbId": 19260,
     "gbId": 836,
     "gbGuid": "3030-836",
@@ -5188,15 +6255,28 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "Sonic Rivals 2",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp224",
+    "id": "spsp256",
     "igdbId": 19262,
     "gbId": 20583,
     "gbGuid": "3030-20583",
@@ -5211,15 +6291,27 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
   },
   {
     "name": "SoulCalibur: Broken Destiny",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp225",
+    "id": "spsp257",
     "igdbId": 1568,
     "gbId": 26088,
     "gbGuid": "3030-26088",
@@ -5242,7 +6334,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp226",
+    "id": "spsp258",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5261,7 +6353,7 @@
     "special": []
   },
   {
-    "id": "spsp227",
+    "id": "spsp259",
     "name": "Spider-Man 2",
     "details": [
       "Sony PSP launch title"
@@ -5284,11 +6376,38 @@
     "special": []
   },
   {
+    "name": "Spongebob Squarepants: The Yellow Avenger",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp260",
+    "igdbId": 2770,
+    "gbId": 10045,
+    "gbGuid": "3030-10045",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Star Wars Battlefront: Renegade Squadron",
     "details": [
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
-    "id": "spsp228",
+    "id": "spsp261",
     "igdbId": 23063,
     "gbId": 20614,
     "gbGuid": "3030-20614",
@@ -5303,15 +6422,79 @@
         "tgdbId": 13
       }
     ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Star Wars: Battlefront II",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp262",
+    "igdbId": 142,
+    "gbId": 7094,
+    "gbGuid": "3030-7094",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Star Wars: The Force Unleashed",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp263",
+    "igdbId": 475,
+    "gbId": 20626,
+    "gbGuid": "3030-20626",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
   },
   {
     "name": "Steambot Chronicles: Battle Tournament",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp229",
+    "id": "spsp264",
     "igdbId": 42891,
     "gbId": 25806,
     "gbGuid": "3030-25806",
@@ -5334,7 +6517,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp230",
+    "id": "spsp265",
     "igdbId": 46017,
     "gbId": 12962,
     "gbGuid": "3030-12962",
@@ -5357,7 +6540,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp231",
+    "id": "spsp266",
     "igdbId": 13110,
     "gbId": 39159,
     "gbGuid": "3030-39159",
@@ -5380,7 +6563,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp232",
+    "id": "spsp267",
     "igdbId": 42841,
     "gbId": null,
     "gbGuid": null,
@@ -5403,7 +6586,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp233",
+    "id": "spsp268",
     "igdbId": 20103,
     "gbId": 41592,
     "gbGuid": "3030-41592",
@@ -5422,11 +6605,37 @@
     "special": []
   },
   {
+    "name": "Syphon Filter: Dark Mirror",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp269",
+    "igdbId": 20764,
+    "gbId": 15502,
+    "gbGuid": "3030-15502",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Taishō Baseball Girls",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp234",
+    "id": "spsp270",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5449,7 +6658,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp235",
+    "id": "spsp271",
     "igdbId": 23098,
     "gbId": 18339,
     "gbGuid": "3030-18339",
@@ -5472,7 +6681,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp236",
+    "id": "spsp272",
     "igdbId": 42864,
     "gbId": 30419,
     "gbGuid": "3030-30419",
@@ -5495,7 +6704,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp237",
+    "id": "spsp273",
     "igdbId": 42723,
     "gbId": 25770,
     "gbGuid": "3030-25770",
@@ -5518,7 +6727,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp238",
+    "id": "spsp274",
     "igdbId": 42760,
     "gbId": 43498,
     "gbGuid": "3030-43498",
@@ -5541,7 +6750,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp239",
+    "id": "spsp275",
     "igdbId": 19159,
     "gbId": 21990,
     "gbGuid": "3030-21990",
@@ -5564,7 +6773,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp240",
+    "id": "spsp276",
     "igdbId": 42794,
     "gbId": 23947,
     "gbGuid": "3030-23947",
@@ -5587,7 +6796,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp241",
+    "id": "spsp277",
     "igdbId": 42793,
     "gbId": 36342,
     "gbGuid": "3030-36342",
@@ -5610,7 +6819,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp242",
+    "id": "spsp278",
     "igdbId": 38481,
     "gbId": null,
     "gbGuid": null,
@@ -5629,11 +6838,37 @@
     "special": []
   },
   {
+    "name": "Tekken 5: Dark Resurrection",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp279",
+    "igdbId": 1235,
+    "gbId": 11606,
+    "gbGuid": "3030-11606",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Tenchu: Time Of The Assassins",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp243",
+    "id": "spsp280",
     "igdbId": 44512,
     "gbId": 21002,
     "gbGuid": "3030-21002",
@@ -5656,7 +6891,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp244",
+    "id": "spsp281",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5679,7 +6914,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp245",
+    "id": "spsp282",
     "igdbId": 7359,
     "gbId": 22023,
     "gbGuid": "3030-22023",
@@ -5702,7 +6937,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp246",
+    "id": "spsp283",
     "igdbId": 22578,
     "gbId": 20595,
     "gbGuid": "3030-20595",
@@ -5725,7 +6960,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp247",
+    "id": "spsp284",
     "igdbId": 46020,
     "gbId": 30555,
     "gbGuid": "3030-30555",
@@ -5748,7 +6983,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp248",
+    "id": "spsp285",
     "igdbId": 38440,
     "gbId": 58151,
     "gbGuid": "3030-58151",
@@ -5771,7 +7006,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp249",
+    "id": "spsp286",
     "igdbId": 38441,
     "gbId": 58152,
     "gbGuid": "3030-58152",
@@ -5794,7 +7029,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp250",
+    "id": "spsp287",
     "igdbId": 38439,
     "gbId": 58153,
     "gbGuid": "3030-58153",
@@ -5817,7 +7052,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp251",
+    "id": "spsp288",
     "igdbId": 22458,
     "gbId": 5219,
     "gbGuid": "3030-5219",
@@ -5836,11 +7071,89 @@
     "special": []
   },
   {
+    "name": "The Simpsons Game",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp289",
+    "igdbId": 2656,
+    "gbId": 6781,
+    "gbGuid": "3030-6781",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Thrillville",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp290",
+    "igdbId": 2852,
+    "gbId": 18956,
+    "gbGuid": "3030-18956",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "Thrillville: Off the Rails",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp291",
+    "igdbId": 209,
+    "gbId": 18407,
+    "gbGuid": "3030-18407",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Tiger & Bunny: Hero's Day",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp252",
+    "id": "spsp292",
     "igdbId": 63842,
     "gbId": 41548,
     "gbGuid": "3030-41548",
@@ -5863,7 +7176,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp253",
+    "id": "spsp293",
     "igdbId": 11864,
     "gbId": 45614,
     "gbGuid": "3030-45614",
@@ -5886,7 +7199,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp254",
+    "id": "spsp294",
     "igdbId": 67379,
     "gbId": 28973,
     "gbGuid": "3030-28973",
@@ -5909,7 +7222,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp255",
+    "id": "spsp295",
     "igdbId": 67287,
     "gbId": 29334,
     "gbGuid": "3030-29334",
@@ -5928,11 +7241,37 @@
     "special": []
   },
   {
+    "name": "Tom Clancy's Ghost Recon Advanced Warfighter 2",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp296",
+    "igdbId": 1301,
+    "gbId": 270,
+    "gbGuid": "3030-270",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Tom Clancy's Ghost Recon Predator",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp256",
+    "id": "spsp297",
     "igdbId": 1302,
     "gbId": null,
     "gbGuid": null,
@@ -5951,11 +7290,37 @@
     "special": []
   },
   {
+    "name": "Tom Clancy's Rainbow Six: Vegas",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp298",
+    "igdbId": 196507,
+    "gbId": 3550,
+    "gbGuid": "3030-3550",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Tom Clancy's Splinter Cell Essentials",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp257",
+    "id": "spsp299",
     "igdbId": 22632,
     "gbId": 13667,
     "gbGuid": "3030-13667",
@@ -5974,11 +7339,38 @@
     "special": []
   },
   {
-    "id": "spsp258",
+    "name": "Tony Hawk's Project 8",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp300",
+    "igdbId": 6204,
+    "gbId": 12077,
+    "gbGuid": "3030-12077",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "id": "spsp301",
     "name": "Tony Hawk's Underground 2 Remix",
     "details": [
       "Sony PSP launch title",
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
     "igdbId": 22311,
     "gbId": 18231,
@@ -6004,14 +7396,26 @@
         "tgdbId": 13
       }
     ],
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ]
   },
   {
     "name": "Toradora! Portable",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp259",
+    "id": "spsp302",
     "igdbId": 42752,
     "gbId": 46604,
     "gbGuid": "3030-46604",
@@ -6030,11 +7434,37 @@
     "special": []
   },
   {
+    "name": "Transformers: The Game",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp303",
+    "igdbId": 5244,
+    "gbId": 16624,
+    "gbGuid": "3030-16624",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Traxxpad: Portable Studio",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp260",
+    "id": "spsp304",
     "igdbId": 71039,
     "gbId": 915,
     "gbGuid": "3030-915",
@@ -6057,7 +7487,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp261",
+    "id": "spsp305",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6076,10 +7506,11 @@
     "special": []
   },
   {
-    "id": "spsp262",
+    "id": "spsp306",
     "name": "Twisted Metal: Head-On",
     "details": [
-      "Sony PSP launch title"
+      "Sony PSP launch title",
+      "Sony PSP Greatest Hits"
     ],
     "igdbId": 5414,
     "gbId": 9259,
@@ -6095,15 +7526,27 @@
         "tgdbId": 13
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false
   },
   {
     "name": "Ultimate Ghosts 'n Goblins",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp263",
+    "id": "spsp307",
     "igdbId": 12481,
     "gbId": null,
     "gbGuid": null,
@@ -6126,7 +7569,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp264",
+    "id": "spsp308",
     "igdbId": 64212,
     "gbId": 40743,
     "gbGuid": "3030-40743",
@@ -6149,7 +7592,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp265",
+    "id": "spsp309",
     "igdbId": 23358,
     "gbId": 26889,
     "gbGuid": "3030-26889",
@@ -6168,11 +7611,12 @@
     "special": []
   },
   {
-    "id": "spsp266",
+    "id": "spsp310",
     "name": "Untold Legends: Brotherhood of the Blade",
     "details": [
       "Sony PSP launch title",
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
     "igdbId": 22508,
     "gbId": 3247,
@@ -6198,14 +7642,26 @@
         "tgdbId": 13
       }
     ],
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ]
   },
   {
     "name": "Untold Legends: The Warrior's Code",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp267",
+    "id": "spsp311",
     "igdbId": 23006,
     "gbId": 2603,
     "gbGuid": "3030-2603",
@@ -6228,7 +7684,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp268",
+    "id": "spsp312",
     "igdbId": 20073,
     "gbId": 16776,
     "gbGuid": "3030-16776",
@@ -6251,7 +7707,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp269",
+    "id": "spsp313",
     "igdbId": 20071,
     "gbId": 21162,
     "gbGuid": "3030-21162",
@@ -6274,7 +7730,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp270",
+    "id": "spsp314",
     "igdbId": 14675,
     "gbId": null,
     "gbGuid": null,
@@ -6297,7 +7753,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp271",
+    "id": "spsp315",
     "igdbId": 22312,
     "gbId": 9908,
     "gbGuid": "3030-9908",
@@ -6320,7 +7776,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp272",
+    "id": "spsp316",
     "igdbId": 119183,
     "gbId": 31982,
     "gbGuid": "3030-31982",
@@ -6343,7 +7799,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp273",
+    "id": "spsp317",
     "igdbId": 42853,
     "gbId": 15646,
     "gbGuid": "3030-15646",
@@ -6362,11 +7818,167 @@
     "special": []
   },
   {
+    "name": "WWE SmackDown vs. Raw 2007",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp318",
+    "igdbId": 7252,
+    "gbId": 6,
+    "gbGuid": "3030-6",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "WWE SmackDown vs. Raw 2008",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp319",
+    "igdbId": 5298,
+    "gbId": 12592,
+    "gbGuid": "3030-12592",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "WWE SmackDown vs. Raw 2009",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp320",
+    "igdbId": 5299,
+    "gbId": 20680,
+    "gbGuid": "3030-20680",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "WWE SmackDown vs. Raw 2010",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp321",
+    "igdbId": 5300,
+    "gbId": 26888,
+    "gbGuid": "3030-26888",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "WWE SmackDown vs. Raw 2011",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp322",
+    "igdbId": 2265,
+    "gbId": 31640,
+    "gbGuid": "3030-31640",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
+    "name": "WWE SmackDown! vs. Raw 2006",
+    "details": [
+      "Sony PSP Greatest Hits"
+    ],
+    "id": "spsp323",
+    "igdbId": 18323,
+    "gbId": 10338,
+    "gbGuid": "3030-10338",
+    "tgdbId": null,
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false
+  },
+  {
     "name": "Warhammer: Battle for Atluma",
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp274",
+    "id": "spsp324",
     "igdbId": 28882,
     "gbId": 7518,
     "gbGuid": "3030-7518",
@@ -6389,7 +8001,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp275",
+    "id": "spsp325",
     "igdbId": 21577,
     "gbId": 24119,
     "gbGuid": "3030-24119",
@@ -6412,7 +8024,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp276",
+    "id": "spsp326",
     "igdbId": 22968,
     "gbId": 24120,
     "gbGuid": "3030-24120",
@@ -6435,7 +8047,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp277",
+    "id": "spsp327",
     "igdbId": 42811,
     "gbId": 33334,
     "gbGuid": "3030-33334",
@@ -6458,7 +8070,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp278",
+    "id": "spsp328",
     "igdbId": 1683,
     "gbId": 21961,
     "gbGuid": "3030-21961",
@@ -6477,11 +8089,12 @@
     "special": []
   },
   {
-    "id": "spsp279",
+    "id": "spsp329",
     "name": "Wipeout Pure",
     "details": [
       "Sony PSP launch title",
-      "Sony PlayStation Portable exclusive"
+      "Sony PlayStation Portable exclusive",
+      "Sony PSP Greatest Hits"
     ],
     "igdbId": 1542,
     "gbId": 14796,
@@ -6507,10 +8120,22 @@
         "tgdbId": 13
       }
     ],
-    "special": []
+    "special": [
+      {
+        "value": "Sony PSP Greatest Hits",
+        "forPlatform": {
+          "name": "Sony Playstation Portable",
+          "id": "ccl24",
+          "igdbId": 38,
+          "gbId": 18,
+          "gbGuid": "3045-18",
+          "tgdbId": 13
+        }
+      }
+    ]
   },
   {
-    "id": "spsp280",
+    "id": "spsp330",
     "name": "World Tour Soccer",
     "details": [
       "Sony PSP launch title",
@@ -6547,7 +8172,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp281",
+    "id": "spsp331",
     "igdbId": 20467,
     "gbId": 32318,
     "gbGuid": "3030-32318",
@@ -6570,7 +8195,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp282",
+    "id": "spsp332",
     "igdbId": 42772,
     "gbId": 30364,
     "gbGuid": "3030-30364",
@@ -6593,7 +8218,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp283",
+    "id": "spsp333",
     "igdbId": 19816,
     "gbId": null,
     "gbGuid": null,
@@ -6616,7 +8241,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp284",
+    "id": "spsp334",
     "igdbId": 11697,
     "gbId": 25230,
     "gbGuid": "3030-25230",
@@ -6639,7 +8264,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp285",
+    "id": "spsp335",
     "igdbId": 9295,
     "gbId": 30138,
     "gbGuid": "3030-30138",
@@ -6662,7 +8287,7 @@
     "details": [
       "Sony PlayStation Portable exclusive"
     ],
-    "id": "spsp286",
+    "id": "spsp336",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
