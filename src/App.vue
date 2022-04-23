@@ -40,7 +40,10 @@
           v-on:gameData="gameSelected"
           v-on:jointList="getJointList"
         ></FileSearch>
-        <ConsolesSearch v-if="searchSource === 'Consoles List Search'" :currentList="currentList"></ConsolesSearch>
+        <ConsolesSearch
+          v-if="searchSource === 'Consoles List Search'"
+          :currentList="currentList"
+        ></ConsolesSearch>
         <Search
           :platform="selected"
           v-on:gameData="gameSelected"
@@ -64,7 +67,14 @@
         </v-card>
       </v-container>
       <v-container class="app-right" style="height: 100%;">
-        <GameInfo :game="currentGame" :fixed="fixedGame" class="game-card" :reset="reset"></GameInfo>
+        <GameInfo
+          :game="currentGame"
+          :fixed="fixedGame"
+          class="game-card"
+          :reset="reset"
+          :index="currentIndex + 1"
+          :total="currentList ? currentList.length : 0"
+        ></GameInfo>
         <FSListEntries :jointList="jointList" v-if="jointList"></FSListEntries>
       </v-container>
     </v-layout>

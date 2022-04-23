@@ -11,11 +11,11 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/pspLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/ps4LaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/sonyPspExclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/sonyPlaystation4Exclusives.json'
   },
   // {
   //   key: 'special',
@@ -23,7 +23,7 @@ const filesArr = [
   // },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/greatestHits/sonyPlayStationPortableGreatestHits.json'
+    path: '../../finalOutput/smallFiles/greatestHits/sonyPlayStation4GreatestHits.json'
   }
   // {
   //   key: 'special',
@@ -34,9 +34,9 @@ const filesArr = [
   //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
   // }
 ];
-const mlId = 'ccl24';
-const outPath = '../../finalOutput/consoleLists/SonyPlayStationPortable.json';
-const idPrefix = 'spsp';
+const mlId = 'ccl23';
+const outPath = '../../finalOutput/consoleLists/SonyPlayStation4.json';
+const idPrefix = 'sps4';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
