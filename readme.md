@@ -92,6 +92,8 @@ I'm still gathering data and working out the data structures. To build this out,
 
 ## Data Being Collected
 
+NOTE: I've added "totalGames" to the consoleMasterList.json. The idea here is to have the total number of games released for each console in each region, but the problem has quickly become finding good data for this. Some consoles had a limited number of games released and I can find consistent numbers for the total. Others, like the NES, seem to be widely debated and have added complexity like unlicensed games. I'm working to find the most accurate totals possible, but just know that if you use these counts, they might not be 100% correct all of the time.
+
 I've been scouring the web for unique data points and will continue to do so. Here's the data I've scraped thus far:
 
 ### Console/Platform launch titles
