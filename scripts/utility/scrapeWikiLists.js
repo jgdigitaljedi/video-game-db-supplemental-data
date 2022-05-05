@@ -3,8 +3,8 @@ const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
 
-const siteUrl = 'https://wikiless.org/wiki/Greatest_Hits_(PlayStation)?lang=en#PlayStation';
-const filePath = '../../textFilesToBeConverted/greatestHits/sonyPS.json';
+const siteUrl = 'https://wikiless.org/wiki/Platinum_Hits?lang=en';
+const filePath = '../../textFilesToBeConverted/greatestHits/xboxPlatinum.json';
 const platform = '';
 const digitalText = '';
 
@@ -24,10 +24,10 @@ function makeRequest(url) {
   makeRequest(siteUrl).then(html => {
     const $ = cheerio.load(html);
     const data = [];
-    const items = $('table tr td i a');
+    const items = $('.div-col ul li i a');
     $(items).each((index, item) => {
       console.log('this', $(item).text());
-      data.push({ name: $(item).text(), details: `${platform} Nintendo Select ` });
+      data.push({ name: $(item).text(), details: `${platform} Hits ` });
     });
     fileUtil.writeFile(filePath, data);
     console.log(chalk.cyan.bold('Scraping complete and file written!'));

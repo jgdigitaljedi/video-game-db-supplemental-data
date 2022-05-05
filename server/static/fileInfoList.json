@@ -794,5 +794,47 @@
     "filePath": "../textFilesToBeConverted/greatestHits/sonyPlayStationPortableGreatestHits.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Xbox Platinum Hits",
+    "filePath": "../textFilesToBeConverted/greatestHits/xboxPlatinumHits.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Xbox Platinum Collection (Japan)",
+    "filePath": "../textFilesToBeConverted/greatestHits/xboxPlatinumCollectionJP.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Xbox Classics (PAL)",
+    "filePath": "../textFilesToBeConverted/greatestHits/xboxClassicsPal.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Xbox 360 Platinum Hits",
+    "filePath": "../textFilesToBeConverted/greatestHits/xbox360PlatinumHits.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Xbox 360 Platinum Collection (Japan)",
+    "filePath": "../textFilesToBeConverted/greatestHits/xbox360PlatinumCollectionJP.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Xbox 360 Classics (PAL)",
+    "filePath": "../textFilesToBeConverted/greatestHits/xbox360ClassicsPal.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Xbox One Greatest Hits",
+    "filePath": "../textFilesToBeConverted/greatestHits/xboxOneGreatestHits.json",
+    "type": "Game",
+    "complete": false
   }
 ]
