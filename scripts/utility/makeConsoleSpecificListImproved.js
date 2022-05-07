@@ -11,19 +11,19 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/ps3LaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/xboxOneLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/sonyPlaystation3Exclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/xboxOneExclusives.json'
   },
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/regionLock/ps3RegionLockExceptions.json'
+  // },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/regionLock/ps3RegionLockExceptions.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/greatestHits/sonyPlayStation3GreatestHits.json'
+    path: '../../finalOutput/smallFiles/greatestHits/xboxOneGreatestHits.json'
   }
   // {
   //   key: 'special',
@@ -34,9 +34,9 @@ const filesArr = [
   //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
   // }
 ];
-const mlId = 'ccl22';
-const outPath = '../../finalOutput/consoleLists/SonyPlayStation3.json';
-const idPrefix = 'sps3';
+const mlId = 'ccl27';
+const outPath = '../../finalOutput/consoleLists/MicrosoftXboxOne.json';
+const idPrefix = 'mxb1';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;
