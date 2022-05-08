@@ -11,31 +11,35 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/xboxOneLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/xboxLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/xboxOneExclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/microsoftXboxExclusives.json'
   },
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/regionLock/ps3RegionLockExceptions.json'
-  // },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/greatestHits/xboxOneGreatestHits.json'
+    path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXboxOne.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/greatestHits/xboxPlatinumHits.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/greatestHits/xboxPlatinumCollectionJP.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/greatestHits/xboxClassicsPal.json'
   }
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/special/playstationLongboxGames.json'
-  // }
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/multiplayer/nesFourScore.json'
-  // }
 ];
-const mlId = 'ccl27';
-const outPath = '../../finalOutput/consoleLists/MicrosoftXboxOne.json';
+const mlId = 'ccl25';
+const outPath = '../../finalOutput/consoleLists/MicrosoftXbox.json';
 const idPrefix = 'mxb1';
 
 function makeCombinedId(item) {
