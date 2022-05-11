@@ -222,10 +222,12 @@ I've been scouring the web for unique data points and will continue to do so. He
 
 ### Greatest Hits/Player's Choice/Selects/etc
 
-- Microsoft Xbox One Greatest Hits
 - Microsoft Xbox Platinum Hits
 - Microsoft Xbox Platinum Collection (Japan)
 - Microsoft Xbox Classics (PAL)
+- Microsoft Xbox 360 Platinum Hits
+- Microsoft Xbox 360 Platinum Collection (Japan)
+- Microsoft Xbox One Greatest Hits
 - Nintendo 3DS Nintendo Selects
 - Nintendo 64 Player's Choice
 - Nintendo Game Boy Player's Choice
@@ -260,8 +262,8 @@ Since I have been using these APIs to try and build out my JSON data matching th
 
 Before deciding to end support for TheGames DB, I had collected 7812 data points and TheGames DB was missing 1106 or 14% of those results.
 
-Out of 12916 data points collected so far, the APIs are missing data the following number of items:
+Out of 13221 data points collected so far, the APIs are missing data the following number of items:
 
-- Missing from all APIs: 1346 (10%)
+- Missing from all APIs: 1350 (10%)
 - IGDB: 230 (2%)
-- Giantbomb: 1165 (9%)
+- Giantbomb: 1175 (9%)
