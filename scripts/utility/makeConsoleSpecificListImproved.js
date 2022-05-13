@@ -11,36 +11,36 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/xboxLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/xbox360LaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/microsoftXboxExclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/xbox360Exclusives.json'
   },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXbox360.json'
+    path: '../../finalOutput/smallFiles/backwardCompatibilityLists/Xbox360ToXboxOne.json'
+  },
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXboxOne.json'
+  // },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/greatestHits/xbox360PlatinumHits.json'
   },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXboxOne.json'
+    path: '../../finalOutput/smallFiles/greatestHits/xbox360PlatinumCollectionJP.json'
   },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/greatestHits/xboxPlatinumHits.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/greatestHits/xboxPlatinumCollectionJP.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/greatestHits/xboxClassicsPal.json'
+    path: '../../finalOutput/smallFiles/greatestHits/xbox360ClassicsPal.json'
   }
 ];
-const mlId = 'ccl25';
-const outPath = '../../finalOutput/consoleLists/MicrosoftXbox.json';
-const idPrefix = 'mxb1';
+const mlId = 'ccl26';
+const outPath = '../../finalOutput/consoleLists/MicrosoftXbox360.json';
+const idPrefix = 'x360';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

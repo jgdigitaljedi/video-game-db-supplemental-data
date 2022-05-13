@@ -31,15 +31,15 @@ async function checkFileForApiInfo(file) {
     const fParsed = fContents ? JSON.parse(fContents) : null;
     if (fParsed) {
       fParsed.forEach(item => {
-        if (!item.igdbId && !item.gbId && !item.tgdbId) {
+        if (!item.igdbId && !item.gbId) {
           allThree++;
         } else {
           if (!item.igdbId) {
             igdb++;
           }
-          if (!item.tgdbId) {
-            tgdb++;
-          }
+          // if (!item.tgdbId) {
+          //   tgdb++;
+          // }
           if (!item.gbId) {
             gb++;
           }
@@ -67,13 +67,13 @@ async function checkFileForApiInfo(file) {
   );
 
   const igdbPer = getPercentage(igdb, total);
-  const tgdbPer = getPercentage(tgdb, total);
+  // const tgdbPer = getPercentage(tgdb, total);
   const gbPer = getPercentage(gb, total);
   const totalPer = getPercentage(allThree, total);
 
   console.log(chalk.cyan.bold(`Missing from all: ${allThree} (${totalPer}%)`));
   console.log(chalk.green.bold(`IGDB: ${igdb} (${igdbPer}%)`));
-  console.log(chalk.yellow.bold(`TheGamesDB: ${tgdb} (${tgdbPer}%)`));
+  // console.log(chalk.yellow.bold(`TheGamesDB: ${tgdb} (${tgdbPer}%)`));
   console.log(chalk.magenta.bold(`Giantbomb: ${gb} (${gbPer}%)`));
   const rm = await fileUtil.readFile('../../readme.md');
   const statsRemoved = rm.split('\n');
