@@ -11,9 +11,9 @@ const typePrefixObj = {
 };
 
 /* change these fields for each list */
-const iaeUrl = 'https://iamerror.gamehacking.org/?page=database&catID=7&sysID=35';
+const iaeUrl = 'https://iamerror.gamehacking.org/?page=database&catID=17&sysID=59';
 const itemType = 'game';
-const platPrefix = 'dc';
+const platPrefix = 'cdi';
 /************************************/
 
 const filePath = path.join(__dirname, './output.json');
