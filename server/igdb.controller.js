@@ -185,3 +185,4 @@ router.post('/platform', async (req, res) => {
 });
 
 module.exports = router;
+module.exports.igdbPlatformSearch = platformSearch;
