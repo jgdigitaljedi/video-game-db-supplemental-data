@@ -11,36 +11,36 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/xbox360LaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/sega32xLaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/xbox360Exclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/sega32xExclusives.json'
+  },
+  {
+    key: 'misprintsAndErrors',
+    path: '../../finalOutput/smallFiles/misprintsAndErrors/sega32xMisprintsAndErrors.json'
   },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/backwardCompatibilityLists/Xbox360ToXboxOne.json'
-  },
+    path: '../../finalOutput/smallFiles/multiplayer/sega32xTeamPlayer.json'
+  }
   // {
   //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/backwardCompatibilityLists/XboxToXboxOne.json'
+  //   path: '../../finalOutput/smallFiles/greatestHits/xbox360PlatinumHits.json'
   // },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/greatestHits/xbox360PlatinumHits.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/greatestHits/xbox360PlatinumCollectionJP.json'
-  },
-  {
-    key: 'special',
-    path: '../../finalOutput/smallFiles/greatestHits/xbox360ClassicsPal.json'
-  }
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/greatestHits/xbox360PlatinumCollectionJP.json'
+  // },
+  // {
+  //   key: 'special',
+  //   path: '../../finalOutput/smallFiles/greatestHits/xbox360ClassicsPal.json'
+  // }
 ];
-const mlId = 'ccl26';
-const outPath = '../../finalOutput/consoleLists/MicrosoftXbox360.json';
-const idPrefix = 'x360';
+const mlId = 'ccl16';
+const outPath = '../../finalOutput/consoleLists/Sega32X.json';
+const idPrefix = 's32x';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

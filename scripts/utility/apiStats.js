@@ -33,17 +33,17 @@ async function checkFileForApiInfo(file) {
       fParsed.forEach(item => {
         if (!item.igdbId && !item.gbId) {
           allThree++;
-        } else {
-          if (!item.igdbId) {
-            igdb++;
-          }
-          // if (!item.tgdbId) {
-          //   tgdb++;
-          // }
-          if (!item.gbId) {
-            gb++;
-          }
         }
+        if (!item.igdbId) {
+          igdb++;
+        }
+        // if (!item.tgdbId) {
+        //   tgdb++;
+        // }
+        if (!item.gbId) {
+          gb++;
+        }
+
         total++;
       });
     }
