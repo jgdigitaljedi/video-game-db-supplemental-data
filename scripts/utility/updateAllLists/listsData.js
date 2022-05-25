@@ -169,7 +169,7 @@ module.exports.listData = [
     id: 'ccl14',
     launchTitles: require('../../../finalOutput/smallFiles/launchTitles/genesisLaunchTitles.json'),
     exclusives: require('../../../finalOutput/smallFiles/platformExclusives/segaGenesisExclusives.json'),
-    misprintsAndErrors: null,
+    misprintsAndErrors: require('../../../finalOutput/smallFiles/misprintsAndErrors/genesisMisprintsAndErrors.json'),
     special: [
       require('../../../finalOutput/smallFiles/special/blackBoxGridGenesisGames.json'),
       require('../../../finalOutput/smallFiles/multiplayer/segaGenesisTeamPlayer.json')
