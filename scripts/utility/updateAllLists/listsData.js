@@ -305,7 +305,8 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: [
       require(path.resolve(smallFiles, 'multiplayer/playStationMultitap.json')),
-      require(path.resolve(smallFiles, 'greatestHits/sonyPlayStationGreatestHits.json'))
+      require(path.resolve(smallFiles, 'greatestHits/sonyPlayStationGreatestHits.json')),
+      require(path.resolve(smallFiles, 'special/playstationLongboxGames.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlaystation.json')
   },
@@ -323,5 +324,24 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'special/bannedInternationally.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlaystation2.json')
+  },
+  {
+    name: 'Sony Playstation 3',
+    id: 'ccl22',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/ps3LaunchTitles.json')),
+    exclusives: require(path.resolve(
+      smallFiles,
+      'platformExclusives/sonyPlaystation3Exclusives.json'
+    )),
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/ps3MisprintsAndErrors.json'
+    )),
+    special: [
+      require(path.resolve(smallFiles, 'regionLock/ps3RegionLockExceptions.json')),
+      require(path.resolve(smallFiles, 'special/bannedInternationally.json')),
+      require(path.resolve(smallFiles, 'greatestHits/sonyPlayStation3GreatestHits.json'))
+    ],
+    output: path.resolve(consoleLists, 'SonyPlayStation3.json')
   }
 ];
