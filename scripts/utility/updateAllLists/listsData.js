@@ -100,7 +100,10 @@ module.exports.listData = [
     prefix: 'ngc',
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/gamecubeLaunchTitles.json')),
     exclusives: require(path.resolve(smallFiles, 'platformExclusives/gamecubeExclusives.json')),
-    misprintsAndErrors: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/gameCubeMisprintsAndErrors.json'
+    )),
     special: [
       require(path.resolve(smallFiles, 'greatestHits/gamecubeEuropePlayersChoice.json')),
       require(path.resolve(smallFiles, 'greatestHits/gamecubePlayersChoice.json'))
