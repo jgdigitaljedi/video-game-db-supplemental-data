@@ -187,7 +187,10 @@ module.exports.listData = [
       smallFiles,
       'platformExclusives/nintendoGameBoyAdvanceExclusives.json'
     )),
-    misprintsAndErrors: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/gbaMisprintsAndErrors.json'
+    )),
     special: [require(path.resolve(smallFiles, 'greatestHits/gbaPlayersChoice.json'))],
     output: path.resolve(consoleLists, 'NintendoGameBoyAdvance.json')
   },
@@ -382,7 +385,10 @@ module.exports.listData = [
       smallFiles,
       'platformExclusives/sonyPlaystation4Exclusives.json'
     )),
-    misprintsAndErrors: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/ps4MisprintsAndErrors.json'
+    )),
     special: [require(path.resolve(smallFiles, 'greatestHits/sonyPlayStation4GreatestHits.json'))],
     output: path.resolve(consoleLists, 'SonyPlayStation4.json')
   },
@@ -540,5 +546,191 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'TurboGrafxCD.json')
+  },
+  {
+    name: '3DO Interactive Multiplayer',
+    id: 'ccl35',
+    prefix: 'r3do',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/3doLaunchTitles.json')),
+    exclusives: require(path.resolve(smallFiles, 'platformExclusives/3doExclusives.json')),
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, '3DOInteractiveMultiplayer.json')
+  },
+  {
+    name: 'Philips CD-i',
+    id: 'ccl36',
+    prefix: 'pcdi',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/cdiLaunchTitles.json')),
+    exclusives: require(path.resolve(smallFiles, 'platformExclusives/philipsCdiExclusives.json')),
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/philipsCdiMisprintsAndErrors.json'
+    )),
+    special: null,
+    output: path.resolve(consoleLists, 'PhilipsCDi.json')
+  },
+  {
+    name: 'Neo Geo Pocket Color',
+    id: 'ccl37',
+    prefix: 'ngpc',
+    launchTitles: require(path.resolve(
+      smallFiles,
+      'launchTitles/neoGeoPocketColorLaunchTitles.json'
+    )),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'NeoGeoPocketColor.json')
+  },
+  {
+    name: 'Colecovision',
+    id: 'ccl38',
+    prefix: 'cole',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/colecoVisionLaunchTitles.json')),
+    exclusives: require(path.resolve(smallFiles, 'platformExclusives/colecovisionExclusives.json')),
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/colecovisionMisprintsAndErrors.json'
+    )),
+    special: null,
+    output: path.resolve(consoleLists, 'ColecoVision.json')
+  },
+  {
+    name: 'Nokia N-Gage',
+    id: 'ccl39',
+    prefix: 'ngag',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/ngageLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/ngageMisprintsAndErrors.json'
+    )),
+    special: null,
+    output: path.resolve(consoleLists, 'NokiaNGage.json')
+  },
+  {
+    name: 'Gizmondo',
+    id: 'ccl41',
+    prefix: 'giz',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/gizmondoLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/gizmondoMisprintsAndErrors.json'
+    )),
+    special: null,
+    output: path.resolve(consoleLists, 'Gizmondo.json')
+  },
+  {
+    name: 'Bally Astrocade',
+    id: 'ccl42',
+    prefix: 'bac',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/astrocadeLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'BallyAstrocade.json')
+  },
+  {
+    name: 'Atari Jaguar CD',
+    id: 'ccl43',
+    prefix: 'ajcd',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/atariJaguarCdLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'AtariJaguarCD.json')
+  },
+  {
+    name: 'Mattel Intellivision',
+    id: 'ccl44',
+    prefix: 'miv',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/intellivisionLaunchTitles.json')),
+    exclusives: require(path.resolve(
+      smallFiles,
+      'platformExclusives/intellivisionExclusives.json'
+    )),
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/intellivisionMisprintsAndErrors.json'
+    )),
+    special: null,
+    output: path.resolve(consoleLists, 'MattelIntellivision.json')
+  },
+  {
+    name: 'Sony Playstation Vita',
+    id: 'ccl45',
+    prefix: 'psv',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/psVitaLaunchTitles.json')),
+    exclusives: require(path.resolve(
+      smallFiles,
+      'platformExclusives/sonyPlaystationVitaExclusives.json'
+    )),
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/vitaMisprintsAndErrors.json'
+    )),
+    special: null,
+    output: path.resolve(consoleLists, 'SonyPlaystationVita.json')
+  },
+  {
+    name: 'Game.com',
+    id: 'ccl46',
+    prefix: 'gdc',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/gameComLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'GameCom.json')
+  },
+  {
+    name: 'Magnavox Odyssey 2',
+    id: 'ccl47',
+    prefix: 'mod2',
+    launchTitles: require(path.resolve(
+      smallFiles,
+      'launchTitles/magnavoxOdyssey2LaunchTitles.json'
+    )),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'MagnavoxOdyssey2.json')
+  },
+  {
+    name: 'Sony PlayStation 5',
+    id: 'ccl48',
+    prefix: 'sps5',
+    launchTitles: null,
+    exclusives: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/ps5MisprintsAndErrors.json'
+    )),
+    special: null,
+    output: path.resolve(consoleLists, 'SonyPlayStation5.json')
+  },
+  {
+    name: 'Xbox Series X|S',
+    id: 'ccl49',
+    prefix: 'xbs',
+    launchTitles: null,
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'XboxSeries.json')
+  },
+  {
+    name: 'SNK Neo Geo AES',
+    id: 'ccl50',
+    prefix: 'ngaes',
+    launchTitles: null,
+    exclusives: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/neoGeoAesMisprintsAndErrors.json'
+    )),
+    special: null,
+    output: path.resolve(consoleLists, 'NeoGeoAES.json')
   }
 ];
