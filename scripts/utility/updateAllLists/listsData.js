@@ -352,7 +352,10 @@ module.exports.listData = [
       smallFiles,
       'platformExclusives/sonyPlaystation2Exclusives.json'
     )),
-    misprintsAndErrors: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/ps2MisprintsAndErrors.json'
+    )),
     special: [
       require(path.resolve(smallFiles, 'greatestHits/sonyPlayStation2GreatestHits.json')),
       require(path.resolve(smallFiles, 'special/bannedInternationally.json'))
