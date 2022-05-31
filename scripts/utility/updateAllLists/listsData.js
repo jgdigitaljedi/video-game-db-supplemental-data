@@ -6,19 +6,6 @@ const consoleLists = path.join(__dirname, '../../../finalOutput/consoleListsTest
 
 module.exports.listData = [
   {
-    name: 'Magnavox Odyssey 2',
-    id: 'ccl47',
-    prefix: 'mod',
-    launchTitles: require(path.resolve(
-      smallFiles,
-      'launchTitles/magnavoxOdyssey2LaunchTitles.json'
-    )),
-    exclusives: null,
-    misprintsAndErrors: null,
-    special: null,
-    output: path.resolve(consoleLists, 'MagnovoxOdysee2.json')
-  },
-  {
     name: 'Famicom Disk System',
     id: 'ccl48',
     prefix: 'fds',
@@ -474,7 +461,10 @@ module.exports.listData = [
     prefix: 'a260',
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/atari2600LaunchTitles.json')),
     exclusives: require(path.resolve(smallFiles, 'platformExclusives/atari2600Exclusives.json')),
-    misprintsAndErrors: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/atari2600misprintsErrors.json'
+    )),
     special: null,
     output: path.resolve(consoleLists, 'Atari2600.json')
   },
