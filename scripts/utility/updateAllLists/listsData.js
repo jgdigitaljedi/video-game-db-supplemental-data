@@ -47,7 +47,10 @@ module.exports.listData = [
     prefix: 'nes',
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/nesLaunchTitles.json')),
     exclusives: require(path.resolve(smallFiles, 'platformExclusives/nesExclusives.json')),
-    misprintsAndErrors: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/nesMisprintsAndErrors.json'
+    )),
     special: [
       require(path.resolve(smallFiles, 'multiplayer/nesFourScore.json')),
       require(path.resolve(smallFiles, 'special/nesBlackBoxTitles.json')),
