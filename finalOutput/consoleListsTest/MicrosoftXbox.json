@@ -2305,7 +2305,21 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -2420,7 +2434,34 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      },
+      {
+        "value": [
+          "banned in Singapore: Banned because of excessive violence. The ban was later lifted and the title re-rated M18"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Microsoft/Xbox/shrekshrk.jpg",
@@ -2810,5 +2851,4267 @@
         "type": "Printing"
       }
     ]
+  },
+  {
+    "name": "Outlast 2",
+    "id": "mxb121",
+    "igdbId": 14390,
+    "gbId": 48099,
+    "gbGuid": "3030-48099",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Australia"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tropico 5",
+    "id": "mxb122",
+    "igdbId": 3211,
+    "gbId": 43535,
+    "gbGuid": "3030-43535",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Thailand: The military junta claims that it could 'affect peace and order' within the country."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dante's Inferno",
+    "id": "mxb123",
+    "igdbId": 28854,
+    "gbId": 8828,
+    "gbGuid": "3030-8828",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Malaysia: banned by Jabatan Agama Islam (JAIS) in Malaysia for offensive depictions of cruelty, hellish visions, sexuality and content that was against Sharia."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Battlefield 3",
+    "id": "mxb124",
+    "igdbId": 343,
+    "gbId": 27006,
+    "gbGuid": "3030-27006",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Iran: Battlefield 3 was banned because it presented a fictional U.S. invasion on Tehran."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pokémon GO",
+    "id": "mxb125",
+    "igdbId": 12515,
+    "gbId": 50840,
+    "gbGuid": "3030-50840",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Iran: security reasons",
+          "banned in Malaysia: banned by the Federal Territory for Muslims for promoting the search for power, which leads to gambling and safety issues related to playing the game. The ban was later lifted following massive backlash on social media and an update that slightly modified security measures on the app."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "EA Sports MMA",
+    "id": "mxb126",
+    "igdbId": 6984,
+    "gbId": 26815,
+    "gbGuid": "3030-26815",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Denmark: EA Sports MMA was not released in Denmark because of a law prohibiting marketing for energy drinks, which EA chose not to remove from the game.[28] However, distribution is not illegal, as the game can still be found on shelves as an import."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Carmageddon",
+    "id": "mxb127",
+    "igdbId": 626,
+    "gbId": 18394,
+    "gbGuid": "3030-18394",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Argentina: Banned in the city of Buenos Aires because it depicts people being killed by motor vehicles.",
+          "banned in Germany: Was originally released in both cut and uncut versions attaining 18+ and 16+ ratings respectively, before the uncut 18+ version was banned following the 2003 reforms. The banned uncensored version was available on Steam and GOG without classification, until it was taken down on May 31, 2016.",
+          "banned in United Kingdom: Was threatened with being refused certification in its uncut form. Was subsequently altered to replace pedestrians with zombies. The restriction was later lifted, and a patch was released to restore the original human content."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "RapeLay",
+    "id": "mxb128",
+    "igdbId": 22426,
+    "gbId": 16696,
+    "gbGuid": "3030-16696",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Argentina: Banned because the object of the game is to stalk and rape a woman and her two daughters, at least one of whom appears to be underage.",
+          "banned in China: Banned because it 'tends to promote and support the use of violence to compel a person to submit to sexual conduct, and the exploitation of young persons for sexual purposes'",
+          "banned in New Zealand: Banned because it 'tends to promote and support the use of violence to compel a person to submit to sexual conduct, and the exploitation of young persons for sexual purposes'",
+          "banned in United Kingdom: Banned because it 'tends to promote and support the use of violence to compel a person to submit to sexual conduct, and the exploitation of young persons for sexual purposes'"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bully",
+    "id": "mxb129",
+    "igdbId": 2720,
+    "gbId": 10281,
+    "gbGuid": "3030-10281",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Brazil: Banned for showing violence and harassment in a school setting. The ban was lifted on 23 June 2016; the game can now be acquired in physical and non-physical format through Steam."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Counter-Strike",
+    "id": "mxb130",
+    "igdbId": 241,
+    "gbId": 11663,
+    "gbGuid": "3030-11663",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Brazil: Banned because of violence and simulating a favela map in 2008. The ban was later lifted and the game is now available for sale."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "EverQuest",
+    "id": "mxb131",
+    "igdbId": 282,
+    "gbId": 10796,
+    "gbGuid": "3030-10796",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Brazil: Banned because of Australia's X18+ references. The ban has been mostly lifted since 2009, except in Minas Gerais."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Grand Theft Auto: Episodes from Liberty City",
+    "id": "mxb132",
+    "igdbId": 7003,
+    "gbId": 26616,
+    "gbGuid": "3030-26616",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Brazil: Banned in Barueri because it uses music by the Brazilian composer Hamilton da Silva Lourenço without proper permission. It has been resolved and was lifted in 2012.",
+          "banned in Suadia Arabia: Banned for extreme impact violence and nudity"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Battlefield 4",
+    "id": "mxb133",
+    "igdbId": 1979,
+    "gbId": 39035,
+    "gbGuid": "3030-39035",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in China: Banned for discrediting China's national image as well as threatening national security. The Chinese Ministry claims that the game shows a 'cultural invasion'."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Command & Conquer: Generals",
+    "id": "mxb134",
+    "igdbId": 649,
+    "gbId": 10973,
+    "gbGuid": "3030-10973",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in China: Banned for 'smearing the image of China and the Chinese army', although the game presents China as a protagonist and glorifies the People's Liberation Army.  Additionally, the China campaign has the player destroy questionable targets such as the Three Gorges Dam and the Hong Kong Convention and Exhibition Centre in order to snuff out an invading terrorist organization."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Football Manager 2005",
+    "id": "mxb135",
+    "igdbId": 944,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in China: Banned for recognizing Taiwan and Tibet as independent countries. An edited version was later released globally."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "IGI 2: Covert Strike",
+    "id": "mxb136",
+    "igdbId": 8559,
+    "gbId": 11364,
+    "gbGuid": "3030-11364",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in China: Banned because of 'intentionally blackening China and the Chinese army's image'."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Valkyrie Drive: Bhikkhuni",
+    "id": "mxb137",
+    "igdbId": 11527,
+    "gbId": 49223,
+    "gbGuid": "3030-49223",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in China: Banned because of sexual content and glorifying homosexuality",
+          "banned in Germany: Banned because of sexual activity involving people who are, or appear to be, minors.",
+          "banned in New Zealand: Banned because it 'tends to promote and support incest between the two lead focal sisters, and the exploitation of young persons for sexual purposes'.",
+          "banned in Pakistan: Banned because of sexual content and glorifying homosexuality. However, the ban does not extend to digital versions of the game.",
+          "banned in Suadia Arabia: Banned due to sexual content and excessive themes of glorifying homosexuality",
+          "banned in UAE: Banned likely due to homosexual relationships between characters and high-impact sexual themes. However, the ban did not extend to the digital version of the game.",
+          "banned in Kenya: Banned because of sexual content and glorification of homosexuality. The ban does not extend to digital versions of the game.",
+          "banned in Iran: Banned for excessively glorifying homosexual and immoral values. The ban does not extend to digital distribution, however."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Devotion",
+    "id": "mxb138",
+    "igdbId": 104786,
+    "gbId": 69209,
+    "gbGuid": "3030-69209",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in China: Banned due to an easter egg insulting Xi Jinping. The easter egg was later removed, but the game remains banned. On February 21, players discovered a fulu talisman decorating a wall in the game contained the words 'Xi Jinping Winnie-the-Pooh' (Chinese: 習近平小熊維尼) in Chinese seal script, referencing a recent Chinese internet meme that compared the Chinese paramount leader and general secretary to the Disney character."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "10,000 Bullets",
+    "id": "mxb139",
+    "igdbId": 14727,
+    "gbId": 23711,
+    "gbGuid": "3030-23711",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "25 To Life",
+    "id": "mxb140",
+    "igdbId": 5714,
+    "gbId": 14366,
+    "gbGuid": "3030-14366",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "50 Cent: Blood on the Sand",
+    "id": "mxb141",
+    "igdbId": 5472,
+    "gbId": 20454,
+    "gbGuid": "3030-20454",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "50 Cent: Bulletproof",
+    "id": "mxb142",
+    "igdbId": 4011,
+    "gbId": 16255,
+    "gbGuid": "3030-16255",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Afro Samurai",
+    "id": "mxb143",
+    "igdbId": 5478,
+    "gbId": 20922,
+    "gbGuid": "3030-20922",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Aliens vs. Predator",
+    "id": "mxb144",
+    "igdbId": 560,
+    "gbId": 26532,
+    "gbGuid": "3030-26532",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Area 51",
+    "id": "mxb145",
+    "igdbId": 5729,
+    "gbId": 103,
+    "gbGuid": "3030-103",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Army of Two",
+    "id": "mxb146",
+    "igdbId": 996,
+    "gbId": 20479,
+    "gbGuid": "3030-20479",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Army of Two: The 40th Day",
+    "id": "mxb147",
+    "igdbId": 997,
+    "gbId": 25565,
+    "gbGuid": "3030-25565",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Army of Two: The Devil's Cartel",
+    "id": "mxb148",
+    "igdbId": 1832,
+    "gbId": 39190,
+    "gbGuid": "3030-39190",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Beat Down: Fists of Vengeance",
+    "id": "mxb149",
+    "igdbId": 5745,
+    "gbId": 11898,
+    "gbGuid": "3030-11898",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "BloodRayne",
+    "id": "mxb150",
+    "igdbId": 1015,
+    "gbId": 16437,
+    "gbGuid": "3030-16437",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released. The banned, uncensored version, with Nazi references removed, was available on Steam and GOG without classification until it was taken down on May 31, 2016."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "BloodRayne 2",
+    "id": "mxb151",
+    "igdbId": 1016,
+    "gbId": 1636,
+    "gbGuid": "3030-1636",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released. The banned, uncensored version was available on Steam and GOG without classification until it was taken down on May 31, 2016."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Call of Duty 4: Modern Warfare",
+    "id": "mxb152",
+    "igdbId": 623,
+    "gbId": 2133,
+    "gbGuid": "3030-2133",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact violence related to incentives and rewards via an unlockable Arcade mode.",
+          "banned in Suadia Arabia: Banned for a few weeks because of role-playing the Middle East as terrorists"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Call of Duty: Black Ops",
+    "id": "mxb153",
+    "igdbId": 545,
+    "gbId": 26423,
+    "gbGuid": "3030-26423",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 2",
+    "id": "mxb154",
+    "igdbId": 559,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact violence related to incentives and rewards via an unlockable Arcade mode.",
+          "banned in UAE: This game was banned after players in the GCC noticed that the picture frames in some maps had quotations from the Qur'an, which were very offensive to Muslims The ban was lifted after the developers removed the text on the frames."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Call of Duty: World at War",
+    "id": "mxb155",
+    "igdbId": 625,
+    "gbId": 20777,
+    "gbGuid": "3030-20777",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Carmageddon 2: Carpocalypse Now",
+    "id": "mxb156",
+    "igdbId": 951,
+    "gbId": 10553,
+    "gbGuid": "3030-10553",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Was originally released in both cut and uncut versions attaining 18+ and 16+ ratings respectively, before the uncut 18+ version was banned following the 2003 reforms. The banned uncensored version was available on Steam and GOG without classification, until it was taken down on May 31, 2016."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Carmageddon: Max Damage",
+    "id": "mxb157",
+    "igdbId": 18075,
+    "gbId": 54462,
+    "gbGuid": "3030-54462",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact violence related to incentives and rewards."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Clive Barker's Jericho",
+    "id": "mxb158",
+    "igdbId": 6939,
+    "gbId": 10461,
+    "gbGuid": "3030-10461",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. The ban was later lifted."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cold Fear",
+    "id": "mxb159",
+    "igdbId": 5780,
+    "gbId": 19631,
+    "gbGuid": "3030-19631",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cold Winter",
+    "id": "mxb160",
+    "igdbId": 8277,
+    "gbId": 9491,
+    "gbGuid": "3030-9491",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Condemned: Criminal Origins",
+    "id": "mxb161",
+    "igdbId": 6942,
+    "gbId": 8804,
+    "gbGuid": "3030-8804",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Condemned 2: Bloodshot",
+    "id": "mxb162",
+    "igdbId": 6943,
+    "gbId": 20465,
+    "gbGuid": "3030-20465",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Conflict: Denied Ops",
+    "id": "mxb163",
+    "igdbId": 5634,
+    "gbId": 2106,
+    "gbGuid": "3030-2106",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Crackdown",
+    "id": "mxb164",
+    "igdbId": 2896,
+    "gbId": 4065,
+    "gbGuid": "3030-4065",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. The ban was lifted in 2018."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Crackdown 2",
+    "id": "mxb165",
+    "igdbId": 2897,
+    "gbId": 26790,
+    "gbGuid": "3030-26790",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. The ban was lifted in 2018."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Criminal Girls 2: Party Favors",
+    "id": "mxb166",
+    "igdbId": 24195,
+    "gbId": 50357,
+    "gbGuid": "3030-50357",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of sexual activity involving a person who is, or appears to be, under 18 years of age."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dark Messiah of Might and Magic",
+    "id": "mxb167",
+    "igdbId": 2369,
+    "gbId": 15065,
+    "gbGuid": "3030-15065",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. A censored version was released. The ban was later lifted."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead Island",
+    "id": "mxb168",
+    "igdbId": 536,
+    "gbId": 21534,
+    "gbGuid": "3030-21534",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. The ban was lifted in 2019."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead Island: Riptide",
+    "id": "mxb169",
+    "igdbId": 1833,
+    "gbId": 38558,
+    "gbGuid": "3030-38558",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence.",
+          "banned in UAE: Both banned likely due to 'extreme depictions of violence and scantily-clad game characters'. However, the ban did not extend to digital versions of the games."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead Rising",
+    "id": "mxb170",
+    "igdbId": 81391,
+    "gbId": 8720,
+    "gbGuid": "3030-8720",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. Was later banned in 2018 because of violence in a public mall setting."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead Rising 2",
+    "id": "mxb171",
+    "igdbId": 496,
+    "gbId": 25187,
+    "gbGuid": "3030-25187",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence.",
+          "banned in UAE: Banned likely due to violence, gambling, and nudity. The ban has since been lifted for newer prints of the game."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead Rising 2: Off The Record",
+    "id": "mxb172",
+    "igdbId": 5924,
+    "gbId": 34778,
+    "gbGuid": "3030-34778",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead Rising 3",
+    "id": "mxb173",
+    "igdbId": 3199,
+    "gbId": 42902,
+    "gbGuid": "3030-42902",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead Rising: Chop Till You Drop",
+    "id": "mxb174",
+    "igdbId": 4798,
+    "gbId": 21336,
+    "gbGuid": "3030-21336",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead Space",
+    "id": "mxb175",
+    "igdbId": 37,
+    "gbId": 20800,
+    "gbGuid": "3030-20800",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead To Rights",
+    "id": "mxb176",
+    "igdbId": 3872,
+    "gbId": 3032,
+    "gbGuid": "3030-3032",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead to Rights II",
+    "id": "mxb177",
+    "igdbId": 5810,
+    "gbId": 18411,
+    "gbGuid": "3030-18411",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead to Rights: Retribution",
+    "id": "mxb178",
+    "igdbId": 6960,
+    "gbId": 25286,
+    "gbGuid": "3030-25286",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Doom 3: Resurrection of Evil",
+    "id": "mxb179",
+    "igdbId": 672,
+    "gbId": 7754,
+    "gbGuid": "3030-7754",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dying Light",
+    "id": "mxb180",
+    "igdbId": 3042,
+    "gbId": 42712,
+    "gbGuid": "3030-42712",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Far Cry",
+    "id": "mxb181",
+    "igdbId": 306,
+    "gbId": 14782,
+    "gbGuid": "3030-14782",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally given a 18+ rating. Banned for high-impact violence using realistic ragdoll effects. Game was re-censored to remove the ragdoll effects and re-attain the 18+ rating."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Football Manager",
+    "id": "mxb182",
+    "igdbId": 23064,
+    "gbId": 13818,
+    "gbGuid": "3030-13818",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned for recognizing Bavaria as an independent country. The ban was later lifted with the 2019 edition."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Gal*Gun 2",
+    "id": "mxb183",
+    "igdbId": 68279,
+    "gbId": 61974,
+    "gbGuid": "3030-61974",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of sexual activity involving people who are, or appear to be, minors. The ban was later lifted.",
+          "banned in UAE: Both banned likely due to sexual themes. However, the ban did not extend to the digital versions of the games."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Gears of War",
+    "id": "mxb184",
+    "igdbId": 547,
+    "gbId": 12231,
+    "gbGuid": "3030-12231",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. The ban was lifted in 2016."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Gears of War 2",
+    "id": "mxb185",
+    "igdbId": 548,
+    "gbId": 20662,
+    "gbGuid": "3030-20662",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. The ban was lifted in 2016."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Godfather: Blackhand Edition",
+    "id": "mxb186",
+    "igdbId": 20681,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of game controls imitating brutality and exortion."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Godfather II",
+    "id": "mxb187",
+    "igdbId": 575,
+    "gbId": 23346,
+    "gbGuid": "3030-23346",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "God of War",
+    "id": "mxb188",
+    "igdbId": 19560,
+    "gbId": 6959,
+    "gbGuid": "3030-6959",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. The ban was lifted on the basis that the characters are of Greek mythology and the gameplay put a large emphasis on puzzle-solving.",
+          "banned in UAE: The first title in the series was banned after complaints were filed regarding religious and sexual content in the game, and subsequently, the next seven games in the series were banned for similar reasons. The 2018 title God of War was the first entry to be legally approved for release in the U.A.E.",
+          "banned in Suadia Arabia: Banned for a few weeks due to the presence of interactive sex scenes, partial nudity and sexual themes, as well as the word 'God' in the title. In 2018, the newest game in the series was approved for release"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Golden Axe: Beast Rider",
+    "id": "mxb189",
+    "igdbId": 7001,
+    "gbId": 20928,
+    "gbGuid": "3030-20928",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Grand Theft Auto: Liberty City Stories",
+    "id": "mxb190",
+    "igdbId": 3263,
+    "gbId": 6731,
+    "gbGuid": "3030-6731",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. A censored version was released. The ban was lifted in 2012.",
+          "banned in Suadia Arabia: Banned for extreme impact violence and nudity"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Grand Theft Auto: San Andreas",
+    "id": "mxb191",
+    "igdbId": 732,
+    "gbId": 7120,
+    "gbGuid": "3030-7120",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. A censored version was released. The ban was lifted in 2012.",
+          "banned in Suadia Arabia: Banned for extreme impact violence and nudity"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Grand Theft Auto: Vice City",
+    "id": "mxb192",
+    "igdbId": 733,
+    "gbId": 17036,
+    "gbGuid": "3030-17036",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally given a 16+ rating. However, the game was later banned because of high-impact gory violence. The game was re-censored, re-attaining the 16+ rating. The ban was lifted in 2012.",
+          "banned in Suadia Arabia: Banned for extreme impact violence and nudity"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Grand Theft Auto: Vice City Stories",
+    "id": "mxb193",
+    "igdbId": 3262,
+    "gbId": 10264,
+    "gbGuid": "3030-10264",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. A censored version was released. The ban was lifted in 2012.",
+          "banned in Suadia Arabia: Banned for extreme impact violence and nudity"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Gun",
+    "id": "mxb194",
+    "igdbId": 3939,
+    "gbId": 8873,
+    "gbGuid": "3030-8873",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "HellForces",
+    "id": "mxb195",
+    "igdbId": 84469,
+    "gbId": 20093,
+    "gbGuid": "3030-20093",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Inversion",
+    "id": "mxb196",
+    "igdbId": 7020,
+    "gbId": 29087,
+    "gbGuid": "3030-29087",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kane & Lynch 2: Dog Days",
+    "id": "mxb197",
+    "igdbId": 488,
+    "gbId": 26394,
+    "gbGuid": "3030-26394",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Land of the Dead: Road to Fiddler's Green",
+    "id": "mxb198",
+    "igdbId": 5900,
+    "gbId": 18419,
+    "gbGuid": "3030-18419",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Left 4 Dead",
+    "id": "mxb199",
+    "igdbId": 122,
+    "gbId": 20690,
+    "gbGuid": "3030-20690",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "id": "mxb200",
+    "igdbId": 124,
+    "gbId": 26782,
+    "gbGuid": "3030-26782",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Little Britain: The Video Game",
+    "id": "mxb201",
+    "igdbId": 8557,
+    "gbId": 40715,
+    "gbGuid": "3030-40715",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of a mini-game involving homophobia related to incentives and rewards."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "MadWorld",
+    "id": "mxb202",
+    "igdbId": 3214,
+    "gbId": 21173,
+    "gbGuid": "3030-21173",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Manhunt",
+    "id": "mxb203",
+    "igdbId": 1971,
+    "gbId": 6108,
+    "gbGuid": "3030-6108",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence.",
+          "banned in New Zealand: Banned because of graphic violence and depictions of cruelty.",
+          "banned in Suadia Arabia: Banned because of low impact scary violence and cruelty"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Manhunt 2",
+    "id": "mxb204",
+    "igdbId": 1972,
+    "gbId": 21258,
+    "gbGuid": "3030-21258",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence.",
+          "banned in New Zealand: Banned because of graphic violence and depictions of cruelty.",
+          "banned in Suadia Arabia: Banned for 'gross, unrelenting, and gratuitous violence'",
+          "banned in United Kingdom: The uncut version was the only game to be refused classification by the BBFC (therefore banned), due to excessive graphic violence and cruelty. After this, a modified version was made and submitted for certification – this was initially refused classification as well, but was allowed to be sold after an appeal (despite a successful challenge to this ruling).",
+          "banned in Ireland: Banned for 'gross, unrelenting, and gratuitous violence', but the ban was later lifted and the game was given a PEGI 18 rating.",
+          "banned in Italy: Banned for gratuitous violence and excessive cruelty in the video game, but the ban was never put into practice.",
+          "banned in Suadia Arabia: Banned because of low impact scary violence and cruelty"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Medal of Honor Heroes 2",
+    "id": "mxb205",
+    "igdbId": 1315,
+    "gbId": 9967,
+    "gbGuid": "3030-9967",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of game controls imitating the use of a real-life firearm within a realistic theatre of war."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mortal Kombat",
+    "id": "mxb206",
+    "igdbId": 119,
+    "gbId": 15743,
+    "gbGuid": "3030-15743",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence.",
+          "banned in South Korea: Banned because of excessive violence and cruelty."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mortal Kombat II",
+    "id": "mxb207",
+    "igdbId": 1619,
+    "gbId": 3571,
+    "gbGuid": "3030-3571",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mortal Kombat 3",
+    "id": "mxb208",
+    "igdbId": 1620,
+    "gbId": 1434,
+    "gbGuid": "3030-1434",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mortal Kombat: Armageddon",
+    "id": "mxb209",
+    "igdbId": 1616,
+    "gbId": 11843,
+    "gbGuid": "3030-11843",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mortal Kombat: Shaolin Monks",
+    "id": "mxb210",
+    "igdbId": 1614,
+    "gbId": 7649,
+    "gbGuid": "3030-7649",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NARC",
+    "id": "mxb211",
+    "igdbId": 19933,
+    "gbId": 9848,
+    "gbGuid": "3030-9848",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nitro Family",
+    "id": "mxb212",
+    "igdbId": 50248,
+    "gbId": 16355,
+    "gbGuid": "3030-16355",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Omega Labyrinth Z",
+    "id": "mxb213",
+    "igdbId": 27512,
+    "gbId": 64642,
+    "gbGuid": "3030-64642",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of interactive sexual activity involving a person who is, or appears to be, a minor.",
+          "banned in UAE: Banned likely due to excessive sexual themes. However, the ban did not extend to the digital version of the game",
+          "banned in United Kingdom: Banned anywhere outside of Japan for featuring sexually explicit material involving underage characters"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Postal",
+    "id": "mxb214",
+    "igdbId": 2000,
+    "gbId": 15891,
+    "gbGuid": "3030-15891",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Postal 2",
+    "id": "mxb215",
+    "igdbId": 3109,
+    "gbId": 12863,
+    "gbGuid": "3030-12863",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence.",
+          "banned in New Zealand: Banned because of 'Gross, abhorrent content: Urination, High Impact Violence, Animal Cruelty, Homophobia, Racial, and Ethnic Stereotypes”.",
+          "banned in Pakistan: Banned because of violence against Muslims who are portrayed as terrorists. The ban does not extend to digital versions of the game.",
+          "banned in Suadia Arabia: Banned because of extreme impact violence, nudity and the portrayal of Muslims as terrorists.",
+          "banned in UAE: Banned likely due to violence against Muslims, as well as excessive violence, sexual themes and other highly questionable content. However, the ban did not extend to the digital version of the game."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Postal III",
+    "id": "mxb216",
+    "igdbId": 3110,
+    "gbId": 21155,
+    "gbGuid": "3030-21155",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Predator: Concrete Jungle",
+    "id": "mxb217",
+    "igdbId": 5986,
+    "gbId": 10661,
+    "gbGuid": "3030-10661",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Quake 4",
+    "id": "mxb218",
+    "igdbId": 356,
+    "gbId": 13683,
+    "gbGuid": "3030-13683",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Red Ninja: End of Honor",
+    "id": "mxb219",
+    "igdbId": 6000,
+    "gbId": 7345,
+    "gbGuid": "3030-7345",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Reservoir Dogs",
+    "id": "mxb220",
+    "igdbId": 6003,
+    "gbId": 4623,
+    "gbGuid": "3030-4623",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence.",
+          "banned in New Zealand: Banned because it 'tends to promote and support the infliction of extreme violence and extreme cruelty for the purpose of entertainment'."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Resident Evil 4",
+    "id": "mxb221",
+    "igdbId": 974,
+    "gbId": 1578,
+    "gbGuid": "3030-1578",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact violence related to incentives and rewards via two unlockable bonus games. A censored version was released. The ban was lifted in 2017."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Resident Evil: Operation Raccoon City",
+    "id": "mxb222",
+    "igdbId": 977,
+    "gbId": 34553,
+    "gbGuid": "3030-34553",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Resident Evil: The Umbrella Chronicles",
+    "id": "mxb223",
+    "igdbId": 975,
+    "gbId": 11454,
+    "gbGuid": "3030-11454",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Return to Castle Wolfenstein",
+    "id": "mxb224",
+    "igdbId": 281,
+    "gbId": 19181,
+    "gbGuid": "3030-19181",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally given a 16+ rating with Nazi references censored. Later banned for high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Saints Row",
+    "id": "mxb225",
+    "igdbId": 825,
+    "gbId": 5618,
+    "gbGuid": "3030-5618",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Saints Row 2",
+    "id": "mxb226",
+    "igdbId": 826,
+    "gbId": 20679,
+    "gbGuid": "3030-20679",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Saints Row: The Third",
+    "id": "mxb227",
+    "igdbId": 873,
+    "gbId": 25725,
+    "gbGuid": "3030-25725",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Originally banned because of high-impact gory violence. A censored version was released. The ban was lifted in 2019.",
+          "banned in UAE: Both banned likely due to sexual themes, excessive violence, and use of drugs and alcohol. However, the ban did not extend to the digital versions of the games."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Scarface: The World Is Yours",
+    "id": "mxb228",
+    "igdbId": 5139,
+    "gbId": 9966,
+    "gbGuid": "3030-9966",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shellshock: Nam '67",
+    "id": "mxb229",
+    "igdbId": 1870,
+    "gbId": 15172,
+    "gbGuid": "3030-15172",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Was originally released unrated in some retail stores in Germany, before being banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shellshock 2: Blood Trails",
+    "id": "mxb230",
+    "igdbId": 7186,
+    "gbId": 23254,
+    "gbGuid": "3030-23254",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sleeping Dogs",
+    "id": "mxb231",
+    "igdbId": 1267,
+    "gbId": 29441,
+    "gbGuid": "3030-29441",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Soldier of Fortune: Payback",
+    "id": "mxb232",
+    "igdbId": 3113,
+    "gbId": 8632,
+    "gbGuid": "3030-8632",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Splatterhouse",
+    "id": "mxb233",
+    "igdbId": 7191,
+    "gbId": 15148,
+    "gbGuid": "3030-15148",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Syndicate",
+    "id": "mxb234",
+    "igdbId": 49,
+    "gbId": 10865,
+    "gbGuid": "3030-10865",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Club",
+    "id": "mxb235",
+    "igdbId": 6940,
+    "gbId": 18777,
+    "gbGuid": "3030-18777",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The House of the Dead: Overkill",
+    "id": "mxb236",
+    "igdbId": 51621,
+    "gbId": 23425,
+    "gbGuid": "3030-23425",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Suffering",
+    "id": "mxb237",
+    "igdbId": 6180,
+    "gbId": 3841,
+    "gbGuid": "3030-3841",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Suffering: Ties That Bind",
+    "id": "mxb238",
+    "igdbId": 6181,
+    "gbId": 11870,
+    "gbGuid": "3030-11870",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Warriors",
+    "id": "mxb239",
+    "igdbId": 6030,
+    "gbId": 16206,
+    "gbGuid": "3030-16206",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tom Clancy's Rainbow Six: Vegas 2",
+    "id": "mxb240",
+    "igdbId": 1853,
+    "gbId": 1986,
+    "gbGuid": "3030-1986",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact violence related to incentives and rewards. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Total Overdose: A Gunslinger's Tale in Mexico",
+    "id": "mxb241",
+    "igdbId": 6213,
+    "gbId": 4241,
+    "gbGuid": "3030-4241",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Was originally released unrated in some retail stores in Germany, before being banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "True Crime: New York City",
+    "id": "mxb242",
+    "igdbId": 4215,
+    "gbId": 3345,
+    "gbGuid": "3030-3345",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Unreal Tournament III",
+    "id": "mxb243",
+    "igdbId": 928,
+    "gbId": 10955,
+    "gbGuid": "3030-10955",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence. A censored version was released."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Vivisector: Beast Within",
+    "id": "mxb244",
+    "igdbId": 54638,
+    "gbId": 17386,
+    "gbGuid": "3030-17386",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wolfenstein",
+    "id": "mxb245",
+    "igdbId": 569,
+    "gbId": 21119,
+    "gbGuid": "3030-21119",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence and Nazi references.",
+          "banned in Suadia Arabia: Banned because of the presence of interactive sex scenes"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "id": "mxb246",
+    "igdbId": 284,
+    "gbId": 7694,
+    "gbGuid": "3030-7694",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of Nazi references."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "X-Men Origins: Wolverine",
+    "id": "mxb247",
+    "igdbId": 573,
+    "gbId": 24747,
+    "gbGuid": "3030-24747",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Germany: Banned because of high-impact gory violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "PlayerUnknown's Battlegrounds",
+    "id": "mxb248",
+    "igdbId": 27789,
+    "gbId": 54979,
+    "gbGuid": "3030-54979",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in India: Banned because of extreme violence. The move comes after a direction from the Gujarat state department seeking a ban on the game, as it affects the minds of youths who tend to become violent. PUBG has been banned in Ahmedabad, Rajkot, Surat, Vadodara and Bhavnagar. The ban is lifted as of March 30, 2019.",
+          "banned in Nepal: Banned because of delinquency issues involving youths. The ban does not extend to digital versions of the game."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Criminal Girls: Invite Only",
+    "id": "mxb249",
+    "igdbId": 11746,
+    "gbId": 43440,
+    "gbGuid": "3030-43440",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in New Zealand: Banned because of sexual content that focuses on young persons and elements of sexual violence."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Gal*Gun: Double Peace",
+    "id": "mxb250",
+    "igdbId": 11564,
+    "gbId": 49014,
+    "gbGuid": "3030-49014",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in New Zealand: Banned because 'it tends to promote and support both the exploitation of children and young people, and the use of coercion to compel a person to submit to sexual conduct'.",
+          "banned in UAE: Both banned likely due to sexual themes. However, the ban did not extend to the digital versions of the games."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Three Sisters' Story",
+    "id": "mxb251",
+    "igdbId": 71073,
+    "gbId": 1740,
+    "gbGuid": "3030-1740",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in New Zealand: Banned because it 'tends to promote and support the use of violence to compel a person to submit to sexual conduct, and the exploitation of young persons for sexual purposes'"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "id": "mxb252",
+    "igdbId": 1020,
+    "gbId": 36765,
+    "gbGuid": "3030-36765",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in North Korea: Banned because of the presence of gambling in GTA Online. Gambling of any kind is banned in North Korea.",
+          "banned in Suadia Arabia: Banned for extreme impact violence and nudity"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Homefront",
+    "id": "mxb253",
+    "igdbId": 1885,
+    "gbId": 26633,
+    "gbGuid": "3030-26633",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in North Korea: Banned because of its negative portrayal of a unified Korea under Northern rule.",
+          "banned in South Korea: Banned because of its negative portrayal of a unified Korea under Northern rule."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Medal of Honor: Warfighter",
+    "id": "mxb254",
+    "igdbId": 1306,
+    "gbId": 37580,
+    "gbGuid": "3030-37580",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Pakistan: Banned for portraying Pakistanis negatively. However, the ban does not extend to digital versions of the game."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Negligee: Love Stories",
+    "id": "mxb255",
+    "igdbId": 111743,
+    "gbId": 56787,
+    "gbGuid": "3030-56787",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Pakistan: Banned for sexual content and glorifying homosexuality The ban does not extend to digital versions of the game."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Assassin's Creed",
+    "id": "mxb256",
+    "igdbId": 128,
+    "gbId": 2950,
+    "gbGuid": "3030-2950",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Suadia Arabia: Banned for two weeks because of a perceived negative portrayal of Arabs. Later completely banned due to its use in the Blue Whale Challenge"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Heavy Rain",
+    "id": "mxb257",
+    "igdbId": 493,
+    "gbId": 21304,
+    "gbGuid": "3030-21304",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Suadia Arabia: Banned because of high impact violence, nudity and a sex scene",
+          "banned in UAE: Banned likely due to graphic violence, sexual content, nudity108 and a sultry seduction scene."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "L.A. Noire",
+    "id": "mxb258",
+    "igdbId": 109,
+    "gbId": 21500,
+    "gbGuid": "3030-21500",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Suadia Arabia: Banned because of extreme impact violence and nudity"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Red Dead Redemption",
+    "id": "mxb259",
+    "igdbId": 434,
+    "gbId": 25249,
+    "gbGuid": "3030-25249",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Suadia Arabia: Banned due to nudity, prostitution, violence and cruelty",
+          "banned in UAE: Was initially banned,114 likely due to nudity. The ban was lifted two months after the official release date."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "id": "mxb260",
+    "igdbId": 25076,
+    "gbId": 56725,
+    "gbGuid": "3030-56725",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Suadia Arabia: Banned due to nudity, prostitution, violence and cruelty."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "South Park The Stick Of Truth",
+    "id": "mxb261",
+    "igdbId": 1262,
+    "gbId": 36978,
+    "gbGuid": "3030-36978",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Suadia Arabia: Banned because of extremely offensive content"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "South Park: The Fractured But Whole",
+    "id": "mxb262",
+    "igdbId": 11161,
+    "gbId": 49968,
+    "gbGuid": "3030-49968",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Suadia Arabia: Banned because of extremely offensive content"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Metro",
+    "id": "mxb263",
+    "igdbId": 79196,
+    "gbId": 28719,
+    "gbGuid": "3030-28719",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Suadia Arabia: Banned due to its use in the Blue Whale Challenge"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Half-Life",
+    "id": "mxb264",
+    "igdbId": 231,
+    "gbId": 2980,
+    "gbGuid": "3030-2980",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Singapore: Banned because of violence.  The ban was met with uproar as the local gaming community and retailers scrambled to start petitions to save the game. The government decided to lift the ban after a week, as the game had been released for more than a year and the ban would impact the local LAN gaming and retail market."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mass Effect",
+    "id": "mxb265",
+    "igdbId": 73,
+    "gbId": 16909,
+    "gbGuid": "3030-16909",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in Singapore: Banned because of a homosexual encounter between a feminine alien and female human. The ban was later lifted and the title re-rated M18."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Danganronpa V3: Killing Harmony",
+    "id": "mxb266",
+    "igdbId": 12579,
+    "gbId": 49101,
+    "gbGuid": "3030-49101",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in South Korea: The September 2017 release was cancelled because of a case in South Korea where a 17-year-old girl killed and dismembered an 8-year-old child The game was banned to prevent controversies"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "BlazBlue: Continuum Shift",
+    "id": "mxb267",
+    "igdbId": 6750,
+    "gbId": 28321,
+    "gbGuid": "3030-28321",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Banned likely due to suggestive and revealing outfits on some characters. However, the ban did not extend to digital versions of the game."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Darksiders",
+    "id": "mxb268",
+    "igdbId": 1270,
+    "gbId": 20991,
+    "gbGuid": "3030-20991",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Banned likely due to contradicting with customs and traditions. However, the ban did not extend to the digital version of the game. Its sequel, Darksiders II, which features similar themes, was released without issues, and even had a localised print release for the PlayStation 3 version."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon Age: Origins",
+    "id": "mxb269",
+    "igdbId": 76,
+    "gbId": 20738,
+    "gbGuid": "3030-20738",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Banned likely due to sexual themes, including possible homosexual relationships. The ban has since been lifted for the digital versions of the game."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fallout: New Vegas",
+    "id": "mxb270",
+    "igdbId": 16,
+    "gbId": 25933,
+    "gbGuid": "3030-25933",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Banned likely due to gambling and sexual themes. However, the ban did not extend to the digital version of the game."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Godfather II",
+    "id": "mxb271",
+    "igdbId": 575,
+    "gbId": 23346,
+    "gbGuid": "3030-23346",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Banned likely due to nudity."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Grand Theft Auto",
+    "id": "mxb272",
+    "igdbId": 44870,
+    "gbId": 13567,
+    "gbGuid": "3030-13567",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Banned likely due to violence, cruelty and sexual content. For unknown reasons, Grand Theft Auto: San Andreas has been available via Steam ever since the PC version of Grand Theft Auto V was launched, which itself is openly available on Steam from the debut. Shortly after Steam introduced the dirham as the official currency for U.A.E. user accounts on November 10, 2015,107 the majority of Rockstar's games became available for purchase for those user accounts, including most Grand Theft Auto titles (For unknown reasons, almost all of Rockstar's games were regionally locked out on Steam, whether banned or not.).",
+          "banned in Suadia Arabia: Banned for extreme impact violence and nudity"
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Injustice: Gods Among Us",
+    "id": "mxb273",
+    "igdbId": 77354,
+    "gbId": 38480,
+    "gbGuid": "3030-38480",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Despite being initially marketed for Middle Eastern distribution under the title of Injustice: The Mighty Among Us, the game failed to surpass the NMC's censors for a period of time,110 and was banned likely due to the case package and on-disc software title itself being identical to its European release, with the term 'God' retained (the official reason was not given). The game had been demonstrated at various events in the U.A.E. without incident for many months before the official release date. However, the ban on the title has since been lifted. The expanded Ultimate Edition was released on schedule and distributed regularly."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mafia II",
+    "id": "mxb274",
+    "igdbId": 40,
+    "gbId": 20538,
+    "gbGuid": "3030-20538",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Banned likely due to excessive violence and nudity. The ban has since been lifted for digital versions of the game."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mass Effect 2",
+    "id": "mxb275",
+    "igdbId": 74,
+    "gbId": 21590,
+    "gbGuid": "3030-21590",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Both banned likely due to possible homosexual relationships. However, the ban did not extend to the digital versions of the games."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mass Effect 3",
+    "id": "mxb276",
+    "igdbId": 75,
+    "gbId": 29935,
+    "gbGuid": "3030-29935",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Both banned likely due to possible homosexual relationships. However, the ban did not extend to the digital versions of the games."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Max Payne 3",
+    "id": "mxb277",
+    "igdbId": 960,
+    "gbId": 23398,
+    "gbGuid": "3030-23398",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Banned likely due to excessive violence and sexual themes. The ban was issued roughly three weeks after the official release. The ban has since been lifted for digital versions of the game."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Roblox",
+    "id": "mxb278",
+    "igdbId": 17269,
+    "gbId": 25462,
+    "gbGuid": "3030-25462",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Banned due to the game containing swearing and sexually explicit material."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Saints Row IV",
+    "id": "mxb279",
+    "igdbId": 1981,
+    "gbId": 36884,
+    "gbGuid": "3030-36884",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Both banned likely due to sexual themes, excessive violence, and use of drugs and alcohol. However, the ban did not extend to the digital versions of the games."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Spec Ops: The Line",
+    "id": "mxb280",
+    "igdbId": 1377,
+    "gbId": 29445,
+    "gbGuid": "3030-29445",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Banned likely due to the game's fictional depiction of the UAE's real-life city of Dubai in a state of ravage and destruction. Unlike other banned video games, the NMC had extended their focus for this title going far as to issue the TRA to block the game's official website120 and subsequently prevent the title from being distributed throughout the rest of the GCC, as well as Jordan, and Lebanon. Even local retailers, such as Geekay Games, are unable to sell the game via their online shops to UAE residents. The game remains unavailable via digital platforms such as Steam and PSN."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Watch Dogs",
+    "id": "mxb281",
+    "igdbId": 1121,
+    "gbId": 38538,
+    "gbGuid": "3030-38538",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in UAE: Was initially banned likely due to sexual themes, nudity, excessive depictions of violence, and use of drugs and alcohol. The game's local distributor had confirmed that the title will be available in the U.A.E. and the rest of the region by August 15, 2014 for some platforms (PS3, PS4, Xbox 360) and without any in-game alterations. Only copies of the game with localised Middle East covers were allowed, subsequently banning imported copies for other platforms. For example, the Xbox One version was not released until some time after the console itself was officially launched in September 2014. The PC version remains unavailable, consequently blocking access to the downloadable version on Steam. Due to the fact Ubisoft cannot officially distribute their games on Nintendo consoles specifically for the Middle East (for various reasons), the Wii U version remains unavailable (Ubisoft games on Nintendo consoles are generally available as imported products in the region)."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Punisher",
+    "id": "mxb282",
+    "igdbId": 75883,
+    "gbId": 2242,
+    "gbGuid": "3030-2242",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": [
+          "banned in United Kingdom: Despite the game already being the edited American release, it was threatened with being refused classification due to objectionable content: The interrogation scenes were deemed graphically controversial and could cause harm to the public. The publishers made edits at the request of the BBFC to further mask these scenes,129 and this final version received an 18 certificate."
+        ],
+        "forPlatform": {
+          "name": "Microsoft Xbox",
+          "id": "ccl25",
+          "igdbId": 11,
+          "gbId": 32,
+          "gbGuid": "3045-32",
+          "tgdbId": 14
+        }
+      }
+    ],
+    "misprintsErrors": []
   }
 ]

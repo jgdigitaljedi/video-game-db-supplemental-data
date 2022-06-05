@@ -60,7 +60,7 @@ function launchExclusives(data, which, pData, final) {
         resolve(final);
       }
     } catch (error) {
-      reject({ error });
+      resolve({ error });
     }
   });
 }
@@ -93,68 +93,115 @@ function misprintLogic(data, pData, final) {
         resolve(final);
       }
     } catch (error) {
-      reject({ error });
+      resolve({ error, func: 'misprints' });
     }
   });
 }
 
-async function handleSpecial(lists, final, pData) {
+async function handleSpecialList(list, pData, final) {
+  return new Promise((resolve, reject) => {
+    try {
+      let finalClone = _cloneDeep(final);
+      if (!Array.isArray(finalClone)) {
+        console.log('not an array', list);
+      }
+      const finalsIds = finalClone.map(g => g.igdbId);
+      const listLast = (list && list.length - 1) || 0;
+      return list.forEach((game, index) => {
+        const existingId = finalsIds.indexOf(game.igdbId);
+        if (existingId > -1) {
+          finalClone[existingId].special.push({
+            value: game.details,
+            forPlatform: pData
+          });
+        } else {
+          const newEntry = getNewEntry(game);
+          newEntry.special.push({
+            value: game.details,
+            forPlatform: pData
+          });
+          finalClone.push(newEntry);
+        }
+        if (listLast === index) {
+          resolve(finalClone);
+        }
+      });
+    } catch (error) {
+      resolve({ error, func: 'special' });
+    }
+  });
+}
+
+function handleSpecial(lists, final, pData) {
   return new Promise((resolve, reject) => {
     try {
       const lastList = (lists && lists.length - 1) || 0;
+      let finalClone = _cloneDeep(final);
       if (lastList > 0) {
-        return lists.forEach((list, index) => {
-          const lastItem = (list && list.length - 1) || 0;
-          return list.forEach((game, i) => {
-            if (index === lastList && lastItem === i) {
-              resolve(final);
-            }
-          });
-        });
+        const specials = lists.reduce(async (acc, list, index) => {
+          if (index === 0) {
+            console.log('list[0].details', list[0].details);
+          }
+          try {
+            const specialAdded = await handleSpecialList(list, pData, acc);
+            return specialAdded;
+          } catch (e) {
+            console.log(chalk.red.bold('ERROR IN SPECIAL LIST', error));
+            return acc;
+          }
+        }, finalClone);
+        resolve(specials);
       } else {
         resolve(final);
       }
     } catch (error) {
-      reject({ error });
+      resolve({ error });
     }
   });
 }
 
 (async function() {
   await lists.forEach(async list => {
-    const platformData = masterList.filter(item => item.id === list.id)[0];
-    const launchTitles = await launchExclusives(list.launchTitles, 'launch', platformData, []);
-    if (launchTitles.error) {
-      throw launchTitles.error;
-    }
-    const exclusives = await launchExclusives(
-      list.exclusives,
-      'exclusives',
-      platformData,
-      launchTitles
-    );
-    if (exclusives.error) {
-      throw exclusives.error;
-    }
-    const misprintsAndErrors = await misprintLogic(
-      list.misprintsAndErrors,
-      platformData,
-      exclusives
-    );
-    if (misprintsAndErrors.error) {
-      throw misprintsAndErrors.error;
-    }
-    const special = misprintsAndErrors; // TODO: write this
-    const withIds = special.map((item, i) => {
-      item.id = `${list.prefix}${i}`;
-      return item;
-    });
-    fs.writeFile(list.output, JSON.stringify(withIds, null, 2), error => {
-      if (error) {
-        console.log(chalk.red.bold(`ERROR WRITING OUTPUT FILE: ${list.output}`, error));
-      } else {
-        console.log(chalk.green.bold(`File ${list.output} written!`));
+    try {
+      const platformData = masterList.filter(item => item.id === list.id)[0];
+      const launchTitles = await launchExclusives(list.launchTitles, 'launch', platformData, []);
+      if (launchTitles.error) {
+        throw launchTitles.error;
       }
-    });
+      const exclusives = await launchExclusives(
+        list.exclusives,
+        'exclusives',
+        platformData,
+        launchTitles
+      );
+      if (exclusives.error) {
+        throw exclusives.error;
+      }
+      const misprintsAndErrors = await misprintLogic(
+        list.misprintsAndErrors,
+        platformData,
+        exclusives
+      );
+      if (misprintsAndErrors.error) {
+        throw misprintsAndErrors.error;
+      }
+      const special = await handleSpecial(list.special, misprintsAndErrors, platformData);
+      if (special.error) {
+        throw special.error;
+      }
+      const withIds = special.map((item, i) => {
+        item.id = `${list.prefix}${i}`;
+        return item;
+      });
+      fs.writeFile(list.output, JSON.stringify(withIds, null, 2), error => {
+        if (error) {
+          console.log(chalk.red.bold(`ERROR WRITING OUTPUT FILE: ${list.output}`, error));
+        } else {
+          console.log(chalk.green.bold(`File ${list.output} written!`));
+        }
+      });
+    } catch (err) {
+      console.log(chalk.red.bold('FUCKING ERRORS', err));
+    }
   });
 })();

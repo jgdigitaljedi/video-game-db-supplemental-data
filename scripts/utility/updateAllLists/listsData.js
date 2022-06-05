@@ -325,7 +325,10 @@ module.exports.listData = [
       smallFiles,
       'platformExclusives/sonyPlaystationExclusives.json'
     )),
-    misprintsAndErrors: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/psMisprintsAndErrors.json'
+    )),
     special: [
       require(path.resolve(smallFiles, 'multiplayer/playStationMultitap.json')),
       require(path.resolve(smallFiles, 'greatestHits/sonyPlayStationGreatestHits.json')),

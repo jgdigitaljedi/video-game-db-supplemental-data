@@ -19,8 +19,26 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/10yard.jpg",
+        "details": "miscut label",
+        "type": "Cutting"
+      }
+    ]
   },
   {
     "name": "Baseball",
@@ -42,8 +60,26 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/baseballnes_zps9gbgfpsv.jpg",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Clu Clu Land",
@@ -65,7 +101,19 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -88,8 +136,26 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/exciteduck.jpg",
+        "details": "TM symbol scribbled out of top of label",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Excitebike",
@@ -111,8 +177,36 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/excbikefront_zpsjh6p0ssj.png",
+        "details": "upside down rear label",
+        "type": "Label Position"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/exciteusd.jpg",
+        "details": "Upside down label",
+        "type": "Label Position"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/exciteduck.jpg",
+        "details": "TM symbol scribbled out of top of label",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Golf",
@@ -134,8 +228,31 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/golf_zps1c7574ff.jpg",
+        "details": "printer justification error",
+        "type": "Printing"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/golfms.jpg",
+        "details": "gold seal misaligned ",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Gyromite",
@@ -157,8 +274,31 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/gyrousd.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/gyrocan1.jpg",
+        "details": "misalignment of Blue in title on box",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Hogan's Alley",
@@ -180,8 +320,31 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/hogans.jpg",
+        "details": "TM symbol scribbled out of top of label",
+        "type": "Printing"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/hoganukcloseup_zps22vmz8vo.jpg",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Ice Climber",
@@ -203,7 +366,19 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -236,8 +411,31 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/6in1_zpsef447701.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/tengenAlchohol_zpstqaz0cfg.jpg",
+        "details": "says alchohol on back label has appeared on After Burner,Alien Syndrome, Indiana Jones and the Temple of Doom, Pac Man, R.B.I. Baseball, Road Runner , Shinobi, Super Sprint, Tetris, Vindicators,Gauntlet",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Mach Rider",
@@ -259,8 +457,26 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/machriderbox.jpg",
+        "details": "controller printed upside down in programming series logo on back of box and manual",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Pinball",
@@ -282,7 +498,19 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -305,7 +533,19 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -328,8 +568,36 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/smb_zpsfa79701e.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/smbdouble1.jpg",
+        "details": "double labeled",
+        "type": "Labeling"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/smb-spanish-manual.jpg",
+        "details": "Bowser, Princess Toadstool and Jumping Board named incorrectly",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Tennis",
@@ -351,7 +619,19 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -374,8 +654,26 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/wildgunman2.jpg",
+        "details": "many colors off set",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Wrecking Crew",
@@ -397,8 +695,31 @@
         "tgdbId": 7
       }
     ],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/wreckingbook.jpg",
+        "details": "programming series symbol called programing series on cart box and manual",
+        "type": "Typo"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/wreckingcrewusd.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
   },
   {
     "name": "4 Nin Uchi Mahjong",
@@ -743,7 +1064,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/turborac_zpsb9749a38.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
   },
   {
     "name": "All-Pro Basketball",
@@ -996,7 +1323,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/babyboomer.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
   },
   {
     "name": "Back To The Future",
@@ -1410,7 +1743,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/img_not_available.png",
+        "details": "proto rom on cart",
+        "type": "Data"
+      }
+    ]
   },
   {
     "name": "Battle Rush: Build Up Robot Tournament",
@@ -1617,7 +1956,18 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/blackbass_zps06b6acc3.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/bbassnotop_zpsx1oziwj8.jpg",
+        "details": "no title on spine",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "The Blue Marlin",
@@ -1916,7 +2266,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/2%20label%20CofD.jpg",
+        "details": "double labeled\nlabel underneath upside down",
+        "type": "Multiple"
+      }
+    ]
   },
   {
     "name": "Challenge of the Dragon",
@@ -2007,7 +2363,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -2100,7 +2468,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/codenameviperusdjpg_zps163e39e8.png",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
   },
   {
     "name": "Color a Dinosaur",
@@ -2398,7 +2772,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -2422,7 +2808,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/draceusd1.png",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
   },
   {
     "name": "Defenders of Dynatron City",
@@ -2882,7 +3274,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/eboatdual_zps1c2c7c14.jpg",
+        "details": "Says \"Elimonator\" on top",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "F-1 Sensation",
@@ -3548,8 +3946,26 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/gooniesII1_zps0z2t02qp.jpg",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Gotcha! The Sport!",
@@ -3571,7 +3987,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -4054,7 +4482,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -4101,7 +4541,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/joyrneysilius.jpg",
+        "details": "manual stapled incorrectly",
+        "type": "Assembly"
+      }
+    ]
   },
   {
     "name": "Jumpin' Kid: Jack to Mame no Ki Monogatari",
@@ -4261,7 +4707,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -4627,7 +5085,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/daimonds_zps34a7fc68.jpg",
+        "details": "Says \"Daimonds\" on top",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Little League Baseball: Championship Series",
@@ -5317,7 +5781,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/mtrnea_zpsiv9qnfpe.jpg",
+        "details": "printing inside First L on box is offset on box",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Moon Ranger",
@@ -5730,7 +6200,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -5938,7 +6420,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/panic_palIB_typo.jpg",
+        "details": "says licensed by Nintendo fof play on",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Parallel World",
@@ -6398,7 +6886,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/rambousd_zpsad2eb0xh.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
   },
   {
     "name": "Robodemons",
@@ -6628,7 +7122,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/shock1_zpsjjxjbqrw.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
   },
   {
     "name": "Shooting Range",
@@ -6651,7 +7151,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/shootrangeprint_zps03caf5a5.jpg",
+        "details": "over saturation of ink on top no ink on bottom (correct in the center)",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Silver Surfer",
@@ -6880,7 +7386,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -6926,7 +7444,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -6995,7 +7525,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -7272,7 +7814,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/swordsand.png",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
   },
   {
     "name": "Taboo: The Sixth Sense",
@@ -7317,7 +7865,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -7594,7 +8154,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/Box_Nintendo_NES_673-2__27034.1394697007.500.500_zpsoiakmv92.jpg",
+        "details": "one small o in Toon has no hole on side of box",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Tiny Toon Adventures 2: Trouble in Wackyland",
@@ -7824,7 +8390,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/trackandfield2.jpeg",
+        "details": "color bleed on gold seal",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Treasure Master",
@@ -7939,7 +8511,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/ultimatestunt.jpg",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "The Uncanny X-Men",
@@ -8398,7 +8976,19 @@
       }
     ],
     "isLaunchTitle": [],
-    "special": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -8537,7 +9127,13 @@
     ],
     "isLaunchTitle": [],
     "special": [],
-    "misprintsErrors": []
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/jigduggan.jpg",
+        "details": "Misspelled as Jig Duggan",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Xexyz",
@@ -8629,6 +9225,2706 @@
     ],
     "isLaunchTitle": [],
     "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Adventure Island II",
+    "id": "nes375",
+    "igdbId": 6471,
+    "gbId": 11213,
+    "gbGuid": "3030-11213",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/adventureislandii.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Arch Rivals",
+    "id": "nes376",
+    "igdbId": 4515,
+    "gbId": 8857,
+    "gbGuid": "3030-8857",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/archrivalc1_zps7157f4e2.jpg",
+        "details": "CIC chip set improperly\nhalf of it not soldiered down",
+        "type": "Assembly"
+      }
+    ]
+  },
+  {
+    "name": "Athena",
+    "id": "nes377",
+    "igdbId": 9052,
+    "gbId": 9868,
+    "gbGuid": "3030-9868",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/athenamanual_zpsydckcfir.jpg",
+        "details": "has Spelunker screenshots in manual",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Athena",
+    "id": "nes378",
+    "igdbId": 9052,
+    "gbId": 9868,
+    "gbGuid": "3030-9868",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/athenamiscut.jpg",
+        "details": "printing error on label",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Attack of the Killer Tomatoes",
+    "id": "nes379",
+    "igdbId": 7761,
+    "gbId": 12169,
+    "gbGuid": "3030-12169",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/AKTpjnes.png",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Balloon Fight",
+    "id": "nes380",
+    "igdbId": 2735,
+    "gbId": 86,
+    "gbGuid": "3030-86",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/bfnosoq_zpstyc3c58y.jpg",
+        "details": "no seal of quality on box",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Bionic Commando (PAL)",
+    "id": "nes381",
+    "igdbId": 54535,
+    "gbId": 7860,
+    "gbGuid": "3030-7860",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/BionicPalA.jpg",
+        "details": "PAL B warning message on PAL A cart",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Blaster Master",
+    "id": "nes382",
+    "igdbId": 2367,
+    "gbId": 1257,
+    "gbGuid": "3030-1257",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/blaster_zpse23d979e.jpg",
+        "details": "double labeled",
+        "type": "Labeling"
+      }
+    ]
+  },
+  {
+    "name": "Bubble Bobble",
+    "id": "nes383",
+    "igdbId": 194444,
+    "gbId": 4995,
+    "gbGuid": "3030-4995",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/bubble_zpsf28ba0e9.jpg",
+        "details": "no text in seal of quality",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Burai Fighter",
+    "id": "nes384",
+    "igdbId": 2382,
+    "gbId": 4422,
+    "gbGuid": "3030-4422",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/buri1_zpslipptsyw.jpg",
+        "details": "no staples in manual",
+        "type": "Assembly"
+      }
+    ]
+  },
+  {
+    "name": "Captain Comic: The Adventure",
+    "id": "nes385",
+    "igdbId": 48110,
+    "gbId": 19460,
+    "gbGuid": "3030-19460",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/comic_zpse3b4422a.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Castlevania II: Simon's Quest",
+    "id": "nes386",
+    "igdbId": 1116,
+    "gbId": 11820,
+    "gbGuid": "3030-11820",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/vania2.jpg",
+        "details": "no text in seal of quality",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Championship Bowling",
+    "id": "nes387",
+    "igdbId": 4408,
+    "gbId": 19679,
+    "gbGuid": "3030-19679",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/champbowl_zpscb9840b6.jpg",
+        "details": "CMYK plate offset ",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Cobra Command",
+    "id": "nes388",
+    "igdbId": 69496,
+    "gbId": 30888,
+    "gbGuid": "3030-30888",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/cobracommand1.png",
+        "details": "Label cut crooked",
+        "type": "Cutting"
+      }
+    ]
+  },
+  {
+    "name": "Cobra Triangle (PAL)(Italy)",
+    "id": "nes389",
+    "igdbId": 14590,
+    "gbId": 13924,
+    "gbGuid": "3030-13924",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/E8BF8C65-EA69-A7B0-5D32196F8D0E70F7_zpsmoakbtcm.jpg",
+        "details": "codra instead of cobra in yellow box",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Contra",
+    "id": "nes390",
+    "igdbId": 186207,
+    "gbId": 4350,
+    "gbGuid": "3030-4350",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/contraseal.jpg",
+        "details": "no type inside seal other discoloration caused by water damage",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Defender of the Crown (PAL)",
+    "id": "nes391",
+    "igdbId": 1873,
+    "gbId": 5773,
+    "gbGuid": "3030-5773",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/Defcrownpaltypo.jpg",
+        "details": "Ultra is used couple times on Table of contents in manual not Palcom",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Donkey Kong",
+    "id": "nes392",
+    "igdbId": 141959,
+    "gbId": 311,
+    "gbGuid": "3030-311",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/dkmanual1.jpg",
+        "details": "several blank pages in manual",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Double Dribble",
+    "id": "nes393",
+    "igdbId": 4699,
+    "gbId": 1533,
+    "gbGuid": "3030-1533",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/douledribble1_zps3jk7todi.png",
+        "details": "Cyan Magenta and Black colors became misaligned lifting the whole pic up besides the yellow coloring",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Advanced Dungeons & Dragons: DragonStrike",
+    "id": "nes394",
+    "igdbId": 48113,
+    "gbId": 4020,
+    "gbGuid": "3030-4020",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/dragonstrikeusd.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "DuckTales",
+    "id": "nes395",
+    "igdbId": 6487,
+    "gbId": 15799,
+    "gbGuid": "3030-15799",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/duckusd.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Faxanadu",
+    "id": "nes396",
+    "igdbId": 1974,
+    "gbId": 7851,
+    "gbGuid": "3030-7851",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/faxan_zpsb919a727.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Gradius",
+    "id": "nes397",
+    "igdbId": 1476,
+    "gbId": 15508,
+    "gbGuid": "3030-15508",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/gradius.jpg",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Advanced Dungeons & Dragons: Hillsfar",
+    "id": "nes398",
+    "igdbId": 8622,
+    "gbId": 19912,
+    "gbGuid": "3030-19912",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/hillsfar.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Joust",
+    "id": "nes399",
+    "igdbId": 3659,
+    "gbId": 11689,
+    "gbGuid": "3030-11689",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/jousterror_zps05143ce7.jpg",
+        "details": "came with defender II controller info in manual and a correction card",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Kid Icarus",
+    "id": "nes400",
+    "igdbId": 3663,
+    "gbId": 15154,
+    "gbGuid": "3030-15154",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/kidicarus.jpg",
+        "details": "seal of quality slightly misplaced",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Kid Niki: Radical Ninja",
+    "id": "nes401",
+    "igdbId": 39465,
+    "gbId": 9766,
+    "gbGuid": "3030-9766",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/Kid%201.jpg",
+        "details": "small circle appearing in seal of quality.\ncaused by air trapped under gold color when printed",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda",
+    "id": "nes402",
+    "igdbId": 1022,
+    "gbId": 11949,
+    "gbGuid": "3030-11949",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/lozzelda.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda",
+    "id": "nes403",
+    "igdbId": 1022,
+    "gbId": 11949,
+    "gbGuid": "3030-11949",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/zeldacart2_zps57f793f2.jpg",
+        "details": "upside down label later print run ",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda",
+    "id": "nes404",
+    "igdbId": 1022,
+    "gbId": 11949,
+    "gbGuid": "3030-11949",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/_3-4_zpsboroxgoj.jpg",
+        "details": "double label",
+        "type": "Labeling"
+      }
+    ]
+  },
+  {
+    "name": "Legendary Wings",
+    "id": "nes405",
+    "igdbId": 39705,
+    "gbId": 7717,
+    "gbGuid": "3030-7717",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/legendarywings.jpg",
+        "details": "gold seal printed off",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Life Force",
+    "id": "nes406",
+    "igdbId": 174945,
+    "gbId": 13960,
+    "gbGuid": "3030-13960",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/lifeforce_zps034b7a7e.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "The Little Mermaid",
+    "id": "nes407",
+    "igdbId": 19900,
+    "gbId": 8958,
+    "gbGuid": "3030-8958",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/littlemermaidnes.jpg",
+        "details": "slightly offset gold seal",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Maniac Mansion",
+    "id": "nes408",
+    "igdbId": 192,
+    "gbId": 2037,
+    "gbGuid": "3030-2037",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/maniacmansion.jpg",
+        "details": "misaligned seals on both copies",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Mario Bros. (PAL)(ESP)",
+    "id": "nes409",
+    "igdbId": 172201,
+    "gbId": 19726,
+    "gbGuid": "3030-19726",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/mariobrosesp.jpg",
+        "details": "printer justification error ",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Mega Man",
+    "id": "nes410",
+    "igdbId": 1714,
+    "gbId": 5251,
+    "gbGuid": "3030-5251",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/megamannesmm_zpsazqjm6wc.jpg",
+        "details": "says NES MM instead of NES GP in lower right corner was corrected in later prints",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Mega Man",
+    "id": "nes411",
+    "igdbId": 1714,
+    "gbId": 5251,
+    "gbGuid": "3030-5251",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/megaman0.jpeg",
+        "details": "seal misaligned",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Mega Man 3",
+    "id": "nes412",
+    "igdbId": 1716,
+    "gbId": 4518,
+    "gbGuid": "3030-4518",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/megaman3a.jpg",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Mega Man 6",
+    "id": "nes413",
+    "igdbId": 1719,
+    "gbId": 16475,
+    "gbGuid": "3030-16475",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/mm6crooked_zps478cf123.png",
+        "details": "extremely crooked label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Metroid",
+    "id": "nes414",
+    "igdbId": 1101,
+    "gbId": 21761,
+    "gbGuid": "3030-21761",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/metroidbox1.jpg",
+        "details": "major printer justification error",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Metroid (Yellow label)",
+    "id": "nes415",
+    "igdbId": 1101,
+    "gbId": 21761,
+    "gbGuid": "3030-21761",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/metroidmad_zpseacc8bb0.jpg",
+        "details": "MAD IN JAPAN under Nintendo SOQ",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Mike Tyson's Punch-Out!!",
+    "id": "nes416",
+    "igdbId": 2195,
+    "gbId": 4848,
+    "gbGuid": "3030-4848",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/MTPOseal.jpg",
+        "details": "offset gold seal",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Mike Tyson's Punch-Out!!",
+    "id": "nes417",
+    "igdbId": 2195,
+    "gbId": 4848,
+    "gbGuid": "3030-4848",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/mtpos.jpg",
+        "details": "seal printed off set",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Mike Tyson's Punch-Out!!",
+    "id": "nes418",
+    "igdbId": 2195,
+    "gbId": 4848,
+    "gbGuid": "3030-4848",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/punchoutseal.jpg",
+        "details": "misaligned Seal",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Millipede",
+    "id": "nes419",
+    "igdbId": 4604,
+    "gbId": 2773,
+    "gbGuid": "3030-2773",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/millipereblackseal_zps2c0e8c78.jpg",
+        "details": "no text in seal of quality",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Paperboy (PAL)(FR)",
+    "id": "nes420",
+    "igdbId": 11762,
+    "gbId": 3414,
+    "gbGuid": "3030-3414",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/pperboyfrpal_zps71445b56.jpg",
+        "details": "A in lower corner indicating the game was PAL A, but is a PAL B game",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Paperboy 2 (PAL)",
+    "id": "nes421",
+    "igdbId": 12458,
+    "gbId": 17563,
+    "gbGuid": "3030-17563",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/paperboy2usdside.jpg",
+        "details": "inverted title on box",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Fox's Peter Pan & The Pirates: The Revenge of Captain Hook",
+    "id": "nes422",
+    "igdbId": 72710,
+    "gbId": 23359,
+    "gbGuid": "3030-23359",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/peterpanusd.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Platoon",
+    "id": "nes423",
+    "igdbId": 12718,
+    "gbId": 504,
+    "gbGuid": "3030-504",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/platoon1.jpg",
+        "details": "no type in seal",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Power Blade",
+    "id": "nes424",
+    "igdbId": 48079,
+    "gbId": 18686,
+    "gbGuid": "3030-18686",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/power-blade-nes-back-cover_zpsioomrt4w.jpg",
+        "details": "says power balde under a picture",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Punch-Out!!",
+    "id": "nes425",
+    "igdbId": 84799,
+    "gbId": 23965,
+    "gbGuid": "3030-23965",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/ponesusd1_zps2c9tfure.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Pyramid (AVE)",
+    "id": "nes426",
+    "igdbId": 185891,
+    "gbId": 3012,
+    "gbGuid": "3030-3012",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/pyramidave_zpsezazgttq.jpg",
+        "details": "says tardemarks instead of trademarks in manual",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Q*bert",
+    "id": "nes427",
+    "igdbId": 1980,
+    "gbId": 20782,
+    "gbGuid": "3030-20782",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/qbertdl_zpsulndfnah.jpg",
+        "details": "double labeled",
+        "type": "Labeling"
+      }
+    ]
+  },
+  {
+    "name": "RoboWarrior",
+    "id": "nes428",
+    "igdbId": 8473,
+    "gbId": 1352,
+    "gbGuid": "3030-1352",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/robowarrior.jpg",
+        "details": "gold seal printed off",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Rollergames",
+    "id": "nes429",
+    "igdbId": 138793,
+    "gbId": 15287,
+    "gbGuid": "3030-15287",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/rollergamesdl_zpsa19620d6.jpg",
+        "details": "double labeled",
+        "type": "Labeling"
+      }
+    ]
+  },
+  {
+    "name": "Rollerblade Racer",
+    "id": "nes430",
+    "igdbId": 48204,
+    "gbId": 19264,
+    "gbGuid": "3030-19264",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/49E5A8E9-F6AD-2C99-7A19099817E2E0EF_zpss4d8v3gm.png",
+        "details": "double covers",
+        "type": "Assembly"
+      }
+    ]
+  },
+  {
+    "name": "Skate or Die (PAL)",
+    "id": "nes431",
+    "igdbId": 12267,
+    "gbId": 8819,
+    "gbGuid": "3030-8819",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/skateordietypo.jpg",
+        "details": "says \"PALCOM SOFTWARE IS A TRADEMARK OF FALCOM SOFTWARE\" on back of manual maybe on Ski or Die as well",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Soccer (PAL B)",
+    "id": "nes432",
+    "igdbId": 86375,
+    "gbId": 12955,
+    "gbGuid": "3030-12955",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/soccerpalB.jpg",
+        "details": "slightly offset printing of the seals",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Super C",
+    "id": "nes433",
+    "igdbId": 84919,
+    "gbId": 10077,
+    "gbGuid": "3030-10077",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/supercbox.jpg",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Bros. 3 (Challenge set)",
+    "id": "nes434",
+    "igdbId": 1068,
+    "gbId": 10299,
+    "gbGuid": "3030-10299",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/SMB3Challengefactorydefectfront_zps3e5ae657.jpg",
+        "details": "taped sideways",
+        "type": "Assembly"
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Bros. 2",
+    "id": "nes435",
+    "igdbId": 1067,
+    "gbId": 7406,
+    "gbGuid": "3030-7406",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/smbIIbook_zps2466f484.jpg",
+        "details": "no staples in manual",
+        "type": "Assembly"
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Bros. 3",
+    "id": "nes436",
+    "igdbId": 1068,
+    "gbId": 10299,
+    "gbGuid": "3030-10299",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/smb3sman1_zpskteesxkz.jpg",
+        "details": "strange pattern appearing on cover",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Bros. / Duck Hunt / World Class Track Meet",
+    "id": "nes437",
+    "igdbId": 77227,
+    "gbId": 19967,
+    "gbGuid": "3030-19967",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/smbdhwctm_zpsvfixrjed.jpg",
+        "details": "manual pg 18 \"CONTROL DEDK\"",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Super Spy Hunter",
+    "id": "nes438",
+    "igdbId": 6154,
+    "gbId": 8,
+    "gbGuid": "3030-8",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/sspyhunterdl.jpg",
+        "details": "Double Labeled",
+        "type": "Labeling"
+      }
+    ]
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles",
+    "id": "nes439",
+    "igdbId": 86386,
+    "gbId": 20790,
+    "gbGuid": "3030-20790",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/turtles1usd_zpslx6hs8au.png",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Tetris",
+    "id": "nes440",
+    "igdbId": 180278,
+    "gbId": 1896,
+    "gbGuid": "3030-1896",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/tetris.jpg",
+        "details": "printer justification error",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Tetris (PAL)",
+    "id": "nes441",
+    "igdbId": 180278,
+    "gbId": 1896,
+    "gbGuid": "3030-1896",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/tetrispal.png",
+        "details": "says NSE-EI-UKV instead of NES-EI-UKV",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Top Gun",
+    "id": "nes442",
+    "igdbId": 18021,
+    "gbId": 8678,
+    "gbGuid": "3030-8678",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/topgunusd1.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Top Gun",
+    "id": "nes443",
+    "igdbId": 18021,
+    "gbId": 8678,
+    "gbGuid": "3030-8678",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/topguncrooked1.jog_zpsctr23ohn.jpg",
+        "details": "crooked label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Trojan",
+    "id": "nes444",
+    "igdbId": 39993,
+    "gbId": 14800,
+    "gbGuid": "3030-14800",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/Trojan-Nintendo-NES-Cart-Misprint-Mislabel-Upside-Down.jpg",
+        "details": "Upside down Rear label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Fortune: Family Edition",
+    "id": "nes445",
+    "igdbId": 48258,
+    "gbId": 10750,
+    "gbGuid": "3030-10750",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/AvLAyNZ_zps91f605b9.jpg",
+        "details": "misprinted W on side of box",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Wheel of Fortune: Junior Edition",
+    "id": "nes446",
+    "igdbId": 48094,
+    "gbId": 8864,
+    "gbGuid": "3030-8864",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/WOF_zpse288b5f2.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Yoshi",
+    "id": "nes447",
+    "igdbId": 86264,
+    "gbId": 19197,
+    "gbGuid": "3030-19197",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/yoshiusd_zps6127a96e.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Zelda II: The Adventure of Link",
+    "id": "nes448",
+    "igdbId": 1025,
+    "gbId": 16241,
+    "gbGuid": "3030-16241",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/loz2usd_zps8cd8e31c.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Zelda II: The Adventure of Link",
+    "id": "nes449",
+    "igdbId": 1025,
+    "gbId": 16241,
+    "gbGuid": "3030-16241",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/link2_zpsorqnyynu.jpeg",
+        "details": "layer containing screenshots and red printing became misaligned",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Zelda II: The Adventure of Link (PAL)(FR)",
+    "id": "nes450",
+    "igdbId": 1025,
+    "gbId": 16241,
+    "gbGuid": "3030-16241",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/1.jpg",
+        "details": "no hole cut from box",
+        "type": "Cutting"
+      }
+    ]
+  },
+  {
+    "name": "1942",
+    "id": "nes451",
+    "igdbId": 6075,
+    "gbId": 10466,
+    "gbGuid": "3030-10466",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "3-D WorldRunner",
+    "id": "nes452",
+    "igdbId": 48030,
+    "gbId": 1532,
+    "gbGuid": "3030-1532",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alpha Mission",
+    "id": "nes453",
+    "igdbId": 8911,
+    "gbId": 18942,
+    "gbGuid": "3030-18942",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Arkanoid",
+    "id": "nes454",
+    "igdbId": 4595,
+    "gbId": 15107,
+    "gbGuid": "3030-15107",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Athletic World",
+    "id": "nes455",
+    "igdbId": 9104,
+    "gbId": 17103,
+    "gbGuid": "3030-17103",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "BreakThru",
+    "id": "nes456",
+    "igdbId": 13437,
+    "gbId": 18783,
+    "gbGuid": "3030-18783",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "BurgerTime",
+    "id": "nes457",
+    "igdbId": 4609,
+    "gbId": 4702,
+    "gbGuid": "3030-4702",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Castlevania",
+    "id": "nes458",
+    "igdbId": 1114,
+    "gbId": 6673,
+    "gbGuid": "3030-6673",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Commando",
+    "id": "nes459",
+    "igdbId": 5668,
+    "gbId": 6850,
+    "gbGuid": "3030-6850",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong",
+    "id": "nes460",
+    "igdbId": 1086,
+    "gbId": 311,
+    "gbGuid": "3030-311",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong 3",
+    "id": "nes461",
+    "igdbId": 1088,
+    "gbId": 3296,
+    "gbGuid": "3030-3296",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong Jr.",
+    "id": "nes462",
+    "igdbId": 1087,
+    "gbId": 19416,
+    "gbGuid": "3030-19416",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong Jr. Math",
+    "id": "nes463",
+    "igdbId": 5692,
+    "gbId": 18503,
+    "gbGuid": "3030-18503",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Elevator Action",
+    "id": "nes464",
+    "igdbId": 4599,
+    "gbId": 8179,
+    "gbGuid": "3030-8179",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ghosts 'n Goblins",
+    "id": "nes465",
+    "igdbId": 6807,
+    "gbId": 17031,
+    "gbGuid": "3030-17031",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Gumshoe",
+    "id": "nes466",
+    "igdbId": 18834,
+    "gbId": 1113,
+    "gbGuid": "3030-1113",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ikari Warriors",
+    "id": "nes467",
+    "igdbId": 12153,
+    "gbId": 1619,
+    "gbGuid": "3030-1619",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Karate Champ",
+    "id": "nes468",
+    "igdbId": 25835,
+    "gbId": 7250,
+    "gbGuid": "3030-7250",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Karnov",
+    "id": "nes469",
+    "igdbId": 13234,
+    "gbId": 2057,
+    "gbGuid": "3030-2057",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Legend of Kage",
+    "id": "nes470",
+    "igdbId": 4593,
+    "gbId": 10701,
+    "gbGuid": "3030-10701",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lode Runner",
+    "id": "nes471",
+    "igdbId": 69179,
+    "gbId": 636,
+    "gbGuid": "3030-636",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lunar Pool",
+    "id": "nes472",
+    "igdbId": 7550,
+    "gbId": 11351,
+    "gbGuid": "3030-11351",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mario Bros",
+    "id": "nes473",
+    "igdbId": 3105,
+    "gbId": 19726,
+    "gbGuid": "3030-19726",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mighty Bomb Jack",
+    "id": "nes474",
+    "igdbId": 40531,
+    "gbId": 13256,
+    "gbGuid": "3030-13256",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Popeye",
+    "id": "nes475",
+    "igdbId": 4619,
+    "gbId": 14419,
+    "gbGuid": "3030-14419",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rad Racer",
+    "id": "nes476",
+    "igdbId": 8359,
+    "gbId": 2386,
+    "gbGuid": "3030-2386",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Raid On Bungeling Bay",
+    "id": "nes477",
+    "igdbId": 24664,
+    "gbId": 15577,
+    "gbGuid": "3030-15577",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Renegade",
+    "id": "nes478",
+    "igdbId": 6852,
+    "gbId": 18293,
+    "gbGuid": "3030-18293",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ring King",
+    "id": "nes479",
+    "igdbId": 48208,
+    "gbId": 11769,
+    "gbGuid": "3030-11769",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rush'n Attack",
+    "id": "nes480",
+    "igdbId": 90990,
+    "gbId": 15457,
+    "gbGuid": "3030-15457",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rygar",
+    "id": "nes481",
+    "igdbId": 28841,
+    "gbId": 10397,
+    "gbGuid": "3030-10397",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Section-Z",
+    "id": "nes482",
+    "igdbId": 9755,
+    "gbId": 1432,
+    "gbGuid": "3030-1432",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Side Pocket",
+    "id": "nes483",
+    "igdbId": 6048,
+    "gbId": 2042,
+    "gbGuid": "3030-2042",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sky Kid",
+    "id": "nes484",
+    "igdbId": 17282,
+    "gbId": 16382,
+    "gbGuid": "3030-16382",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Slalom",
+    "id": "nes485",
+    "igdbId": 14589,
+    "gbId": 2599,
+    "gbGuid": "3030-2599",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Solomon's Key",
+    "id": "nes486",
+    "igdbId": 28384,
+    "gbId": 928,
+    "gbGuid": "3030-928",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Spelunker",
+    "id": "nes487",
+    "igdbId": 4621,
+    "gbId": 3087,
+    "gbGuid": "3030-3087",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Spy Hunter",
+    "id": "nes488",
+    "igdbId": 4167,
+    "gbId": 10448,
+    "gbGuid": "3030-10448",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Star Force",
+    "id": "nes489",
+    "igdbId": 6139,
+    "gbId": 3329,
+    "gbGuid": "3030-3329",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Stinger",
+    "id": "nes490",
+    "igdbId": 52195,
+    "gbId": 16079,
+    "gbGuid": "3030-16079",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Pitfall",
+    "id": "nes491",
+    "igdbId": 48233,
+    "gbId": 13716,
+    "gbGuid": "3030-13716",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tag Team Wrestling",
+    "id": "nes492",
+    "igdbId": 36587,
+    "gbId": 6068,
+    "gbGuid": "3030-6068",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tiger-Heli",
+    "id": "nes493",
+    "igdbId": 4606,
+    "gbId": 9833,
+    "gbGuid": "3030-9833",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Track and Field",
+    "id": "nes494",
+    "igdbId": 6439,
+    "gbId": 18232,
+    "gbGuid": "3030-18232",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Urban Champion",
+    "id": "nes495",
+    "igdbId": 4624,
+    "gbId": 8980,
+    "gbGuid": "3030-8980",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Volleyball",
+    "id": "nes496",
+    "igdbId": 55052,
+    "gbId": 5902,
+    "gbGuid": "3030-5902",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Winter Games",
+    "id": "nes497",
+    "igdbId": 12268,
+    "gbId": 10492,
+    "gbGuid": "3030-10492",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Zanac",
+    "id": "nes498",
+    "igdbId": 41319,
+    "gbId": 4394,
+    "gbGuid": "3030-4394",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pro Wrestling",
+    "id": "nes499",
+    "igdbId": 18143,
+    "gbId": 20707,
+    "gbGuid": "3030-20707",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [
+      {
+        "value": "NES hang tab game",
+        "forPlatform": {
+          "name": "Nintendo Entertainment System (NES)",
+          "id": "ccl1",
+          "igdbId": 18,
+          "gbId": 21,
+          "gbGuid": "3045-21",
+          "tgdbId": 7
+        }
+      }
+    ],
     "misprintsErrors": []
   }
 ]
