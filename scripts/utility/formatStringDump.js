@@ -2,15 +2,15 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/greatestHits/xboxOneGreatestHits.json';
-const idPrefix = 'xbogh';
+const relativePath = '../../textFilesToBeConverted/launchTitles/xboxSeriesLaunchTitles.json';
+const idPrefix = 'xbslt';
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Microsoft Xbox One Greatest Hits',
+    'Microsoft Xbox Series X|S launch title',
     idPrefix
   );
   const result = await fileUtil.writeFile(relativePath, newData);

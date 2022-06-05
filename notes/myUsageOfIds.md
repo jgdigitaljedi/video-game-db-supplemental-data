@@ -45,6 +45,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ps2ltX - Sony PlayStation 2 launch titles (ps2LaunchTitles.json) | GAMES LIST
 - ps3ltX - Sony PlayStation 3 launch titles (ps3LaunchTitles.json) | GAMES LIST
 - ps4ltX - Sony PlayStation 4 launch titles (ps4LaunchTitles.json) | GAMES LIST
+- ps5ltX - Sony PlayStation 5 launch titles (ps5LaunchTitles.json) | GAMES LIST
 - pspltX - Sony PSP launch titles (pspLaunchTitles.json) | GAMES LIST
 - pvltX - Sony PlayStation Vita launch titles (psVitaLaunchTitles.json) | GAMES LIST
 - s32xltX - Sega 32X launch titles (sega32xLaunchTitles.json) | GAMES LIST
@@ -58,6 +59,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - x360ltX - Microsoft Xbox 360 launch titles (xbox360LaunchTitles.json) | GAMES LIST
 - xbltX - Microsoft Xbox launch titles (xboxLaunchTitles.json) | GAMES LIST
 - xb1ltX - Microsoft Xbox One launch titles (xboxOneLaunchTitles.json) | GAMES LIST
+- xbsltX - Microsoft Xbox Series X|S launch titles (xboxSeriesLaunchTitles.json) | GAMES LIST
 - wltX - Nintendo Wii launch titles (wiiLaunchTitles.json) | GAMES LIST
 - wultX - Nintendo Wii U launch titles (wiiULaunchTitles.json) | GAMES LIST
 
