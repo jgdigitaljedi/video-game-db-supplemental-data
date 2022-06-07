@@ -703,7 +703,7 @@ module.exports.listData = [
     name: 'Sony PlayStation 5',
     id: 'ccl48',
     prefix: 'sps5',
-    launchTitles: null,
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/ps5LaunchTitles.json')),
     exclusives: null,
     misprintsAndErrors: require(path.resolve(
       smallFiles,
@@ -716,7 +716,7 @@ module.exports.listData = [
     name: 'Xbox Series X|S',
     id: 'ccl49',
     prefix: 'xbs',
-    launchTitles: null,
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/xboxSeriesLaunchTitles.json')),
     exclusives: null,
     misprintsAndErrors: null,
     special: null,
