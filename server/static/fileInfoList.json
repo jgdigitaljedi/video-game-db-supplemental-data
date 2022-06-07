@@ -1094,5 +1094,17 @@
     "filePath": "../textFilesToBeConverted/launchTitles/ps5LaunchTitles.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Nintendo Famicom Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/famicomLaunchTitles.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "SNK Neo Geo AES Launch Titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/neoGeoAesLaunchTitles.json",
+    "type": "Game",
+    "complete": true
   }
 ]

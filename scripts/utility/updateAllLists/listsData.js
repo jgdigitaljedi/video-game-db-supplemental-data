@@ -726,7 +726,7 @@ module.exports.listData = [
     name: 'SNK Neo Geo AES',
     id: 'ccl50',
     prefix: 'ngaes',
-    launchTitles: null,
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/neoGeoAesLaunchTitles.json')),
     exclusives: null,
     misprintsAndErrors: require(path.resolve(
       smallFiles,
@@ -734,5 +734,18 @@ module.exports.listData = [
     )),
     special: null,
     output: path.resolve(consoleLists, 'NeoGeoAES.json')
+  },
+  {
+    name: 'Nintendo Family Computer (Famicom)',
+    id: 'ccl51',
+    prefix: 'nfam',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/famicomLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: require(path.resolve(
+      smallFiles,
+      'misprintsAndErrors/famicomMisprintsAndErrors.json'
+    )),
+    special: null,
+    output: path.resolve(consoleLists, 'NintendoFamicom.json')
   }
 ];
