@@ -111,6 +111,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ngbaexX - Nintendo Game Boy Advance console exclusives (nintendoGameBoyAdvanceExclusives.json | GAMES LIST)
 - ngbcexX - Nintendo Game Boy Color console exclusives (nintendoGameBoyColorExclusives.json | GAMES LIST)
 - ngbexX - Nintendo Game Boy console exclusives (nintendoGameBoyExclusives.json | GAMES LIST)
+- ngcdexX - SNK Neo Geo CD console exclusives (neoGeoCdExclusives.json | GAMES LIST)
 - nswexX - Nintendo Switch console exclusives (nintendoSwitchExclusives.json | GAMES LIST)
 - nvbexX - Nintendo Virtual Boy console exclusives (virtualBoyExclusives.json | GAMES LIST)
 - nwiiexX - Nintendo Wii console exclusives (nintendoWiiExclusives.json | GAMES LIST)

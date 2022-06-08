@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Donkey Kong",
+    "id": "nfam0",
+    "igdbId": 141959,
+    "gbId": 311,
+    "gbGuid": "3030-311",
+    "details": [
+      "Nintendo Famicom launch title"
+    ],
+    "isExclusive": [],
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong Jr.",
+    "id": "nfam1",
+    "igdbId": 178166,
+    "gbId": 19416,
+    "gbGuid": "3030-19416",
+    "details": [
+      "Nintendo Famicom launch title"
+    ],
+    "isExclusive": [],
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Popeye no Eigo Asobi",
+    "id": "nfam2",
+    "igdbId": 48641,
+    "gbId": 35883,
+    "gbGuid": "3030-35883",
+    "details": [
+      "Nintendo Famicom launch title"
+    ],
+    "isExclusive": [],
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon Buster",
+    "id": "nfam3",
+    "igdbId": 38035,
+    "gbId": 12337,
+    "gbGuid": "3030-12337",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/dragonbuster.png",
+        "details": "upside down Label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Faxanadu",
+    "id": "nfam4",
+    "igdbId": 1974,
+    "gbId": 7851,
+    "gbGuid": "3030-7851",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/faxanadu.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "GeGeGe no Kitaro - Yokai Daimakyo",
+    "id": "nfam5",
+    "igdbId": 48317,
+    "gbId": 40977,
+    "gbGuid": "3030-40977",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/GeGeGe_no_Kitarou.png",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Tecmo World Wrestling",
+    "id": "nfam6",
+    "igdbId": 48083,
+    "gbId": 12836,
+    "gbGuid": "3030-12836",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/Oukon_Densetsu_USD_zpsc33dd88f.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "The Tower of Druaga",
+    "id": "nfam7",
+    "igdbId": 4207,
+    "gbId": 4567,
+    "gbGuid": "3030-4567",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/towerofdruaga.jpg",
+        "details": "Title has extra long vowel character on one side of box",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Ys III: Wanderers from Ys",
+    "id": "nfam8",
+    "igdbId": 15450,
+    "gbId": 4208,
+    "gbGuid": "3030-4208",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/ys3_zpsfkcqlpfg.jpg",
+        "details": "PRG chip Incorrectly labeled as CHR chip back slashed out then correct game ID and chip designation typed above it",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Ys III: Wanderers from Ys",
+    "id": "nfam9",
+    "igdbId": 15450,
+    "gbId": 4208,
+    "gbGuid": "3030-4208",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/ys3.jpg",
+        "details": "PRG chip Incorrectly labeled as CHR chip back X'ed out then correct game ID and chip designation typed above it",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Zunou Senkan Galg",
+    "id": "nfam10",
+    "igdbId": 48488,
+    "gbId": 37088,
+    "gbGuid": "3030-37088",
+    "details": [],
+    "isExclusive": [],
+    "isLaunchTitle": [],
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/ZSGfam.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  }
+]

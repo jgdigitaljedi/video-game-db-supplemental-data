@@ -3,7 +3,7 @@ const gbController = require('../../../server/gb.controller');
 const gbKey = process.env.JGBKEY;
 const axios = require('axios');
 
-const pName = 'family computer';
+const pName = 'neo geo cd';
 
 const searchIgdbPlatform = async () => {
   try {

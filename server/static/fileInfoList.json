@@ -1106,5 +1106,11 @@
     "filePath": "../textFilesToBeConverted/launchTitles/neoGeoAesLaunchTitles.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "SNK Neo Geo CD Exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/neoGeoCdExclusives.json",
+    "type": "Game",
+    "complete": false
   }
 ]

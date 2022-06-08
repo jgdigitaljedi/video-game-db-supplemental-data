@@ -139,11 +139,11 @@ function handleSpecial(lists, final, pData) {
       let finalClone = _cloneDeep(final);
       if (lastList > 0) {
         const specials = lists.reduce(async (acc, list, index) => {
-          if (index === 0) {
-            console.log('list[0].details', list[0].details);
-          }
           try {
             const specialAdded = await handleSpecialList(list, pData, acc);
+            if (specialAdded.error) {
+              return acc;
+            }
             return specialAdded;
           } catch (e) {
             console.log(chalk.red.bold('ERROR IN SPECIAL LIST', error));
