@@ -26,6 +26,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - cvltX - ColecoVision launch titles (colecoVisionLaunchTitles.json) | GAMES LIST
 - dcltX - Sega Dreamcast launch titles (dreamcastLaunchTitles.json) | GAMES LIST
 - famltX - Nintendo Famicom launch titles (famicomLaunchTitles.json) | GAMES LIST
+- fdsltX - Nintendo Famicom Disk System launch titles (famicomDiskSystemLaunchTitles.json) | GAMES LIST
 - gbltX - Nintendo Game Boy launch titles (gameBoyLaunchTitles.json) | GAMES LIST
 - gbaltX - Nintendo Game Boy Advance launch titles (gameBoyAdvanceLaunchTitles.json) | GAMES LIST
 - gbcltX - Nintendo Game Boy Color launch titles (gameBoyColorLaunchTitles.json) | GAMES LIST

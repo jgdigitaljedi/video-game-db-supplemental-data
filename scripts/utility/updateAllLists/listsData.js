@@ -9,7 +9,10 @@ module.exports.listData = [
     name: 'Famicom Disk System',
     id: 'ccl48',
     prefix: 'fds',
-    launchTitles: null,
+    launchTitles: require(path.resolve(
+      smallFiles,
+      'launchTitles/famicomDiskSystemLaunchTitles.json'
+    )),
     exclusives: require(path.resolve(
       smallFiles,
       'platformExclusives/famicomDiskSystemExclusives.json'
