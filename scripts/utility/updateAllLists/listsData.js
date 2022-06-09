@@ -747,5 +747,15 @@ module.exports.listData = [
     )),
     special: null,
     output: path.resolve(consoleLists, 'NintendoFamicom.json')
+  },
+  {
+    name: 'SNK Neo Geo CD',
+    id: 'ccl52',
+    prefix: 'ngcd',
+    launchTitles: null,
+    exclusives: require(path.resolve(smallFiles, 'platformExclusives/neoGeoCdExclusives.json')),
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'NeoGeoCD.json')
   }
 ];
