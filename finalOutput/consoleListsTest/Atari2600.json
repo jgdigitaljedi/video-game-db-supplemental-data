@@ -2899,20 +2899,7 @@
         "image": "https://iamerror.gamehacking.org/Atari/atari2600/basic2600.jpg",
         "details": "starburst printing error",
         "type": "Printing"
-      }
-    ]
-  },
-  {
-    "name": "BASIC Programming",
-    "id": "a260122",
-    "igdbId": 54794,
-    "gbId": 23772,
-    "gbGuid": "3030-23772",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
+      },
       {
         "image": "https://iamerror.gamehacking.org/Atari/atari2600/basic2.jpg",
         "details": "double label and printing error",
@@ -2922,7 +2909,7 @@
   },
   {
     "name": "Breakout",
-    "id": "a260123",
+    "id": "a260122",
     "igdbId": 2754,
     "gbId": 13049,
     "gbGuid": "3030-13049",
@@ -2940,7 +2927,7 @@
   },
   {
     "name": "Centipede",
-    "id": "a260124",
+    "id": "a260123",
     "igdbId": 2235,
     "gbId": 1157,
     "gbGuid": "3030-1157",
@@ -2953,20 +2940,7 @@
         "image": "https://iamerror.gamehacking.org/Atari/atari2600/centipedeusdend_zpsf6066072.jpg",
         "details": "upside down end label",
         "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Centipede",
-    "id": "a260125",
-    "igdbId": 2235,
-    "gbId": 1157,
-    "gbGuid": "3030-1157",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
+      },
       {
         "image": "https://iamerror.gamehacking.org/Atari/atari2600/centipede1.jpg",
         "details": "double labeled with colecovision label underneath",
@@ -2976,7 +2950,7 @@
   },
   {
     "name": "Circus Atari",
-    "id": "a260126",
+    "id": "a260124",
     "igdbId": 5667,
     "gbId": 1936,
     "gbGuid": "3030-1936",
@@ -2994,7 +2968,7 @@
   },
   {
     "name": "Code Breaker",
-    "id": "a260127",
+    "id": "a260125",
     "igdbId": 43621,
     "gbId": null,
     "gbGuid": null,
@@ -3012,7 +2986,7 @@
   },
   {
     "name": "Computer Chess",
-    "id": "a260128",
+    "id": "a260126",
     "igdbId": 47531,
     "gbId": 14976,
     "gbGuid": "3030-14976",
@@ -3030,7 +3004,7 @@
   },
   {
     "name": "Cosmic Creeps",
-    "id": "a260129",
+    "id": "a260127",
     "igdbId": 18547,
     "gbId": 4260,
     "gbGuid": "3030-4260",
@@ -3048,7 +3022,7 @@
   },
   {
     "name": "Dark Chambers",
-    "id": "a260130",
+    "id": "a260128",
     "igdbId": 11869,
     "gbId": 15295,
     "gbGuid": "3030-15295",
@@ -3066,7 +3040,7 @@
   },
   {
     "name": "Defender (PAL)",
-    "id": "a260131",
+    "id": "a260129",
     "igdbId": 3873,
     "gbId": 5536,
     "gbGuid": "3030-5536",
@@ -3084,7 +3058,7 @@
   },
   {
     "name": "Dodge 'Em",
-    "id": "a260132",
+    "id": "a260130",
     "igdbId": 17020,
     "gbId": 23399,
     "gbGuid": "3030-23399",
@@ -3102,7 +3076,7 @@
   },
   {
     "name": "Donkey Kong Junior",
-    "id": "a260133",
+    "id": "a260131",
     "igdbId": 192911,
     "gbId": 19416,
     "gbGuid": "3030-19416",
@@ -3120,7 +3094,7 @@
   },
   {
     "name": "Enduro",
-    "id": "a260134",
+    "id": "a260132",
     "igdbId": 18669,
     "gbId": 6844,
     "gbGuid": "3030-6844",
@@ -3138,7 +3112,7 @@
   },
   {
     "name": "Flag Capture",
-    "id": "a260135",
+    "id": "a260133",
     "igdbId": 17024,
     "gbId": 13981,
     "gbGuid": "3030-13981",
@@ -3156,7 +3130,7 @@
   },
   {
     "name": "Frog Pond",
-    "id": "a260136",
+    "id": "a260134",
     "igdbId": 172793,
     "gbId": null,
     "gbGuid": null,
@@ -3174,7 +3148,7 @@
   },
   {
     "name": "Fun with Numbers",
-    "id": "a260137",
+    "id": "a260135",
     "igdbId": 91817,
     "gbId": 34582,
     "gbGuid": "3030-34582",
@@ -3192,7 +3166,7 @@
   },
   {
     "name": "Home Run",
-    "id": "a260138",
+    "id": "a260136",
     "igdbId": 18414,
     "gbId": 7287,
     "gbGuid": "3030-7287",
@@ -3210,7 +3184,7 @@
   },
   {
     "name": "Jawbreaker",
-    "id": "a260139",
+    "id": "a260137",
     "igdbId": 18757,
     "gbId": 16977,
     "gbGuid": "3030-16977",
@@ -3228,7 +3202,7 @@
   },
   {
     "name": "Joust",
-    "id": "a260140",
+    "id": "a260138",
     "igdbId": 3659,
     "gbId": 11689,
     "gbGuid": "3030-11689",
@@ -3246,7 +3220,7 @@
   },
   {
     "name": "Kangaroo",
-    "id": "a260141",
+    "id": "a260139",
     "igdbId": 12310,
     "gbId": 11432,
     "gbGuid": "3030-11432",
@@ -3264,7 +3238,7 @@
   },
   {
     "name": "Keystone Kapers",
-    "id": "a260142",
+    "id": "a260140",
     "igdbId": 12311,
     "gbId": 4423,
     "gbGuid": "3030-4423",
@@ -3282,7 +3256,7 @@
   },
   {
     "name": "Megamania",
-    "id": "a260143",
+    "id": "a260141",
     "igdbId": 12312,
     "gbId": 9694,
     "gbGuid": "3030-9694",
@@ -3300,7 +3274,7 @@
   },
   {
     "name": "Miner 2049er",
-    "id": "a260144",
+    "id": "a260142",
     "igdbId": 18651,
     "gbId": 14533,
     "gbGuid": "3030-14533",
@@ -3318,7 +3292,7 @@
   },
   {
     "name": "Pac-Man",
-    "id": "a260145",
+    "id": "a260143",
     "igdbId": 2750,
     "gbId": 7624,
     "gbGuid": "3030-7624",
@@ -3336,7 +3310,7 @@
   },
   {
     "name": "Pengo (PAL)",
-    "id": "a260146",
+    "id": "a260144",
     "igdbId": 12316,
     "gbId": 4196,
     "gbGuid": "3030-4196",
@@ -3354,7 +3328,7 @@
   },
   {
     "name": "Pole Position",
-    "id": "a260147",
+    "id": "a260145",
     "igdbId": 5691,
     "gbId": 10087,
     "gbGuid": "3030-10087",
@@ -3372,7 +3346,7 @@
   },
   {
     "name": "RealSports Boxing (PAL)",
-    "id": "a260148",
+    "id": "a260146",
     "igdbId": 18417,
     "gbId": 6353,
     "gbGuid": "3030-6353",
@@ -3390,7 +3364,7 @@
   },
   {
     "name": "Sea Hawk",
-    "id": "a260149",
+    "id": "a260147",
     "igdbId": 23911,
     "gbId": 8663,
     "gbGuid": "3030-8663",
@@ -3408,7 +3382,7 @@
   },
   {
     "name": "Slot Machine",
-    "id": "a260150",
+    "id": "a260148",
     "igdbId": 18421,
     "gbId": 9852,
     "gbGuid": "3030-9852",
@@ -3426,7 +3400,7 @@
   },
   {
     "name": "Space War (Space Combat)",
-    "id": "a260151",
+    "id": "a260149",
     "igdbId": 54792,
     "gbId": 6674,
     "gbGuid": "3030-6674",
@@ -3444,7 +3418,7 @@
   },
   {
     "name": "Space Invaders",
-    "id": "a260152",
+    "id": "a260150",
     "igdbId": 3601,
     "gbId": 5099,
     "gbGuid": "3030-5099",
@@ -3462,7 +3436,7 @@
   },
   {
     "name": "Star Raiders",
-    "id": "a260153",
+    "id": "a260151",
     "igdbId": 2217,
     "gbId": 730,
     "gbGuid": "3030-730",
@@ -3480,7 +3454,7 @@
   },
   {
     "name": "Star Trek: Strategic Operations Simulator",
-    "id": "a260154",
+    "id": "a260152",
     "igdbId": 12319,
     "gbId": 13785,
     "gbGuid": "3030-13785",
@@ -3498,7 +3472,7 @@
   },
   {
     "name": "Super Cobra",
-    "id": "a260155",
+    "id": "a260153",
     "igdbId": 5708,
     "gbId": 10519,
     "gbGuid": "3030-10519",
@@ -3516,7 +3490,7 @@
   },
   {
     "name": "Super Challenge Football",
-    "id": "a260156",
+    "id": "a260154",
     "igdbId": 40595,
     "gbId": 32603,
     "gbGuid": "3030-32603",
@@ -3534,7 +3508,7 @@
   },
   {
     "name": "Track & Field",
-    "id": "a260157",
+    "id": "a260155",
     "igdbId": 6439,
     "gbId": 18232,
     "gbGuid": "3030-18232",
@@ -3552,7 +3526,7 @@
   },
   {
     "name": "Video Checkers",
-    "id": "a260158",
+    "id": "a260156",
     "igdbId": 18003,
     "gbId": 13846,
     "gbGuid": "3030-13846",
@@ -3570,7 +3544,7 @@
   },
   {
     "name": "Xonox Artillery Duel/ Spike's Peak",
-    "id": "a260159",
+    "id": "a260157",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3588,7 +3562,7 @@
   },
   {
     "name": "Yars' Revenge",
-    "id": "a260160",
+    "id": "a260158",
     "igdbId": 9757,
     "gbId": 14821,
     "gbGuid": "3030-14821",

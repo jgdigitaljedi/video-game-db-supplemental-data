@@ -621,9 +621,18 @@
     "gbId": null,
     "gbGuid": null,
     "details": [
-      "Microsoft Xbox One full exclusive"
+      "Microsoft Xbox One full exclusive",
+      "Microsoft Xbox One console exclusive (digital only)"
     ],
     "isExclusive": [
+      {
+        "name": "Microsoft Xbox One",
+        "id": "ccl27",
+        "igdbId": 49,
+        "gbId": 145,
+        "gbGuid": "3045-145",
+        "tgdbId": 4920
+      },
       {
         "name": "Microsoft Xbox One",
         "id": "ccl27",
@@ -1236,31 +1245,8 @@
     "misprintsErrors": []
   },
   {
-    "name": "100 Ways",
-    "id": "xone50",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Microsoft Xbox One console exclusive (digital only)"
-    ],
-    "isExclusive": [
-      {
-        "name": "Microsoft Xbox One",
-        "id": "ccl27",
-        "igdbId": 49,
-        "gbId": 145,
-        "gbGuid": "3045-145",
-        "tgdbId": 4920
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "2urvive",
-    "id": "xone51",
+    "id": "xone50",
     "igdbId": 77361,
     "gbId": 62734,
     "gbGuid": "3030-62734",
@@ -1283,7 +1269,7 @@
   },
   {
     "name": "911 Operator",
-    "id": "xone52",
+    "id": "xone51",
     "igdbId": 20927,
     "gbId": 55574,
     "gbGuid": "3030-55574",
@@ -1306,7 +1292,7 @@
   },
   {
     "name": "Acorn Assault: Rodent Revolution",
-    "id": "xone53",
+    "id": "xone52",
     "igdbId": 21991,
     "gbId": 52842,
     "gbGuid": "3030-52842",
@@ -1329,7 +1315,7 @@
   },
   {
     "name": "Action News Heroes",
-    "id": "xone54",
+    "id": "xone53",
     "igdbId": 51614,
     "gbId": 55464,
     "gbGuid": "3030-55464",
@@ -1352,7 +1338,7 @@
   },
   {
     "name": "Aftercharge",
-    "id": "xone55",
+    "id": "xone54",
     "igdbId": 27698,
     "gbId": 69175,
     "gbGuid": "3030-69175",
@@ -1375,7 +1361,7 @@
   },
   {
     "name": "Agents vs Villain",
-    "id": "xone56",
+    "id": "xone55",
     "igdbId": 111818,
     "gbId": null,
     "gbGuid": null,
@@ -1398,7 +1384,7 @@
   },
   {
     "name": "Air Guitar Warrior Gamepad Edition",
-    "id": "xone57",
+    "id": "xone56",
     "igdbId": 106168,
     "gbId": null,
     "gbGuid": null,
@@ -1421,7 +1407,7 @@
   },
   {
     "name": "Air Missions: Hind",
-    "id": "xone58",
+    "id": "xone57",
     "igdbId": 20394,
     "gbId": 67686,
     "gbGuid": "3030-67686",
@@ -1444,7 +1430,7 @@
   },
   {
     "name": "Akuatica",
-    "id": "xone59",
+    "id": "xone58",
     "igdbId": 34497,
     "gbId": null,
     "gbGuid": null,
@@ -1467,7 +1453,7 @@
   },
   {
     "name": "Amazing princess sarah",
-    "id": "xone60",
+    "id": "xone59",
     "igdbId": 20968,
     "gbId": 46970,
     "gbGuid": "3030-46970",
@@ -1490,7 +1476,7 @@
   },
   {
     "name": "Anode",
-    "id": "xone61",
+    "id": "xone60",
     "igdbId": 34489,
     "gbId": 55016,
     "gbGuid": "3030-55016",
@@ -1513,7 +1499,7 @@
   },
   {
     "name": "Aritana and the Harpy's Feather",
-    "id": "xone62",
+    "id": "xone61",
     "igdbId": 17660,
     "gbId": 47385,
     "gbGuid": "3030-47385",
@@ -1536,7 +1522,7 @@
   },
   {
     "name": "Armored Freedom",
-    "id": "xone63",
+    "id": "xone62",
     "igdbId": 29625,
     "gbId": 58841,
     "gbGuid": "3030-58841",
@@ -1559,7 +1545,7 @@
   },
   {
     "name": "Ashen",
-    "id": "xone64",
+    "id": "xone63",
     "igdbId": 6259,
     "gbId": 4946,
     "gbGuid": "3030-4946",
@@ -1582,7 +1568,7 @@
   },
   {
     "name": "ASTRONEER",
-    "id": "xone65",
+    "id": "xone64",
     "igdbId": 13205,
     "gbId": 53060,
     "gbGuid": "3030-53060",
@@ -1605,7 +1591,7 @@
   },
   {
     "name": "Atomic Heist",
-    "id": "xone66",
+    "id": "xone65",
     "igdbId": 90091,
     "gbId": 68253,
     "gbGuid": "3030-68253",
@@ -1628,7 +1614,7 @@
   },
   {
     "name": "A Walk in the Dark",
-    "id": "xone67",
+    "id": "xone66",
     "igdbId": 16646,
     "gbId": 36940,
     "gbGuid": "3030-36940",
@@ -1651,7 +1637,7 @@
   },
   {
     "name": "Babylon 2055 Pinball",
-    "id": "xone68",
+    "id": "xone67",
     "igdbId": 33113,
     "gbId": 68262,
     "gbGuid": "3030-68262",
@@ -1674,7 +1660,7 @@
   },
   {
     "name": "Backlash",
-    "id": "xone69",
+    "id": "xone68",
     "igdbId": 55621,
     "gbId": 73050,
     "gbGuid": "3030-73050",
@@ -1697,7 +1683,7 @@
   },
   {
     "name": "Battle High 2 A+",
-    "id": "xone70",
+    "id": "xone69",
     "igdbId": 76497,
     "gbId": null,
     "gbGuid": null,
@@ -1719,31 +1705,8 @@
     "misprintsErrors": []
   },
   {
-    "name": "Below",
-    "id": "xone71",
-    "igdbId": null,
-    "gbId": 42903,
-    "gbGuid": "3030-42903",
-    "details": [
-      "Microsoft Xbox One console exclusive (digital only)"
-    ],
-    "isExclusive": [
-      {
-        "name": "Microsoft Xbox One",
-        "id": "ccl27",
-        "igdbId": 49,
-        "gbId": 145,
-        "gbGuid": "3045-145",
-        "tgdbId": 4920
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Ben-Hur",
-    "id": "xone72",
+    "id": "xone70",
     "igdbId": 57820,
     "gbId": 55467,
     "gbGuid": "3030-55467",
@@ -1766,7 +1729,7 @@
   },
   {
     "name": "Bike Mayhem 2",
-    "id": "xone73",
+    "id": "xone71",
     "igdbId": 21319,
     "gbId": 52659,
     "gbGuid": "3030-52659",
@@ -1789,7 +1752,7 @@
   },
   {
     "name": "Circuits",
-    "id": "xone74",
+    "id": "xone72",
     "igdbId": 9881,
     "gbId": 46082,
     "gbGuid": "3030-46082",
@@ -1812,7 +1775,7 @@
   },
   {
     "name": "Cities: Skylines",
-    "id": "xone75",
+    "id": "xone73",
     "igdbId": 9066,
     "gbId": 47402,
     "gbGuid": "3030-47402",
@@ -1835,7 +1798,7 @@
   },
   {
     "name": "CLASH",
-    "id": "xone76",
+    "id": "xone74",
     "igdbId": 34233,
     "gbId": null,
     "gbGuid": null,
@@ -1858,7 +1821,7 @@
   },
   {
     "name": "Clockwork Tales: Of Glass and Ink",
-    "id": "xone77",
+    "id": "xone75",
     "igdbId": 17141,
     "gbId": 46114,
     "gbGuid": "3030-46114",
@@ -1881,7 +1844,7 @@
   },
   {
     "name": "ClusterPuck 99",
-    "id": "xone78",
+    "id": "xone76",
     "igdbId": 24626,
     "gbId": 48635,
     "gbGuid": "3030-48635",
@@ -1904,7 +1867,7 @@
   },
   {
     "name": "Cobalt",
-    "id": "xone79",
+    "id": "xone77",
     "igdbId": 2999,
     "gbId": 36256,
     "gbGuid": "3030-36256",
@@ -1927,7 +1890,7 @@
   },
   {
     "name": "Coffee Crisis",
-    "id": "xone80",
+    "id": "xone78",
     "igdbId": 56697,
     "gbId": 58346,
     "gbGuid": "3030-58346",
@@ -1950,7 +1913,7 @@
   },
   {
     "name": "Crypt of the Serpent King",
-    "id": "xone81",
+    "id": "xone79",
     "igdbId": 31307,
     "gbId": 51060,
     "gbGuid": "3030-51060",
@@ -1973,7 +1936,7 @@
   },
   {
     "name": "Cubot",
-    "id": "xone82",
+    "id": "xone80",
     "igdbId": 36000,
     "gbId": 48957,
     "gbGuid": "3030-48957",
@@ -1996,7 +1959,7 @@
   },
   {
     "name": "The Culling",
-    "id": "xone83",
+    "id": "xone81",
     "igdbId": 17252,
     "gbId": 52775,
     "gbGuid": "3030-52775",
@@ -2019,7 +1982,7 @@
   },
   {
     "name": "Cyber Complex",
-    "id": "xone84",
+    "id": "xone82",
     "igdbId": 54813,
     "gbId": 66844,
     "gbGuid": "3030-66844",
@@ -2042,7 +2005,7 @@
   },
   {
     "name": "D4: Dark Dreams Don't Die",
-    "id": "xone85",
+    "id": "xone83",
     "igdbId": 4758,
     "gbId": 42899,
     "gbGuid": "3030-42899",
@@ -2065,7 +2028,7 @@
   },
   {
     "name": "Dad Beat Dads",
-    "id": "xone86",
+    "id": "xone84",
     "igdbId": 34847,
     "gbId": 56974,
     "gbGuid": "3030-56974",
@@ -2088,7 +2051,7 @@
   },
   {
     "name": "The Darwin Project",
-    "id": "xone87",
+    "id": "xone85",
     "igdbId": 27741,
     "gbId": null,
     "gbGuid": null,
@@ -2111,7 +2074,7 @@
   },
   {
     "name": "Deadbeat Heroes",
-    "id": "xone88",
+    "id": "xone86",
     "igdbId": 74197,
     "gbId": 62133,
     "gbGuid": "3030-62133",
@@ -2134,7 +2097,7 @@
   },
   {
     "name": "Deadliners",
-    "id": "xone89",
+    "id": "xone87",
     "igdbId": 46489,
     "gbId": 70427,
     "gbGuid": "3030-70427",
@@ -2157,7 +2120,7 @@
   },
   {
     "name": "DGU: Death God University",
-    "id": "xone90",
+    "id": "xone88",
     "igdbId": 35689,
     "gbId": null,
     "gbGuid": null,
@@ -2180,7 +2143,7 @@
   },
   {
     "name": "World of Van Helsing: Deathtrap",
-    "id": "xone91",
+    "id": "xone89",
     "igdbId": 82402,
     "gbId": null,
     "gbGuid": null,
@@ -2203,7 +2166,7 @@
   },
   {
     "name": "Decay: The Mare",
-    "id": "xone92",
+    "id": "xone90",
     "igdbId": 10175,
     "gbId": null,
     "gbGuid": null,
@@ -2226,7 +2189,7 @@
   },
   {
     "name": "Deep Rock Galactic",
-    "id": "xone93",
+    "id": "xone91",
     "igdbId": 27134,
     "gbId": 57465,
     "gbGuid": "3030-57465",
@@ -2249,7 +2212,7 @@
   },
   {
     "name": "Dragon Bros",
-    "id": "xone94",
+    "id": "xone92",
     "igdbId": 31970,
     "gbId": null,
     "gbGuid": null,
@@ -2272,7 +2235,7 @@
   },
   {
     "name": "Draw a Stickman: EPIC",
-    "id": "xone95",
+    "id": "xone93",
     "igdbId": 5032,
     "gbId": 43736,
     "gbGuid": "3030-43736",
@@ -2295,7 +2258,7 @@
   },
   {
     "name": "Drunk-Fu: Wasted Masters",
-    "id": "xone96",
+    "id": "xone94",
     "igdbId": 28906,
     "gbId": 61251,
     "gbGuid": "3030-61251",
@@ -2318,7 +2281,7 @@
   },
   {
     "name": "Dungeon of the Endless",
-    "id": "xone97",
+    "id": "xone95",
     "igdbId": 9683,
     "gbId": 43670,
     "gbGuid": "3030-43670",
@@ -2341,7 +2304,7 @@
   },
   {
     "name": "DYE",
-    "id": "xone98",
+    "id": "xone96",
     "igdbId": 27288,
     "gbId": 58169,
     "gbGuid": "3030-58169",
@@ -2364,7 +2327,7 @@
   },
   {
     "name": "Elea",
-    "id": "xone99",
+    "id": "xone97",
     "igdbId": 17469,
     "gbId": 68244,
     "gbGuid": "3030-68244",
@@ -2387,7 +2350,7 @@
   },
   {
     "name": "Energy Cycle",
-    "id": "xone100",
+    "id": "xone98",
     "igdbId": 34202,
     "gbId": 60672,
     "gbGuid": "3030-60672",
@@ -2409,31 +2372,8 @@
     "misprintsErrors": []
   },
   {
-    "name": "Eternal",
-    "id": "xone101",
-    "igdbId": null,
-    "gbId": 52602,
-    "gbGuid": "3030-52602",
-    "details": [
-      "Microsoft Xbox One console exclusive (digital only)"
-    ],
-    "isExclusive": [
-      {
-        "name": "Microsoft Xbox One",
-        "id": "ccl27",
-        "igdbId": 49,
-        "gbId": 145,
-        "gbGuid": "3045-145",
-        "tgdbId": 4920
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Fable Fortune",
-    "id": "xone102",
+    "id": "xone99",
     "igdbId": 19388,
     "gbId": 54100,
     "gbGuid": "3030-54100",
@@ -2456,7 +2396,7 @@
   },
   {
     "name": "Factotum 90",
-    "id": "xone103",
+    "id": "xone100",
     "igdbId": 21317,
     "gbId": 53305,
     "gbGuid": "3030-53305",
@@ -2479,7 +2419,7 @@
   },
   {
     "name": "Fearful Symmetry & The Cursed Prince",
-    "id": "xone104",
+    "id": "xone101",
     "igdbId": 75932,
     "gbId": 63740,
     "gbGuid": "3030-63740",
@@ -2502,7 +2442,7 @@
   },
   {
     "name": "Fermi's Path",
-    "id": "xone105",
+    "id": "xone102",
     "igdbId": 20958,
     "gbId": 51191,
     "gbGuid": "3030-51191",
@@ -2525,7 +2465,7 @@
   },
   {
     "name": "Fighties",
-    "id": "xone106",
+    "id": "xone103",
     "igdbId": 35466,
     "gbId": null,
     "gbGuid": null,
@@ -2548,7 +2488,7 @@
   },
   {
     "name": "Final Star",
-    "id": "xone107",
+    "id": "xone104",
     "igdbId": 113440,
     "gbId": 71462,
     "gbGuid": "3030-71462",
@@ -2571,7 +2511,7 @@
   },
   {
     "name": "Fission Superstar X",
-    "id": "xone108",
+    "id": "xone105",
     "igdbId": 90312,
     "gbId": 71406,
     "gbGuid": "3030-71406",
@@ -2594,7 +2534,7 @@
   },
   {
     "name": "Flying Tigers: Shadows Over China",
-    "id": "xone109",
+    "id": "xone106",
     "igdbId": 35361,
     "gbId": 17966,
     "gbGuid": "3030-17966",
@@ -2617,7 +2557,7 @@
   },
   {
     "name": "Forsaken Remastered",
-    "id": "xone110",
+    "id": "xone107",
     "igdbId": 106102,
     "gbId": null,
     "gbGuid": null,
@@ -2640,7 +2580,7 @@
   },
   {
     "name": "Fortified",
-    "id": "xone111",
+    "id": "xone108",
     "igdbId": 18009,
     "gbId": 48023,
     "gbGuid": "3030-48023",
@@ -2663,7 +2603,7 @@
   },
   {
     "name": "Forza Horizon 2 Presents Fast & Furious",
-    "id": "xone112",
+    "id": "xone109",
     "igdbId": 74159,
     "gbId": 48965,
     "gbGuid": "3030-48965",
@@ -2686,7 +2626,7 @@
   },
   {
     "name": "Frizzy",
-    "id": "xone113",
+    "id": "xone110",
     "igdbId": 34764,
     "gbId": 51994,
     "gbGuid": "3030-51994",
@@ -2709,7 +2649,7 @@
   },
   {
     "name": "Fumiko!",
-    "id": "xone114",
+    "id": "xone111",
     "igdbId": 27194,
     "gbId": 57892,
     "gbGuid": "3030-57892",
@@ -2732,7 +2672,7 @@
   },
   {
     "name": "Future War: Reborn",
-    "id": "xone115",
+    "id": "xone112",
     "igdbId": 78061,
     "gbId": 68155,
     "gbGuid": "3030-68155",
@@ -2755,7 +2695,7 @@
   },
   {
     "name": "Ghost of a Tale",
-    "id": "xone116",
+    "id": "xone113",
     "igdbId": 7684,
     "gbId": 42460,
     "gbGuid": "3030-42460",
@@ -2778,7 +2718,7 @@
   },
   {
     "name": "Gleaner Heights",
-    "id": "xone117",
+    "id": "xone114",
     "igdbId": 86328,
     "gbId": 66581,
     "gbGuid": "3030-66581",
@@ -2801,7 +2741,7 @@
   },
   {
     "name": "GoatPunks",
-    "id": "xone118",
+    "id": "xone115",
     "igdbId": 33929,
     "gbId": 56979,
     "gbGuid": "3030-56979",
@@ -2824,7 +2764,7 @@
   },
   {
     "name": "God of Light: Remastered",
-    "id": "xone119",
+    "id": "xone116",
     "igdbId": 75048,
     "gbId": null,
     "gbGuid": null,
@@ -2847,7 +2787,7 @@
   },
   {
     "name": "Goliath",
-    "id": "xone120",
+    "id": "xone117",
     "igdbId": 11080,
     "gbId": 53663,
     "gbGuid": "3030-53663",
@@ -2870,7 +2810,7 @@
   },
   {
     "name": "Gigantic",
-    "id": "xone121",
+    "id": "xone118",
     "igdbId": 11134,
     "gbId": 47031,
     "gbGuid": "3030-47031",
@@ -2893,7 +2833,7 @@
   },
   {
     "name": "G Prime Into The Rain",
-    "id": "xone122",
+    "id": "xone119",
     "igdbId": 32201,
     "gbId": null,
     "gbGuid": null,
@@ -2916,7 +2856,7 @@
   },
   {
     "name": "GunWorld",
-    "id": "xone123",
+    "id": "xone120",
     "igdbId": 82544,
     "gbId": null,
     "gbGuid": null,
@@ -2939,7 +2879,7 @@
   },
   {
     "name": "Hack, Slash & Backstab",
-    "id": "xone124",
+    "id": "xone121",
     "igdbId": 33600,
     "gbId": 55309,
     "gbGuid": "3030-55309",
@@ -2962,7 +2902,7 @@
   },
   {
     "name": "Halo: Spartan Assault",
-    "id": "xone125",
+    "id": "xone122",
     "igdbId": 4839,
     "gbId": 42843,
     "gbGuid": "3030-42843",
@@ -2985,7 +2925,7 @@
   },
   {
     "name": "Happy Wars",
-    "id": "xone126",
+    "id": "xone123",
     "igdbId": 8410,
     "gbId": 37989,
     "gbGuid": "3030-37989",
@@ -3008,7 +2948,7 @@
   },
   {
     "name": "HeartZ: Co-Hope Puzzles",
-    "id": "xone127",
+    "id": "xone124",
     "igdbId": 35803,
     "gbId": 65749,
     "gbGuid": "3030-65749",
@@ -3031,7 +2971,7 @@
   },
   {
     "name": "Hyper Universe",
-    "id": "xone128",
+    "id": "xone125",
     "igdbId": 54817,
     "gbId": 56933,
     "gbGuid": "3030-56933",
@@ -3054,7 +2994,7 @@
   },
   {
     "name": "#IDARB",
-    "id": "xone129",
+    "id": "xone126",
     "igdbId": 9888,
     "gbId": 45701,
     "gbGuid": "3030-45701",
@@ -3076,31 +3016,8 @@
     "misprintsErrors": []
   },
   {
-    "name": "In Between",
-    "id": "xone130",
-    "igdbId": null,
-    "gbId": 53710,
-    "gbGuid": "3030-53710",
-    "details": [
-      "Microsoft Xbox One console exclusive (digital only)"
-    ],
-    "isExclusive": [
-      {
-        "name": "Microsoft Xbox One",
-        "id": "ccl27",
-        "igdbId": 49,
-        "gbId": 145,
-        "gbGuid": "3045-145",
-        "tgdbId": 4920
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "The Incredible Adventures of Van Helsing III",
-    "id": "xone131",
+    "id": "xone127",
     "igdbId": 11703,
     "gbId": 49895,
     "gbGuid": "3030-49895",
@@ -3122,31 +3039,8 @@
     "misprintsErrors": []
   },
   {
-    "name": "Initial2: New Stage",
-    "id": "xone132",
-    "igdbId": null,
-    "gbId": 74345,
-    "gbGuid": "3030-74345",
-    "details": [
-      "Microsoft Xbox One console exclusive (digital only)"
-    ],
-    "isExclusive": [
-      {
-        "name": "Microsoft Xbox One",
-        "id": "ccl27",
-        "igdbId": 49,
-        "gbId": 145,
-        "gbGuid": "3045-145",
-        "tgdbId": 4920
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Into the Belly of the Beast",
-    "id": "xone133",
+    "id": "xone128",
     "igdbId": 33890,
     "gbId": 65748,
     "gbGuid": "3030-65748",
@@ -3169,7 +3063,7 @@
   },
   {
     "name": "Iron Wings",
-    "id": "xone134",
+    "id": "xone129",
     "igdbId": 25953,
     "gbId": null,
     "gbGuid": null,
@@ -3192,7 +3086,7 @@
   },
   {
     "name": "I, Hope",
-    "id": "xone135",
+    "id": "xone130",
     "igdbId": 88401,
     "gbId": null,
     "gbGuid": null,
@@ -3215,7 +3109,7 @@
   },
   {
     "name": "I, Zombie",
-    "id": "xone136",
+    "id": "xone131",
     "igdbId": 9879,
     "gbId": null,
     "gbGuid": null,
@@ -3238,7 +3132,7 @@
   },
   {
     "name": "Jump, Step, Step",
-    "id": "xone137",
+    "id": "xone132",
     "igdbId": 29864,
     "gbId": null,
     "gbGuid": null,
@@ -3261,7 +3155,7 @@
   },
   {
     "name": "Kaiju Panic",
-    "id": "xone138",
+    "id": "xone133",
     "igdbId": 13190,
     "gbId": null,
     "gbGuid": null,
@@ -3284,7 +3178,7 @@
   },
   {
     "name": "Kalimba",
-    "id": "xone139",
+    "id": "xone134",
     "igdbId": 14711,
     "gbId": 45997,
     "gbGuid": "3030-45997",
@@ -3307,7 +3201,7 @@
   },
   {
     "name": "King's Guard TD",
-    "id": "xone140",
+    "id": "xone135",
     "igdbId": 32750,
     "gbId": 53581,
     "gbGuid": "3030-53581",
@@ -3330,7 +3224,7 @@
   },
   {
     "name": "Knight Squad",
-    "id": "xone141",
+    "id": "xone136",
     "igdbId": 14380,
     "gbId": 46058,
     "gbGuid": "3030-46058",
@@ -3353,7 +3247,7 @@
   },
   {
     "name": "Korgan",
-    "id": "xone142",
+    "id": "xone137",
     "igdbId": 83810,
     "gbId": 66681,
     "gbGuid": "3030-66681",
@@ -3376,7 +3270,7 @@
   },
   {
     "name": "Land It!",
-    "id": "xone143",
+    "id": "xone138",
     "igdbId": 76071,
     "gbId": null,
     "gbGuid": null,
@@ -3399,7 +3293,7 @@
   },
   {
     "name": "Lilith-M",
-    "id": "xone144",
+    "id": "xone139",
     "igdbId": 106240,
     "gbId": null,
     "gbGuid": null,
@@ -3422,7 +3316,7 @@
   },
   {
     "name": "Line Of Defense Tactics",
-    "id": "xone145",
+    "id": "xone140",
     "igdbId": 16894,
     "gbId": null,
     "gbGuid": null,
@@ -3445,7 +3339,7 @@
   },
   {
     "name": "The Living Dungeon",
-    "id": "xone146",
+    "id": "xone141",
     "igdbId": 21316,
     "gbId": null,
     "gbGuid": null,
@@ -3468,7 +3362,7 @@
   },
   {
     "name": "Magic: The Gathering - Duels of the Planeswalkers 2015",
-    "id": "xone147",
+    "id": "xone142",
     "igdbId": 18218,
     "gbId": 45981,
     "gbGuid": "3030-45981",
@@ -3491,7 +3385,7 @@
   },
   {
     "name": "Magical Brickout",
-    "id": "xone148",
+    "id": "xone143",
     "igdbId": 25071,
     "gbId": 68993,
     "gbGuid": "3030-68993",
@@ -3514,7 +3408,7 @@
   },
   {
     "name": "Magnetic: Cage Closed",
-    "id": "xone149",
+    "id": "xone144",
     "igdbId": 20888,
     "gbId": 49831,
     "gbGuid": "3030-49831",
@@ -3537,7 +3431,7 @@
   },
   {
     "name": "MagNets: Fully Charged",
-    "id": "xone150",
+    "id": "xone145",
     "igdbId": 21322,
     "gbId": null,
     "gbGuid": null,
@@ -3560,7 +3454,7 @@
   },
   {
     "name": "Massive Chalice",
-    "id": "xone151",
+    "id": "xone146",
     "igdbId": 15861,
     "gbId": 42775,
     "gbGuid": "3030-42775",
@@ -3583,7 +3477,7 @@
   },
   {
     "name": "Mayan Death Robots: Arena",
-    "id": "xone152",
+    "id": "xone147",
     "igdbId": 82444,
     "gbId": 47836,
     "gbGuid": "3030-47836",
@@ -3606,7 +3500,7 @@
   },
   {
     "name": "Mimic Arena",
-    "id": "xone153",
+    "id": "xone148",
     "igdbId": 33785,
     "gbId": 50991,
     "gbGuid": "3030-50991",
@@ -3629,7 +3523,7 @@
   },
   {
     "name": "Minion Masters: Forced to Duel",
-    "id": "xone154",
+    "id": "xone149",
     "igdbId": 27150,
     "gbId": 57014,
     "gbGuid": "3030-57014",
@@ -3652,7 +3546,7 @@
   },
   {
     "name": "Molecats",
-    "id": "xone155",
+    "id": "xone150",
     "igdbId": 22743,
     "gbId": 68301,
     "gbGuid": "3030-68301",
@@ -3675,7 +3569,7 @@
   },
   {
     "name": "Momentum",
-    "id": "xone156",
+    "id": "xone151",
     "igdbId": 23568,
     "gbId": 53478,
     "gbGuid": "3030-53478",
@@ -3698,7 +3592,7 @@
   },
   {
     "name": "Monkey King Saga",
-    "id": "xone157",
+    "id": "xone152",
     "igdbId": 34061,
     "gbId": 54268,
     "gbGuid": "3030-54268",
@@ -3721,7 +3615,7 @@
   },
   {
     "name": "Mystery Castle",
-    "id": "xone158",
+    "id": "xone153",
     "igdbId": 19889,
     "gbId": 53857,
     "gbGuid": "3030-53857",
@@ -3744,7 +3638,7 @@
   },
   {
     "name": "NeuroBloxs",
-    "id": "xone159",
+    "id": "xone154",
     "igdbId": 112435,
     "gbId": 71131,
     "gbGuid": "3030-71131",
@@ -3767,7 +3661,7 @@
   },
   {
     "name": "Nevermind",
-    "id": "xone160",
+    "id": "xone155",
     "igdbId": 12452,
     "gbId": 53333,
     "gbGuid": "3030-53333",
@@ -3790,7 +3684,7 @@
   },
   {
     "name": "On A Roll 3D",
-    "id": "xone161",
+    "id": "xone156",
     "igdbId": 35990,
     "gbId": 54138,
     "gbGuid": "3030-54138",
@@ -3813,7 +3707,7 @@
   },
   {
     "name": "The One We Found",
-    "id": "xone162",
+    "id": "xone157",
     "igdbId": 109827,
     "gbId": 70658,
     "gbGuid": "3030-70658",
@@ -3836,7 +3730,7 @@
   },
   {
     "name": "oOo: Ascension",
-    "id": "xone163",
+    "id": "xone158",
     "igdbId": 103214,
     "gbId": 68131,
     "gbGuid": "3030-68131",
@@ -3859,7 +3753,7 @@
   },
   {
     "name": "Operencia: The Stolen Sun",
-    "id": "xone164",
+    "id": "xone159",
     "igdbId": 113212,
     "gbId": 71542,
     "gbGuid": "3030-71542",
@@ -3882,7 +3776,7 @@
   },
   {
     "name": "Orbit",
-    "id": "xone165",
+    "id": "xone160",
     "igdbId": 20962,
     "gbId": 37008,
     "gbGuid": "3030-37008",
@@ -3905,7 +3799,7 @@
   },
   {
     "name": "Ori and the Blind Forest",
-    "id": "xone166",
+    "id": "xone161",
     "igdbId": 7344,
     "gbId": 46548,
     "gbGuid": "3030-46548",
@@ -3928,7 +3822,7 @@
   },
   {
     "name": "Ori and the Blind Forest: Definitive Edition",
-    "id": "xone167",
+    "id": "xone162",
     "igdbId": 19456,
     "gbId": null,
     "gbGuid": null,
@@ -3951,7 +3845,7 @@
   },
   {
     "name": "Outbreak",
-    "id": "xone168",
+    "id": "xone163",
     "igdbId": 77034,
     "gbId": 31201,
     "gbGuid": "3030-31201",
@@ -3974,7 +3868,7 @@
   },
   {
     "name": "Outbreak: Lost Hope",
-    "id": "xone169",
+    "id": "xone164",
     "igdbId": 115905,
     "gbId": 73852,
     "gbGuid": "3030-73852",
@@ -3997,7 +3891,7 @@
   },
   {
     "name": "Outbreak: The Nightmare Chronicles",
-    "id": "xone170",
+    "id": "xone165",
     "igdbId": 90135,
     "gbId": 73851,
     "gbGuid": "3030-73851",
@@ -4020,7 +3914,7 @@
   },
   {
     "name": "Outbreak: The New Nightmare",
-    "id": "xone171",
+    "id": "xone166",
     "igdbId": 38782,
     "gbId": 61615,
     "gbGuid": "3030-61615",
@@ -4043,7 +3937,7 @@
   },
   {
     "name": "Outer Wilds",
-    "id": "xone172",
+    "id": "xone167",
     "igdbId": 11737,
     "gbId": 49344,
     "gbGuid": "3030-49344",
@@ -4066,7 +3960,7 @@
   },
   {
     "name": "Overdriven Reloaded: Special Edition",
-    "id": "xone173",
+    "id": "xone168",
     "igdbId": 53438,
     "gbId": null,
     "gbGuid": null,
@@ -4089,7 +3983,7 @@
   },
   {
     "name": "Party Jousting",
-    "id": "xone174",
+    "id": "xone169",
     "igdbId": 33608,
     "gbId": 71364,
     "gbGuid": "3030-71364",
@@ -4112,7 +4006,7 @@
   },
   {
     "name": "Path of Exile",
-    "id": "xone175",
+    "id": "xone170",
     "igdbId": 1911,
     "gbId": 32562,
     "gbGuid": "3030-32562",
@@ -4135,7 +4029,7 @@
   },
   {
     "name": "Perfect Woman",
-    "id": "xone176",
+    "id": "xone171",
     "igdbId": 57819,
     "gbId": 55466,
     "gbGuid": "3030-55466",
@@ -4158,7 +4052,7 @@
   },
   {
     "name": "Phantom Dust",
-    "id": "xone177",
+    "id": "xone172",
     "igdbId": 7341,
     "gbId": 15133,
     "gbGuid": "3030-15133",
@@ -4181,7 +4075,7 @@
   },
   {
     "name": "Pit People",
-    "id": "xone178",
+    "id": "xone173",
     "igdbId": 17207,
     "gbId": 45982,
     "gbGuid": "3030-45982",
@@ -4204,7 +4098,7 @@
   },
   {
     "name": "Planetbase",
-    "id": "xone179",
+    "id": "xone174",
     "igdbId": 13200,
     "gbId": 51197,
     "gbGuid": "3030-51197",
@@ -4227,7 +4121,7 @@
   },
   {
     "name": "Polychromatic",
-    "id": "xone180",
+    "id": "xone175",
     "igdbId": 20956,
     "gbId": 50889,
     "gbGuid": "3030-50889",
@@ -4250,7 +4144,7 @@
   },
   {
     "name": "Purple Chicken Spaceman",
-    "id": "xone181",
+    "id": "xone176",
     "igdbId": 117777,
     "gbId": 73204,
     "gbGuid": "3030-73204",
@@ -4273,7 +4167,7 @@
   },
   {
     "name": "Q",
-    "id": "xone182",
+    "id": "xone177",
     "igdbId": 82427,
     "gbId": 50185,
     "gbGuid": "3030-50185",
@@ -4296,7 +4190,7 @@
   },
   {
     "name": "Quantic Pinball",
-    "id": "xone183",
+    "id": "xone178",
     "igdbId": 29831,
     "gbId": 67119,
     "gbGuid": "3030-67119",
@@ -4319,7 +4213,7 @@
   },
   {
     "name": "Quantum Rush Champions",
-    "id": "xone184",
+    "id": "xone179",
     "igdbId": 17726,
     "gbId": 50027,
     "gbGuid": "3030-50027",
@@ -4342,7 +4236,7 @@
   },
   {
     "name": "Quatros Origins",
-    "id": "xone185",
+    "id": "xone180",
     "igdbId": 33984,
     "gbId": 54888,
     "gbGuid": "3030-54888",
@@ -4365,7 +4259,7 @@
   },
   {
     "name": "Raining Blobs",
-    "id": "xone186",
+    "id": "xone181",
     "igdbId": 24050,
     "gbId": 52698,
     "gbGuid": "3030-52698",
@@ -4388,7 +4282,7 @@
   },
   {
     "name": "Reagan Gorbachev",
-    "id": "xone187",
+    "id": "xone182",
     "igdbId": 35414,
     "gbId": 53491,
     "gbGuid": "3030-53491",
@@ -4411,7 +4305,7 @@
   },
   {
     "name": "Refunct",
-    "id": "xone188",
+    "id": "xone183",
     "igdbId": 13542,
     "gbId": 51315,
     "gbGuid": "3030-51315",
@@ -4434,7 +4328,7 @@
   },
   {
     "name": "Reversi Quest",
-    "id": "xone189",
+    "id": "xone184",
     "igdbId": 104780,
     "gbId": null,
     "gbGuid": null,
@@ -4457,7 +4351,7 @@
   },
   {
     "name": "Rivals of Aether",
-    "id": "xone190",
+    "id": "xone185",
     "igdbId": 21646,
     "gbId": 48000,
     "gbGuid": "3030-48000",
@@ -4480,7 +4374,7 @@
   },
   {
     "name": "Roblox",
-    "id": "xone191",
+    "id": "xone186",
     "igdbId": 17269,
     "gbId": 25462,
     "gbGuid": "3030-25462",
@@ -4503,7 +4397,7 @@
   },
   {
     "name": "Robocraft Infinity",
-    "id": "xone192",
+    "id": "xone187",
     "igdbId": 93843,
     "gbId": 67231,
     "gbGuid": "3030-67231",
@@ -4526,7 +4420,7 @@
   },
   {
     "name": "Rocket Wars",
-    "id": "xone193",
+    "id": "xone188",
     "igdbId": 36630,
     "gbId": 59623,
     "gbGuid": "3030-59623",
@@ -4549,7 +4443,7 @@
   },
   {
     "name": "Samsara",
-    "id": "xone194",
+    "id": "xone189",
     "igdbId": 76641,
     "gbId": 63411,
     "gbGuid": "3030-63411",
@@ -4572,7 +4466,7 @@
   },
   {
     "name": "Save The Ninja Clan",
-    "id": "xone195",
+    "id": "xone190",
     "igdbId": 27299,
     "gbId": 57936,
     "gbGuid": "3030-57936",
@@ -4595,7 +4489,7 @@
   },
   {
     "name": "Shadow Fencer Theatre",
-    "id": "xone196",
+    "id": "xone191",
     "igdbId": 116488,
     "gbId": 72452,
     "gbGuid": "3030-72452",
@@ -4618,7 +4512,7 @@
   },
   {
     "name": "Shalnor Legends: Sacred Lands",
-    "id": "xone197",
+    "id": "xone192",
     "igdbId": 69498,
     "gbId": 64416,
     "gbGuid": "3030-64416",
@@ -4641,7 +4535,7 @@
   },
   {
     "name": "ShellShock Live",
-    "id": "xone198",
+    "id": "xone193",
     "igdbId": 17904,
     "gbId": 49235,
     "gbGuid": "3030-49235",
@@ -4664,7 +4558,7 @@
   },
   {
     "name": "Shiny",
-    "id": "xone199",
+    "id": "xone194",
     "igdbId": 23956,
     "gbId": 53796,
     "gbGuid": "3030-53796",
@@ -4687,7 +4581,7 @@
   },
   {
     "name": "Sixty Second Shooter Prime",
-    "id": "xone200",
+    "id": "xone195",
     "igdbId": 20056,
     "gbId": 46688,
     "gbGuid": "3030-46688",
@@ -4710,7 +4604,7 @@
   },
   {
     "name": "Skyling: Garden Defense",
-    "id": "xone201",
+    "id": "xone196",
     "igdbId": 29821,
     "gbId": 53293,
     "gbGuid": "3030-53293",
@@ -4733,7 +4627,7 @@
   },
   {
     "name": "SlashDash",
-    "id": "xone202",
+    "id": "xone197",
     "igdbId": 11651,
     "gbId": 46195,
     "gbGuid": "3030-46195",
@@ -4756,7 +4650,7 @@
   },
   {
     "name": "Smoots World Cup Tennis",
-    "id": "xone203",
+    "id": "xone198",
     "igdbId": 24720,
     "gbId": null,
     "gbGuid": null,
@@ -4779,7 +4673,7 @@
   },
   {
     "name": "Snooker Nation Championship",
-    "id": "xone204",
+    "id": "xone199",
     "igdbId": 33123,
     "gbId": 53560,
     "gbGuid": "3030-53560",
@@ -4802,7 +4696,7 @@
   },
   {
     "name": "Soda Drinker Pro",
-    "id": "xone205",
+    "id": "xone200",
     "igdbId": 20037,
     "gbId": 41901,
     "gbGuid": "3030-41901",
@@ -4825,7 +4719,7 @@
   },
   {
     "name": "The Solus Project",
-    "id": "xone206",
+    "id": "xone201",
     "igdbId": 11221,
     "gbId": 50016,
     "gbGuid": "3030-50016",
@@ -4848,7 +4742,7 @@
   },
   {
     "name": "Spareware",
-    "id": "xone207",
+    "id": "xone202",
     "igdbId": 31224,
     "gbId": 54049,
     "gbGuid": "3030-54049",
@@ -4871,7 +4765,7 @@
   },
   {
     "name": "Spectra: 8bit Racing",
-    "id": "xone208",
+    "id": "xone203",
     "igdbId": 61509,
     "gbId": 46576,
     "gbGuid": "3030-46576",
@@ -4894,7 +4788,7 @@
   },
   {
     "name": "Speedboat Challenge",
-    "id": "xone209",
+    "id": "xone204",
     "igdbId": 82415,
     "gbId": 65626,
     "gbGuid": "3030-65626",
@@ -4917,7 +4811,7 @@
   },
   {
     "name": "Standpoint",
-    "id": "xone210",
+    "id": "xone205",
     "igdbId": 10885,
     "gbId": 48441,
     "gbGuid": "3030-48441",
@@ -4940,7 +4834,7 @@
   },
   {
     "name": "Star Balls",
-    "id": "xone211",
+    "id": "xone206",
     "igdbId": 35370,
     "gbId": null,
     "gbGuid": null,
@@ -4963,7 +4857,7 @@
   },
   {
     "name": "Starpoint Gemini 2",
-    "id": "xone212",
+    "id": "xone207",
     "igdbId": 8818,
     "gbId": 43852,
     "gbGuid": "3030-43852",
@@ -4986,7 +4880,7 @@
   },
   {
     "name": "Starpoint Gemini Warlords",
-    "id": "xone213",
+    "id": "xone208",
     "igdbId": 23905,
     "gbId": 53417,
     "gbGuid": "3030-53417",
@@ -5009,7 +4903,7 @@
   },
   {
     "name": "Steel Rain X",
-    "id": "xone214",
+    "id": "xone209",
     "igdbId": 51611,
     "gbId": null,
     "gbGuid": null,
@@ -5032,7 +4926,7 @@
   },
   {
     "name": "Stories of Bethem: Full Moon",
-    "id": "xone215",
+    "id": "xone210",
     "igdbId": 34180,
     "gbId": 55463,
     "gbGuid": "3030-55463",
@@ -5055,7 +4949,7 @@
   },
   {
     "name": "Super Bomb Rush!",
-    "id": "xone216",
+    "id": "xone211",
     "igdbId": 34566,
     "gbId": null,
     "gbGuid": null,
@@ -5078,7 +4972,7 @@
   },
   {
     "name": "Super Space Serpent - Secondary Edition",
-    "id": "xone217",
+    "id": "xone212",
     "igdbId": 117529,
     "gbId": 73011,
     "gbGuid": "3030-73011",
@@ -5101,7 +4995,7 @@
   },
   {
     "name": "Switch - Or Die Trying",
-    "id": "xone218",
+    "id": "xone213",
     "igdbId": 31968,
     "gbId": 67116,
     "gbGuid": "3030-67116",
@@ -5124,7 +5018,7 @@
   },
   {
     "name": "Talent Not Included",
-    "id": "xone219",
+    "id": "xone214",
     "igdbId": 32469,
     "gbId": 59010,
     "gbGuid": "3030-59010",
@@ -5147,7 +5041,7 @@
   },
   {
     "name": "Threes",
-    "id": "xone220",
+    "id": "xone215",
     "igdbId": 9054,
     "gbId": 45363,
     "gbGuid": "3030-45363",
@@ -5170,7 +5064,7 @@
   },
   {
     "name": "Train Sim World: Founders Edition",
-    "id": "xone221",
+    "id": "xone216",
     "igdbId": 90057,
     "gbId": null,
     "gbGuid": null,
@@ -5193,7 +5087,7 @@
   },
   {
     "name": "TurnOn",
-    "id": "xone222",
+    "id": "xone217",
     "igdbId": 19606,
     "gbId": 62642,
     "gbGuid": "3030-62642",
@@ -5216,7 +5110,7 @@
   },
   {
     "name": "Tyler: Model 005",
-    "id": "xone223",
+    "id": "xone218",
     "igdbId": 29943,
     "gbId": null,
     "gbGuid": null,
@@ -5239,7 +5133,7 @@
   },
   {
     "name": "Unit 4",
-    "id": "xone224",
+    "id": "xone219",
     "igdbId": 36422,
     "gbId": 59695,
     "gbGuid": "3030-59695",
@@ -5262,7 +5156,7 @@
   },
   {
     "name": "Unnamed Fiasco",
-    "id": "xone225",
+    "id": "xone220",
     "igdbId": 34775,
     "gbId": 54772,
     "gbGuid": "3030-54772",
@@ -5285,7 +5179,7 @@
   },
   {
     "name": "Velocity G",
-    "id": "xone226",
+    "id": "xone221",
     "igdbId": 107977,
     "gbId": 72609,
     "gbGuid": "3030-72609",
@@ -5308,7 +5202,7 @@
   },
   {
     "name": "Vicious Attack Llama Apocalypse",
-    "id": "xone227",
+    "id": "xone222",
     "igdbId": 44289,
     "gbId": 64035,
     "gbGuid": "3030-64035",
@@ -5331,7 +5225,7 @@
   },
   {
     "name": "Vigor",
-    "id": "xone228",
+    "id": "xone223",
     "igdbId": 103328,
     "gbId": 68962,
     "gbGuid": "3030-68962",
@@ -5354,7 +5248,7 @@
   },
   {
     "name": "Voice Commander, a Microsoft Garage project",
-    "id": "xone229",
+    "id": "xone224",
     "igdbId": 82404,
     "gbId": null,
     "gbGuid": null,
@@ -5377,7 +5271,7 @@
   },
   {
     "name": "Voodoo Vince: Remastered",
-    "id": "xone230",
+    "id": "xone225",
     "igdbId": 25649,
     "gbId": 7914,
     "gbGuid": "3030-7914",
@@ -5400,7 +5294,7 @@
   },
   {
     "name": "The Way",
-    "id": "xone231",
+    "id": "xone226",
     "igdbId": 80765,
     "gbId": 37036,
     "gbGuid": "3030-37036",
@@ -5423,7 +5317,7 @@
   },
   {
     "name": "Wells",
-    "id": "xone232",
+    "id": "xone227",
     "igdbId": 31298,
     "gbId": 52457,
     "gbGuid": "3030-52457",
@@ -5446,7 +5340,7 @@
   },
   {
     "name": "Wenjia",
-    "id": "xone233",
+    "id": "xone228",
     "igdbId": 110509,
     "gbId": 70229,
     "gbGuid": "3030-70229",
@@ -5469,7 +5363,7 @@
   },
   {
     "name": "Westerado: Double Barreled",
-    "id": "xone234",
+    "id": "xone229",
     "igdbId": 8904,
     "gbId": 41453,
     "gbGuid": "3030-41453",
@@ -5492,7 +5386,7 @@
   },
   {
     "name": "Wheelspin Frenzy",
-    "id": "xone235",
+    "id": "xone230",
     "igdbId": 104998,
     "gbId": 69309,
     "gbGuid": "3030-69309",
@@ -5515,7 +5409,7 @@
   },
   {
     "name": "Winx Club: Alfea Butterflix Adventures",
-    "id": "xone236",
+    "id": "xone231",
     "igdbId": 79740,
     "gbId": 69276,
     "gbGuid": "3030-69276",
@@ -5538,7 +5432,7 @@
   },
   {
     "name": "World Enduro Rally",
-    "id": "xone237",
+    "id": "xone232",
     "igdbId": 111671,
     "gbId": 72012,
     "gbGuid": "3030-72012",
@@ -5561,7 +5455,7 @@
   },
   {
     "name": "The World II: Hunting BOSS",
-    "id": "xone238",
+    "id": "xone233",
     "igdbId": 17843,
     "gbId": null,
     "gbGuid": null,
@@ -5584,7 +5478,7 @@
   },
   {
     "name": "Xbox Fitness",
-    "id": "xone239",
+    "id": "xone234",
     "igdbId": 19172,
     "gbId": 44034,
     "gbGuid": "3030-44034",
@@ -5607,7 +5501,7 @@
   },
   {
     "name": "The Z Axis: Continuum",
-    "id": "xone240",
+    "id": "xone235",
     "igdbId": 104794,
     "gbId": 69685,
     "gbGuid": "3030-69685",
@@ -5630,7 +5524,7 @@
   },
   {
     "name": "Zombie Driver: Ultimate Edition",
-    "id": "xone241",
+    "id": "xone236",
     "igdbId": 20229,
     "gbId": 29265,
     "gbGuid": "3030-29265",
@@ -5653,7 +5547,7 @@
   },
   {
     "name": "Zombie Pinball",
-    "id": "xone242",
+    "id": "xone237",
     "igdbId": 33114,
     "gbId": 54823,
     "gbGuid": "3030-54823",
@@ -5676,7 +5570,7 @@
   },
   {
     "name": "Back to the Future: The Game",
-    "id": "xone243",
+    "id": "xone238",
     "igdbId": 3232,
     "gbId": 38889,
     "gbGuid": "3030-38889",
@@ -5694,7 +5588,7 @@
   },
   {
     "name": "Call of Duty: Black Ops III",
-    "id": "xone244",
+    "id": "xone239",
     "igdbId": 9509,
     "gbId": 48754,
     "gbGuid": "3030-48754",
@@ -5712,7 +5606,7 @@
   },
   {
     "name": "Code Vein",
-    "id": "xone245",
+    "id": "xone240",
     "igdbId": 28168,
     "gbId": 59194,
     "gbGuid": "3030-59194",
@@ -5730,7 +5624,7 @@
   },
   {
     "name": "Dark Souls III",
-    "id": "xone246",
+    "id": "xone241",
     "igdbId": 11133,
     "gbId": 49884,
     "gbGuid": "3030-49884",
@@ -5748,7 +5642,7 @@
   },
   {
     "name": "Dead by Daylight",
-    "id": "xone247",
+    "id": "xone242",
     "igdbId": 18866,
     "gbId": 52693,
     "gbGuid": "3030-52693",
@@ -5766,7 +5660,7 @@
   },
   {
     "name": "Diablo III: Eternal Collection",
-    "id": "xone248",
+    "id": "xone243",
     "igdbId": 90628,
     "gbId": 20803,
     "gbGuid": "3030-20803",
@@ -5784,7 +5678,7 @@
   },
   {
     "name": "Divinity: Original Sin II - Definitive Edition",
-    "id": "xone249",
+    "id": "xone244",
     "igdbId": 103337,
     "gbId": 50803,
     "gbGuid": "3030-50803",
@@ -5802,7 +5696,7 @@
   },
   {
     "name": "Far Cry 4: Complete Edition",
-    "id": "xone250",
+    "id": "xone245",
     "igdbId": 42955,
     "gbId": 46310,
     "gbGuid": "3030-46310",
@@ -5820,7 +5714,7 @@
   },
   {
     "name": "FIFA 15",
-    "id": "xone251",
+    "id": "xone246",
     "igdbId": 7574,
     "gbId": 46328,
     "gbGuid": "3030-46328",
@@ -5838,7 +5732,7 @@
   },
   {
     "name": "FIFA 18",
-    "id": "xone252",
+    "id": "xone247",
     "igdbId": 27081,
     "gbId": 58179,
     "gbGuid": "3030-58179",
@@ -5856,7 +5750,7 @@
   },
   {
     "name": "Mega Man 11",
-    "id": "xone253",
+    "id": "xone248",
     "igdbId": 76723,
     "gbId": 63036,
     "gbGuid": "3030-63036",
@@ -5874,7 +5768,7 @@
   },
   {
     "name": "Resident Evil 2",
-    "id": "xone254",
+    "id": "xone249",
     "igdbId": 19686,
     "gbId": 50601,
     "gbGuid": "3030-50601",
@@ -5892,7 +5786,7 @@
   },
   {
     "name": "Sonic Mania Plus (EU)",
-    "id": "xone255",
+    "id": "xone250",
     "igdbId": 94873,
     "gbId": null,
     "gbGuid": null,
@@ -5905,20 +5799,7 @@
         "image": "https://iamerror.gamehacking.org/Microsoft/Xbox360/sonicmaniapluseu360.jpeg",
         "details": "Mighty on the back printed incorrectly with red head",
         "type": "Printing"
-      }
-    ]
-  },
-  {
-    "name": "Sonic Mania Plus (US)",
-    "id": "xone256",
-    "igdbId": 94873,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
+      },
       {
         "image": "https://iamerror.gamehacking.org/Microsoft/Xbox360/sonicmaniaplusus360.jpeg",
         "details": "came with a single sided cover instead of the reversible one.",
@@ -5928,7 +5809,7 @@
   },
   {
     "name": "TrackMania Turbo",
-    "id": "xone257",
+    "id": "xone251",
     "igdbId": 11172,
     "gbId": 49971,
     "gbGuid": "3030-49971",
@@ -5946,7 +5827,7 @@
   },
   {
     "name": "Wasteland 3",
-    "id": "xone258",
+    "id": "xone252",
     "igdbId": 24863,
     "gbId": 57361,
     "gbGuid": "3030-57361",
@@ -5964,7 +5845,7 @@
   },
   {
     "name": "World of Warships: Legends",
-    "id": "xone259",
+    "id": "xone253",
     "igdbId": 107250,
     "gbId": 73012,
     "gbGuid": "3030-73012",

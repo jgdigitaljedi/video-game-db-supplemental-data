@@ -334,6 +334,11 @@
         "image": "https://iamerror.gamehacking.org/Nintendo/switch/flinthook.jpg",
         "details": "no text on back",
         "type": "Printing"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/switch/kuniokuntheworld.jpg",
+        "details": "says 'Titles not not included in Japan' beneath a picture",
+        "type": "Typo"
       }
     ]
   },
@@ -374,26 +379,8 @@
     ]
   },
   {
-    "name": "Kunio-Kun the World Classics Collection (Asia)",
-    "id": "nsw18",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Nintendo/switch/kuniokuntheworld.jpg",
-        "details": "says 'Titles not not included in Japan' beneath a picture",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
     "name": "LEGO City Undercover",
-    "id": "nsw19",
+    "id": "nsw18",
     "igdbId": 2177,
     "gbId": 35576,
     "gbGuid": "3030-35576",
@@ -406,20 +393,7 @@
         "image": "https://iamerror.gamehacking.org/Nintendo/switch/legocityucus.jpg",
         "details": "Says requires internet connection to play it does not",
         "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "LEGO City Undercover (Canada)",
-    "id": "nsw20",
-    "igdbId": 2177,
-    "gbId": 35576,
-    "gbGuid": "3030-35576",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
+      },
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/switch/legocityucca.jpg",
         "details": "Says requires internet connection to play it does not",
@@ -429,7 +403,7 @@
   },
   {
     "name": "LEGO DC Super-Villains (Steelbook)",
-    "id": "nsw21",
+    "id": "nsw19",
     "igdbId": 102321,
     "gbId": 68741,
     "gbGuid": "3030-68741",
@@ -447,7 +421,7 @@
   },
   {
     "name": "Mercenary Kings: Reloaded (Limited Run Games)",
-    "id": "nsw22",
+    "id": "nsw20",
     "igdbId": 84923,
     "gbId": 38664,
     "gbGuid": "3030-38664",
@@ -465,7 +439,7 @@
   },
   {
     "name": "Mercenaries Saga Chronicles",
-    "id": "nsw23",
+    "id": "nsw21",
     "igdbId": 79987,
     "gbId": null,
     "gbGuid": null,
@@ -483,7 +457,7 @@
   },
   {
     "name": "Metroid Dread: Special Edition",
-    "id": "nsw24",
+    "id": "nsw22",
     "igdbId": 153646,
     "gbId": 83057,
     "gbGuid": "3030-83057",
@@ -501,7 +475,7 @@
   },
   {
     "name": "Monster Hunter Stories 2: Wings of Ruin",
-    "id": "nsw25",
+    "id": "nsw23",
     "igdbId": 138951,
     "gbId": 80645,
     "gbGuid": "3030-80645",
@@ -519,7 +493,7 @@
   },
   {
     "name": "Mutant Mudds Collection",
-    "id": "nsw26",
+    "id": "nsw24",
     "igdbId": 72897,
     "gbId": 61957,
     "gbGuid": "3030-61957",
@@ -537,7 +511,7 @@
   },
   {
     "name": "NeuroVoider (PAL)",
-    "id": "nsw27",
+    "id": "nsw25",
     "igdbId": 23581,
     "gbId": 53244,
     "gbGuid": "3030-53244",
@@ -555,7 +529,7 @@
   },
   {
     "name": "Nickelodeon Kart Racers",
-    "id": "nsw28",
+    "id": "nsw26",
     "igdbId": 106109,
     "gbId": 69546,
     "gbGuid": "3030-69546",
@@ -573,7 +547,7 @@
   },
   {
     "name": "Oxenfree (Limited Run Games)",
-    "id": "nsw29",
+    "id": "nsw27",
     "igdbId": 14587,
     "gbId": 52278,
     "gbGuid": "3030-52278",
@@ -591,7 +565,7 @@
   },
   {
     "name": "Sonic Mania",
-    "id": "nsw30",
+    "id": "nsw28",
     "igdbId": 21062,
     "gbId": 54733,
     "gbGuid": "3030-54733",
@@ -609,7 +583,7 @@
   },
   {
     "name": "Super Mario Odyssey (PAL)(Austria)",
-    "id": "nsw31",
+    "id": "nsw29",
     "igdbId": 26758,
     "gbId": 56733,
     "gbGuid": "3030-56733",
@@ -622,38 +596,12 @@
         "image": "https://iamerror.gamehacking.org/Nintendo/switch/marioodysseypalaustria.jpg",
         "details": "no switch logo on spine",
         "type": "Printing"
-      }
-    ]
-  },
-  {
-    "name": "Super Mario Odyssey (PAL)",
-    "id": "nsw32",
-    "igdbId": 26758,
-    "gbId": 56733,
-    "gbGuid": "3030-56733",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
+      },
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/switch/smo.png",
         "details": "obstruction in printing process",
         "type": "Printing"
-      }
-    ]
-  },
-  {
-    "name": "Super Mario Odyssey (PAL)(AUS)",
-    "id": "nsw33",
-    "igdbId": 26758,
-    "gbId": 56733,
-    "gbGuid": "3030-56733",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
+      },
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/switch/smo.jpg",
         "details": "no switch logo on spine",
@@ -663,7 +611,7 @@
   },
   {
     "name": "Terraria (PAL)",
-    "id": "nsw34",
+    "id": "nsw30",
     "igdbId": 1879,
     "gbId": 34940,
     "gbGuid": "3030-34940",
@@ -681,7 +629,7 @@
   },
   {
     "name": "Thimbleweed Park",
-    "id": "nsw35",
+    "id": "nsw31",
     "igdbId": 10232,
     "gbId": 50511,
     "gbGuid": "3030-50511",
@@ -699,7 +647,7 @@
   },
   {
     "name": "Witch Spring 3: Re:Fine - The Story of Eirudy",
-    "id": "nsw36",
+    "id": "nsw32",
     "igdbId": 141763,
     "gbId": null,
     "gbGuid": null,

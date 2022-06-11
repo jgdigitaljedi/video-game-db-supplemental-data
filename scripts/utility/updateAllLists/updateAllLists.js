@@ -1,9 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 const _sortBy = require('lodash/sortBy');
-const _uniq = require('lodash/uniq');
 const _uniqBy = require('lodash/uniqBy');
-const _difference = require('lodash/difference');
 const _cloneDeep = require('lodash/cloneDeep');
 const chalk = require('chalk');
 
@@ -28,12 +26,14 @@ function getNewEntry(game) {
 function launchExclusives(data, which, pData, final) {
   return new Promise((resolve, reject) => {
     try {
-      const listLast = (data && data.length - 1) || 0;
-      if (listLast > 0) {
+      const listLast = (data && data.length - 1) || -1;
+      if (listLast > -1) {
         const whichProp = which === 'exclusives' ? 'isExclusive' : 'isLaunchTitle';
         let finalClone = _cloneDeep(final);
-        const finalsIds = finalClone.map(g => g.igdbId);
-        return data.forEach((game, index) => {
+
+        for (let i = 0; i < data.length; i++) {
+          const game = data[i];
+          const finalsIds = finalClone.map(g => g.igdbId);
           const existingId = finalsIds.indexOf(game.igdbId);
           if (existingId > -1) {
             if (!Array.isArray(finalClone[existingId][whichProp])) {
@@ -52,10 +52,10 @@ function launchExclusives(data, which, pData, final) {
             newEntry.details.push(game.details);
             finalClone.push(newEntry);
           }
-          if (index === listLast) {
+          if (i === listLast) {
             resolve(finalClone);
           }
-        });
+        }
       } else {
         resolve(final);
       }
@@ -75,8 +75,9 @@ function misprintLogic(data, pData, final) {
       const listLast = (data && data.length - 1) || 0;
       if (listLast > 0) {
         let finalClone = _cloneDeep(final);
-        const finalsIds = finalClone.map(g => g.igdbId);
-        return data.forEach((game, index) => {
+        for (let i = 0; i < data.length; i++) {
+          const finalsIds = finalClone.map(g => g.igdbId);
+          const game = data[i];
           const existingId = finalsIds.indexOf(game.igdbId);
           if (existingId > -1) {
             finalClone[existingId].misprintsErrors.push(getMisprintObj(game));
@@ -85,10 +86,10 @@ function misprintLogic(data, pData, final) {
             newEntry.misprintsErrors.push(getMisprintObj(game));
             finalClone.push(newEntry);
           }
-          if (index === listLast) {
+          if (i === listLast) {
             resolve(finalClone);
           }
-        });
+        }
       } else {
         resolve(final);
       }
@@ -103,17 +104,21 @@ async function handleSpecialList(list, pData, final) {
     try {
       let finalClone = _cloneDeep(final);
       if (!Array.isArray(finalClone)) {
-        console.log('not an array', JSON.parse(finalClone));
+        console.log('not an array', list[0].details);
+        finalClone = [];
       }
-      const finalsIds = finalClone.map(g => g.igdbId);
       const listLast = (list && list.length - 1) || 0;
-      return list.forEach((game, index) => {
+      for (let i = 0; i < list.length; i++) {
+        const finalsIds = finalClone.map(g => g.igdbId);
+        const game = list[i];
         const existingId = finalsIds.indexOf(game.igdbId);
         if (existingId > -1) {
           finalClone[existingId].special.push({
             value: game.details,
             forPlatform: pData
           });
+          const dedpuedSpecial = _uniqBy(finalClone[existingId].special, 'value');
+          finalClone[existingId].special = dedpuedSpecial;
         } else {
           const newEntry = getNewEntry(game);
           newEntry.special.push({
@@ -122,10 +127,10 @@ async function handleSpecialList(list, pData, final) {
           });
           finalClone.push(newEntry);
         }
-        if (listLast === index) {
+        if (listLast === i) {
           resolve(finalClone);
         }
-      });
+      }
     } catch (error) {
       resolve({ error, func: 'special' });
     }
@@ -133,28 +138,28 @@ async function handleSpecialList(list, pData, final) {
 }
 
 function handleSpecial(lists, final, pData) {
-  return new Promise((resolve, reject) => {
+  return new Promise(async (resolve, reject) => {
     try {
       const lastList = (lists && lists.length - 1) || 0;
       let finalClone = _cloneDeep(final);
       if (lastList > 0) {
-        const specials = lists.reduce(async (acc, list, index) => {
+        for (let i = 0; i < lists.length; i++) {
           try {
-            const specialAdded = await handleSpecialList(list, pData, acc);
+            const specialAdded = await handleSpecialList(lists[i], pData, finalClone);
             if (specialAdded.error) {
-              return acc;
+              console.log(chalk.red.bold('ERROR ADDING SPECIAL', specialAdded.error));
             }
-            return specialAdded;
+            finalClone = specialAdded;
           } catch (e) {
             console.log(chalk.red.bold('ERROR IN SPECIAL LIST', error));
-            return acc;
           }
-        }, finalClone);
-        resolve(specials);
+        }
+        resolve(finalClone);
       } else {
         resolve(final);
       }
     } catch (error) {
+      console.log(chalk.yellow('SPECIAL ERROR IN CATCH', error));
       resolve({ error });
     }
   });
