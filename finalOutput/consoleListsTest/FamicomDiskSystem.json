@@ -1,14 +1,38 @@
 [
   {
-    "name": "Baseball",
+    "name": "Arumana no Kiseki",
     "id": "fds0",
+    "igdbId": 41255,
+    "gbId": 35518,
+    "gbGuid": "3030-35518",
+    "tgdbId": 32098,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Baseball",
+    "id": "fds1",
     "igdbId": 7580,
     "gbId": 8145,
     "gbGuid": "3030-8145",
     "details": [
       "Famicom Disk System launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -23,15 +47,135 @@
     "misprintsErrors": []
   },
   {
+    "name": "Cleopatra no Mahou",
+    "id": "fds2",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 42815,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead Zone",
+    "id": "fds3",
+    "igdbId": 41278,
+    "gbId": 41772,
+    "gbGuid": "3030-41772",
+    "tgdbId": 34386,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Doremikko",
+    "id": "fds4",
+    "igdbId": 41315,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 42896,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Falsion",
+    "id": "fds5",
+    "igdbId": 64648,
+    "gbId": 39611,
+    "gbGuid": "3030-39611",
+    "tgdbId": 32445,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Gall Force: Eternal Story",
+    "id": "fds6",
+    "igdbId": 107627,
+    "gbId": 42172,
+    "gbGuid": "3030-42172",
+    "tgdbId": 32469,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Golf",
-    "id": "fds1",
+    "id": "fds7",
     "igdbId": 3399,
     "gbId": 22096,
     "gbGuid": "3030-22096",
     "details": [
       "Famicom Disk System launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -46,16 +190,16 @@
     "misprintsErrors": []
   },
   {
-    "name": "The Legend of Zelda",
-    "id": "fds2",
-    "igdbId": 1022,
-    "gbId": 11949,
-    "gbGuid": "3030-11949",
+    "name": "Knight Move",
+    "id": "fds8",
+    "igdbId": 41270,
+    "gbId": 40461,
+    "gbGuid": "3030-40461",
+    "tgdbId": 33182,
     "details": [
-      "Famicom Disk System launch title"
+      "Famicom Disk System exclusive"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
+    "isExclusive": [
       {
         "name": "Famicom Disk System",
         "id": "ccl48",
@@ -65,19 +209,20 @@
         "tgdbId": 4936
       }
     ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Mah Jong",
-    "id": "fds3",
+    "id": "fds9",
     "igdbId": 16610,
     "gbId": 37123,
     "gbGuid": "3030-37123",
     "details": [
       "Famicom Disk System launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -92,15 +237,87 @@
     "misprintsErrors": []
   },
   {
+    "name": "Meikyuu Jiin Dababa",
+    "id": "fds10",
+    "igdbId": 41290,
+    "gbId": 39304,
+    "gbGuid": "3030-39304",
+    "tgdbId": 32444,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nakayama Miho no Tokimeki High School",
+    "id": "fds11",
+    "igdbId": 41284,
+    "gbId": 37810,
+    "gbGuid": "3030-37810",
+    "tgdbId": 32767,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Otocky",
+    "id": "fds12",
+    "igdbId": 41234,
+    "gbId": 22383,
+    "gbGuid": "3030-22383",
+    "tgdbId": 26494,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Soccer",
-    "id": "fds4",
+    "id": "fds13",
     "igdbId": 86375,
     "gbId": 12955,
     "gbGuid": "3030-12955",
     "details": [
       "Famicom Disk System launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -115,15 +332,39 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Boy Allan",
+    "id": "fds14",
+    "igdbId": 41305,
+    "gbId": 42272,
+    "gbGuid": "3030-42272",
+    "tgdbId": 41371,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Super Mario Bros.",
-    "id": "fds5",
+    "id": "fds15",
     "igdbId": 358,
     "gbId": 15544,
     "gbGuid": "3030-15544",
     "details": [
       "Famicom Disk System launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -134,311 +375,12 @@
         "tgdbId": 4936
       }
     ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Tennis",
-    "id": "fds6",
-    "igdbId": 74548,
-    "gbId": 20780,
-    "gbGuid": "3030-20780",
-    "details": [
-      "Famicom Disk System launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Arumana no Kiseki",
-    "id": "fds7",
-    "igdbId": 41255,
-    "gbId": 35518,
-    "gbGuid": "3030-35518",
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Cleopatra no Mahou",
-    "id": "fds8",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Dead Zone",
-    "id": "fds9",
-    "igdbId": 41278,
-    "gbId": 41772,
-    "gbGuid": "3030-41772",
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Doremikko",
-    "id": "fds10",
-    "igdbId": 41315,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Falsion",
-    "id": "fds11",
-    "igdbId": 64648,
-    "gbId": 39611,
-    "gbGuid": "3030-39611",
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Gall Force: Eternal Story",
-    "id": "fds12",
-    "igdbId": 107627,
-    "gbId": 42172,
-    "gbGuid": "3030-42172",
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "The Sword of Kalin",
-    "id": "fds13",
-    "igdbId": 41286,
-    "gbId": 39606,
-    "gbGuid": "3030-39606",
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Knight Move",
-    "id": "fds14",
-    "igdbId": 41270,
-    "gbId": 40461,
-    "gbGuid": "3030-40461",
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Meikyuu Jiin Dababa",
-    "id": "fds15",
-    "igdbId": 41290,
-    "gbId": 39304,
-    "gbGuid": "3030-39304",
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Nakayama Miho no Tokimeki High School",
-    "id": "fds16",
-    "igdbId": 41284,
-    "gbId": 37810,
-    "gbGuid": "3030-37810",
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Otocky",
-    "id": "fds17",
-    "igdbId": 41234,
-    "gbId": 22383,
-    "gbGuid": "3030-22383",
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Super Boy Allan",
-    "id": "fds18",
-    "igdbId": 41305,
-    "gbId": 42272,
-    "gbGuid": "3030-42272",
-    "details": [
-      "Famicom Disk System exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "isLaunchTitle": [],
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Tama and Friends",
-    "id": "fds19",
+    "id": "fds16",
     "igdbId": 80502,
     "gbId": 40596,
     "gbGuid": "3030-40596",
@@ -455,16 +397,63 @@
         "tgdbId": 4936
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "Time Twist Rekishi no Katasumi de... - Kouhen",
-    "id": "fds20",
-    "igdbId": 41361,
-    "gbId": 37842,
-    "gbGuid": "3030-37842",
+    "name": "Tennis",
+    "id": "fds17",
+    "igdbId": 74548,
+    "gbId": 20780,
+    "gbGuid": "3030-20780",
+    "details": [
+      "Famicom Disk System launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Legend of Zelda",
+    "id": "fds18",
+    "igdbId": 1022,
+    "gbId": 11949,
+    "gbGuid": "3030-11949",
+    "details": [
+      "Famicom Disk System launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Sword of Kalin",
+    "id": "fds19",
+    "igdbId": 41286,
+    "gbId": 39606,
+    "gbGuid": "3030-39606",
+    "tgdbId": 32468,
     "details": [
       "Famicom Disk System exclusive"
     ],
@@ -478,7 +467,31 @@
         "tgdbId": 4936
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Time Twist Rekishi no Katasumi de... - Kouhen",
+    "id": "fds20",
+    "igdbId": 41361,
+    "gbId": 37842,
+    "gbGuid": "3030-37842",
+    "tgdbId": 42898,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   }

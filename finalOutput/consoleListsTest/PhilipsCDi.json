@@ -5,10 +5,11 @@
     "igdbId": 77147,
     "gbId": 37060,
     "gbGuid": "3030-37060",
+    "tgdbId": 1638,
     "details": [
       "Philips CD-i launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Philips CD-i",
@@ -28,10 +29,11 @@
     "igdbId": 87474,
     "gbId": 42700,
     "gbGuid": "3030-42700",
+    "tgdbId": 3170,
     "details": [
       "Philips CD-i launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Philips CD-i",
@@ -51,10 +53,11 @@
     "igdbId": 45941,
     "gbId": 23709,
     "gbGuid": "3030-23709",
+    "tgdbId": 22986,
     "details": [
       "Philips CD-i launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Philips CD-i",
@@ -74,10 +77,11 @@
     "igdbId": 45935,
     "gbId": 38715,
     "gbGuid": "3030-38715",
+    "tgdbId": 22995,
     "details": [
       "Philips CD-i launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Philips CD-i",
@@ -97,10 +101,11 @@
     "igdbId": 12034,
     "gbId": 16167,
     "gbGuid": "3030-16167",
+    "tgdbId": 469,
     "details": [
       "Philips CD-i launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Philips CD-i",
@@ -120,56 +125,11 @@
     "igdbId": 1873,
     "gbId": 5773,
     "gbGuid": "3030-5773",
+    "tgdbId": 1263,
     "details": [
       "Philips CD-i launch title"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Philips CD-i",
-        "id": "ccl36",
-        "igdbId": 117,
-        "gbId": 27,
-        "gbGuid": "3045-27",
-        "tgdbId": 4917
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Pac-Panic",
-    "id": "pcdi6",
-    "igdbId": 46572,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Philips CD-i launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Philips CD-i",
-        "id": "ccl36",
-        "igdbId": 117,
-        "gbId": 27,
-        "gbGuid": "3045-27",
-        "tgdbId": 4917
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Sargon Chess",
-    "id": "pcdi7",
-    "igdbId": 46568,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Philips CD-i launch title"
-    ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Philips CD-i",
@@ -185,10 +145,11 @@
   },
   {
     "name": "Hotel Mario",
-    "id": "pcdi8",
+    "id": "pcdi6",
     "igdbId": 8535,
     "gbId": 5841,
     "gbGuid": "3030-5841",
+    "tgdbId": 14904,
     "details": [
       "Philips CD-i exclusive game"
     ],
@@ -202,16 +163,17 @@
         "tgdbId": 4917
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "Zelda: The Wand of Gamelon",
-    "id": "pcdi9",
-    "igdbId": 8533,
-    "gbId": 17713,
-    "gbGuid": "3030-17713",
+    "name": "Link: The Faces of Evil",
+    "id": "pcdi7",
+    "igdbId": 8532,
+    "gbId": 5043,
+    "gbGuid": "3030-5043",
+    "tgdbId": 14754,
     "details": [
       "Philips CD-i exclusive game"
     ],
@@ -225,7 +187,55 @@
         "tgdbId": 4917
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pac-Panic",
+    "id": "pcdi8",
+    "igdbId": 46572,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 23062,
+    "details": [
+      "Philips CD-i launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Philips CD-i",
+        "id": "ccl36",
+        "igdbId": 117,
+        "gbId": 27,
+        "gbGuid": "3045-27",
+        "tgdbId": 4917
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sargon Chess",
+    "id": "pcdi9",
+    "igdbId": 46568,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 23070,
+    "details": [
+      "Philips CD-i launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Philips CD-i",
+        "id": "ccl36",
+        "igdbId": 117,
+        "gbId": 27,
+        "gbGuid": "3045-27",
+        "tgdbId": 4917
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
@@ -235,6 +245,7 @@
     "igdbId": 8534,
     "gbId": 14181,
     "gbGuid": "3030-14181",
+    "tgdbId": 14755,
     "details": [
       "Philips CD-i exclusive game"
     ],
@@ -248,16 +259,17 @@
         "tgdbId": 4917
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "Link: The Faces of Evil",
+    "name": "Zelda: The Wand of Gamelon",
     "id": "pcdi11",
-    "igdbId": 8532,
-    "gbId": 5043,
-    "gbGuid": "3030-5043",
+    "igdbId": 8533,
+    "gbId": 17713,
+    "gbGuid": "3030-17713",
+    "tgdbId": 14753,
     "details": [
       "Philips CD-i exclusive game"
     ],
@@ -271,7 +283,7 @@
         "tgdbId": 4917
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   }

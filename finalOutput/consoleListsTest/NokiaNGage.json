@@ -1,106 +1,15 @@
 [
   {
-    "name": "Tomb Raider",
-    "id": "ngag0",
-    "igdbId": 912,
-    "gbId": 3023,
-    "gbGuid": "3030-3023",
-    "details": [
-      "Nokia N-Gage launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Nokia N-Gage",
-        "id": "ccl39",
-        "igdbId": 42,
-        "gbId": 34,
-        "gbGuid": "3045-34",
-        "tgdbId": 4938
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Pandemonium!",
-    "id": "ngag1",
+    "id": "ngag0",
     "igdbId": 6268,
     "gbId": 3536,
     "gbGuid": "3030-3536",
+    "tgdbId": 589,
     "details": [
       "Nokia N-Gage launch title"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Nokia N-Gage",
-        "id": "ccl39",
-        "igdbId": 42,
-        "gbId": 34,
-        "gbGuid": "3045-34",
-        "tgdbId": 4938
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "SonicN",
-    "id": "ngag2",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Nokia N-Gage launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Nokia N-Gage",
-        "id": "ccl39",
-        "igdbId": 42,
-        "gbId": 34,
-        "gbGuid": "3045-34",
-        "tgdbId": 4938
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Super Monkey Ball",
-    "id": "ngag3",
-    "igdbId": 2927,
-    "gbId": 7247,
-    "gbGuid": "3030-7247",
-    "details": [
-      "Nokia N-Gage launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Nokia N-Gage",
-        "id": "ccl39",
-        "igdbId": 42,
-        "gbId": 34,
-        "gbGuid": "3045-34",
-        "tgdbId": 4938
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Puzzle Bobble VS",
-    "id": "ngag4",
-    "igdbId": 47567,
-    "gbId": 40488,
-    "gbGuid": "3030-40488",
-    "details": [
-      "Nokia N-Gage launch title"
-    ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nokia N-Gage",
@@ -116,14 +25,129 @@
   },
   {
     "name": "Puyo Pop",
-    "id": "ngag5",
+    "id": "ngag1",
     "igdbId": 86662,
     "gbId": 63,
     "gbGuid": "3030-63",
+    "tgdbId": 3539,
     "details": [
       "Nokia N-Gage launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Nokia N-Gage",
+        "id": "ccl39",
+        "igdbId": 42,
+        "gbId": 34,
+        "gbGuid": "3045-34",
+        "tgdbId": 4938
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Puzzle Bobble VS",
+    "id": "ngag2",
+    "igdbId": 47567,
+    "gbId": 40488,
+    "gbGuid": "3030-40488",
+    "tgdbId": 34586,
+    "details": [
+      "Nokia N-Gage launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Nokia N-Gage",
+        "id": "ccl39",
+        "igdbId": 42,
+        "gbId": 34,
+        "gbGuid": "3045-34",
+        "tgdbId": 4938
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rayman 3 (Demo)",
+    "id": "ngag3",
+    "igdbId": 193326,
+    "gbId": 26350,
+    "gbGuid": "3030-26350",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nokia/Ngage/nokiarayman3demo_zps1fb347e2.jpg",
+        "details": "says hodium on cart label",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "SonicN",
+    "id": "ngag4",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 32105,
+    "details": [
+      "Nokia N-Gage launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Nokia N-Gage",
+        "id": "ccl39",
+        "igdbId": 42,
+        "gbId": 34,
+        "gbGuid": "3045-34",
+        "tgdbId": 4938
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Monkey Ball",
+    "id": "ngag5",
+    "igdbId": 2927,
+    "gbId": 7247,
+    "gbGuid": "3030-7247",
+    "tgdbId": 6780,
+    "details": [
+      "Nokia N-Gage launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Nokia N-Gage",
+        "id": "ccl39",
+        "igdbId": 42,
+        "gbId": 34,
+        "gbGuid": "3045-34",
+        "tgdbId": 4938
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tomb Raider",
+    "id": "ngag6",
+    "igdbId": 912,
+    "gbId": 3023,
+    "gbGuid": "3030-3023",
+    "tgdbId": 2756,
+    "details": [
+      "Nokia N-Gage launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nokia N-Gage",
@@ -139,14 +163,15 @@
   },
   {
     "name": "Tony Hawk's Pro Skater",
-    "id": "ngag6",
+    "id": "ngag7",
     "igdbId": 6692,
     "gbId": 7236,
     "gbGuid": "3030-7236",
+    "tgdbId": 406,
     "details": [
       "Nokia N-Gage launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nokia N-Gage",
@@ -163,24 +188,6 @@
         "image": "https://iamerror.gamehacking.org/img_not_available.png",
         "details": "came with Sims: Bustin' Out in the case",
         "type": "Assembly"
-      }
-    ]
-  },
-  {
-    "name": "Rayman 3 (Demo)",
-    "id": "ngag7",
-    "igdbId": 193326,
-    "gbId": 26350,
-    "gbGuid": "3030-26350",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Nokia/Ngage/nokiarayman3demo_zps1fb347e2.jpg",
-        "details": "says hodium on cart label",
-        "type": "Typo"
       }
     ]
   }

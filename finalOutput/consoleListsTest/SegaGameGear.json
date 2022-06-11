@@ -1,171 +1,11 @@
 [
   {
-    "name": "Castle of Illusion Starring Mickey Mouse",
-    "id": "sgg0",
-    "igdbId": 8122,
-    "gbId": 9513,
-    "gbGuid": "3030-9513",
-    "details": [
-      "Sega Game Gear launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Columns",
-    "id": "sgg1",
-    "igdbId": 4446,
-    "gbId": 5487,
-    "gbGuid": "3030-5487",
-    "details": [
-      "Sega Game Gear launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "G-LOC Air Battle",
-    "id": "sgg2",
-    "igdbId": 4464,
-    "gbId": 13742,
-    "gbGuid": "3030-13742",
-    "details": [
-      "Sega Game Gear launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Psychic World",
-    "id": "sgg3",
-    "igdbId": 46338,
-    "gbId": 10932,
-    "gbGuid": "3030-10932",
-    "details": [
-      "Sega Game Gear launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Revenge of Drancon",
-    "id": "sgg4",
-    "igdbId": 46304,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sega Game Gear launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Super Monaco GP",
-    "id": "sgg5",
-    "igdbId": 4528,
-    "gbId": 532,
-    "gbGuid": "3030-532",
-    "details": [
-      "Sega Game Gear launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "The Adventures of Batman & Robin",
-    "id": "sgg6",
-    "igdbId": 5346,
-    "gbId": 12434,
-    "gbGuid": "3030-12434",
-    "details": [
-      "Sega Game Gear exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Arena: Maze of Death",
-    "id": "sgg7",
+    "id": "sgg0",
     "igdbId": 19694,
     "gbId": 25479,
     "gbGuid": "3030-25479",
+    "tgdbId": 11835,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -179,16 +19,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Ax Battler: A Legend of Golden Axe",
-    "id": "sgg8",
+    "id": "sgg1",
     "igdbId": 19485,
     "gbId": 182,
     "gbGuid": "3030-182",
+    "tgdbId": 11838,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -202,20 +43,22 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "MTV's Beavis and Butt-head",
-    "id": "sgg9",
-    "igdbId": 7777,
-    "gbId": 18248,
-    "gbGuid": "3030-18248",
+    "name": "Castle of Illusion Starring Mickey Mouse",
+    "id": "sgg2",
+    "igdbId": 8122,
+    "gbId": 9513,
+    "gbGuid": "3030-9513",
+    "tgdbId": 115,
     "details": [
-      "Sega Game Gear exclusive"
+      "Sega Game Gear launch title"
     ],
-    "isExclusive": [
+    "isExclusive": false,
+    "isLaunchTitle": [
       {
         "name": "Sega Game Gear",
         "id": "ccl19",
@@ -225,16 +68,16 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Chicago Syndicate",
-    "id": "sgg10",
+    "id": "sgg3",
     "igdbId": 46352,
     "gbId": 30927,
     "gbGuid": "3030-30927",
+    "tgdbId": 24278,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -248,20 +91,22 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "Sassou Shounen Eiyuuden: Coca Cola Kid",
-    "id": "sgg11",
-    "igdbId": 19537,
-    "gbId": 33194,
-    "gbGuid": "3030-33194",
+    "name": "Columns",
+    "id": "sgg4",
+    "igdbId": 4446,
+    "gbId": 5487,
+    "gbGuid": "3030-5487",
+    "tgdbId": 465,
     "details": [
-      "Sega Game Gear exclusive"
+      "Sega Game Gear launch title"
     ],
-    "isExclusive": [
+    "isExclusive": false,
+    "isLaunchTitle": [
       {
         "name": "Sega Game Gear",
         "id": "ccl19",
@@ -271,39 +116,16 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Fred Couples Golf",
-    "id": "sgg12",
-    "igdbId": 46349,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sega Game Gear exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "isLaunchTitle": [],
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Eternal Legend",
-    "id": "sgg13",
+    "id": "sgg5",
     "igdbId": 45794,
     "gbId": 52990,
     "gbGuid": "3030-52990",
+    "tgdbId": 15968,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -317,16 +139,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Factory Panic",
-    "id": "sgg14",
+    "id": "sgg6",
     "igdbId": 46348,
     "gbId": 24031,
     "gbGuid": "3030-24031",
+    "tgdbId": 25106,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -340,16 +163,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "Shinobi II - The Silent Fury",
-    "id": "sgg15",
-    "igdbId": 10220,
-    "gbId": 8666,
-    "gbGuid": "3030-8666",
+    "name": "Fred Couples Golf",
+    "id": "sgg7",
+    "igdbId": 46349,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 25090,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -363,16 +187,41 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "G-LOC Air Battle",
+    "id": "sgg8",
+    "igdbId": 4464,
+    "gbId": 13742,
+    "gbGuid": "3030-13742",
+    "tgdbId": 2798,
+    "details": [
+      "Sega Game Gear launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Godzilla: Kaijuu no Daishingeki",
-    "id": "sgg16",
+    "id": "sgg9",
     "igdbId": 46315,
     "gbId": 22767,
     "gbGuid": "3030-22767",
+    "tgdbId": 27374,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -386,16 +235,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Head Buster",
-    "id": "sgg17",
+    "id": "sgg10",
     "igdbId": 46314,
     "gbId": 8334,
     "gbGuid": "3030-8334",
+    "tgdbId": 27375,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -409,16 +259,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "House of Tarot",
-    "id": "sgg18",
+    "id": "sgg11",
     "igdbId": 46313,
     "gbId": null,
     "gbGuid": null,
+    "tgdbId": 27376,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -432,16 +283,35 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "The Majors Pro Baseball",
-    "id": "sgg19",
-    "igdbId": 45795,
-    "gbId": 31008,
-    "gbGuid": "3030-31008",
+    "name": "Lemmings",
+    "id": "sgg12",
+    "igdbId": 4239,
+    "gbId": 1446,
+    "gbGuid": "3030-1446",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/GG/lemmingsgg.jfif",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "MTV's Beavis and Butt-head",
+    "id": "sgg13",
+    "igdbId": 7777,
+    "gbId": 18248,
+    "gbGuid": "3030-18248",
+    "tgdbId": 60365,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -455,16 +325,41 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Magical Puzzle Popils",
+    "id": "sgg14",
+    "igdbId": 45262,
+    "gbId": 22656,
+    "gbGuid": "3030-22656",
+    "tgdbId": 27393,
+    "details": [
+      "Sega Game Gear exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Mega Man",
-    "id": "sgg20",
+    "id": "sgg15",
     "igdbId": 1738,
     "gbId": 30303,
     "gbGuid": "3030-30303",
+    "tgdbId": 360,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -478,16 +373,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Megami Tensei Gaiden: Last Bible Special",
-    "id": "sgg21",
+    "id": "sgg16",
     "igdbId": 45263,
     "gbId": 7133,
     "gbGuid": "3030-7133",
+    "tgdbId": 27392,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -501,16 +397,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Mighty Morphin Power Rangers",
-    "id": "sgg22",
+    "id": "sgg17",
     "igdbId": 75979,
     "gbId": 27004,
     "gbGuid": "3030-27004",
+    "tgdbId": 439,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -524,16 +421,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Mighty Morphin Power Rangers: The Movie",
-    "id": "sgg23",
+    "id": "sgg18",
     "igdbId": 75982,
     "gbId": 21927,
     "gbGuid": "3030-21927",
+    "tgdbId": 3131,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -547,16 +445,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Ninja Gaiden",
-    "id": "sgg24",
+    "id": "sgg19",
     "igdbId": 19507,
     "gbId": 25311,
     "gbGuid": "3030-25311",
+    "tgdbId": 1305,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -570,16 +469,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Pet Club: Inu Dai Suki!",
-    "id": "sgg25",
+    "id": "sgg20",
     "igdbId": 46296,
     "gbId": null,
     "gbGuid": null,
+    "tgdbId": 41669,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -593,13 +493,13 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Pet Club: Neko Daisuki!",
-    "id": "sgg26",
+    "id": "sgg21",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -616,16 +516,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Popeye Beach Volleyball",
-    "id": "sgg27",
+    "id": "sgg22",
     "igdbId": 45250,
     "gbId": null,
     "gbGuid": null,
+    "tgdbId": 27408,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -639,39 +540,17 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Magical Puzzle Popils",
-    "id": "sgg28",
-    "igdbId": 45262,
-    "gbId": 22656,
-    "gbGuid": "3030-22656",
-    "details": [
-      "Sega Game Gear exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Power Strike II",
-    "id": "sgg29",
+    "id": "sgg23",
     "igdbId": 46337,
     "gbId": 12717,
     "gbGuid": "3030-12717",
+    "tgdbId": 2974,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -685,16 +564,89 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Psychic World",
+    "id": "sgg24",
+    "igdbId": 46338,
+    "gbId": 10932,
+    "gbGuid": "3030-10932",
+    "tgdbId": 2979,
+    "details": [
+      "Sega Game Gear launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Revenge of Drancon",
+    "id": "sgg25",
+    "igdbId": 46304,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27906,
+    "details": [
+      "Sega Game Gear launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sassou Shounen Eiyuuden: Coca Cola Kid",
+    "id": "sgg26",
+    "igdbId": 19537,
+    "gbId": 33194,
+    "gbGuid": "3030-33194",
+    "tgdbId": 26759,
+    "details": [
+      "Sega Game Gear exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Sega Game Pack 4-in-1",
-    "id": "sgg30",
+    "id": "sgg27",
     "igdbId": 79600,
     "gbId": 9040,
     "gbGuid": "3030-9040",
+    "tgdbId": 25202,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -708,16 +660,41 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shinobi II - The Silent Fury",
+    "id": "sgg28",
+    "igdbId": 10220,
+    "gbId": 8666,
+    "gbGuid": "3030-8666",
+    "tgdbId": 17797,
+    "details": [
+      "Sega Game Gear exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Super Columns",
-    "id": "sgg31",
+    "id": "sgg29",
     "igdbId": 19690,
     "gbId": 35111,
     "gbGuid": "3030-35111",
+    "tgdbId": 25230,
     "details": [
       "Sega Game Gear exclusive"
     ],
@@ -731,20 +708,22 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "Sylvan Tale",
-    "id": "sgg32",
-    "igdbId": 19691,
-    "gbId": 14192,
-    "gbGuid": "3030-14192",
+    "name": "Super Monaco GP",
+    "id": "sgg30",
+    "igdbId": 4528,
+    "gbId": 532,
+    "gbGuid": "3030-532",
+    "tgdbId": 3040,
     "details": [
-      "Sega Game Gear exclusive"
+      "Sega Game Gear launch title"
     ],
-    "isExclusive": [
+    "isExclusive": false,
+    "isLaunchTitle": [
       {
         "name": "Sega Game Gear",
         "id": "ccl19",
@@ -754,83 +733,18 @@
         "tgdbId": 20
       }
     ],
-    "isLaunchTitle": [],
     "special": [],
     "misprintsErrors": []
-  },
-  {
-    "name": "Taz-Mania",
-    "id": "sgg33",
-    "igdbId": 8066,
-    "gbId": 4894,
-    "gbGuid": "3030-4894",
-    "details": [
-      "Sega Game Gear exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "X-Men: Gamesmaster's Legacy",
-    "id": "sgg34",
-    "igdbId": 19938,
-    "gbId": 29090,
-    "gbGuid": "3030-29090",
-    "details": [
-      "Sega Game Gear exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Game Gear",
-        "id": "ccl19",
-        "igdbId": 35,
-        "gbId": 5,
-        "gbGuid": "3045-5",
-        "tgdbId": 20
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Lemmings",
-    "id": "sgg35",
-    "igdbId": 4239,
-    "gbId": 1446,
-    "gbGuid": "3030-1446",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/GG/lemmingsgg.jfif",
-        "details": "printer justification error",
-        "type": "Printing"
-      }
-    ]
   },
   {
     "name": "Surf Ninjas (PAL)",
-    "id": "sgg36",
+    "id": "sgg31",
     "igdbId": 181670,
     "gbId": 23851,
     "gbGuid": "3030-23851",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -841,14 +755,134 @@
     ]
   },
   {
+    "name": "Sylvan Tale",
+    "id": "sgg32",
+    "igdbId": 19691,
+    "gbId": 14192,
+    "gbGuid": "3030-14192",
+    "tgdbId": 23379,
+    "details": [
+      "Sega Game Gear exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Taz-Mania",
+    "id": "sgg33",
+    "igdbId": 8066,
+    "gbId": 4894,
+    "gbGuid": "3030-4894",
+    "tgdbId": 2288,
+    "details": [
+      "Sega Game Gear exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Adventures of Batman & Robin",
+    "id": "sgg34",
+    "igdbId": 5346,
+    "gbId": 12434,
+    "gbGuid": "3030-12434",
+    "tgdbId": 1049,
+    "details": [
+      "Sega Game Gear exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Majors Pro Baseball",
+    "id": "sgg35",
+    "igdbId": 45795,
+    "gbId": 31008,
+    "gbGuid": "3030-31008",
+    "tgdbId": 14105,
+    "details": [
+      "Sega Game Gear exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "X-Men: Gamesmaster's Legacy",
+    "id": "sgg36",
+    "igdbId": 19938,
+    "gbId": 29090,
+    "gbGuid": "3030-29090",
+    "tgdbId": 5763,
+    "details": [
+      "Sega Game Gear exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Game Gear",
+        "id": "ccl19",
+        "igdbId": 35,
+        "gbId": 5,
+        "gbGuid": "3045-5",
+        "tgdbId": 20
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "X-Men: Mojo World",
     "id": "sgg37",
     "igdbId": 46326,
     "gbId": 16994,
     "gbGuid": "3030-16994",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {

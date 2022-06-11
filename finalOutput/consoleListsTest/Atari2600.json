@@ -1,14 +1,135 @@
 [
   {
-    "name": "Air-Sea Battle (Target Fun)",
+    "name": "3-D Tic-Tac-Toe",
     "id": "a2600",
+    "igdbId": 11854,
+    "gbId": 1025,
+    "gbGuid": "3030-1025",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/3d-tictac-1986-paddles.jpg",
+        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "A Game of Concentration (Memory Match)",
+    "id": "a2601",
+    "igdbId": 40723,
+    "gbId": 25476,
+    "gbGuid": "3030-25476",
+    "tgdbId": 44230,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/c_GameOfConcentration_Picture_front.jpg",
+        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Adventure",
+    "id": "a2602",
+    "igdbId": 8253,
+    "gbId": 8851,
+    "gbGuid": "3030-8851",
+    "tgdbId": 2570,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Air Raid",
+    "id": "a2603",
+    "igdbId": 11113,
+    "gbId": 9134,
+    "gbGuid": "3030-9134",
+    "tgdbId": 7893,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Air Raiders",
+    "id": "a2604",
+    "igdbId": 11114,
+    "gbId": 8722,
+    "gbGuid": "3030-8722",
+    "tgdbId": 17494,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Air-Sea Battle (Target Fun)",
+    "id": "a2605",
     "igdbId": 11859,
     "gbId": 5348,
     "gbGuid": "3030-5348",
+    "tgdbId": 5296,
     "details": [
       "Atari 2600 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari 2600",
@@ -29,15 +150,231 @@
     ]
   },
   {
+    "name": "Airlock",
+    "id": "a2606",
+    "igdbId": 11856,
+    "gbId": 16292,
+    "gbGuid": "3030-16292",
+    "tgdbId": 10860,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alien",
+    "id": "a2607",
+    "igdbId": 12240,
+    "gbId": 23718,
+    "gbGuid": "3030-23718",
+    "tgdbId": 19020,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alien's Return",
+    "id": "a2608",
+    "igdbId": 79315,
+    "gbId": 35915,
+    "gbGuid": "3030-35915",
+    "tgdbId": 43503,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alpha Beam With Ernie",
+    "id": "a2609",
+    "igdbId": 3252,
+    "gbId": 15182,
+    "gbGuid": "3030-15182",
+    "tgdbId": 31122,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Assault",
+    "id": "a26010",
+    "igdbId": 24456,
+    "gbId": 19259,
+    "gbGuid": "3030-19259",
+    "tgdbId": 7901,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "BASIC Programming",
+    "id": "a26011",
+    "igdbId": 54794,
+    "gbId": 23772,
+    "gbGuid": "3030-23772",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/basic2600.jpg",
+        "details": "starburst printing error",
+        "type": "Printing"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/basic2.jpg",
+        "details": "double label and printing error",
+        "type": "Multiple"
+      }
+    ]
+  },
+  {
+    "name": "Bachelor Party",
+    "id": "a26012",
+    "igdbId": 11128,
+    "gbId": 2378,
+    "gbGuid": "3030-2378",
+    "tgdbId": 45821,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bank Heist",
+    "id": "a26013",
+    "igdbId": 11129,
+    "gbId": 17390,
+    "gbGuid": "3030-17390",
+    "tgdbId": 17503,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Barnstorming",
+    "id": "a26014",
+    "igdbId": 18032,
+    "gbId": 6440,
+    "gbGuid": "3030-6440",
+    "tgdbId": 7944,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Basic Math (Math)",
-    "id": "a2601",
+    "id": "a26015",
     "igdbId": 17258,
     "gbId": 19476,
     "gbGuid": "3030-19476",
+    "tgdbId": 10861,
     "details": [
       "Atari 2600 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari 2600",
@@ -52,11 +389,36 @@
     "misprintsErrors": []
   },
   {
+    "name": "Beat 'Em & Eat 'Em",
+    "id": "a26016",
+    "igdbId": 11139,
+    "gbId": 18220,
+    "gbGuid": "3030-18220",
+    "tgdbId": 22143,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Blackjack",
-    "id": "a2602",
+    "id": "a26017",
     "igdbId": 41530,
     "gbId": 23773,
     "gbGuid": "3030-23773",
+    "tgdbId": 1344,
     "details": [
       "Atari 2600 launch title",
       "Atari 2600 exclusive"
@@ -85,11 +447,208 @@
     "misprintsErrors": []
   },
   {
+    "name": "Bobby is Going Home",
+    "id": "a26018",
+    "igdbId": 11140,
+    "gbId": 28100,
+    "gbGuid": "3030-28100",
+    "tgdbId": 9242,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Boxing",
+    "id": "a26019",
+    "igdbId": 55103,
+    "gbId": 23243,
+    "gbGuid": "3030-23243",
+    "tgdbId": 4059,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Breakout",
+    "id": "a26020",
+    "igdbId": 2754,
+    "gbId": 13049,
+    "gbGuid": "3030-13049",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/breakoutint.jpg",
+        "details": "says for joystick controller not paddle controller was sticker corrected then later printed without text",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Casino",
+    "id": "a26021",
+    "igdbId": 54797,
+    "gbId": 10070,
+    "gbGuid": "3030-10070",
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Centipede",
+    "id": "a26022",
+    "igdbId": 2235,
+    "gbId": 1157,
+    "gbGuid": "3030-1157",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/centipedeusdend_zpsf6066072.jpg",
+        "details": "upside down end label",
+        "type": "Label Position"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/centipede1.jpg",
+        "details": "double labeled with colecovision label underneath",
+        "type": "Labeling"
+      }
+    ]
+  },
+  {
+    "name": "Chase the Chuck Wagon",
+    "id": "a26023",
+    "igdbId": 40628,
+    "gbId": 14701,
+    "gbGuid": "3030-14701",
+    "tgdbId": 31850,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Chopper Command",
+    "id": "a26024",
+    "igdbId": 18408,
+    "gbId": 1247,
+    "gbGuid": "3030-1247",
+    "tgdbId": 7612,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Circus Atari",
+    "id": "a26025",
+    "igdbId": 5667,
+    "gbId": 1936,
+    "gbGuid": "3030-1936",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/circusatariusdel.jpg",
+        "details": "end label upside down",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Code Breaker",
+    "id": "a26026",
+    "igdbId": 43621,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/codebreaker.jpg",
+        "details": "says \"For use with paddle controllers\" part of 1986 releases was tape corrected\ntape removed as noted in pic",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
     "name": "Combat",
-    "id": "a2603",
+    "id": "a26027",
     "igdbId": 16759,
     "gbId": 5368,
     "gbGuid": "3030-5368",
+    "tgdbId": 4887,
     "details": [
       "Atari 2600 launch title",
       "Atari 2600 exclusive"
@@ -124,15 +683,928 @@
     ]
   },
   {
+    "name": "Communist Mutants From Space",
+    "id": "a26028",
+    "igdbId": 11154,
+    "gbId": 12304,
+    "gbGuid": "3030-12304",
+    "tgdbId": 23916,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Computer Chess",
+    "id": "a26029",
+    "igdbId": 47531,
+    "gbId": 14976,
+    "gbGuid": "3030-14976",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/computerchessblank_zps45adbfea.jpg",
+        "details": "upside down and blank label",
+        "type": "Multiple"
+      }
+    ]
+  },
+  {
+    "name": "Cosmic Ark",
+    "id": "a26030",
+    "igdbId": 8466,
+    "gbId": 536,
+    "gbGuid": "3030-536",
+    "tgdbId": 21347,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cosmic Creeps",
+    "id": "a26031",
+    "igdbId": 18547,
+    "gbId": 4260,
+    "gbGuid": "3030-4260",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/cosmiccreeps.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Crackpots",
+    "id": "a26032",
+    "igdbId": 23843,
+    "gbId": 5724,
+    "gbGuid": "3030-5724",
+    "tgdbId": 22150,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Custer's Revenge",
+    "id": "a26033",
+    "igdbId": 8529,
+    "gbId": 14802,
+    "gbGuid": "3030-14802",
+    "tgdbId": 20026,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dark Chambers",
+    "id": "a26034",
+    "igdbId": 11869,
+    "gbId": 15295,
+    "gbGuid": "3030-15295",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/darkchambers.jpg",
+        "details": "end label upside down",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Defender (PAL)",
+    "id": "a26035",
+    "igdbId": 3873,
+    "gbId": 5536,
+    "gbGuid": "3030-5536",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/defender-atrri.jpg",
+        "details": "Copyright info on label says (c) 1981 ATRRI, Inc.",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Demons To Diamonds",
+    "id": "a26036",
+    "igdbId": 17019,
+    "gbId": 14030,
+    "gbGuid": "3030-14030",
+    "tgdbId": 14689,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dishaster",
+    "id": "a26037",
+    "igdbId": 46901,
+    "gbId": 67567,
+    "gbGuid": "3030-67567",
+    "tgdbId": 44820,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dodge 'Em",
+    "id": "a26038",
+    "igdbId": 17020,
+    "gbId": 23399,
+    "gbGuid": "3030-23399",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/dodgeemuwpc.jpg",
+        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Dolphin",
+    "id": "a26039",
+    "igdbId": 22733,
+    "gbId": 17406,
+    "gbGuid": "3030-17406",
+    "tgdbId": 22152,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong Junior",
+    "id": "a26040",
+    "igdbId": 192911,
+    "gbId": 19416,
+    "gbGuid": "3030-19416",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/dkjr2600.jpg",
+        "details": "printer justification error",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Dragonstomper",
+    "id": "a26041",
+    "igdbId": 18568,
+    "gbId": 2754,
+    "gbGuid": "3030-2754",
+    "tgdbId": 23917,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragster",
+    "id": "a26042",
+    "igdbId": 46885,
+    "gbId": 7833,
+    "gbGuid": "3030-7833",
+    "tgdbId": 22154,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Duck Attack!",
+    "id": "a26043",
+    "igdbId": 93457,
+    "gbId": 36910,
+    "gbGuid": "3030-36910",
+    "tgdbId": 52214,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "E.T. the Extra-Terrestrial",
+    "id": "a26044",
+    "igdbId": 6706,
+    "gbId": 21595,
+    "gbGuid": "3030-21595",
+    "tgdbId": 3416,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Eggomania",
+    "id": "a26045",
+    "igdbId": 22765,
+    "gbId": 7635,
+    "gbGuid": "3030-7635",
+    "tgdbId": 14280,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Enduro",
+    "id": "a26046",
+    "igdbId": 18669,
+    "gbId": 6844,
+    "gbGuid": "3030-6844",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/enduro.jpg",
+        "details": "Upside down Label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Entombed",
+    "id": "a26047",
+    "igdbId": 22820,
+    "gbId": 13588,
+    "gbGuid": "3030-13588",
+    "tgdbId": 17764,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Escape from the Mindmaster",
+    "id": "a26048",
+    "igdbId": 18567,
+    "gbId": 961,
+    "gbGuid": "3030-961",
+    "tgdbId": 10326,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fast Food",
+    "id": "a26049",
+    "igdbId": 18287,
+    "gbId": 4898,
+    "gbGuid": "3030-4898",
+    "tgdbId": 22157,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fishing Derby",
+    "id": "a26050",
+    "igdbId": 18105,
+    "gbId": 11604,
+    "gbGuid": "3030-11604",
+    "tgdbId": 20286,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Flag Capture",
+    "id": "a26051",
+    "igdbId": 17024,
+    "gbId": 13981,
+    "gbGuid": "3030-13981",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/flagcapture-atari-pic.jpg",
+        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Frankenstein's Monster",
+    "id": "a26052",
+    "igdbId": 22763,
+    "gbId": 5105,
+    "gbGuid": "3030-5105",
+    "tgdbId": 5303,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Freeway",
+    "id": "a26053",
+    "igdbId": 18045,
+    "gbId": 917,
+    "gbGuid": "3030-917",
+    "tgdbId": 5304,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/freeway.jpg",
+        "details": "Upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Frog Pond",
+    "id": "a26054",
+    "igdbId": 172793,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/frogpond.jpg",
+        "details": "double Label",
+        "type": "Labeling"
+      }
+    ]
+  },
+  {
+    "name": "Frostbite",
+    "id": "a26055",
+    "igdbId": 18695,
+    "gbId": 20353,
+    "gbGuid": "3030-20353",
+    "tgdbId": 8356,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fun with Numbers",
+    "id": "a26056",
+    "igdbId": 91817,
+    "gbId": 34582,
+    "gbGuid": "3030-34582",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/funwithnumbers-pic.jpg",
+        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "G.I. Joe: Cobra Strike",
+    "id": "a26057",
+    "igdbId": 22697,
+    "gbId": 4359,
+    "gbGuid": "3030-4359",
+    "tgdbId": 19843,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Golf",
+    "id": "a26058",
+    "igdbId": 18008,
+    "gbId": 3109,
+    "gbGuid": "3030-3109",
+    "tgdbId": 350,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/golf_color_1986_cart_3.jpg",
+        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Gopher",
+    "id": "a26059",
+    "igdbId": 22764,
+    "gbId": 13689,
+    "gbGuid": "3030-13689",
+    "tgdbId": 28690,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Grand Prix",
+    "id": "a26060",
+    "igdbId": 18103,
+    "gbId": 6394,
+    "gbGuid": "3030-6394",
+    "tgdbId": 21544,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/grand-prix-blue2usd.jpg",
+        "details": "Upside down Label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Great Escape",
+    "id": "a26061",
+    "igdbId": 24454,
+    "gbId": 8848,
+    "gbGuid": "3030-8848",
+    "tgdbId": 38788,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Gremlins",
+    "id": "a26062",
+    "igdbId": 25673,
+    "gbId": 15465,
+    "gbGuid": "3030-15465",
+    "tgdbId": 5161,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Halloween",
+    "id": "a26063",
+    "igdbId": 40790,
+    "gbId": 2061,
+    "gbGuid": "3030-2061",
+    "tgdbId": 22160,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Halo 2600",
+    "id": "a26064",
+    "igdbId": 18286,
+    "gbId": 32258,
+    "gbGuid": "3030-32258",
+    "tgdbId": 24954,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Haunted House",
+    "id": "a26065",
+    "igdbId": 4909,
+    "gbId": 4502,
+    "gbGuid": "3030-4502",
+    "tgdbId": 1370,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Home Run",
+    "id": "a26066",
+    "igdbId": 18414,
+    "gbId": 7287,
+    "gbGuid": "3030-7287",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/homerun2600.jpg",
+        "details": "no controller instructions given was tape corrected",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "I Want My Mommy",
+    "id": "a26067",
+    "igdbId": 40789,
+    "gbId": 67565,
+    "gbGuid": "3030-67565",
+    "tgdbId": 22161,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Indy 500",
-    "id": "a2604",
+    "id": "a26068",
     "igdbId": 54790,
     "gbId": 19945,
     "gbGuid": "3030-19945",
+    "tgdbId": 16865,
     "details": [
       "Atari 2600 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari 2600",
@@ -147,11 +1619,1332 @@
     "misprintsErrors": []
   },
   {
+    "name": "Jawbreaker",
+    "id": "a26069",
+    "igdbId": 18757,
+    "gbId": 16977,
+    "gbGuid": "3030-16977",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/jawbreaker.jpg",
+        "details": "double Labeled",
+        "type": "Labeling"
+      }
+    ]
+  },
+  {
+    "name": "Journey Escape",
+    "id": "a26070",
+    "igdbId": 22415,
+    "gbId": 32597,
+    "gbGuid": "3030-32597",
+    "tgdbId": 7950,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Joust",
+    "id": "a26071",
+    "igdbId": 3659,
+    "gbId": 11689,
+    "gbGuid": "3030-11689",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/c_Joust_Silver_p_end.jpg",
+        "details": "P on end label and Atari spelled as Atar on main label",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Kangaroo",
+    "id": "a26072",
+    "igdbId": 12310,
+    "gbId": 11432,
+    "gbGuid": "3030-11432",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/kangaroo.jpg",
+        "details": "off center cut of label",
+        "type": "Cutting"
+      }
+    ]
+  },
+  {
+    "name": "Karate (Ultravision)",
+    "id": "a26073",
+    "igdbId": 14253,
+    "gbId": 16498,
+    "gbGuid": "3030-16498",
+    "tgdbId": 31491,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Keystone Kapers",
+    "id": "a26074",
+    "igdbId": 12311,
+    "gbId": 4423,
+    "gbGuid": "3030-4423",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/keystone.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "King Kong",
+    "id": "a26075",
+    "igdbId": 18763,
+    "gbId": 1962,
+    "gbGuid": "3030-1962",
+    "tgdbId": 17515,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Krull",
+    "id": "a26076",
+    "igdbId": 18692,
+    "gbId": 13552,
+    "gbGuid": "3030-13552",
+    "tgdbId": 12318,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Laser Blast",
+    "id": "a26077",
+    "igdbId": 18034,
+    "gbId": 18923,
+    "gbGuid": "3030-18923",
+    "tgdbId": 19892,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lost Luggage",
+    "id": "a26078",
+    "igdbId": 18501,
+    "gbId": 1169,
+    "gbGuid": "3030-1169",
+    "tgdbId": 17518,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mangia'",
+    "id": "a26079",
+    "igdbId": 24495,
+    "gbId": 18200,
+    "gbGuid": "3030-18200",
+    "tgdbId": 38202,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Maze Craze",
+    "id": "a26080",
+    "igdbId": 17261,
+    "gbId": 15656,
+    "gbGuid": "3030-15656",
+    "tgdbId": 5310,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Medieval Mayhem",
+    "id": "a26081",
+    "igdbId": 40716,
+    "gbId": 17775,
+    "gbGuid": "3030-17775",
+    "tgdbId": 40676,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Megamania",
+    "id": "a26082",
+    "igdbId": 12312,
+    "gbId": 9694,
+    "gbGuid": "3030-9694",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/megamania1.jpg",
+        "details": "Double Labeled",
+        "type": "Labeling"
+      }
+    ]
+  },
+  {
+    "name": "Miner 2049er",
+    "id": "a26083",
+    "igdbId": 18651,
+    "gbId": 14533,
+    "gbGuid": "3030-14533",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/2049er.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Miniature Golf",
+    "id": "a26084",
+    "igdbId": 18415,
+    "gbId": 15745,
+    "gbGuid": "3030-15745",
+    "tgdbId": 34488,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Name This Game",
+    "id": "a26085",
+    "igdbId": 22838,
+    "gbId": 18989,
+    "gbGuid": "3030-18989",
+    "tgdbId": 17524,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Off The Wall",
+    "id": "a26086",
+    "igdbId": 12894,
+    "gbId": 11710,
+    "gbGuid": "3030-11710",
+    "tgdbId": 30137,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Oink!",
+    "id": "a26087",
+    "igdbId": 18580,
+    "gbId": 1043,
+    "gbGuid": "3030-1043",
+    "tgdbId": 7953,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pac-Man",
+    "id": "a26088",
+    "igdbId": 2750,
+    "gbId": 7624,
+    "gbGuid": "3030-7624",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/pacmanatari.jpg",
+        "details": "label placed off to one side",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Parachute",
+    "id": "a26089",
+    "igdbId": 40678,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 38217,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Party Mix",
+    "id": "a26090",
+    "igdbId": 40660,
+    "gbId": 16863,
+    "gbGuid": "3030-16863",
+    "tgdbId": 34332,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pelé's Soccer",
+    "id": "a26091",
+    "igdbId": 18413,
+    "gbId": 27183,
+    "gbGuid": "3030-27183",
+    "tgdbId": 5316,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/pele-soccer-1986.jpg",
+        "details": "says \"Atari Game Program Instructions\" part of 1986 releases maybe tape corrected",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Pengo (PAL)",
+    "id": "a26092",
+    "igdbId": 12316,
+    "gbId": 4196,
+    "gbGuid": "3030-4196",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/pengocontrolerrpal.jpg",
+        "details": "says \"For use with paddle controllers\"",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Phaser Patrol",
+    "id": "a26093",
+    "igdbId": 18564,
+    "gbId": 18137,
+    "gbGuid": "3030-18137",
+    "tgdbId": 38219,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Plaque Attack",
+    "id": "a26094",
+    "igdbId": 18410,
+    "gbId": 20408,
+    "gbGuid": "3030-20408",
+    "tgdbId": 10130,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pole Position",
+    "id": "a26095",
+    "igdbId": 5691,
+    "gbId": 10087,
+    "gbGuid": "3030-10087",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/c_PolePosition_Silver_positn_end.jpg",
+        "details": "says Pole Positn' on end label",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Pressure Cooker",
+    "id": "a26096",
+    "igdbId": 25732,
+    "gbId": 14580,
+    "gbGuid": "3030-14580",
+    "tgdbId": 22174,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Private Eye",
+    "id": "a26097",
+    "igdbId": 25833,
+    "gbId": 23525,
+    "gbGuid": "3030-23525",
+    "tgdbId": 14281,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Quadrun",
+    "id": "a26098",
+    "igdbId": 40713,
+    "gbId": 15953,
+    "gbGuid": "3030-15953",
+    "tgdbId": 41365,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rabbit Transit",
+    "id": "a26099",
+    "igdbId": 24468,
+    "gbId": 7978,
+    "gbGuid": "3030-7978",
+    "tgdbId": 34336,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Raiders of the Lost Ark",
+    "id": "a260100",
+    "igdbId": 18036,
+    "gbId": 4739,
+    "gbGuid": "3030-4739",
+    "tgdbId": 5319,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/raiderstypo.jpg",
+        "details": "says Raiders Lost Ark on end label",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "RealSports Boxing (PAL)",
+    "id": "a260101",
+    "igdbId": 18417,
+    "gbId": 6353,
+    "gbGuid": "3030-6353",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/realsportsboxingpal.jpg",
+        "details": "Says Atari 2600 Video Game Cartridge on end label instead of title",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "RealSports Volleyball",
+    "id": "a260102",
+    "igdbId": 18420,
+    "gbId": 4723,
+    "gbGuid": "3030-4723",
+    "tgdbId": 17532,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Revenge Of The Apes",
+    "id": "a260103",
+    "igdbId": 40772,
+    "gbId": 9545,
+    "gbGuid": "3030-9545",
+    "tgdbId": 45836,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Revenge of the Beefsteak Tomatoes",
+    "id": "a260104",
+    "igdbId": 22760,
+    "gbId": 19108,
+    "gbGuid": "3030-19108",
+    "tgdbId": 22213,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Riddle of the Sphinx",
+    "id": "a260105",
+    "igdbId": 18480,
+    "gbId": 6942,
+    "gbGuid": "3030-6942",
+    "tgdbId": 22177,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Robot Tank",
+    "id": "a260106",
+    "igdbId": 18675,
+    "gbId": 2280,
+    "gbGuid": "3030-2280",
+    "tgdbId": 5323,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sea Hawk",
+    "id": "a260107",
+    "igdbId": 23911,
+    "gbId": 8663,
+    "gbGuid": "3030-8663",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/sea_hawk_zellers_cart_2.jpg",
+        "details": "called Sea Hank on Box was tape corrected \nSea Hank still visible through tape",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Secret Quest",
+    "id": "a260108",
+    "igdbId": 41108,
+    "gbId": 13574,
+    "gbGuid": "3030-13574",
+    "tgdbId": 5325,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Skeet Shoot",
+    "id": "a260109",
+    "igdbId": 40615,
+    "gbId": 4690,
+    "gbGuid": "3030-4690",
+    "tgdbId": 30128,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/skeetshoot.jpg",
+        "details": "upside down end label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Skiing",
+    "id": "a260110",
+    "igdbId": 55104,
+    "gbId": 13075,
+    "gbGuid": "3030-13075",
+    "tgdbId": 7954,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sky Jinks",
+    "id": "a260111",
+    "igdbId": 18529,
+    "gbId": 4461,
+    "gbGuid": "3030-4461",
+    "tgdbId": 15891,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Slot Machine",
+    "id": "a260112",
+    "igdbId": 18421,
+    "gbId": 9852,
+    "gbGuid": "3030-9852",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/slotusdml.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Slot Racers (Maze)",
+    "id": "a260113",
+    "igdbId": 18422,
+    "gbId": 8522,
+    "gbGuid": "3030-8522",
+    "tgdbId": 14694,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Snoopy and the Red Baron",
+    "id": "a260114",
+    "igdbId": 2757,
+    "gbId": 18679,
+    "gbGuid": "3030-18679",
+    "tgdbId": 22179,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Solaris",
+    "id": "a260115",
+    "igdbId": 40577,
+    "gbId": 6158,
+    "gbGuid": "3030-6158",
+    "tgdbId": 18880,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Space Cavern",
+    "id": "a260116",
+    "igdbId": 18502,
+    "gbId": 8212,
+    "gbGuid": "3030-8212",
+    "tgdbId": 22200,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Space Invaders",
+    "id": "a260117",
+    "igdbId": 3601,
+    "gbId": 5099,
+    "gbGuid": "3030-5099",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/spaceinvaders.jpg",
+        "details": "Upside down end label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Space Jockey",
+    "id": "a260118",
+    "igdbId": 18679,
+    "gbId": 2251,
+    "gbGuid": "3030-2251",
+    "tgdbId": 15890,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Space War (Space Combat)",
+    "id": "a260119",
+    "igdbId": 54792,
+    "gbId": 6674,
+    "gbGuid": "3030-6674",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/spacecombatdl_zpscw28urdx.jpg",
+        "details": "Double Labeled",
+        "type": "Assembly"
+      }
+    ]
+  },
+  {
+    "name": "Spacechase",
+    "id": "a260120",
+    "igdbId": 18503,
+    "gbId": 7902,
+    "gbGuid": "3030-7902",
+    "tgdbId": 34340,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Spider Fighter",
+    "id": "a260121",
+    "igdbId": 18530,
+    "gbId": 2362,
+    "gbGuid": "3030-2362",
+    "tgdbId": 1354,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Spider-Man",
+    "id": "a260122",
+    "igdbId": 3325,
+    "gbId": 3228,
+    "gbGuid": "3030-3228",
+    "tgdbId": 611,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Spiderdroid",
+    "id": "a260123",
+    "igdbId": 40621,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 28709,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sssnake",
+    "id": "a260124",
+    "igdbId": 18801,
+    "gbId": 8184,
+    "gbGuid": "3030-8184",
+    "tgdbId": 22184,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Star Fox",
+    "id": "a260125",
+    "igdbId": 23854,
+    "gbId": 34788,
+    "gbGuid": "3030-34788",
+    "tgdbId": 1730,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Star Raiders",
+    "id": "a260126",
+    "igdbId": 2217,
+    "gbId": 730,
+    "gbGuid": "3030-730",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/starraiders.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
     "name": "Star Ship (Outer Space)",
-    "id": "a2605",
+    "id": "a260127",
     "igdbId": 18424,
     "gbId": 13503,
     "gbGuid": "3030-13503",
+    "tgdbId": 1355,
     "details": [
       "Atari 2600 launch title",
       "Atari 2600 exclusive"
@@ -180,15 +2973,178 @@
     "misprintsErrors": []
   },
   {
+    "name": "Star Trek: Strategic Operations Simulator",
+    "id": "a260128",
+    "igdbId": 12319,
+    "gbId": 13785,
+    "gbGuid": "3030-13785",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/startreksos.jpg",
+        "details": "printer justification error on label ",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Star Voyager",
+    "id": "a260129",
+    "igdbId": 3284,
+    "gbId": 32855,
+    "gbGuid": "3030-32855",
+    "tgdbId": 2113,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Star Wars: Ewok Adventure",
+    "id": "a260130",
+    "igdbId": 10205,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 31493,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Star Wars: Jedi Arena",
+    "id": "a260131",
+    "igdbId": 10203,
+    "gbId": 5478,
+    "gbGuid": "3030-5478",
+    "tgdbId": 5329,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Stargunner",
+    "id": "a260132",
+    "igdbId": 23199,
+    "gbId": 6139,
+    "gbGuid": "3030-6139",
+    "tgdbId": 22665,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Starmaster",
+    "id": "a260133",
+    "igdbId": 18033,
+    "gbId": 3721,
+    "gbGuid": "3030-3721",
+    "tgdbId": 1357,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Stellar Track",
+    "id": "a260134",
+    "igdbId": 18427,
+    "gbId": 20288,
+    "gbGuid": "3030-20288",
+    "tgdbId": 38243,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Street Racer",
-    "id": "a2606",
+    "id": "a260135",
     "igdbId": 49118,
     "gbId": 1811,
     "gbGuid": "3030-1811",
+    "tgdbId": 6142,
     "details": [
       "Atari 2600 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari 2600",
@@ -203,15 +3159,82 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Challenge Football",
+    "id": "a260136",
+    "igdbId": 40595,
+    "gbId": 32603,
+    "gbGuid": "3030-32603",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/superfootball7800_zpsljo6epjc.jpg",
+        "details": "says Atari 7800 on end label",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Super Cobra",
+    "id": "a260137",
+    "igdbId": 5708,
+    "gbId": 10519,
+    "gbGuid": "3030-10519",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/supercobramanual2_zps75ifyidj.jpg",
+        "details": "corner was folded over when cut pages stuck together",
+        "type": "Cutting"
+      }
+    ]
+  },
+  {
+    "name": "Superman",
+    "id": "a260138",
+    "igdbId": 18711,
+    "gbId": 769,
+    "gbGuid": "3030-769",
+    "tgdbId": 2790,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/superman26001.jpg",
+        "details": "printing error on label and double labeled",
+        "type": "Multiple"
+      }
+    ]
+  },
+  {
     "name": "Surround (Chase)",
-    "id": "a2607",
+    "id": "a260139",
     "igdbId": 18002,
     "gbId": 16028,
     "gbGuid": "3030-16028",
+    "tgdbId": 21035,
     "details": [
       "Atari 2600 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari 2600",
@@ -222,19 +3245,248 @@
         "tgdbId": 22
       }
     ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sword of Saros",
+    "id": "a260140",
+    "igdbId": 40727,
+    "gbId": 19790,
+    "gbGuid": "3030-19790",
+    "tgdbId": 38249,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tax Avoiders",
+    "id": "a260141",
+    "igdbId": 40618,
+    "gbId": 1627,
+    "gbGuid": "3030-1627",
+    "tgdbId": 28714,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Taz",
+    "id": "a260142",
+    "igdbId": 100183,
+    "gbId": 10497,
+    "gbGuid": "3030-10497",
+    "tgdbId": 22189,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "id": "a260143",
+    "igdbId": 40675,
+    "gbId": 2292,
+    "gbGuid": "3030-2292",
+    "tgdbId": 34694,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tooth Protectors",
+    "id": "a260144",
+    "igdbId": 11236,
+    "gbId": 14978,
+    "gbGuid": "3030-14978",
+    "tgdbId": 38255,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Towering Inferno",
+    "id": "a260145",
+    "igdbId": 18771,
+    "gbId": 2974,
+    "gbGuid": "3030-2974",
+    "tgdbId": 19931,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Track & Field",
+    "id": "a260146",
+    "igdbId": 6439,
+    "gbId": 18232,
+    "gbGuid": "3030-18232",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/trackandfield_zps64ttogqt.jpg",
+        "details": "game ID listed as 26127 which is for Gremlins",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Tunnel Runner",
+    "id": "a260147",
+    "igdbId": 22757,
+    "gbId": 4149,
+    "gbGuid": "3030-4149",
+    "tgdbId": 22192,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Video Checkers",
+    "id": "a260148",
+    "igdbId": 18003,
+    "gbId": 13846,
+    "gbGuid": "3030-13846",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari2600/videocheckers-pic-1986.jpg",
+        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Video Life",
+    "id": "a260149",
+    "igdbId": 40647,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 33495,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Video Olympics (Pong Sports)",
-    "id": "a2608",
+    "id": "a260150",
     "igdbId": 54791,
     "gbId": 3294,
     "gbGuid": "3030-3294",
+    "tgdbId": 7957,
     "details": [
       "Atari 2600 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari 2600",
@@ -255,2474 +3507,12 @@
     ]
   },
   {
-    "name": "Adventure",
-    "id": "a2609",
-    "igdbId": 8253,
-    "gbId": 8851,
-    "gbGuid": "3030-8851",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Air Raid",
-    "id": "a26010",
-    "igdbId": 11113,
-    "gbId": 9134,
-    "gbGuid": "3030-9134",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Air Raiders",
-    "id": "a26011",
-    "igdbId": 11114,
-    "gbId": 8722,
-    "gbGuid": "3030-8722",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Airlock",
-    "id": "a26012",
-    "igdbId": 11856,
-    "gbId": 16292,
-    "gbGuid": "3030-16292",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Alien",
-    "id": "a26013",
-    "igdbId": 12240,
-    "gbId": 23718,
-    "gbGuid": "3030-23718",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Alien's Return",
-    "id": "a26014",
-    "igdbId": 79315,
-    "gbId": 35915,
-    "gbGuid": "3030-35915",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Alpha Beam With Ernie",
-    "id": "a26015",
-    "igdbId": 3252,
-    "gbId": 15182,
-    "gbGuid": "3030-15182",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Assault",
-    "id": "a26016",
-    "igdbId": 24456,
-    "gbId": 19259,
-    "gbGuid": "3030-19259",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Bachelor Party",
-    "id": "a26017",
-    "igdbId": 11128,
-    "gbId": 2378,
-    "gbGuid": "3030-2378",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Bank Heist",
-    "id": "a26018",
-    "igdbId": 11129,
-    "gbId": 17390,
-    "gbGuid": "3030-17390",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Barnstorming",
-    "id": "a26019",
-    "igdbId": 18032,
-    "gbId": 6440,
-    "gbGuid": "3030-6440",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Beat 'Em & Eat 'Em",
-    "id": "a26020",
-    "igdbId": 11139,
-    "gbId": 18220,
-    "gbGuid": "3030-18220",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Bobby is Going Home",
-    "id": "a26021",
-    "igdbId": 11140,
-    "gbId": 28100,
-    "gbGuid": "3030-28100",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Boxing",
-    "id": "a26022",
-    "igdbId": 55103,
-    "gbId": 23243,
-    "gbGuid": "3030-23243",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "A Game of Concentration (Memory Match)",
-    "id": "a26023",
-    "igdbId": 40723,
-    "gbId": 25476,
-    "gbGuid": "3030-25476",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/c_GameOfConcentration_Picture_front.jpg",
-        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Casino",
-    "id": "a26024",
-    "igdbId": 54797,
-    "gbId": 10070,
-    "gbGuid": "3030-10070",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Chase the Chuck Wagon",
-    "id": "a26025",
-    "igdbId": 40628,
-    "gbId": 14701,
-    "gbGuid": "3030-14701",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Chopper Command",
-    "id": "a26026",
-    "igdbId": 18408,
-    "gbId": 1247,
-    "gbGuid": "3030-1247",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Communist Mutants From Space",
-    "id": "a26027",
-    "igdbId": 11154,
-    "gbId": 12304,
-    "gbGuid": "3030-12304",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Cosmic Ark",
-    "id": "a26028",
-    "igdbId": 8466,
-    "gbId": 536,
-    "gbGuid": "3030-536",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Crackpots",
-    "id": "a26029",
-    "igdbId": 23843,
-    "gbId": 5724,
-    "gbGuid": "3030-5724",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Custer's Revenge",
-    "id": "a26030",
-    "igdbId": 8529,
-    "gbId": 14802,
-    "gbGuid": "3030-14802",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Demons To Diamonds",
-    "id": "a26031",
-    "igdbId": 17019,
-    "gbId": 14030,
-    "gbGuid": "3030-14030",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Dishaster",
-    "id": "a26032",
-    "igdbId": 46901,
-    "gbId": 67567,
-    "gbGuid": "3030-67567",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Dolphin",
-    "id": "a26033",
-    "igdbId": 22733,
-    "gbId": 17406,
-    "gbGuid": "3030-17406",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Dragonstomper",
-    "id": "a26034",
-    "igdbId": 18568,
-    "gbId": 2754,
-    "gbGuid": "3030-2754",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Dragster",
-    "id": "a26035",
-    "igdbId": 46885,
-    "gbId": 7833,
-    "gbGuid": "3030-7833",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Duck Attack!",
-    "id": "a26036",
-    "igdbId": 93457,
-    "gbId": 36910,
-    "gbGuid": "3030-36910",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "E.T. the Extra-Terrestrial",
-    "id": "a26037",
-    "igdbId": 6706,
-    "gbId": 21595,
-    "gbGuid": "3030-21595",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Eggomania",
-    "id": "a26038",
-    "igdbId": 22765,
-    "gbId": 7635,
-    "gbGuid": "3030-7635",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Entombed",
-    "id": "a26039",
-    "igdbId": 22820,
-    "gbId": 13588,
-    "gbGuid": "3030-13588",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Escape from the Mindmaster",
-    "id": "a26040",
-    "igdbId": 18567,
-    "gbId": 961,
-    "gbGuid": "3030-961",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Fast Food",
-    "id": "a26041",
-    "igdbId": 18287,
-    "gbId": 4898,
-    "gbGuid": "3030-4898",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Fishing Derby",
-    "id": "a26042",
-    "igdbId": 18105,
-    "gbId": 11604,
-    "gbGuid": "3030-11604",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Frankenstein's Monster",
-    "id": "a26043",
-    "igdbId": 22763,
-    "gbId": 5105,
-    "gbGuid": "3030-5105",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Freeway",
-    "id": "a26044",
-    "igdbId": 18045,
-    "gbId": 917,
-    "gbGuid": "3030-917",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/freeway.jpg",
-        "details": "Upside down label",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Frostbite",
-    "id": "a26045",
-    "igdbId": 18695,
-    "gbId": 20353,
-    "gbGuid": "3030-20353",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "G.I. Joe: Cobra Strike",
-    "id": "a26046",
-    "igdbId": 22697,
-    "gbId": 4359,
-    "gbGuid": "3030-4359",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Golf",
-    "id": "a26047",
-    "igdbId": 18008,
-    "gbId": 3109,
-    "gbGuid": "3030-3109",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/golf_color_1986_cart_3.jpg",
-        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Gopher",
-    "id": "a26048",
-    "igdbId": 22764,
-    "gbId": 13689,
-    "gbGuid": "3030-13689",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Grand Prix",
-    "id": "a26049",
-    "igdbId": 18103,
-    "gbId": 6394,
-    "gbGuid": "3030-6394",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/grand-prix-blue2usd.jpg",
-        "details": "Upside down Label",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Great Escape",
-    "id": "a26050",
-    "igdbId": 24454,
-    "gbId": 8848,
-    "gbGuid": "3030-8848",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Gremlins",
-    "id": "a26051",
-    "igdbId": 25673,
-    "gbId": 15465,
-    "gbGuid": "3030-15465",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Halloween",
-    "id": "a26052",
-    "igdbId": 40790,
-    "gbId": 2061,
-    "gbGuid": "3030-2061",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Halo 2600",
-    "id": "a26053",
-    "igdbId": 18286,
-    "gbId": 32258,
-    "gbGuid": "3030-32258",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Haunted House",
-    "id": "a26054",
-    "igdbId": 4909,
-    "gbId": 4502,
-    "gbGuid": "3030-4502",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "I Want My Mommy",
-    "id": "a26055",
-    "igdbId": 40789,
-    "gbId": 67565,
-    "gbGuid": "3030-67565",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Journey Escape",
-    "id": "a26056",
-    "igdbId": 22415,
-    "gbId": 32597,
-    "gbGuid": "3030-32597",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Karate (Ultravision)",
-    "id": "a26057",
-    "igdbId": 14253,
-    "gbId": 16498,
-    "gbGuid": "3030-16498",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "King Kong",
-    "id": "a26058",
-    "igdbId": 18763,
-    "gbId": 1962,
-    "gbGuid": "3030-1962",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Krull",
-    "id": "a26059",
-    "igdbId": 18692,
-    "gbId": 13552,
-    "gbGuid": "3030-13552",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Laser Blast",
-    "id": "a26060",
-    "igdbId": 18034,
-    "gbId": 18923,
-    "gbGuid": "3030-18923",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Lost Luggage",
-    "id": "a26061",
-    "igdbId": 18501,
-    "gbId": 1169,
-    "gbGuid": "3030-1169",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Mangia'",
-    "id": "a26062",
-    "igdbId": 24495,
-    "gbId": 18200,
-    "gbGuid": "3030-18200",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Maze Craze",
-    "id": "a26063",
-    "igdbId": 17261,
-    "gbId": 15656,
-    "gbGuid": "3030-15656",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Medieval Mayhem",
-    "id": "a26064",
-    "igdbId": 40716,
-    "gbId": 17775,
-    "gbGuid": "3030-17775",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Miniature Golf",
-    "id": "a26065",
-    "igdbId": 18415,
-    "gbId": 15745,
-    "gbGuid": "3030-15745",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Name This Game",
-    "id": "a26066",
-    "igdbId": 22838,
-    "gbId": 18989,
-    "gbGuid": "3030-18989",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Off The Wall",
-    "id": "a26067",
-    "igdbId": 12894,
-    "gbId": 11710,
-    "gbGuid": "3030-11710",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Oink!",
-    "id": "a26068",
-    "igdbId": 18580,
-    "gbId": 1043,
-    "gbGuid": "3030-1043",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Parachute",
-    "id": "a26069",
-    "igdbId": 40678,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Party Mix",
-    "id": "a26070",
-    "igdbId": 40660,
-    "gbId": 16863,
-    "gbGuid": "3030-16863",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Pelé's Soccer",
-    "id": "a26071",
-    "igdbId": 18413,
-    "gbId": 27183,
-    "gbGuid": "3030-27183",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/pele-soccer-1986.jpg",
-        "details": "says \"Atari Game Program Instructions\" part of 1986 releases maybe tape corrected",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Phaser Patrol",
-    "id": "a26072",
-    "igdbId": 18564,
-    "gbId": 18137,
-    "gbGuid": "3030-18137",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Plaque Attack",
-    "id": "a26073",
-    "igdbId": 18410,
-    "gbId": 20408,
-    "gbGuid": "3030-20408",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Pressure Cooker",
-    "id": "a26074",
-    "igdbId": 25732,
-    "gbId": 14580,
-    "gbGuid": "3030-14580",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Private Eye",
-    "id": "a26075",
-    "igdbId": 25833,
-    "gbId": 23525,
-    "gbGuid": "3030-23525",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Quadrun",
-    "id": "a26076",
-    "igdbId": 40713,
-    "gbId": 15953,
-    "gbGuid": "3030-15953",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Rabbit Transit",
-    "id": "a26077",
-    "igdbId": 24468,
-    "gbId": 7978,
-    "gbGuid": "3030-7978",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Raiders of the Lost Ark",
-    "id": "a26078",
-    "igdbId": 18036,
-    "gbId": 4739,
-    "gbGuid": "3030-4739",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/raiderstypo.jpg",
-        "details": "says Raiders Lost Ark on end label",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "RealSports Volleyball",
-    "id": "a26079",
-    "igdbId": 18420,
-    "gbId": 4723,
-    "gbGuid": "3030-4723",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Revenge Of The Apes",
-    "id": "a26080",
-    "igdbId": 40772,
-    "gbId": 9545,
-    "gbGuid": "3030-9545",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Revenge of the Beefsteak Tomatoes",
-    "id": "a26081",
-    "igdbId": 22760,
-    "gbId": 19108,
-    "gbGuid": "3030-19108",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Riddle of the Sphinx",
-    "id": "a26082",
-    "igdbId": 18480,
-    "gbId": 6942,
-    "gbGuid": "3030-6942",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Robot Tank",
-    "id": "a26083",
-    "igdbId": 18675,
-    "gbId": 2280,
-    "gbGuid": "3030-2280",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Secret Quest",
-    "id": "a26084",
-    "igdbId": 41108,
-    "gbId": 13574,
-    "gbGuid": "3030-13574",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Skeet Shoot",
-    "id": "a26085",
-    "igdbId": 40615,
-    "gbId": 4690,
-    "gbGuid": "3030-4690",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/skeetshoot.jpg",
-        "details": "upside down end label",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Skiing",
-    "id": "a26086",
-    "igdbId": 55104,
-    "gbId": 13075,
-    "gbGuid": "3030-13075",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Sky Jinks",
-    "id": "a26087",
-    "igdbId": 18529,
-    "gbId": 4461,
-    "gbGuid": "3030-4461",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Slot Racers (Maze)",
-    "id": "a26088",
-    "igdbId": 18422,
-    "gbId": 8522,
-    "gbGuid": "3030-8522",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Snoopy and the Red Baron",
-    "id": "a26089",
-    "igdbId": 2757,
-    "gbId": 18679,
-    "gbGuid": "3030-18679",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Solaris",
-    "id": "a26090",
-    "igdbId": 40577,
-    "gbId": 6158,
-    "gbGuid": "3030-6158",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Space Cavern",
-    "id": "a26091",
-    "igdbId": 18502,
-    "gbId": 8212,
-    "gbGuid": "3030-8212",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Space Jockey",
-    "id": "a26092",
-    "igdbId": 18679,
-    "gbId": 2251,
-    "gbGuid": "3030-2251",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Spacechase",
-    "id": "a26093",
-    "igdbId": 18503,
-    "gbId": 7902,
-    "gbGuid": "3030-7902",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Spider Fighter",
-    "id": "a26094",
-    "igdbId": 18530,
-    "gbId": 2362,
-    "gbGuid": "3030-2362",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Spider-Man",
-    "id": "a26095",
-    "igdbId": 3325,
-    "gbId": 3228,
-    "gbGuid": "3030-3228",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Spiderdroid",
-    "id": "a26096",
-    "igdbId": 40621,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Sssnake",
-    "id": "a26097",
-    "igdbId": 18801,
-    "gbId": 8184,
-    "gbGuid": "3030-8184",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Star Fox",
-    "id": "a26098",
-    "igdbId": 23854,
-    "gbId": 34788,
-    "gbGuid": "3030-34788",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Star Voyager",
-    "id": "a26099",
-    "igdbId": 3284,
-    "gbId": 32855,
-    "gbGuid": "3030-32855",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Star Wars: Jedi Arena",
-    "id": "a260100",
-    "igdbId": 10203,
-    "gbId": 5478,
-    "gbGuid": "3030-5478",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Star Wars: Ewok Adventure",
-    "id": "a260101",
-    "igdbId": 10205,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Stargunner",
-    "id": "a260102",
-    "igdbId": 23199,
-    "gbId": 6139,
-    "gbGuid": "3030-6139",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Starmaster",
-    "id": "a260103",
-    "igdbId": 18033,
-    "gbId": 3721,
-    "gbGuid": "3030-3721",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Stellar Track",
-    "id": "a260104",
-    "igdbId": 18427,
-    "gbId": 20288,
-    "gbGuid": "3030-20288",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Superman",
-    "id": "a260105",
-    "igdbId": 18711,
-    "gbId": 769,
-    "gbGuid": "3030-769",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/superman26001.jpg",
-        "details": "printing error on label and double labeled",
-        "type": "Multiple"
-      }
-    ]
-  },
-  {
-    "name": "Sword of Saros",
-    "id": "a260106",
-    "igdbId": 40727,
-    "gbId": 19790,
-    "gbGuid": "3030-19790",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Tax Avoiders",
-    "id": "a260107",
-    "igdbId": 40618,
-    "gbId": 1627,
-    "gbGuid": "3030-1627",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Taz",
-    "id": "a260108",
-    "igdbId": 100183,
-    "gbId": 10497,
-    "gbGuid": "3030-10497",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Texas Chainsaw Massacre",
-    "id": "a260109",
-    "igdbId": 40675,
-    "gbId": 2292,
-    "gbGuid": "3030-2292",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Tooth Protectors",
-    "id": "a260110",
-    "igdbId": 11236,
-    "gbId": 14978,
-    "gbGuid": "3030-14978",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Towering Inferno",
-    "id": "a260111",
-    "igdbId": 18771,
-    "gbId": 2974,
-    "gbGuid": "3030-2974",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Tunnel Runner",
-    "id": "a260112",
-    "igdbId": 22757,
-    "gbId": 4149,
-    "gbGuid": "3030-4149",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Video Life",
-    "id": "a260113",
-    "igdbId": 40647,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Video Pinball",
-    "id": "a260114",
+    "id": "a260151",
     "igdbId": 46877,
     "gbId": 11532,
     "gbGuid": "3030-11532",
+    "tgdbId": 45730,
     "details": [
       "Atari 2600 exclusive"
     ],
@@ -2736,7 +3526,7 @@
         "tgdbId": 22
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -2753,10 +3543,11 @@
   },
   {
     "name": "Wall defender",
-    "id": "a260115",
+    "id": "a260152",
     "igdbId": 46880,
     "gbId": 11169,
     "gbGuid": "3030-11169",
+    "tgdbId": 33837,
     "details": [
       "Atari 2600 exclusive"
     ],
@@ -2770,16 +3561,17 @@
         "tgdbId": 22
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Word Zapper",
-    "id": "a260116",
+    "id": "a260153",
     "igdbId": 46884,
     "gbId": 4873,
     "gbGuid": "3030-4873",
+    "tgdbId": 19932,
     "details": [
       "Atari 2600 exclusive"
     ],
@@ -2793,16 +3585,17 @@
         "tgdbId": 22
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Worm War I",
-    "id": "a260117",
+    "id": "a260154",
     "igdbId": 22556,
     "gbId": 17057,
     "gbGuid": "3030-17057",
+    "tgdbId": 5228,
     "details": [
       "Atari 2600 exclusive"
     ],
@@ -2816,16 +3609,17 @@
         "tgdbId": 22
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "X-Man",
-    "id": "a260118",
+    "id": "a260155",
     "igdbId": 79301,
     "gbId": 6420,
     "gbGuid": "3030-6420",
+    "tgdbId": 35423,
     "details": [
       "Atari 2600 exclusive"
     ],
@@ -2839,718 +3633,19 @@
         "tgdbId": 22
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
-  },
-  {
-    "name": "Z-Tack",
-    "id": "a260119",
-    "igdbId": 24455,
-    "gbId": 11646,
-    "gbGuid": "3030-11646",
-    "details": [
-      "Atari 2600 exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari 2600",
-        "id": "ccl28",
-        "igdbId": 59,
-        "gbId": 40,
-        "gbGuid": "3045-40",
-        "tgdbId": 22
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "3-D Tic-Tac-Toe",
-    "id": "a260120",
-    "igdbId": 11854,
-    "gbId": 1025,
-    "gbGuid": "3030-1025",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/3d-tictac-1986-paddles.jpg",
-        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "BASIC Programming",
-    "id": "a260121",
-    "igdbId": 54794,
-    "gbId": 23772,
-    "gbGuid": "3030-23772",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/basic2600.jpg",
-        "details": "starburst printing error",
-        "type": "Printing"
-      },
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/basic2.jpg",
-        "details": "double label and printing error",
-        "type": "Multiple"
-      }
-    ]
-  },
-  {
-    "name": "Breakout",
-    "id": "a260122",
-    "igdbId": 2754,
-    "gbId": 13049,
-    "gbGuid": "3030-13049",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/breakoutint.jpg",
-        "details": "says for joystick controller not paddle controller was sticker corrected then later printed without text",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Centipede",
-    "id": "a260123",
-    "igdbId": 2235,
-    "gbId": 1157,
-    "gbGuid": "3030-1157",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/centipedeusdend_zpsf6066072.jpg",
-        "details": "upside down end label",
-        "type": "Label Position"
-      },
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/centipede1.jpg",
-        "details": "double labeled with colecovision label underneath",
-        "type": "Labeling"
-      }
-    ]
-  },
-  {
-    "name": "Circus Atari",
-    "id": "a260124",
-    "igdbId": 5667,
-    "gbId": 1936,
-    "gbGuid": "3030-1936",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/circusatariusdel.jpg",
-        "details": "end label upside down",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Code Breaker",
-    "id": "a260125",
-    "igdbId": 43621,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/codebreaker.jpg",
-        "details": "says \"For use with paddle controllers\" part of 1986 releases was tape corrected\ntape removed as noted in pic",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Computer Chess",
-    "id": "a260126",
-    "igdbId": 47531,
-    "gbId": 14976,
-    "gbGuid": "3030-14976",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/computerchessblank_zps45adbfea.jpg",
-        "details": "upside down and blank label",
-        "type": "Multiple"
-      }
-    ]
-  },
-  {
-    "name": "Cosmic Creeps",
-    "id": "a260127",
-    "igdbId": 18547,
-    "gbId": 4260,
-    "gbGuid": "3030-4260",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/cosmiccreeps.jpg",
-        "details": "upside down label",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Dark Chambers",
-    "id": "a260128",
-    "igdbId": 11869,
-    "gbId": 15295,
-    "gbGuid": "3030-15295",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/darkchambers.jpg",
-        "details": "end label upside down",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Defender (PAL)",
-    "id": "a260129",
-    "igdbId": 3873,
-    "gbId": 5536,
-    "gbGuid": "3030-5536",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/defender-atrri.jpg",
-        "details": "Copyright info on label says (c) 1981 ATRRI, Inc.",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Dodge 'Em",
-    "id": "a260130",
-    "igdbId": 17020,
-    "gbId": 23399,
-    "gbGuid": "3030-23399",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/dodgeemuwpc.jpg",
-        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Donkey Kong Junior",
-    "id": "a260131",
-    "igdbId": 192911,
-    "gbId": 19416,
-    "gbGuid": "3030-19416",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/dkjr2600.jpg",
-        "details": "printer justification error",
-        "type": "Printing"
-      }
-    ]
-  },
-  {
-    "name": "Enduro",
-    "id": "a260132",
-    "igdbId": 18669,
-    "gbId": 6844,
-    "gbGuid": "3030-6844",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/enduro.jpg",
-        "details": "Upside down Label",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Flag Capture",
-    "id": "a260133",
-    "igdbId": 17024,
-    "gbId": 13981,
-    "gbGuid": "3030-13981",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/flagcapture-atari-pic.jpg",
-        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Frog Pond",
-    "id": "a260134",
-    "igdbId": 172793,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/frogpond.jpg",
-        "details": "double Label",
-        "type": "Labeling"
-      }
-    ]
-  },
-  {
-    "name": "Fun with Numbers",
-    "id": "a260135",
-    "igdbId": 91817,
-    "gbId": 34582,
-    "gbGuid": "3030-34582",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/funwithnumbers-pic.jpg",
-        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Home Run",
-    "id": "a260136",
-    "igdbId": 18414,
-    "gbId": 7287,
-    "gbGuid": "3030-7287",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/homerun2600.jpg",
-        "details": "no controller instructions given was tape corrected",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Jawbreaker",
-    "id": "a260137",
-    "igdbId": 18757,
-    "gbId": 16977,
-    "gbGuid": "3030-16977",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/jawbreaker.jpg",
-        "details": "double Labeled",
-        "type": "Labeling"
-      }
-    ]
-  },
-  {
-    "name": "Joust",
-    "id": "a260138",
-    "igdbId": 3659,
-    "gbId": 11689,
-    "gbGuid": "3030-11689",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/c_Joust_Silver_p_end.jpg",
-        "details": "P on end label and Atari spelled as Atar on main label",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Kangaroo",
-    "id": "a260139",
-    "igdbId": 12310,
-    "gbId": 11432,
-    "gbGuid": "3030-11432",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/kangaroo.jpg",
-        "details": "off center cut of label",
-        "type": "Cutting"
-      }
-    ]
-  },
-  {
-    "name": "Keystone Kapers",
-    "id": "a260140",
-    "igdbId": 12311,
-    "gbId": 4423,
-    "gbGuid": "3030-4423",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/keystone.jpg",
-        "details": "upside down label",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Megamania",
-    "id": "a260141",
-    "igdbId": 12312,
-    "gbId": 9694,
-    "gbGuid": "3030-9694",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/megamania1.jpg",
-        "details": "Double Labeled",
-        "type": "Labeling"
-      }
-    ]
-  },
-  {
-    "name": "Miner 2049er",
-    "id": "a260142",
-    "igdbId": 18651,
-    "gbId": 14533,
-    "gbGuid": "3030-14533",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/2049er.jpg",
-        "details": "upside down label",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Pac-Man",
-    "id": "a260143",
-    "igdbId": 2750,
-    "gbId": 7624,
-    "gbGuid": "3030-7624",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/pacmanatari.jpg",
-        "details": "label placed off to one side",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Pengo (PAL)",
-    "id": "a260144",
-    "igdbId": 12316,
-    "gbId": 4196,
-    "gbGuid": "3030-4196",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/pengocontrolerrpal.jpg",
-        "details": "says \"For use with paddle controllers\"",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Pole Position",
-    "id": "a260145",
-    "igdbId": 5691,
-    "gbId": 10087,
-    "gbGuid": "3030-10087",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/c_PolePosition_Silver_positn_end.jpg",
-        "details": "says Pole Positn' on end label",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "RealSports Boxing (PAL)",
-    "id": "a260146",
-    "igdbId": 18417,
-    "gbId": 6353,
-    "gbGuid": "3030-6353",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/realsportsboxingpal.jpg",
-        "details": "Says Atari 2600 Video Game Cartridge on end label instead of title",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Sea Hawk",
-    "id": "a260147",
-    "igdbId": 23911,
-    "gbId": 8663,
-    "gbGuid": "3030-8663",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/sea_hawk_zellers_cart_2.jpg",
-        "details": "called Sea Hank on Box was tape corrected \nSea Hank still visible through tape",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Slot Machine",
-    "id": "a260148",
-    "igdbId": 18421,
-    "gbId": 9852,
-    "gbGuid": "3030-9852",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/slotusdml.jpg",
-        "details": "upside down label",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Space War (Space Combat)",
-    "id": "a260149",
-    "igdbId": 54792,
-    "gbId": 6674,
-    "gbGuid": "3030-6674",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/spacecombatdl_zpscw28urdx.jpg",
-        "details": "Double Labeled",
-        "type": "Assembly"
-      }
-    ]
-  },
-  {
-    "name": "Space Invaders",
-    "id": "a260150",
-    "igdbId": 3601,
-    "gbId": 5099,
-    "gbGuid": "3030-5099",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/spaceinvaders.jpg",
-        "details": "Upside down end label",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Star Raiders",
-    "id": "a260151",
-    "igdbId": 2217,
-    "gbId": 730,
-    "gbGuid": "3030-730",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/starraiders.jpg",
-        "details": "upside down label",
-        "type": "Label Position"
-      }
-    ]
-  },
-  {
-    "name": "Star Trek: Strategic Operations Simulator",
-    "id": "a260152",
-    "igdbId": 12319,
-    "gbId": 13785,
-    "gbGuid": "3030-13785",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/startreksos.jpg",
-        "details": "printer justification error on label ",
-        "type": "Printing"
-      }
-    ]
-  },
-  {
-    "name": "Super Cobra",
-    "id": "a260153",
-    "igdbId": 5708,
-    "gbId": 10519,
-    "gbGuid": "3030-10519",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/supercobramanual2_zps75ifyidj.jpg",
-        "details": "corner was folded over when cut pages stuck together",
-        "type": "Cutting"
-      }
-    ]
-  },
-  {
-    "name": "Super Challenge Football",
-    "id": "a260154",
-    "igdbId": 40595,
-    "gbId": 32603,
-    "gbGuid": "3030-32603",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/superfootball7800_zpsljo6epjc.jpg",
-        "details": "says Atari 7800 on end label",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Track & Field",
-    "id": "a260155",
-    "igdbId": 6439,
-    "gbId": 18232,
-    "gbGuid": "3030-18232",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/trackandfield_zps64ttogqt.jpg",
-        "details": "game ID listed as 26127 which is for Gremlins",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Video Checkers",
-    "id": "a260156",
-    "igdbId": 18003,
-    "gbId": 13846,
-    "gbGuid": "3030-13846",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Atari/atari2600/videocheckers-pic-1986.jpg",
-        "details": "says \"For use with paddle controllers\" part of 1986 releases maybe tape corrected",
-        "type": "Typo"
-      }
-    ]
   },
   {
     "name": "Xonox Artillery Duel/ Spike's Peak",
-    "id": "a260157",
+    "id": "a260156",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -3562,13 +3657,13 @@
   },
   {
     "name": "Yars' Revenge",
-    "id": "a260158",
+    "id": "a260157",
     "igdbId": 9757,
     "gbId": 14821,
     "gbGuid": "3030-14821",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -3577,5 +3672,29 @@
         "type": "Labeling"
       }
     ]
+  },
+  {
+    "name": "Z-Tack",
+    "id": "a260158",
+    "igdbId": 24455,
+    "gbId": 11646,
+    "gbGuid": "3030-11646",
+    "tgdbId": 42278,
+    "details": [
+      "Atari 2600 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari 2600",
+        "id": "ccl28",
+        "igdbId": 59,
+        "gbId": 40,
+        "gbGuid": "3045-40",
+        "tgdbId": 22
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
   }
 ]

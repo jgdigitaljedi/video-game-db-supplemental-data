@@ -1,60 +1,15 @@
 [
   {
-    "name": "Blue Lightning",
+    "name": "Baldies",
     "id": "ajcd0",
-    "igdbId": 74903,
-    "gbId": 3142,
-    "gbGuid": "3030-3142",
+    "igdbId": 90071,
+    "gbId": 2710,
+    "gbGuid": "3030-2710",
+    "tgdbId": 5252,
     "details": [
       "Atari Jaguar CD launch title"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Atari Jaguar CD",
-        "id": "ccl43",
-        "igdbId": null,
-        "gbId": 171,
-        "gbGuid": "3045-171",
-        "tgdbId": 29
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Vid Grid",
-    "id": "ajcd1",
-    "igdbId": 71297,
-    "gbId": 2471,
-    "gbGuid": "3030-2471",
-    "details": [
-      "Atari Jaguar CD launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Atari Jaguar CD",
-        "id": "ccl43",
-        "igdbId": null,
-        "gbId": 171,
-        "gbGuid": "3045-171",
-        "tgdbId": 29
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Myst",
-    "id": "ajcd2",
-    "igdbId": 236,
-    "gbId": 3970,
-    "gbGuid": "3030-3970",
-    "details": [
-      "Atari Jaguar CD launch title"
-    ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari Jaguar CD",
@@ -70,14 +25,39 @@
   },
   {
     "name": "Battlemorph",
-    "id": "ajcd3",
+    "id": "ajcd1",
     "igdbId": 70194,
     "gbId": 14418,
     "gbGuid": "3030-14418",
+    "tgdbId": 5254,
     "details": [
       "Atari Jaguar CD launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Atari Jaguar CD",
+        "id": "ccl43",
+        "igdbId": null,
+        "gbId": 171,
+        "gbGuid": "3045-171",
+        "tgdbId": 29
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Blue Lightning",
+    "id": "ajcd2",
+    "igdbId": 74903,
+    "gbId": 3142,
+    "gbGuid": "3030-3142",
+    "tgdbId": 5256,
+    "details": [
+      "Atari Jaguar CD launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari Jaguar CD",
@@ -93,14 +73,15 @@
   },
   {
     "name": "Highlander: The Last of the MacLeods",
-    "id": "ajcd4",
+    "id": "ajcd3",
     "igdbId": 46925,
     "gbId": 10156,
     "gbGuid": "3030-10156",
+    "tgdbId": 5260,
     "details": [
       "Atari Jaguar CD launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari Jaguar CD",
@@ -116,14 +97,15 @@
   },
   {
     "name": "Hover Strike: Unconquered Lands",
-    "id": "ajcd5",
+    "id": "ajcd4",
     "igdbId": 46924,
     "gbId": 19650,
     "gbGuid": "3030-19650",
+    "tgdbId": 5261,
     "details": [
       "Atari Jaguar CD launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari Jaguar CD",
@@ -138,15 +120,40 @@
     "misprintsErrors": []
   },
   {
-    "name": "Baldies",
-    "id": "ajcd6",
-    "igdbId": 90071,
-    "gbId": 2710,
-    "gbGuid": "3030-2710",
+    "name": "Myst",
+    "id": "ajcd5",
+    "igdbId": 236,
+    "gbId": 3970,
+    "gbGuid": "3030-3970",
+    "tgdbId": 4849,
     "details": [
       "Atari Jaguar CD launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Atari Jaguar CD",
+        "id": "ccl43",
+        "igdbId": null,
+        "gbId": 171,
+        "gbGuid": "3045-171",
+        "tgdbId": 29
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Vid Grid",
+    "id": "ajcd6",
+    "igdbId": 71297,
+    "gbId": 2471,
+    "gbGuid": "3030-2471",
+    "tgdbId": 61120,
+    "details": [
+      "Atari Jaguar CD launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari Jaguar CD",

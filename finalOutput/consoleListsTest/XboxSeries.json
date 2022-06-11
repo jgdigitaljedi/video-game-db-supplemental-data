@@ -8,7 +8,7 @@
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -31,7 +31,7 @@
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -54,7 +54,7 @@
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -77,53 +77,7 @@
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Amiga",
-        "id": "ccl49",
-        "igdbId": 16,
-        "gbId": 1,
-        "gbGuid": "3045-1",
-        "tgdbId": 4911
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Dead by Daylight",
-    "id": "xbs4",
-    "igdbId": 18866,
-    "gbId": 52693,
-    "gbGuid": "3030-52693",
-    "details": [
-      "Microsoft Xbox Series X|S launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Amiga",
-        "id": "ccl49",
-        "igdbId": 16,
-        "gbId": 1,
-        "gbGuid": "3045-1",
-        "tgdbId": 4911
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Devil May Cry 5: Special Edition",
-    "id": "xbs5",
-    "igdbId": 138932,
-    "gbId": 68910,
-    "gbGuid": "3030-68910",
-    "details": [
-      "Microsoft Xbox Series X|S launch title"
-    ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -139,14 +93,60 @@
   },
   {
     "name": "DIRT 5",
-    "id": "xbs6",
+    "id": "xbs4",
     "igdbId": 133301,
     "gbId": 78340,
     "gbGuid": "3030-78340",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Amiga",
+        "id": "ccl49",
+        "igdbId": 16,
+        "gbId": 1,
+        "gbGuid": "3045-1",
+        "tgdbId": 4911
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead by Daylight",
+    "id": "xbs5",
+    "igdbId": 18866,
+    "gbId": 52693,
+    "gbGuid": "3030-52693",
+    "details": [
+      "Microsoft Xbox Series X|S launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Amiga",
+        "id": "ccl49",
+        "igdbId": 16,
+        "gbId": 1,
+        "gbGuid": "3045-1",
+        "tgdbId": 4911
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Devil May Cry 5: Special Edition",
+    "id": "xbs6",
+    "igdbId": 138932,
+    "gbId": 68910,
+    "gbGuid": "3030-68910",
+    "details": [
+      "Microsoft Xbox Series X|S launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -169,7 +169,7 @@
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -192,30 +192,7 @@
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Amiga",
-        "id": "ccl49",
-        "igdbId": 16,
-        "gbId": 1,
-        "gbGuid": "3045-1",
-        "tgdbId": 4911
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "The Falconeer",
-    "id": "xbs9",
-    "igdbId": 121709,
-    "gbId": 76961,
-    "gbGuid": "3030-76961",
-    "details": [
-      "Microsoft Xbox Series X|S launch title"
-    ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -231,14 +208,14 @@
   },
   {
     "name": "Fortnite",
-    "id": "xbs10",
+    "id": "xbs9",
     "igdbId": 1905,
     "gbId": 37030,
     "gbGuid": "3030-37030",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -254,14 +231,14 @@
   },
   {
     "name": "Forza Horizon 4",
-    "id": "xbs11",
+    "id": "xbs10",
     "igdbId": 82090,
     "gbId": 68909,
     "gbGuid": "3030-68909",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -277,14 +254,14 @@
   },
   {
     "name": "Gears 5",
-    "id": "xbs12",
+    "id": "xbs11",
     "igdbId": 103292,
     "gbId": 68916,
     "gbGuid": "3030-68916",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -300,14 +277,14 @@
   },
   {
     "name": "Gears Tactics",
-    "id": "xbs13",
+    "id": "xbs12",
     "igdbId": 103291,
     "gbId": 68915,
     "gbGuid": "3030-68915",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -323,14 +300,14 @@
   },
   {
     "name": "Grounded",
-    "id": "xbs14",
+    "id": "xbs13",
     "igdbId": 125624,
     "gbId": 76965,
     "gbGuid": "3030-76965",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -346,14 +323,14 @@
   },
   {
     "name": "King Oddball",
-    "id": "xbs15",
+    "id": "xbs14",
     "igdbId": 20079,
     "gbId": 44976,
     "gbGuid": "3030-44976",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -369,14 +346,14 @@
   },
   {
     "name": "Maneater",
-    "id": "xbs16",
+    "id": "xbs15",
     "igdbId": 46800,
     "gbId": 68953,
     "gbGuid": "3030-68953",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -392,14 +369,14 @@
   },
   {
     "name": "Manifold Garden",
-    "id": "xbs17",
+    "id": "xbs16",
     "igdbId": 13621,
     "gbId": 45900,
     "gbGuid": "3030-45900",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -415,14 +392,14 @@
   },
   {
     "name": "NBA 2K21",
-    "id": "xbs18",
+    "id": "xbs17",
     "igdbId": 134599,
     "gbId": 78964,
     "gbGuid": "3030-78964",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -438,14 +415,14 @@
   },
   {
     "name": "Observer: System Redux",
-    "id": "xbs19",
+    "id": "xbs18",
     "igdbId": 132165,
     "gbId": 54218,
     "gbGuid": "3030-54218",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -461,14 +438,14 @@
   },
   {
     "name": "Ori and the Will of the Wisps",
-    "id": "xbs20",
+    "id": "xbs19",
     "igdbId": 37001,
     "gbId": 59902,
     "gbGuid": "3030-59902",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -484,14 +461,14 @@
   },
   {
     "name": "Planet Coaster: Console Edition",
-    "id": "xbs21",
+    "id": "xbs20",
     "igdbId": 125627,
     "gbId": 50018,
     "gbGuid": "3030-50018",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -507,14 +484,14 @@
   },
   {
     "name": "Sea of Thieves",
-    "id": "xbs22",
+    "id": "xbs21",
     "igdbId": 11137,
     "gbId": 49966,
     "gbGuid": "3030-49966",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -530,14 +507,37 @@
   },
   {
     "name": "Tetris Effect: Connected",
-    "id": "xbs23",
+    "id": "xbs22",
     "igdbId": 135999,
     "gbId": 68836,
     "gbGuid": "3030-68836",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Amiga",
+        "id": "ccl49",
+        "igdbId": 16,
+        "gbId": 1,
+        "gbGuid": "3045-1",
+        "tgdbId": 4911
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Falconeer",
+    "id": "xbs23",
+    "igdbId": 121709,
+    "gbId": 76961,
+    "gbGuid": "3030-76961",
+    "details": [
+      "Microsoft Xbox Series X|S launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -560,76 +560,7 @@
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Amiga",
-        "id": "ccl49",
-        "igdbId": 16,
-        "gbId": 1,
-        "gbGuid": "3045-1",
-        "tgdbId": 4911
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "War Thunder",
-    "id": "xbs25",
-    "igdbId": 2165,
-    "gbId": 38992,
-    "gbGuid": "3030-38992",
-    "details": [
-      "Microsoft Xbox Series X|S launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Amiga",
-        "id": "ccl49",
-        "igdbId": 16,
-        "gbId": 1,
-        "gbGuid": "3045-1",
-        "tgdbId": 4911
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Warhammer: Chaosbane - Slayer Edition",
-    "id": "xbs26",
-    "igdbId": 139948,
-    "gbId": 68781,
-    "gbGuid": "3030-68781",
-    "details": [
-      "Microsoft Xbox Series X|S launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Amiga",
-        "id": "ccl49",
-        "igdbId": 16,
-        "gbId": 1,
-        "gbGuid": "3045-1",
-        "tgdbId": 4911
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Watch Dogs: Legion",
-    "id": "xbs27",
-    "igdbId": 100413,
-    "gbId": 73709,
-    "gbGuid": "3030-73709",
-    "details": [
-      "Microsoft Xbox Series X|S launch title"
-    ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -645,14 +576,83 @@
   },
   {
     "name": "WRC 9",
-    "id": "xbs28",
+    "id": "xbs25",
     "igdbId": 133773,
     "gbId": 77667,
     "gbGuid": "3030-77667",
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Amiga",
+        "id": "ccl49",
+        "igdbId": 16,
+        "gbId": 1,
+        "gbGuid": "3045-1",
+        "tgdbId": 4911
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "War Thunder",
+    "id": "xbs26",
+    "igdbId": 2165,
+    "gbId": 38992,
+    "gbGuid": "3030-38992",
+    "details": [
+      "Microsoft Xbox Series X|S launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Amiga",
+        "id": "ccl49",
+        "igdbId": 16,
+        "gbId": 1,
+        "gbGuid": "3045-1",
+        "tgdbId": 4911
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Warhammer: Chaosbane - Slayer Edition",
+    "id": "xbs27",
+    "igdbId": 139948,
+    "gbId": 68781,
+    "gbGuid": "3030-68781",
+    "details": [
+      "Microsoft Xbox Series X|S launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Amiga",
+        "id": "ccl49",
+        "igdbId": 16,
+        "gbId": 1,
+        "gbGuid": "3045-1",
+        "tgdbId": 4911
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Watch Dogs: Legion",
+    "id": "xbs28",
+    "igdbId": 100413,
+    "gbId": 73709,
+    "gbGuid": "3030-73709",
+    "details": [
+      "Microsoft Xbox Series X|S launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -675,7 +675,7 @@
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",
@@ -698,7 +698,7 @@
     "details": [
       "Microsoft Xbox Series X|S launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Amiga",

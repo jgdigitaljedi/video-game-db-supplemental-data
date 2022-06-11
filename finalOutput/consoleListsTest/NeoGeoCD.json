@@ -17,7 +17,7 @@
         "gbGuid": "3045-59"
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -39,57 +39,13 @@
         "gbGuid": "3045-59"
       }
     ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Ironclad",
-    "id": "ngcd2",
-    "igdbId": 66823,
-    "gbId": 30585,
-    "gbGuid": "3030-30585",
-    "details": [
-      "Neo Geo CD exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Neo Geo CD",
-        "id": "ccl52",
-        "igdbId": 136,
-        "gbId": 59,
-        "gbGuid": "3045-59"
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "The King of Fighters '96 Collection",
-    "id": "ngcd3",
-    "igdbId": 75462,
-    "gbId": 8146,
-    "gbGuid": "3030-8146",
-    "details": [
-      "Neo Geo CD exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Neo Geo CD",
-        "id": "ccl52",
-        "igdbId": 136,
-        "gbId": 59,
-        "gbGuid": "3045-59"
-      }
-    ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Idol-Mahjong Final Romance 2",
-    "id": "ngcd4",
+    "id": "ngcd2",
     "igdbId": 75471,
     "gbId": 62013,
     "gbGuid": "3030-62013",
@@ -105,13 +61,35 @@
         "gbGuid": "3045-59"
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ironclad",
+    "id": "ngcd3",
+    "igdbId": 66823,
+    "gbId": 30585,
+    "gbGuid": "3030-30585",
+    "details": [
+      "Neo Geo CD exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Neo Geo CD Special",
-    "id": "ngcd5",
+    "id": "ngcd4",
     "igdbId": 75493,
     "gbId": null,
     "gbGuid": null,
@@ -127,7 +105,29 @@
         "gbGuid": "3045-59"
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Oshidashi Zintrick",
+    "id": "ngcd5",
+    "igdbId": 130369,
+    "gbId": 77135,
+    "gbGuid": "3030-77135",
+    "details": [
+      "Neo Geo CD exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -149,16 +149,16 @@
         "gbGuid": "3045-59"
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "Oshidashi Zintrick",
+    "name": "The King of Fighters '96 Collection",
     "id": "ngcd7",
-    "igdbId": 130369,
-    "gbId": 77135,
-    "gbGuid": "3030-77135",
+    "igdbId": 75462,
+    "gbId": 8146,
+    "gbGuid": "3030-8146",
     "details": [
       "Neo Geo CD exclusive"
     ],
@@ -171,7 +171,7 @@
         "gbGuid": "3045-59"
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   }

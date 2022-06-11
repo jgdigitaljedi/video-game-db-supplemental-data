@@ -5,6 +5,7 @@
     "igdbId": 11890,
     "gbId": 9587,
     "gbGuid": "3030-9587",
+    "tgdbId": 24470,
     "details": [
       "Amiga exclusive"
     ],
@@ -18,7 +19,7 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -28,6 +29,7 @@
     "igdbId": 14240,
     "gbId": 2220,
     "gbGuid": "3030-2220",
+    "tgdbId": 24476,
     "details": [
       "Amiga exclusive"
     ],
@@ -41,7 +43,7 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -51,6 +53,7 @@
     "igdbId": 11897,
     "gbId": 18454,
     "gbGuid": "3030-18454",
+    "tgdbId": 24496,
     "details": [
       "Amiga exclusive"
     ],
@@ -64,7 +67,7 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -74,6 +77,7 @@
     "igdbId": 11898,
     "gbId": 16576,
     "gbGuid": "3030-16576",
+    "tgdbId": 49712,
     "details": [
       "Amiga exclusive"
     ],
@@ -87,39 +91,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Soccer",
-    "id": "amig4",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Amiga exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Amiga",
-        "id": "ccl49",
-        "igdbId": 16,
-        "gbId": 1,
-        "gbGuid": "3045-1",
-        "tgdbId": 4911
-      }
-    ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Amnios",
-    "id": "amig5",
+    "id": "amig4",
     "igdbId": 14254,
     "gbId": 17617,
     "gbGuid": "3030-17617",
+    "tgdbId": 24501,
     "details": [
       "Amiga exclusive"
     ],
@@ -133,13 +115,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Apano Sin",
-    "id": "amig6",
+    "id": "amig5",
     "igdbId": 14259,
     "gbId": null,
     "gbGuid": null,
@@ -156,16 +138,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Apidya",
-    "id": "amig7",
+    "id": "amig6",
     "igdbId": 11906,
     "gbId": 27999,
     "gbGuid": "3030-27999",
+    "tgdbId": 24506,
     "details": [
       "Amiga exclusive"
     ],
@@ -179,16 +162,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Arabian Nights",
-    "id": "amig8",
+    "id": "amig7",
     "igdbId": 10861,
     "gbId": 88,
     "gbGuid": "3030-88",
+    "tgdbId": 10162,
     "details": [
       "Amiga exclusive"
     ],
@@ -202,16 +186,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Assassin",
-    "id": "amig9",
+    "id": "amig8",
     "igdbId": 11920,
     "gbId": 9308,
     "gbGuid": "3030-9308",
+    "tgdbId": 39420,
     "details": [
       "Amiga exclusive"
     ],
@@ -225,16 +210,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Banshee",
-    "id": "amig10",
+    "id": "amig9",
     "igdbId": 11939,
     "gbId": 7970,
     "gbGuid": "3030-7970",
+    "tgdbId": 10165,
     "details": [
       "Amiga exclusive"
     ],
@@ -248,13 +234,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Behind the Iron Gate",
-    "id": "amig11",
+    "id": "amig10",
     "igdbId": 14294,
     "gbId": 8919,
     "gbGuid": "3030-8919",
@@ -271,16 +257,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Black Crypt",
-    "id": "amig12",
+    "id": "amig11",
     "igdbId": 8692,
     "gbId": 9261,
     "gbGuid": "3030-9261",
+    "tgdbId": 52022,
     "details": [
       "Amiga exclusive"
     ],
@@ -294,13 +281,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Blob",
-    "id": "amig13",
+    "id": "amig12",
     "igdbId": 14319,
     "gbId": 15359,
     "gbGuid": "3030-15359",
@@ -317,16 +304,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Body Blows Galactic",
-    "id": "amig14",
+    "id": "amig13",
     "igdbId": 11975,
     "gbId": 8633,
     "gbGuid": "3030-8633",
+    "tgdbId": 50566,
     "details": [
       "Amiga exclusive"
     ],
@@ -340,13 +328,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Cardiaxx",
-    "id": "amig15",
+    "id": "amig14",
     "igdbId": 12531,
     "gbId": 4334,
     "gbGuid": "3030-4334",
@@ -363,16 +351,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Coala",
-    "id": "amig16",
+    "id": "amig15",
     "igdbId": 14622,
     "gbId": 1107,
     "gbGuid": "3030-1107",
+    "tgdbId": 55660,
     "details": [
       "Amiga exclusive"
     ],
@@ -386,16 +375,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Crazy Sue goes on",
-    "id": "amig17",
+    "id": "amig16",
     "igdbId": 37276,
     "gbId": null,
     "gbGuid": null,
+    "tgdbId": 39424,
     "details": [
       "Amiga exclusive"
     ],
@@ -409,13 +399,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Cyberpunks",
-    "id": "amig18",
+    "id": "amig17",
     "igdbId": 14632,
     "gbId": 10849,
     "gbGuid": "3030-10849",
@@ -432,16 +422,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Cytron",
-    "id": "amig19",
+    "id": "amig18",
     "igdbId": 12560,
     "gbId": 12237,
     "gbGuid": "3030-12237",
+    "tgdbId": 53602,
     "details": [
       "Amiga exclusive"
     ],
@@ -455,16 +446,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Darkmere",
-    "id": "amig20",
+    "id": "amig19",
     "igdbId": 12564,
     "gbId": 16860,
     "gbGuid": "3030-16860",
+    "tgdbId": 24605,
     "details": [
       "Amiga exclusive"
     ],
@@ -478,13 +470,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Datastorm",
-    "id": "amig21",
+    "id": "amig20",
     "igdbId": 73131,
     "gbId": 19871,
     "gbGuid": "3030-19871",
@@ -501,13 +493,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Dr. Plummet's House of Flux",
-    "id": "amig22",
+    "id": "amig21",
     "igdbId": 14658,
     "gbId": null,
     "gbGuid": null,
@@ -524,13 +516,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Ebonstar",
-    "id": "amig23",
+    "id": "amig22",
     "igdbId": 57627,
     "gbId": null,
     "gbGuid": null,
@@ -547,16 +539,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Elfmania",
-    "id": "amig24",
+    "id": "amig23",
     "igdbId": 12062,
     "gbId": 4292,
     "gbGuid": "3030-4292",
+    "tgdbId": 51350,
     "details": [
       "Amiga exclusive"
     ],
@@ -570,16 +563,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "F/A-18 Interceptor",
-    "id": "amig25",
+    "id": "amig24",
     "igdbId": 12081,
     "gbId": 16566,
     "gbGuid": "3030-16566",
+    "tgdbId": 30586,
     "details": [
       "Amiga exclusive"
     ],
@@ -593,16 +587,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Fighter Duel Pro 2",
-    "id": "amig26",
+    "id": "amig25",
     "igdbId": 37216,
     "gbId": null,
     "gbGuid": null,
+    "tgdbId": 31466,
     "details": [
       "Amiga exclusive"
     ],
@@ -616,13 +611,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Furball",
-    "id": "amig27",
+    "id": "amig26",
     "igdbId": 92127,
     "gbId": 33613,
     "gbGuid": "3030-33613",
@@ -639,16 +634,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Hybris",
-    "id": "amig28",
+    "id": "amig27",
     "igdbId": 12150,
     "gbId": 11519,
     "gbGuid": "3030-11519",
+    "tgdbId": 40028,
     "details": [
       "Amiga exclusive"
     ],
@@ -662,16 +658,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "K240",
-    "id": "amig29",
+    "id": "amig28",
     "igdbId": 12650,
     "gbId": 9276,
     "gbGuid": "3030-9276",
+    "tgdbId": 52331,
     "details": [
       "Amiga exclusive"
     ],
@@ -685,16 +682,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Lionheart",
-    "id": "amig30",
+    "id": "amig29",
     "igdbId": 82018,
     "gbId": 17450,
     "gbGuid": "3030-17450",
+    "tgdbId": 29487,
     "details": [
       "Amiga exclusive"
     ],
@@ -708,16 +706,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Mind Walker",
-    "id": "amig31",
+    "id": "amig30",
     "igdbId": 26379,
     "gbId": 37932,
     "gbGuid": "3030-37932",
+    "tgdbId": 47864,
     "details": [
       "Amiga exclusive"
     ],
@@ -731,16 +730,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Mr. Nutz Hoppin' Mad",
-    "id": "amig32",
+    "id": "amig31",
     "igdbId": 39030,
     "gbId": 14934,
     "gbGuid": "3030-14934",
+    "tgdbId": 35752,
     "details": [
       "Amiga exclusive"
     ],
@@ -754,13 +754,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Napalm: The Crimson Crisis",
-    "id": "amig33",
+    "id": "amig32",
     "igdbId": 69892,
     "gbId": 14585,
     "gbGuid": "3030-14585",
@@ -777,16 +777,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Nevermind",
-    "id": "amig34",
+    "id": "amig33",
     "igdbId": 12452,
     "gbId": 53333,
     "gbGuid": "3030-53333",
+    "tgdbId": 33009,
     "details": [
       "Amiga exclusive"
     ],
@@ -800,36 +801,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "The Oath",
-    "id": "amig35",
-    "igdbId": 12705,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Amiga exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Amiga",
-        "id": "ccl49",
-        "igdbId": 16,
-        "gbId": 1,
-        "gbGuid": "3045-1",
-        "tgdbId": 4911
-      }
-    ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Perihelion: The Prophecy",
-    "id": "amig36",
+    "id": "amig34",
     "igdbId": 72287,
     "gbId": 6508,
     "gbGuid": "3030-6508",
@@ -846,13 +824,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Pioneer Plague",
-    "id": "amig37",
+    "id": "amig35",
     "igdbId": 68487,
     "gbId": 11995,
     "gbGuid": "3030-11995",
@@ -869,16 +847,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Ruff 'n' Tumble",
-    "id": "amig38",
+    "id": "amig36",
     "igdbId": 12755,
     "gbId": 7496,
     "gbGuid": "3030-7496",
+    "tgdbId": 41910,
     "details": [
       "Amiga exclusive"
     ],
@@ -892,16 +871,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Scorched Tanks",
-    "id": "amig39",
+    "id": "amig37",
     "igdbId": 72265,
     "gbId": 2883,
     "gbGuid": "3030-2883",
+    "tgdbId": 52118,
     "details": [
       "Amiga exclusive"
     ],
@@ -915,13 +895,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Sensible Train-Spotting",
-    "id": "amig40",
+    "id": "amig38",
     "igdbId": 77374,
     "gbId": 604,
     "gbGuid": "3030-604",
@@ -938,16 +918,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Shadow of the Beast III",
-    "id": "amig41",
+    "id": "amig39",
     "igdbId": 12221,
     "gbId": null,
     "gbGuid": null,
+    "tgdbId": 24585,
     "details": [
       "Amiga exclusive"
     ],
@@ -961,16 +942,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "The Speris Legacy",
-    "id": "amig42",
-    "igdbId": 15565,
-    "gbId": 3409,
-    "gbGuid": "3030-3409",
+    "name": "Soccer",
+    "id": "amig40",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 42820,
     "details": [
       "Amiga exclusive"
     ],
@@ -984,16 +966,17 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Super League Manager",
-    "id": "amig43",
+    "id": "amig41",
     "igdbId": 93251,
     "gbId": 8204,
     "gbGuid": "3030-8204",
+    "tgdbId": 63572,
     "details": [
       "Amiga exclusive"
     ],
@@ -1007,13 +990,13 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Testament",
-    "id": "amig44",
+    "id": "amig42",
     "igdbId": 100039,
     "gbId": 3128,
     "gbGuid": "3030-3128",
@@ -1030,7 +1013,54 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Oath",
+    "id": "amig43",
+    "igdbId": 12705,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Amiga exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Amiga",
+        "id": "ccl49",
+        "igdbId": 16,
+        "gbId": 1,
+        "gbGuid": "3045-1",
+        "tgdbId": 4911
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Speris Legacy",
+    "id": "amig44",
+    "igdbId": 15565,
+    "gbId": 3409,
+    "gbGuid": "3030-3409",
+    "tgdbId": 10309,
+    "details": [
+      "Amiga exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Amiga",
+        "id": "ccl49",
+        "igdbId": 16,
+        "gbId": 1,
+        "gbGuid": "3045-1",
+        "tgdbId": 4911
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -1040,6 +1070,7 @@
     "igdbId": 37275,
     "gbId": 4903,
     "gbGuid": "3030-4903",
+    "tgdbId": 39431,
     "details": [
       "Amiga exclusive"
     ],
@@ -1053,7 +1084,7 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -1063,6 +1094,7 @@
     "igdbId": 12808,
     "gbId": 3306,
     "gbGuid": "3030-3306",
+    "tgdbId": 47861,
     "details": [
       "Amiga exclusive"
     ],
@@ -1076,7 +1108,7 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -1086,6 +1118,7 @@
     "igdbId": 69792,
     "gbId": 11738,
     "gbGuid": "3030-11738",
+    "tgdbId": 50002,
     "details": [
       "Amiga exclusive"
     ],
@@ -1099,7 +1132,7 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -1109,6 +1142,7 @@
     "igdbId": 12818,
     "gbId": 12183,
     "gbGuid": "3030-12183",
+    "tgdbId": 41985,
     "details": [
       "Amiga exclusive"
     ],
@@ -1122,7 +1156,7 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -1145,7 +1179,7 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -1168,7 +1202,7 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -1191,7 +1225,7 @@
         "tgdbId": 4911
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   }

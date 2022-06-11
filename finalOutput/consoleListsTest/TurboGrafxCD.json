@@ -1,56 +1,11 @@
 [
   {
-    "name": "Fighting Street",
-    "id": "tgcd0",
-    "igdbId": 37589,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "TurboGrafx16 CD launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "NEC TurboGrafx CD",
-        "id": "ccl34",
-        "igdbId": 150,
-        "gbId": 53,
-        "gbGuid": "3045-53",
-        "tgdbId": 4955
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Wonder Boy III: Monster Lair",
-    "id": "tgcd1",
-    "igdbId": 4481,
-    "gbId": 10133,
-    "gbGuid": "3030-10133",
-    "details": [
-      "TurboGrafx16 CD launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "NEC TurboGrafx CD",
-        "id": "ccl34",
-        "igdbId": 150,
-        "gbId": 53,
-        "gbGuid": "3045-53",
-        "tgdbId": 4955
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Beyond Shadowgate",
-    "id": "tgcd2",
+    "id": "tgcd0",
     "igdbId": 81492,
     "gbId": 20430,
     "gbGuid": "3030-20430",
+    "tgdbId": 5656,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -64,39 +19,17 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Cosmic Fantasy: Bouken Shounen Yuu",
-    "id": "tgcd3",
-    "igdbId": 42005,
-    "gbId": 8378,
-    "gbGuid": "3030-8378",
-    "details": [
-      "NEC Turbografx CD exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "NEC TurboGrafx CD",
-        "id": "ccl34",
-        "igdbId": 150,
-        "gbId": 53,
-        "gbGuid": "3045-53",
-        "tgdbId": 4955
-      }
-    ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Cosmic Fantasy 2",
-    "id": "tgcd4",
+    "id": "tgcd1",
     "igdbId": 42003,
     "gbId": 1566,
     "gbGuid": "3030-1566",
+    "tgdbId": 35689,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -110,16 +43,41 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cosmic Fantasy: Bouken Shounen Yuu",
+    "id": "tgcd2",
+    "igdbId": 42005,
+    "gbId": 8378,
+    "gbGuid": "3030-8378",
+    "tgdbId": 34808,
+    "details": [
+      "NEC Turbografx CD exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "NEC TurboGrafx CD",
+        "id": "ccl34",
+        "igdbId": 150,
+        "gbId": 53,
+        "gbGuid": "3045-53",
+        "tgdbId": 4955
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Cyber City Oedo 808: Attribute of the Beast",
-    "id": "tgcd5",
+    "id": "tgcd3",
     "igdbId": 64382,
     "gbId": 40281,
     "gbGuid": "3030-40281",
+    "tgdbId": 29743,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -133,16 +91,17 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Dungeon Master: Theron's Quest",
-    "id": "tgcd6",
+    "id": "tgcd4",
     "igdbId": 3800,
     "gbId": 48029,
     "gbGuid": "3030-48029",
+    "tgdbId": 9990,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -156,16 +115,41 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fighting Street",
+    "id": "tgcd5",
+    "igdbId": 37589,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26639,
+    "details": [
+      "TurboGrafx16 CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "NEC TurboGrafx CD",
+        "id": "ccl34",
+        "igdbId": 150,
+        "gbId": 53,
+        "gbGuid": "3045-53",
+        "tgdbId": 4955
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Flash Hiders",
-    "id": "tgcd7",
+    "id": "tgcd6",
     "igdbId": 37600,
     "gbId": 42103,
     "gbGuid": "3030-42103",
+    "tgdbId": 35923,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -179,7 +163,31 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fushigi no Umi Nadia: The Secret of Blue Water",
+    "id": "tgcd7",
+    "igdbId": 48490,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26877,
+    "details": [
+      "NEC Turbografx CD exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "NEC TurboGrafx CD",
+        "id": "ccl34",
+        "igdbId": 150,
+        "gbId": 53,
+        "gbGuid": "3045-53",
+        "tgdbId": 4955
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -189,6 +197,7 @@
     "igdbId": 72828,
     "gbId": 22765,
     "gbGuid": "3030-22765",
+    "tgdbId": 18848,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -202,7 +211,7 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -212,6 +221,7 @@
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
+    "tgdbId": 25538,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -225,7 +235,7 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -235,6 +245,7 @@
     "igdbId": 37612,
     "gbId": 38011,
     "gbGuid": "3030-38011",
+    "tgdbId": 18392,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -248,7 +259,7 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -258,6 +269,7 @@
     "igdbId": 42050,
     "gbId": 33596,
     "gbGuid": "3030-33596",
+    "tgdbId": 34807,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -271,7 +283,7 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -281,6 +293,7 @@
     "igdbId": 44311,
     "gbId": 5683,
     "gbGuid": "3030-5683",
+    "tgdbId": 9998,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -294,39 +307,17 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Fushigi no Umi Nadia: The Secret of Blue Water",
-    "id": "tgcd13",
-    "igdbId": 48490,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "NEC Turbografx CD exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "NEC TurboGrafx CD",
-        "id": "ccl34",
-        "igdbId": 150,
-        "gbId": 53,
-        "gbGuid": "3045-53",
-        "tgdbId": 4955
-      }
-    ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Neo Nectaris",
-    "id": "tgcd14",
+    "id": "tgcd13",
     "igdbId": 42009,
     "gbId": 39904,
     "gbGuid": "3030-39904",
+    "tgdbId": 34513,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -340,13 +331,13 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Pop 'n Magic",
-    "id": "tgcd15",
+    "id": "tgcd14",
     "igdbId": 37582,
     "gbId": 59664,
     "gbGuid": "3030-59664",
@@ -363,13 +354,13 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Sol Bianca",
-    "id": "tgcd16",
+    "id": "tgcd15",
     "igdbId": 94511,
     "gbId": 11987,
     "gbGuid": "3030-11987",
@@ -386,7 +377,31 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wonder Boy III: Monster Lair",
+    "id": "tgcd16",
+    "igdbId": 4481,
+    "gbId": 10133,
+    "gbGuid": "3030-10133",
+    "tgdbId": 4732,
+    "details": [
+      "TurboGrafx16 CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "NEC TurboGrafx CD",
+        "id": "ccl34",
+        "igdbId": 150,
+        "gbId": 53,
+        "gbGuid": "3045-53",
+        "tgdbId": 4955
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
@@ -396,6 +411,7 @@
     "igdbId": 42006,
     "gbId": 37956,
     "gbGuid": "3030-37956",
+    "tgdbId": 34806,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -409,7 +425,7 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -419,6 +435,7 @@
     "igdbId": 15452,
     "gbId": 18453,
     "gbGuid": "3030-18453",
+    "tgdbId": 10014,
     "details": [
       "NEC Turbografx CD exclusive"
     ],
@@ -432,7 +449,7 @@
         "tgdbId": 4955
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   }

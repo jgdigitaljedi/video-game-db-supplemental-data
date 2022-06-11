@@ -1,10 +1,34 @@
 [
   {
-    "name": "Galactic Pinball",
+    "name": "3-D Tetris",
     "id": "nvb0",
+    "igdbId": 84680,
+    "gbId": 17439,
+    "gbGuid": "3030-17439",
+    "details": [
+      "Nintendo Virtual Boy exclusive (North America only)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Virtual Boy",
+        "id": "ccl50",
+        "igdbId": 87,
+        "gbId": 79,
+        "gbGuid": "3045-79",
+        "tgdbId": 4918
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Galactic Pinball",
+    "id": "nvb1",
     "igdbId": 20381,
     "gbId": 20180,
     "gbGuid": "3030-20180",
+    "tgdbId": 14738,
     "details": [
       "Nintendo Virtual Boy launch title",
       "Nintendo Virtual Boy exclusive"
@@ -39,130 +63,8 @@
     ]
   },
   {
-    "name": "Mario's Tennis",
-    "id": "nvb1",
-    "igdbId": 20386,
-    "gbId": 14178,
-    "gbGuid": "3030-14178",
-    "details": [
-      "Nintendo Virtual Boy launch title",
-      "Nintendo Virtual Boy exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Nintendo Virtual Boy",
-        "id": "ccl50",
-        "igdbId": 87,
-        "gbId": 79,
-        "gbGuid": "3045-79",
-        "tgdbId": 4918
-      }
-    ],
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo Virtual Boy",
-        "id": "ccl50",
-        "igdbId": 87,
-        "gbId": 79,
-        "gbGuid": "3045-79",
-        "tgdbId": 4918
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Red Alarm",
-    "id": "nvb2",
-    "igdbId": 20790,
-    "gbId": 12612,
-    "gbGuid": "3030-12612",
-    "details": [
-      "Nintendo Virtual Boy launch title",
-      "Nintendo Virtual Boy exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Nintendo Virtual Boy",
-        "id": "ccl50",
-        "igdbId": 87,
-        "gbId": 79,
-        "gbGuid": "3045-79",
-        "tgdbId": 4918
-      }
-    ],
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo Virtual Boy",
-        "id": "ccl50",
-        "igdbId": 87,
-        "gbId": 79,
-        "gbGuid": "3045-79",
-        "tgdbId": 4918
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Teleroboxer",
-    "id": "nvb3",
-    "igdbId": 20984,
-    "gbId": 14650,
-    "gbGuid": "3030-14650",
-    "details": [
-      "Nintendo Virtual Boy launch title",
-      "Nintendo Virtual Boy exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Nintendo Virtual Boy",
-        "id": "ccl50",
-        "igdbId": 87,
-        "gbId": 79,
-        "gbGuid": "3045-79",
-        "tgdbId": 4918
-      }
-    ],
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo Virtual Boy",
-        "id": "ccl50",
-        "igdbId": 87,
-        "gbId": 79,
-        "gbGuid": "3045-79",
-        "tgdbId": 4918
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "3-D Tetris",
-    "id": "nvb4",
-    "igdbId": 84680,
-    "gbId": 17439,
-    "gbGuid": "3030-17439",
-    "details": [
-      "Nintendo Virtual Boy exclusive (North America only)"
-    ],
-    "isExclusive": [
-      {
-        "name": "Nintendo Virtual Boy",
-        "id": "ccl50",
-        "igdbId": 87,
-        "gbId": 79,
-        "gbGuid": "3045-79",
-        "tgdbId": 4918
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Golf",
-    "id": "nvb5",
+    "id": "nvb2",
     "igdbId": 20382,
     "gbId": 24167,
     "gbGuid": "3030-24167",
@@ -179,13 +81,13 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Innsmouth no Yakata",
-    "id": "nvb6",
+    "id": "nvb3",
     "igdbId": 20383,
     "gbId": null,
     "gbGuid": null,
@@ -202,13 +104,13 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Jack Bros.",
-    "id": "nvb7",
+    "id": "nvb4",
     "igdbId": 20384,
     "gbId": 7506,
     "gbGuid": "3030-7506",
@@ -225,13 +127,13 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Mario Clash",
-    "id": "nvb8",
+    "id": "nvb5",
     "igdbId": 20385,
     "gbId": 7638,
     "gbGuid": "3030-7638",
@@ -248,13 +150,47 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mario's Tennis",
+    "id": "nvb6",
+    "igdbId": 20386,
+    "gbId": 14178,
+    "gbGuid": "3030-14178",
+    "tgdbId": 14744,
+    "details": [
+      "Nintendo Virtual Boy launch title",
+      "Nintendo Virtual Boy exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Virtual Boy",
+        "id": "ccl50",
+        "igdbId": 87,
+        "gbId": 79,
+        "gbGuid": "3045-79",
+        "tgdbId": 4918
+      }
+    ],
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo Virtual Boy",
+        "id": "ccl50",
+        "igdbId": 87,
+        "gbId": 79,
+        "gbGuid": "3045-79",
+        "tgdbId": 4918
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Nester's Funky Bowling",
-    "id": "nvb9",
+    "id": "nvb7",
     "igdbId": 20387,
     "gbId": 19789,
     "gbGuid": "3030-19789",
@@ -271,13 +207,13 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Panic Bomber",
-    "id": "nvb10",
+    "id": "nvb8",
     "igdbId": 20388,
     "gbId": 3117,
     "gbGuid": "3030-3117",
@@ -294,13 +230,47 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Red Alarm",
+    "id": "nvb9",
+    "igdbId": 20790,
+    "gbId": 12612,
+    "gbGuid": "3030-12612",
+    "tgdbId": 14748,
+    "details": [
+      "Nintendo Virtual Boy launch title",
+      "Nintendo Virtual Boy exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Virtual Boy",
+        "id": "ccl50",
+        "igdbId": 87,
+        "gbId": 79,
+        "gbGuid": "3045-79",
+        "tgdbId": 4918
+      }
+    ],
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo Virtual Boy",
+        "id": "ccl50",
+        "igdbId": 87,
+        "gbId": 79,
+        "gbGuid": "3045-79",
+        "tgdbId": 4918
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "SD Gundam: Dimension War",
-    "id": "nvb11",
+    "id": "nvb10",
     "igdbId": 20791,
     "gbId": 24224,
     "gbGuid": "3030-24224",
@@ -317,13 +287,13 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Space Invaders: Virtual Collection",
-    "id": "nvb12",
+    "id": "nvb11",
     "igdbId": 20792,
     "gbId": 24168,
     "gbGuid": "3030-24168",
@@ -340,13 +310,13 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Space Squash",
-    "id": "nvb13",
+    "id": "nvb12",
     "igdbId": 20793,
     "gbId": 16224,
     "gbGuid": "3030-16224",
@@ -363,7 +333,41 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Teleroboxer",
+    "id": "nvb13",
+    "igdbId": 20984,
+    "gbId": 14650,
+    "gbGuid": "3030-14650",
+    "tgdbId": 14749,
+    "details": [
+      "Nintendo Virtual Boy launch title",
+      "Nintendo Virtual Boy exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Virtual Boy",
+        "id": "ccl50",
+        "igdbId": 87,
+        "gbId": 79,
+        "gbGuid": "3045-79",
+        "tgdbId": 4918
+      }
+    ],
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo Virtual Boy",
+        "id": "ccl50",
+        "igdbId": 87,
+        "gbId": 79,
+        "gbGuid": "3045-79",
+        "tgdbId": 4918
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
@@ -386,7 +390,7 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -409,7 +413,7 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -432,7 +436,7 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -455,7 +459,7 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -484,7 +488,7 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -507,7 +511,7 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -536,7 +540,7 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -559,7 +563,7 @@
         "tgdbId": 4918
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   }

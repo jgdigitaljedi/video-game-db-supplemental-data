@@ -1,168 +1,11 @@
 [
   {
-    "name": "Clockwork Knight",
-    "id": "ssat0",
-    "igdbId": 19756,
-    "gbId": 962,
-    "gbGuid": "3030-962",
-    "details": [
-      "Sega Saturn launch title",
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Daytona USA",
-    "id": "ssat1",
-    "igdbId": 17245,
-    "gbId": 22135,
-    "gbGuid": "3030-22135",
-    "details": [
-      "Sega Saturn launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Panzer Dragoon",
-    "id": "ssat2",
-    "igdbId": 1667,
-    "gbId": 4489,
-    "gbGuid": "3030-4489",
-    "details": [
-      "Sega Saturn launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Pebble Beach Golf Links",
-    "id": "ssat3",
-    "igdbId": 4273,
-    "gbId": 3325,
-    "gbGuid": "3030-3325",
-    "details": [
-      "Sega Saturn launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Virtua Fighter",
-    "id": "ssat4",
-    "igdbId": 19734,
-    "gbId": 15584,
-    "gbGuid": "3030-15584",
-    "details": [
-      "Sega Saturn launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Worldwide Soccer: Sega International Victory Goal Edition",
-    "id": "ssat5",
-    "igdbId": 19755,
-    "gbId": 19794,
-    "gbGuid": "3030-19794",
-    "details": [
-      "Sega Saturn launch title",
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Albert Odyssey: Legend of Eldean",
-    "id": "ssat6",
+    "id": "ssat0",
     "igdbId": 15021,
     "gbId": 4216,
     "gbGuid": "3030-4216",
+    "tgdbId": 9611,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -176,16 +19,35 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
+    "name": "Alone in the Dark 2",
+    "id": "ssat1",
+    "igdbId": 1957,
+    "gbId": 13488,
+    "gbGuid": "3030-13488",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/Aloneinthedarkoejr.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
     "name": "Assault Suit Leynos 2",
-    "id": "ssat7",
+    "id": "ssat2",
     "igdbId": 45509,
     "gbId": 24278,
     "gbGuid": "3030-24278",
+    "tgdbId": 9195,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -199,16 +61,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Astal",
-    "id": "ssat8",
+    "id": "ssat3",
     "igdbId": 45495,
     "gbId": 13758,
     "gbGuid": "3030-13758",
+    "tgdbId": 10493,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -222,7 +85,7 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -233,11 +96,30 @@
     ]
   },
   {
+    "name": "Battle Arena Toshinden Ultimate Revenge Attack",
+    "id": "ssat4",
+    "igdbId": 77987,
+    "gbId": 11269,
+    "gbGuid": "3030-11269",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/batura_zpsf6ba4595.jpg",
+        "details": "Inverted Saturn logo on spine",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
     "name": "Battle Monsters",
-    "id": "ssat9",
+    "id": "ssat5",
     "igdbId": 45504,
     "gbId": 5047,
     "gbGuid": "3030-5047",
+    "tgdbId": 9830,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -251,16 +133,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Black Fire",
-    "id": "ssat10",
+    "id": "ssat6",
     "igdbId": 46087,
     "gbId": 47202,
     "gbGuid": "3030-47202",
+    "tgdbId": 14419,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -274,16 +157,35 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
+    "name": "Bottom of the 9th",
+    "id": "ssat7",
+    "igdbId": 3369,
+    "gbId": 20026,
+    "gbGuid": "3030-20026",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/Bottom9th.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
     "name": "Burning Rangers",
-    "id": "ssat11",
+    "id": "ssat8",
     "igdbId": 19666,
     "gbId": 5765,
     "gbGuid": "3030-5765",
+    "tgdbId": 9978,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -297,7 +199,82 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Casper",
+    "id": "ssat9",
+    "igdbId": 6345,
+    "gbId": 14860,
+    "gbGuid": "3030-14860",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/casperthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Center Ring Boxing",
+    "id": "ssat10",
+    "igdbId": 92548,
+    "gbId": 35528,
+    "gbGuid": "3030-35528",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/centerringboxing.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/crb.jpg",
+        "details": "inverted saturn logo on spine",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Clockwork Knight",
+    "id": "ssat11",
+    "igdbId": 19756,
+    "gbId": 962,
+    "gbGuid": "3030-962",
+    "tgdbId": 9981,
+    "details": [
+      "Sega Saturn launch title",
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
@@ -307,6 +284,7 @@
     "igdbId": 19717,
     "gbId": 29093,
     "gbGuid": "3030-29093",
+    "tgdbId": 9984,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -320,7 +298,7 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -330,6 +308,7 @@
     "igdbId": 45516,
     "gbId": 31291,
     "gbGuid": "3030-31291",
+    "tgdbId": 7777,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -343,16 +322,53 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "CrimeWave",
+    "name": "Corpse Killer: Graveyard Edition",
     "id": "ssat14",
+    "igdbId": 45492,
+    "gbId": 2817,
+    "gbGuid": "3030-2817",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/darklegendthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Crime Wave",
+    "id": "ssat15",
+    "igdbId": 12018,
+    "gbId": 12792,
+    "gbGuid": "3030-12792",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/Crimewavethast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "CrimeWave",
+    "id": "ssat16",
     "igdbId": 73152,
     "gbId": 19747,
     "gbGuid": "3030-19747",
+    "tgdbId": 10579,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -366,16 +382,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Cyber Speedway",
-    "id": "ssat15",
+    "id": "ssat17",
     "igdbId": 19740,
     "gbId": 18723,
     "gbGuid": "3030-18723",
+    "tgdbId": 10583,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -389,16 +406,35 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
+  },
+  {
+    "name": "Cyberia",
+    "id": "ssat18",
+    "igdbId": 4331,
+    "gbId": 18074,
+    "gbGuid": "3030-18074",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/cyberia.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "D-Xhird",
-    "id": "ssat16",
+    "id": "ssat19",
     "igdbId": 46668,
     "gbId": 26413,
     "gbGuid": "3030-26413",
+    "tgdbId": 33048,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -412,16 +448,35 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
+    "name": "Dark Legend",
+    "id": "ssat20",
+    "igdbId": 45525,
+    "gbId": 35536,
+    "gbGuid": "3030-35536",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/corpsekillerthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
     "name": "Dark Savior",
-    "id": "ssat17",
+    "id": "ssat21",
     "igdbId": 46058,
     "gbId": 18766,
     "gbGuid": "3030-18766",
+    "tgdbId": 11227,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -435,16 +490,41 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Daytona USA",
+    "id": "ssat22",
+    "igdbId": 17245,
+    "gbId": 22135,
+    "gbGuid": "3030-22135",
+    "tgdbId": 7766,
+    "details": [
+      "Sega Saturn launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Deep Fear",
-    "id": "ssat18",
+    "id": "ssat23",
     "igdbId": 46057,
     "gbId": 16413,
     "gbGuid": "3030-16413",
+    "tgdbId": 11230,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -458,16 +538,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Digital Pinball: Last Gladiators",
-    "id": "ssat19",
+    "id": "ssat24",
     "igdbId": 19737,
     "gbId": 10645,
     "gbGuid": "3030-10645",
+    "tgdbId": 6279,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -481,7 +562,7 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -492,8 +573,44 @@
     ]
   },
   {
+    "name": "Double Switch",
+    "id": "ssat25",
+    "igdbId": 139169,
+    "gbId": 12628,
+    "gbGuid": "3030-12628",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/DoubleSwitchthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Dragon Ball Z: Shin Butouden (Japan)",
+    "id": "ssat26",
+    "igdbId": 45464,
+    "gbId": 21997,
+    "gbGuid": "3030-21997",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/dragonballz.jpg",
+        "details": "misspelled the title on English spine",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
     "name": "Dungeon Master Nexus",
-    "id": "ssat20",
+    "id": "ssat27",
     "igdbId": 3801,
     "gbId": 61262,
     "gbGuid": "3030-61262",
@@ -510,16 +627,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Dungeons & Dragons Collection",
-    "id": "ssat21",
+    "id": "ssat28",
     "igdbId": 22831,
     "gbId": 19755,
     "gbGuid": "3030-19755",
+    "tgdbId": 30118,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -533,16 +651,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "F1 Challenge",
-    "id": "ssat22",
+    "id": "ssat29",
     "igdbId": 95383,
     "gbId": 39701,
     "gbGuid": "3030-39701",
+    "tgdbId": 6825,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -556,16 +675,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Ghen War",
-    "id": "ssat23",
+    "id": "ssat30",
     "igdbId": 45526,
     "gbId": 23639,
     "gbGuid": "3030-23639",
+    "tgdbId": 2397,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -579,13 +699,13 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Gotha",
-    "id": "ssat24",
+    "id": "ssat31",
     "igdbId": 92102,
     "gbId": 33446,
     "gbGuid": "3030-33446",
@@ -602,13 +722,13 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Grandia: Digital Museum",
-    "id": "ssat25",
+    "id": "ssat32",
     "igdbId": 21658,
     "gbId": 23434,
     "gbGuid": "3030-23434",
@@ -625,13 +745,13 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Gundam Gaiden 3",
-    "id": "ssat26",
+    "id": "ssat33",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -648,16 +768,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Gungriffon",
-    "id": "ssat27",
+    "id": "ssat34",
     "igdbId": 46054,
     "gbId": 7104,
     "gbGuid": "3030-7104",
+    "tgdbId": 11272,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -671,16 +792,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Hang-On GP",
-    "id": "ssat28",
+    "id": "ssat35",
     "igdbId": 46098,
     "gbId": 7503,
     "gbGuid": "3030-7503",
+    "tgdbId": 11273,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -694,16 +816,35 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
+  },
+  {
+    "name": "Hi-Octane",
+    "id": "ssat36",
+    "igdbId": 12434,
+    "gbId": 16730,
+    "gbGuid": "3030-16730",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/hi_octanethast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "High Velocity: Mountain Racing Challenge",
-    "id": "ssat29",
+    "id": "ssat37",
     "igdbId": 45519,
     "gbId": 34248,
     "gbGuid": "3030-34248",
+    "tgdbId": 6278,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -717,16 +858,53 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
+  },
+  {
+    "name": "Highway 2000",
+    "id": "ssat38",
+    "igdbId": 46097,
+    "gbId": 52583,
+    "gbGuid": "3030-52583",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/highway2000.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "In the Hunt",
+    "id": "ssat39",
+    "igdbId": 10456,
+    "gbId": 5178,
+    "gbGuid": "3030-5178",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/ITHuntthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Iron Storm",
-    "id": "ssat30",
+    "id": "ssat40",
     "igdbId": 8929,
     "gbId": 6756,
     "gbGuid": "3030-6756",
+    "tgdbId": 2396,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -740,39 +918,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "The Legend of Oasis",
-    "id": "ssat31",
-    "igdbId": 22504,
-    "gbId": 22635,
-    "gbGuid": "3030-22635",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Linkle Liver Story",
-    "id": "ssat32",
+    "id": "ssat41",
     "igdbId": 94005,
     "gbId": 23457,
     "gbGuid": "3030-23457",
+    "tgdbId": 55234,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -786,16 +942,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Lunacy",
-    "id": "ssat33",
+    "id": "ssat42",
     "igdbId": 71493,
     "gbId": 3997,
     "gbGuid": "3030-3997",
+    "tgdbId": 11290,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -809,16 +966,35 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
+    "name": "Madden NFL 97",
+    "id": "ssat43",
+    "igdbId": 4589,
+    "gbId": 6279,
+    "gbGuid": "3030-6279",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/mad97f.jpg",
+        "details": "manual upside down",
+        "type": "Assembly"
+      }
+    ]
+  },
+  {
     "name": "Magic Knight Rayearth",
-    "id": "ssat34",
+    "id": "ssat44",
     "igdbId": 105043,
     "gbId": 19038,
     "gbGuid": "3030-19038",
+    "tgdbId": 11295,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -832,16 +1008,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Majin Tensei",
-    "id": "ssat35",
+    "id": "ssat45",
     "igdbId": 38231,
     "gbId": 17102,
     "gbGuid": "3030-17102",
+    "tgdbId": 31478,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -855,16 +1032,112 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
+    "name": "Mega Man 8: Anniversary Collector's Edition",
+    "id": "ssat46",
+    "igdbId": 45182,
+    "gbId": 19393,
+    "gbGuid": "3030-19393",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/saturn_megaman8anniversarycollectorsedition_2.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Mega Man X3 (PAL)",
+    "id": "ssat47",
+    "igdbId": 1743,
+    "gbId": 16948,
+    "gbGuid": "3030-16948",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/meamanx3sat.jpg",
+        "details": "says 1-2 players on back",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Midway Presents Arcade's Greatest Hits: The Atari Collection 1",
+    "id": "ssat48",
+    "igdbId": 46045,
+    "gbId": 2851,
+    "gbGuid": "3030-2851",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/arcadegh.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/midwayatari1thast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Minnesota Fats: Pool Legend",
+    "id": "ssat49",
+    "igdbId": 4465,
+    "gbId": 32822,
+    "gbGuid": "3030-32822",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/minfatsthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Mortal Kombat Trilogy",
+    "id": "ssat50",
+    "igdbId": 4121,
+    "gbId": 8279,
+    "gbGuid": "3030-8279",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/mortalkombattrilogythast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
     "name": "Mr. Bones",
-    "id": "ssat36",
+    "id": "ssat51",
     "igdbId": 25804,
     "gbId": 13186,
     "gbGuid": "3030-13186",
+    "tgdbId": 9982,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -878,16 +1151,17 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Mystaria: The Realms of Lore",
-    "id": "ssat37",
+    "id": "ssat52",
     "igdbId": 45513,
     "gbId": 709,
     "gbGuid": "3030-709",
+    "tgdbId": 7938,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -901,16 +1175,59 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NBA Live 97",
+    "id": "ssat53",
+    "igdbId": 20134,
+    "gbId": 1356,
+    "gbGuid": "3030-1356",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/saturn_nbalive97thast.jpg",
+        "details": "\nsays thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "NFL '97",
+    "id": "ssat54",
+    "igdbId": 45485,
+    "gbId": 53218,
+    "gbGuid": "3030-53218",
+    "tgdbId": 11308,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Nanatsu Kaze No Shima Monogatari",
-    "id": "ssat38",
+    "id": "ssat55",
     "igdbId": 18493,
     "gbId": 21771,
     "gbGuid": "3030-21771",
+    "tgdbId": 50716,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -924,20 +1241,58 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
-    "name": "NFL '97",
-    "id": "ssat39",
-    "igdbId": 45485,
-    "gbId": 53218,
-    "gbGuid": "3030-53218",
+    "name": "Norse by Norse West: The Return of the Lost Vikings",
+    "id": "ssat56",
+    "igdbId": 2615,
+    "gbId": 4134,
+    "gbGuid": "3030-4134",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/saturn_lostvikings2thats.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Olympic Soccer (Japan)",
+    "id": "ssat57",
+    "igdbId": 4292,
+    "gbId": 22204,
+    "gbGuid": "3030-22204",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/olympicsoccerjapsat.png",
+        "details": "plays a Music CD Mr. Children\nways to find this version are the data number TFCC-88077 and it has it's own unique ID T-7073G",
+        "type": "Data"
+      }
+    ]
+  },
+  {
+    "name": "Panzer Dragoon",
+    "id": "ssat58",
+    "igdbId": 1667,
+    "gbId": 4489,
+    "gbGuid": "3030-4489",
+    "tgdbId": 9260,
     "details": [
-      "Sega Saturn exclusive"
+      "Sega Saturn launch title"
     ],
-    "isExclusive": [
+    "isExclusive": false,
+    "isLaunchTitle": [
       {
         "name": "Sega Saturn",
         "id": "ccl17",
@@ -947,16 +1302,16 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Panzer Dragoon Saga",
-    "id": "ssat40",
+    "id": "ssat59",
     "igdbId": 1671,
     "gbId": 3692,
     "gbGuid": "3030-3692",
+    "tgdbId": 6828,
     "details": [
       "Sega Saturn exclusive"
     ],
@@ -970,7 +1325,7 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -986,8 +1341,32 @@
     ]
   },
   {
+    "name": "Pebble Beach Golf Links",
+    "id": "ssat60",
+    "igdbId": 4273,
+    "gbId": 3325,
+    "gbGuid": "3030-3325",
+    "tgdbId": 675,
+    "details": [
+      "Sega Saturn launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Princess Quest",
-    "id": "ssat41",
+    "id": "ssat61",
     "igdbId": 77600,
     "gbId": 62710,
     "gbGuid": "3030-62710",
@@ -1004,835 +1383,19 @@
         "tgdbId": 17
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
-  },
-  {
-    "name": "Robotica",
-    "id": "ssat42",
-    "igdbId": 19744,
-    "gbId": 23289,
-    "gbGuid": "3030-23289",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/roboticatypo.jpg",
-        "details": "says field in manual should say shield ",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Saturn Bomberman",
-    "id": "ssat43",
-    "igdbId": 28393,
-    "gbId": 17854,
-    "gbGuid": "3030-17854",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Saturn Bomberman Fight!!",
-    "id": "ssat44",
-    "igdbId": 66221,
-    "gbId": 33442,
-    "gbGuid": "3030-33442",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Scud: The Disposable Assassin",
-    "id": "ssat45",
-    "igdbId": 45483,
-    "gbId": 11835,
-    "gbGuid": "3030-11835",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Shining Force III",
-    "id": "ssat46",
-    "igdbId": 28396,
-    "gbId": 8306,
-    "gbGuid": "3030-8306",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Shining the Holy Ark",
-    "id": "ssat47",
-    "igdbId": 46063,
-    "gbId": 16913,
-    "gbGuid": "3030-16913",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Shining Wisdom",
-    "id": "ssat48",
-    "igdbId": 46059,
-    "gbId": 20150,
-    "gbGuid": "3030-20150",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/shining2.png_zpsaxsggfzn.jpeg",
-        "details": "no red foil on spine or back",
-        "type": "Printing"
-      }
-    ]
-  },
-  {
-    "name": "Shinobi Legions",
-    "id": "ssat49",
-    "igdbId": 10221,
-    "gbId": 12895,
-    "gbGuid": "3030-12895",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/ShinobiLegionsthast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Shinrei Jusatsushi Taromaru",
-    "id": "ssat50",
-    "igdbId": 45456,
-    "gbId": 16726,
-    "gbGuid": "3030-16726",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Super Tempo",
-    "id": "ssat51",
-    "igdbId": 46050,
-    "gbId": 29099,
-    "gbGuid": "3030-29099",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Virtual Hydlide",
-    "id": "ssat52",
-    "igdbId": 19738,
-    "gbId": 4083,
-    "gbGuid": "3030-4083",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/virtualhylide.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Virtual Open Tennis",
-    "id": "ssat53",
-    "igdbId": 45477,
-    "gbId": 16599,
-    "gbGuid": "3030-16599",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Virus",
-    "id": "ssat54",
-    "igdbId": 102439,
-    "gbId": 5933,
-    "gbGuid": "3030-5933",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Wachenröder",
-    "id": "ssat55",
-    "igdbId": 93007,
-    "gbId": 14295,
-    "gbGuid": "3030-14295",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Wing Arms",
-    "id": "ssat56",
-    "igdbId": 19720,
-    "gbId": 4075,
-    "gbGuid": "3030-4075",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "World Series Baseball II",
-    "id": "ssat57",
-    "igdbId": 45511,
-    "gbId": 33005,
-    "gbGuid": "3030-33005",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Alone in the Dark 2",
-    "id": "ssat58",
-    "igdbId": 1957,
-    "gbId": 13488,
-    "gbGuid": "3030-13488",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/Aloneinthedarkoejr.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Midway Presents Arcade's Greatest Hits: The Atari Collection 1",
-    "id": "ssat59",
-    "igdbId": 46045,
-    "gbId": 2851,
-    "gbGuid": "3030-2851",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/arcadegh.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      },
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/midwayatari1thast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Battle Arena Toshinden Ultimate Revenge Attack",
-    "id": "ssat60",
-    "igdbId": 77987,
-    "gbId": 11269,
-    "gbGuid": "3030-11269",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/batura_zpsf6ba4595.jpg",
-        "details": "Inverted Saturn logo on spine",
-        "type": "Printing"
-      }
-    ]
-  },
-  {
-    "name": "Bottom of the 9th",
-    "id": "ssat61",
-    "igdbId": 3369,
-    "gbId": 20026,
-    "gbGuid": "3030-20026",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/Bottom9th.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Casper",
-    "id": "ssat62",
-    "igdbId": 6345,
-    "gbId": 14860,
-    "gbGuid": "3030-14860",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/casperthast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Center Ring Boxing",
-    "id": "ssat63",
-    "igdbId": 92548,
-    "gbId": 35528,
-    "gbGuid": "3030-35528",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/centerringboxing.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      },
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/crb.jpg",
-        "details": "inverted saturn logo on spine",
-        "type": "Printing"
-      }
-    ]
-  },
-  {
-    "name": "Corpse Killer: Graveyard Edition",
-    "id": "ssat64",
-    "igdbId": 45492,
-    "gbId": 2817,
-    "gbGuid": "3030-2817",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/darklegendthast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Crime Wave",
-    "id": "ssat65",
-    "igdbId": 12018,
-    "gbId": 12792,
-    "gbGuid": "3030-12792",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/Crimewavethast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Cyberia",
-    "id": "ssat66",
-    "igdbId": 4331,
-    "gbId": 18074,
-    "gbGuid": "3030-18074",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/cyberia.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Dark Legend",
-    "id": "ssat67",
-    "igdbId": 45525,
-    "gbId": 35536,
-    "gbGuid": "3030-35536",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/corpsekillerthast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Double Switch",
-    "id": "ssat68",
-    "igdbId": 139169,
-    "gbId": 12628,
-    "gbGuid": "3030-12628",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/DoubleSwitchthast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Dragon Ball Z: Shin Butouden (Japan)",
-    "id": "ssat69",
-    "igdbId": 45464,
-    "gbId": 21997,
-    "gbGuid": "3030-21997",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/dragonballz.jpg",
-        "details": "misspelled the title on English spine",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Hi-Octane",
-    "id": "ssat70",
-    "igdbId": 12434,
-    "gbId": 16730,
-    "gbGuid": "3030-16730",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/hi_octanethast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Highway 2000",
-    "id": "ssat71",
-    "igdbId": 46097,
-    "gbId": 52583,
-    "gbGuid": "3030-52583",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/highway2000.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "In the Hunt",
-    "id": "ssat72",
-    "igdbId": 10456,
-    "gbId": 5178,
-    "gbGuid": "3030-5178",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/ITHuntthast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Madden NFL 97",
-    "id": "ssat73",
-    "igdbId": 4589,
-    "gbId": 6279,
-    "gbGuid": "3030-6279",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/mad97f.jpg",
-        "details": "manual upside down",
-        "type": "Assembly"
-      }
-    ]
-  },
-  {
-    "name": "Mega Man 8: Anniversary Collector's Edition",
-    "id": "ssat74",
-    "igdbId": 45182,
-    "gbId": 19393,
-    "gbGuid": "3030-19393",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/saturn_megaman8anniversarycollectorsedition_2.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Mega Man X3 (PAL)",
-    "id": "ssat75",
-    "igdbId": 1743,
-    "gbId": 16948,
-    "gbGuid": "3030-16948",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/meamanx3sat.jpg",
-        "details": "says 1-2 players on back",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Minnesota Fats: Pool Legend",
-    "id": "ssat76",
-    "igdbId": 4465,
-    "gbId": 32822,
-    "gbGuid": "3030-32822",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/minfatsthast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Mortal Kombat Trilogy",
-    "id": "ssat77",
-    "igdbId": 4121,
-    "gbId": 8279,
-    "gbGuid": "3030-8279",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/mortalkombattrilogythast.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "NBA Live 97",
-    "id": "ssat78",
-    "igdbId": 20134,
-    "gbId": 1356,
-    "gbGuid": "3030-1356",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/saturn_nbalive97thast.jpg",
-        "details": "\nsays thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Norse by Norse West: The Return of the Lost Vikings",
-    "id": "ssat79",
-    "igdbId": 2615,
-    "gbId": 4134,
-    "gbGuid": "3030-4134",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/saturn_lostvikings2thats.jpg",
-        "details": "says thast in quality assurance description",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Olympic Soccer (Japan)",
-    "id": "ssat80",
-    "igdbId": 4292,
-    "gbId": 22204,
-    "gbGuid": "3030-22204",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/saturn/olympicsoccerjapsat.png",
-        "details": "plays a Music CD Mr. Children\nways to find this version are the data number TFCC-88077 and it has it's own unique ID T-7073G",
-        "type": "Data"
-      }
-    ]
   },
   {
     "name": "Pro Pinball: The Web",
-    "id": "ssat81",
+    "id": "ssat62",
     "igdbId": 18333,
     "gbId": 5661,
     "gbGuid": "3030-5661",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -1844,13 +1407,13 @@
   },
   {
     "name": "Rayman",
-    "id": "ssat82",
+    "id": "ssat63",
     "igdbId": 1963,
     "gbId": 18473,
     "gbGuid": "3030-18473",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -1862,13 +1425,13 @@
   },
   {
     "name": "Robo Pit",
-    "id": "ssat83",
+    "id": "ssat64",
     "igdbId": 20249,
     "gbId": 7883,
     "gbGuid": "3030-7883",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -1879,14 +1442,116 @@
     ]
   },
   {
+    "name": "Robotica",
+    "id": "ssat65",
+    "igdbId": 19744,
+    "gbId": 23289,
+    "gbGuid": "3030-23289",
+    "tgdbId": 11325,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/roboticatypo.jpg",
+        "details": "says field in manual should say shield ",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Saturn Bomberman",
+    "id": "ssat66",
+    "igdbId": 28393,
+    "gbId": 17854,
+    "gbGuid": "3030-17854",
+    "tgdbId": 11326,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Saturn Bomberman Fight!!",
+    "id": "ssat67",
+    "igdbId": 66221,
+    "gbId": 33442,
+    "gbGuid": "3030-33442",
+    "tgdbId": 49485,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Scud: The Disposable Assassin",
+    "id": "ssat68",
+    "igdbId": 45483,
+    "gbId": 11835,
+    "gbGuid": "3030-11835",
+    "tgdbId": 11327,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sengoku Blade: Sengoku Ace Episode II (Japan)",
-    "id": "ssat84",
+    "id": "ssat69",
     "igdbId": 39341,
     "gbId": 30541,
     "gbGuid": "3030-30541",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -1897,14 +1562,146 @@
     ]
   },
   {
+    "name": "Shining Force III",
+    "id": "ssat70",
+    "igdbId": 28396,
+    "gbId": 8306,
+    "gbGuid": "3030-8306",
+    "tgdbId": 185,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shining Wisdom",
+    "id": "ssat71",
+    "igdbId": 46059,
+    "gbId": 20150,
+    "gbGuid": "3030-20150",
+    "tgdbId": 11184,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/shining2.png_zpsaxsggfzn.jpeg",
+        "details": "no red foil on spine or back",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Shining the Holy Ark",
+    "id": "ssat72",
+    "igdbId": 46063,
+    "gbId": 16913,
+    "gbGuid": "3030-16913",
+    "tgdbId": 11174,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shinobi Legions",
+    "id": "ssat73",
+    "igdbId": 10221,
+    "gbId": 12895,
+    "gbGuid": "3030-12895",
+    "tgdbId": 11342,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/ShinobiLegionsthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Shinrei Jusatsushi Taromaru",
+    "id": "ssat74",
+    "igdbId": 45456,
+    "gbId": 16726,
+    "gbGuid": "3030-16726",
+    "tgdbId": 29448,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Space Hulk: Vengeance of the Blood Angels",
-    "id": "ssat85",
+    "id": "ssat75",
     "igdbId": 4330,
     "gbId": 1518,
     "gbGuid": "3030-1518",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -1916,13 +1713,13 @@
   },
   {
     "name": "Super Puzzle Fighter II Turbo",
-    "id": "ssat86",
+    "id": "ssat76",
     "igdbId": 20803,
     "gbId": 2755,
     "gbGuid": "3030-2755",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -1933,14 +1730,38 @@
     ]
   },
   {
+    "name": "Super Tempo",
+    "id": "ssat77",
+    "igdbId": 46050,
+    "gbId": 29099,
+    "gbGuid": "3030-29099",
+    "tgdbId": 38547,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tempest 2000",
-    "id": "ssat87",
+    "id": "ssat78",
     "igdbId": 9791,
     "gbId": 8496,
     "gbGuid": "3030-8496",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -1952,13 +1773,13 @@
   },
   {
     "name": "Tetris Plus",
-    "id": "ssat88",
+    "id": "ssat79",
     "igdbId": 20712,
     "gbId": 17808,
     "gbGuid": "3030-17808",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -1969,14 +1790,38 @@
     ]
   },
   {
+    "name": "The Legend of Oasis",
+    "id": "ssat80",
+    "igdbId": 22504,
+    "gbId": 22635,
+    "gbGuid": "3030-22635",
+    "tgdbId": 4106,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Theme Park",
-    "id": "ssat89",
+    "id": "ssat81",
     "igdbId": 283,
     "gbId": 6562,
     "gbGuid": "3030-6562",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -1988,13 +1833,13 @@
   },
   {
     "name": "Ultimate Mortal Kombat 3",
-    "id": "ssat90",
+    "id": "ssat82",
     "igdbId": 1621,
     "gbId": 2178,
     "gbGuid": "3030-2178",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -2005,14 +1850,38 @@
     ]
   },
   {
+    "name": "Virtua Fighter",
+    "id": "ssat83",
+    "igdbId": 19734,
+    "gbId": 15584,
+    "gbGuid": "3030-15584",
+    "tgdbId": 4928,
+    "details": [
+      "Sega Saturn launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Virtual Casino",
-    "id": "ssat91",
+    "id": "ssat84",
     "igdbId": 45517,
     "gbId": 32727,
     "gbGuid": "3030-32727",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -2023,14 +1892,140 @@
     ]
   },
   {
+    "name": "Virtual Hydlide",
+    "id": "ssat85",
+    "igdbId": 19738,
+    "gbId": 4083,
+    "gbGuid": "3030-4083",
+    "tgdbId": 11369,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/virtualhylide.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Virtual Open Tennis",
+    "id": "ssat86",
+    "igdbId": 45477,
+    "gbId": 16599,
+    "gbGuid": "3030-16599",
+    "tgdbId": 11371,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Virus",
+    "id": "ssat87",
+    "igdbId": 102439,
+    "gbId": 5933,
+    "gbGuid": "3030-5933",
+    "tgdbId": 30508,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wachenröder",
+    "id": "ssat88",
+    "igdbId": 93007,
+    "gbId": 14295,
+    "gbGuid": "3030-14295",
+    "tgdbId": 33718,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wing Arms",
+    "id": "ssat89",
+    "igdbId": 19720,
+    "gbId": 4075,
+    "gbGuid": "3030-4075",
+    "tgdbId": 2426,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "World Cup Golf: Professional Edition",
-    "id": "ssat92",
+    "id": "ssat90",
     "igdbId": 4340,
     "gbId": 58014,
     "gbGuid": "3030-58014",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -2041,14 +2036,72 @@
     ]
   },
   {
+    "name": "World Series Baseball II",
+    "id": "ssat91",
+    "igdbId": 45511,
+    "gbId": 33005,
+    "gbGuid": "3030-33005",
+    "tgdbId": 7942,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Worldwide Soccer: Sega International Victory Goal Edition",
+    "id": "ssat92",
+    "igdbId": 19755,
+    "gbId": 19794,
+    "gbGuid": "3030-19794",
+    "tgdbId": 11379,
+    "details": [
+      "Sega Saturn launch title",
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Worms",
     "id": "ssat93",
     "igdbId": 9331,
     "gbId": 2007,
     "gbGuid": "3030-2007",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {

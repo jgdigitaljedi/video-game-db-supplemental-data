@@ -8,7 +8,7 @@
     "details": [
       "Nintendo Famicom launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo Family Computer (Famicom)",
@@ -30,29 +30,7 @@
     "details": [
       "Nintendo Famicom launch title"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo Family Computer (Famicom)",
-        "id": "ccl51",
-        "igdbId": 99,
-        "gbId": 21,
-        "gbGuid": "3045-21"
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Popeye no Eigo Asobi",
-    "id": "nfam2",
-    "igdbId": 48641,
-    "gbId": 35883,
-    "gbGuid": "3030-35883",
-    "details": [
-      "Nintendo Famicom launch title"
-    ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo Family Computer (Famicom)",
@@ -67,13 +45,13 @@
   },
   {
     "name": "Dragon Buster",
-    "id": "nfam3",
+    "id": "nfam2",
     "igdbId": 38035,
     "gbId": 12337,
     "gbGuid": "3030-12337",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -85,13 +63,13 @@
   },
   {
     "name": "Faxanadu",
-    "id": "nfam4",
+    "id": "nfam3",
     "igdbId": 1974,
     "gbId": 7851,
     "gbGuid": "3030-7851",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -103,13 +81,13 @@
   },
   {
     "name": "GeGeGe no Kitaro - Yokai Daimakyo",
-    "id": "nfam5",
+    "id": "nfam4",
     "igdbId": 48317,
     "gbId": 40977,
     "gbGuid": "3030-40977",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -120,14 +98,36 @@
     ]
   },
   {
+    "name": "Popeye no Eigo Asobi",
+    "id": "nfam5",
+    "igdbId": 48641,
+    "gbId": 35883,
+    "gbGuid": "3030-35883",
+    "details": [
+      "Nintendo Famicom launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tecmo World Wrestling",
     "id": "nfam6",
     "igdbId": 48083,
     "gbId": 12836,
     "gbGuid": "3030-12836",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -144,8 +144,8 @@
     "gbId": 4567,
     "gbGuid": "3030-4567",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -162,8 +162,8 @@
     "gbId": 4208,
     "gbGuid": "3030-4208",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {
@@ -185,8 +185,8 @@
     "gbId": 37088,
     "gbGuid": "3030-37088",
     "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": [
       {

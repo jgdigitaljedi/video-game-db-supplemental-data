@@ -2,6 +2,7 @@ const path = require('path');
 const fs = require('fs');
 const _sortBy = require('lodash/sortBy');
 const _uniqBy = require('lodash/uniqBy');
+const _uniq = require('lodash/uniq');
 const _cloneDeep = require('lodash/cloneDeep');
 const chalk = require('chalk');
 
@@ -15,6 +16,7 @@ function getNewEntry(game) {
     igdbId: game.igdbId,
     gbId: game.gbId,
     gbGuid: game.gbGuid,
+    tgdbId: game.tgdbId || undefined,
     details: [],
     isExclusive: [],
     isLaunchTitle: [],
@@ -119,12 +121,14 @@ async function handleSpecialList(list, pData, final) {
           });
           const dedpuedSpecial = _uniqBy(finalClone[existingId].special, 'value');
           finalClone[existingId].special = dedpuedSpecial;
+          finalClone[existingId].details = _uniq([...finalClone[existingId].details, game.details]);
         } else {
           const newEntry = getNewEntry(game);
           newEntry.special.push({
             value: game.details,
             forPlatform: pData
           });
+          newEntry.details = [game.details];
           finalClone.push(newEntry);
         }
         if (listLast === i) {
@@ -194,8 +198,14 @@ function handleSpecial(lists, final, pData) {
       if (special.error) {
         throw special.error;
       }
-      const withIds = special.map((item, i) => {
+      const withIds = _sortBy(special, 'name').map((item, i) => {
         item.id = `${list.prefix}${i}`;
+        if (!item.isExclusive || !item.isExclusive.length) {
+          item.isExclusive = false;
+        }
+        if (!item.isLaunchTitle || !item.isLaunchTitle.length) {
+          item.isLaunchTitle = false;
+        }
         return item;
       });
       fs.writeFile(list.output, JSON.stringify(withIds, null, 2), error => {

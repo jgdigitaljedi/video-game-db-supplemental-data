@@ -1,14 +1,32 @@
 [
   {
-    "name": "Assassin's Creed Valhalla",
+    "name": "3D Billiards: Pool & Snooker Remastered",
     "id": "sps50",
+    "igdbId": 143828,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sony/ps5/poolps4.jpg",
+        "details": "title reads Panda Hero Remastered on spine",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Assassin's Creed Valhalla",
+    "id": "sps51",
     "igdbId": 133004,
     "gbId": 78229,
     "gbGuid": "3030-78229",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -24,14 +42,14 @@
   },
   {
     "name": "Astro's Playroom",
-    "id": "sps51",
+    "id": "sps52",
     "igdbId": 134597,
     "gbId": 78963,
     "gbGuid": "3030-78963",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -47,14 +65,14 @@
   },
   {
     "name": "Borderlands 3",
-    "id": "sps52",
+    "id": "sps53",
     "igdbId": 19164,
     "gbId": 52536,
     "gbGuid": "3030-52536",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -70,14 +88,14 @@
   },
   {
     "name": "Bugsnax",
-    "id": "sps53",
+    "id": "sps54",
     "igdbId": 134602,
     "gbId": 78965,
     "gbGuid": "3030-78965",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -93,83 +111,14 @@
   },
   {
     "name": "Call of Duty: Black Ops Cold War",
-    "id": "sps54",
+    "id": "sps55",
     "igdbId": 137001,
     "gbId": 73518,
     "gbGuid": "3030-73518",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Dead by Daylight",
-    "id": "sps55",
-    "igdbId": 18866,
-    "gbId": 52693,
-    "gbGuid": "3030-52693",
-    "details": [
-      "Sony PlayStation 5 launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Demon's Souls",
-    "id": "sps56",
-    "igdbId": 134606,
-    "gbId": 78966,
-    "gbGuid": "3030-78966",
-    "details": [
-      "Sony PlayStation 5 launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Devil May Cry 5: Special Edition",
-    "id": "sps57",
-    "igdbId": 138932,
-    "gbId": 68910,
-    "gbGuid": "3030-68910",
-    "details": [
-      "Sony PlayStation 5 launch title"
-    ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -185,14 +134,83 @@
   },
   {
     "name": "DIRT 5",
-    "id": "sps58",
+    "id": "sps56",
     "igdbId": 133301,
     "gbId": 78340,
     "gbGuid": "3030-78340",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dead by Daylight",
+    "id": "sps57",
+    "igdbId": 18866,
+    "gbId": 52693,
+    "gbGuid": "3030-52693",
+    "details": [
+      "Sony PlayStation 5 launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Demon's Souls",
+    "id": "sps58",
+    "igdbId": 134606,
+    "gbId": 78966,
+    "gbGuid": "3030-78966",
+    "details": [
+      "Sony PlayStation 5 launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Devil May Cry 5: Special Edition",
+    "id": "sps59",
+    "igdbId": 138932,
+    "gbId": 68910,
+    "gbGuid": "3030-68910",
+    "details": [
+      "Sony PlayStation 5 launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -208,14 +226,14 @@
   },
   {
     "name": "Fortnite",
-    "id": "sps59",
+    "id": "sps510",
     "igdbId": 1905,
     "gbId": 37030,
     "gbGuid": "3030-37030",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -231,14 +249,14 @@
   },
   {
     "name": "Godfall",
-    "id": "sps510",
+    "id": "sps511",
     "igdbId": 127343,
     "gbId": 76343,
     "gbGuid": "3030-76343",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -254,14 +272,14 @@
   },
   {
     "name": "Goonya Fighter",
-    "id": "sps511",
+    "id": "sps512",
     "igdbId": 119523,
     "gbId": 80783,
     "gbGuid": "3030-80783",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -276,15 +294,33 @@
     "misprintsErrors": []
   },
   {
+    "name": "Hot Wheels Unleashed: Challenge Accepted Edition",
+    "id": "sps513",
+    "igdbId": 144072,
+    "gbId": 81925,
+    "gbGuid": "3030-81925",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sony/ps5/hotwheelsp5.jpg",
+        "details": "plastic car holder placed in upside down",
+        "type": "Assembly"
+      }
+    ]
+  },
+  {
     "name": "King Oddball",
-    "id": "sps512",
+    "id": "sps514",
     "igdbId": 20079,
     "gbId": 44976,
     "gbGuid": "3030-44976",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -300,37 +336,14 @@
   },
   {
     "name": "Maneater",
-    "id": "sps513",
+    "id": "sps515",
     "igdbId": 46800,
     "gbId": 68953,
     "gbGuid": "3030-68953",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Marvel's Spider-Man: Miles Morales",
-    "id": "sps514",
-    "igdbId": 134581,
-    "gbId": 78950,
-    "gbGuid": "3030-78950",
-    "details": [
-      "Sony PlayStation 5 launch title"
-    ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -346,14 +359,37 @@
   },
   {
     "name": "Marvel's Spider-Man Remastered",
-    "id": "sps515",
+    "id": "sps516",
     "igdbId": 138949,
     "gbId": 54233,
     "gbGuid": "3030-54233",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "id": "sps517",
+    "igdbId": 134581,
+    "gbId": 78950,
+    "gbGuid": "3030-78950",
+    "details": [
+      "Sony PlayStation 5 launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -369,14 +405,14 @@
   },
   {
     "name": "Mortal Kombat 11: Ultimate",
-    "id": "sps516",
+    "id": "sps518",
     "igdbId": 139446,
     "gbId": 71305,
     "gbGuid": "3030-71305",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -392,14 +428,14 @@
   },
   {
     "name": "NBA 2K21",
-    "id": "sps517",
+    "id": "sps519",
     "igdbId": 134599,
     "gbId": 78964,
     "gbGuid": "3030-78964",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -415,14 +451,14 @@
   },
   {
     "name": "No Man's Sky",
-    "id": "sps518",
+    "id": "sps520",
     "igdbId": 3225,
     "gbId": 44656,
     "gbGuid": "3030-44656",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -438,14 +474,14 @@
   },
   {
     "name": "Observer: System Redux",
-    "id": "sps519",
+    "id": "sps521",
     "igdbId": 132165,
     "gbId": 54218,
     "gbGuid": "3030-54218",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -461,37 +497,14 @@
   },
   {
     "name": "Overcooked! All You Can Eat",
-    "id": "sps520",
+    "id": "sps522",
     "igdbId": 135915,
     "gbId": 79812,
     "gbGuid": "3030-79812",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "The Pathless",
-    "id": "sps521",
-    "igdbId": 113118,
-    "gbId": 71303,
-    "gbGuid": "3030-71303",
-    "details": [
-      "Sony PlayStation 5 launch title"
-    ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -507,14 +520,14 @@
   },
   {
     "name": "Planet Coaster: Console Edition",
-    "id": "sps522",
+    "id": "sps523",
     "igdbId": 125627,
     "gbId": 50018,
     "gbGuid": "3030-50018",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -530,14 +543,14 @@
   },
   {
     "name": "Poker Club",
-    "id": "sps523",
+    "id": "sps524",
     "igdbId": 138204,
     "gbId": null,
     "gbGuid": null,
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -553,14 +566,14 @@
   },
   {
     "name": "Sackboy: A Big Adventure",
-    "id": "sps524",
+    "id": "sps525",
     "igdbId": 134585,
     "gbId": 78956,
     "gbGuid": "3030-78956",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -575,38 +588,33 @@
     "misprintsErrors": []
   },
   {
-    "name": "Warhammer: Chaosbane - Slayer Edition",
-    "id": "sps525",
-    "igdbId": 139948,
-    "gbId": 68781,
-    "gbGuid": "3030-68781",
-    "details": [
-      "Sony PlayStation 5 launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Famicom Disk System",
-        "id": "ccl48",
-        "igdbId": 51,
-        "gbId": 91,
-        "gbGuid": "3045-91",
-        "tgdbId": 4936
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Watch Dogs: Legion",
+    "name": "Tales of Arise (CE)",
     "id": "sps526",
-    "igdbId": 100413,
-    "gbId": 73709,
-    "gbGuid": "3030-73709",
+    "igdbId": 119270,
+    "gbId": 73746,
+    "gbGuid": "3030-73746",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sony/ps5/TOA1.jpg",
+        "details": "severely misaligned print on box",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "The Pathless",
+    "id": "sps527",
+    "igdbId": 113118,
+    "gbId": 71303,
+    "gbGuid": "3030-71303",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -622,14 +630,14 @@
   },
   {
     "name": "WRC 9",
-    "id": "sps527",
+    "id": "sps528",
     "igdbId": 133773,
     "gbId": 77667,
     "gbGuid": "3030-77667",
     "details": [
       "Sony PlayStation 5 launch title"
     ],
-    "isExclusive": [],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Famicom Disk System",
@@ -644,57 +652,49 @@
     "misprintsErrors": []
   },
   {
-    "name": "3D Billiards: Pool & Snooker Remastered",
-    "id": "sps528",
-    "igdbId": 143828,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sony/ps5/poolps4.jpg",
-        "details": "title reads Panda Hero Remastered on spine",
-        "type": "Typo"
-      }
-    ]
-  },
-  {
-    "name": "Hot Wheels Unleashed: Challenge Accepted Edition",
+    "name": "Warhammer: Chaosbane - Slayer Edition",
     "id": "sps529",
-    "igdbId": 144072,
-    "gbId": 81925,
-    "gbGuid": "3030-81925",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
+    "igdbId": 139948,
+    "gbId": 68781,
+    "gbGuid": "3030-68781",
+    "details": [
+      "Sony PlayStation 5 launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
       {
-        "image": "https://iamerror.gamehacking.org/Sony/ps5/hotwheelsp5.jpg",
-        "details": "plastic car holder placed in upside down",
-        "type": "Assembly"
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
       }
-    ]
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "name": "Tales of Arise (CE)",
+    "name": "Watch Dogs: Legion",
     "id": "sps530",
-    "igdbId": 119270,
-    "gbId": 73746,
-    "gbGuid": "3030-73746",
-    "details": [],
-    "isExclusive": [],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": [
+    "igdbId": 100413,
+    "gbId": 73709,
+    "gbGuid": "3030-73709",
+    "details": [
+      "Sony PlayStation 5 launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
       {
-        "image": "https://iamerror.gamehacking.org/Sony/ps5/TOA1.jpg",
-        "details": "severely misaligned print on box",
-        "type": "Printing"
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
       }
-    ]
+    ],
+    "special": [],
+    "misprintsErrors": []
   }
 ]

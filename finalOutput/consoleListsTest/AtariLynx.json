@@ -1,10 +1,83 @@
 [
   {
-    "name": "Blue Lightning",
+    "name": "Awesome Golf",
     "id": "alnx0",
+    "igdbId": 12363,
+    "gbId": 16701,
+    "gbGuid": "3030-16701",
+    "tgdbId": 23773,
+    "details": [
+      "Atari Lynx exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari Lynx",
+        "id": "ccl32",
+        "igdbId": 61,
+        "gbId": 7,
+        "gbGuid": "3045-7",
+        "tgdbId": 4924
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Battle Wheels",
+    "id": "alnx1",
+    "igdbId": 46922,
+    "gbId": 13646,
+    "gbGuid": "3030-13646",
+    "tgdbId": 19539,
+    "details": [
+      "Atari Lynx exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari Lynx",
+        "id": "ccl32",
+        "igdbId": 61,
+        "gbId": 7,
+        "gbGuid": "3045-7",
+        "tgdbId": 4924
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bill & Ted's Excellent Adventure",
+    "id": "alnx2",
+    "igdbId": 14302,
+    "gbId": 7523,
+    "gbGuid": "3030-7523",
+    "tgdbId": 22406,
+    "details": [
+      "Atari Lynx exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari Lynx",
+        "id": "ccl32",
+        "igdbId": 61,
+        "gbId": 7,
+        "gbGuid": "3045-7",
+        "tgdbId": 4924
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Blue Lightning",
+    "id": "alnx3",
     "igdbId": 74903,
     "gbId": 3142,
     "gbGuid": "3030-3142",
+    "tgdbId": 5256,
     "details": [
       "Atari Lynx launch title",
       "Atari Lynx exclusive"
@@ -33,11 +106,132 @@
     "misprintsErrors": []
   },
   {
+    "name": "Bubble Trouble",
+    "id": "alnx4",
+    "igdbId": 40836,
+    "gbId": 1886,
+    "gbGuid": "3030-1886",
+    "tgdbId": 22408,
+    "details": [
+      "Atari Lynx exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari Lynx",
+        "id": "ccl32",
+        "igdbId": 61,
+        "gbId": 7,
+        "gbGuid": "3045-7",
+        "tgdbId": 4924
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "California Games",
+    "id": "alnx5",
+    "igdbId": 11984,
+    "gbId": 3193,
+    "gbGuid": "3030-3193",
+    "tgdbId": 1662,
+    "details": [
+      "Atari Lynx launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Atari Lynx",
+        "id": "ccl32",
+        "igdbId": 61,
+        "gbId": 7,
+        "gbGuid": "3045-7",
+        "tgdbId": 4924
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Checkered Flag",
+    "id": "alnx6",
+    "igdbId": 40815,
+    "gbId": 12786,
+    "gbGuid": "3030-12786",
+    "tgdbId": 14797,
+    "details": [
+      "Atari Lynx exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari Lynx",
+        "id": "ccl32",
+        "igdbId": 61,
+        "gbId": 7,
+        "gbGuid": "3045-7",
+        "tgdbId": 4924
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dirty Larry: Renegade Cop",
+    "id": "alnx7",
+    "igdbId": 72204,
+    "gbId": 5656,
+    "gbGuid": "3030-5656",
+    "tgdbId": 19542,
+    "details": [
+      "Atari Lynx exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari Lynx",
+        "id": "ccl32",
+        "igdbId": 61,
+        "gbId": 7,
+        "gbGuid": "3045-7",
+        "tgdbId": 4924
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dracula: The Undead",
+    "id": "alnx8",
+    "igdbId": 46920,
+    "gbId": 5635,
+    "gbGuid": "3030-5635",
+    "tgdbId": 19550,
+    "details": [
+      "Atari Lynx exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari Lynx",
+        "id": "ccl32",
+        "igdbId": 61,
+        "gbId": 7,
+        "gbGuid": "3045-7",
+        "tgdbId": 4924
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Electrocop",
-    "id": "alnx1",
+    "id": "alnx9",
     "igdbId": 40832,
     "gbId": 11150,
     "gbGuid": "3030-11150",
+    "tgdbId": 19551,
     "details": [
       "Atari Lynx launch title",
       "Atari Lynx exclusive"
@@ -67,10 +261,11 @@
   },
   {
     "name": "Gates of Zendocon",
-    "id": "alnx2",
+    "id": "alnx10",
     "igdbId": 6035,
     "gbId": 6909,
     "gbGuid": "3030-6909",
+    "tgdbId": 19552,
     "details": [
       "Atari Lynx launch title",
       "Atari Lynx exclusive"
@@ -99,218 +294,12 @@
     "misprintsErrors": []
   },
   {
-    "name": "California Games",
-    "id": "alnx3",
-    "igdbId": 11984,
-    "gbId": 3193,
-    "gbGuid": "3030-3193",
-    "details": [
-      "Atari Lynx launch title"
-    ],
-    "isExclusive": [],
-    "isLaunchTitle": [
-      {
-        "name": "Atari Lynx",
-        "id": "ccl32",
-        "igdbId": 61,
-        "gbId": 7,
-        "gbGuid": "3045-7",
-        "tgdbId": 4924
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Awesome Golf",
-    "id": "alnx4",
-    "igdbId": 12363,
-    "gbId": 16701,
-    "gbGuid": "3030-16701",
-    "details": [
-      "Atari Lynx exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari Lynx",
-        "id": "ccl32",
-        "igdbId": 61,
-        "gbId": 7,
-        "gbGuid": "3045-7",
-        "tgdbId": 4924
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Battle Wheels",
-    "id": "alnx5",
-    "igdbId": 46922,
-    "gbId": 13646,
-    "gbGuid": "3030-13646",
-    "details": [
-      "Atari Lynx exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari Lynx",
-        "id": "ccl32",
-        "igdbId": 61,
-        "gbId": 7,
-        "gbGuid": "3045-7",
-        "tgdbId": 4924
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Bill & Ted's Excellent Adventure",
-    "id": "alnx6",
-    "igdbId": 14302,
-    "gbId": 7523,
-    "gbGuid": "3030-7523",
-    "details": [
-      "Atari Lynx exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari Lynx",
-        "id": "ccl32",
-        "igdbId": 61,
-        "gbId": 7,
-        "gbGuid": "3045-7",
-        "tgdbId": 4924
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Bubble Trouble",
-    "id": "alnx7",
-    "igdbId": 40836,
-    "gbId": 1886,
-    "gbGuid": "3030-1886",
-    "details": [
-      "Atari Lynx exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari Lynx",
-        "id": "ccl32",
-        "igdbId": 61,
-        "gbId": 7,
-        "gbGuid": "3045-7",
-        "tgdbId": 4924
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Checkered Flag",
-    "id": "alnx8",
-    "igdbId": 40815,
-    "gbId": 12786,
-    "gbGuid": "3030-12786",
-    "details": [
-      "Atari Lynx exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari Lynx",
-        "id": "ccl32",
-        "igdbId": 61,
-        "gbId": 7,
-        "gbGuid": "3045-7",
-        "tgdbId": 4924
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Dirty Larry: Renegade Cop",
-    "id": "alnx9",
-    "igdbId": 72204,
-    "gbId": 5656,
-    "gbGuid": "3030-5656",
-    "details": [
-      "Atari Lynx exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari Lynx",
-        "id": "ccl32",
-        "igdbId": 61,
-        "gbId": 7,
-        "gbGuid": "3045-7",
-        "tgdbId": 4924
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Dracula: The Undead",
-    "id": "alnx10",
-    "igdbId": 46920,
-    "gbId": 5635,
-    "gbGuid": "3030-5635",
-    "details": [
-      "Atari Lynx exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari Lynx",
-        "id": "ccl32",
-        "igdbId": 61,
-        "gbId": 7,
-        "gbGuid": "3045-7",
-        "tgdbId": 4924
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "The Fidelity Ultimate Chess Challenge",
-    "id": "alnx11",
-    "igdbId": 40838,
-    "gbId": 16214,
-    "gbGuid": "3030-16214",
-    "details": [
-      "Atari Lynx exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari Lynx",
-        "id": "ccl32",
-        "igdbId": 61,
-        "gbId": 7,
-        "gbGuid": "3045-7",
-        "tgdbId": 4924
-      }
-    ],
-    "isLaunchTitle": [],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Gauntlet: The Third Encounter",
-    "id": "alnx12",
+    "id": "alnx11",
     "igdbId": 7295,
     "gbId": 13636,
     "gbGuid": "3030-13636",
+    "tgdbId": 22418,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -324,16 +313,17 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Gordo 106",
-    "id": "alnx13",
+    "id": "alnx12",
     "igdbId": 40837,
     "gbId": 18537,
     "gbGuid": "3030-18537",
+    "tgdbId": 22419,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -347,16 +337,17 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Hockey",
-    "id": "alnx14",
+    "id": "alnx13",
     "igdbId": 68153,
     "gbId": 16958,
     "gbGuid": "3030-16958",
+    "tgdbId": 22421,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -370,16 +361,17 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Kung Food",
-    "id": "alnx15",
+    "id": "alnx14",
     "igdbId": 12365,
     "gbId": 1030,
     "gbGuid": "3030-1030",
+    "tgdbId": 22428,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -393,16 +385,17 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Lynx Casino",
-    "id": "alnx16",
+    "id": "alnx15",
     "igdbId": 40857,
     "gbId": 8529,
     "gbGuid": "3030-8529",
+    "tgdbId": 22431,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -416,16 +409,17 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Malibu Bikini Volleyball",
-    "id": "alnx17",
+    "id": "alnx16",
     "igdbId": 40856,
     "gbId": null,
     "gbGuid": null,
+    "tgdbId": 22432,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -439,16 +433,17 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "NFL Football",
-    "id": "alnx18",
+    "id": "alnx17",
     "igdbId": 64743,
     "gbId": 15289,
     "gbGuid": "3030-15289",
+    "tgdbId": 1965,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -462,16 +457,17 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Police Force",
-    "id": "alnx19",
+    "id": "alnx18",
     "igdbId": 10709,
     "gbId": 35209,
     "gbGuid": "3030-35209",
+    "tgdbId": 9035,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -485,16 +481,17 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Power Factor",
-    "id": "alnx20",
+    "id": "alnx19",
     "igdbId": 62298,
     "gbId": 45163,
     "gbGuid": "3030-45163",
+    "tgdbId": 27051,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -508,16 +505,17 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Robo-Squash",
-    "id": "alnx21",
+    "id": "alnx20",
     "igdbId": 40833,
     "gbId": 22147,
     "gbGuid": "3030-22147",
+    "tgdbId": 19611,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -531,16 +529,17 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
   {
     "name": "Super Asteroids & Missile Command",
-    "id": "alnx22",
+    "id": "alnx21",
     "igdbId": 40863,
     "gbId": 34026,
     "gbGuid": "3030-34026",
+    "tgdbId": 27053,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -554,7 +553,31 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Fidelity Ultimate Chess Challenge",
+    "id": "alnx22",
+    "igdbId": 40838,
+    "gbId": 16214,
+    "gbGuid": "3030-16214",
+    "tgdbId": 65279,
+    "details": [
+      "Atari Lynx exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari Lynx",
+        "id": "ccl32",
+        "igdbId": 61,
+        "gbId": 7,
+        "gbGuid": "3045-7",
+        "tgdbId": 4924
+      }
+    ],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -564,6 +587,7 @@
     "igdbId": 121927,
     "gbId": 3001,
     "gbGuid": "3030-3001",
+    "tgdbId": 19557,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -577,7 +601,7 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -587,6 +611,7 @@
     "igdbId": 40864,
     "gbId": 13458,
     "gbGuid": "3030-13458",
+    "tgdbId": 27050,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -600,7 +625,7 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -623,7 +648,7 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   },
@@ -633,6 +658,7 @@
     "igdbId": 12371,
     "gbId": 22557,
     "gbGuid": "3030-22557",
+    "tgdbId": 19560,
     "details": [
       "Atari Lynx exclusive"
     ],
@@ -646,7 +672,7 @@
         "tgdbId": 4924
       }
     ],
-    "isLaunchTitle": [],
+    "isLaunchTitle": false,
     "special": [],
     "misprintsErrors": []
   }
