@@ -1,7 +1,168 @@
 [
   {
-    "name": "Arumana no Kiseki",
+    "name": "Baseball",
     "id": "fds0",
+    "igdbId": 7580,
+    "gbId": 8145,
+    "gbGuid": "3030-8145",
+    "details": [
+      "Famicom Disk System launch title"
+    ],
+    "isExclusive": [],
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Golf",
+    "id": "fds1",
+    "igdbId": 3399,
+    "gbId": 22096,
+    "gbGuid": "3030-22096",
+    "details": [
+      "Famicom Disk System launch title"
+    ],
+    "isExclusive": [],
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Legend of Zelda",
+    "id": "fds2",
+    "igdbId": 1022,
+    "gbId": 11949,
+    "gbGuid": "3030-11949",
+    "details": [
+      "Famicom Disk System launch title"
+    ],
+    "isExclusive": [],
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mah Jong",
+    "id": "fds3",
+    "igdbId": 16610,
+    "gbId": 37123,
+    "gbGuid": "3030-37123",
+    "details": [
+      "Famicom Disk System launch title"
+    ],
+    "isExclusive": [],
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Soccer",
+    "id": "fds4",
+    "igdbId": 86375,
+    "gbId": 12955,
+    "gbGuid": "3030-12955",
+    "details": [
+      "Famicom Disk System launch title"
+    ],
+    "isExclusive": [],
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Mario Bros.",
+    "id": "fds5",
+    "igdbId": 358,
+    "gbId": 15544,
+    "gbGuid": "3030-15544",
+    "details": [
+      "Famicom Disk System launch title"
+    ],
+    "isExclusive": [],
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tennis",
+    "id": "fds6",
+    "igdbId": 74548,
+    "gbId": 20780,
+    "gbGuid": "3030-20780",
+    "details": [
+      "Famicom Disk System launch title"
+    ],
+    "isExclusive": [],
+    "isLaunchTitle": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Arumana no Kiseki",
+    "id": "fds7",
     "igdbId": 41255,
     "gbId": 35518,
     "gbGuid": "3030-35518",
@@ -24,7 +185,7 @@
   },
   {
     "name": "Cleopatra no Mahou",
-    "id": "fds1",
+    "id": "fds8",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -47,7 +208,7 @@
   },
   {
     "name": "Dead Zone",
-    "id": "fds2",
+    "id": "fds9",
     "igdbId": 41278,
     "gbId": 41772,
     "gbGuid": "3030-41772",
@@ -70,7 +231,7 @@
   },
   {
     "name": "Doremikko",
-    "id": "fds3",
+    "id": "fds10",
     "igdbId": 41315,
     "gbId": null,
     "gbGuid": null,
@@ -93,7 +254,7 @@
   },
   {
     "name": "Falsion",
-    "id": "fds4",
+    "id": "fds11",
     "igdbId": 64648,
     "gbId": 39611,
     "gbGuid": "3030-39611",
@@ -116,7 +277,7 @@
   },
   {
     "name": "Gall Force: Eternal Story",
-    "id": "fds5",
+    "id": "fds12",
     "igdbId": 107627,
     "gbId": 42172,
     "gbGuid": "3030-42172",
@@ -139,7 +300,7 @@
   },
   {
     "name": "The Sword of Kalin",
-    "id": "fds6",
+    "id": "fds13",
     "igdbId": 41286,
     "gbId": 39606,
     "gbGuid": "3030-39606",
@@ -162,7 +323,7 @@
   },
   {
     "name": "Knight Move",
-    "id": "fds7",
+    "id": "fds14",
     "igdbId": 41270,
     "gbId": 40461,
     "gbGuid": "3030-40461",
@@ -185,7 +346,7 @@
   },
   {
     "name": "Meikyuu Jiin Dababa",
-    "id": "fds8",
+    "id": "fds15",
     "igdbId": 41290,
     "gbId": 39304,
     "gbGuid": "3030-39304",
@@ -208,7 +369,7 @@
   },
   {
     "name": "Nakayama Miho no Tokimeki High School",
-    "id": "fds9",
+    "id": "fds16",
     "igdbId": 41284,
     "gbId": 37810,
     "gbGuid": "3030-37810",
@@ -231,7 +392,7 @@
   },
   {
     "name": "Otocky",
-    "id": "fds10",
+    "id": "fds17",
     "igdbId": 41234,
     "gbId": 22383,
     "gbGuid": "3030-22383",
@@ -254,7 +415,7 @@
   },
   {
     "name": "Risa no Yousei Densetsu",
-    "id": "fds11",
+    "id": "fds18",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -277,7 +438,7 @@
   },
   {
     "name": "Suishō no Dragon",
-    "id": "fds12",
+    "id": "fds19",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -300,7 +461,7 @@
   },
   {
     "name": "Super Boy Allan",
-    "id": "fds13",
+    "id": "fds20",
     "igdbId": 41305,
     "gbId": 42272,
     "gbGuid": "3030-42272",
@@ -323,7 +484,7 @@
   },
   {
     "name": "Tama and Friends",
-    "id": "fds14",
+    "id": "fds21",
     "igdbId": 80502,
     "gbId": 40596,
     "gbGuid": "3030-40596",
@@ -346,7 +507,7 @@
   },
   {
     "name": "Time Twist Rekishi no Katasumi de... - Kouhen",
-    "id": "fds15",
+    "id": "fds22",
     "igdbId": 41361,
     "gbId": 37842,
     "gbGuid": "3030-37842",
@@ -369,7 +530,7 @@
   },
   {
     "name": "Yūyūki",
-    "id": "fds16",
+    "id": "fds23",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,

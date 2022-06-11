@@ -103,7 +103,7 @@ async function handleSpecialList(list, pData, final) {
     try {
       let finalClone = _cloneDeep(final);
       if (!Array.isArray(finalClone)) {
-        console.log('not an array', list);
+        console.log('not an array', JSON.parse(finalClone));
       }
       const finalsIds = finalClone.map(g => g.igdbId);
       const listLast = (list && list.length - 1) || 0;

@@ -7,6 +7,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - 360toonebcX - Xbox 360 to Xbox One backward compatible games (Xbox360ToXboxOne.json) | GAMES LIST
 - bccX - Backward Compatible Consoles (backwardCompatibleConsoles.json) | CONSOLE/PLATFORM LIST
 - gbbcX - Game Boy to Game Boy Advance backward compatibility issues (gbToGbaBc.json) | GAMES LIST
+- ngpcbcX - Neo Geo Pocket Color to Neo Geo Pocket backward compatible games (ngpcToNgp.json) | GAMES LIST
 - psbcX - PlayStation to PlayStation 2 backward compatibility issues (ps1ToPs2Bc.json) | GAMES LIST
 - xbto360bcX - Xbox to Xbox 360 backward compatible games (XboxToXbox360.json) | GAMES LIST
 - xbtoonebcX - Xbox to Xbox One backward compatible games (XboxToXboxOne.json) | GAMES LIST

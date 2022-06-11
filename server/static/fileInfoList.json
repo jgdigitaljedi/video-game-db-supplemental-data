@@ -1130,5 +1130,11 @@
     "filePath": "../textFilesToBeConverted/launchTitles/wonderswanLaunchTitles.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Neo Geo Pocket Color backward compatible games",
+    "filePath": "../textFilesToBeConverted/backwardCompatibility/ngpcToNgp.json",
+    "type": "Game",
+    "complete": true
   }
 ]

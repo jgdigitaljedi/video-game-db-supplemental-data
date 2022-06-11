@@ -17,3 +17,5 @@
 | Neo Geo AES                      |     | X   |
 | Nintendo Famicom                 |     | X   |
 | Neo Geo CD                       | X   |     |
+| WonderSwan Color                 |     | X   |
+| WonderSwan                       |     | X   |

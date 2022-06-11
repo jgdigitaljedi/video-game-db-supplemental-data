@@ -585,7 +585,7 @@ module.exports.listData = [
     )),
     exclusives: null,
     misprintsAndErrors: null,
-    special: null,
+    special: [require(path.resolve(smallFiles, 'backwardCompatibilityLists/ngpcToNgp.json'))],
     output: path.resolve(consoleLists, 'NeoGeoPocketColor.json')
   },
   {
