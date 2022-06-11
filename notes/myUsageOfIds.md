@@ -64,6 +64,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 - xb1ltX - Microsoft Xbox One launch titles (xboxOneLaunchTitles.json) | GAMES LIST
 - xbsltX - Microsoft Xbox Series X|S launch titles (xboxSeriesLaunchTitles.json) | GAMES LIST
 - wltX - Nintendo Wii launch titles (wiiLaunchTitles.json) | GAMES LIST
+- wsctX - Bandai WonderSwan Color launch titles (wonderswanColorLaunchTitles.json) | GAMES LIST
+- wstX - Bandai WonderSwan launch titles (wonderswanLaunchTitles.json) | GAMES LIST
 - wultX - Nintendo Wii U launch titles (wiiULaunchTitles.json) | GAMES LIST
 
 ### Region Lock Related

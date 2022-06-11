@@ -760,5 +760,28 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'NeoGeoCD.json')
+  },
+  {
+    name: 'Bandai WonderSwan Color',
+    id: 'ccl53',
+    prefix: 'bwsc',
+    launchTitles: require(path.resolve(
+      smallFiles,
+      'launchTitles/wonderswanColorLaunchTitles.json'
+    )),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'BandaiWonderSwanColor.json')
+  },
+  {
+    name: 'Bandai WonderSwan',
+    id: 'ccl54',
+    prefix: 'bws',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/wonderswanLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'BandaiWonderSwan.json')
   }
 ];
