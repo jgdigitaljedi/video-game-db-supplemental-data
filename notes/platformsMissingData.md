@@ -16,6 +16,5 @@
 | Microsoft Xbox Series X&#124;S   |     | X   |
 | Neo Geo AES                      |     | X   |
 | Nintendo Famicom                 |     | X   |
-| Neo Geo CD                       | X   |     |
 | WonderSwan Color                 |     | X   |
 | WonderSwan                       |     | X   |

@@ -18,7 +18,8 @@
     "fix:details": "node scripts/utility/fixDetails.js",
     "fix:missing": "node scripts/utility/findEntriesMissingAll.js",
     "fix:numbered": "node scripts/utility/cleanNumberedList.js",
-    "fix:dump": "node scripts/utility/formatStringDump.js"
+    "fix:dump": "node scripts/utility/formatStringDump.js",
+    "updateAll": "node scripts/utility/updateAllLists/updateAllLists.js"
   },
   "repository": {
     "type": "git",

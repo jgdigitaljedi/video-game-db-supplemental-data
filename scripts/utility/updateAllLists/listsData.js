@@ -755,7 +755,7 @@ module.exports.listData = [
     name: 'SNK Neo Geo CD',
     id: 'ccl52',
     prefix: 'ngcd',
-    launchTitles: null,
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/neoGeoCdLaunchTitles.json')),
     exclusives: require(path.resolve(smallFiles, 'platformExclusives/neoGeoCdExclusives.json')),
     misprintsAndErrors: null,
     special: null,

@@ -1,7 +1,29 @@
 [
   {
-    "name": "ADK World",
+    "name": "'Nam 1965 - 1975",
     "id": "ngcd0",
+    "igdbId": 12693,
+    "gbId": 55478,
+    "gbGuid": "3030-55478",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "ADK World",
+    "id": "ngcd1",
     "igdbId": 61322,
     "gbId": 46944,
     "gbGuid": "3030-46944",
@@ -22,8 +44,118 @@
     "misprintsErrors": []
   },
   {
+    "name": "Alpha Mission II",
+    "id": "ngcd2",
+    "igdbId": 13681,
+    "gbId": 22631,
+    "gbGuid": "3030-22631",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Art of Fighting",
+    "id": "ngcd3",
+    "igdbId": 4514,
+    "gbId": 2760,
+    "gbGuid": "3030-2760",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Art of Fighting 2",
+    "id": "ngcd4",
+    "igdbId": 6556,
+    "gbId": 13327,
+    "gbGuid": "3030-13327",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Baseball Stars 2",
+    "id": "ngcd5",
+    "igdbId": 9942,
+    "gbId": 5577,
+    "gbGuid": "3030-5577",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Burning Fight",
+    "id": "ngcd6",
+    "igdbId": 39557,
+    "gbId": 16610,
+    "gbGuid": "3030-16610",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Crossed Swords II",
-    "id": "ngcd1",
+    "id": "ngcd7",
     "igdbId": 47588,
     "gbId": 40322,
     "gbGuid": "3030-40322",
@@ -44,8 +176,96 @@
     "misprintsErrors": []
   },
   {
+    "name": "Fatal Fury",
+    "id": "ngcd8",
+    "igdbId": 71128,
+    "gbId": 2396,
+    "gbGuid": "3030-2396",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fatal Fury 2",
+    "id": "ngcd9",
+    "igdbId": 4435,
+    "gbId": 11400,
+    "gbGuid": "3030-11400",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fatal Fury Special",
+    "id": "ngcd10",
+    "igdbId": 5385,
+    "gbId": 19200,
+    "gbGuid": "3030-19200",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Football Frenzy",
+    "id": "ngcd11",
+    "igdbId": 39649,
+    "gbId": 30688,
+    "gbGuid": "3030-30688",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Idol-Mahjong Final Romance 2",
-    "id": "ngcd2",
+    "id": "ngcd12",
     "igdbId": 75471,
     "gbId": 62013,
     "gbGuid": "3030-62013",
@@ -67,7 +287,7 @@
   },
   {
     "name": "Ironclad",
-    "id": "ngcd3",
+    "id": "ngcd13",
     "igdbId": 66823,
     "gbId": 30585,
     "gbGuid": "3030-30585",
@@ -88,8 +308,96 @@
     "misprintsErrors": []
   },
   {
+    "name": "King of the Monsters 2",
+    "id": "ngcd14",
+    "igdbId": 39466,
+    "gbId": 9432,
+    "gbGuid": "3030-9432",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Last Resort",
+    "id": "ngcd15",
+    "igdbId": 36750,
+    "gbId": 13714,
+    "gbGuid": "3030-13714",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "League Bowling",
+    "id": "ngcd16",
+    "igdbId": 40206,
+    "gbId": 31824,
+    "gbGuid": "3030-31824",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mahjong Kyōretsuden",
+    "id": "ngcd17",
+    "igdbId": 47590,
+    "gbId": 41194,
+    "gbGuid": "3030-41194",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Neo Geo CD Special",
-    "id": "ngcd4",
+    "id": "ngcd18",
     "igdbId": 75493,
     "gbId": null,
     "gbGuid": null,
@@ -111,7 +419,7 @@
   },
   {
     "name": "Oshidashi Zintrick",
-    "id": "ngcd5",
+    "id": "ngcd19",
     "igdbId": 130369,
     "gbId": 77135,
     "gbGuid": "3030-77135",
@@ -132,8 +440,52 @@
     "misprintsErrors": []
   },
   {
+    "name": "Puzzled",
+    "id": "ngcd20",
+    "igdbId": 39962,
+    "gbId": 35416,
+    "gbGuid": "3030-35416",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Samurai Shodown",
+    "id": "ngcd21",
+    "igdbId": 4260,
+    "gbId": 5692,
+    "gbGuid": "3030-5692",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Shinsetsu Samurai Spirits: Bushidou Retsuden",
-    "id": "ngcd6",
+    "id": "ngcd22",
     "igdbId": 47587,
     "gbId": 33695,
     "gbGuid": "3030-33695",
@@ -154,8 +506,30 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Sidekicks 2",
+    "id": "ngcd23",
+    "igdbId": 39497,
+    "gbId": 23826,
+    "gbGuid": "3030-23826",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "The King of Fighters '96 Collection",
-    "id": "ngcd7",
+    "id": "ngcd24",
     "igdbId": 75462,
     "gbId": 8146,
     "gbGuid": "3030-8146",
@@ -172,6 +546,50 @@
       }
     ],
     "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Super Spy",
+    "id": "ngcd25",
+    "igdbId": 46838,
+    "gbId": 8187,
+    "gbGuid": "3030-8187",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Top Player's Golf",
+    "id": "ngcd26",
+    "igdbId": 40471,
+    "gbId": 37723,
+    "gbGuid": "3030-37723",
+    "details": [
+      "Neo Geo CD launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Neo Geo CD",
+        "id": "ccl52",
+        "igdbId": 136,
+        "gbId": 59,
+        "gbGuid": "3045-59"
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   }
