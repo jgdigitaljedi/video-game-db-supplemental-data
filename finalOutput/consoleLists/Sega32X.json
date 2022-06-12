@@ -1,14 +1,14 @@
 [
   {
     "name": "Cosmic Carnage",
-    "details": [
-      "Sega 32x exclusive"
-    ],
     "id": "s32x0",
     "igdbId": 45883,
     "gbId": 13797,
     "gbGuid": "3030-13797",
     "tgdbId": 4914,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -20,18 +20,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "DarXide",
-    "details": [
-      "Sega 32x exclusive"
-    ],
     "id": "s32x1",
     "igdbId": 45877,
     "gbId": 41013,
     "gbGuid": "3030-41013",
     "tgdbId": 9075,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -43,18 +44,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Doom",
     "id": "s32x2",
-    "details": [
-      "Sega 32X launch title"
-    ],
     "igdbId": 673,
     "gbId": 7326,
     "gbGuid": "3030-7326",
     "tgdbId": 745,
+    "details": [
+      "Sega 32X launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega 32X",
@@ -65,20 +68,31 @@
         "tgdbId": 33
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/sega32x/519px-Doom_32X_US_Box_Front.jpg",
+        "details": "upsidedown 32X logo on spine ",
+        "type": "Printing"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/sega32x/doom32xusdcut_zps47737d21.jpg",
+        "details": "Label cut upside down",
+        "type": "Cutting"
+      }
+    ]
   },
   {
     "name": "Golf Magazine Presents 36 Great Holes Starring Fred Couples",
-    "details": [
-      "Sega 32x exclusive",
-      "Sega 32X Team Player compatible title"
-    ],
     "id": "s32x3",
     "igdbId": 94921,
     "gbId": 21309,
     "gbGuid": "3030-21309",
     "tgdbId": 4911,
+    "details": [
+      "Sega 32x exclusive",
+      "Sega 32X Team Player compatible title"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -89,6 +103,7 @@
         "tgdbId": 33
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega 32X Team Player compatible title",
@@ -102,18 +117,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Knuckles' Chaotix",
-    "details": [
-      "Sega 32x exclusive"
-    ],
     "id": "s32x4",
     "igdbId": 19762,
     "gbId": 8284,
     "gbGuid": "3030-8284",
     "tgdbId": 2290,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -125,18 +140,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Kolibri",
-    "details": [
-      "Sega 32x exclusive"
-    ],
     "id": "s32x5",
     "igdbId": 19733,
     "gbId": 18959,
     "gbGuid": "3030-18959",
     "tgdbId": 2609,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -148,18 +164,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Metal Head",
-    "details": [
-      "Sega 32x exclusive"
-    ],
     "id": "s32x6",
     "igdbId": 19780,
     "gbId": 4621,
     "gbGuid": "3030-4621",
     "tgdbId": 4918,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -171,18 +188,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Motocross Championship",
-    "details": [
-      "Sega 32x exclusive"
-    ],
     "id": "s32x7",
     "igdbId": 19779,
     "gbId": 4838,
     "gbGuid": "3030-4838",
     "tgdbId": 9076,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -194,17 +212,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "NBA Jam Tournament Edition",
     "id": "s32x8",
-    "details": [
-      "Sega 32X Team Player compatible title"
-    ],
     "igdbId": 19712,
     "gbId": 14792,
     "gbGuid": "3030-14792",
+    "details": [
+      "Sega 32X Team Player compatible title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega 32X Team Player compatible title",
@@ -218,18 +239,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "NFL Quarterback Club",
     "id": "s32x9",
-    "details": [
-      "Sega 32X Team Player compatible title"
-    ],
     "igdbId": 114754,
     "gbId": 22136,
     "gbGuid": "3030-22136",
+    "details": [
+      "Sega 32X Team Player compatible title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega 32X Team Player compatible title",
@@ -243,19 +265,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "RBI Baseball '95",
-    "details": [
-      "Sega 32x exclusive"
-    ],
     "id": "s32x10",
     "igdbId": 45876,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 9080,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -267,18 +288,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Shadow Squadron",
-    "details": [
-      "Sega 32x exclusive"
-    ],
     "id": "s32x11",
     "igdbId": 19763,
     "gbId": 11386,
     "gbGuid": "3030-11386",
     "tgdbId": 4923,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -290,18 +312,38 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Space Harrier",
+    "id": "s32x12",
+    "igdbId": 12857,
+    "gbId": 6036,
+    "gbGuid": "3030-6036",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/sega32x/spaceharrier_zpsxvdanmqp.png",
+        "details": "printer justification (the color distortion is most likely fading)",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Star Wars Arcade",
-    "id": "s32x12",
-    "details": [
-      "Sega 32X launch title"
-    ],
+    "id": "s32x13",
     "igdbId": 39822,
     "gbId": 10715,
     "gbGuid": "3030-10715",
     "tgdbId": 4926,
+    "details": [
+      "Sega 32X launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega 32X",
@@ -312,19 +354,30 @@
         "tgdbId": 33
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/sega32x/starwars32xusdcut_zpsd8ff52c6.jpg",
+        "details": "Label cut upside down",
+        "type": "Cutting"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/sega32x/starwars23x.jpg",
+        "details": "miscut label upside down ",
+        "type": "Multiple"
+      }
+    ]
   },
   {
     "name": "Tempo",
-    "details": [
-      "Sega 32x exclusive"
-    ],
-    "id": "s32x13",
+    "id": "s32x14",
     "igdbId": 45881,
     "gbId": 3595,
     "gbGuid": "3030-3595",
     "tgdbId": 4927,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -336,18 +389,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "The Amazing Spider-Man: Web of Fire",
-    "details": [
-      "Sega 32x exclusive"
-    ],
-    "id": "s32x14",
+    "id": "s32x15",
     "igdbId": 45882,
     "gbId": 4219,
     "gbGuid": "3030-4219",
     "tgdbId": 4925,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -359,18 +413,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Virtua Racing Deluxe",
-    "id": "s32x15",
-    "details": [
-      "Sega 32X launch title"
-    ],
+    "id": "s32x16",
     "igdbId": 45880,
     "gbId": 11455,
     "gbGuid": "3030-11455",
     "tgdbId": 4929,
+    "details": [
+      "Sega 32X launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega 32X",
@@ -381,18 +437,31 @@
         "tgdbId": 33
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/sega32x/virtuaracingusd32x.jpg",
+        "details": "upside down 32X logo on front",
+        "type": "Printing"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/sega32x/VR32xusdcut_zpsafa8f88f.jpg",
+        "details": "Upside down cut Label",
+        "type": "Cutting"
+      }
+    ]
   },
   {
     "name": "WWF Raw",
-    "id": "s32x16",
-    "details": [
-      "Sega 32X Team Player compatible title"
-    ],
+    "id": "s32x17",
     "igdbId": 19771,
     "gbId": 4155,
     "gbGuid": "3030-4155",
+    "details": [
+      "Sega 32X Team Player compatible title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega 32X Team Player compatible title",
@@ -406,19 +475,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "World Series Baseball Starring Deion Sanders",
-    "details": [
-      "Sega 32x exclusive"
-    ],
-    "id": "s32x17",
+    "id": "s32x18",
     "igdbId": 46428,
     "gbId": 17117,
     "gbGuid": "3030-17117",
     "tgdbId": 20521,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -430,18 +498,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Zaxxon's Motherbase 2000",
-    "details": [
-      "Sega 32x exclusive"
-    ],
-    "id": "s32x18",
+    "id": "s32x19",
     "igdbId": 19764,
     "gbId": 7390,
     "gbGuid": "3030-7390",
     "tgdbId": 9083,
+    "details": [
+      "Sega 32x exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega 32X",
@@ -453,6 +522,7 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   }
 ]

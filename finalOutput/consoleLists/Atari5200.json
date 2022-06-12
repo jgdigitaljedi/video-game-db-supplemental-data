@@ -1,13 +1,33 @@
 [
   {
-    "id": "a520",
+    "name": "Blue Print",
+    "id": "a5200",
+    "igdbId": 39611,
+    "gbId": 12545,
+    "gbGuid": "3030-12545",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari5200/blueprint5200_zps5c2a504b.jpg",
+        "details": "Upside down Label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
     "name": "Castle Crisis",
-    "details": [
-      "Atari 5200 4 player game"
-    ],
+    "id": "a5201",
     "igdbId": 40782,
     "gbId": 17536,
     "gbGuid": "3030-17536",
+    "details": [
+      "Atari 5200 4 player game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Atari 5200 4 player game",
@@ -21,15 +41,17 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "a521",
     "name": "Countermeasure",
+    "id": "a5202",
     "igdbId": 12306,
     "gbId": 13853,
     "gbGuid": "3030-13853",
+    "details": [
+      null
+    ],
     "isExclusive": [
       {
         "name": "Atari 5200",
@@ -40,22 +62,21 @@
         "tgdbId": 26
       }
     ],
-    "details": [
-      null
-    ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Galaxian",
-    "id": "a522",
-    "details": [
-      "Atari 5200 launch title"
-    ],
+    "id": "a5203",
     "igdbId": 4614,
     "gbId": 2445,
     "gbGuid": "3030-2445",
     "tgdbId": 5158,
+    "details": [
+      "Atari 5200 launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari 5200",
@@ -66,15 +87,18 @@
         "tgdbId": 26
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "a523",
     "name": "Gremlins",
+    "id": "a5204",
     "igdbId": 25673,
     "gbId": 15465,
     "gbGuid": "3030-15465",
+    "details": [
+      null
+    ],
     "isExclusive": [
       {
         "name": "Atari 5200",
@@ -85,46 +109,39 @@
         "tgdbId": 26
       }
     ],
-    "details": [
-      null
-    ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "a524",
+    "name": "K-Razy Shoot-Out",
+    "id": "a5205",
+    "igdbId": 18755,
+    "gbId": 9484,
+    "gbGuid": "3030-9484",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari5200/crazyshoot_zpsf5e06c13.jpg",
+        "details": "Upside down Label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
     "name": "M.U.L.E.",
-    "details": [
-      "Atari 5200 4 player game"
-    ],
+    "id": "a5206",
     "igdbId": 23895,
     "gbId": 14520,
     "gbGuid": "3030-14520",
-    "special": [
-      {
-        "value": "Atari 5200 4 player game",
-        "forPlatform": {
-          "name": "Atari 5200",
-          "id": "ccl29",
-          "igdbId": 66,
-          "gbId": 67,
-          "gbGuid": "3045-67",
-          "tgdbId": 26
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "id": "a525",
-    "name": "RealSports Tennis",
     "details": [
       "Atari 5200 4 player game"
     ],
-    "igdbId": 18419,
-    "gbId": 17776,
-    "gbGuid": "3030-17776",
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Atari 5200 4 player game",
@@ -138,15 +155,61 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "a526",
+    "name": "Q*bert",
+    "id": "a5207",
+    "igdbId": 1980,
+    "gbId": 20782,
+    "gbGuid": "3030-20782",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.orgAtari/atari5200/qbert1.jpg",
+        "details": "multiple duplicate pages in manual",
+        "type": "Assembly"
+      }
+    ]
+  },
+  {
+    "name": "RealSports Tennis",
+    "id": "a5208",
+    "igdbId": 18419,
+    "gbId": 17776,
+    "gbGuid": "3030-17776",
+    "details": [
+      "Atari 5200 4 player game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 5200 4 player game",
+        "forPlatform": {
+          "name": "Atari 5200",
+          "id": "ccl29",
+          "igdbId": 66,
+          "gbId": 67,
+          "gbGuid": "3045-67",
+          "tgdbId": 26
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Space Dungeon",
+    "id": "a5209",
     "igdbId": 18842,
     "gbId": 19413,
     "gbGuid": "3030-19413",
+    "details": [
+      null
+    ],
     "isExclusive": [
       {
         "name": "Atari 5200",
@@ -157,22 +220,21 @@
         "tgdbId": 26
       }
     ],
-    "details": [
-      null
-    ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Space Invaders",
-    "id": "a527",
-    "details": [
-      "Atari 5200 launch title"
-    ],
+    "id": "a52010",
     "igdbId": 3601,
     "gbId": 5099,
     "gbGuid": "3030-5099",
     "tgdbId": 116,
+    "details": [
+      "Atari 5200 launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari 5200",
@@ -183,20 +245,39 @@
         "tgdbId": 26
       }
     ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Star Trek: Strategic Operations Simulator",
+    "id": "a52011",
+    "igdbId": 12319,
+    "gbId": 13785,
+    "gbGuid": "3030-13785",
+    "details": [],
     "isExclusive": false,
-    "special": []
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Atari/atari5200/startrek5200.jpg",
+        "details": "Upside down Label",
+        "type": "Label Position"
+      }
+    ]
   },
   {
     "name": "Super Breakout",
-    "id": "a528",
-    "details": [
-      "Atari 5200 launch title",
-      "Atari 5200 4 player game"
-    ],
+    "id": "a52012",
     "igdbId": 12321,
     "gbId": 1055,
     "gbGuid": "3030-1055",
     "tgdbId": 5221,
+    "details": [
+      "Atari 5200 launch title",
+      "Atari 5200 4 player game"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Atari 5200",
@@ -220,6 +301,6 @@
         }
       }
     ],
-    "isExclusive": false
+    "misprintsErrors": []
   }
 ]

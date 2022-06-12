@@ -1,14 +1,14 @@
 [
   {
-    "id": "ngc0",
     "name": "1080: Avalanche",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc0",
     "igdbId": 3774,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 2301,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -20,18 +20,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc1",
     "name": "All-Star Baseball 2002",
-    "details": [
-      "Nintendo GameCube launch title"
-    ],
+    "id": "ngc1",
     "igdbId": 10624,
     "gbId": 15578,
     "gbGuid": "3030-15578",
     "tgdbId": 5765,
+    "details": [
+      "Nintendo GameCube launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo GameCube",
@@ -42,19 +44,19 @@
         "tgdbId": 2
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc2",
     "name": "Amazing Island",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc2",
     "igdbId": 3784,
     "gbId": 13448,
     "gbGuid": "3030-13448",
     "tgdbId": 5766,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -66,18 +68,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Animal Crossing",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
     "id": "ngc3",
     "igdbId": 2655,
     "gbId": 12893,
     "gbGuid": "3030-12893",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -91,19 +95,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc4",
     "name": "Baten Kaitos Origins",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc4",
     "igdbId": 3796,
     "gbId": 1213,
     "gbGuid": "3030-1213",
     "tgdbId": 5832,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -115,18 +118,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc5",
     "name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc5",
     "igdbId": 3795,
     "gbId": 7958,
     "gbGuid": "3030-7958",
     "tgdbId": 5831,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -138,18 +142,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc6",
     "name": "Batman: Vengeance",
-    "details": [
-      "Nintendo GameCube launch title"
-    ],
+    "id": "ngc6",
     "igdbId": 5740,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 2569,
+    "details": [
+      "Nintendo GameCube launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo GameCube",
@@ -160,19 +166,19 @@
         "tgdbId": 2
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc7",
     "name": "Battalion Wars",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc7",
     "igdbId": 3797,
     "gbId": 3575,
     "gbGuid": "3030-3575",
     "tgdbId": 5836,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -184,18 +190,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc8",
     "name": "BeyBlade VForce: Super Tournament Battle",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc8",
     "igdbId": 3807,
     "gbId": 36985,
     "gbGuid": "3030-36985",
     "tgdbId": 5837,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -207,18 +214,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc9",
     "name": "Big Air Freestyle",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc9",
     "igdbId": 3808,
     "gbId": 669,
     "gbGuid": "3030-669",
     "tgdbId": 15791,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -230,18 +238,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Billy Hatcher and the Giant Egg",
-    "details": [
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
     "id": "ngc10",
     "igdbId": 3810,
     "gbId": 2290,
     "gbGuid": "3030-2290",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice (Europe)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice (Europe)",
@@ -255,19 +265,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc11",
     "name": "Bomberman Generation",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc11",
     "igdbId": 3832,
     "gbId": 20217,
     "gbGuid": "3030-20217",
     "tgdbId": 4192,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -279,18 +288,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Burnout",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
     "id": "ngc12",
     "igdbId": 3838,
     "gbId": 20484,
     "gbGuid": "3030-20484",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -304,19 +315,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Cars",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
     "id": "ngc13",
     "igdbId": 3849,
     "gbId": 7158,
     "gbGuid": "3030-7158",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -330,19 +341,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Crash Bandicoot: The Wrath of Cortex",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
     "id": "ngc14",
     "igdbId": 1188,
     "gbId": 68,
     "gbGuid": "3030-68",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -356,125 +367,20 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc15",
     "name": "Crazy Taxi",
-    "details": [
-      "Nintendo GameCube launch title",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc15",
     "igdbId": 1805,
     "gbId": 9112,
     "gbGuid": "3030-9112",
     "tgdbId": 2520,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo GameCube",
-        "id": "ccl4",
-        "igdbId": 21,
-        "gbId": 23,
-        "gbGuid": "3045-23",
-        "tgdbId": 2
-      }
-    ],
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false
-  },
-  {
-    "id": "ngc16",
-    "name": "Cubivore: Survival of the Fittest",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
-    "igdbId": 3865,
-    "gbId": 15816,
-    "gbGuid": "3030-15816",
-    "tgdbId": 6957,
-    "isExclusive": [
-      {
-        "name": "Nintendo GameCube",
-        "id": "ccl4",
-        "igdbId": 21,
-        "gbId": 23,
-        "gbGuid": "3045-23",
-        "tgdbId": 2
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "id": "ngc17",
-    "name": "Custom Robo",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
-    "igdbId": 3465,
-    "gbId": 2296,
-    "gbGuid": "3030-2296",
-    "tgdbId": 6958,
-    "isExclusive": [
-      {
-        "name": "Nintendo GameCube",
-        "id": "ccl4",
-        "igdbId": 21,
-        "gbId": 23,
-        "gbGuid": "3045-23",
-        "tgdbId": 2
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "id": "ngc18",
-    "name": "Dance Dance Revolution: Mario Mix",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
-    "igdbId": 3680,
-    "gbId": 16639,
-    "gbGuid": "3030-16639",
-    "tgdbId": 11620,
-    "isExclusive": [
-      {
-        "name": "Nintendo GameCube",
-        "id": "ccl4",
-        "igdbId": 21,
-        "gbId": 23,
-        "gbGuid": "3045-23",
-        "tgdbId": 2
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "id": "ngc19",
-    "name": "Dave Mirra Freestyle BMX 2",
     "details": [
       "Nintendo GameCube launch title",
       "Nintendo GameCube Player's Choice"
     ],
-    "igdbId": 3871,
-    "gbId": 10174,
-    "gbGuid": "3030-10174",
-    "tgdbId": 3374,
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo GameCube",
@@ -498,18 +404,18 @@
         }
       }
     ],
-    "isExclusive": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc20",
-    "name": "Disney Sports: Football",
+    "name": "Cubivore: Survival of the Fittest",
+    "id": "ngc16",
+    "igdbId": 3865,
+    "gbId": 15816,
+    "gbGuid": "3030-15816",
+    "tgdbId": 6957,
     "details": [
       "Nintendo GameCube console exclusive"
     ],
-    "igdbId": 3882,
-    "gbId": 34911,
-    "gbGuid": "3030-34911",
-    "tgdbId": 3389,
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -521,18 +427,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/cubivore1.jpg",
+        "details": "one page placed upside down one page not stapled in",
+        "type": "Assembly"
+      }
+    ]
   },
   {
-    "id": "ngc21",
-    "name": "Disney's Hide & Sneak",
+    "name": "Custom Robo",
+    "id": "ngc17",
+    "igdbId": 3465,
+    "gbId": 2296,
+    "gbGuid": "3030-2296",
+    "tgdbId": 6958,
     "details": [
       "Nintendo GameCube console exclusive"
     ],
-    "igdbId": 3885,
-    "gbId": 29018,
-    "gbGuid": "3030-29018",
-    "tgdbId": 6963,
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -544,18 +457,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc22",
-    "name": "Disney's Magical Mirror Starring Mickey Mouse",
+    "name": "Dance Dance Revolution: Mario Mix",
+    "id": "ngc18",
+    "igdbId": 3680,
+    "gbId": 16639,
+    "gbGuid": "3030-16639",
+    "tgdbId": 11620,
     "details": [
       "Nintendo GameCube console exclusive"
     ],
-    "igdbId": 3773,
-    "gbId": 13441,
-    "gbGuid": "3030-13441",
-    "tgdbId": 20924,
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -567,41 +481,21 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc23",
-    "name": "Disney's Party",
+    "name": "Dave Mirra Freestyle BMX 2",
+    "id": "ngc19",
+    "igdbId": 3871,
+    "gbId": 10174,
+    "gbGuid": "3030-10174",
+    "tgdbId": 3374,
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube launch title",
+      "Nintendo GameCube Player's Choice"
     ],
-    "igdbId": 3886,
-    "gbId": 404,
-    "gbGuid": "3030-404",
-    "tgdbId": 3388,
-    "isExclusive": [
-      {
-        "name": "Nintendo GameCube",
-        "id": "ccl4",
-        "igdbId": 21,
-        "gbId": 23,
-        "gbGuid": "3045-23",
-        "tgdbId": 2
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "id": "ngc24",
-    "name": "Disney's Tarzan Untamed",
-    "details": [
-      "Nintendo GameCube launch title"
-    ],
-    "igdbId": null,
-    "gbId": 19474,
-    "gbGuid": "3030-19474",
-    "tgdbId": 30811,
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo GameCube",
@@ -612,19 +506,49 @@
         "tgdbId": 2
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc25",
-    "name": "Donkey Kong",
+    "name": "Disney Sports Basketball",
+    "id": "ngc20",
+    "igdbId": 3880,
+    "gbId": 22201,
+    "gbGuid": "3030-22201",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/disneysbbal.jpg",
+        "details": "incorrectly cut manual ",
+        "type": "Cutting"
+      }
+    ]
+  },
+  {
+    "name": "Disney Sports: Football",
+    "id": "ngc21",
+    "igdbId": 3882,
+    "gbId": 34911,
+    "gbGuid": "3030-34911",
+    "tgdbId": 3389,
     "details": [
       "Nintendo GameCube console exclusive"
     ],
-    "igdbId": 3889,
-    "gbId": 2520,
-    "gbGuid": "3030-2520",
-    "tgdbId": 5,
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -636,22 +560,144 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Disney's Hide & Sneak",
+    "id": "ngc22",
+    "igdbId": 3885,
+    "gbId": 29018,
+    "gbGuid": "3030-29018",
+    "tgdbId": 6963,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo GameCube",
+        "id": "ccl4",
+        "igdbId": 21,
+        "gbId": 23,
+        "gbGuid": "3045-23",
+        "tgdbId": 2
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Disney's Magical Mirror Starring Mickey Mouse",
+    "id": "ngc23",
+    "igdbId": 3773,
+    "gbId": 13441,
+    "gbGuid": "3030-13441",
+    "tgdbId": 20924,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo GameCube",
+        "id": "ccl4",
+        "igdbId": 21,
+        "gbId": 23,
+        "gbGuid": "3045-23",
+        "tgdbId": 2
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Disney's Party",
+    "id": "ngc24",
+    "igdbId": 3886,
+    "gbId": 404,
+    "gbGuid": "3030-404",
+    "tgdbId": 3388,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo GameCube",
+        "id": "ccl4",
+        "igdbId": 21,
+        "gbId": 23,
+        "gbGuid": "3045-23",
+        "tgdbId": 2
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Disney's Tarzan Untamed",
+    "id": "ngc25",
+    "igdbId": null,
+    "gbId": 19474,
+    "gbGuid": "3030-19474",
+    "tgdbId": 30811,
+    "details": [
+      "Nintendo GameCube launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo GameCube",
+        "id": "ccl4",
+        "igdbId": 21,
+        "gbId": 23,
+        "gbGuid": "3045-23",
+        "tgdbId": 2
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong",
+    "id": "ngc26",
+    "igdbId": 3889,
+    "gbId": 2520,
+    "gbGuid": "3030-2520",
+    "tgdbId": 5,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo GameCube",
+        "id": "ccl4",
+        "igdbId": 21,
+        "gbId": 23,
+        "gbGuid": "3045-23",
+        "tgdbId": 2
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dragon Ball Z: Budokai",
-    "details": [
-      "Nintendo GameCube Player's Choice",
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
-    "id": "ngc26",
+    "id": "ngc27",
     "igdbId": 2563,
     "gbId": 5206,
     "gbGuid": "3030-5206",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice (Europe)",
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
-        "value": "Nintendo GameCube Player's Choice",
+        "value": "Nintendo GameCube Player's Choice (Europe)",
         "forPlatform": {
           "name": "Nintendo GameCube",
           "id": "ccl4",
@@ -662,7 +708,7 @@
         }
       },
       {
-        "value": "Nintendo GameCube Player's Choice (Europe)",
+        "value": "Nintendo GameCube Player's Choice",
         "forPlatform": {
           "name": "Nintendo GameCube",
           "id": "ccl4",
@@ -673,19 +719,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc27",
     "name": "Dragon Drive: D-Masters Shot",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc28",
     "igdbId": 3897,
     "gbId": 36685,
     "gbGuid": "3030-36685",
     "tgdbId": 33971,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -697,18 +742,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Enter the Matrix",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc28",
+    "id": "ngc29",
     "igdbId": 1003,
     "gbId": 7570,
     "gbGuid": "3030-7570",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -722,19 +769,24 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/entermatrix.jpg",
+        "details": "incorrect barcode on game",
+        "type": "Printing"
+      }
+    ]
   },
   {
-    "id": "ngc29",
     "name": "Eternal Darkness: Sanity's Requiem",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc30",
     "igdbId": 3907,
     "gbId": 7512,
     "gbGuid": "3030-7512",
     "tgdbId": 6970,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -746,18 +798,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc30",
     "name": "Evolution Worlds",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc31",
     "igdbId": 3910,
     "gbId": 18762,
     "gbGuid": "3030-18762",
     "tgdbId": 9874,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -769,19 +822,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc31",
     "name": "F-Zero X",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc32",
     "igdbId": 3492,
     "gbId": 20448,
     "gbGuid": "3030-20448",
     "tgdbId": 10836,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -792,6 +846,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -805,18 +860,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "FIFA 06",
-    "details": [
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
-    "id": "ngc32",
+    "id": "ngc33",
     "igdbId": 700,
     "gbId": 9171,
     "gbGuid": "3030-9171",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice (Europe)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice (Europe)",
@@ -830,19 +886,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Finding Nemo",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc33",
+    "id": "ngc34",
     "igdbId": 3781,
     "gbId": 16805,
     "gbGuid": "3030-16805",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -856,19 +912,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc34",
     "name": "Fire Emblem: Path of Radiance",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc35",
     "igdbId": 1441,
     "gbId": 222,
     "gbGuid": "3030-222",
     "tgdbId": 6978,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -880,18 +935,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/FEpar1.jpg",
+        "details": "misprinted cover",
+        "type": "Printing"
+      }
+    ]
   },
   {
-    "id": "ngc35",
     "name": "GT Cube",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc36",
     "igdbId": 3938,
     "gbId": 25445,
     "gbGuid": "3030-25445",
     "tgdbId": 33978,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -903,18 +965,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc36",
     "name": "Geist",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc37",
     "igdbId": 3928,
     "gbId": 20333,
     "gbGuid": "3030-20333",
     "tgdbId": 6254,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -926,18 +989,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc37",
     "name": "Giftpia",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc38",
     "igdbId": 3931,
     "gbId": 503,
     "gbGuid": "3030-503",
     "tgdbId": 27856,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -949,18 +1013,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc38",
     "name": "Go! Go! Hypergrind",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc39",
     "igdbId": 3933,
     "gbId": 15675,
     "gbGuid": "3030-15675",
     "tgdbId": 30847,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -972,18 +1037,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Godzilla: Destroy All Monsters Melee",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc39",
+    "id": "ngc40",
     "igdbId": 3935,
     "gbId": 2806,
     "gbGuid": "3030-2806",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -997,19 +1064,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc40",
     "name": "Gotcha Force",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc41",
     "igdbId": 3936,
     "gbId": 17690,
     "gbGuid": "3030-17690",
     "tgdbId": 14113,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1021,18 +1087,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Harry Potter and the Chamber of Secrets",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc41",
+    "id": "ngc42",
     "igdbId": 166325,
     "gbId": 8370,
     "gbGuid": "3030-8370",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1046,19 +1114,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Harry Potter and the Prisoner of Azkaban",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc42",
+    "id": "ngc43",
     "igdbId": 96159,
     "gbId": 3792,
     "gbGuid": "3030-3792",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1072,19 +1140,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Harry Potter: Quidditch World Cup",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc43",
+    "id": "ngc44",
     "igdbId": 3944,
     "gbId": 9343,
     "gbGuid": "3030-9343",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1098,45 +1166,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Harvest Moon: A Wonderful Life",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc44",
+    "id": "ngc45",
     "igdbId": 3384,
     "gbId": 3105,
     "gbGuid": "3030-3105",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Harvest Moon: Magical Melody",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc45",
-    "igdbId": 3386,
-    "gbId": 21257,
-    "gbGuid": "3030-21257",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1150,19 +1192,44 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
+    "name": "Harvest Moon: Magical Melody",
     "id": "ngc46",
-    "name": "Home Run King",
+    "igdbId": 3386,
+    "gbId": 21257,
+    "gbGuid": "3030-21257",
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube Player's Choice"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Home Run King",
+    "id": "ngc47",
     "igdbId": 3947,
     "gbId": 23470,
     "gbGuid": "3030-23470",
     "tgdbId": 30855,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1174,119 +1241,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc47",
     "name": "Homeland",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc48",
     "igdbId": 3948,
     "gbId": 23362,
     "gbGuid": "3030-23362",
     "tgdbId": 48808,
-    "isExclusive": [
-      {
-        "name": "Nintendo GameCube",
-        "id": "ccl4",
-        "igdbId": 21,
-        "gbId": 23,
-        "gbGuid": "3045-23",
-        "tgdbId": 2
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "James Bond 007: Agent Under Fire",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc48",
-    "igdbId": 1643,
-    "gbId": 16559,
-    "gbGuid": "3030-16559",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "James Bond 007: Everything or Nothing",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc49",
-    "igdbId": 1644,
-    "gbId": 6530,
-    "gbGuid": "3030-6530",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "James Bond 007: Nightfire",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc50",
-    "igdbId": 1631,
-    "gbId": 6647,
-    "gbGuid": "3030-6647",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "id": "ngc51",
-    "name": "Kidō Senshi Gundam: Senshitachi no Kiseki",
     "details": [
       "Nintendo GameCube console exclusive"
     ],
-    "igdbId": 3965,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1298,19 +1265,139 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc52",
-    "name": "Kirby Air Ride",
+    "name": "Intellivision Lives!",
+    "id": "ngc49",
+    "igdbId": 3956,
+    "gbId": 6359,
+    "gbGuid": "3030-6359",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/intellilivesgc.jpg",
+        "details": "memory card icon appears on front cover.\nit appears on Star Strike box",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "James Bond 007: Agent Under Fire",
+    "id": "ngc50",
+    "igdbId": 1643,
+    "gbId": 16559,
+    "gbGuid": "3030-16559",
     "details": [
-      "Nintendo GameCube console exclusive",
       "Nintendo GameCube Player's Choice"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "James Bond 007: Everything or Nothing",
+    "id": "ngc51",
+    "igdbId": 1644,
+    "gbId": 6530,
+    "gbGuid": "3030-6530",
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "James Bond 007: Nightfire",
+    "id": "ngc52",
+    "igdbId": 1631,
+    "gbId": 6647,
+    "gbGuid": "3030-6647",
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kidō Senshi Gundam: Senshitachi no Kiseki",
+    "id": "ngc53",
+    "igdbId": 3965,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo GameCube",
+        "id": "ccl4",
+        "igdbId": 21,
+        "gbId": 23,
+        "gbGuid": "3045-23",
+        "tgdbId": 2
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kirby Air Ride",
+    "id": "ngc54",
     "igdbId": 2777,
     "gbId": 15550,
     "gbGuid": "3030-15550",
     "tgdbId": 6994,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1321,6 +1408,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1334,18 +1422,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc53",
     "name": "Knockout Kings",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc55",
     "igdbId": 71110,
     "gbId": 2039,
     "gbGuid": "3030-2039",
     "tgdbId": 22012,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1357,44 +1445,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "LEGO Star Wars II: The Original Trilogy",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc54",
+    "id": "ngc56",
     "igdbId": 190,
     "gbId": 9631,
     "gbGuid": "3030-9631",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "LEGO Star Wars: The Video Game",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc55",
-    "igdbId": 2681,
-    "gbId": 251,
-    "gbGuid": "3030-251",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1408,19 +1472,44 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc56",
-    "name": "Lost Kingdoms",
+    "name": "LEGO Star Wars: The Video Game",
+    "id": "ngc57",
+    "igdbId": 2681,
+    "gbId": 251,
+    "gbGuid": "3030-251",
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube Player's Choice"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lost Kingdoms",
+    "id": "ngc58",
     "igdbId": 3981,
     "gbId": 1007,
     "gbGuid": "3030-1007",
     "tgdbId": 11624,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1432,18 +1521,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc57",
     "name": "Lost Kingdoms II",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc59",
     "igdbId": 3982,
     "gbId": 15039,
     "gbGuid": "3030-15039",
     "tgdbId": 11625,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1455,19 +1545,21 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc58",
     "name": "Luigi's Mansion",
-    "details": [
-      "Nintendo GameCube launch title",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc60",
     "igdbId": 2485,
     "gbId": 10996,
     "gbGuid": "3030-10996",
     "tgdbId": 2237,
+    "details": [
+      "Nintendo GameCube launch title",
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo GameCube",
@@ -1491,18 +1583,18 @@
         }
       }
     ],
-    "isExclusive": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc59",
     "name": "MC Groovz Dance Craze",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc61",
     "igdbId": 50581,
     "gbId": 22036,
     "gbGuid": "3030-22036",
     "tgdbId": 26356,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1514,18 +1606,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Madagascar",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc60",
+    "id": "ngc62",
     "igdbId": 3764,
     "gbId": 5680,
     "gbGuid": "3030-5680",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1539,19 +1633,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc61",
     "name": "Madden NFL 2002",
-    "details": [
-      "Nintendo GameCube launch title"
-    ],
+    "id": "ngc63",
     "igdbId": 3539,
     "gbId": 10845,
     "gbGuid": "3030-10845",
     "tgdbId": 269,
+    "details": [
+      "Nintendo GameCube launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo GameCube",
@@ -1562,20 +1656,20 @@
         "tgdbId": 2
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc62",
     "name": "Mario Golf: Toadstool Tour",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc64",
     "igdbId": 3403,
     "gbId": 1598,
     "gbGuid": "3030-1598",
     "tgdbId": 6260,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1586,6 +1680,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1599,18 +1694,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc63",
     "name": "Mario Kart: Double Dash!!",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc65",
     "igdbId": 2344,
     "gbId": 18757,
     "gbGuid": "3030-18757",
     "tgdbId": 166,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1622,19 +1717,26 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/mkddgcL.jpg",
+        "details": "mirrored L on Luigi's hat",
+        "type": "Printing"
+      }
+    ]
   },
   {
-    "id": "ngc64",
     "name": "Mario Party 4",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
+    "id": "ngc66",
     "igdbId": 2330,
     "gbId": 4660,
     "gbGuid": "3030-4660",
     "tgdbId": 167,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice (Europe)"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1645,6 +1747,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice (Europe)",
@@ -1658,19 +1761,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc65",
     "name": "Mario Party 5",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
+    "id": "ngc67",
     "igdbId": 2331,
     "gbId": 3410,
     "gbGuid": "3030-3410",
     "tgdbId": 2316,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice (Europe)"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1681,6 +1784,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice (Europe)",
@@ -1694,19 +1798,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc66",
     "name": "Mario Party 6",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc68",
     "igdbId": 2333,
     "gbId": 8380,
     "gbGuid": "3030-8380",
     "tgdbId": 2317,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1717,6 +1821,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1730,18 +1835,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc67",
     "name": "Mario Party 7",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc69",
     "igdbId": 2334,
     "gbId": 7508,
     "gbGuid": "3030-7508",
     "tgdbId": 2318,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1753,18 +1858,26 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/marioparty7gc.jpg",
+        "details": "half of disc not printed",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Mario Power Tennis",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc68",
+    "id": "ngc70",
     "igdbId": 3985,
     "gbId": 15398,
     "gbGuid": "3030-15398",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1778,20 +1891,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc69",
     "name": "Mario Superstar Baseball",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc71",
     "igdbId": 3986,
     "gbId": 814,
     "gbGuid": "3030-814",
     "tgdbId": 6261,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1802,6 +1914,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1815,18 +1928,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc70",
     "name": "Medabots: Infinity",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc72",
     "igdbId": 3999,
     "gbId": 21694,
     "gbGuid": "3030-21694",
     "tgdbId": 11460,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1838,18 +1951,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Medal of Honor: Frontline",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc71",
+    "id": "ngc73",
     "igdbId": 1309,
     "gbId": 4857,
     "gbGuid": "3030-4857",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1863,45 +1978,25 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/mohflgc.jpg",
+        "details": "says Mulitplayer instead of multiplayer on back",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Medal of Honor: Rising Sun",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc72",
+    "id": "ngc74",
     "igdbId": 1316,
     "gbId": 16752,
     "gbGuid": "3030-16752",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Mega Man Anniversary Collection",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc73",
-    "igdbId": 1728,
-    "gbId": 6141,
-    "gbGuid": "3030-6141",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1915,19 +2010,44 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc74",
-    "name": "Mega Man Network Transmission",
+    "name": "Mega Man Anniversary Collection",
+    "id": "ngc75",
+    "igdbId": 1728,
+    "gbId": 6141,
+    "gbGuid": "3030-6141",
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube Player's Choice"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mega Man Network Transmission",
+    "id": "ngc76",
     "igdbId": 1766,
     "gbId": 6358,
     "gbGuid": "3030-6358",
     "tgdbId": 7004,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1939,19 +2059,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc75",
     "name": "Metal Gear Solid: The Twin Snakes",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc77",
     "igdbId": 4006,
     "gbId": 9594,
     "gbGuid": "3030-9594",
     "tgdbId": 3925,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -1962,6 +2083,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -1975,44 +2097,30 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/mgsts.jpg",
+        "details": "bad ink mixture is suspected in this common defect",
+        "type": "Printing"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/GGSEA4.png",
+        "details": "Says requires 3 memory card blocks instead of 4",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Metroid Prime",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc76",
+    "id": "ngc78",
     "igdbId": 1105,
     "gbId": 15473,
     "gbGuid": "3030-15473",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Metroid Prime 2: Echoes",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc77",
-    "igdbId": 1108,
-    "gbId": 1597,
-    "gbGuid": "3030-1597",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2026,19 +2134,44 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc78",
-    "name": "Monsters, Inc. Scream Arena",
+    "name": "Metroid Prime 2: Echoes",
+    "id": "ngc79",
+    "igdbId": 1108,
+    "gbId": 1597,
+    "gbGuid": "3030-1597",
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube Player's Choice"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Monsters, Inc. Scream Arena",
+    "id": "ngc80",
     "igdbId": 4020,
     "gbId": 27797,
     "gbGuid": "3030-27797",
     "tgdbId": 12534,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2050,18 +2183,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mortal Kombat: Deadly Alliance",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc79",
+    "id": "ngc81",
     "igdbId": 1612,
     "gbId": 6588,
     "gbGuid": "3030-6588",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2075,19 +2210,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc80",
     "name": "Mr. Driller: Drill Land",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc82",
     "igdbId": 4021,
     "gbId": 17904,
     "gbGuid": "3030-17904",
     "tgdbId": 17383,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2099,18 +2233,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc81",
     "name": "Muscle Champion",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc83",
     "igdbId": 4022,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 48832,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2122,18 +2257,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc82",
     "name": "Mutsu Tonohohon",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc84",
     "igdbId": 4023,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2145,18 +2280,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc83",
     "name": "NBA Courtside 2002",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc85",
     "igdbId": 4031,
     "gbId": 15866,
     "gbGuid": "3030-15866",
     "tgdbId": 11662,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2168,18 +2304,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "NBA Street Vol. 2",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc84",
+    "id": "ngc86",
     "igdbId": 4036,
     "gbId": 9866,
     "gbGuid": "3030-9866",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2193,19 +2331,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc85",
     "name": "NHL Hitz 20-02",
-    "details": [
-      "Nintendo GameCube launch title"
-    ],
+    "id": "ngc87",
     "igdbId": 4046,
     "gbId": 11863,
     "gbGuid": "3030-11863",
     "tgdbId": 7439,
+    "details": [
+      "Nintendo GameCube launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo GameCube",
@@ -2216,19 +2354,20 @@
         "tgdbId": 2
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Namco Museum",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc86",
+    "id": "ngc88",
     "igdbId": 131507,
     "gbId": 3013,
     "gbGuid": "3030-3013",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2242,20 +2381,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc87",
     "name": "Naruto: Clash of Ninja",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc89",
     "igdbId": 4026,
     "gbId": 20544,
     "gbGuid": "3030-20544",
     "tgdbId": 7009,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2266,6 +2404,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2279,18 +2418,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Naruto: Clash of Ninja 2",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc88",
+    "id": "ngc90",
     "igdbId": 24289,
     "gbId": 1330,
     "gbGuid": "3030-1330",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2304,19 +2444,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Need for Speed: Hot Pursuit 2",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc89",
+    "id": "ngc91",
     "igdbId": 95,
     "gbId": 12395,
     "gbGuid": "3030-12395",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2330,45 +2470,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Need for Speed: Underground",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc90",
+    "id": "ngc92",
     "igdbId": 96,
     "gbId": 12254,
     "gbGuid": "3030-12254",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Nicktoons Unite!",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc91",
-    "igdbId": 2769,
-    "gbId": 20319,
-    "gbGuid": "3030-20319",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2382,19 +2496,44 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc92",
-    "name": "Nintendo Puzzle Collection",
+    "name": "Nicktoons Unite!",
+    "id": "ngc93",
+    "igdbId": 2769,
+    "gbId": 20319,
+    "gbGuid": "3030-20319",
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube Player's Choice"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nintendo Puzzle Collection",
+    "id": "ngc94",
     "igdbId": 4049,
     "gbId": 11736,
     "gbGuid": "3030-11736",
     "tgdbId": 24797,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2406,18 +2545,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc93",
     "name": "Odama",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc95",
     "igdbId": 4050,
     "gbId": 268,
     "gbGuid": "3030-268",
     "tgdbId": 7019,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2429,18 +2569,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Over The Hedge",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc94",
+    "id": "ngc96",
     "igdbId": 4059,
     "gbId": 7954,
     "gbGuid": "3030-7954",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2454,19 +2596,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc95",
     "name": "P.N. 03",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc97",
     "igdbId": 4060,
     "gbId": 16637,
     "gbGuid": "3030-16637",
     "tgdbId": 7026,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2478,18 +2619,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pac-Man Fever",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc96",
+    "id": "ngc98",
     "igdbId": 4061,
     "gbId": 14407,
     "gbGuid": "3030-14407",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2503,19 +2646,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Pac-Man Vs.",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc97",
+    "id": "ngc99",
     "igdbId": 4062,
     "gbId": 12338,
     "gbGuid": "3030-12338",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2529,19 +2672,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Pac-Man World 2",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc98",
+    "id": "ngc100",
     "igdbId": 4063,
     "gbId": 20178,
     "gbGuid": "3030-20178",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2555,20 +2698,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc99",
     "name": "Paper Mario: The Thousand-Year Door",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc101",
     "igdbId": 3349,
     "gbId": 7481,
     "gbGuid": "3030-7481",
     "tgdbId": 2319,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2579,6 +2721,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2592,18 +2735,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc100",
     "name": "Phantasy Star Online Episode III: C.A.R.D. Revolution",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc102",
     "igdbId": 23329,
     "gbId": 16613,
     "gbGuid": "3030-16613",
     "tgdbId": 15778,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2615,44 +2758,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pikmin",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc101",
+    "id": "ngc103",
     "igdbId": 2239,
     "gbId": 2405,
     "gbGuid": "3030-2405",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Pikmin 2",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc102",
-    "igdbId": 2240,
-    "gbId": 2480,
-    "gbGuid": "3030-2480",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2666,19 +2785,44 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc103",
-    "name": "Pokémon Channel",
+    "name": "Pikmin 2",
+    "id": "ngc104",
+    "igdbId": 2240,
+    "gbId": 2480,
+    "gbGuid": "3030-2480",
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube Player's Choice"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pokémon Channel",
+    "id": "ngc105",
     "igdbId": 2643,
     "gbId": 19224,
     "gbGuid": "3030-19224",
     "tgdbId": 7027,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2690,19 +2834,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc104",
     "name": "Pokémon Colosseum",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc106",
     "igdbId": 2725,
     "gbId": 12926,
     "gbGuid": "3030-12926",
     "tgdbId": 7028,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2713,6 +2858,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2726,19 +2872,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc105",
     "name": "Pokémon XD: Gale of Darkness",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc107",
     "igdbId": 2724,
     "gbId": 12964,
     "gbGuid": "3030-12964",
     "tgdbId": 7029,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2749,6 +2895,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2762,18 +2909,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc106",
     "name": "Pool Edge",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc108",
     "igdbId": 4072,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 48839,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2785,18 +2932,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Prince of Persia: The Sands of Time",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc107",
+    "id": "ngc109",
     "igdbId": 836,
     "gbId": 5235,
     "gbGuid": "3030-5235",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2810,45 +2959,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Prince of Persia: Warrior Within",
-    "details": [
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
-    "id": "ngc108",
+    "id": "ngc110",
     "igdbId": 837,
     "gbId": 17357,
     "gbGuid": "3030-17357",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice (Europe)",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Rayman 3: Hoodlum Havoc",
     "details": [
       "Nintendo GameCube Player's Choice (Europe)"
     ],
-    "id": "ngc109",
-    "igdbId": 1966,
-    "gbId": 5821,
-    "gbGuid": "3030-5821",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice (Europe)",
@@ -2862,19 +2985,44 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc110",
-    "name": "Rei Fighter Gekitsui Senki",
+    "name": "Rayman 3: Hoodlum Havoc",
+    "id": "ngc111",
+    "igdbId": 1966,
+    "gbId": 5821,
+    "gbGuid": "3030-5821",
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube Player's Choice (Europe)"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice (Europe)",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rei Fighter Gekitsui Senki",
+    "id": "ngc112",
     "igdbId": 4085,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 48806,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2886,18 +3034,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Resident Evil",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc111",
+    "id": "ngc113",
     "igdbId": 24869,
     "gbId": 27715,
     "gbGuid": "3030-27715",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2911,45 +3061,37 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Resident Evil 3: Nemesis",
+    "id": "ngc114",
+    "igdbId": 966,
+    "gbId": 5587,
+    "gbGuid": "3030-5587",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/re3gc1.jpg",
+        "details": "center page not stapled, several pages upside down",
+        "type": "Binding"
+      }
+    ]
   },
   {
     "name": "Resident Evil 4",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc112",
+    "id": "ngc115",
     "igdbId": 974,
     "gbId": 1578,
     "gbGuid": "3030-1578",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Resident Evil Zero",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc113",
-    "igdbId": 970,
-    "gbId": 10247,
-    "gbGuid": "3030-10247",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -2963,19 +3105,68 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc114",
-    "name": "Road Trip: The Arcade Edition",
+    "name": "Resident Evil 4: GameStop Special Edition",
+    "id": "ngc116",
+    "igdbId": 9668,
+    "gbId": 1578,
+    "gbGuid": "3030-1578",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/re4gs.jpg",
+        "details": "severe offset printing",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Resident Evil Zero (Player's Choice)",
+    "id": "ngc117",
+    "igdbId": 970,
+    "gbId": 10247,
+    "gbGuid": "3030-10247",
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube Player's Choice"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/rezgc.jpg",
+        "details": "Important not in Red box",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Road Trip: The Arcade Edition",
+    "id": "ngc118",
     "igdbId": 78292,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 30906,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -2987,18 +3178,38 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rugrats: Royal Ransom",
+    "id": "ngc119",
+    "igdbId": 2793,
+    "gbId": 16119,
+    "gbGuid": "3030-16119",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/rugratsrrgc1.jpg",
+        "details": "manual cut crooked",
+        "type": "Cutting"
+      }
+    ]
   },
   {
     "name": "Shadow the Hedgehog",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc115",
+    "id": "ngc120",
     "igdbId": 4105,
     "gbId": 19436,
     "gbGuid": "3030-19436",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3012,19 +3223,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Shrek 2",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc116",
+    "id": "ngc121",
     "igdbId": 3668,
     "gbId": 722,
     "gbGuid": "3030-722",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3038,19 +3249,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Sonic Adventure 2: Battle",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc117",
+    "id": "ngc122",
     "igdbId": 7862,
     "gbId": 6845,
     "gbGuid": "3030-6845",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3064,19 +3275,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Sonic Adventure DX: Director's Cut",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc118",
+    "id": "ngc123",
     "igdbId": 23695,
     "gbId": 13158,
     "gbGuid": "3030-13158",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3090,19 +3301,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Sonic Gems Collection",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc119",
+    "id": "ngc124",
     "igdbId": 22510,
     "gbId": 14113,
     "gbGuid": "3030-14113",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3116,19 +3327,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "name": "Sonic Heroes",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc120",
+    "name": "Sonic Heroes (PAL)",
+    "id": "ngc125",
     "igdbId": 4156,
     "gbId": 9523,
     "gbGuid": "3030-9523",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3142,19 +3353,25 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/sonicheroespalgc.jpg",
+        "details": "foil printed in wrong location and not printed over",
+        "type": "Printing"
+      }
+    ]
   },
   {
-    "name": "Sonic Mega Collection",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc121",
+    "name": "Sonic Mega Collection (PAL)",
+    "id": "ngc126",
     "igdbId": 4157,
     "gbId": 17691,
     "gbGuid": "3030-17691",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3168,45 +3385,25 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/sonicmegasonic3.jpg",
+        "details": "most descriptions don't match icons",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Sonic Riders",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc122",
+    "id": "ngc127",
     "igdbId": 4158,
     "gbId": 15802,
     "gbGuid": "3030-15802",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "SoulCalibur II",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc123",
-    "igdbId": 1565,
-    "gbId": 11822,
-    "gbGuid": "3030-11822",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3220,19 +3417,44 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc124",
-    "name": "Special Jinsei Game",
+    "name": "SoulCalibur II",
+    "id": "ngc128",
+    "igdbId": 1565,
+    "gbId": 11822,
+    "gbGuid": "3030-11822",
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube Player's Choice"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Special Jinsei Game",
+    "id": "ngc129",
     "igdbId": 4161,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 48850,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -3244,18 +3466,38 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Speed Challenge: Jacques Villeneuve's Racing Vision (PAL)",
+    "id": "ngc130",
+    "igdbId": 4162,
+    "gbId": 8682,
+    "gbGuid": "3030-8682",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/speedchallenge.png",
+        "details": "says Speed Challange on spine",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Spider-Man",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc125",
+    "id": "ngc131",
     "igdbId": 19114,
     "gbId": 8322,
     "gbGuid": "3030-8322",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3269,19 +3511,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Spongebob Squarepants: Battle For Bikini Bottom",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc126",
+    "id": "ngc132",
     "igdbId": 2765,
     "gbId": 10556,
     "gbGuid": "3030-10556",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3295,19 +3537,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Spongebob Squarepants: Lights, Camera, Pants!",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc127",
+    "id": "ngc133",
     "igdbId": 2768,
     "gbId": 9269,
     "gbGuid": "3030-9269",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3321,19 +3563,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Spyro: A Hero's Tail",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc128",
+    "id": "ngc134",
     "igdbId": 1580,
     "gbId": 12209,
     "gbGuid": "3030-12209",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3347,19 +3589,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Spyro: Enter the Dragonfly",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc129",
+    "id": "ngc135",
     "igdbId": 1579,
     "gbId": 8420,
     "gbGuid": "3030-8420",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3373,20 +3615,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc130",
     "name": "Star Fox Adventures",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc136",
     "igdbId": 2686,
     "gbId": 19026,
     "gbGuid": "3030-19026",
     "tgdbId": 6263,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -3397,6 +3638,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3410,19 +3652,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc131",
     "name": "Star Fox: Assault",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc137",
     "igdbId": 3243,
     "gbId": 2727,
     "gbGuid": "3030-2727",
     "tgdbId": 2258,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -3433,6 +3675,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3446,28 +3689,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc132",
     "name": "Star Wars Rogue Squadron II: Rogue Leader",
-    "details": [
-      "Nintendo GameCube launch title",
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc138",
     "igdbId": 4181,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 7055,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo GameCube",
-        "id": "ccl4",
-        "igdbId": 21,
-        "gbId": 23,
-        "gbGuid": "3045-23",
-        "tgdbId": 2
-      }
+    "details": [
+      "Nintendo GameCube launch title",
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
     ],
     "isExclusive": [
       {
@@ -3479,18 +3713,42 @@
         "tgdbId": 2
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo GameCube",
+        "id": "ccl4",
+        "igdbId": 21,
+        "gbId": 23,
+        "gbGuid": "3045-23",
+        "tgdbId": 2
+      }
+    ],
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc133",
     "name": "Star Wars Rogue Squadron III: Rebel Strike",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc139",
     "igdbId": 4182,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 7054,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -3502,44 +3760,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "Star Wars: Bounty Hunter",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc134",
+    "id": "ngc140",
     "igdbId": 4180,
     "gbId": 17571,
     "gbGuid": "3030-17571",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Star Wars: Rogue Squadron II - Rogue Leader",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc135",
-    "igdbId": 4181,
-    "gbId": 4231,
-    "gbGuid": "3030-4231",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3553,45 +3799,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Star Wars: Rogue Squadron III - Rebel Strike",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc136",
-    "igdbId": 4182,
-    "gbId": 4108,
-    "gbGuid": "3030-4108",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Star Wars: The Clone Wars",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc137",
+    "id": "ngc141",
     "igdbId": 3760,
     "gbId": 11683,
     "gbGuid": "3030-11683",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3605,20 +3825,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc138",
     "name": "Super Mario Strikers",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc142",
     "igdbId": 2256,
     "gbId": 12476,
     "gbGuid": "3030-12476",
     "tgdbId": 6267,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -3629,6 +3848,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3642,19 +3862,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc139",
     "name": "Super Mario Sunshine",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc143",
     "igdbId": 1075,
     "gbId": 6649,
     "gbGuid": "3030-6649",
     "tgdbId": 2236,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -3665,6 +3885,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3678,19 +3899,20 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc140",
     "name": "Super Monkey Ball",
-    "details": [
-      "Nintendo GameCube launch title",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc144",
     "igdbId": 2927,
     "gbId": 7247,
     "gbGuid": "3030-7247",
     "tgdbId": 6780,
+    "details": [
+      "Nintendo GameCube launch title",
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo GameCube",
@@ -3714,18 +3936,19 @@
         }
       }
     ],
-    "isExclusive": false
+    "misprintsErrors": []
   },
   {
     "name": "Super Monkey Ball 2",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc141",
+    "id": "ngc145",
     "igdbId": 2928,
     "gbId": 5122,
     "gbGuid": "3030-5122",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3739,20 +3962,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc142",
     "name": "Super Smash Bros. Melee",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc146",
     "igdbId": 1627,
     "gbId": 17743,
     "gbGuid": "3030-17743",
     "tgdbId": 5654,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -3763,6 +3985,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3776,18 +3999,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc143",
     "name": "Swingerz Golf",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc147",
     "igdbId": 4192,
     "gbId": 17163,
     "gbGuid": "3030-17163",
     "tgdbId": 30922,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -3799,18 +4022,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Tales of Symphonia",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc144",
+    "id": "ngc148",
     "igdbId": 1204,
     "gbId": 21237,
     "gbGuid": "3030-21237",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3824,45 +4049,37 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles (PAL)",
+    "id": "ngc149",
+    "igdbId": 19747,
+    "gbId": 26368,
+    "gbGuid": "3030-26368",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/Teennage.jpg",
+        "details": "says teennage on spine",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc145",
+    "id": "ngc150",
     "igdbId": 3857,
     "gbId": 7549,
     "gbGuid": "3030-7549",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "The Incredibles",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc146",
-    "igdbId": 3782,
-    "gbId": 759,
-    "gbGuid": "3030-759",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3876,19 +4093,42 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Fairly OddParents: Shadow Showdown",
+    "id": "ngc151",
+    "igdbId": 3912,
+    "gbId": 21265,
+    "gbGuid": "3030-21265",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/oddparents-printerror.jpg",
+        "details": "The outer portion of the disc has no printing on it.",
+        "type": "Printing"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/fairlyopssgc1.jpg",
+        "details": "Most of inner ring disc printing missing",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "The Incredibles",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc147",
+    "id": "ngc152",
     "igdbId": 3782,
     "gbId": 759,
     "gbGuid": "3030-759",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3902,20 +4142,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc148",
     "name": "The Legend of Zelda: Four Swords Adventures",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc153",
     "igdbId": 1034,
     "gbId": 7856,
     "gbGuid": "3030-7856",
     "tgdbId": 6996,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -3926,6 +4165,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3939,19 +4179,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc149",
     "name": "The Legend of Zelda: The Wind Waker",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc154",
     "igdbId": 1033,
     "gbId": 18508,
     "gbGuid": "3030-18508",
     "tgdbId": 174,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -3962,6 +4202,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -3975,18 +4216,43 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/lozww.jpg",
+        "details": "no yellow on spine",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Twilight Princess",
+    "id": "ngc155",
+    "igdbId": 1036,
+    "gbId": 19467,
+    "gbGuid": "3030-19467",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/gamecube/loztpdisc.jpg",
+        "details": "half of disc not printed",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "The Lord of the Rings: The Return of the King",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc150",
+    "id": "ngc156",
     "igdbId": 2973,
     "gbId": 17686,
     "gbGuid": "3030-17686",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4000,19 +4266,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "The Lord of the Rings: The Two Towers",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc151",
+    "id": "ngc157",
     "igdbId": 2965,
     "gbId": 21334,
     "gbGuid": "3030-21334",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4026,19 +4292,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "The Sims",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc152",
+    "id": "ngc158",
     "igdbId": 223,
     "gbId": 17463,
     "gbGuid": "3030-17463",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4052,19 +4318,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "The Sims 2",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc153",
+    "id": "ngc159",
     "igdbId": 224,
     "gbId": 2473,
     "gbGuid": "3030-2473",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4078,19 +4344,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "The Sims Bustin' Out",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc154",
+    "id": "ngc160",
     "igdbId": 4151,
     "gbId": 14043,
     "gbGuid": "3030-14043",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4104,19 +4370,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "The Spongebob Squarepants Movie",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc155",
+    "id": "ngc161",
     "igdbId": 2767,
     "gbId": 581,
     "gbGuid": "3030-581",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4130,19 +4396,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "The Urbz: Sims in the City",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc156",
+    "id": "ngc162",
     "igdbId": 2158,
     "gbId": 1842,
     "gbGuid": "3030-1842",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4156,97 +4422,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "TimeSplitters 2",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc157",
+    "id": "ngc163",
     "igdbId": 2143,
     "gbId": 17246,
     "gbGuid": "3030-17246",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Tom Clancy's Splinter Cell",
-    "details": [
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
-    "id": "ngc158",
-    "igdbId": 910,
-    "gbId": 5961,
-    "gbGuid": "3030-5961",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice (Europe)",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
-    "details": [
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
-    "id": "ngc159",
-    "igdbId": 874,
-    "gbId": 15549,
-    "gbGuid": "3030-15549",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice (Europe)",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Tony Hawk's American Wasteland",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc160",
-    "igdbId": 7219,
-    "gbId": 7222,
-    "gbGuid": "3030-7222",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4260,19 +4448,97 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc161",
-    "name": "Tony Hawk's Pro Skater 3",
+    "name": "Tom Clancy's Splinter Cell",
+    "id": "ngc164",
+    "igdbId": 910,
+    "gbId": 5961,
+    "gbGuid": "3030-5961",
     "details": [
-      "Nintendo GameCube launch title"
+      "Nintendo GameCube Player's Choice (Europe)"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice (Europe)",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "id": "ngc165",
+    "igdbId": 874,
+    "gbId": 15549,
+    "gbGuid": "3030-15549",
+    "details": [
+      "Nintendo GameCube Player's Choice (Europe)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice (Europe)",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tony Hawk's American Wasteland",
+    "id": "ngc166",
+    "igdbId": 7219,
+    "gbId": 7222,
+    "gbGuid": "3030-7222",
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tony Hawk's Pro Skater 3",
+    "id": "ngc167",
     "igdbId": 914,
     "gbId": 5688,
     "gbGuid": "3030-5688",
     "tgdbId": 1219,
+    "details": [
+      "Nintendo GameCube launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo GameCube",
@@ -4283,19 +4549,20 @@
         "tgdbId": 2
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Tony Hawk's Pro Skater 4",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc162",
+    "id": "ngc168",
     "igdbId": 915,
     "gbId": 2101,
     "gbGuid": "3030-2101",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4309,19 +4576,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Tony Hawk's Underground",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc163",
+    "id": "ngc169",
     "igdbId": 2698,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4335,19 +4602,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Tony Hawk's Underground 2",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc164",
+    "id": "ngc170",
     "igdbId": 2699,
     "gbId": 1492,
     "gbGuid": "3030-1492",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4361,45 +4628,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "True Crime: New York City",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc165",
+    "id": "ngc171",
     "igdbId": 4215,
     "gbId": 3345,
     "gbGuid": "3030-3345",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "True Crime: Streets of LA",
     "details": [
       "Nintendo GameCube Player's Choice"
     ],
-    "id": "ngc166",
-    "igdbId": 4216,
-    "gbId": 11153,
-    "gbGuid": "3030-11153",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4413,19 +4654,44 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc167",
-    "name": "Tube Slider",
+    "name": "True Crime: Streets of LA",
+    "id": "ngc172",
+    "igdbId": 4216,
+    "gbId": 11153,
+    "gbGuid": "3030-11153",
     "details": [
-      "Nintendo GameCube console exclusive"
+      "Nintendo GameCube Player's Choice"
     ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tube Slider",
+    "id": "ngc173",
     "igdbId": 4217,
     "gbId": 2404,
     "gbGuid": "3030-2404",
     "tgdbId": 9932,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -4437,18 +4703,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Turok: Evolution",
-    "details": [
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
-    "id": "ngc168",
+    "id": "ngc174",
     "igdbId": 1329,
     "gbId": 3171,
     "gbGuid": "3030-3171",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice (Europe)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice (Europe)",
@@ -4462,19 +4730,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc169",
     "name": "Ultimate Muscle: Legends vs New Generation",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc175",
     "igdbId": 4224,
     "gbId": 21526,
     "gbGuid": "3030-21526",
     "tgdbId": 21755,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -4486,18 +4753,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Ultimate Spider-Man",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc170",
+    "id": "ngc176",
     "igdbId": 4225,
     "gbId": 7593,
     "gbGuid": "3030-7593",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4511,19 +4780,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc171",
     "name": "Universal Studios Theme Parks Adventure",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
+    "id": "ngc177",
     "igdbId": 50569,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 19584,
+    "details": [
+      "Nintendo GameCube console exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -4535,18 +4803,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Viewtiful Joe",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc172",
+    "id": "ngc178",
     "igdbId": 4229,
     "gbId": 15876,
     "gbGuid": "3030-15876",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4560,20 +4830,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc173",
     "name": "WWE Day of Reckoning",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc179",
     "igdbId": 4571,
     "gbId": 2308,
     "gbGuid": "3030-2308",
     "tgdbId": 22668,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -4584,6 +4853,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4597,19 +4867,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc174",
     "name": "WWE Day of Reckoning 2",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc180",
     "igdbId": 4572,
     "gbId": 21620,
     "gbGuid": "3030-21620",
     "tgdbId": 22669,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -4620,6 +4890,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4633,78 +4904,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc175",
     "name": "WWE WrestleMania X8",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc181",
     "igdbId": 4573,
     "gbId": 3732,
     "gbGuid": "3030-3732",
     "tgdbId": 18557,
-    "isExclusive": [
-      {
-        "name": "Nintendo GameCube",
-        "id": "ccl4",
-        "igdbId": 21,
-        "gbId": 23,
-        "gbGuid": "3045-23",
-        "tgdbId": 2
-      }
-    ],
-    "special": [
-      {
-        "value": "Nintendo GameCube Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo GameCube",
-          "id": "ccl4",
-          "igdbId": 21,
-          "gbId": 23,
-          "gbGuid": "3045-23",
-          "tgdbId": 2
-        }
-      }
-    ],
-    "isLaunchTitle": false
-  },
-  {
-    "id": "ngc176",
-    "name": "WWE WrestleMania XIX",
-    "details": [
-      "Nintendo GameCube console exclusive"
-    ],
-    "igdbId": 4574,
-    "gbId": 16374,
-    "gbGuid": "3030-16374",
-    "tgdbId": 22667,
-    "isExclusive": [
-      {
-        "name": "Nintendo GameCube",
-        "id": "ccl4",
-        "igdbId": 21,
-        "gbId": 23,
-        "gbGuid": "3045-23",
-        "tgdbId": 2
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "id": "ngc177",
-    "name": "Wario World",
     "details": [
       "Nintendo GameCube console exclusive",
       "Nintendo GameCube Player's Choice"
     ],
-    "igdbId": 1700,
-    "gbId": 5738,
-    "gbGuid": "3030-5738",
-    "tgdbId": 2327,
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -4715,6 +4927,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4728,18 +4941,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc178",
-    "name": "WarioWare, Inc.: Mega Microgame$!",
+    "name": "WWE WrestleMania XIX",
+    "id": "ngc182",
+    "igdbId": 4574,
+    "gbId": 16374,
+    "gbGuid": "3030-16374",
+    "tgdbId": 22667,
     "details": [
       "Nintendo GameCube console exclusive"
     ],
-    "igdbId": 1712,
-    "gbId": 11892,
-    "gbGuid": "3030-11892",
-    "tgdbId": 4136,
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -4751,19 +4964,91 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "ngc179",
-    "name": "Wave Race: Blue Storm",
+    "name": "Wario World",
+    "id": "ngc183",
+    "igdbId": 1700,
+    "gbId": 5738,
+    "gbGuid": "3030-5738",
+    "tgdbId": 2327,
     "details": [
-      "Nintendo GameCube launch title",
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo GameCube",
+        "id": "ccl4",
+        "igdbId": 21,
+        "gbId": 23,
+        "gbGuid": "3045-23",
+        "tgdbId": 2
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo GameCube Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo GameCube",
+          "id": "ccl4",
+          "igdbId": 21,
+          "gbId": 23,
+          "gbGuid": "3045-23",
+          "tgdbId": 2
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "WarioWare, Inc.: Mega Microgame$!",
+    "id": "ngc184",
+    "igdbId": 1712,
+    "gbId": 11892,
+    "gbGuid": "3030-11892",
+    "tgdbId": 4136,
+    "details": [
       "Nintendo GameCube console exclusive"
     ],
+    "isExclusive": [
+      {
+        "name": "Nintendo GameCube",
+        "id": "ccl4",
+        "igdbId": 21,
+        "gbId": 23,
+        "gbGuid": "3045-23",
+        "tgdbId": 2
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wave Race: Blue Storm",
+    "id": "ngc185",
     "igdbId": 4232,
     "gbId": 11793,
     "gbGuid": "3030-11793",
     "tgdbId": 2328,
+    "details": [
+      "Nintendo GameCube launch title",
+      "Nintendo GameCube console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo GameCube",
+        "id": "ccl4",
+        "igdbId": 21,
+        "gbId": 23,
+        "gbGuid": "3045-23",
+        "tgdbId": 2
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Nintendo GameCube",
@@ -4774,28 +5059,20 @@
         "tgdbId": 2
       }
     ],
-    "isExclusive": [
-      {
-        "name": "Nintendo GameCube",
-        "id": "ccl4",
-        "igdbId": 21,
-        "gbId": 23,
-        "gbGuid": "3045-23",
-        "tgdbId": 2
-      }
-    ],
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Worms 3D",
-    "details": [
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
-    "id": "ngc180",
+    "id": "ngc186",
     "igdbId": 1047,
     "gbId": 522,
     "gbGuid": "3030-522",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice (Europe)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice (Europe)",
@@ -4809,19 +5086,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "X-Men Legends",
-    "details": [
-      "Nintendo GameCube Player's Choice"
-    ],
-    "id": "ngc181",
+    "id": "ngc187",
     "igdbId": 4575,
     "gbId": 13087,
     "gbGuid": "3030-13087",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4835,19 +5112,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "XIII",
-    "details": [
-      "Nintendo GameCube Player's Choice (Europe)"
-    ],
-    "id": "ngc182",
+    "id": "ngc188",
     "igdbId": 1987,
     "gbId": 2955,
     "gbGuid": "3030-2955",
-    "tgdbId": null,
+    "details": [
+      "Nintendo GameCube Player's Choice (Europe)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice (Europe)",
@@ -4861,20 +5138,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "id": "ngc183",
     "name": "Yu-Gi-Oh! The Falsebound Kingdom",
-    "details": [
-      "Nintendo GameCube console exclusive",
-      "Nintendo GameCube Player's Choice"
-    ],
+    "id": "ngc189",
     "igdbId": 4582,
     "gbId": 14611,
     "gbGuid": "3030-14611",
     "tgdbId": 29725,
+    "details": [
+      "Nintendo GameCube console exclusive",
+      "Nintendo GameCube Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo GameCube",
@@ -4885,6 +5161,7 @@
         "tgdbId": 2
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo GameCube Player's Choice",
@@ -4898,6 +5175,6 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   }
 ]

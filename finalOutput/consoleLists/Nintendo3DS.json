@@ -1,14 +1,14 @@
 [
   {
     "name": "Ace Combat: Assault Horizon Legacy",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds0",
     "igdbId": 6745,
     "gbId": 35091,
     "gbGuid": "3030-35091",
     "tgdbId": 13834,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -20,18 +20,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Animal Crossing: Happy Home Designer",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds1",
     "igdbId": 10143,
     "gbId": 49326,
     "gbGuid": "3030-49326",
     "tgdbId": 30637,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -43,19 +44,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Animal Crossing: New Leaf",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
     "id": "n3ds2",
     "igdbId": 2687,
     "gbId": 31752,
     "gbGuid": "3030-31752",
     "tgdbId": 17019,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -66,6 +68,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -79,18 +82,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Art Academy: Lessons for Everyone!",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds3",
     "igdbId": 6849,
     "gbId": 38766,
     "gbGuid": "3030-38766",
     "tgdbId": 13087,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -102,18 +105,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Asphalt 3D",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds4",
     "igdbId": 6746,
     "gbId": 34244,
     "gbGuid": "3030-34244",
     "tgdbId": 13192,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -125,20 +129,30 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Asphault 3D",
     "id": "n3ds5",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
     "details": [
       "Nintendo 3DS launch title",
       "Nintendo 3DS exclusive",
       "3DS Nintendo Select"
     ],
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": null,
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Nintendo 3DS",
@@ -149,16 +163,6 @@
         "tgdbId": 4912
       }
     ],
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -171,19 +175,19 @@
           "tgdbId": 4912
         }
       }
-    ]
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "Attack on Titan: Humanity in Chains",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
     "id": "n3ds6",
     "igdbId": 20040,
     "gbId": 43443,
     "gbGuid": "3030-43443",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -194,6 +198,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -207,18 +212,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "BIT.TRIP SAGA",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds7",
     "igdbId": 21894,
     "gbId": 34946,
     "gbGuid": "3030-34946",
     "tgdbId": 14076,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -230,18 +235,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "BOXBOY!",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds8",
     "igdbId": 15654,
     "gbId": 48583,
     "gbGuid": "3030-48583",
     "tgdbId": 52675,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -253,18 +259,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bakutsuri Bar Hunter",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds9",
     "igdbId": 118316,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -276,18 +282,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Beyond the Labyrinth",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds10",
     "igdbId": 6835,
     "gbId": 35635,
     "gbGuid": "3030-35635",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -299,18 +305,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bit Boy!! Arcade",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds11",
     "igdbId": 62852,
     "gbId": 44058,
     "gbGuid": "3030-44058",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -322,18 +328,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "BlazBlue: Clone Phantasma",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds12",
     "igdbId": 64233,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -345,18 +351,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "BloodRayne: The Shroud",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds13",
     "igdbId": 77344,
     "gbId": 31792,
     "gbGuid": "3030-31792",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -368,18 +374,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bloody Vampire",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds14",
     "igdbId": 59209,
     "gbId": 52069,
     "gbGuid": "3030-52069",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -391,18 +397,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "BoxBoxBoy!",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds15",
     "igdbId": 19598,
     "gbId": 52213,
     "gbGuid": "3030-52213",
     "tgdbId": 52795,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -414,18 +421,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Brain Age: Concentration Training",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds16",
     "igdbId": 20884,
     "gbId": 39122,
     "gbGuid": "3030-39122",
     "tgdbId": 15075,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -437,18 +445,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bravely Default",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds17",
     "igdbId": 4700,
     "gbId": 43731,
     "gbGuid": "3030-43731",
     "tgdbId": 17319,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -460,18 +469,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bravely Second: End Layer",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds18",
     "igdbId": 11256,
     "gbId": 44633,
     "gbGuid": "3030-44633",
     "tgdbId": 35273,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -483,28 +493,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bust-A-Move Universe",
     "id": "n3ds19",
-    "details": [
-      "Nintendo 3DS launch title",
-      "Nintendo 3DS exclusive"
-    ],
     "igdbId": 21154,
     "gbId": 32813,
     "gbGuid": "3030-32813",
-    "tgdbId": null,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
+    "details": [
+      "Nintendo 3DS launch title",
+      "Nintendo 3DS exclusive"
     ],
     "isExclusive": [
       {
@@ -516,18 +516,29 @@
         "tgdbId": 4912
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bye-Bye BoxBoy!",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds20",
     "igdbId": 26350,
     "gbId": 57262,
     "gbGuid": "3030-57262",
     "tgdbId": 46044,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -539,18 +550,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Chase: Cold Case Investigations ~Distant Memories~",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds21",
     "igdbId": 25039,
     "gbId": 53004,
     "gbGuid": "3030-53004",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -562,18 +573,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Code Name: S.T.E.A.M.",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds22",
     "igdbId": 7392,
     "gbId": 46597,
     "gbGuid": "3030-46597",
     "tgdbId": 27917,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -585,18 +597,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Colors! 3D",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds23",
     "igdbId": 47652,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 21209,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -608,28 +621,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Combat of Giants: Dinosaurs 3D",
     "id": "n3ds24",
-    "details": [
-      "Nintendo 3DS launch title",
-      "Nintendo 3DS exclusive"
-    ],
     "igdbId": 6752,
     "gbId": 31766,
     "gbGuid": "3030-31766",
-    "tgdbId": null,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
+    "details": [
+      "Nintendo 3DS launch title",
+      "Nintendo 3DS exclusive"
     ],
     "isExclusive": [
       {
@@ -641,18 +644,29 @@
         "tgdbId": 4912
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Cooking Mama 4: Kitchen Magic",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds25",
     "igdbId": 11359,
     "gbId": 34934,
     "gbGuid": "3030-34934",
     "tgdbId": 13309,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -664,18 +678,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Cooking Mama 5: Bon Appetit!",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds26",
     "igdbId": 47642,
     "gbId": 46063,
     "gbGuid": "3030-46063",
     "tgdbId": 24410,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -687,18 +702,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Crashmo",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds27",
     "igdbId": 19928,
     "gbId": 39899,
     "gbGuid": "3030-39899",
     "tgdbId": 21210,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -710,18 +726,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Crosswords Plus",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds28",
     "igdbId": 10230,
     "gbId": 40250,
     "gbGuid": "3030-40250",
     "tgdbId": 13086,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -733,18 +750,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Cubic Ninja",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds29",
     "igdbId": 6754,
     "gbId": 31773,
     "gbGuid": "3030-31773",
     "tgdbId": 24214,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -756,18 +774,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dead or Alive: Dimensions",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds30",
     "igdbId": 1396,
     "gbId": 31762,
     "gbGuid": "3030-31762",
     "tgdbId": 13342,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -779,18 +798,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Deca Sports Extreme",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds31",
     "igdbId": 6755,
     "gbId": 33900,
     "gbGuid": "3030-33900",
     "tgdbId": 13818,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -802,18 +822,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Detective Pikachu",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds32",
     "igdbId": 81272,
     "gbId": 52467,
     "gbGuid": "3030-52467",
     "tgdbId": 53984,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -825,18 +846,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dillon's Dead-Heat Breakers",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds33",
     "igdbId": 90687,
     "gbId": 61368,
     "gbGuid": "3030-61368",
     "tgdbId": 55646,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -848,18 +870,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dillon's Rolling Western",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds34",
     "igdbId": 47655,
     "gbId": 35597,
     "gbGuid": "3030-35597",
     "tgdbId": 20833,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -871,18 +894,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dillon's Rolling Western: The Last Ranger",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds35",
     "igdbId": 24294,
     "gbId": 41574,
     "gbGuid": "3030-41574",
     "tgdbId": 21085,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -894,18 +918,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Disney Art Academy",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds36",
     "igdbId": 18198,
     "gbId": 52920,
     "gbGuid": "3030-52920",
     "tgdbId": 42682,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -917,18 +942,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Disney Epic Mickey: The Power of Illusion",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds37",
     "igdbId": 6765,
     "gbId": 37764,
     "gbGuid": "3030-37764",
     "tgdbId": 12782,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -940,18 +966,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Disney Frozen: Olaf's Quest",
-    "details": [
-      "3DS Nintendo Select"
-    ],
     "id": "n3ds38",
     "igdbId": 85088,
     "gbId": 46901,
     "gbGuid": "3030-46901",
-    "tgdbId": null,
+    "details": [
+      "3DS Nintendo Select"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -965,19 +993,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Disney Magical World",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds39",
     "igdbId": 6756,
     "gbId": 45968,
     "gbGuid": "3030-45968",
     "tgdbId": 20577,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -989,18 +1016,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Disney Magical World 2",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds40",
     "igdbId": 24952,
     "gbId": 50629,
     "gbGuid": "3030-50629",
     "tgdbId": 42686,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1012,18 +1040,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Doctor Lautrec and the Forgotten Knights",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds41",
     "igdbId": 6757,
     "gbId": 33425,
     "gbGuid": "3030-33425",
     "tgdbId": 13244,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1035,18 +1064,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Donkey Kong Country Returns 3D",
-    "details": [
-      "3DS Nintendo Select"
-    ],
     "id": "n3ds42",
     "igdbId": 20110,
     "gbId": 31732,
     "gbGuid": "3030-31732",
-    "tgdbId": null,
+    "details": [
+      "3DS Nintendo Select"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -1060,19 +1091,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Dr. Mario: Miracle Cure",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds43",
     "igdbId": 11068,
     "gbId": 49801,
     "gbGuid": "3030-49801",
     "tgdbId": 55239,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1084,18 +1114,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dragon Ball Z: Extreme Butōden",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds44",
     "igdbId": 20033,
     "gbId": 48878,
     "gbGuid": "3030-48878",
     "tgdbId": 32125,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1107,18 +1138,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dragon Ball: Fusions",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds45",
     "igdbId": 19314,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 42690,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1130,18 +1162,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dragon Quest Monsters: Joker 3",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds46",
     "igdbId": 24057,
     "gbId": 51284,
     "gbGuid": "3030-51284",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1153,18 +1185,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Driver: Renegade",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds47",
     "igdbId": 6758,
     "gbId": 31782,
     "gbGuid": "3030-31782",
     "tgdbId": 16818,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1176,18 +1209,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "DualPenSports",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds48",
     "igdbId": 25179,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 15089,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1199,18 +1233,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Etrian Mystery Dungeon",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds49",
     "igdbId": 8607,
     "gbId": 48311,
     "gbGuid": "3030-48311",
     "tgdbId": 28909,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1222,18 +1257,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Etrian Odyssey 2 Untold: The Fafnir Knight",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds50",
     "igdbId": 14709,
     "gbId": 47341,
     "gbGuid": "3030-47341",
     "tgdbId": 29433,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1245,18 +1281,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Etrian Odyssey IV: Legends of the Titan",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds51",
     "igdbId": 6767,
     "gbId": 37560,
     "gbGuid": "3030-37560",
     "tgdbId": 15093,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1268,18 +1305,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Etrian Odyssey Nexus",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds52",
     "igdbId": 57012,
     "gbId": 67924,
     "gbGuid": "3030-67924",
     "tgdbId": 62337,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1291,18 +1329,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Etrian Odyssey Untold: The Millennium Girl",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds53",
     "igdbId": 6768,
     "gbId": 42076,
     "gbGuid": "3030-42076",
     "tgdbId": 17626,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1314,18 +1353,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Etrian Odyssey V: Beyond the Myth",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds54",
     "igdbId": 18224,
     "gbId": 48274,
     "gbGuid": "3030-48274",
     "tgdbId": 50521,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1337,18 +1377,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Ever Oasis",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds55",
     "igdbId": 19596,
     "gbId": 54257,
     "gbGuid": "3030-54257",
     "tgdbId": 47059,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1360,18 +1401,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Face Raiders",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds56",
     "igdbId": 66060,
     "gbId": 34610,
     "gbGuid": "3030-34610",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1383,18 +1424,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Fantasy Life",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds57",
     "igdbId": 6770,
     "gbId": 27947,
     "gbGuid": "3030-27947",
     "tgdbId": 23240,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1406,18 +1448,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Final Fantasy Explorers",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds58",
     "igdbId": 7413,
     "gbId": 46654,
     "gbGuid": "3030-46654",
     "tgdbId": 24781,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1429,18 +1472,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Fire Emblem Echoes: Shadows of Valentia",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds59",
     "igdbId": 26840,
     "gbId": 57789,
     "gbGuid": "3030-57789",
     "tgdbId": 46050,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1452,18 +1496,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Fire Emblem Fates: Birthright",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds60",
     "igdbId": 24220,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 35066,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1475,18 +1520,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Fire Emblem Fates: Conquest",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds61",
     "igdbId": 21863,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 35067,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1498,18 +1544,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Fire Emblem Fates: Revelation",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds62",
     "igdbId": 18038,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 46096,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1521,19 +1568,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Fire Emblem: Awakening",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
     "id": "n3ds63",
     "igdbId": 1443,
     "gbId": 36394,
     "gbGuid": "3030-36394",
     "tgdbId": 14459,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1544,6 +1592,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -1557,18 +1606,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Flipnote Studio",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds64",
     "igdbId": 62295,
     "gbId": 45166,
     "gbGuid": "3030-45166",
     "tgdbId": 20851,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1580,18 +1629,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Fluidity: Spin Cycle",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds65",
     "igdbId": 20088,
     "gbId": 39542,
     "gbGuid": "3030-39542",
     "tgdbId": 29975,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1603,18 +1653,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Fossil Fighters: Frontier",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds66",
     "igdbId": 8609,
     "gbId": 44785,
     "gbGuid": "3030-44785",
     "tgdbId": 29381,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1626,18 +1677,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Freakyforms: Your Creations, Alive!",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds67",
     "igdbId": 6771,
     "gbId": 35626,
     "gbGuid": "3030-35626",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1649,18 +1700,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Frogger 3D",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds68",
     "igdbId": 6772,
     "gbId": 35620,
     "gbGuid": "3030-35620",
     "tgdbId": 16979,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1672,18 +1724,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Gaist Crusher",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds69",
     "igdbId": 62876,
     "gbId": 43915,
     "gbGuid": "3030-43915",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1695,18 +1747,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Gardening Mama 2: Forest Friends",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds70",
     "igdbId": 6357,
     "gbId": 49078,
     "gbGuid": "3030-49078",
     "tgdbId": 40986,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1718,18 +1771,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Gon: Baku Baku Baku Baku Adventure",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds71",
     "igdbId": 6785,
     "gbId": 37757,
     "gbGuid": "3030-37757",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1741,18 +1794,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Gravity Falls: Legend of the Gnome Gemulets",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds72",
     "igdbId": 44014,
     "gbId": 50320,
     "gbGuid": "3030-50320",
     "tgdbId": 42782,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1764,18 +1818,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Guild 01",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds73",
     "igdbId": 92613,
     "gbId": 36700,
     "gbGuid": "3030-36700",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1787,18 +1841,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Guild 02",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds74",
     "igdbId": 78188,
     "gbId": 39914,
     "gbGuid": "3030-39914",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1810,18 +1864,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "HarmoKnight",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds75",
     "igdbId": 18156,
     "gbId": 39569,
     "gbGuid": "3030-39569",
     "tgdbId": 21084,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1833,18 +1888,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Harvest Moon 3D: A New Beginning",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds76",
     "igdbId": 47633,
     "gbId": 38629,
     "gbGuid": "3030-38629",
     "tgdbId": 13815,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1856,18 +1912,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Harvest Moon 3D: The Lost Valley",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds77",
     "igdbId": 7419,
     "gbId": 46485,
     "gbGuid": "3030-46485",
     "tgdbId": 34020,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1879,18 +1936,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Harvest Moon: A New Beginning",
-    "details": [
-      "3DS Nintendo Select"
-    ],
     "id": "n3ds78",
     "igdbId": 3393,
     "gbId": 38629,
     "gbGuid": "3030-38629",
-    "tgdbId": null,
+    "details": [
+      "3DS Nintendo Select"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -1904,19 +1963,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Hatsune Miku and Future Stars: Project Mirai",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds79",
     "igdbId": 6805,
     "gbId": 36393,
     "gbGuid": "3030-36393",
     "tgdbId": 48673,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1928,18 +1986,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Hero Bank",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds80",
     "igdbId": 61446,
     "gbId": 46717,
     "gbGuid": "3030-46717",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1951,18 +2009,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Heroes of Ruin",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds81",
     "igdbId": 6806,
     "gbId": 35479,
     "gbGuid": "3030-35479",
     "tgdbId": 12728,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1974,18 +2033,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Hey! Pikmin",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds82",
     "igdbId": 28124,
     "gbId": 55298,
     "gbGuid": "3030-55298",
     "tgdbId": 48160,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -1997,41 +2057,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "IRONFALL Invasion",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
     "id": "n3ds83",
     "igdbId": 8610,
     "gbId": 44360,
     "gbGuid": "3030-44360",
     "tgdbId": 51508,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Inazuma Eleven GO",
     "details": [
       "Nintendo 3DS exclusive"
     ],
-    "id": "n3ds84",
-    "igdbId": null,
-    "gbId": 33788,
-    "gbGuid": "3030-33788",
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2043,18 +2081,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Inazuma Eleven GO Chrono Stones",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds85",
+    "id": "n3ds84",
     "igdbId": 62740,
     "gbId": 44274,
     "gbGuid": "3030-44274",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2066,18 +2104,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Inazuma Eleven GO: Galaxy Big Bang",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds86",
+    "id": "n3ds85",
     "igdbId": 62739,
     "gbId": 44275,
     "gbGuid": "3030-44275",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2089,18 +2127,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Jewelpet: Magical Dance in Style Deco!",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds87",
+    "id": "n3ds86",
     "igdbId": 6831,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2112,18 +2150,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Kersploosh!",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds88",
+    "id": "n3ds87",
     "igdbId": 63825,
     "gbId": 41582,
     "gbGuid": "3030-41582",
     "tgdbId": 64587,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2135,18 +2174,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Ketzal's Corridors",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds89",
+    "id": "n3ds88",
     "igdbId": 47651,
     "gbId": 37984,
     "gbGuid": "3030-37984",
     "tgdbId": 21215,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2158,18 +2198,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Kid Icarus: Uprising",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds90",
+    "id": "n3ds89",
     "igdbId": 3665,
     "gbId": 31734,
     "gbGuid": "3030-31734",
     "tgdbId": 12598,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2181,18 +2222,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Kingdom Hearts 3D: Dream Drop Distance",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds91",
+    "id": "n3ds90",
     "igdbId": 1226,
     "gbId": 31740,
     "gbGuid": "3030-31740",
     "tgdbId": 12014,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2204,18 +2246,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Kirby Battle Royale",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds92",
+    "id": "n3ds91",
     "igdbId": 66788,
     "gbId": 61337,
     "gbGuid": "3030-61337",
     "tgdbId": 49457,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2227,18 +2270,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Kirby: Planet Robobot",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds93",
+    "id": "n3ds92",
     "igdbId": 18221,
     "gbId": 52921,
     "gbGuid": "3030-52921",
     "tgdbId": 41192,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2250,19 +2294,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Kirby: Triple Deluxe",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds94",
+    "id": "n3ds93",
     "igdbId": 5440,
     "gbId": 44073,
     "gbGuid": "3030-44073",
     "tgdbId": 20488,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2273,6 +2318,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -2286,18 +2332,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Kokuga",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds95",
+    "id": "n3ds94",
     "igdbId": 22164,
     "gbId": 37646,
     "gbGuid": "3030-37646",
     "tgdbId": 21216,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2309,19 +2355,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "LEGO City Undercover: The Chase Begins",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds96",
+    "id": "n3ds95",
     "igdbId": 6837,
     "gbId": 41231,
     "gbGuid": "3030-41231",
     "tgdbId": 16799,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2332,6 +2379,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -2345,18 +2393,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "LEGO Star Wars III: The Clone Wars",
-    "id": "n3ds97",
-    "details": [
-      "Nintendo 3DS launch title"
-    ],
+    "id": "n3ds96",
     "igdbId": 6844,
     "gbId": 29992,
     "gbGuid": "3030-29992",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo 3DS",
@@ -2367,19 +2415,19 @@
         "tgdbId": 4912
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Langrisser Re:Incarnation -TENSEI-",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds98",
+    "id": "n3ds97",
     "igdbId": 20080,
     "gbId": 48735,
     "gbGuid": "3030-48735",
     "tgdbId": 39471,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2391,18 +2439,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Lord of Magna: Maiden Heaven",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds99",
+    "id": "n3ds98",
     "igdbId": 20020,
     "gbId": 45397,
     "gbGuid": "3030-45397",
     "tgdbId": 39472,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2414,19 +2463,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Luigi's Mansion: Dark Moon",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds100",
+    "id": "n3ds99",
     "igdbId": 2476,
     "gbId": 35572,
     "gbGuid": "3030-35572",
     "tgdbId": 15183,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2437,6 +2487,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -2450,28 +2501,17 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Madden NFL Football",
-    "id": "n3ds101",
-    "details": [
-      "Nintendo 3DS launch title",
-      "Nintendo 3DS exclusive"
-    ],
+    "id": "n3ds100",
     "igdbId": 6845,
     "gbId": 34245,
     "gbGuid": "3030-34245",
-    "tgdbId": null,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
+    "details": [
+      "Nintendo 3DS launch title",
+      "Nintendo 3DS exclusive"
     ],
     "isExclusive": [
       {
@@ -2483,18 +2523,29 @@
         "tgdbId": 4912
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mahjong Cub3D",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds102",
+    "id": "n3ds101",
     "igdbId": 6846,
     "gbId": 34972,
     "gbGuid": "3030-34972",
     "tgdbId": 18027,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2506,19 +2557,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mario & Luigi: Dream Team",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds103",
+    "id": "n3ds102",
     "igdbId": 3365,
     "gbId": 41569,
     "gbGuid": "3030-41569",
     "tgdbId": 17217,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2529,6 +2581,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -2542,18 +2595,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Mario & Luigi: Paper Jam",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds104",
+    "id": "n3ds103",
     "igdbId": 11195,
     "gbId": 49996,
     "gbGuid": "3030-49996",
     "tgdbId": 34539,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2565,18 +2618,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mario Golf: World Tour",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds105",
+    "id": "n3ds104",
     "igdbId": 3405,
     "gbId": 41570,
     "gbGuid": "3030-41570",
     "tgdbId": 20487,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2588,18 +2642,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mario Kart 7",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds106",
+    "id": "n3ds105",
     "igdbId": 2349,
     "gbId": 31747,
     "gbGuid": "3030-31747",
     "tgdbId": 12733,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2611,19 +2666,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mario Party: Island Tour",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds107",
+    "id": "n3ds106",
     "igdbId": 2338,
     "gbId": 42400,
     "gbGuid": "3030-42400",
     "tgdbId": 18346,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2634,6 +2690,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -2647,18 +2704,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Mario Party: Star Rush",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds108",
+    "id": "n3ds107",
     "igdbId": 19599,
     "gbId": 54246,
     "gbGuid": "3030-54246",
     "tgdbId": 41290,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2670,18 +2727,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mario Party: The Top 100",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds109",
+    "id": "n3ds108",
     "igdbId": 66812,
     "gbId": 61338,
     "gbGuid": "3030-61338",
     "tgdbId": 49451,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2693,18 +2751,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mario Sports Superstars",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds110",
+    "id": "n3ds109",
     "igdbId": 26939,
     "gbId": 55299,
     "gbGuid": "3030-55299",
     "tgdbId": 44046,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2716,19 +2775,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mario Tennis Open",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds111",
+    "id": "n3ds110",
     "igdbId": 5712,
     "gbId": 36392,
     "gbGuid": "3030-36392",
     "tgdbId": 12691,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2739,6 +2799,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -2752,18 +2813,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Mario and Donkey Kong: Minis on the Move",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds112",
+    "id": "n3ds111",
     "igdbId": 18027,
     "gbId": 41583,
     "gbGuid": "3030-41583",
     "tgdbId": 49330,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2775,18 +2836,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Metal Max 4: Moonlight Diva",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds113",
+    "id": "n3ds112",
     "igdbId": 63165,
     "gbId": 43185,
     "gbGuid": "3030-43185",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2798,18 +2859,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Metroid Prime: Federation Force",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds114",
+    "id": "n3ds113",
     "igdbId": 11217,
     "gbId": 49959,
     "gbGuid": "3030-49959",
     "tgdbId": 35013,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2821,18 +2883,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Metroid: Samus Returns",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds115",
+    "id": "n3ds114",
     "igdbId": 37140,
     "gbId": 59941,
     "gbGuid": "3030-59941",
     "tgdbId": 46993,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2844,18 +2907,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Miitopia",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds116",
+    "id": "n3ds115",
     "igdbId": 26926,
     "gbId": 55326,
     "gbGuid": "3030-55326",
     "tgdbId": 48283,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2867,18 +2931,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Monster Hunter 4",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds117",
+    "id": "n3ds116",
     "igdbId": 65676,
     "gbId": 36395,
     "gbGuid": "3030-36395",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2890,41 +2954,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Nano Assault",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds118",
+    "id": "n3ds117",
     "igdbId": 21075,
     "gbId": 35433,
     "gbGuid": "3030-35433",
     "tgdbId": 14077,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Naruto Shippuden: The New Era",
     "details": [
       "Nintendo 3DS exclusive"
     ],
-    "id": "n3ds119",
-    "igdbId": null,
-    "gbId": 34028,
-    "gbGuid": "3030-34028",
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2936,41 +2978,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "New Super Mario Bros. 2",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds120",
+    "id": "n3ds118",
     "igdbId": 1080,
     "gbId": 38064,
     "gbGuid": "3030-38064",
     "tgdbId": 12504,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Nintendo Badge Arcade",
     "details": [
       "Nintendo 3DS exclusive"
     ],
-    "id": "n3ds121",
-    "igdbId": 24957,
-    "gbId": 51471,
-    "gbGuid": "3030-51471",
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -2982,19 +3002,42 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nintendo Badge Arcade",
+    "id": "n3ds119",
+    "igdbId": 24957,
+    "gbId": 51471,
+    "gbGuid": "3030-51471",
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Nintendogs + Cats",
+    "id": "n3ds120",
+    "igdbId": 85600,
+    "gbId": 31736,
+    "gbGuid": "3030-31736",
     "details": [
       "Nintendo 3DS exclusive",
       "3DS Nintendo Select"
     ],
-    "id": "n3ds122",
-    "igdbId": 85600,
-    "gbId": 31736,
-    "gbGuid": "3030-31736",
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3005,6 +3048,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -3018,18 +3062,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Nintendogs + Cats: French Bulldog & New Friends",
-    "id": "n3ds123",
-    "details": [
-      "Nintendo 3DS launch title"
-    ],
+    "id": "n3ds121",
     "igdbId": 21936,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo 3DS",
@@ -3040,42 +3084,19 @@
         "tgdbId": 4912
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Nintendogs + Cats: Golden Retriever & New Friends",
-    "id": "n3ds124",
-    "details": [
-      "Nintendo 3DS launch title"
-    ],
+    "id": "n3ds122",
     "igdbId": 21935,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isExclusive": false,
-    "special": []
-  },
-  {
-    "name": "Nintendogs + Cats: Toy Poodle & New Friends",
-    "id": "n3ds125",
     "details": [
       "Nintendo 3DS launch title"
     ],
-    "igdbId": 3059,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": null,
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo 3DS",
@@ -3086,19 +3107,42 @@
         "tgdbId": 4912
       }
     ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nintendogs + Cats: Toy Poodle & New Friends",
+    "id": "n3ds123",
+    "igdbId": 3059,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo 3DS launch title"
+    ],
     "isExclusive": false,
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pac-Man & Galaga Dimensions",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds126",
+    "id": "n3ds124",
     "igdbId": 6861,
     "gbId": 34079,
     "gbGuid": "3030-34079",
     "tgdbId": 24143,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3110,19 +3154,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Paper Mario: Sticker Star",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds127",
+    "id": "n3ds125",
     "igdbId": 3350,
     "gbId": 31755,
     "gbGuid": "3030-31755",
     "tgdbId": 12707,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3133,6 +3178,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -3146,18 +3192,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Persona Q2: New Cinema Labyrinth",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds128",
+    "id": "n3ds126",
     "igdbId": 54220,
     "gbId": 60632,
     "gbGuid": "3030-60632",
     "tgdbId": 64500,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3169,18 +3215,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Persona Q: Shadow of the Labyrinth",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds129",
+    "id": "n3ds127",
     "igdbId": 6887,
     "gbId": 44564,
     "gbGuid": "3030-44564",
     "tgdbId": 20884,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3192,18 +3239,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Picross 3D: Round 2",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds130",
+    "id": "n3ds128",
     "igdbId": 26176,
     "gbId": 50604,
     "gbGuid": "3030-50604",
     "tgdbId": 42425,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3215,18 +3263,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Picross e",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds131",
+    "id": "n3ds129",
     "igdbId": 22277,
     "gbId": 35960,
     "gbGuid": "3030-35960",
     "tgdbId": 52976,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3238,19 +3287,29 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pilotwings Resort",
-    "id": "n3ds132",
+    "id": "n3ds130",
+    "igdbId": 6862,
+    "gbId": 31748,
+    "gbGuid": "3030-31748",
     "details": [
       "Nintendo 3DS launch title",
       "Nintendo 3DS exclusive"
     ],
-    "igdbId": 6862,
-    "gbId": 31748,
-    "gbGuid": "3030-31748",
-    "tgdbId": null,
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Nintendo 3DS",
@@ -3261,51 +3320,19 @@
         "tgdbId": 4912
       }
     ],
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "special": []
-  },
-  {
-    "name": "Pokémon Art Academy",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds133",
-    "igdbId": null,
-    "gbId": 46182,
-    "gbGuid": "3030-46182",
-    "tgdbId": 29391,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pokémon Battle Trozei",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds134",
+    "id": "n3ds131",
     "igdbId": 8589,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 49332,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3317,18 +3344,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pokémon Moon",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds135",
+    "id": "n3ds132",
     "igdbId": 18099,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 41159,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3340,41 +3368,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pokémon Mystery Dungeon: Gates to Infinity",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds136",
+    "id": "n3ds133",
     "igdbId": 4566,
     "gbId": 39762,
     "gbGuid": "3030-39762",
     "tgdbId": 16398,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Pokémon Omega Ruby/Alpha Sapphire Double Pack",
     "details": [
       "Nintendo 3DS exclusive"
     ],
-    "id": "n3ds137",
-    "igdbId": null,
-    "gbId": 46251,
-    "gbGuid": "3030-46251",
-    "tgdbId": 40102,
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3386,18 +3392,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pokémon Picross",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds138",
+    "id": "n3ds134",
     "igdbId": 20039,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 63241,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3409,41 +3416,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pokémon Rumble Blast",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds139",
+    "id": "n3ds135",
     "igdbId": 4561,
     "gbId": 35627,
     "gbGuid": "3030-35627",
     "tgdbId": 12725,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Pokémon Rumble World",
     "details": [
       "Nintendo 3DS exclusive"
     ],
-    "id": "n3ds140",
-    "igdbId": null,
-    "gbId": 49183,
-    "gbGuid": "3030-49183",
-    "tgdbId": 42979,
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3455,41 +3440,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Pokémon Super Mystery Dungeon",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds141",
-    "igdbId": null,
-    "gbId": 49725,
-    "gbGuid": "3030-49725",
-    "tgdbId": 33562,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pokémon Ultra Moon",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds142",
+    "id": "n3ds136",
     "igdbId": 36793,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 50897,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3501,41 +3464,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pokémon Ultra Sun",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds143",
+    "id": "n3ds137",
     "igdbId": 36792,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 50896,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Poyopoyo Kansatsu Nikki",
     "details": [
       "Nintendo 3DS exclusive"
     ],
-    "id": "n3ds144",
-    "igdbId": 61410,
-    "gbId": 46772,
-    "gbGuid": "3030-46772",
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3547,19 +3488,52 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Poyopoyo Kansatsu Nikki",
+    "id": "n3ds138",
+    "igdbId": 61410,
+    "gbId": 46772,
+    "gbGuid": "3030-46772",
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pro Evolution Soccer 2011 3D",
-    "id": "n3ds145",
+    "id": "n3ds139",
+    "igdbId": 47629,
+    "gbId": 31217,
+    "gbGuid": "3030-31217",
     "details": [
       "Nintendo 3DS launch title",
       "Nintendo 3DS exclusive"
     ],
-    "igdbId": 47629,
-    "gbId": 31217,
-    "gbGuid": "3030-31217",
-    "tgdbId": null,
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Nintendo 3DS",
@@ -3570,28 +3544,19 @@
         "tgdbId": 4912
       }
     ],
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Professor Layton and the Azran Legacy",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds146",
+    "id": "n3ds140",
     "igdbId": 1403,
     "gbId": 39570,
     "gbGuid": "3030-39570",
     "tgdbId": 21206,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3603,28 +3568,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Professor Layton and the Miracle Mask",
-    "id": "n3ds147",
-    "details": [
-      "Nintendo 3DS launch title",
-      "Nintendo 3DS exclusive"
-    ],
+    "id": "n3ds141",
     "igdbId": 1401,
     "gbId": 29298,
     "gbGuid": "3030-29298",
-    "tgdbId": null,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
+    "details": [
+      "Nintendo 3DS launch title",
+      "Nintendo 3DS exclusive"
     ],
     "isExclusive": [
       {
@@ -3636,18 +3591,29 @@
         "tgdbId": 4912
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Professor Layton vs Phoenix Wright: Ace Attorney",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds148",
+    "id": "n3ds142",
     "igdbId": 1402,
     "gbId": 32927,
     "gbGuid": "3030-32927",
     "tgdbId": 20561,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3659,18 +3625,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Project X Zone",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds149",
+    "id": "n3ds143",
     "igdbId": 6864,
     "gbId": 37959,
     "gbGuid": "3030-37959",
     "tgdbId": 17301,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3682,18 +3649,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Project X Zone 2",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds150",
+    "id": "n3ds144",
     "igdbId": 9721,
     "gbId": 49406,
     "gbGuid": "3030-49406",
     "tgdbId": 35544,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3705,18 +3673,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pushmo",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds151",
+    "id": "n3ds145",
     "igdbId": 22921,
     "gbId": 36926,
     "gbGuid": "3030-36926",
     "tgdbId": 21221,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3728,18 +3697,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Puzzle & Dragons X",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds152",
+    "id": "n3ds146",
     "igdbId": 84797,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3751,18 +3720,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds153",
+    "id": "n3ds147",
     "igdbId": 85357,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 34542,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3774,18 +3744,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Rabbids Rumble",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds154",
+    "id": "n3ds148",
     "igdbId": 6867,
     "gbId": 38483,
     "gbGuid": "3030-38483",
     "tgdbId": 12720,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3797,18 +3768,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Rayman 3D",
-    "id": "n3ds155",
-    "details": [
-      "Nintendo 3DS launch title"
-    ],
+    "id": "n3ds149",
     "igdbId": 20585,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo 3DS",
@@ -3819,19 +3791,19 @@
         "tgdbId": 4912
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Regular Show: Mordecai and Rigby in 8-Bit Land",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds156",
+    "id": "n3ds150",
     "igdbId": 6869,
     "gbId": 43171,
     "gbGuid": "3030-43171",
     "tgdbId": 33563,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3843,18 +3815,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Resident Evil: The Mercenaries 3D",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds157",
+    "id": "n3ds151",
     "igdbId": 976,
     "gbId": 32811,
     "gbGuid": "3030-32811",
     "tgdbId": 13767,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3866,18 +3839,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Return to PoPoLoCrois: A Story of Seasons Fairytale",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds158",
+    "id": "n3ds152",
     "igdbId": 11005,
     "gbId": 47759,
     "gbGuid": "3030-47759",
     "tgdbId": 35552,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3889,18 +3863,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Rhythm Heaven Megamix",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds159",
+    "id": "n3ds153",
     "igdbId": 18220,
     "gbId": 48579,
     "gbGuid": "3030-48579",
     "tgdbId": 40910,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3912,21 +3887,21 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Ridge Racer 3D",
-    "id": "n3ds160",
+    "id": "n3ds154",
+    "igdbId": 6871,
+    "gbId": 31741,
+    "gbGuid": "3030-31741",
     "details": [
       "Nintendo 3DS launch title",
       "Nintendo 3DS exclusive",
       "3DS Nintendo Select"
     ],
-    "igdbId": 6871,
-    "gbId": 31741,
-    "gbGuid": "3030-31741",
-    "tgdbId": null,
-    "isLaunchTitle": [
+    "isExclusive": [
       {
         "name": "Nintendo 3DS",
         "id": "ccl12",
@@ -3936,7 +3911,7 @@
         "tgdbId": 4912
       }
     ],
-    "isExclusive": [
+    "isLaunchTitle": [
       {
         "name": "Nintendo 3DS",
         "id": "ccl12",
@@ -3958,18 +3933,19 @@
           "tgdbId": 4912
         }
       }
-    ]
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "RollerCoaster Tycoon 3D",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds161",
+    "id": "n3ds155",
     "igdbId": 6873,
     "gbId": 37339,
     "gbGuid": "3030-37339",
     "tgdbId": 13155,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -3981,18 +3957,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Rune Factory 4",
-    "details": [
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds162",
+    "id": "n3ds156",
     "igdbId": 6874,
     "gbId": 36843,
     "gbGuid": "3030-36843",
-    "tgdbId": null,
+    "details": [
+      "3DS Nintendo Select"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -4006,19 +3984,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Rusty's Real Deal Baseball",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds163",
+    "id": "n3ds157",
     "igdbId": 47650,
     "gbId": 45413,
     "gbGuid": "3030-45413",
     "tgdbId": 21223,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4030,18 +4007,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "SEGA 3D Classics Collection",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds164",
+    "id": "n3ds158",
     "igdbId": 19891,
     "gbId": 50806,
     "gbGuid": "3030-50806",
     "tgdbId": 35685,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4053,18 +4031,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Sakura Samurai: Art of the Sword",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds165",
+    "id": "n3ds159",
     "igdbId": 20811,
     "gbId": 36937,
     "gbGuid": "3030-36937",
     "tgdbId": 21222,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4076,28 +4055,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Samurai Warriors: Chronicles",
-    "id": "n3ds166",
-    "details": [
-      "Nintendo 3DS launch title",
-      "Nintendo 3DS exclusive"
-    ],
+    "id": "n3ds160",
     "igdbId": 6882,
     "gbId": 31763,
     "gbGuid": "3030-31763",
-    "tgdbId": null,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
+    "details": [
+      "Nintendo 3DS launch title",
+      "Nintendo 3DS exclusive"
     ],
     "isExclusive": [
       {
@@ -4109,18 +4078,29 @@
         "tgdbId": 4912
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Shin Megami Tensei IV",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds167",
+    "id": "n3ds161",
     "igdbId": 6886,
     "gbId": 31809,
     "gbGuid": "3030-31809",
     "tgdbId": 17216,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4132,18 +4112,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Shin Megami Tensei IV: Apocalypse",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds168",
+    "id": "n3ds162",
     "igdbId": 19329,
     "gbId": 51099,
     "gbGuid": "3030-51099",
     "tgdbId": 39659,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4155,18 +4136,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Shinobi",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds169",
+    "id": "n3ds163",
     "igdbId": 86252,
     "gbId": 35441,
     "gbGuid": "3030-35441",
     "tgdbId": 2071,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4178,18 +4160,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Sonic Boom: Fire & Ice",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds170",
+    "id": "n3ds164",
     "igdbId": 15556,
     "gbId": 49881,
     "gbGuid": "3030-49881",
     "tgdbId": 44635,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4201,18 +4184,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Sonic Boom: Shattered Crystal",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds171",
+    "id": "n3ds165",
     "igdbId": 7855,
     "gbId": 46482,
     "gbGuid": "3030-46482",
     "tgdbId": 23603,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4224,18 +4208,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Spirit Camera: The Cursed Memoir",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds172",
+    "id": "n3ds166",
     "igdbId": 6889,
     "gbId": 37341,
     "gbGuid": "3030-37341",
     "tgdbId": 13307,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4247,19 +4232,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Star Fox 64 3D",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds173",
+    "id": "n3ds167",
     "igdbId": 6890,
     "gbId": 31757,
     "gbGuid": "3030-31757",
     "tgdbId": 12686,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4270,6 +4256,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -4283,28 +4270,17 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Steel Diver",
-    "id": "n3ds174",
-    "details": [
-      "Nintendo 3DS launch title",
-      "Nintendo 3DS exclusive"
-    ],
+    "id": "n3ds168",
     "igdbId": 6891,
     "gbId": 31770,
     "gbGuid": "3030-31770",
-    "tgdbId": null,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
+    "details": [
+      "Nintendo 3DS launch title",
+      "Nintendo 3DS exclusive"
     ],
     "isExclusive": [
       {
@@ -4316,18 +4292,29 @@
         "tgdbId": 4912
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Stella Glow",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds175",
+    "id": "n3ds169",
     "igdbId": 11459,
     "gbId": 49258,
     "gbGuid": "3030-49258",
     "tgdbId": 32827,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4339,18 +4326,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Story of Seasons",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds176",
+    "id": "n3ds170",
     "igdbId": 8608,
     "gbId": 44754,
     "gbGuid": "3030-44754",
     "tgdbId": 35054,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4362,18 +4350,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Story of Seasons: Trio of Towns",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds177",
+    "id": "n3ds171",
     "igdbId": 15910,
     "gbId": 53693,
     "gbGuid": "3030-53693",
     "tgdbId": 43227,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4385,18 +4374,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Stretchmo",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds178",
+    "id": "n3ds172",
     "igdbId": 19984,
     "gbId": 49648,
     "gbGuid": "3030-49648",
     "tgdbId": 60945,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4408,41 +4398,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Style Savvy: Fashion Forward",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds179",
+    "id": "n3ds173",
     "igdbId": 22796,
     "gbId": 48584,
     "gbGuid": "3030-48584",
     "tgdbId": 34018,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Style Savvy: Styling Star",
     "details": [
       "Nintendo 3DS exclusive"
     ],
-    "id": "n3ds180",
-    "igdbId": 67202,
-    "gbId": 61367,
-    "gbGuid": "3030-61367",
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4454,19 +4422,43 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Style Savvy: Styling Star",
+    "id": "n3ds174",
+    "igdbId": 67202,
+    "gbId": 61367,
+    "gbGuid": "3030-61367",
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Style Savvy: Trendsetters",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds181",
+    "id": "n3ds175",
     "igdbId": 6892,
     "gbId": 39284,
     "gbGuid": "3030-39284",
     "tgdbId": 13153,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4477,6 +4469,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -4490,281 +4483,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Super Mario 3D Land",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds182",
+    "id": "n3ds176",
     "igdbId": 1079,
     "gbId": 34303,
     "gbGuid": "3030-34303",
     "tgdbId": 10605,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "special": [
-      {
-        "value": "3DS Nintendo Select",
-        "forPlatform": {
-          "name": "Nintendo 3DS",
-          "id": "ccl12",
-          "igdbId": 37,
-          "gbId": 117,
-          "gbGuid": "3045-117",
-          "tgdbId": 4912
-        }
-      }
-    ],
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Super Mario Maker for Nintendo 3DS",
-    "details": [
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds183",
-    "igdbId": 26157,
-    "gbId": 55308,
-    "gbGuid": "3030-55308",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "3DS Nintendo Select",
-        "forPlatform": {
-          "name": "Nintendo 3DS",
-          "id": "ccl12",
-          "igdbId": 37,
-          "gbId": 117,
-          "gbGuid": "3045-117",
-          "tgdbId": 4912
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Super Monkey Ball 3D",
-    "id": "n3ds184",
-    "details": [
-      "Nintendo 3DS launch title",
-      "Nintendo 3DS exclusive"
-    ],
-    "igdbId": 6893,
-    "gbId": 32814,
-    "gbGuid": "3030-32814",
-    "tgdbId": null,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "special": []
-  },
-  {
-    "name": "Super Robot Wars UX",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds185",
-    "igdbId": 6894,
-    "gbId": 40836,
-    "gbGuid": "3030-40836",
-    "tgdbId": null,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Super Street Fighter IV: 3D Edition",
-    "id": "n3ds186",
-    "details": [
-      "Nintendo 3DS launch title"
-    ],
-    "igdbId": 6895,
-    "gbId": 28437,
-    "gbGuid": "3030-28437",
-    "tgdbId": null,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isExclusive": false,
-    "special": []
-  },
-  {
-    "name": "Super Street Fighter IV: 3D Edition",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds187",
-    "igdbId": 6895,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": 13340,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Swapnote",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds188",
-    "igdbId": 93529,
-    "gbId": 37657,
-    "gbGuid": "3030-37657",
-    "tgdbId": null,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb",
-    "details": [
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds189",
-    "igdbId": 63850,
-    "gbId": 41525,
-    "gbGuid": "3030-41525",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "3DS Nintendo Select",
-        "forPlatform": {
-          "name": "Nintendo 3DS",
-          "id": "ccl12",
-          "igdbId": 37,
-          "gbId": 117,
-          "gbGuid": "3045-117",
-          "tgdbId": 4912
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Tales of the Abyss",
-    "details": [
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds190",
-    "igdbId": 1207,
-    "gbId": 14210,
-    "gbGuid": "3030-14210",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "3DS Nintendo Select",
-        "forPlatform": {
-          "name": "Nintendo 3DS",
-          "id": "ccl12",
-          "igdbId": 37,
-          "gbId": 117,
-          "gbGuid": "3045-117",
-          "tgdbId": 4912
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Tank Troopers",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds191",
-    "igdbId": 27388,
-    "gbId": 55300,
-    "gbGuid": "3030-55300",
-    "tgdbId": null,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Teddy Together",
     "details": [
       "Nintendo 3DS exclusive",
       "3DS Nintendo Select"
     ],
-    "id": "n3ds192",
-    "igdbId": 85430,
-    "gbId": 53976,
-    "gbGuid": "3030-53976",
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4775,6 +4506,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -4788,18 +4520,267 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "name": "Tekken 3D: Prime Edition",
+    "name": "Super Mario Maker for Nintendo 3DS",
+    "id": "n3ds177",
+    "igdbId": 26157,
+    "gbId": 55308,
+    "gbGuid": "3030-55308",
+    "details": [
+      "3DS Nintendo Select"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "3DS Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo 3DS",
+          "id": "ccl12",
+          "igdbId": 37,
+          "gbId": 117,
+          "gbGuid": "3045-117",
+          "tgdbId": 4912
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Monkey Ball 3D",
+    "id": "n3ds178",
+    "igdbId": 6893,
+    "gbId": 32814,
+    "gbGuid": "3030-32814",
+    "details": [
+      "Nintendo 3DS launch title",
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Robot Wars UX",
+    "id": "n3ds179",
+    "igdbId": 6894,
+    "gbId": 40836,
+    "gbGuid": "3030-40836",
     "details": [
       "Nintendo 3DS exclusive"
     ],
-    "id": "n3ds193",
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Street Fighter IV: 3D Edition",
+    "id": "n3ds180",
+    "igdbId": 6895,
+    "gbId": 28437,
+    "gbGuid": "3030-28437",
+    "details": [
+      "Nintendo 3DS launch title",
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Swapnote",
+    "id": "n3ds181",
+    "igdbId": 93529,
+    "gbId": 37657,
+    "gbGuid": "3030-37657",
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb",
+    "id": "n3ds182",
+    "igdbId": 63850,
+    "gbId": 41525,
+    "gbGuid": "3030-41525",
+    "details": [
+      "3DS Nintendo Select"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "3DS Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo 3DS",
+          "id": "ccl12",
+          "igdbId": 37,
+          "gbId": 117,
+          "gbGuid": "3045-117",
+          "tgdbId": 4912
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tales of the Abyss",
+    "id": "n3ds183",
+    "igdbId": 1207,
+    "gbId": 14210,
+    "gbGuid": "3030-14210",
+    "details": [
+      "3DS Nintendo Select"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "3DS Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo 3DS",
+          "id": "ccl12",
+          "igdbId": 37,
+          "gbId": 117,
+          "gbGuid": "3045-117",
+          "tgdbId": 4912
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tank Troopers",
+    "id": "n3ds184",
+    "igdbId": 27388,
+    "gbId": 55300,
+    "gbGuid": "3030-55300",
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Teddy Together",
+    "id": "n3ds185",
+    "igdbId": 85430,
+    "gbId": 53976,
+    "gbGuid": "3030-53976",
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "3DS Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo 3DS",
+          "id": "ccl12",
+          "igdbId": 37,
+          "gbId": 117,
+          "gbGuid": "3045-117",
+          "tgdbId": 4912
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tekken 3D: Prime Edition",
+    "id": "n3ds186",
     "igdbId": 1237,
     "gbId": 35582,
     "gbGuid": "3030-35582",
     "tgdbId": 15158,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4811,18 +4792,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Tenkai Knights: Brave Battle",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds194",
+    "id": "n3ds187",
     "igdbId": 21906,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 44642,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4834,18 +4816,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Tetris Axis",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds195",
+    "id": "n3ds188",
     "igdbId": 6896,
     "gbId": 35601,
     "gbGuid": "3030-35601",
     "tgdbId": 13305,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4857,18 +4840,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "The Alliance Alive",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds196",
+    "id": "n3ds189",
     "igdbId": 25068,
     "gbId": 56843,
     "gbGuid": "3030-56843",
     "tgdbId": 54140,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4880,18 +4864,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "The Denpa Men: They Came By Wave",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds197",
+    "id": "n3ds190",
     "igdbId": 9662,
     "gbId": 39862,
     "gbGuid": "3030-39862",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4903,18 +4887,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "The Legend of Korra: A New Era Begins",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds198",
+    "id": "n3ds191",
     "igdbId": 7996,
     "gbId": 50587,
     "gbGuid": "3030-50587",
     "tgdbId": 41046,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4926,18 +4911,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "The Legend of Legacy",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds199",
+    "id": "n3ds192",
     "igdbId": 11317,
     "gbId": 47890,
     "gbGuid": "3030-47890",
     "tgdbId": 36171,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4949,19 +4935,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "The Legend of Zelda: A Link Between Worlds",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds200",
+    "id": "n3ds193",
     "igdbId": 2909,
     "gbId": 42402,
     "gbGuid": "3030-42402",
     "tgdbId": 18165,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -4972,6 +4959,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -4985,19 +4973,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "The Legend of Zelda: Majora's Mask 3D",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds201",
+    "id": "n3ds194",
     "igdbId": 8593,
     "gbId": 13594,
     "gbGuid": "3030-13594",
     "tgdbId": 23870,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -5008,6 +4996,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -5021,19 +5010,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "The Legend of Zelda: Ocarina of Time 3D",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds202",
+    "id": "n3ds195",
     "igdbId": 1039,
     "gbId": 12572,
     "gbGuid": "3030-12572",
     "tgdbId": 12698,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -5044,6 +5033,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -5057,18 +5047,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "The Legend of Zelda: Tri Force Heroes",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds203",
+    "id": "n3ds196",
     "igdbId": 11194,
     "gbId": 49994,
     "gbGuid": "3030-49994",
     "tgdbId": 32311,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -5080,18 +5070,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "The Sims 3",
-    "id": "n3ds204",
-    "details": [
-      "Nintendo 3DS launch title"
-    ],
+    "id": "n3ds197",
     "igdbId": 141634,
     "gbId": 20581,
     "gbGuid": "3030-20581",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 3DS launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo 3DS",
@@ -5102,19 +5093,19 @@
         "tgdbId": 4912
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Theatrhythm Dragon Quest",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds205",
+    "id": "n3ds198",
     "igdbId": 60767,
     "gbId": 48349,
     "gbGuid": "3030-48349",
     "tgdbId": 62073,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -5126,18 +5117,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Theatrhythm Final Fantasy: Curtain Call",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds206",
+    "id": "n3ds199",
     "igdbId": 5679,
     "gbId": 43922,
     "gbGuid": "3030-43922",
     "tgdbId": 23409,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -5149,18 +5141,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Tokyo Crash Mobs",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds207",
+    "id": "n3ds200",
     "igdbId": 20171,
     "gbId": 40772,
     "gbGuid": "3030-40772",
     "tgdbId": 21228,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -5172,19 +5165,29 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Tom Clancy's Ghost Recon: Shadow Wars",
-    "id": "n3ds208",
+    "id": "n3ds201",
+    "igdbId": 1303,
+    "gbId": 31771,
+    "gbGuid": "3030-31771",
     "details": [
       "Nintendo 3DS launch title",
       "Nintendo 3DS exclusive"
     ],
-    "igdbId": 1303,
-    "gbId": 31771,
-    "gbGuid": "3030-31771",
-    "tgdbId": null,
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Nintendo 3DS",
@@ -5195,206 +5198,20 @@
         "tgdbId": 4912
       }
     ],
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Tomodachi Life",
-    "details": [
-      "Nintendo 3DS exclusive",
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds209",
+    "id": "n3ds202",
     "igdbId": 6403,
     "gbId": 39565,
     "gbGuid": "3030-39565",
     "tgdbId": 20607,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "special": [
-      {
-        "value": "3DS Nintendo Select",
-        "forPlatform": {
-          "name": "Nintendo 3DS",
-          "id": "ccl12",
-          "igdbId": 37,
-          "gbId": 117,
-          "gbGuid": "3045-117",
-          "tgdbId": 4912
-        }
-      }
-    ],
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Touch Detective Rising 3: Does Funghi Dream Of Bananas?",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds210",
-    "igdbId": 6905,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": null,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Ultimate NES Remix",
-    "details": [
-      "3DS Nintendo Select"
-    ],
-    "id": "n3ds211",
-    "igdbId": 20054,
-    "gbId": 47678,
-    "gbGuid": "3030-47678",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "3DS Nintendo Select",
-        "forPlatform": {
-          "name": "Nintendo 3DS",
-          "id": "ccl12",
-          "igdbId": 37,
-          "gbId": 117,
-          "gbGuid": "3045-117",
-          "tgdbId": 4912
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "WarioWare Gold",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds212",
-    "igdbId": 90108,
-    "gbId": 66898,
-    "gbGuid": "3030-66898",
-    "tgdbId": 60472,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Yo-Kai Watch 3",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds213",
-    "igdbId": 113249,
-    "gbId": 49374,
-    "gbGuid": "3030-49374",
-    "tgdbId": 62506,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Yo-Kai Watch Blasters",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds214",
-    "igdbId": null,
-    "gbId": 49372,
-    "gbGuid": "3030-49372",
-    "tgdbId": null,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Yo-kai Watch",
-    "details": [
-      "Nintendo 3DS exclusive"
-    ],
-    "id": "n3ds215",
-    "igdbId": 11197,
-    "gbId": 41934,
-    "gbGuid": "3030-41934",
-    "tgdbId": 32748,
-    "isExclusive": [
-      {
-        "name": "Nintendo 3DS",
-        "id": "ccl12",
-        "igdbId": 37,
-        "gbId": 117,
-        "gbGuid": "3045-117",
-        "tgdbId": 4912
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Yoshi's New Island",
     "details": [
       "Nintendo 3DS exclusive",
       "3DS Nintendo Select"
     ],
-    "id": "n3ds216",
-    "igdbId": 4591,
-    "gbId": 42401,
-    "gbGuid": "3030-42401",
-    "tgdbId": 20564,
     "isExclusive": [
       {
         "name": "Nintendo 3DS",
@@ -5405,6 +5222,7 @@
         "tgdbId": 4912
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "3DS Nintendo Select",
@@ -5418,6 +5236,164 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
+  },
+  {
+    "name": "Touch Detective Rising 3: Does Funghi Dream Of Bananas?",
+    "id": "n3ds203",
+    "igdbId": 6905,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ultimate NES Remix",
+    "id": "n3ds204",
+    "igdbId": 20054,
+    "gbId": 47678,
+    "gbGuid": "3030-47678",
+    "details": [
+      "3DS Nintendo Select"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "3DS Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo 3DS",
+          "id": "ccl12",
+          "igdbId": 37,
+          "gbId": 117,
+          "gbGuid": "3045-117",
+          "tgdbId": 4912
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "WarioWare Gold",
+    "id": "n3ds205",
+    "igdbId": 90108,
+    "gbId": 66898,
+    "gbGuid": "3030-66898",
+    "tgdbId": 60472,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Yo-Kai Watch 3",
+    "id": "n3ds206",
+    "igdbId": 113249,
+    "gbId": 49374,
+    "gbGuid": "3030-49374",
+    "tgdbId": 62506,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Yo-kai Watch",
+    "id": "n3ds207",
+    "igdbId": 11197,
+    "gbId": 41934,
+    "gbGuid": "3030-41934",
+    "tgdbId": 32748,
+    "details": [
+      "Nintendo 3DS exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Yoshi's New Island",
+    "id": "n3ds208",
+    "igdbId": 4591,
+    "gbId": 42401,
+    "gbGuid": "3030-42401",
+    "tgdbId": 20564,
+    "details": [
+      "Nintendo 3DS exclusive",
+      "3DS Nintendo Select"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 3DS",
+        "id": "ccl12",
+        "igdbId": 37,
+        "gbId": 117,
+        "gbGuid": "3045-117",
+        "tgdbId": 4912
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "3DS Nintendo Select",
+        "forPlatform": {
+          "name": "Nintendo 3DS",
+          "id": "ccl12",
+          "igdbId": 37,
+          "gbId": 117,
+          "gbGuid": "3045-117",
+          "tgdbId": 4912
+        }
+      }
+    ],
+    "misprintsErrors": []
   }
 ]

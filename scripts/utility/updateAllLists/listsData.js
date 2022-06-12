@@ -2,7 +2,7 @@ const path = require('path');
 
 const smallFiles = path.join(__dirname, '../../../finalOutput/smallFiles');
 // @TODO: remove 'Test' from output once verified that script works
-const consoleLists = path.join(__dirname, '../../../finalOutput/consoleListsTest');
+const consoleLists = path.join(__dirname, '../../../finalOutput/consoleLists');
 
 module.exports.listData = [
   {
@@ -59,7 +59,7 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'special/nesBlackBoxTitles.json')),
       require(path.resolve(smallFiles, 'special/nesHangtabGames.json'))
     ],
-    output: path.resolve(consoleLists, 'nintendoEntertainmentSystem.json')
+    output: path.resolve(consoleLists, 'NintendoEntertainmentSystem.json')
   },
   {
     name: 'Super Nintendo Entertainment System (SNES)',
@@ -771,7 +771,7 @@ module.exports.listData = [
     )),
     exclusives: null,
     misprintsAndErrors: null,
-    special: null,
+    special: [require(path.resolve(smallFiles, 'backwardCompatibilityLists/ngpcToNgp.json'))],
     output: path.resolve(consoleLists, 'BandaiWonderSwanColor.json')
   },
   {

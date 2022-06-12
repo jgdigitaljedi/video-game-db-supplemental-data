@@ -1,14 +1,14 @@
 [
   {
     "name": "007: The World Is Not Enough",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
     "id": "n640",
     "igdbId": 1641,
     "gbId": 18168,
     "gbGuid": "3030-18168",
     "tgdbId": 238,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -20,18 +20,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "1080° Snowboarding",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
     "id": "n641",
     "igdbId": 3328,
     "gbId": 18946,
     "gbGuid": "3030-18946",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -45,19 +47,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "64 Oozumou",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
     "id": "n642",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 16128,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -69,18 +70,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "64 de Hakken! Tamagotchi Minna de Tamagotchi World",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
     "id": "n643",
     "igdbId": 3611,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 25733,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -92,18 +94,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Aero Fighters Assault",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
     "id": "n644",
     "igdbId": 3330,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 1052,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -115,18 +118,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "AeroGauge",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
     "id": "n645",
     "igdbId": 3329,
     "gbId": 19906,
     "gbGuid": "3030-19906",
     "tgdbId": 1053,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -138,18 +142,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Aidyn Chronicles: The First Mage",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
     "id": "n646",
     "igdbId": 2850,
     "gbId": 14602,
     "gbGuid": "3030-14602",
     "tgdbId": 1054,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -161,18 +166,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Airboarder 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
     "id": "n647",
     "igdbId": 47763,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 1055,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -184,18 +190,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "All-Star Baseball '99",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
     "id": "n648",
     "igdbId": 10663,
     "gbId": 19311,
     "gbGuid": "3030-19311",
     "tgdbId": 18281,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -207,18 +214,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "All-Star Baseball 2000",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
     "id": "n649",
     "igdbId": 10658,
     "gbId": 4565,
     "gbGuid": "3030-4565",
     "tgdbId": 1058,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -230,41 +238,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Automobili Lamborghini",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
     "id": "n6410",
     "igdbId": 3442,
     "gbId": 27569,
     "gbGuid": "3030-27569",
     "tgdbId": 1063,
-    "isExclusive": [
-      {
-        "name": "Nintendo 64",
-        "id": "ccl3",
-        "igdbId": 4,
-        "gbId": 43,
-        "gbGuid": "3045-43",
-        "tgdbId": 3
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Bakushou Jinsei 64: Mezase! Resort Ou",
     "details": [
       "Nintendo 64 exclusive"
     ],
-    "id": "n6411",
-    "igdbId": null,
-    "gbId": 22507,
-    "gbGuid": "3030-22507",
-    "tgdbId": 16764,
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -276,18 +262,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Banjo-Kazooie",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n6412",
+    "id": "n6411",
     "igdbId": 2148,
     "gbId": 10920,
     "gbGuid": "3030-10920",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -301,19 +289,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Bassmasters 2000",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6413",
+    "id": "n6412",
     "igdbId": 3420,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 1064,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -325,18 +312,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Beetle Adventure Racing!",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6414",
+    "id": "n6413",
     "igdbId": 2715,
     "gbId": 10791,
     "gbGuid": "3030-10791",
     "tgdbId": 1067,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -348,18 +336,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Big Mountain 2000",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6415",
+    "id": "n6414",
     "igdbId": 3367,
     "gbId": 22568,
     "gbGuid": "3030-22568",
     "tgdbId": 1068,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -371,18 +360,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Blast Corps",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6416",
+    "id": "n6415",
     "igdbId": 3424,
     "gbId": 13245,
     "gbGuid": "3030-13245",
     "tgdbId": 1070,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -394,18 +384,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Blues Brothers 2000",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6417",
+    "id": "n6416",
     "igdbId": 3425,
     "gbId": 13658,
     "gbGuid": "3030-13658",
     "tgdbId": 243,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -417,18 +408,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Body Harvest",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6418",
+    "id": "n6417",
     "igdbId": 3426,
     "gbId": 18772,
     "gbGuid": "3030-18772",
     "tgdbId": 244,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -440,18 +432,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bomberman 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6419",
+    "id": "n6418",
     "igdbId": 3451,
     "gbId": 17348,
     "gbGuid": "3030-17348",
     "tgdbId": 1072,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -463,18 +456,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bomberman 64",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n6420",
+    "id": "n6419",
     "igdbId": 80368,
     "gbId": 17348,
     "gbGuid": "3030-17348",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -488,19 +483,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Bomberman 64: The Second Attack!",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6421",
+    "id": "n6420",
     "igdbId": 3452,
     "gbId": 17082,
     "gbGuid": "3030-17082",
     "tgdbId": 1071,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -512,18 +506,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bomberman Hero",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n6422",
+    "id": "n6421",
     "igdbId": 3453,
     "gbId": 15079,
     "gbGuid": "3030-15079",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -537,19 +533,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Buck Bumble",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6423",
+    "id": "n6422",
     "igdbId": 3368,
     "gbId": 8907,
     "gbGuid": "3030-8907",
     "tgdbId": 1075,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -561,18 +556,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Castlevania",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6424",
+    "id": "n6423",
     "igdbId": 1130,
     "gbId": 22950,
     "gbGuid": "3030-22950",
     "tgdbId": 135,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -584,18 +580,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Castlevania: Legacy of Darkness",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6425",
+    "id": "n6424",
     "igdbId": 1131,
     "gbId": 6467,
     "gbGuid": "3030-6467",
     "tgdbId": 246,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -607,18 +604,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Chameleon Twist",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6426",
+    "id": "n6425",
     "igdbId": 3427,
     "gbId": 8523,
     "gbGuid": "3030-8523",
     "tgdbId": 1081,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -630,18 +628,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Chameleon Twist 2",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6427",
+    "id": "n6426",
     "igdbId": 10609,
     "gbId": 15991,
     "gbGuid": "3030-15991",
     "tgdbId": 1082,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -653,18 +652,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Chopper Attack",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6428",
+    "id": "n6427",
     "igdbId": 3428,
     "gbId": 9026,
     "gbGuid": "3030-9026",
     "tgdbId": 247,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -676,41 +676,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Choro Q 64 2: Hachamecha Grand Prix Race",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6429",
+    "id": "n6428",
     "igdbId": 47742,
     "gbId": 67808,
     "gbGuid": "3030-67808",
     "tgdbId": 25735,
-    "isExclusive": [
-      {
-        "name": "Nintendo 64",
-        "id": "ccl3",
-        "igdbId": 4,
-        "gbId": 43,
-        "gbGuid": "3045-43",
-        "tgdbId": 3
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Chou-Kuukan Night Pro Yakyuu King",
     "details": [
       "Nintendo 64 exclusive"
     ],
-    "id": "n6430",
-    "igdbId": null,
-    "gbId": 22751,
-    "gbGuid": "3030-22751",
-    "tgdbId": 32537,
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -722,90 +700,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Chou-Kuukan Night Pro Yakyuu King 2",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6431",
-    "igdbId": null,
-    "gbId": 22755,
-    "gbGuid": "3030-22755",
-    "tgdbId": 32538,
-    "isExclusive": [
-      {
-        "name": "Nintendo 64",
-        "id": "ccl3",
-        "igdbId": 4,
-        "gbId": 43,
-        "gbGuid": "3045-43",
-        "tgdbId": 3
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "ClayFighter 63 1/3",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6432",
+    "id": "n6429",
     "igdbId": 44043,
     "gbId": 3185,
     "gbGuid": "3030-3185",
     "tgdbId": 9362,
-    "isExclusive": [
-      {
-        "name": "Nintendo 64",
-        "id": "ccl3",
-        "igdbId": 4,
-        "gbId": 43,
-        "gbGuid": "3045-43",
-        "tgdbId": 3
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Cruis'n USA",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n6433",
-    "igdbId": 3429,
-    "gbId": 9890,
-    "gbGuid": "3030-9890",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo 64 Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo 64",
-          "id": "ccl3",
-          "igdbId": 4,
-          "gbId": 43,
-          "gbGuid": "3045-43",
-          "tgdbId": 3
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Densha de Go! 2",
     "details": [
       "Nintendo 64 exclusive"
     ],
-    "id": "n6434",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": 27597,
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -817,18 +724,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "name": "Diddy Kong Racing",
+    "name": "Cruis'n USA",
+    "id": "n6430",
+    "igdbId": 3429,
+    "gbId": 9890,
+    "gbGuid": "3030-9890",
     "details": [
       "Nintendo 64 Player's Choice"
     ],
-    "id": "n6435",
-    "igdbId": 2723,
-    "gbId": 15990,
-    "gbGuid": "3030-15990",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -842,20 +751,45 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Diddy Kong Racing",
+    "id": "n6431",
+    "igdbId": 2723,
+    "gbId": 15990,
+    "gbGuid": "3030-15990",
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo 64 Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "Donkey Kong 64",
-    "details": [
-      "Nintendo 64 exclusive",
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n6436",
+    "id": "n6432",
     "igdbId": 1096,
     "gbId": 15000,
     "gbGuid": "3030-15000",
     "tgdbId": 250,
+    "details": [
+      "Nintendo 64 exclusive",
+      "Nintendo 64 Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -866,6 +800,7 @@
         "tgdbId": 3
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -879,18 +814,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Doom 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6437",
+    "id": "n6433",
     "igdbId": 3471,
     "gbId": 16788,
     "gbGuid": "3030-16788",
     "tgdbId": 251,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -902,18 +837,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Doraemon: Nobita and the Three Fairy Spirit Stones",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6438",
+    "id": "n6434",
     "igdbId": 3472,
     "gbId": 16699,
     "gbGuid": "3030-16699",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -925,18 +860,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dual Heroes",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6439",
+    "id": "n6435",
     "igdbId": 3477,
     "gbId": 17455,
     "gbGuid": "3030-17455",
     "tgdbId": 1091,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -948,18 +884,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Duck Dodgers Starring Daffy Duck",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6440",
+    "id": "n6436",
     "igdbId": 3336,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 265,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -971,18 +908,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Duke Nukem: Zero Hour",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6441",
+    "id": "n6437",
     "igdbId": 8503,
     "gbId": 2711,
     "gbGuid": "3030-2711",
     "tgdbId": 1092,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -994,18 +932,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Extreme-G",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6442",
+    "id": "n6438",
     "igdbId": 3485,
     "gbId": 2379,
     "gbGuid": "3030-2379",
     "tgdbId": 957,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1017,44 +956,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "F-1 World Grand Prix",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n6443",
+    "id": "n6439",
     "igdbId": 3487,
     "gbId": 6455,
     "gbGuid": "3030-6455",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo 64 Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo 64",
-          "id": "ccl3",
-          "igdbId": 4,
-          "gbId": 43,
-          "gbGuid": "3045-43",
-          "tgdbId": 3
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "F-Zero X",
     "details": [
       "Nintendo 64 Player's Choice"
     ],
-    "id": "n6444",
-    "igdbId": 3489,
-    "gbId": 18808,
-    "gbGuid": "3030-18808",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -1068,19 +983,44 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "F-Zero X",
+    "id": "n6440",
+    "igdbId": 3489,
+    "gbId": 18808,
+    "gbGuid": "3030-18808",
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo 64 Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "F1 Pole Position 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6445",
+    "id": "n6441",
     "igdbId": 3494,
     "gbId": 3764,
     "gbGuid": "3030-3764",
     "tgdbId": 1098,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1092,18 +1032,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "FIFA Soccer 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6446",
+    "id": "n6442",
     "igdbId": 10682,
     "gbId": 10335,
     "gbGuid": "3030-10335",
     "tgdbId": 1104,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1115,18 +1056,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Famista 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6447",
+    "id": "n6443",
     "igdbId": 80390,
     "gbId": 62169,
     "gbGuid": "3030-62169",
     "tgdbId": 32561,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1138,18 +1080,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Fighters Destiny",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6448",
+    "id": "n6444",
     "igdbId": 3496,
     "gbId": 13172,
     "gbGuid": "3030-13172",
     "tgdbId": 1105,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1161,18 +1104,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Flying Dragon",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6449",
+    "id": "n6445",
     "igdbId": 3497,
     "gbId": 15662,
     "gbGuid": "3030-15662",
     "tgdbId": 959,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1184,18 +1128,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Fox Sports College Hoops '99",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6450",
+    "id": "n6446",
     "igdbId": 3498,
     "gbId": 22752,
     "gbGuid": "3030-22752",
     "tgdbId": 1106,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1207,18 +1152,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "G.A.S.P!! Fighters' NEXTream",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6451",
+    "id": "n6447",
     "igdbId": 3500,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 62874,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1230,18 +1176,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "GT 64: Championship Edition",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6452",
+    "id": "n6448",
     "igdbId": 3375,
     "gbId": 34874,
     "gbGuid": "3030-34874",
     "tgdbId": 1113,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1253,18 +1200,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Getter Love!! Cho Renai Party Game",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6453",
+    "id": "n6449",
     "igdbId": 44052,
     "gbId": 22833,
     "gbGuid": "3030-22833",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1276,18 +1223,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Goemon's Great Adventure",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6454",
+    "id": "n6450",
     "igdbId": 94994,
     "gbId": 14117,
     "gbGuid": "3030-14117",
     "tgdbId": 1111,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1299,18 +1247,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Goemon: Mononoke Sugoroku",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6455",
+    "id": "n6451",
     "igdbId": 3507,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 25749,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1322,18 +1271,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Golden Nugget 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6456",
+    "id": "n6452",
     "igdbId": 3374,
     "gbId": 2215,
     "gbGuid": "3030-2215",
     "tgdbId": 1112,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1345,19 +1295,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "GoldenEye 007",
-    "details": [
-      "Nintendo 64 exclusive",
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n6457",
+    "id": "n6453",
     "igdbId": 1638,
     "gbId": 3166,
     "gbGuid": "3030-3166",
     "tgdbId": 160,
+    "details": [
+      "Nintendo 64 exclusive",
+      "Nintendo 64 Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1368,6 +1319,7 @@
         "tgdbId": 3
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -1381,18 +1333,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Hamster Monogatari 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6458",
+    "id": "n6454",
     "igdbId": 3509,
     "gbId": 22834,
     "gbGuid": "3030-22834",
     "tgdbId": 47652,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1404,18 +1356,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Heiwa Pachinko World 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6459",
+    "id": "n6455",
     "igdbId": 3510,
     "gbId": 47081,
     "gbGuid": "3030-47081",
     "tgdbId": 47653,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1427,18 +1380,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Hey You, Pikachu!",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6460",
+    "id": "n6456",
     "igdbId": 2642,
     "gbId": 17113,
     "gbGuid": "3030-17113",
     "tgdbId": 257,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1450,18 +1404,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Hybrid Heaven",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6461",
+    "id": "n6457",
     "igdbId": 3513,
     "gbId": 16990,
     "gbGuid": "3030-16990",
     "tgdbId": 1117,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1473,18 +1428,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Iggy's Reckin' Balls",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6462",
+    "id": "n6458",
     "igdbId": 3394,
     "gbId": 2736,
     "gbGuid": "3030-2736",
     "tgdbId": 1118,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1496,18 +1452,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "In-Fisherman Bass Hunter 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6463",
+    "id": "n6459",
     "igdbId": 3419,
     "gbId": 22222,
     "gbGuid": "3030-22222",
     "tgdbId": 1120,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1519,18 +1476,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Indy Racing 2000",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6464",
+    "id": "n6460",
     "igdbId": 3395,
     "gbId": 16322,
     "gbGuid": "3030-16322",
     "tgdbId": 1119,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1542,18 +1500,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "International Superstar Soccer '98",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6465",
+    "id": "n6461",
     "igdbId": 3514,
     "gbId": 12841,
     "gbGuid": "3030-12841",
     "tgdbId": 1122,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1565,18 +1524,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "International Superstar Soccer 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6466",
+    "id": "n6462",
     "igdbId": 3516,
     "gbId": 9790,
     "gbGuid": "3030-9790",
     "tgdbId": 1121,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1588,18 +1548,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "J-League Dynamite Soccer 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6467",
+    "id": "n6463",
     "igdbId": 3519,
     "gbId": 22754,
     "gbGuid": "3030-22754",
     "tgdbId": 25753,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1611,18 +1572,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "J-League Live 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6468",
+    "id": "n6464",
     "igdbId": 3521,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 25777,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1634,18 +1596,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "J-League Tactics Soccer",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6469",
+    "id": "n6465",
     "igdbId": 3522,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 25773,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1657,18 +1620,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "J.League Eleven Beat 1997",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6470",
+    "id": "n6466",
     "igdbId": 3520,
     "gbId": 22756,
     "gbGuid": "3030-22756",
     "tgdbId": 31700,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1680,18 +1644,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Jikkyou G1 Stable",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6471",
+    "id": "n6467",
     "igdbId": 44045,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 32576,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1703,18 +1668,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Jinsei Game 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6472",
+    "id": "n6468",
     "igdbId": 3530,
     "gbId": 67442,
     "gbGuid": "3030-67442",
     "tgdbId": 47660,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1726,18 +1692,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Killer Instinct Gold",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6473",
+    "id": "n6469",
     "igdbId": 10613,
     "gbId": 10614,
     "gbGuid": "3030-10614",
     "tgdbId": 261,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1749,18 +1716,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Kiratto Kaiketsu! 64 Tanteidan",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6474",
+    "id": "n6470",
     "igdbId": 3532,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 47661,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1772,18 +1740,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Knife Edge: Nose Gunner",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6475",
+    "id": "n6471",
     "igdbId": 3533,
     "gbId": 6007,
     "gbGuid": "3030-6007",
     "tgdbId": 1128,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1795,19 +1764,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Kobe Bryant in NBA Courtside",
-    "details": [
-      "Nintendo 64 exclusive",
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n6476",
+    "id": "n6472",
     "igdbId": 3397,
     "gbId": 5012,
     "gbGuid": "3030-5012",
     "tgdbId": 1129,
+    "details": [
+      "Nintendo 64 exclusive",
+      "Nintendo 64 Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1818,6 +1788,7 @@
         "tgdbId": 3
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -1831,18 +1802,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Lode Runner 3-D",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6477",
+    "id": "n6473",
     "igdbId": 3372,
     "gbId": 13907,
     "gbGuid": "3030-13907",
     "tgdbId": 1131,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1854,18 +1825,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Looney Tunes: Taz Express",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6478",
+    "id": "n6474",
     "igdbId": 3345,
     "gbId": 16162,
     "gbGuid": "3030-16162",
     "tgdbId": 1213,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1877,18 +1849,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "MRC: Multi-Racing Championship",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6479",
+    "id": "n6475",
     "igdbId": 3544,
     "gbId": 9826,
     "gbGuid": "3030-9826",
     "tgdbId": 1150,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1900,18 +1873,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Madden Football 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6480",
+    "id": "n6476",
     "igdbId": 3536,
     "gbId": 16446,
     "gbGuid": "3030-16446",
     "tgdbId": 1133,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1923,18 +1897,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Major League Baseball Featuring Ken Griffey, Jr.",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6481",
+    "id": "n6477",
     "igdbId": 3540,
     "gbId": 14051,
     "gbGuid": "3030-14051",
     "tgdbId": 271,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1946,18 +1921,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mario Kart 64",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n6482",
+    "id": "n6478",
     "igdbId": 2342,
     "gbId": 10084,
     "gbGuid": "3030-10084",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -1971,19 +1948,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Mario Party",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6483",
+    "id": "n6479",
     "igdbId": 2327,
     "gbId": 6424,
     "gbGuid": "3030-6424",
     "tgdbId": 42,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -1995,18 +1971,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mario Party 3",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6484",
+    "id": "n6480",
     "igdbId": 2329,
     "gbId": 12447,
     "gbGuid": "3030-12447",
     "tgdbId": 960,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2018,18 +1995,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mario no Photopie",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6485",
+    "id": "n6481",
     "igdbId": 3541,
     "gbId": 29970,
     "gbGuid": "3030-29970",
     "tgdbId": 42365,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2041,18 +2019,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Masters '98: Harukanaru Augusta",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6486",
+    "id": "n6482",
     "igdbId": 47744,
     "gbId": 47921,
     "gbGuid": "3030-47921",
     "tgdbId": 24625,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2064,18 +2043,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Michael Owen's WLS 2000",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6487",
+    "id": "n6483",
     "igdbId": 3407,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 51665,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2087,18 +2067,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mike Piazza's Strike Zone",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6488",
+    "id": "n6484",
     "igdbId": 3410,
     "gbId": 22760,
     "gbGuid": "3030-22760",
     "tgdbId": 1141,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2110,18 +2091,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Milo's Astro Lanes",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6489",
+    "id": "n6485",
     "igdbId": 3411,
     "gbId": 3405,
     "gbGuid": "3030-3405",
     "tgdbId": 1142,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2133,18 +2115,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mischief Makers",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6490",
+    "id": "n6486",
     "igdbId": 3412,
     "gbId": 3849,
     "gbGuid": "3030-3849",
     "tgdbId": 1143,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2156,18 +2139,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Monopoly",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6491",
+    "id": "n6487",
     "igdbId": 122241,
     "gbId": 2958,
     "gbGuid": "3030-2958",
     "tgdbId": 1145,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2179,41 +2163,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Morita Shogi 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6492",
+    "id": "n6488",
     "igdbId": 3543,
     "gbId": 68529,
     "gbGuid": "3030-68529",
     "tgdbId": 25774,
-    "isExclusive": [
-      {
-        "name": "Nintendo 64",
-        "id": "ccl3",
-        "igdbId": 4,
-        "gbId": 43,
-        "gbGuid": "3045-43",
-        "tgdbId": 3
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Mystical Ninja Starring Goemon",
     "details": [
       "Nintendo 64 exclusive"
     ],
-    "id": "n6493",
-    "igdbId": null,
-    "gbId": 6243,
-    "gbGuid": "3030-6243",
-    "tgdbId": 1152,
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2225,18 +2187,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "NBA Courtside 2 Featuring Kobe Bryant",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6494",
+    "id": "n6489",
     "igdbId": 3549,
     "gbId": 18984,
     "gbGuid": "3030-18984",
     "tgdbId": 1155,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2248,18 +2211,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "NBA Jam 2000",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6495",
+    "id": "n6490",
     "igdbId": 3552,
     "gbId": 22242,
     "gbGuid": "3030-22242",
     "tgdbId": 1160,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2271,18 +2235,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "NFL Quarterback Club '99",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6496",
+    "id": "n6491",
     "igdbId": 47756,
     "gbId": 18346,
     "gbGuid": "3030-18346",
     "tgdbId": 1166,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2294,18 +2259,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "NFL Quarterback Club 98",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6497",
+    "id": "n6492",
     "igdbId": 3558,
     "gbId": 10536,
     "gbGuid": "3030-10536",
     "tgdbId": 1165,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2317,18 +2283,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "NHL Breakaway 99",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6498",
+    "id": "n6493",
     "igdbId": 3564,
     "gbId": 27596,
     "gbGuid": "3030-27596",
     "tgdbId": 1172,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2340,18 +2307,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Neon Genesis Evangelion",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n6499",
+    "id": "n6494",
     "igdbId": 3555,
     "gbId": 24392,
     "gbGuid": "3030-24392",
     "tgdbId": 15117,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2363,18 +2331,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Nushi Tsuri 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64100",
+    "id": "n6495",
     "igdbId": 3565,
     "gbId": 22788,
     "gbGuid": "3030-22788",
     "tgdbId": 47664,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2386,18 +2355,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Nushi Tsuri 64: Shiokaze ni Notte",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64101",
+    "id": "n6496",
     "igdbId": 3566,
     "gbId": 22789,
     "gbGuid": "3030-22789",
     "tgdbId": 47665,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2409,18 +2379,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Olympic Hockey Nagano '98",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64102",
+    "id": "n6497",
     "igdbId": 3569,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2432,18 +2402,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "PD Ultraman Battle Collection 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64103",
+    "id": "n6498",
     "igdbId": 3572,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 47668,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2455,18 +2426,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Parlor! Pro 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64104",
+    "id": "n6499",
     "igdbId": 3571,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 47667,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2478,18 +2450,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Penny Racers",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64105",
+    "id": "n64100",
     "igdbId": 1292,
     "gbId": 30086,
     "gbGuid": "3030-30086",
     "tgdbId": 1179,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2501,19 +2474,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Perfect Dark",
-    "details": [
-      "Nintendo 64 exclusive",
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64106",
+    "id": "n64101",
     "igdbId": 1463,
     "gbId": 21256,
     "gbGuid": "3030-21256",
     "tgdbId": 173,
+    "details": [
+      "Nintendo 64 exclusive",
+      "Nintendo 64 Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2524,6 +2498,7 @@
         "tgdbId": 3
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -2537,28 +2512,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Pilotwings 64",
-    "id": "n64107",
-    "details": [
-      "N64 launch title",
-      "Nintendo 64 exclusive"
-    ],
+    "id": "n64102",
     "igdbId": 3573,
     "gbId": 108,
     "gbGuid": "3030-108",
     "tgdbId": 961,
-    "isLaunchTitle": [
-      {
-        "name": "Nintendo 64",
-        "id": "ccl3",
-        "igdbId": 4,
-        "gbId": 43,
-        "gbGuid": "3045-43",
-        "tgdbId": 3
-      }
+    "details": [
+      "N64 launch title",
+      "Nintendo 64 exclusive"
     ],
     "isExclusive": [
       {
@@ -2570,19 +2535,30 @@
         "tgdbId": 3
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Nintendo 64",
+        "id": "ccl3",
+        "igdbId": 4,
+        "gbId": 43,
+        "gbGuid": "3045-43",
+        "tgdbId": 3
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pokemon Stadium",
-    "details": [
-      "Nintendo 64 exclusive",
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64108",
+    "id": "n64103",
     "igdbId": 2289,
     "gbId": 7270,
     "gbGuid": "3030-7270",
     "tgdbId": 38362,
+    "details": [
+      "Nintendo 64 exclusive",
+      "Nintendo 64 Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2593,6 +2569,7 @@
         "tgdbId": 3
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -2606,18 +2583,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Pokémon Snap",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64109",
+    "id": "n64104",
     "igdbId": 2324,
     "gbId": 10024,
     "gbGuid": "3030-10024",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -2631,19 +2609,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Pokémon Stadium 2",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64110",
+    "id": "n64105",
     "igdbId": 2290,
     "gbId": 6132,
     "gbGuid": "3030-6132",
     "tgdbId": 392,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2655,18 +2632,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Power League 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64111",
+    "id": "n64106",
     "igdbId": 3576,
     "gbId": 22791,
     "gbGuid": "3030-22791",
     "tgdbId": 25752,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2678,18 +2656,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Quest 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64112",
+    "id": "n64107",
     "igdbId": 3580,
     "gbId": 4924,
     "gbGuid": "3030-4924",
     "tgdbId": 1185,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2701,41 +2680,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Rakuga Kids",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64113",
+    "id": "n64108",
     "igdbId": 3581,
     "gbId": 3298,
     "gbGuid": "3030-3298",
     "tgdbId": 1186,
-    "isExclusive": [
-      {
-        "name": "Nintendo 64",
-        "id": "ccl3",
-        "igdbId": 4,
-        "gbId": 43,
-        "gbGuid": "3045-43",
-        "tgdbId": 3
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Rally '99",
     "details": [
       "Nintendo 64 exclusive"
     ],
-    "id": "n64114",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2747,18 +2704,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Rally Challenge 2000",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64115",
+    "id": "n64109",
     "igdbId": 3582,
     "gbId": 36714,
     "gbGuid": "3030-36714",
     "tgdbId": 1187,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2770,18 +2728,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Road Rash 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64116",
+    "id": "n64110",
     "igdbId": 3589,
     "gbId": 18864,
     "gbGuid": "3030-18864",
     "tgdbId": 962,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2793,18 +2752,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Robopon 64: Robot Ponkottsu 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64117",
+    "id": "n64111",
     "igdbId": 3591,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 34164,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2816,18 +2776,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Robotech: Crystal Dreams",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64118",
+    "id": "n64112",
     "igdbId": 44035,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 3571,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2839,18 +2800,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Rocket: Robot on Wheels",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64119",
+    "id": "n64113",
     "igdbId": 2644,
     "gbId": 7804,
     "gbGuid": "3030-7804",
     "tgdbId": 1194,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2862,18 +2824,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Rugrats: Scavenger Hunt",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64120",
+    "id": "n64114",
     "igdbId": 2786,
     "gbId": 21658,
     "gbGuid": "3030-21658",
     "tgdbId": 1196,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2885,41 +2848,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Rush 2: Extreme Racing USA",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64121",
+    "id": "n64115",
     "igdbId": 3593,
     "gbId": 1221,
     "gbGuid": "3030-1221",
     "tgdbId": 1197,
-    "isExclusive": [
-      {
-        "name": "Nintendo 64",
-        "id": "ccl3",
-        "igdbId": 4,
-        "gbId": 43,
-        "gbGuid": "3045-43",
-        "tgdbId": 3
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Saikyou Habu Shogi",
     "details": [
       "Nintendo 64 exclusive"
     ],
-    "id": "n64122",
-    "igdbId": null,
-    "gbId": 33848,
-    "gbGuid": "3030-33848",
-    "tgdbId": 51664,
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2931,41 +2872,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Shadowgate 64: Trials of the Four Towers",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64123",
+    "id": "n64116",
     "igdbId": 3600,
     "gbId": 1617,
     "gbGuid": "3030-1617",
     "tgdbId": 1201,
-    "isExclusive": [
-      {
-        "name": "Nintendo 64",
-        "id": "ccl3",
-        "igdbId": 4,
-        "gbId": 43,
-        "gbGuid": "3045-43",
-        "tgdbId": 3
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Shiren the Wanderer 2",
     "details": [
       "Nintendo 64 exclusive"
     ],
-    "id": "n64124",
-    "igdbId": 67376,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -2977,18 +2896,43 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shiren the Wanderer 2",
+    "id": "n64117",
+    "igdbId": 67376,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 64",
+        "id": "ccl3",
+        "igdbId": 4,
+        "gbId": 43,
+        "gbGuid": "3045-43",
+        "tgdbId": 3
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Snowboard Kids",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64125",
+    "id": "n64118",
     "igdbId": 3342,
     "gbId": 18062,
     "gbGuid": "3030-18062",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3002,19 +2946,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Snowboard Kids 2",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64126",
+    "id": "n64119",
     "igdbId": 3343,
     "gbId": 18426,
     "gbGuid": "3030-18426",
     "tgdbId": 1203,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3026,18 +2969,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Star Fox 64",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64127",
+    "id": "n64120",
     "igdbId": 2591,
     "gbId": 19203,
     "gbGuid": "3030-19203",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3051,45 +2996,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Star Wars: Rogue Squadron",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64128",
+    "id": "n64121",
     "igdbId": 163,
     "gbId": 4011,
     "gbGuid": "3030-4011",
-    "tgdbId": null,
-    "special": [
-      {
-        "value": "Nintendo 64 Player's Choice",
-        "forPlatform": {
-          "name": "Nintendo 64",
-          "id": "ccl3",
-          "igdbId": 4,
-          "gbId": 43,
-          "gbGuid": "3045-43",
-          "tgdbId": 3
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Star Wars: Shadows of the Empire",
     "details": [
       "Nintendo 64 Player's Choice"
     ],
-    "id": "n64129",
-    "igdbId": 164,
-    "gbId": 12139,
-    "gbGuid": "3030-12139",
-    "tgdbId": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3103,19 +3022,44 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Star Wars: Shadows of the Empire",
+    "id": "n64122",
+    "igdbId": 164,
+    "gbId": 12139,
+    "gbGuid": "3030-12139",
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo 64 Player's Choice",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "Stunt Racer 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64130",
+    "id": "n64123",
     "igdbId": 3606,
     "gbId": 12060,
     "gbGuid": "3030-12060",
     "tgdbId": 1209,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3127,18 +3071,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Super B-Daman Battle Phoenix 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64131",
+    "id": "n64124",
     "igdbId": 3607,
     "gbId": 30959,
     "gbGuid": "3030-30959",
     "tgdbId": 43360,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3150,18 +3095,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Super Mario 64",
-    "id": "n64132",
-    "details": [
-      "N64 launch title"
-    ],
+    "id": "n64125",
     "igdbId": 1074,
     "gbId": 2931,
     "gbGuid": "3030-2931",
     "tgdbId": 216,
+    "details": [
+      "N64 launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo 64",
@@ -3172,19 +3119,20 @@
         "tgdbId": 3
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Super Mario 64",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64133",
+    "id": "n64126",
     "igdbId": 132642,
     "gbId": 2931,
     "gbGuid": "3030-2931",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3198,42 +3146,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Super Robot Spirits",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64134",
+    "id": "n64127",
     "igdbId": 3608,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 45263,
-    "isExclusive": [
-      {
-        "name": "Nintendo 64",
-        "id": "ccl3",
-        "igdbId": 4,
-        "gbId": 43,
-        "gbGuid": "3045-43",
-        "tgdbId": 3
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Super Robot Wars 64",
     "details": [
       "Nintendo 64 exclusive"
     ],
-    "id": "n64135",
-    "igdbId": 3609,
-    "gbId": 23088,
-    "gbGuid": "3030-23088",
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3245,18 +3169,43 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Robot Wars 64",
+    "id": "n64128",
+    "igdbId": 3609,
+    "gbId": 23088,
+    "gbGuid": "3030-23088",
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo 64",
+        "id": "ccl3",
+        "igdbId": 4,
+        "gbId": 43,
+        "gbGuid": "3045-43",
+        "tgdbId": 3
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Super Smash Bros.",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64136",
+    "id": "n64129",
     "igdbId": 1626,
     "gbId": 19125,
     "gbGuid": "3030-19125",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3270,19 +3219,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Superman",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64137",
+    "id": "n64130",
     "igdbId": 3005,
     "gbId": 20702,
     "gbGuid": "3030-20702",
     "tgdbId": 2790,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3294,18 +3242,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Tetris 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64138",
+    "id": "n64131",
     "igdbId": 3346,
     "gbId": 26861,
     "gbGuid": "3030-26861",
     "tgdbId": 20517,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3317,18 +3266,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Tetrisphere",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64139",
+    "id": "n64132",
     "igdbId": 3612,
     "gbId": 3049,
     "gbGuid": "3030-3049",
     "tgdbId": 405,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3340,18 +3290,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "The Legend of Zelda: Ocarina of Time",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64140",
+    "id": "n64133",
     "igdbId": 1029,
     "gbId": 12572,
     "gbGuid": "3030-12572",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3365,19 +3317,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "The New Tetris",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64141",
+    "id": "n64134",
     "igdbId": 3339,
     "gbId": 1737,
     "gbGuid": "3030-1737",
     "tgdbId": 1161,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3389,18 +3340,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Top Gear Hyper-Bike",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64142",
+    "id": "n64135",
     "igdbId": 3615,
     "gbId": 9586,
     "gbGuid": "3030-9586",
     "tgdbId": 1220,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3412,18 +3364,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Top Gear Overdrive",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64143",
+    "id": "n64136",
     "igdbId": 3616,
     "gbId": 15563,
     "gbGuid": "3030-15563",
     "tgdbId": 1221,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3435,18 +3388,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Top Gear Rally 2",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64144",
+    "id": "n64137",
     "igdbId": 3618,
     "gbId": 9706,
     "gbGuid": "3030-9706",
     "tgdbId": 1222,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3458,18 +3412,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "True Golf Classics: Waialae Country Club",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64145",
+    "id": "n64138",
     "igdbId": 3627,
     "gbId": 22798,
     "gbGuid": "3030-22798",
     "tgdbId": 6313,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3481,18 +3436,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Turok 2: Seeds of Evil",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64146",
+    "id": "n64139",
     "igdbId": 1326,
     "gbId": 7052,
     "gbGuid": "3030-7052",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3506,19 +3463,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Turok 3: Shadow of Oblivion",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64147",
+    "id": "n64140",
     "igdbId": 1328,
     "gbId": 10047,
     "gbGuid": "3030-10047",
     "tgdbId": 1226,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3530,18 +3486,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Turok: Dinosaur Hunter",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64148",
+    "id": "n64141",
     "igdbId": 1321,
     "gbId": 14614,
     "gbGuid": "3030-14614",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3555,19 +3513,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Turok: Rage Wars",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64149",
+    "id": "n64142",
     "igdbId": 1327,
     "gbId": 7962,
     "gbGuid": "3030-7962",
     "tgdbId": 408,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3579,18 +3536,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Twisted Edge Extreme Snowboarding",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64150",
+    "id": "n64143",
     "igdbId": 3622,
     "gbId": 565,
     "gbGuid": "3030-565",
     "tgdbId": 1227,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3602,18 +3560,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Ucchannanchan no Honō no Challenger: Denryū Iraira Bō",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64151",
+    "id": "n64144",
     "igdbId": 3623,
     "gbId": 33849,
     "gbGuid": "3030-33849",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3625,18 +3583,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Virtual Chess 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64152",
+    "id": "n64145",
     "igdbId": 3334,
     "gbId": 14771,
     "gbGuid": "3030-14771",
     "tgdbId": 1228,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3648,18 +3607,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Virtual Pool 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64153",
+    "id": "n64146",
     "igdbId": 3624,
     "gbId": 22795,
     "gbGuid": "3030-22795",
     "tgdbId": 1229,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3671,18 +3631,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Virtual Pro Wrestling 2: Oudou Keishou",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64154",
+    "id": "n64147",
     "igdbId": 3625,
     "gbId": 23213,
     "gbGuid": "3030-23213",
     "tgdbId": 31085,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3694,18 +3655,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Virtual Pro Wrestling 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64155",
+    "id": "n64148",
     "igdbId": 3626,
     "gbId": 23212,
     "gbGuid": "3030-23212",
     "tgdbId": 31084,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3717,19 +3679,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "WCW Vs. nWo: World Tour",
-    "details": [
-      "Nintendo 64 exclusive",
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64156",
+    "id": "n64149",
     "igdbId": 3635,
     "gbId": 14786,
     "gbGuid": "3030-14786",
     "tgdbId": 1235,
+    "details": [
+      "Nintendo 64 exclusive",
+      "Nintendo 64 Player's Choice"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3740,6 +3703,7 @@
         "tgdbId": 3
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3753,18 +3717,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "WCW/nWo Revenge",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64157",
+    "id": "n64150",
     "igdbId": 3636,
     "gbId": 18320,
     "gbGuid": "3030-18320",
     "tgdbId": 1236,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3776,18 +3740,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "WWF No Mercy",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64158",
+    "id": "n64151",
     "igdbId": 3644,
     "gbId": 11394,
     "gbGuid": "3030-11394",
     "tgdbId": 416,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3799,18 +3764,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Wave Race 64",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64159",
+    "id": "n64152",
     "igdbId": 3629,
     "gbId": 11969,
     "gbGuid": "3030-11969",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3824,19 +3791,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Wipeout 64",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64160",
+    "id": "n64153",
     "igdbId": 1539,
     "gbId": 12064,
     "gbGuid": "3030-12064",
     "tgdbId": 1238,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3848,18 +3814,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Wonder Project J2",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64161",
+    "id": "n64154",
     "igdbId": 47748,
     "gbId": 29874,
     "gbGuid": "3030-29874",
     "tgdbId": 22602,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3871,18 +3838,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "World Driver Championship",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64162",
+    "id": "n64155",
     "igdbId": 3642,
     "gbId": 10150,
     "gbGuid": "3030-10150",
     "tgdbId": 414,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3894,18 +3862,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Xena: Warrior Princess - The Talisman of Fate",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64163",
+    "id": "n64156",
     "igdbId": 3647,
     "gbId": 8939,
     "gbGuid": "3030-8939",
     "tgdbId": 418,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3917,18 +3886,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Yoshi's Story",
-    "details": [
-      "Nintendo 64 Player's Choice"
-    ],
-    "id": "n64164",
+    "id": "n64157",
     "igdbId": 3213,
     "gbId": 15207,
     "gbGuid": "3030-15207",
-    "tgdbId": null,
+    "details": [
+      "Nintendo 64 Player's Choice"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Nintendo 64 Player's Choice",
@@ -3942,19 +3913,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Zoor: Majuu Tsukai Densetsu",
-    "details": [
-      "Nintendo 64 exclusive"
-    ],
-    "id": "n64165",
+    "id": "n64158",
     "igdbId": 3650,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 47671,
+    "details": [
+      "Nintendo 64 exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Nintendo 64",
@@ -3966,6 +3936,7 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   }
 ]

@@ -4,10 +4,15 @@ const _sortBy = require('lodash/sortBy');
 const _uniqBy = require('lodash/uniqBy');
 const _uniq = require('lodash/uniq');
 const _cloneDeep = require('lodash/cloneDeep');
+const _flatten = require('lodash/flatten');
 const chalk = require('chalk');
 
 const masterList = require(path.join(__dirname, '../../../server/static/consoleMasterList.json'));
-const lists = require(path.join(__dirname, './listsData')).listData;
+let lists = require(path.join(__dirname, './listsData')).listData;
+
+/* To isolate a single list, uncomment this and change list name */
+// lists = lists.filter(list => list.name === 'Bandai WonderSwan Color');
+/*************************************************************** */
 
 function getNewEntry(game) {
   return {
@@ -106,7 +111,6 @@ async function handleSpecialList(list, pData, final) {
     try {
       let finalClone = _cloneDeep(final);
       if (!Array.isArray(finalClone)) {
-        console.log('not an array', list[0].details);
         finalClone = [];
       }
       const listLast = (list && list.length - 1) || 0;
@@ -116,19 +120,21 @@ async function handleSpecialList(list, pData, final) {
         const existingId = finalsIds.indexOf(game.igdbId);
         if (existingId > -1) {
           finalClone[existingId].special.push({
-            value: game.details,
+            value: Array.isArray(game.details) ? game.details[0] : game.details,
             forPlatform: pData
           });
           const dedpuedSpecial = _uniqBy(finalClone[existingId].special, 'value');
           finalClone[existingId].special = dedpuedSpecial;
-          finalClone[existingId].details = _uniq([...finalClone[existingId].details, game.details]);
+          finalClone[existingId].details = _uniq(
+            _flatten([...finalClone[existingId].details, game.details])
+          );
         } else {
           const newEntry = getNewEntry(game);
           newEntry.special.push({
-            value: game.details,
+            value: Array.isArray(game.details) ? game.details[0] : game.details,
             forPlatform: pData
           });
-          newEntry.details = [game.details];
+          newEntry.details = _flatten([game.details]);
           finalClone.push(newEntry);
         }
         if (listLast === i) {
@@ -146,7 +152,7 @@ function handleSpecial(lists, final, pData) {
     try {
       const lastList = (lists && lists.length - 1) || 0;
       let finalClone = _cloneDeep(final);
-      if (lastList > 0) {
+      if (lists && lastList > -1) {
         for (let i = 0; i < lists.length; i++) {
           try {
             const specialAdded = await handleSpecialList(lists[i], pData, finalClone);
@@ -206,6 +212,7 @@ function handleSpecial(lists, final, pData) {
         if (!item.isLaunchTitle || !item.isLaunchTitle.length) {
           item.isLaunchTitle = false;
         }
+        item.details = _flatten(item.details);
         return item;
       });
       fs.writeFile(list.output, JSON.stringify(withIds, null, 2), error => {
@@ -216,7 +223,7 @@ function handleSpecial(lists, final, pData) {
         }
       });
     } catch (err) {
-      console.log(chalk.red.bold('FUCKING ERRORS', err));
+      console.log(chalk.red.bold('Final catch block errors', err));
     }
   });
 })();

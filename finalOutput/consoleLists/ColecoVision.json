@@ -1,14 +1,15 @@
 [
   {
     "name": "Carnival",
-    "id": "cv0",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole0",
     "igdbId": 5666,
     "gbId": 197,
     "gbGuid": "3030-197",
     "tgdbId": 3998,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -19,19 +20,20 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Cosmic Avenger",
-    "id": "cv1",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole1",
     "igdbId": 18504,
     "gbId": 17011,
     "gbGuid": "3030-17011",
     "tgdbId": 3999,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -42,19 +44,20 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Donkey Kong",
-    "id": "cv2",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole2",
     "igdbId": 1086,
     "gbId": 311,
     "gbGuid": "3030-311",
     "tgdbId": 5,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -65,19 +68,19 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "cv3",
     "name": "Dr. Seuss' Fix-Up the Mix-Up Puzzler",
-    "details": [
-      "ColecoVision exclusive"
-    ],
+    "id": "cole3",
     "igdbId": 40898,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 10323,
+    "details": [
+      "ColecoVision exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Colecovision",
@@ -89,18 +92,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "cv4",
     "name": "Illusions",
-    "details": [
-      "ColecoVision exclusive"
-    ],
+    "id": "cole4",
     "igdbId": 40893,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 10341,
+    "details": [
+      "ColecoVision exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Colecovision",
@@ -112,18 +116,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Ken Uston's Blackjack/Poker",
-    "id": "cv5",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole5",
     "igdbId": null,
     "gbId": 1770,
     "gbGuid": "3030-1770",
     "tgdbId": 10346,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -134,19 +140,20 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Lady Bug",
-    "id": "cv6",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole6",
     "igdbId": 5677,
     "gbId": 17187,
     "gbGuid": "3030-17187",
     "tgdbId": 954,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -157,19 +164,20 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mouse Trap",
-    "id": "cv7",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole7",
     "igdbId": 5687,
     "gbId": 2276,
     "gbGuid": "3030-2276",
     "tgdbId": 4008,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -180,19 +188,19 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "id": "cv8",
     "name": "Rocky Super Action Boxing",
-    "details": [
-      "ColecoVision exclusive"
-    ],
+    "id": "cole8",
     "igdbId": 40885,
     "gbId": 14022,
     "gbGuid": "3030-14022",
     "tgdbId": 10418,
+    "details": [
+      "ColecoVision exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Colecovision",
@@ -204,18 +212,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Smurf: Rescue in Gargamel's Castle",
-    "id": "cv9",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole9",
     "igdbId": 8080,
     "gbId": 19373,
     "gbGuid": "3030-19373",
     "tgdbId": 10426,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -226,19 +236,20 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Space Fury",
-    "id": "cv10",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole10",
     "igdbId": 8805,
     "gbId": 354,
     "gbGuid": "3030-354",
     "tgdbId": 4020,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -249,19 +260,20 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Space Panic",
-    "id": "cv11",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole11",
     "igdbId": 18678,
     "gbId": 14588,
     "gbGuid": "3030-14588",
     "tgdbId": 10427,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -272,19 +284,20 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Turbo",
-    "id": "cv12",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole12",
     "igdbId": 18510,
     "gbId": 18177,
     "gbGuid": "3030-18177",
     "tgdbId": 4023,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -295,19 +308,20 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Venture",
-    "id": "cv13",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole13",
     "igdbId": 5703,
     "gbId": 6124,
     "gbGuid": "3030-6124",
     "tgdbId": 1358,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -318,19 +332,20 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Zaxxon",
-    "id": "cv14",
-    "details": [
-      "ColecoVision launch title"
-    ],
+    "id": "cole14",
     "igdbId": 2753,
     "gbId": 9547,
     "gbGuid": "3030-9547",
     "tgdbId": 4024,
+    "details": [
+      "ColecoVision launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Colecovision",
@@ -341,7 +356,7 @@
         "tgdbId": 31
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   }
 ]

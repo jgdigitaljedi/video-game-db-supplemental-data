@@ -1,14 +1,14 @@
 [
   {
     "name": "Albert Odyssey: Legend of Eldean",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
     "id": "ssat0",
     "igdbId": 15021,
     "gbId": 4216,
     "gbGuid": "3030-4216",
     "tgdbId": 9611,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -20,18 +20,37 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alone in the Dark 2",
+    "id": "ssat1",
+    "igdbId": 1957,
+    "gbId": 13488,
+    "gbGuid": "3030-13488",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/Aloneinthedarkoejr.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Assault Suit Leynos 2",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat1",
+    "id": "ssat2",
     "igdbId": 45509,
     "gbId": 24278,
     "gbGuid": "3030-24278",
     "tgdbId": 9195,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -43,18 +62,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Astal",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat2",
+    "id": "ssat3",
     "igdbId": 45495,
     "gbId": 13758,
     "gbGuid": "3030-13758",
     "tgdbId": 10493,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -66,18 +86,43 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/astal.jpg",
+        "details": "No Title on spine",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Battle Arena Toshinden Ultimate Revenge Attack",
+    "id": "ssat4",
+    "igdbId": 77987,
+    "gbId": 11269,
+    "gbGuid": "3030-11269",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/batura_zpsf6ba4595.jpg",
+        "details": "Inverted Saturn logo on spine",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Battle Monsters",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat3",
+    "id": "ssat5",
     "igdbId": 45504,
     "gbId": 5047,
     "gbGuid": "3030-5047",
     "tgdbId": 9830,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -89,18 +134,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Black Fire",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat4",
+    "id": "ssat6",
     "igdbId": 46087,
     "gbId": 47202,
     "gbGuid": "3030-47202",
     "tgdbId": 14419,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -112,42 +158,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Blast Chamber",
-    "id": "ssat5",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat7",
     "igdbId": 47014,
     "gbId": 15493,
     "gbGuid": "3030-15493",
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Break Point Tennis",
-    "id": "ssat6",
     "details": [
       "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
     ],
-    "igdbId": 45493,
-    "gbId": null,
-    "gbGuid": null,
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -161,19 +185,62 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bottom of the 9th",
+    "id": "ssat8",
+    "igdbId": 3369,
+    "gbId": 20026,
+    "gbGuid": "3030-20026",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/Bottom9th.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Break Point Tennis",
+    "id": "ssat9",
+    "igdbId": 45493,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "Burning Rangers",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat7",
+    "id": "ssat10",
     "igdbId": 19666,
     "gbId": 5765,
     "gbGuid": "3030-5765",
     "tgdbId": 9978,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -185,19 +252,71 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Casper",
+    "id": "ssat11",
+    "igdbId": 6345,
+    "gbId": 14860,
+    "gbGuid": "3030-14860",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/casperthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Center Ring Boxing",
+    "id": "ssat12",
+    "igdbId": 92548,
+    "gbId": 35528,
+    "gbGuid": "3030-35528",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/centerringboxing.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/crb.jpg",
+        "details": "inverted saturn logo on spine",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Clockwork Knight",
-    "id": "ssat8",
-    "details": [
-      "Sega Saturn launch title",
-      "Sega Saturn exclusive"
-    ],
+    "id": "ssat13",
     "igdbId": 19756,
     "gbId": 962,
     "gbGuid": "3030-962",
     "tgdbId": 9981,
+    "details": [
+      "Sega Saturn launch title",
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Sega Saturn",
@@ -208,28 +327,19 @@
         "tgdbId": 17
       }
     ],
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Clockwork Knight 2",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat9",
+    "id": "ssat14",
     "igdbId": 19717,
     "gbId": 29093,
     "gbGuid": "3030-29093",
     "tgdbId": 9984,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -241,17 +351,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "College Slam",
-    "id": "ssat10",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat15",
     "igdbId": 4541,
     "gbId": 125,
     "gbGuid": "3030-125",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -265,19 +378,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Congo The Movie: The Lost City of Zinj",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat11",
+    "id": "ssat16",
     "igdbId": 45516,
     "gbId": 31291,
     "gbGuid": "3030-31291",
     "tgdbId": 7777,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -289,18 +401,55 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Corpse Killer: Graveyard Edition",
+    "id": "ssat17",
+    "igdbId": 45492,
+    "gbId": 2817,
+    "gbGuid": "3030-2817",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/darklegendthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Crime Wave",
+    "id": "ssat18",
+    "igdbId": 12018,
+    "gbId": 12792,
+    "gbGuid": "3030-12792",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/Crimewavethast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "CrimeWave",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat12",
+    "id": "ssat19",
     "igdbId": 73152,
     "gbId": 19747,
     "gbGuid": "3030-19747",
     "tgdbId": 10579,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -312,18 +461,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Cyber Speedway",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat13",
+    "id": "ssat20",
     "igdbId": 19740,
     "gbId": 18723,
     "gbGuid": "3030-18723",
     "tgdbId": 10583,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -335,18 +485,37 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cyberia",
+    "id": "ssat21",
+    "igdbId": 4331,
+    "gbId": 18074,
+    "gbGuid": "3030-18074",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/cyberia.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "D-Xhird",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat14",
+    "id": "ssat22",
     "igdbId": 46668,
     "gbId": 26413,
     "gbGuid": "3030-26413",
     "tgdbId": 33048,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -358,18 +527,37 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dark Legend",
+    "id": "ssat23",
+    "igdbId": 45525,
+    "gbId": 35536,
+    "gbGuid": "3030-35536",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/corpsekillerthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Dark Savior",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat15",
+    "id": "ssat24",
     "igdbId": 46058,
     "gbId": 18766,
     "gbGuid": "3030-18766",
     "tgdbId": 11227,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -381,18 +569,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Daytona USA",
-    "id": "ssat16",
-    "details": [
-      "Sega Saturn launch title"
-    ],
+    "id": "ssat25",
     "igdbId": 17245,
     "gbId": 22135,
     "gbGuid": "3030-22135",
     "tgdbId": 7766,
+    "details": [
+      "Sega Saturn launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega Saturn",
@@ -403,19 +593,19 @@
         "tgdbId": 17
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Deep Fear",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat17",
+    "id": "ssat26",
     "igdbId": 46057,
     "gbId": 16413,
     "gbGuid": "3030-16413",
     "tgdbId": 11230,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -427,18 +617,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Digital Pinball: Last Gladiators",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat18",
+    "id": "ssat27",
     "igdbId": 19737,
     "gbId": 10645,
     "gbGuid": "3030-10645",
     "tgdbId": 6279,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -450,17 +641,62 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/saturn_lastgladiatorsthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Double Switch",
+    "id": "ssat28",
+    "igdbId": 139169,
+    "gbId": 12628,
+    "gbGuid": "3030-12628",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/DoubleSwitchthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Dragon Ball Z: Shin Butouden (Japan)",
+    "id": "ssat29",
+    "igdbId": 45464,
+    "gbId": 21997,
+    "gbGuid": "3030-21997",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/dragonballz.jpg",
+        "details": "misspelled the title on English spine",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Duke Nukem 3D",
-    "id": "ssat19",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 7 players (contains Death Tank Zwei mini-game)"
-    ],
+    "id": "ssat30",
     "igdbId": 342,
     "gbId": 3407,
     "gbGuid": "3030-3407",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 7 players (contains Death Tank Zwei mini-game)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 7 players (contains Death Tank Zwei mini-game)",
@@ -474,19 +710,17 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Dungeon Master Nexus",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat20",
+    "id": "ssat31",
     "igdbId": 3801,
     "gbId": 61262,
     "gbGuid": "3030-61262",
-    "tgdbId": null,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -498,18 +732,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dungeons & Dragons Collection",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat21",
+    "id": "ssat32",
     "igdbId": 22831,
     "gbId": 19755,
     "gbGuid": "3030-19755",
     "tgdbId": 30118,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -521,18 +756,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "F1 Challenge",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat22",
+    "id": "ssat33",
     "igdbId": 95383,
     "gbId": 39701,
     "gbGuid": "3030-39701",
     "tgdbId": 6825,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -544,42 +780,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "FIFA Soccer 96",
-    "id": "ssat23",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
-    ],
+    "id": "ssat34",
     "igdbId": 704,
     "gbId": 14524,
     "gbGuid": "3030-14524",
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Fire Pro Wrestling",
-    "id": "ssat24",
     "details": [
       "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
     ],
-    "igdbId": 6407,
-    "gbId": 61714,
-    "gbGuid": "3030-61714",
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
@@ -593,19 +807,44 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fire Pro Wrestling",
+    "id": "ssat35",
+    "igdbId": 6407,
+    "gbId": 61714,
+    "gbGuid": "3030-61714",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
+    ],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "Ghen War",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat25",
+    "id": "ssat36",
     "igdbId": 45526,
     "gbId": 23639,
     "gbGuid": "3030-23639",
     "tgdbId": 2397,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -617,41 +856,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Gotha",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat26",
+    "id": "ssat37",
     "igdbId": 92102,
     "gbId": 33446,
     "gbGuid": "3030-33446",
-    "tgdbId": null,
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "Grandia: Digital Museum",
     "details": [
       "Sega Saturn exclusive"
     ],
-    "id": "ssat27",
-    "igdbId": 21658,
-    "gbId": 23434,
-    "gbGuid": "3030-23434",
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -663,17 +879,43 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Grandia: Digital Museum",
+    "id": "ssat38",
+    "igdbId": 21658,
+    "gbId": 23434,
+    "gbGuid": "3030-23434",
+    "details": [
+      "Sega Saturn exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Saturn",
+        "id": "ccl17",
+        "igdbId": 32,
+        "gbId": 42,
+        "gbGuid": "3045-42",
+        "tgdbId": 17
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Guardian Heroes",
-    "id": "ssat28",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
-    ],
+    "id": "ssat39",
     "igdbId": 21838,
     "gbId": 5901,
     "gbGuid": "3030-5901",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
@@ -687,20 +929,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Gundam Gaiden 3",
+    "id": "ssat40",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
     "details": [
       "Sega Saturn exclusive",
       "Sega Saturn Multiplayer Adapter compatible title – 1 to 4"
     ],
-    "id": "ssat29",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": null,
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -711,6 +951,7 @@
         "tgdbId": 17
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4",
@@ -724,18 +965,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Gungriffon",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat30",
+    "id": "ssat41",
     "igdbId": 46054,
     "gbId": 7104,
     "gbGuid": "3030-7104",
     "tgdbId": 11272,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -747,18 +988,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Hang-On GP",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat31",
+    "id": "ssat42",
     "igdbId": 46098,
     "gbId": 7503,
     "gbGuid": "3030-7503",
     "tgdbId": 11273,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -770,17 +1012,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Hansha de Spark!",
-    "id": "ssat32",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat43",
     "igdbId": 98122,
     "gbId": 66690,
     "gbGuid": "3030-66690",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -794,19 +1039,36 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Hi-Octane",
+    "id": "ssat44",
+    "igdbId": 12434,
+    "gbId": 16730,
+    "gbGuid": "3030-16730",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/hi_octanethast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "High Velocity: Mountain Racing Challenge",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat33",
+    "id": "ssat45",
     "igdbId": 45519,
     "gbId": 34248,
     "gbGuid": "3030-34248",
     "tgdbId": 6278,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -818,17 +1080,38 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Highway 2000",
+    "id": "ssat46",
+    "igdbId": 46097,
+    "gbId": 52583,
+    "gbGuid": "3030-52583",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/highway2000.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Hyper 3D Pinball",
-    "id": "ssat34",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat47",
     "igdbId": 45489,
     "gbId": 9104,
     "gbGuid": "3030-9104",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -842,19 +1125,36 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "In the Hunt",
+    "id": "ssat48",
+    "igdbId": 10456,
+    "gbId": 5178,
+    "gbGuid": "3030-5178",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/ITHuntthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Iron Storm",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat35",
+    "id": "ssat49",
     "igdbId": 8929,
     "gbId": 6756,
     "gbGuid": "3030-6756",
     "tgdbId": 2396,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -866,17 +1166,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Keriotosse!",
-    "id": "ssat36",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat50",
     "igdbId": 58728,
     "gbId": 53224,
     "gbGuid": "3030-53224",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -890,19 +1193,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Linkle Liver Story",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat37",
+    "id": "ssat51",
     "igdbId": 94005,
     "gbId": 23457,
     "gbGuid": "3030-23457",
     "tgdbId": 55234,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -914,18 +1216,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Lunacy",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat38",
+    "id": "ssat52",
     "igdbId": 71493,
     "gbId": 3997,
     "gbGuid": "3030-3997",
     "tgdbId": 11290,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -937,42 +1240,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Madden NFL 97",
-    "id": "ssat39",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
-    ],
+    "id": "ssat53",
     "igdbId": 4589,
     "gbId": 6279,
     "gbGuid": "3030-6279",
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Madden NFL 98",
-    "id": "ssat40",
     "details": [
       "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
     ],
-    "igdbId": 4590,
-    "gbId": 8679,
-    "gbGuid": "3030-8679",
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
@@ -986,19 +1267,50 @@
         }
       }
     ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/mad97f.jpg",
+        "details": "manual upside down",
+        "type": "Assembly"
+      }
+    ]
+  },
+  {
+    "name": "Madden NFL 98",
+    "id": "ssat54",
+    "igdbId": 4590,
+    "gbId": 8679,
+    "gbGuid": "3030-8679",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "Magic Knight Rayearth",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat41",
+    "id": "ssat55",
     "igdbId": 105043,
     "gbId": 19038,
     "gbGuid": "3030-19038",
     "tgdbId": 11295,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1010,18 +1322,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Majin Tensei",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat42",
+    "id": "ssat56",
     "igdbId": 38231,
     "gbId": 17102,
     "gbGuid": "3030-17102",
     "tgdbId": 31478,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1033,18 +1346,114 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mega Man 8: Anniversary Collector's Edition",
+    "id": "ssat57",
+    "igdbId": 45182,
+    "gbId": 19393,
+    "gbGuid": "3030-19393",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/saturn_megaman8anniversarycollectorsedition_2.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Mega Man X3 (PAL)",
+    "id": "ssat58",
+    "igdbId": 1743,
+    "gbId": 16948,
+    "gbGuid": "3030-16948",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/meamanx3sat.jpg",
+        "details": "says 1-2 players on back",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Midway Presents Arcade's Greatest Hits: The Atari Collection 1",
+    "id": "ssat59",
+    "igdbId": 46045,
+    "gbId": 2851,
+    "gbGuid": "3030-2851",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/arcadegh.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/midwayatari1thast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Minnesota Fats: Pool Legend",
+    "id": "ssat60",
+    "igdbId": 4465,
+    "gbId": 32822,
+    "gbGuid": "3030-32822",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/minfatsthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Mortal Kombat Trilogy",
+    "id": "ssat61",
+    "igdbId": 4121,
+    "gbId": 8279,
+    "gbGuid": "3030-8279",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/mortalkombattrilogythast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Mr. Bones",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat43",
+    "id": "ssat62",
     "igdbId": 25804,
     "gbId": 13186,
     "gbGuid": "3030-13186",
     "tgdbId": 9982,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1056,18 +1465,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mystaria: The Realms of Lore",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat44",
+    "id": "ssat63",
     "igdbId": 45513,
     "gbId": 709,
     "gbGuid": "3030-709",
     "tgdbId": 7938,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1079,92 +1489,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "NBA Action 98",
-    "id": "ssat45",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 10 players"
-    ],
+    "id": "ssat64",
     "igdbId": 45486,
     "gbId": 16087,
     "gbGuid": "3030-16087",
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 10 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "NBA Jam Extreme",
-    "id": "ssat46",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
-    "igdbId": 40205,
-    "gbId": 2725,
-    "gbGuid": "3030-2725",
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "NBA Jam Tournament Edition",
-    "id": "ssat47",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
-    "igdbId": 19712,
-    "gbId": 14792,
-    "gbGuid": "3030-14792",
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "NBA Live 97",
-    "id": "ssat48",
     "details": [
       "Sega Saturn Multiplayer Adapter compatible title – 1 to 10 players"
     ],
-    "igdbId": 20134,
-    "gbId": 1356,
-    "gbGuid": "3030-1356",
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 10 players",
@@ -1178,18 +1516,103 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NBA Jam Extreme",
+    "id": "ssat65",
+    "igdbId": 40205,
+    "gbId": 2725,
+    "gbGuid": "3030-2725",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NBA Jam Tournament Edition",
+    "id": "ssat66",
+    "igdbId": 19712,
+    "gbId": 14792,
+    "gbGuid": "3030-14792",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NBA Live 97",
+    "id": "ssat67",
+    "igdbId": 20134,
+    "gbId": 1356,
+    "gbGuid": "3030-1356",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 10 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 10 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/saturn_nbalive97thast.jpg",
+        "details": "\nsays thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "NBA Live 98",
-    "id": "ssat49",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
-    ],
+    "id": "ssat68",
     "igdbId": 26013,
     "gbId": 15170,
     "gbGuid": "3030-15170",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
@@ -1203,20 +1626,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "NFL '97",
-    "details": [
-      "Sega Saturn exclusive",
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
-    ],
-    "id": "ssat50",
+    "id": "ssat69",
     "igdbId": 45485,
     "gbId": 53218,
     "gbGuid": "3030-53218",
     "tgdbId": 11308,
+    "details": [
+      "Sega Saturn exclusive",
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1227,6 +1649,7 @@
         "tgdbId": 17
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
@@ -1240,92 +1663,19 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "NFL '98",
-    "id": "ssat51",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
-    ],
+    "id": "ssat70",
     "igdbId": 126091,
     "gbId": null,
     "gbGuid": null,
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "NFL Quarterback Club 96",
-    "id": "ssat52",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players"
-    ],
-    "igdbId": 25080,
-    "gbId": 11504,
-    "gbGuid": "3030-11504",
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "NFL Quarterback Club 97",
-    "id": "ssat53",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players"
-    ],
-    "igdbId": 20258,
-    "gbId": 9596,
-    "gbGuid": "3030-9596",
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "NHL 98",
-    "id": "ssat54",
     "details": [
       "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
     ],
-    "igdbId": 818,
-    "gbId": 18845,
-    "gbGuid": "3030-18845",
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
@@ -1339,18 +1689,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
-    "name": "NHL All-Star Hockey",
-    "id": "ssat55",
+    "name": "NFL Quarterback Club 96",
+    "id": "ssat71",
+    "igdbId": 25080,
+    "gbId": 11504,
+    "gbGuid": "3030-11504",
     "details": [
       "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players"
     ],
-    "igdbId": 19732,
-    "gbId": 2488,
-    "gbGuid": "3030-2488",
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players",
@@ -1364,18 +1715,97 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NFL Quarterback Club 97",
+    "id": "ssat72",
+    "igdbId": 20258,
+    "gbId": 9596,
+    "gbGuid": "3030-9596",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players"
+    ],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NHL 98",
+    "id": "ssat73",
+    "igdbId": 818,
+    "gbId": 18845,
+    "gbGuid": "3030-18845",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NHL All-Star Hockey",
+    "id": "ssat74",
+    "igdbId": 19732,
+    "gbId": 2488,
+    "gbGuid": "3030-2488",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 12 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "NHL Powerplay '96",
-    "id": "ssat56",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
-    ],
+    "id": "ssat75",
     "igdbId": 45122,
     "gbId": 7575,
     "gbGuid": "3030-7575",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
@@ -1389,19 +1819,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Nanatsu Kaze No Shima Monogatari",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat57",
+    "id": "ssat76",
     "igdbId": 18493,
     "gbId": 21771,
     "gbGuid": "3030-21771",
     "tgdbId": 50716,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1413,42 +1842,38 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
-    "name": "Olympic Soccer",
-    "id": "ssat58",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "name": "Norse by Norse West: The Return of the Lost Vikings",
+    "id": "ssat77",
+    "igdbId": 2615,
+    "gbId": 4134,
+    "gbGuid": "3030-4134",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/saturn_lostvikings2thats.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Olympic Soccer (Japan)",
+    "id": "ssat78",
     "igdbId": 4292,
     "gbId": 22204,
     "gbGuid": "3030-22204",
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "PGA Tour 97",
-    "id": "ssat59",
     "details": [
       "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
     ],
-    "igdbId": 45484,
-    "gbId": 22799,
-    "gbGuid": "3030-22799",
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -1462,19 +1887,51 @@
         }
       }
     ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/olympicsoccerjapsat.png",
+        "details": "plays a Music CD Mr. Children\nways to find this version are the data number TFCC-88077 and it has it's own unique ID T-7073G",
+        "type": "Data"
+      }
+    ]
+  },
+  {
+    "name": "PGA Tour 97",
+    "id": "ssat79",
+    "igdbId": 45484,
+    "gbId": 22799,
+    "gbGuid": "3030-22799",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
   },
   {
     "name": "Panzer Dragoon",
-    "id": "ssat60",
-    "details": [
-      "Sega Saturn launch title"
-    ],
+    "id": "ssat80",
     "igdbId": 1667,
     "gbId": 4489,
     "gbGuid": "3030-4489",
     "tgdbId": 9260,
+    "details": [
+      "Sega Saturn launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega Saturn",
@@ -1485,19 +1942,19 @@
         "tgdbId": 17
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Panzer Dragoon Saga",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat61",
+    "id": "ssat81",
     "igdbId": 1671,
     "gbId": 3692,
     "gbGuid": "3030-3692",
     "tgdbId": 6828,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1509,19 +1966,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/_3_2_zpscctsc1vv.jpg",
+        "details": "two covers on instructions",
+        "type": "Assembly"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/panzerdragoon1.jpg",
+        "details": "cover miss-cut",
+        "type": "Cutting"
+      }
+    ]
   },
   {
     "name": "Pebble Beach Golf Links",
-    "id": "ssat62",
-    "details": [
-      "Sega Saturn launch title",
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat82",
     "igdbId": 4273,
     "gbId": 3325,
     "gbGuid": "3030-3325",
     "tgdbId": 675,
+    "details": [
+      "Sega Saturn launch title",
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega Saturn",
@@ -1545,17 +2015,19 @@
         }
       }
     ],
-    "isExclusive": false
+    "misprintsErrors": []
   },
   {
     "name": "PowerSlave",
-    "id": "ssat63",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players (contains Death Tank)"
-    ],
+    "id": "ssat83",
     "igdbId": 8338,
     "gbId": 9553,
     "gbGuid": "3030-9553",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players (contains Death Tank)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players (contains Death Tank)",
@@ -1569,19 +2041,17 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Princess Quest",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat64",
+    "id": "ssat84",
     "igdbId": 77600,
     "gbId": 62710,
     "gbGuid": "3030-62710",
-    "tgdbId": null,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1593,17 +2063,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Pro Pinball: The Web",
-    "id": "ssat65",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat85",
     "igdbId": 18333,
     "gbId": 5661,
     "gbGuid": "3030-5661",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -1617,19 +2090,60 @@
         }
       }
     ],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/propinbalthastl.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Rayman",
+    "id": "ssat86",
+    "igdbId": 1963,
+    "gbId": 18473,
+    "gbGuid": "3030-18473",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/rayman.jpg",
+        "details": "Inverted Saturn logo on spine",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Robo Pit",
+    "id": "ssat87",
+    "igdbId": 20249,
+    "gbId": 7883,
+    "gbGuid": "3030-7883",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/robopitthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Robotica",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat66",
+    "id": "ssat88",
     "igdbId": 19744,
     "gbId": 23289,
     "gbGuid": "3030-23289",
     "tgdbId": 11325,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1641,19 +2155,26 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/roboticatypo.jpg",
+        "details": "says field in manual should say shield ",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Saturn Bomberman",
-    "details": [
-      "Sega Saturn exclusive",
-      "Sega Saturn Multiplayer Adapter compatible title– 1 to 10 players"
-    ],
-    "id": "ssat67",
+    "id": "ssat89",
     "igdbId": 28393,
     "gbId": 17854,
     "gbGuid": "3030-17854",
     "tgdbId": 11326,
+    "details": [
+      "Sega Saturn exclusive",
+      "Sega Saturn Multiplayer Adapter compatible title– 1 to 10 players"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1664,6 +2185,7 @@
         "tgdbId": 17
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title– 1 to 10 players",
@@ -1677,18 +2199,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Saturn Bomberman Fight!!",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat68",
+    "id": "ssat90",
     "igdbId": 66221,
     "gbId": 33442,
     "gbGuid": "3030-33442",
     "tgdbId": 49485,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1700,18 +2222,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Scud: The Disposable Assassin",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat69",
+    "id": "ssat91",
     "igdbId": 45483,
     "gbId": 11835,
     "gbGuid": "3030-11835",
     "tgdbId": 11327,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1723,42 +2246,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Sega Worldwide Soccer '97",
-    "id": "ssat70",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat92",
     "igdbId": 45498,
     "gbId": 18030,
     "gbGuid": "3030-18030",
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Sega Worldwide Soccer '98",
-    "id": "ssat71",
     "details": [
       "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
     ],
-    "igdbId": 45468,
-    "gbId": 4404,
-    "gbGuid": "3030-4404",
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -1772,19 +2273,62 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sega Worldwide Soccer '98",
+    "id": "ssat93",
+    "igdbId": 45468,
+    "gbId": 4404,
+    "gbGuid": "3030-4404",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sengoku Blade: Sengoku Ace Episode II (Japan)",
+    "id": "ssat94",
+    "igdbId": 39341,
+    "gbId": 30541,
+    "gbGuid": "3030-30541",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sony/ps1/sengokublade.jpg",
+        "details": "says Bladede on spine",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Shining Force III",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat72",
+    "id": "ssat95",
     "igdbId": 28396,
     "gbId": 8306,
     "gbGuid": "3030-8306",
     "tgdbId": 185,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1796,18 +2340,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Shining Wisdom",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat73",
+    "id": "ssat96",
     "igdbId": 46059,
     "gbId": 20150,
     "gbGuid": "3030-20150",
     "tgdbId": 11184,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1819,18 +2364,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/shining2.png_zpsaxsggfzn.jpeg",
+        "details": "no red foil on spine or back",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Shining the Holy Ark",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat74",
+    "id": "ssat97",
     "igdbId": 46063,
     "gbId": 16913,
     "gbGuid": "3030-16913",
     "tgdbId": 11174,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1842,18 +2394,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Shinobi Legions",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat75",
+    "id": "ssat98",
     "igdbId": 10221,
     "gbId": 12895,
     "gbGuid": "3030-12895",
     "tgdbId": 11342,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1865,18 +2418,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/ShinobiLegionsthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Shinrei Jusatsushi Taromaru",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat76",
+    "id": "ssat99",
     "igdbId": 45456,
     "gbId": 16726,
     "gbGuid": "3030-16726",
     "tgdbId": 29448,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1888,17 +2448,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Slam 'n Jam '96 Featuring Magic & Kareem",
-    "id": "ssat77",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat100",
     "igdbId": 44904,
     "gbId": 4337,
     "gbGuid": "3030-4337",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -1912,18 +2475,37 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Space Hulk: Vengeance of the Blood Angels",
+    "id": "ssat101",
+    "igdbId": 4330,
+    "gbId": 1518,
+    "gbGuid": "3030-1518",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/spacehulkthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Space Jam",
-    "id": "ssat78",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
-    ],
+    "id": "ssat102",
     "igdbId": 46096,
     "gbId": 18341,
     "gbGuid": "3030-18341",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 6 players",
@@ -1937,18 +2519,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Striker '96",
-    "id": "ssat79",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat103",
     "igdbId": 22675,
     "gbId": 6753,
     "gbGuid": "3030-6753",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -1962,19 +2545,36 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Puzzle Fighter II Turbo",
+    "id": "ssat104",
+    "igdbId": 20803,
+    "gbId": 2755,
+    "gbGuid": "3030-2755",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/SPF2TSthats.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Super Tempo",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat80",
+    "id": "ssat105",
     "igdbId": 46050,
     "gbId": 29099,
     "gbGuid": "3030-29099",
     "tgdbId": 38547,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -1986,18 +2586,55 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tempest 2000",
+    "id": "ssat106",
+    "igdbId": 9791,
+    "gbId": 8496,
+    "gbGuid": "3030-8496",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/tempest2000thast.jpg",
+        "details": "\nsays thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "Tetris Plus",
+    "id": "ssat107",
+    "igdbId": 20712,
+    "gbId": 17808,
+    "gbGuid": "3030-17808",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/tetrisplusthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "The Legend of Oasis",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat81",
+    "id": "ssat108",
     "igdbId": 22504,
     "gbId": 22635,
     "gbGuid": "3030-22635",
     "tgdbId": 4106,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -2009,17 +2646,38 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Theme Park",
+    "id": "ssat109",
+    "igdbId": 283,
+    "gbId": 6562,
+    "gbGuid": "3030-6562",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/ThemeParkthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Three Dirty Dwarves",
-    "id": "ssat82",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 3 players"
-    ],
+    "id": "ssat110",
     "igdbId": 45480,
     "gbId": 5201,
     "gbGuid": "3030-5201",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 3 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 3 players",
@@ -2033,18 +2691,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "True Pinball",
-    "id": "ssat83",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
-    ],
+    "id": "ssat111",
     "igdbId": 9131,
     "gbId": 16591,
     "gbGuid": "3030-16591",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 8 players",
@@ -2058,18 +2717,37 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ultimate Mortal Kombat 3",
+    "id": "ssat112",
+    "igdbId": 1621,
+    "gbId": 2178,
+    "gbGuid": "3030-2178",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/umk3sat.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Valora Valley Golf",
-    "id": "ssat84",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat113",
     "igdbId": 45467,
     "gbId": null,
     "gbGuid": null,
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -2083,19 +2761,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Virtua Fighter",
-    "id": "ssat85",
-    "details": [
-      "Sega Saturn launch title"
-    ],
+    "id": "ssat114",
     "igdbId": 19734,
     "gbId": 15584,
     "gbGuid": "3030-15584",
     "tgdbId": 4928,
+    "details": [
+      "Sega Saturn launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega Saturn",
@@ -2106,19 +2784,37 @@
         "tgdbId": 17
       }
     ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Virtual Casino",
+    "id": "ssat115",
+    "igdbId": 45517,
+    "gbId": 32727,
+    "gbGuid": "3030-32727",
+    "details": [],
     "isExclusive": false,
-    "special": []
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/virtual-casino-thast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Virtual Hydlide",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat86",
+    "id": "ssat116",
     "igdbId": 19738,
     "gbId": 4083,
     "gbGuid": "3030-4083",
     "tgdbId": 11369,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -2130,19 +2826,26 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/virtualhylide.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "Virtual Open Tennis",
-    "details": [
-      "Sega Saturn exclusive",
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
-    "id": "ssat87",
+    "id": "ssat117",
     "igdbId": 45477,
     "gbId": 16599,
     "gbGuid": "3030-16599",
     "tgdbId": 11371,
+    "details": [
+      "Sega Saturn exclusive",
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -2153,6 +2856,7 @@
         "tgdbId": 17
       }
     ],
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -2166,41 +2870,18 @@
         }
       }
     ],
-    "isLaunchTitle": false
-  },
-  {
-    "name": "Virtual Volleyball",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat88",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "tgdbId": null,
-    "isExclusive": [
-      {
-        "name": "Sega Saturn",
-        "id": "ccl17",
-        "igdbId": 32,
-        "gbId": 42,
-        "gbGuid": "3045-42",
-        "tgdbId": 17
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": []
+    "misprintsErrors": []
   },
   {
     "name": "Virus",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat89",
+    "id": "ssat118",
     "igdbId": 102439,
     "gbId": 5933,
     "gbGuid": "3030-5933",
     "tgdbId": 30508,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -2212,17 +2893,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "WWF In Your House",
-    "id": "ssat90",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat119",
     "igdbId": 23238,
     "gbId": 7485,
     "gbGuid": "3030-7485",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -2236,19 +2920,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Wachenröder",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat91",
+    "id": "ssat120",
     "igdbId": 93007,
     "gbId": 14295,
     "gbGuid": "3030-14295",
     "tgdbId": 33718,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -2260,18 +2943,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Wing Arms",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat92",
+    "id": "ssat121",
     "igdbId": 19720,
     "gbId": 4075,
     "gbGuid": "3030-4075",
     "tgdbId": 2426,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -2283,17 +2967,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Winter Heat",
-    "id": "ssat93",
-    "details": [
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
-    ],
+    "id": "ssat122",
     "igdbId": 45476,
     "gbId": 13059,
     "gbGuid": "3030-13059",
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players",
@@ -2307,19 +2994,36 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "World Cup Golf: Professional Edition",
+    "id": "ssat123",
+    "igdbId": 4340,
+    "gbId": 58014,
+    "gbGuid": "3030-58014",
+    "details": [],
     "isExclusive": false,
-    "isLaunchTitle": false
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/WCGPEthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
+      }
+    ]
   },
   {
     "name": "World Series Baseball II",
-    "details": [
-      "Sega Saturn exclusive"
-    ],
-    "id": "ssat94",
+    "id": "ssat124",
     "igdbId": 45511,
     "gbId": 33005,
     "gbGuid": "3030-33005",
     "tgdbId": 7942,
+    "details": [
+      "Sega Saturn exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega Saturn",
@@ -2331,21 +3035,22 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Worldwide Soccer: Sega International Victory Goal Edition",
-    "id": "ssat95",
+    "id": "ssat125",
+    "igdbId": 19755,
+    "gbId": 19794,
+    "gbGuid": "3030-19794",
+    "tgdbId": 11379,
     "details": [
       "Sega Saturn launch title",
       "Sega Saturn exclusive",
       "Sega Saturn Multiplayer Adapter compatible title – 1 to 4 players"
     ],
-    "igdbId": 19755,
-    "gbId": 19794,
-    "gbGuid": "3030-19794",
-    "tgdbId": 11379,
-    "isLaunchTitle": [
+    "isExclusive": [
       {
         "name": "Sega Saturn",
         "id": "ccl17",
@@ -2355,7 +3060,7 @@
         "tgdbId": 17
       }
     ],
-    "isExclusive": [
+    "isLaunchTitle": [
       {
         "name": "Sega Saturn",
         "id": "ccl17",
@@ -2376,6 +3081,25 @@
           "gbGuid": "3045-42",
           "tgdbId": 17
         }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Worms",
+    "id": "ssat126",
+    "igdbId": 9331,
+    "gbId": 2007,
+    "gbGuid": "3030-2007",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/saturn/wormsthast.jpg",
+        "details": "says thast in quality assurance description",
+        "type": "Typo"
       }
     ]
   }

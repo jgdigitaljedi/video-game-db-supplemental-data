@@ -1,14 +1,14 @@
 [
   {
     "name": "A-Rank Thunder Tanjouhen",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd0",
     "igdbId": 5355,
     "gbId": 46881,
     "gbGuid": "3030-46881",
     "tgdbId": 41470,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -20,18 +20,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "A/X-101",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd1",
     "igdbId": 5360,
     "gbId": 23240,
     "gbGuid": "3030-23240",
     "tgdbId": 4937,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -43,18 +44,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Android Assault: The Revenge of Bari-Arm",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd2",
     "igdbId": 5358,
     "gbId": 23241,
     "gbGuid": "3030-23241",
     "tgdbId": 4936,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -66,18 +68,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Anett Futatabi",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd3",
     "igdbId": null,
     "gbId": 9159,
     "gbGuid": "3030-9159",
     "tgdbId": 25432,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -89,18 +92,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/SegaCD/comptonsfront.jpg",
+        "details": "insert and manual upside down\nthis game has been WATA certified",
+        "type": "Assembly"
+      }
+    ]
   },
   {
     "name": "BattleCorps",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd4",
     "igdbId": 46423,
     "gbId": 210,
     "gbGuid": "3030-210",
     "tgdbId": 4940,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -112,18 +122,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "BlackHole Assault",
     "id": "scd5",
-    "details": [
-      "Sega CD launch title"
-    ],
     "igdbId": 5365,
     "gbId": 37977,
     "gbGuid": "3030-37977",
     "tgdbId": 19298,
+    "details": [
+      "Sega CD launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega CD",
@@ -134,19 +146,19 @@
         "tgdbId": 21
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Bouncers",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd6",
     "igdbId": 46422,
     "gbId": 7462,
     "gbGuid": "3030-7462",
     "tgdbId": 4943,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -158,18 +170,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Captain Tsubasa",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd7",
     "igdbId": 5369,
     "gbId": 38265,
     "gbGuid": "3030-38265",
     "tgdbId": 23986,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -181,18 +194,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Chuck Rock",
     "id": "scd8",
-    "details": [
-      "Sega CD launch title"
-    ],
     "igdbId": 4516,
     "gbId": 2941,
     "gbGuid": "3030-2941",
     "tgdbId": 1738,
+    "details": [
+      "Sega CD launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega CD",
@@ -203,19 +218,20 @@
         "tgdbId": 21
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Cobra Command",
     "id": "scd9",
-    "details": [
-      "Sega CD launch title"
-    ],
     "igdbId": 5371,
     "gbId": 30888,
     "gbGuid": "3030-30888",
     "tgdbId": 1676,
+    "details": [
+      "Sega CD launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega CD",
@@ -226,19 +242,19 @@
         "tgdbId": 21
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dark Wizard",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd10",
     "igdbId": 5374,
     "gbId": 15251,
     "gbGuid": "3030-15251",
     "tgdbId": 4954,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -250,17 +266,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Dungeon Explorer",
     "id": "scd11",
-    "details": [
-      "Sega CD Team Player compatible title"
-    ],
     "igdbId": 19742,
     "gbId": 28218,
     "gbGuid": "3030-28218",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega CD Team Player compatible title",
@@ -274,18 +293,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Dynamic Country Club: 3D Golf Simulation",
     "id": "scd12",
-    "details": [
-      "Sega CD Team Player compatible title"
-    ],
     "igdbId": 45873,
     "gbId": null,
     "gbGuid": null,
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega CD Team Player compatible title",
@@ -299,19 +319,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "ESPN NBA HangTime '95",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd13",
     "igdbId": 46406,
     "gbId": 10512,
     "gbGuid": "3030-10512",
     "tgdbId": 31785,
+    "details": [
+      "Sega CD exclusive",
+      "Sega CD Team Player compatible title"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -323,17 +343,6 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
-  },
-  {
-    "name": "ESPN NBA HangTime '95",
-    "id": "scd14",
-    "details": [
-      "Sega CD Team Player compatible title"
-    ],
-    "igdbId": 46406,
-    "gbId": null,
-    "gbGuid": null,
     "special": [
       {
         "value": "Sega CD Team Player compatible title",
@@ -347,18 +356,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "ESPN National Hockey Night",
-    "id": "scd15",
-    "details": [
-      "Sega CD Team Player compatible title"
-    ],
+    "id": "scd14",
     "igdbId": 5381,
     "gbId": 30852,
     "gbGuid": "3030-30852",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega CD Team Player compatible title",
@@ -372,19 +382,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Eternal Champions: Challenge from the Dark Side",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd16",
+    "id": "scd15",
     "igdbId": 5383,
     "gbId": 8021,
     "gbGuid": "3030-8021",
     "tgdbId": 5010,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -396,18 +405,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Formula One World Championship: Beyond the Limit",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd17",
+    "id": "scd16",
     "igdbId": 5388,
     "gbId": 7432,
     "gbGuid": "3030-7432",
     "tgdbId": 5012,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -419,18 +429,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Ground Zero: Texas",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd18",
+    "id": "scd17",
     "igdbId": 5390,
     "gbId": 20309,
     "gbGuid": "3030-20309",
     "tgdbId": 5018,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -442,18 +453,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Heart of the Alien: Out of this World Parts I And II",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd19",
+    "id": "scd18",
     "igdbId": 46420,
     "gbId": 17785,
     "gbGuid": "3030-17785",
     "tgdbId": 5019,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -465,28 +477,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "INXS: Make My Video",
-    "id": "scd20",
-    "details": [
-      "Sega CD launch title",
-      "Sega CD exclusive"
-    ],
+    "id": "scd19",
     "igdbId": 46418,
     "gbId": 10517,
     "gbGuid": "3030-10517",
     "tgdbId": 5057,
-    "isLaunchTitle": [
-      {
-        "name": "Sega CD",
-        "id": "ccl15",
-        "igdbId": 78,
-        "gbId": 29,
-        "gbGuid": "3045-29",
-        "tgdbId": 21
-      }
+    "details": [
+      "Sega CD launch title",
+      "Sega CD exclusive"
     ],
     "isExclusive": [
       {
@@ -498,18 +501,29 @@
         "tgdbId": 21
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Sega CD",
+        "id": "ccl15",
+        "igdbId": 78,
+        "gbId": 29,
+        "gbGuid": "3045-29",
+        "tgdbId": 21
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Jurassic Park",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd21",
+    "id": "scd20",
     "igdbId": 4519,
     "gbId": 21383,
     "gbGuid": "3030-21383",
     "tgdbId": 537,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -521,18 +535,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Keio Flying Squadron",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd22",
+    "id": "scd21",
     "igdbId": 12912,
     "gbId": 16410,
     "gbGuid": "3030-16410",
     "tgdbId": 2578,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -544,18 +559,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/SegaCD/keroflying_zpsa8606734.jpg",
+        "details": "I'll just quote Nes Gangsta \"To me, this is a huge blunder that should have been caught and destroyed at the warehouse that manufactured this. And if there is 1 of these-there are probably more as the speed of the press if not caught quickly would print at least 50 like this some worse some better but all noticeable. Even the compact disc logo has moved, and i have only seen this happen when sheets get stuck to either the blanket or the plate as its running and the next passes through this occurs and would make some of the image move and look as it does. \"",
+        "type": "Printing"
+      }
+    ]
   },
   {
     "name": "Kris Kross: Make My Video",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd23",
+    "id": "scd22",
     "igdbId": 46417,
     "gbId": 10670,
     "gbGuid": "3030-10670",
     "tgdbId": 5058,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -567,18 +589,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Lunar: The Silver Star",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd24",
+    "id": "scd23",
     "igdbId": 5334,
     "gbId": 13562,
     "gbGuid": "3030-13562",
     "tgdbId": 5054,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -590,28 +613,18 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Marky Mark and the Funky Bunch: Make My Video",
-    "id": "scd25",
-    "details": [
-      "Sega CD launch title",
-      "Sega CD exclusive"
-    ],
+    "id": "scd24",
     "igdbId": 46416,
     "gbId": 5307,
     "gbGuid": "3030-5307",
-    "tgdbId": null,
-    "isLaunchTitle": [
-      {
-        "name": "Sega CD",
-        "id": "ccl15",
-        "igdbId": 78,
-        "gbId": 29,
-        "gbGuid": "3045-29",
-        "tgdbId": 21
-      }
+    "details": [
+      "Sega CD launch title",
+      "Sega CD exclusive"
     ],
     "isExclusive": [
       {
@@ -623,18 +636,29 @@
         "tgdbId": 21
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Sega CD",
+        "id": "ccl15",
+        "igdbId": 78,
+        "gbId": 29,
+        "gbGuid": "3045-29",
+        "tgdbId": 21
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Midnight Raiders",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd26",
+    "id": "scd25",
     "igdbId": 19743,
     "gbId": 16280,
     "gbGuid": "3030-16280",
     "tgdbId": 5064,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -646,17 +670,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Mighty Mighty Missile!",
-    "id": "scd27",
-    "details": [
-      "Sega CD Team Player compatible title"
-    ],
+    "id": "scd26",
     "igdbId": 128890,
     "gbId": null,
     "gbGuid": null,
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega CD Team Player compatible title",
@@ -670,19 +697,18 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Mighty Morphin Power Rangers",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd28",
+    "id": "scd27",
     "igdbId": 3286,
     "gbId": 27002,
     "gbGuid": "3030-27002",
     "tgdbId": 439,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -694,17 +720,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "NBA Jam",
-    "id": "scd29",
-    "details": [
-      "Sega CD Team Player compatible title"
-    ],
+    "id": "scd28",
     "igdbId": 8995,
     "gbId": 16928,
     "gbGuid": "3030-16928",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega CD Team Player compatible title",
@@ -718,19 +747,19 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   },
   {
     "name": "Night Trap",
-    "id": "scd30",
-    "details": [
-      "Sega CD launch title"
-    ],
+    "id": "scd29",
     "igdbId": 2486,
     "gbId": 18648,
     "gbGuid": "3030-18648",
     "tgdbId": 5071,
+    "details": [
+      "Sega CD launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega CD",
@@ -741,19 +770,19 @@
         "tgdbId": 21
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Power Factory Featuring C+C Music Factory",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd31",
+    "id": "scd30",
     "igdbId": 5420,
     "gbId": 18613,
     "gbGuid": "3030-18613",
     "tgdbId": 5076,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -765,18 +794,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Prize Fighter",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd32",
+    "id": "scd31",
     "igdbId": 5424,
     "gbId": 8564,
     "gbGuid": "3030-8564",
     "tgdbId": 5079,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -788,18 +818,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "RDF Global Conflict",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd33",
+    "id": "scd32",
     "igdbId": 46606,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 5082,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -811,18 +842,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Racing Aces",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd34",
+    "id": "scd33",
     "igdbId": 5426,
     "gbId": 14317,
     "gbGuid": "3030-14317",
     "tgdbId": 444,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -834,18 +866,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Robo Aleste",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd35",
+    "id": "scd34",
     "igdbId": 5430,
     "gbId": 12066,
     "gbGuid": "3030-12066",
     "tgdbId": 445,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -857,28 +890,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Sega Classics Arcade Collection 4-in-1",
-    "id": "scd36",
-    "details": [
-      "Sega CD launch title",
-      "Sega CD exclusive"
-    ],
+    "id": "scd35",
     "igdbId": 5432,
     "gbId": 43485,
     "gbGuid": "3030-43485",
     "tgdbId": 29399,
-    "isLaunchTitle": [
-      {
-        "name": "Sega CD",
-        "id": "ccl15",
-        "igdbId": 78,
-        "gbId": 29,
-        "gbGuid": "3045-29",
-        "tgdbId": 21
-      }
+    "details": [
+      "Sega CD launch title",
+      "Sega CD exclusive"
     ],
     "isExclusive": [
       {
@@ -890,18 +914,30 @@
         "tgdbId": 21
       }
     ],
-    "special": []
+    "isLaunchTitle": [
+      {
+        "name": "Sega CD",
+        "id": "ccl15",
+        "igdbId": 78,
+        "gbId": 29,
+        "gbGuid": "3045-29",
+        "tgdbId": 21
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Sewer Shark",
-    "id": "scd37",
-    "details": [
-      "Sega CD launch title"
-    ],
+    "id": "scd36",
     "igdbId": 4293,
     "gbId": 7427,
     "gbGuid": "3030-7427",
     "tgdbId": 739,
+    "details": [
+      "Sega CD launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega CD",
@@ -912,19 +948,19 @@
         "tgdbId": 21
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Shadowrun",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd38",
+    "id": "scd37",
     "igdbId": 78514,
     "gbId": 34672,
     "gbGuid": "3030-34672",
     "tgdbId": 1306,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -936,18 +972,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Sherlock Holmes Consulting Detective",
-    "id": "scd39",
-    "details": [
-      "Sega CD launch title"
-    ],
+    "id": "scd38",
     "igdbId": 5435,
     "gbId": 12998,
     "gbGuid": "3030-12998",
     "tgdbId": 42989,
+    "details": [
+      "Sega CD launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega CD",
@@ -958,19 +996,19 @@
         "tgdbId": 21
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Shining Force CD",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd40",
+    "id": "scd39",
     "igdbId": 3198,
     "gbId": 16383,
     "gbGuid": "3030-16383",
     "tgdbId": 5092,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -982,18 +1020,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Sol-Feace",
-    "id": "scd41",
-    "details": [
-      "Sega CD launch title"
-    ],
+    "id": "scd40",
     "igdbId": 4388,
     "gbId": 2685,
     "gbGuid": "3030-2685",
     "tgdbId": 5096,
+    "details": [
+      "Sega CD launch title"
+    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Sega CD",
@@ -1004,19 +1044,19 @@
         "tgdbId": 21
       }
     ],
-    "isExclusive": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Soulstar",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd42",
+    "id": "scd41",
     "igdbId": 5453,
     "gbId": 15595,
     "gbGuid": "3030-15595",
     "tgdbId": 5266,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -1028,18 +1068,43 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/SegaCD/soulstarcorrect.jpeg",
+        "details": "no black SEGA in Seal ",
+        "type": "Printing"
+      }
+    ]
+  },
+  {
+    "name": "Supreme Warrior",
+    "id": "scd42",
+    "igdbId": 4291,
+    "gbId": 13379,
+    "gbGuid": "3030-13379",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/SegaCD/supremewarrior1.jpg",
+        "details": "disc1 plays disc 2",
+        "type": "Data"
+      }
+    ]
   },
   {
     "name": "The Adventures of Batman & Robin",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd43",
     "igdbId": 5346,
     "gbId": 12434,
     "gbGuid": "3030-12434",
     "tgdbId": 1049,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -1051,18 +1116,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "The Masked Rider: Kamen Rider ZO",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd44",
     "igdbId": 46409,
     "gbId": 15630,
     "gbGuid": "3030-15630",
     "tgdbId": 5106,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -1074,18 +1140,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Third World War",
-    "details": [
-      "Sega CD exclusive"
-    ],
     "id": "scd45",
     "igdbId": 5457,
     "gbId": 40982,
     "gbGuid": "3030-40982",
     "tgdbId": 5109,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -1097,18 +1164,42 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Vay",
+    "id": "scd46",
+    "igdbId": 5460,
+    "gbId": 13988,
+    "gbGuid": "3030-13988",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/SegaCD/vaymisprint_zpsccptsbrq.jpg",
+        "details": "very nice misprinting of the foil lettering",
+        "type": "Printing"
+      },
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/SegaCD/vay.jpg",
+        "details": "two covers in manual",
+        "type": "Assembly"
+      }
+    ]
   },
   {
     "name": "WWF Rage in the Cage",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd46",
+    "id": "scd47",
     "igdbId": 5465,
     "gbId": 22268,
     "gbGuid": "3030-22268",
     "tgdbId": 5123,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -1120,18 +1211,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Wild Woody",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd47",
+    "id": "scd48",
     "igdbId": 5461,
     "gbId": 20438,
     "gbGuid": "3030-20438",
     "tgdbId": 5116,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -1143,18 +1235,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "Wirehead",
-    "details": [
-      "Sega CD exclusive"
-    ],
-    "id": "scd48",
+    "id": "scd49",
     "igdbId": 5462,
     "gbId": 5705,
     "gbGuid": "3030-5705",
     "tgdbId": 5119,
+    "details": [
+      "Sega CD exclusive"
+    ],
     "isExclusive": [
       {
         "name": "Sega CD",
@@ -1166,17 +1259,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": []
+    "special": [],
+    "misprintsErrors": []
   },
   {
     "name": "World Cup USA '94",
-    "id": "scd49",
-    "details": [
-      "Sega CD Team Player compatible title"
-    ],
+    "id": "scd50",
     "igdbId": 5464,
     "gbId": 5498,
     "gbGuid": "3030-5498",
+    "details": [
+      "Sega CD Team Player compatible title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega CD Team Player compatible title",
@@ -1190,7 +1286,6 @@
         }
       }
     ],
-    "isExclusive": false,
-    "isLaunchTitle": false
+    "misprintsErrors": []
   }
 ]
