@@ -335,7 +335,8 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'multiplayer/playStationMultitap.json')),
       require(path.resolve(smallFiles, 'greatestHits/sonyPlayStationGreatestHits.json')),
-      require(path.resolve(smallFiles, 'special/playstationLongboxGames.json'))
+      require(path.resolve(smallFiles, 'special/playstationLongboxGames.json')),
+      require(path.resolve(smallFiles, 'backwardCompatibilityLists/ps1ToPs2Bc.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlaystation.json')
   },
