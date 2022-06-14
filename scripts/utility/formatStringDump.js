@@ -2,13 +2,17 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/launchTitles/neoGeoCdLaunchTitles.json';
-const idPrefix = 'ngcdlt';
+const relativePath = '../../textFilesToBeConverted/special/3doGameGunGames.json';
+const idPrefix = '3dogg';
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
-  const newData = fileUtil.stringArrToObjectArr(parsed, 'Neo Geo CD launch title', idPrefix);
+  const newData = fileUtil.stringArrToObjectArr(
+    parsed,
+    '3DO Interactive Multiplayer GameGun game',
+    idPrefix
+  );
   const result = await fileUtil.writeFile(relativePath, newData);
   if (result) {
     console.log(chalk.cyan.bold('All IDs written!'));

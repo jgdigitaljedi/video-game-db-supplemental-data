@@ -127,7 +127,8 @@
     "gbGuid": "3030-312",
     "tgdbId": 11521,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System Phaser game"
     ],
     "isExclusive": [
       {
@@ -140,7 +141,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -515,8 +528,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "Ghost House",
+    "name": "Gangster Town",
     "id": "sms22",
+    "igdbId": 45650,
+    "gbId": 20354,
+    "gbGuid": "3030-20354",
+    "details": [
+      "Sega Master System Phaser game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ghost House",
+    "id": "sms23",
     "igdbId": 45649,
     "gbId": 9862,
     "gbGuid": "3030-9862",
@@ -540,7 +579,7 @@
   },
   {
     "name": "Golfamania",
-    "id": "sms23",
+    "id": "sms24",
     "igdbId": 45673,
     "gbId": null,
     "gbGuid": null,
@@ -564,7 +603,7 @@
   },
   {
     "name": "Great Baseball",
-    "id": "sms24",
+    "id": "sms25",
     "igdbId": 46145,
     "gbId": 12789,
     "gbGuid": "3030-12789",
@@ -588,7 +627,7 @@
   },
   {
     "name": "Great Football",
-    "id": "sms25",
+    "id": "sms26",
     "igdbId": 46144,
     "gbId": 14056,
     "gbGuid": "3030-14056",
@@ -606,7 +645,7 @@
   },
   {
     "name": "Great Ice Hockey",
-    "id": "sms26",
+    "id": "sms27",
     "igdbId": 46142,
     "gbId": 37110,
     "gbGuid": "3030-37110",
@@ -630,7 +669,7 @@
   },
   {
     "name": "Hoshi wo Sagashite...",
-    "id": "sms27",
+    "id": "sms28",
     "igdbId": 46149,
     "gbId": 17444,
     "gbGuid": "3030-17444",
@@ -654,7 +693,7 @@
   },
   {
     "name": "Kenseiden",
-    "id": "sms28",
+    "id": "sms29",
     "igdbId": 65579,
     "gbId": 20283,
     "gbGuid": "3030-20283",
@@ -678,7 +717,7 @@
   },
   {
     "name": "Kung Fu Kid",
-    "id": "sms29",
+    "id": "sms30",
     "igdbId": 36898,
     "gbId": 12779,
     "gbGuid": "3030-12779",
@@ -701,8 +740,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Laser Ghost",
+    "id": "sms31",
+    "igdbId": 36901,
+    "gbId": 14213,
+    "gbGuid": "3030-14213",
+    "details": [
+      "Sega Master System Phaser game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Lord of the Sword",
-    "id": "sms30",
+    "id": "sms32",
     "igdbId": 46671,
     "gbId": 10880,
     "gbGuid": "3030-10880",
@@ -726,13 +791,14 @@
   },
   {
     "name": "Marksman Shooting & Trap Shooting",
-    "id": "sms31",
+    "id": "sms33",
     "igdbId": 78779,
     "gbId": 4368,
     "gbGuid": "3030-4368",
     "tgdbId": 2897,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System Phaser game"
     ],
     "isExclusive": [
       {
@@ -745,12 +811,50 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Missile Defense 3-D",
+    "id": "sms34",
+    "igdbId": 45672,
+    "gbId": 19870,
+    "gbGuid": "3030-19870",
+    "details": [
+      "Sega Master System Phaser game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Monopoly",
-    "id": "sms32",
+    "id": "sms35",
     "igdbId": 122241,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -774,7 +878,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "sms33",
+    "id": "sms36",
     "igdbId": 131548,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -792,7 +896,7 @@
   },
   {
     "name": "Ninja Gaiden",
-    "id": "sms34",
+    "id": "sms37",
     "igdbId": 7558,
     "gbId": 1653,
     "gbGuid": "3030-1653",
@@ -815,8 +919,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Operation Wolf",
+    "id": "sms38",
+    "igdbId": 12190,
+    "gbId": 14869,
+    "gbGuid": "3030-14869",
+    "details": [
+      "Sega Master System Phaser game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "OutRun 3-D",
-    "id": "sms35",
+    "id": "sms39",
     "igdbId": 46136,
     "gbId": null,
     "gbGuid": null,
@@ -840,7 +970,7 @@
   },
   {
     "name": "Penguin Land",
-    "id": "sms36",
+    "id": "sms40",
     "igdbId": 49152,
     "gbId": 15446,
     "gbGuid": "3030-15446",
@@ -864,7 +994,7 @@
   },
   {
     "name": "Poseidon Wars 3-D",
-    "id": "sms37",
+    "id": "sms41",
     "igdbId": 46134,
     "gbId": 20312,
     "gbGuid": "3030-20312",
@@ -888,7 +1018,7 @@
   },
   {
     "name": "Power Strike",
-    "id": "sms38",
+    "id": "sms42",
     "igdbId": 46132,
     "gbId": 3130,
     "gbGuid": "3030-3130",
@@ -912,7 +1042,7 @@
   },
   {
     "name": "Pro Wrestling",
-    "id": "sms39",
+    "id": "sms43",
     "igdbId": 18143,
     "gbId": 4962,
     "gbGuid": "3030-4962",
@@ -936,7 +1066,7 @@
   },
   {
     "name": "Psycho Fox",
-    "id": "sms40",
+    "id": "sms44",
     "igdbId": 46131,
     "gbId": 18090,
     "gbGuid": "3030-18090",
@@ -966,7 +1096,7 @@
   },
   {
     "name": "R.C. Grand Prix",
-    "id": "sms41",
+    "id": "sms45",
     "igdbId": 46336,
     "gbId": 6208,
     "gbGuid": "3030-6208",
@@ -990,13 +1120,14 @@
   },
   {
     "name": "Rambo III",
-    "id": "sms42",
+    "id": "sms46",
     "igdbId": 18145,
     "gbId": 1172,
     "gbGuid": "3030-1172",
     "tgdbId": 2987,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System Phaser game"
     ],
     "isExclusive": [
       {
@@ -1009,12 +1140,50 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rescue Mission",
+    "id": "sms47",
+    "igdbId": 18140,
+    "gbId": 4358,
+    "gbGuid": "3030-4358",
+    "details": [
+      "Sega Master System Phaser game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Rocky",
-    "id": "sms43",
+    "id": "sms48",
     "igdbId": 37175,
     "gbId": 26048,
     "gbGuid": "3030-26048",
@@ -1038,7 +1207,7 @@
   },
   {
     "name": "Running Battle",
-    "id": "sms44",
+    "id": "sms49",
     "igdbId": 19511,
     "gbId": 45429,
     "gbGuid": "3030-45429",
@@ -1061,8 +1230,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Safari Hunt",
+    "id": "sms50",
+    "igdbId": 94935,
+    "gbId": 13798,
+    "gbGuid": "3030-13798",
+    "details": [
+      "Sega Master System Phaser game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sega World Tournament Golf",
-    "id": "sms45",
+    "id": "sms51",
     "igdbId": 46128,
     "gbId": null,
     "gbGuid": null,
@@ -1085,8 +1280,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Shooting Gallery",
+    "id": "sms52",
+    "igdbId": 79985,
+    "gbId": 39454,
+    "gbGuid": "3030-39454",
+    "details": [
+      "Sega Master System Phaser game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sitio do Picapau Amarelo",
-    "id": "sms46",
+    "id": "sms53",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1121,7 +1342,7 @@
   },
   {
     "name": "Slap Shot",
-    "id": "sms47",
+    "id": "sms54",
     "igdbId": 81281,
     "gbId": 40439,
     "gbGuid": "3030-40439",
@@ -1145,7 +1366,7 @@
   },
   {
     "name": "Snail Maze",
-    "id": "sms48",
+    "id": "sms55",
     "igdbId": 46118,
     "gbId": 21555,
     "gbGuid": "3030-21555",
@@ -1168,8 +1389,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Space Gun",
+    "id": "sms56",
+    "igdbId": 12856,
+    "gbId": 15378,
+    "gbGuid": "3030-15378",
+    "details": [
+      "Sega Master System Phaser game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Space Harrier 3-D",
-    "id": "sms49",
+    "id": "sms57",
     "igdbId": 46126,
     "gbId": 10291,
     "gbGuid": "3030-10291",
@@ -1193,7 +1440,7 @@
   },
   {
     "name": "SpellCaster",
-    "id": "sms50",
+    "id": "sms58",
     "igdbId": 46124,
     "gbId": 10557,
     "gbGuid": "3030-10557",
@@ -1217,7 +1464,7 @@
   },
   {
     "name": "Taz-Mania",
-    "id": "sms51",
+    "id": "sms59",
     "igdbId": 8066,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -1241,7 +1488,7 @@
   },
   {
     "name": "Tecmo World Cup '93",
-    "id": "sms52",
+    "id": "sms60",
     "igdbId": 46101,
     "gbId": 23136,
     "gbGuid": "3030-23136",
@@ -1265,7 +1512,7 @@
   },
   {
     "name": "The Cyber Shinobi",
-    "id": "sms53",
+    "id": "sms61",
     "igdbId": 10218,
     "gbId": null,
     "gbGuid": null,
@@ -1289,7 +1536,7 @@
   },
   {
     "name": "TransBot",
-    "id": "sms54",
+    "id": "sms62",
     "igdbId": 29136,
     "gbId": 15686,
     "gbGuid": "3030-15686",
@@ -1313,13 +1560,14 @@
   },
   {
     "name": "Wanted",
-    "id": "sms55",
+    "id": "sms63",
     "igdbId": 75090,
     "gbId": 15956,
     "gbGuid": "3030-15956",
     "tgdbId": 3098,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System Phaser game"
     ],
     "isExclusive": [
       {
@@ -1332,7 +1580,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System Phaser game",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Sega/SMS/wanted.jpg",
@@ -1343,7 +1603,7 @@
   },
   {
     "name": "Wonder Boy in Monster Land",
-    "id": "sms56",
+    "id": "sms64",
     "igdbId": 39335,
     "gbId": 6949,
     "gbGuid": "3030-6949",
@@ -1366,7 +1626,7 @@
   },
   {
     "name": "World Grand Prix",
-    "id": "sms57",
+    "id": "sms65",
     "igdbId": 29132,
     "gbId": 20203,
     "gbGuid": "3030-20203",
@@ -1390,7 +1650,7 @@
   },
   {
     "name": "Zillion",
-    "id": "sms58",
+    "id": "sms66",
     "igdbId": 18141,
     "gbId": 8152,
     "gbGuid": "3030-8152",
@@ -1414,7 +1674,7 @@
   },
   {
     "name": "Zillion II: The Tri Formation",
-    "id": "sms59",
+    "id": "sms67",
     "igdbId": 46114,
     "gbId": 19742,
     "gbGuid": "3030-19742",

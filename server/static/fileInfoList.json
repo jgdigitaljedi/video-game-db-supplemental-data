@@ -1148,5 +1148,47 @@
     "filePath": "../textFilesToBeConverted/multiplayer/playstation2multitap.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "NES light gun games",
+    "filePath": "../textFilesToBeConverted/special/nesLightGunGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "SNES Super Scope games",
+    "filePath": "../textFilesToBeConverted/special/snesSuperScopeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega Genesis Menacer games",
+    "filePath": "../textFilesToBeConverted/special/segaMenacerGenesisGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega CD Menacer games",
+    "filePath": "../textFilesToBeConverted/special/segaCDMenacerGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega Master System Phaser games",
+    "filePath": "../textFilesToBeConverted/special/segaMasterSystemPhaserGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega Dreamcast light gun games",
+    "filePath": "../textFilesToBeConverted/special/segaDreamcastLightGunGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "3DO GameGun games",
+    "filePath": "../textFilesToBeConverted/special/3doGameGunGames.json",
+    "type": "Game",
+    "complete": true
   }
 ]

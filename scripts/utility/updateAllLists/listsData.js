@@ -57,7 +57,8 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'multiplayer/nesFourScore.json')),
       require(path.resolve(smallFiles, 'special/nesBlackBoxTitles.json')),
-      require(path.resolve(smallFiles, 'special/nesHangtabGames.json'))
+      require(path.resolve(smallFiles, 'special/nesHangtabGames.json')),
+      require(path.resolve(smallFiles, 'special/nesLightGunGames.json'))
     ],
     output: path.resolve(consoleLists, 'NintendoEntertainmentSystem.json')
   },
@@ -73,7 +74,8 @@ module.exports.listData = [
     )),
     special: [
       require(path.resolve(smallFiles, 'multiplayer/snesSuperMultitap.json')),
-      require(path.resolve(smallFiles, 'greatestHits/snesPlayersChoice.json'))
+      require(path.resolve(smallFiles, 'greatestHits/snesPlayersChoice.json')),
+      require(path.resolve(smallFiles, 'special/snesSuperScopeGames.json'))
     ],
     output: path.resolve(consoleLists, 'SuperNintendoEntertainmentSystem.json')
   },
@@ -229,7 +231,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/masterSystemMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/segaMasterSystemPhaserGames.json'))],
     output: path.resolve(consoleLists, 'SegaMasterSystem.json')
   },
   {
@@ -244,7 +246,8 @@ module.exports.listData = [
     )),
     special: [
       require(path.resolve(smallFiles, 'special/blackBoxGridGenesisGames.json')),
-      require(path.resolve(smallFiles, 'multiplayer/segaGenesisTeamPlayer.json'))
+      require(path.resolve(smallFiles, 'multiplayer/segaGenesisTeamPlayer.json')),
+      require(path.resolve(smallFiles, 'special/segaMenacerGenesisGames.json'))
     ],
     output: path.resolve(consoleLists, 'SegaGenesis.json')
   },
@@ -258,7 +261,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/segaCdMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'multiplayer/segaCdTeamPlayer.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'multiplayer/segaCdTeamPlayer.json')),
+      require(path.resolve(smallFiles, 'special/segaCDMenacerGames.json'))
+    ],
     output: path.resolve(consoleLists, 'SegaCD.json')
   },
   {
@@ -302,7 +308,8 @@ module.exports.listData = [
     )),
     special: [
       require(path.resolve(smallFiles, 'greatestHits/dreamcastJPAllStars.json')),
-      require(path.resolve(smallFiles, 'greatestHits/dreamcastNAAllStars.json'))
+      require(path.resolve(smallFiles, 'greatestHits/dreamcastNAAllStars.json')),
+      require(path.resolve(smallFiles, 'special/segaDreamcastLightGunGames.json'))
     ],
     output: path.resolve(consoleLists, 'SegaDreamcast.json')
   },
@@ -561,7 +568,7 @@ module.exports.listData = [
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/3doLaunchTitles.json')),
     exclusives: require(path.resolve(smallFiles, 'platformExclusives/3doExclusives.json')),
     misprintsAndErrors: null,
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/3doGameGunGames.json'))],
     output: path.resolve(consoleLists, '3DOInteractiveMultiplayer.json')
   },
   {

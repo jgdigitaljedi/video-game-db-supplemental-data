@@ -1,6 +1,5 @@
 # Ideas I have yet to pursue
 
-- playstation 2 multitap games
 - console variants
 - more in-depth console versions
 - special edition games

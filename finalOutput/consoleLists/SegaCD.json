@@ -246,8 +246,60 @@
     "misprintsErrors": []
   },
   {
-    "name": "Dark Wizard",
+    "name": "Corpse Killer",
     "id": "scd10",
+    "igdbId": 5372,
+    "gbId": 2817,
+    "gbGuid": "3030-2817",
+    "details": [
+      "Sega CD Menacer game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD Menacer game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Crime Patrol",
+    "id": "scd11",
+    "igdbId": 5373,
+    "gbId": 14268,
+    "gbGuid": "3030-14268",
+    "details": [
+      "Sega CD Menacer game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD Menacer game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dark Wizard",
+    "id": "scd12",
     "igdbId": 5374,
     "gbId": 15251,
     "gbGuid": "3030-15251",
@@ -271,7 +323,7 @@
   },
   {
     "name": "Dungeon Explorer",
-    "id": "scd11",
+    "id": "scd13",
     "igdbId": 19742,
     "gbId": 28218,
     "gbGuid": "3030-28218",
@@ -297,7 +349,7 @@
   },
   {
     "name": "Dynamic Country Club: 3D Golf Simulation",
-    "id": "scd12",
+    "id": "scd14",
     "igdbId": 45873,
     "gbId": null,
     "gbGuid": null,
@@ -323,7 +375,7 @@
   },
   {
     "name": "ESPN NBA HangTime '95",
-    "id": "scd13",
+    "id": "scd15",
     "igdbId": 46406,
     "gbId": 10512,
     "gbGuid": "3030-10512",
@@ -360,7 +412,7 @@
   },
   {
     "name": "ESPN National Hockey Night",
-    "id": "scd14",
+    "id": "scd16",
     "igdbId": 5381,
     "gbId": 30852,
     "gbGuid": "3030-30852",
@@ -386,7 +438,7 @@
   },
   {
     "name": "Eternal Champions: Challenge from the Dark Side",
-    "id": "scd15",
+    "id": "scd17",
     "igdbId": 5383,
     "gbId": 8021,
     "gbGuid": "3030-8021",
@@ -410,7 +462,7 @@
   },
   {
     "name": "Formula One World Championship: Beyond the Limit",
-    "id": "scd16",
+    "id": "scd18",
     "igdbId": 5388,
     "gbId": 7432,
     "gbGuid": "3030-7432",
@@ -434,7 +486,7 @@
   },
   {
     "name": "Ground Zero: Texas",
-    "id": "scd17",
+    "id": "scd19",
     "igdbId": 5390,
     "gbId": 20309,
     "gbGuid": "3030-20309",
@@ -458,7 +510,7 @@
   },
   {
     "name": "Heart of the Alien: Out of this World Parts I And II",
-    "id": "scd18",
+    "id": "scd20",
     "igdbId": 46420,
     "gbId": 17785,
     "gbGuid": "3030-17785",
@@ -482,7 +534,7 @@
   },
   {
     "name": "INXS: Make My Video",
-    "id": "scd19",
+    "id": "scd21",
     "igdbId": 46418,
     "gbId": 10517,
     "gbGuid": "3030-10517",
@@ -516,7 +568,7 @@
   },
   {
     "name": "Jurassic Park",
-    "id": "scd20",
+    "id": "scd22",
     "igdbId": 4519,
     "gbId": 21383,
     "gbGuid": "3030-21383",
@@ -540,7 +592,7 @@
   },
   {
     "name": "Keio Flying Squadron",
-    "id": "scd21",
+    "id": "scd23",
     "igdbId": 12912,
     "gbId": 16410,
     "gbGuid": "3030-16410",
@@ -570,7 +622,7 @@
   },
   {
     "name": "Kris Kross: Make My Video",
-    "id": "scd22",
+    "id": "scd24",
     "igdbId": 46417,
     "gbId": 10670,
     "gbGuid": "3030-10670",
@@ -594,7 +646,7 @@
   },
   {
     "name": "Lunar: The Silver Star",
-    "id": "scd23",
+    "id": "scd25",
     "igdbId": 5334,
     "gbId": 13562,
     "gbGuid": "3030-13562",
@@ -617,8 +669,60 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mad Dog II: The Lost Gold",
+    "id": "scd26",
+    "igdbId": 4269,
+    "gbId": 12886,
+    "gbGuid": "3030-12886",
+    "details": [
+      "Sega CD Menacer game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD Menacer game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mad Dog McCree",
+    "id": "scd27",
+    "igdbId": 4254,
+    "gbId": 17486,
+    "gbGuid": "3030-17486",
+    "details": [
+      "Sega CD Menacer game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD Menacer game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Marky Mark and the Funky Bunch: Make My Video",
-    "id": "scd24",
+    "id": "scd28",
     "igdbId": 46416,
     "gbId": 5307,
     "gbGuid": "3030-5307",
@@ -651,7 +755,7 @@
   },
   {
     "name": "Midnight Raiders",
-    "id": "scd25",
+    "id": "scd29",
     "igdbId": 19743,
     "gbId": 16280,
     "gbGuid": "3030-16280",
@@ -675,7 +779,7 @@
   },
   {
     "name": "Mighty Mighty Missile!",
-    "id": "scd26",
+    "id": "scd30",
     "igdbId": 128890,
     "gbId": null,
     "gbGuid": null,
@@ -701,7 +805,7 @@
   },
   {
     "name": "Mighty Morphin Power Rangers",
-    "id": "scd27",
+    "id": "scd31",
     "igdbId": 3286,
     "gbId": 27002,
     "gbGuid": "3030-27002",
@@ -725,7 +829,7 @@
   },
   {
     "name": "NBA Jam",
-    "id": "scd28",
+    "id": "scd32",
     "igdbId": 8995,
     "gbId": 16928,
     "gbGuid": "3030-16928",
@@ -751,7 +855,7 @@
   },
   {
     "name": "Night Trap",
-    "id": "scd29",
+    "id": "scd33",
     "igdbId": 2486,
     "gbId": 18648,
     "gbGuid": "3030-18648",
@@ -775,7 +879,7 @@
   },
   {
     "name": "Power Factory Featuring C+C Music Factory",
-    "id": "scd30",
+    "id": "scd34",
     "igdbId": 5420,
     "gbId": 18613,
     "gbGuid": "3030-18613",
@@ -799,7 +903,7 @@
   },
   {
     "name": "Prize Fighter",
-    "id": "scd31",
+    "id": "scd35",
     "igdbId": 5424,
     "gbId": 8564,
     "gbGuid": "3030-8564",
@@ -823,7 +927,7 @@
   },
   {
     "name": "RDF Global Conflict",
-    "id": "scd32",
+    "id": "scd36",
     "igdbId": 46606,
     "gbId": null,
     "gbGuid": null,
@@ -847,7 +951,7 @@
   },
   {
     "name": "Racing Aces",
-    "id": "scd33",
+    "id": "scd37",
     "igdbId": 5426,
     "gbId": 14317,
     "gbGuid": "3030-14317",
@@ -871,7 +975,7 @@
   },
   {
     "name": "Robo Aleste",
-    "id": "scd34",
+    "id": "scd38",
     "igdbId": 5430,
     "gbId": 12066,
     "gbGuid": "3030-12066",
@@ -895,7 +999,7 @@
   },
   {
     "name": "Sega Classics Arcade Collection 4-in-1",
-    "id": "scd35",
+    "id": "scd39",
     "igdbId": 5432,
     "gbId": 43485,
     "gbGuid": "3030-43485",
@@ -929,7 +1033,7 @@
   },
   {
     "name": "Sewer Shark",
-    "id": "scd36",
+    "id": "scd40",
     "igdbId": 4293,
     "gbId": 7427,
     "gbGuid": "3030-7427",
@@ -953,7 +1057,7 @@
   },
   {
     "name": "Shadowrun",
-    "id": "scd37",
+    "id": "scd41",
     "igdbId": 78514,
     "gbId": 34672,
     "gbGuid": "3030-34672",
@@ -977,7 +1081,7 @@
   },
   {
     "name": "Sherlock Holmes Consulting Detective",
-    "id": "scd38",
+    "id": "scd42",
     "igdbId": 5435,
     "gbId": 12998,
     "gbGuid": "3030-12998",
@@ -1001,7 +1105,7 @@
   },
   {
     "name": "Shining Force CD",
-    "id": "scd39",
+    "id": "scd43",
     "igdbId": 3198,
     "gbId": 16383,
     "gbGuid": "3030-16383",
@@ -1025,7 +1129,7 @@
   },
   {
     "name": "Sol-Feace",
-    "id": "scd40",
+    "id": "scd44",
     "igdbId": 4388,
     "gbId": 2685,
     "gbGuid": "3030-2685",
@@ -1049,7 +1153,7 @@
   },
   {
     "name": "Soulstar",
-    "id": "scd41",
+    "id": "scd45",
     "igdbId": 5453,
     "gbId": 15595,
     "gbGuid": "3030-15595",
@@ -1079,7 +1183,7 @@
   },
   {
     "name": "Supreme Warrior",
-    "id": "scd42",
+    "id": "scd46",
     "igdbId": 4291,
     "gbId": 13379,
     "gbGuid": "3030-13379",
@@ -1097,7 +1201,7 @@
   },
   {
     "name": "The Adventures of Batman & Robin",
-    "id": "scd43",
+    "id": "scd47",
     "igdbId": 5346,
     "gbId": 12434,
     "gbGuid": "3030-12434",
@@ -1121,7 +1225,7 @@
   },
   {
     "name": "The Masked Rider: Kamen Rider ZO",
-    "id": "scd44",
+    "id": "scd48",
     "igdbId": 46409,
     "gbId": 15630,
     "gbGuid": "3030-15630",
@@ -1145,7 +1249,7 @@
   },
   {
     "name": "Third World War",
-    "id": "scd45",
+    "id": "scd49",
     "igdbId": 5457,
     "gbId": 40982,
     "gbGuid": "3030-40982",
@@ -1169,7 +1273,7 @@
   },
   {
     "name": "Vay",
-    "id": "scd46",
+    "id": "scd50",
     "igdbId": 5460,
     "gbId": 13988,
     "gbGuid": "3030-13988",
@@ -1192,7 +1296,7 @@
   },
   {
     "name": "WWF Rage in the Cage",
-    "id": "scd47",
+    "id": "scd51",
     "igdbId": 5465,
     "gbId": 22268,
     "gbGuid": "3030-22268",
@@ -1215,8 +1319,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Who Shot Johnny Rock?",
+    "id": "scd52",
+    "igdbId": 4281,
+    "gbId": 17503,
+    "gbGuid": "3030-17503",
+    "details": [
+      "Sega CD Menacer game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD Menacer game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Wild Woody",
-    "id": "scd48",
+    "id": "scd53",
     "igdbId": 5461,
     "gbId": 20438,
     "gbGuid": "3030-20438",
@@ -1240,7 +1370,7 @@
   },
   {
     "name": "Wirehead",
-    "id": "scd49",
+    "id": "scd54",
     "igdbId": 5462,
     "gbId": 5705,
     "gbGuid": "3030-5705",
@@ -1264,7 +1394,7 @@
   },
   {
     "name": "World Cup USA '94",
-    "id": "scd50",
+    "id": "scd55",
     "igdbId": 5464,
     "gbId": 5498,
     "gbGuid": "3030-5498",
