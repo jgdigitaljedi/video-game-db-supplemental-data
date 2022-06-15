@@ -2525,8 +2525,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "Skeet Shoot",
+    "name": "Sentinel",
     "id": "a260109",
+    "igdbId": 12339,
+    "gbId": 16328,
+    "gbGuid": "3030-16328",
+    "details": [
+      "Atari 2600 light gun game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 2600 light gun game",
+        "forPlatform": {
+          "name": "Atari 2600",
+          "id": "ccl28",
+          "igdbId": 59,
+          "gbId": 40,
+          "gbGuid": "3045-40",
+          "tgdbId": 22
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Skeet Shoot",
+    "id": "a260110",
     "igdbId": 40615,
     "gbId": 4690,
     "gbGuid": "3030-4690",
@@ -2556,7 +2582,7 @@
   },
   {
     "name": "Skiing",
-    "id": "a260110",
+    "id": "a260111",
     "igdbId": 55104,
     "gbId": 13075,
     "gbGuid": "3030-13075",
@@ -2580,7 +2606,7 @@
   },
   {
     "name": "Sky Jinks",
-    "id": "a260111",
+    "id": "a260112",
     "igdbId": 18529,
     "gbId": 4461,
     "gbGuid": "3030-4461",
@@ -2604,7 +2630,7 @@
   },
   {
     "name": "Slot Machine",
-    "id": "a260112",
+    "id": "a260113",
     "igdbId": 18421,
     "gbId": 9852,
     "gbGuid": "3030-9852",
@@ -2622,7 +2648,7 @@
   },
   {
     "name": "Slot Racers (Maze)",
-    "id": "a260113",
+    "id": "a260114",
     "igdbId": 18422,
     "gbId": 8522,
     "gbGuid": "3030-8522",
@@ -2646,7 +2672,7 @@
   },
   {
     "name": "Snoopy and the Red Baron",
-    "id": "a260114",
+    "id": "a260115",
     "igdbId": 2757,
     "gbId": 18679,
     "gbGuid": "3030-18679",
@@ -2670,7 +2696,7 @@
   },
   {
     "name": "Solaris",
-    "id": "a260115",
+    "id": "a260116",
     "igdbId": 40577,
     "gbId": 6158,
     "gbGuid": "3030-6158",
@@ -2694,7 +2720,7 @@
   },
   {
     "name": "Space Cavern",
-    "id": "a260116",
+    "id": "a260117",
     "igdbId": 18502,
     "gbId": 8212,
     "gbGuid": "3030-8212",
@@ -2718,7 +2744,7 @@
   },
   {
     "name": "Space Invaders",
-    "id": "a260117",
+    "id": "a260118",
     "igdbId": 3601,
     "gbId": 5099,
     "gbGuid": "3030-5099",
@@ -2736,7 +2762,7 @@
   },
   {
     "name": "Space Jockey",
-    "id": "a260118",
+    "id": "a260119",
     "igdbId": 18679,
     "gbId": 2251,
     "gbGuid": "3030-2251",
@@ -2760,7 +2786,7 @@
   },
   {
     "name": "Space War (Space Combat)",
-    "id": "a260119",
+    "id": "a260120",
     "igdbId": 54792,
     "gbId": 6674,
     "gbGuid": "3030-6674",
@@ -2778,7 +2804,7 @@
   },
   {
     "name": "Spacechase",
-    "id": "a260120",
+    "id": "a260121",
     "igdbId": 18503,
     "gbId": 7902,
     "gbGuid": "3030-7902",
@@ -2802,7 +2828,7 @@
   },
   {
     "name": "Spider Fighter",
-    "id": "a260121",
+    "id": "a260122",
     "igdbId": 18530,
     "gbId": 2362,
     "gbGuid": "3030-2362",
@@ -2826,7 +2852,7 @@
   },
   {
     "name": "Spider-Man",
-    "id": "a260122",
+    "id": "a260123",
     "igdbId": 3325,
     "gbId": 3228,
     "gbGuid": "3030-3228",
@@ -2850,7 +2876,7 @@
   },
   {
     "name": "Spiderdroid",
-    "id": "a260123",
+    "id": "a260124",
     "igdbId": 40621,
     "gbId": null,
     "gbGuid": null,
@@ -2874,7 +2900,7 @@
   },
   {
     "name": "Sssnake",
-    "id": "a260124",
+    "id": "a260125",
     "igdbId": 18801,
     "gbId": 8184,
     "gbGuid": "3030-8184",
@@ -2898,7 +2924,7 @@
   },
   {
     "name": "Star Fox",
-    "id": "a260125",
+    "id": "a260126",
     "igdbId": 23854,
     "gbId": 34788,
     "gbGuid": "3030-34788",
@@ -2922,7 +2948,7 @@
   },
   {
     "name": "Star Raiders",
-    "id": "a260126",
+    "id": "a260127",
     "igdbId": 2217,
     "gbId": 730,
     "gbGuid": "3030-730",
@@ -2940,7 +2966,7 @@
   },
   {
     "name": "Star Ship (Outer Space)",
-    "id": "a260127",
+    "id": "a260128",
     "igdbId": 18424,
     "gbId": 13503,
     "gbGuid": "3030-13503",
@@ -2974,7 +3000,7 @@
   },
   {
     "name": "Star Trek: Strategic Operations Simulator",
-    "id": "a260128",
+    "id": "a260129",
     "igdbId": 12319,
     "gbId": 13785,
     "gbGuid": "3030-13785",
@@ -2992,7 +3018,7 @@
   },
   {
     "name": "Star Voyager",
-    "id": "a260129",
+    "id": "a260130",
     "igdbId": 3284,
     "gbId": 32855,
     "gbGuid": "3030-32855",
@@ -3016,7 +3042,7 @@
   },
   {
     "name": "Star Wars: Ewok Adventure",
-    "id": "a260130",
+    "id": "a260131",
     "igdbId": 10205,
     "gbId": null,
     "gbGuid": null,
@@ -3040,7 +3066,7 @@
   },
   {
     "name": "Star Wars: Jedi Arena",
-    "id": "a260131",
+    "id": "a260132",
     "igdbId": 10203,
     "gbId": 5478,
     "gbGuid": "3030-5478",
@@ -3064,7 +3090,7 @@
   },
   {
     "name": "Stargunner",
-    "id": "a260132",
+    "id": "a260133",
     "igdbId": 23199,
     "gbId": 6139,
     "gbGuid": "3030-6139",
@@ -3088,7 +3114,7 @@
   },
   {
     "name": "Starmaster",
-    "id": "a260133",
+    "id": "a260134",
     "igdbId": 18033,
     "gbId": 3721,
     "gbGuid": "3030-3721",
@@ -3112,7 +3138,7 @@
   },
   {
     "name": "Stellar Track",
-    "id": "a260134",
+    "id": "a260135",
     "igdbId": 18427,
     "gbId": 20288,
     "gbGuid": "3030-20288",
@@ -3136,7 +3162,7 @@
   },
   {
     "name": "Street Racer",
-    "id": "a260135",
+    "id": "a260136",
     "igdbId": 49118,
     "gbId": 1811,
     "gbGuid": "3030-1811",
@@ -3160,7 +3186,7 @@
   },
   {
     "name": "Super Challenge Football",
-    "id": "a260136",
+    "id": "a260137",
     "igdbId": 40595,
     "gbId": 32603,
     "gbGuid": "3030-32603",
@@ -3178,7 +3204,7 @@
   },
   {
     "name": "Super Cobra",
-    "id": "a260137",
+    "id": "a260138",
     "igdbId": 5708,
     "gbId": 10519,
     "gbGuid": "3030-10519",
@@ -3196,7 +3222,7 @@
   },
   {
     "name": "Superman",
-    "id": "a260138",
+    "id": "a260139",
     "igdbId": 18711,
     "gbId": 769,
     "gbGuid": "3030-769",
@@ -3226,7 +3252,7 @@
   },
   {
     "name": "Surround (Chase)",
-    "id": "a260139",
+    "id": "a260140",
     "igdbId": 18002,
     "gbId": 16028,
     "gbGuid": "3030-16028",
@@ -3250,7 +3276,7 @@
   },
   {
     "name": "Sword of Saros",
-    "id": "a260140",
+    "id": "a260141",
     "igdbId": 40727,
     "gbId": 19790,
     "gbGuid": "3030-19790",
@@ -3274,7 +3300,7 @@
   },
   {
     "name": "Tax Avoiders",
-    "id": "a260141",
+    "id": "a260142",
     "igdbId": 40618,
     "gbId": 1627,
     "gbGuid": "3030-1627",
@@ -3298,7 +3324,7 @@
   },
   {
     "name": "Taz",
-    "id": "a260142",
+    "id": "a260143",
     "igdbId": 100183,
     "gbId": 10497,
     "gbGuid": "3030-10497",
@@ -3322,7 +3348,7 @@
   },
   {
     "name": "Texas Chainsaw Massacre",
-    "id": "a260143",
+    "id": "a260144",
     "igdbId": 40675,
     "gbId": 2292,
     "gbGuid": "3030-2292",
@@ -3346,7 +3372,7 @@
   },
   {
     "name": "Tooth Protectors",
-    "id": "a260144",
+    "id": "a260145",
     "igdbId": 11236,
     "gbId": 14978,
     "gbGuid": "3030-14978",
@@ -3370,7 +3396,7 @@
   },
   {
     "name": "Towering Inferno",
-    "id": "a260145",
+    "id": "a260146",
     "igdbId": 18771,
     "gbId": 2974,
     "gbGuid": "3030-2974",
@@ -3394,7 +3420,7 @@
   },
   {
     "name": "Track & Field",
-    "id": "a260146",
+    "id": "a260147",
     "igdbId": 6439,
     "gbId": 18232,
     "gbGuid": "3030-18232",
@@ -3412,7 +3438,7 @@
   },
   {
     "name": "Tunnel Runner",
-    "id": "a260147",
+    "id": "a260148",
     "igdbId": 22757,
     "gbId": 4149,
     "gbGuid": "3030-4149",
@@ -3436,7 +3462,7 @@
   },
   {
     "name": "Video Checkers",
-    "id": "a260148",
+    "id": "a260149",
     "igdbId": 18003,
     "gbId": 13846,
     "gbGuid": "3030-13846",
@@ -3454,7 +3480,7 @@
   },
   {
     "name": "Video Life",
-    "id": "a260149",
+    "id": "a260150",
     "igdbId": 40647,
     "gbId": null,
     "gbGuid": null,
@@ -3478,7 +3504,7 @@
   },
   {
     "name": "Video Olympics (Pong Sports)",
-    "id": "a260150",
+    "id": "a260151",
     "igdbId": 54791,
     "gbId": 3294,
     "gbGuid": "3030-3294",
@@ -3508,7 +3534,7 @@
   },
   {
     "name": "Video Pinball",
-    "id": "a260151",
+    "id": "a260152",
     "igdbId": 46877,
     "gbId": 11532,
     "gbGuid": "3030-11532",
@@ -3543,7 +3569,7 @@
   },
   {
     "name": "Wall defender",
-    "id": "a260152",
+    "id": "a260153",
     "igdbId": 46880,
     "gbId": 11169,
     "gbGuid": "3030-11169",
@@ -3567,7 +3593,7 @@
   },
   {
     "name": "Word Zapper",
-    "id": "a260153",
+    "id": "a260154",
     "igdbId": 46884,
     "gbId": 4873,
     "gbGuid": "3030-4873",
@@ -3591,7 +3617,7 @@
   },
   {
     "name": "Worm War I",
-    "id": "a260154",
+    "id": "a260155",
     "igdbId": 22556,
     "gbId": 17057,
     "gbGuid": "3030-17057",
@@ -3615,7 +3641,7 @@
   },
   {
     "name": "X-Man",
-    "id": "a260155",
+    "id": "a260156",
     "igdbId": 79301,
     "gbId": 6420,
     "gbGuid": "3030-6420",
@@ -3639,7 +3665,7 @@
   },
   {
     "name": "Xonox Artillery Duel/ Spike's Peak",
-    "id": "a260156",
+    "id": "a260157",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3657,7 +3683,7 @@
   },
   {
     "name": "Yars' Revenge",
-    "id": "a260157",
+    "id": "a260158",
     "igdbId": 9757,
     "gbId": 14821,
     "gbGuid": "3030-14821",
@@ -3675,7 +3701,7 @@
   },
   {
     "name": "Z-Tack",
-    "id": "a260158",
+    "id": "a260159",
     "igdbId": 24455,
     "gbId": 11646,
     "gbGuid": "3030-11646",

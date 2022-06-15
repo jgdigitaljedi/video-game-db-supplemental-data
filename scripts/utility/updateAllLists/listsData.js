@@ -290,7 +290,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/saturnMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'multiplayer/saturnMultiplayerAdapter.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'multiplayer/saturnMultiplayerAdapter.json')),
+      require(path.resolve(smallFiles, 'special/segaSaturnLightGunGames.json'))
+    ],
     output: path.resolve(consoleLists, 'SegaSaturn.json')
   },
   {
@@ -437,7 +440,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'greatestHits/xboxClassicsPal.json')),
       require(path.resolve(smallFiles, 'greatestHits/xboxPlatinumCollectionJP.json')),
       require(path.resolve(smallFiles, 'greatestHits/xboxPlatinumHits.json')),
-      require(path.resolve(smallFiles, 'special/bannedInternationally.json'))
+      require(path.resolve(smallFiles, 'special/bannedInternationally.json')),
+      require(path.resolve(smallFiles, 'special/microsoftXboxLightGunGames.json'))
     ],
     output: path.resolve(consoleLists, 'MicrosoftXbox.json')
   },
@@ -456,7 +460,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'special/bannedInternationally.json')),
       require(path.resolve(smallFiles, 'greatestHits/xbox360ClassicsPal.json')),
       require(path.resolve(smallFiles, 'greatestHits/xbox360PlatinumCollectionJP.json')),
-      require(path.resolve(smallFiles, 'greatestHits/xbox360PlatinumHits.json'))
+      require(path.resolve(smallFiles, 'greatestHits/xbox360PlatinumHits.json')),
+      require(path.resolve(smallFiles, 'special/microsoftXbox360LightGunGames.json'))
     ],
     output: path.resolve(consoleLists, 'MicrosoftXbox360.json')
   },
@@ -483,7 +488,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/atari2600misprintsErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/atari2600LightGunGames.json'))],
     output: path.resolve(consoleLists, 'Atari2600.json')
   },
   {
@@ -509,7 +514,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/atari7800misprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/atari7800LightGunGames.json'))],
     output: path.resolve(consoleLists, 'Atari7800.json')
   },
   {
@@ -581,7 +586,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/philipsCdiMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/philipsCdiPeacekeeperRevolverGames.json'))],
     output: path.resolve(consoleLists, 'PhilipsCDi.json')
   },
   {

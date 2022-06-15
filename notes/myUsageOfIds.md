@@ -88,9 +88,14 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 ### Special/Misc
 
+- a2600lgX - Atari 2600 light gun games (atari2600LightGunGames.json) | GAMES LIST
+- a7800lgX - Atari 7800 light gun games (atari7800LightGunGames.json) | GAMES LIST
 - biX - games banned in various countries (bannedInternationally.json) | GAMES LIST
 - gbbgX - Genesis black box grid games (blackBoxGridGenesisGames.json) | GAMES LIST
+- mxb360lgX - Microsoft Xbox 360 light gun games (microsoftXbox360LightGunGames.json) | GAMES LIST
+- mxblgX - Microsoft Xbox light gun games (microsoftXboxLightGunGames.json) | GAMES LIST
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST
+- pcdilgX - Philips CD-i Peacekeeper Revovler games (philipsCdiPeacekeeperRevolverGames.json) | GAMES LIST
 - pbdX - consoles that play bruned discs without modification (platformsThatPlayBurnedDiscs.json) | CONSOLE/PLATFORM LIST
 - ps1lbX - Sony PlayStation long box games (playstationLongboxGames.json) | GAMES LIST
 - neshtgX - NES hang tab games (nesHangtabGames.json) | GAMES LIST
@@ -100,6 +105,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - sgsmX - Sega Genesis Menacer games (segaMenacerGenesisGames.json) | GAMES LIST
 - smspX - Sega Master System Phaser games (segaMasterSystemPhaserGames.json) | GAMES LIST
 - snesssX - SNES Super Scope games (snesSuperScopeGames.json) | GAMES LIST
+- sslgX - Sega Saturn light gun games (segaSaturnLightGunGames.json) | GAMES LIST
 
 ### Platform Exclusives
 

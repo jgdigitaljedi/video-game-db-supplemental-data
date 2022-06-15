@@ -7,7 +7,8 @@
     "gbGuid": "3030-4174",
     "tgdbId": 21096,
     "details": [
-      "Atari 7800 exclusive"
+      "Atari 7800 exclusive",
+      "Atari 7800 light gun game"
     ],
     "isExclusive": [
       {
@@ -20,7 +21,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 light gun game",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -48,8 +61,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "Basketbrawl",
+    "name": "Barnyard Blaster",
     "id": "a7802",
+    "igdbId": 11866,
+    "gbId": 19616,
+    "gbGuid": "3030-19616",
+    "details": [
+      "Atari 7800 light gun game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 light gun game",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Basketbrawl",
+    "id": "a7803",
     "igdbId": 11867,
     "gbId": 18478,
     "gbGuid": "3030-18478",
@@ -66,8 +105,34 @@
     ]
   },
   {
+    "name": "Crossbow",
+    "id": "a7804",
+    "igdbId": 11868,
+    "gbId": 14841,
+    "gbGuid": "3030-14841",
+    "details": [
+      "Atari 7800 light gun game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 light gun game",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dig Dug",
-    "id": "a7803",
+    "id": "a7805",
     "igdbId": 2636,
     "gbId": 2587,
     "gbGuid": "3030-2587",
@@ -91,7 +156,7 @@
   },
   {
     "name": "Food Fight",
-    "id": "a7804",
+    "id": "a7806",
     "igdbId": 12325,
     "gbId": 16876,
     "gbGuid": "3030-16876",
@@ -121,7 +186,7 @@
   },
   {
     "name": "Joust",
-    "id": "a7805",
+    "id": "a7807",
     "igdbId": 3659,
     "gbId": 11689,
     "gbGuid": "3030-11689",
@@ -145,12 +210,13 @@
   },
   {
     "name": "Meltdown",
-    "id": "a7806",
+    "id": "a7808",
     "igdbId": 80511,
     "gbId": 2533,
     "gbGuid": "3030-2533",
     "details": [
-      "Atari 7800 exclusive"
+      "Atari 7800 exclusive",
+      "Atari 7800 light gun game"
     ],
     "isExclusive": [
       {
@@ -163,12 +229,24 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 light gun game",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Midnight Mutants",
-    "id": "a7807",
+    "id": "a7809",
     "igdbId": 12335,
     "gbId": 17626,
     "gbGuid": "3030-17626",
@@ -192,7 +270,7 @@
   },
   {
     "name": "Missing In Action",
-    "id": "a7808",
+    "id": "a78010",
     "igdbId": 40806,
     "gbId": null,
     "gbGuid": null,
@@ -215,7 +293,7 @@
   },
   {
     "name": "Ms. Pac-Man",
-    "id": "a7809",
+    "id": "a78011",
     "igdbId": 7452,
     "gbId": 6332,
     "gbGuid": "3030-6332",
@@ -239,7 +317,7 @@
   },
   {
     "name": "Ninja Golf",
-    "id": "a78010",
+    "id": "a78012",
     "igdbId": 11121,
     "gbId": 6544,
     "gbGuid": "3030-6544",
@@ -263,7 +341,7 @@
   },
   {
     "name": "Pole Position II",
-    "id": "a78011",
+    "id": "a78013",
     "igdbId": 12337,
     "gbId": 3735,
     "gbGuid": "3030-3735",
@@ -293,7 +371,7 @@
   },
   {
     "name": "RealSports Baseball",
-    "id": "a78012",
+    "id": "a78014",
     "igdbId": 117409,
     "gbId": 3020,
     "gbGuid": "3030-3020",
@@ -311,7 +389,7 @@
   },
   {
     "name": "Robotron 2084",
-    "id": "a78013",
+    "id": "a78015",
     "igdbId": 3592,
     "gbId": 11233,
     "gbGuid": "3030-11233",
@@ -334,8 +412,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Sentinel",
+    "id": "a78016",
+    "igdbId": 12339,
+    "gbId": 16328,
+    "gbGuid": "3030-16328",
+    "details": [
+      "Atari 7800 light gun game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 light gun game",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Super Skateboardin'",
-    "id": "a78014",
+    "id": "a78017",
     "igdbId": 12341,
     "gbId": 7882,
     "gbGuid": "3030-7882",
@@ -358,7 +462,7 @@
   },
   {
     "name": "Tank Command",
-    "id": "a78015",
+    "id": "a78018",
     "igdbId": 12342,
     "gbId": 10550,
     "gbGuid": "3030-10550",
@@ -381,7 +485,7 @@
   },
   {
     "name": "Tomcat: The F-14 Fighter Simulator",
-    "id": "a78016",
+    "id": "a78019",
     "igdbId": 12344,
     "gbId": 19961,
     "gbGuid": "3030-19961",
@@ -399,7 +503,7 @@
   },
   {
     "name": "Touchdown Football",
-    "id": "a78017",
+    "id": "a78020",
     "igdbId": 12345,
     "gbId": 8860,
     "gbGuid": "3030-8860",
@@ -417,7 +521,7 @@
   },
   {
     "name": "Water Ski",
-    "id": "a78018",
+    "id": "a78021",
     "igdbId": 117410,
     "gbId": 8206,
     "gbGuid": "3030-8206",
