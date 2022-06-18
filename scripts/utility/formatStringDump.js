@@ -2,15 +2,15 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/sonyPlaystationLightGunGames.json';
-const idPrefix = 'spslg';
+const relativePath = '../../textFilesToBeConverted/special/sonyPlaystation3LightGunGames.json';
+const idPrefix = 'sps3lg';
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Sony PlayStation light gun game',
+    'Sony PlayStation 3 light gun game',
     idPrefix
   );
   const result = await fileUtil.writeFile(relativePath, newData);

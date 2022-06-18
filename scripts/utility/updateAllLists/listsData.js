@@ -367,7 +367,8 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'greatestHits/sonyPlayStation2GreatestHits.json')),
       require(path.resolve(smallFiles, 'special/bannedInternationally.json')),
-      require(path.resolve(smallFiles, 'multiplayer/playstation2multitap.json'))
+      require(path.resolve(smallFiles, 'multiplayer/playstation2multitap.json')),
+      require(path.resolve(smallFiles, 'special/sonyPlaystation2LightGunGames.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlaystation2.json')
   },
@@ -387,7 +388,8 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'regionLock/ps3RegionLockExceptions.json')),
       require(path.resolve(smallFiles, 'special/bannedInternationally.json')),
-      require(path.resolve(smallFiles, 'greatestHits/sonyPlayStation3GreatestHits.json'))
+      require(path.resolve(smallFiles, 'greatestHits/sonyPlayStation3GreatestHits.json')),
+      require(path.resolve(smallFiles, 'special/sonyPlaystation3LightGunGames.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlayStation3.json')
   },
