@@ -105,13 +105,17 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Atari Jaguar CD
 - Atari Lynx
 - Bally Astrocade
+- Bandai WonderSwan
+- Bandai WonderSwan Color
 - ColecoVision
 - Game.com
 - Gizmondo
+- Magnavox Odyssey 2
 - Mattel Intellivision
 - Microsoft Xbox
 - Microsoft Xbox 360
 - Microsoft Xbox One
+- Microsoft Xbox Series X|S
 - NEC Turbografx 16
 - NEC Turbografx CD
 - Neo Geo Pocket Color
@@ -119,6 +123,8 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Nintendo 3DS
 - Nintendo DS
 - Nintendo Entertainment System
+- Nintendo Famicom
+- Nintendo Famicom Disk System
 - Nintendo Game Boy
 - Nintendo Game Boy Advance
 - Nintendo Game Boy Color
@@ -137,10 +143,14 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sega Genesis
 - Sega Master System
 - Sega Saturn
+- SNK Neo Geo AES
+- SNK Neo Geo CD
+- SNK Neo Geo Pocket Color
 - Sony PlayStation
 - Sony PlayStation 2
 - Sony PlayStation 3
 - Sony PlayStation 4
+- Sony PlayStation 5
 - Sony PlayStation Portable
 - Sony PlayStation Vita
 - Super Nintendo Entertainment System
@@ -152,6 +162,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Atari 2600
 - Atari 7800
 - Atari Jaguar
+- Atari Jaguar CD
 - Atari Lynx
 - ColecoVision
 - Mattel Intellivision
@@ -164,6 +175,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Nintendo 64
 - Nintendo DS
 - Nintendo Entertainment System
+- Nintendo Famicom
 - Nintendo Famicom Disk System
 - Nintendo Game Boy
 - Nintendo Game Boy Advance
@@ -181,6 +193,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sega Genesis
 - Sega Master System
 - Sega Saturn
+- SNK Neo Geo CD
 - Sony PlayStation
 - Sony PlayStation 2
 - Sony PlayStation 3
@@ -194,23 +207,44 @@ I've been scouring the web for unique data points and will continue to do so. He
 - platforms/consoles that are region free
 - PS3 games that aren't region free (the PS3 games are region free with a couple of exceptions)
 
-### Multiplayer hardware
+### Multiplayer addon/console version games
 
+- Atari 5200 4 player games
 - NES Four Score games
 - SNES Super Multitap games
+- Sega 32X Team Player games
+- Sega CD Team Player games
 - Sega Genesis Team Player games
 - Sega Saturn Multiplayer Adapter games
+- SNK Neo Geo AES Link-Up games
+- Sony PlayStation Multitap games
+- Sony PlayStation 2 Multitap games
 - TurboGrafx-16 Multitap games
 - Sony PlayStation Multitap games
 
 ### Special
 
-- Sega Genesis Black Box Grid games
+- 3DO Interactive Multiplayer GameGun games
+- Atari 2600 light gun games
+- Atari 7800 light gun games
+- games banned in various countries with the reason for the ban
+- Microsoft Xbox light gun games
+- Microsoft Xbox 360 light gun games
 - NES Black Box games
 - NES hang tab games
-- games banned in various countries with the reason for the ban
+- NES zapper/light gun games
+- Philips CD-i Peacekeeper Revolver games
 - platforms/consoles that play burned disks without modification
-- PlayStation long box games
+- Sega CD Menacer games
+- Sega Dreamcast light gun games
+- Sega Genesis Black Box Grid games
+- Sega Genesis Menacer games
+- Sega Master System Phaser games
+- SNES Super Scope games
+- Sony PlayStation light gun games
+- Sony PlayStation long box games
+- Sony PlayStation 2 light gun games
+- Sony PlayStation 3 light gun games
 
 ### Backward Compatibility
 
