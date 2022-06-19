@@ -2,10 +2,12 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
+const whitespaceRemoveBreaks = require('stringman-utils').whitespaceRemoveBreaks;
 
-const siteUrl = 'https://nintendo.fandom.com/wiki/Player%27s_Choice';
-const filePath = '../../textFilesToBeConverted/greatestHits/nintendoPlayersChoice.json';
-const platform = '';
+const siteUrl = 'https://nintendo.fandom.com/wiki/List_of_Famicom-Exclusive_games';
+const filePath = '../../textFilesToBeConverted/platformExclusives/nintendoFamicomExclusives.json';
+const platform = 'Nintendo Famicom';
+const idPrefix = 'nfcex';
 const digitalText = '';
 
 function makeRequest(url) {
@@ -24,10 +26,27 @@ function makeRequest(url) {
   makeRequest(siteUrl).then(html => {
     const $ = cheerio.load(html);
     const data = [];
-    const items = $('table tr td ul li i a');
+    const items = $('table tbody tr');
+    // const items = $('table tr td ul li i a');
     $(items).each((index, item) => {
-      console.log('this', $(item).text());
-      data.push({ name: $(item).text(), details: `${platform} Player's Choice ` });
+      // console.log('this', $(item).text());
+      const cell = $(item).find('td')[0];
+      const text = !!$(cell)
+        .find('a')
+        .attr('title')
+        ? $(cell)
+            .find('a')
+            .attr('title')
+        : $(cell).text();
+      data.push({
+        name: whitespaceRemoveBreaks(text),
+        details: `${platform} exclusive game`,
+        id: `${idPrefix}${index + 1}`,
+        igdbId: null,
+        gbId: null,
+        gbGuid: null,
+        tgdbId: null
+      });
     });
     fileUtil.writeFile(filePath, data);
     console.log(chalk.cyan.bold('Scraping complete and file written!'));

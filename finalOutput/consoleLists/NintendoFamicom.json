@@ -1,7 +1,843 @@
 [
   {
-    "name": "Donkey Kong",
+    "name": "'89 Dennou Kyuusei Uranai",
     "id": "nfam0",
+    "igdbId": 48368,
+    "gbId": 7504,
+    "gbGuid": "3030-7504",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "1999: Hore, Mita koto ka! Seikimatsu",
+    "id": "nfam1",
+    "igdbId": 48607,
+    "gbId": 16517,
+    "gbGuid": "3030-16517",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "4 Nin Uchi Mahjong",
+    "id": "nfam2",
+    "igdbId": 93369,
+    "gbId": 5055,
+    "gbGuid": "3030-5055",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "A-Ressha De Ikou",
+    "id": "nfam3",
+    "igdbId": 41739,
+    "gbId": 18001,
+    "gbGuid": "3030-18001",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Aa Yakyuu Jinsei Icchokusen",
+    "id": "nfam4",
+    "igdbId": 48669,
+    "gbId": 6812,
+    "gbGuid": "3030-6812",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ai Sensei No Oshiete: Watashi No Hoshi",
+    "id": "nfam5",
+    "igdbId": 48668,
+    "gbId": 17119,
+    "gbGuid": "3030-17119",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Airwolf",
+    "id": "nfam6",
+    "igdbId": 13296,
+    "gbId": 4050,
+    "gbGuid": "3030-4050",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Akagawa Jirou no Yuurei Ressha",
+    "id": "nfam7",
+    "igdbId": 48606,
+    "gbId": 9814,
+    "gbGuid": "3030-9814",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Akira",
+    "id": "nfam8",
+    "igdbId": 2340,
+    "gbId": 13551,
+    "gbGuid": "3030-13551",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Akuma-kun: Makai no Wana",
+    "id": "nfam9",
+    "igdbId": 48605,
+    "gbId": 10254,
+    "gbGuid": "3030-10254",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "America Daitouryou Senkyo: United State Presidental Race",
+    "id": "nfam10",
+    "igdbId": 48604,
+    "gbId": 8710,
+    "gbGuid": "3030-8710",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "America Oudan Ultra Quiz: Shijou Saidai no Tatakai",
+    "id": "nfam11",
+    "igdbId": 48603,
+    "gbId": 12810,
+    "gbGuid": "3030-12810",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "American Dream",
+    "id": "nfam12",
+    "igdbId": 48634,
+    "gbId": 15200,
+    "gbGuid": "3030-15200",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Arctic",
+    "id": "nfam13",
+    "igdbId": 56479,
+    "gbId": 58546,
+    "gbGuid": "3030-58546",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Argus",
+    "id": "nfam14",
+    "igdbId": 46762,
+    "gbId": 9449,
+    "gbGuid": "3030-9449",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Arkanoid: Revenge of Doh",
+    "id": "nfam15",
+    "igdbId": 11756,
+    "gbId": 14886,
+    "gbGuid": "3030-14886",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Armadillo",
+    "id": "nfam16",
+    "igdbId": 95514,
+    "gbId": 1911,
+    "gbGuid": "3030-1911",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Artelius",
+    "id": "nfam17",
+    "igdbId": 68893,
+    "gbId": 13383,
+    "gbGuid": "3030-13383",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Asmik-kun Land",
+    "id": "nfam18",
+    "igdbId": 48616,
+    "gbId": 11161,
+    "gbGuid": "3030-11161",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Astro Fang: Super Machine",
+    "id": "nfam19",
+    "igdbId": 48608,
+    "gbId": 20108,
+    "gbGuid": "3030-20108",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Atlantis no Nazo",
+    "id": "nfam20",
+    "igdbId": 6568,
+    "gbId": 14577,
+    "gbGuid": "3030-14577",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Attack Animal Gakuen",
+    "id": "nfam21",
+    "igdbId": 48601,
+    "gbId": 2109,
+    "gbGuid": "3030-2109",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Babel no Tou",
+    "id": "nfam22",
+    "igdbId": 48589,
+    "gbId": 41533,
+    "gbGuid": "3030-41533",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Baken Hisshou Gaku: Gate In",
+    "id": "nfam23",
+    "igdbId": 48730,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bakushou! Star Monomane Shitenou",
+    "id": "nfam24",
+    "igdbId": 48729,
+    "gbId": 2207,
+    "gbGuid": "3030-2207",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bakushou!! Ai no Gekijou",
+    "id": "nfam25",
+    "igdbId": 48728,
+    "gbId": 15687,
+    "gbGuid": "3030-15687",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bakushou!! Jinsei Gekijou",
+    "id": "nfam26",
+    "igdbId": 48362,
+    "gbId": 6640,
+    "gbGuid": "3030-6640",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bakushou!! Jinsei Gekijou 2",
+    "id": "nfam27",
+    "igdbId": 48727,
+    "gbId": 11080,
+    "gbGuid": "3030-11080",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bakushou!! Jinsei Gekijou 3",
+    "id": "nfam28",
+    "igdbId": 48726,
+    "gbId": 19633,
+    "gbGuid": "3030-19633",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ballblazer",
+    "id": "nfam29",
+    "igdbId": 176,
+    "gbId": 19682,
+    "gbGuid": "3030-19682",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Baltron",
+    "id": "nfam30",
+    "igdbId": 48588,
+    "gbId": 23065,
+    "gbGuid": "3030-23065",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Banana",
+    "id": "nfam31",
+    "igdbId": 19845,
+    "gbId": 8997,
+    "gbGuid": "3030-8997",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Barcode World",
+    "id": "nfam32",
+    "igdbId": 48725,
+    "gbId": 36464,
+    "gbGuid": "3030-36464",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Baseball Fighter",
+    "id": "nfam33",
+    "igdbId": 48615,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Batsu & Terry",
+    "id": "nfam34",
+    "igdbId": 48609,
+    "gbId": 39498,
+    "gbGuid": "3030-39498",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Battle Baseball",
+    "id": "nfam35",
+    "igdbId": 143913,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Battle City",
+    "id": "nfam36",
+    "igdbId": 4596,
+    "gbId": 6406,
+    "gbGuid": "3030-6406",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Battle Wings",
+    "id": "nfam37",
+    "igdbId": 4608,
+    "gbId": 91,
+    "gbGuid": "3030-91",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong",
+    "id": "nfam38",
     "igdbId": 141959,
     "gbId": 311,
     "gbGuid": "3030-311",
@@ -23,7 +859,7 @@
   },
   {
     "name": "Donkey Kong Jr.",
-    "id": "nfam1",
+    "id": "nfam39",
     "igdbId": 178166,
     "gbId": 19416,
     "gbGuid": "3030-19416",
@@ -45,7 +881,7 @@
   },
   {
     "name": "Dragon Buster",
-    "id": "nfam2",
+    "id": "nfam40",
     "igdbId": 38035,
     "gbId": 12337,
     "gbGuid": "3030-12337",
@@ -63,7 +899,7 @@
   },
   {
     "name": "Faxanadu",
-    "id": "nfam3",
+    "id": "nfam41",
     "igdbId": 1974,
     "gbId": 7851,
     "gbGuid": "3030-7851",
@@ -80,8 +916,74 @@
     ]
   },
   {
+    "name": "From the Legend of Balubalouk: Aigiina no Yogen",
+    "id": "nfam42",
+    "igdbId": 73806,
+    "gbId": 10038,
+    "gbGuid": "3030-10038",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Galaxian",
+    "id": "nfam43",
+    "igdbId": 143370,
+    "gbId": 2445,
+    "gbGuid": "3030-2445",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Garfield no Isshukan: A Week of Garfield",
+    "id": "nfam44",
+    "igdbId": 48486,
+    "gbId": 26118,
+    "gbGuid": "3030-26118",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "GeGeGe no Kitaro - Yokai Daimakyo",
-    "id": "nfam4",
+    "id": "nfam45",
     "igdbId": 48317,
     "gbId": 40977,
     "gbGuid": "3030-40977",
@@ -98,15 +1000,112 @@
     ]
   },
   {
+    "name": "Genghis Khan II: Clan of the Gray Wolf",
+    "id": "nfam46",
+    "igdbId": 5389,
+    "gbId": 5679,
+    "gbGuid": "3030-5679",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Gomoku Narabe Renju",
+    "id": "nfam47",
+    "igdbId": 16609,
+    "gbId": 41170,
+    "gbGuid": "3030-41170",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kid Dracula",
+    "id": "nfam48",
+    "igdbId": 1120,
+    "gbId": 6851,
+    "gbGuid": "3030-6851",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nuts & Milk",
+    "id": "nfam49",
+    "igdbId": 4617,
+    "gbId": 3415,
+    "gbGuid": "3030-3415",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Popeye no Eigo Asobi",
-    "id": "nfam5",
+    "id": "nfam50",
     "igdbId": 48641,
     "gbId": 35883,
     "gbGuid": "3030-35883",
     "details": [
-      "Nintendo Famicom launch title"
+      "Nintendo Famicom launch title",
+      "Nintendo Famicom exclusive game"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Nintendo Family Computer (Famicom)",
@@ -120,8 +1119,30 @@
     "misprintsErrors": []
   },
   {
+    "name": "Sasa",
+    "id": "nfam51",
+    "igdbId": 48602,
+    "gbId": 1486,
+    "gbGuid": "3030-1486",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tecmo World Wrestling",
-    "id": "nfam6",
+    "id": "nfam52",
     "igdbId": 48083,
     "gbId": 12836,
     "gbGuid": "3030-12836",
@@ -138,8 +1159,30 @@
     ]
   },
   {
+    "name": "The Bard's Tale II: The Destiny Knight",
+    "id": "nfam53",
+    "igdbId": 2430,
+    "gbId": 794,
+    "gbGuid": "3030-794",
+    "details": [
+      "Nintendo Famicom exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Family Computer (Famicom)",
+        "id": "ccl51",
+        "igdbId": 99,
+        "gbId": 21,
+        "gbGuid": "3045-21"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Tower of Druaga",
-    "id": "nfam7",
+    "id": "nfam54",
     "igdbId": 4207,
     "gbId": 4567,
     "gbGuid": "3030-4567",
@@ -157,7 +1200,7 @@
   },
   {
     "name": "Ys III: Wanderers from Ys",
-    "id": "nfam8",
+    "id": "nfam55",
     "igdbId": 15450,
     "gbId": 4208,
     "gbGuid": "3030-4208",
@@ -180,7 +1223,7 @@
   },
   {
     "name": "Zunou Senkan Galg",
-    "id": "nfam9",
+    "id": "nfam56",
     "igdbId": 48488,
     "gbId": 37088,
     "gbGuid": "3030-37088",

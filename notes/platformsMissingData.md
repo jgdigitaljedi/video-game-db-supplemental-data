@@ -14,6 +14,5 @@
 | Sony PlayStation 5               |     | X   |
 | Microsoft Xbox Series X&#124;S   |     | X   |
 | Neo Geo AES                      |     | X   |
-| Nintendo Famicom                 |     | X   |
 | WonderSwan Color                 |     | X   |
 | WonderSwan                       |     | X   |

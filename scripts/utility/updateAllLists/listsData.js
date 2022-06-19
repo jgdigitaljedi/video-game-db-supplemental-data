@@ -763,7 +763,10 @@ module.exports.listData = [
     id: 'ccl51',
     prefix: 'nfam',
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/famicomLaunchTitles.json')),
-    exclusives: null,
+    exclusives: require(path.resolve(
+      smallFiles,
+      'platformExclusives/nintendoFamicomExclusives.json'
+    )),
     misprintsAndErrors: require(path.resolve(
       smallFiles,
       'misprintsAndErrors/famicomMisprintsAndErrors.json'

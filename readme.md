@@ -308,8 +308,8 @@ Since I have been using these APIs to try and build out my JSON data matching th
 
 Before deciding to end support for TheGames DB, I had collected 7812 data points and TheGames DB was missing 1106 or 14% of those results.
 
-Out of 15318 data points collected so far, the APIs are missing data the following number of items:
+Out of 15366 data points collected so far, the APIs are missing data the following number of items:
 
 - Missing from all APIs: 1474 (10%)
 - IGDB: 1625 (11%)
-- Giantbomb: 2599 (17%)
+- Giantbomb: 2602 (17%)
