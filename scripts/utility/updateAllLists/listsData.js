@@ -659,7 +659,10 @@ module.exports.listData = [
     id: 'ccl43',
     prefix: 'ajcd',
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/atariJaguarCdLaunchTitles.json')),
-    exclusives: null,
+    exclusives: require(path.resolve(
+      smallFiles,
+      'platformExclusives/atariJaguarCDExclusives.json'
+    )),
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'AtariJaguarCD.json')
@@ -752,7 +755,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/neoGeoAesMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'multiplayer/neoGeoAesLinkUp.json'))],
     output: path.resolve(consoleLists, 'NeoGeoAES.json')
   },
   {

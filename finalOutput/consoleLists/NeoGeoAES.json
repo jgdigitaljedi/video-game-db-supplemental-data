@@ -150,7 +150,8 @@
     "gbId": 31824,
     "gbGuid": "3030-31824",
     "details": [
-      "Neo Geo AES launch title"
+      "Neo Geo AES launch title",
+      "Neo Geo AES game supports 4 player link-up"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -163,7 +164,19 @@
         "tgdbId": 4918
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Neo Geo AES game supports 4 player link-up",
+        "forPlatform": {
+          "name": "Nintendo Virtual Boy",
+          "id": "ccl50",
+          "igdbId": 87,
+          "gbId": 79,
+          "gbGuid": "3045-79",
+          "tgdbId": 4918
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -301,7 +314,8 @@
     "gbId": 400,
     "gbGuid": "3030-400",
     "details": [
-      "Neo Geo AES launch title"
+      "Neo Geo AES launch title",
+      "Neo Geo AES game supports 4 player link-up"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -314,7 +328,19 @@
         "tgdbId": 4918
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Neo Geo AES game supports 4 player link-up",
+        "forPlatform": {
+          "name": "Nintendo Virtual Boy",
+          "id": "ccl50",
+          "igdbId": 87,
+          "gbId": 79,
+          "gbGuid": "3045-79",
+          "tgdbId": 4918
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -364,8 +390,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "Top Player's Golf",
+    "name": "Thrash Rally",
     "id": "ngaes16",
+    "igdbId": 46521,
+    "gbId": 18963,
+    "gbGuid": "3030-18963",
+    "details": [
+      "Neo Geo AES game supports 4 player link-up"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Neo Geo AES game supports 4 player link-up",
+        "forPlatform": {
+          "name": "Nintendo Virtual Boy",
+          "id": "ccl50",
+          "igdbId": 87,
+          "gbId": 79,
+          "gbGuid": "3045-79",
+          "tgdbId": 4918
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Top Player's Golf",
+    "id": "ngaes17",
     "igdbId": 40471,
     "gbId": 37723,
     "gbGuid": "3030-37723",

@@ -1244,5 +1244,17 @@
     "filePath": "../textFilesToBeConverted/special/sonyPlaystation3LightGunGames.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Neo Geo AES 4 player link up games",
+    "filePath": "../textFilesToBeConverted/multiplayer/neoGeoAesLinkUp.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Atari Jaguar CD exclusive games",
+    "filePath": "../textFilesToBeConverted/platformExclusives/atariJaguarCDExclusives.json",
+    "type": "Game",
+    "complete": true
   }
 ]

@@ -9,7 +9,6 @@
 | Nokia NGage                      |     | X   |
 | Tiger Gizomondo                  |     | X   |
 | Bally Astrocade                  |     | X   |
-| Atari Jaguar CD                  |     | X   |
 | Game.com                         |     | X   |
 | Magnavox Odyssey 2               |     | X   |
 | Sony PlayStation 5               |     | X   |

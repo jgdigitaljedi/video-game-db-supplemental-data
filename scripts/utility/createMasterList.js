@@ -54,17 +54,23 @@ function runThroughFile(data) {
   });
 }
 
-(function() {
+(async function() {
   const relativePath = '../../finalOutput/consoleLists';
   const files = fs.readdirSync(path.resolve(__dirname, relativePath));
-  files.forEach(async file => {
-    const data = fs.readFileSync(path.resolve(__dirname, `${relativePath}/${file}`), 'utf-8');
+  const filesLen = files.length;
+  for (let i = 0; i < filesLen; i++) {
+    const data = fs.readFileSync(path.resolve(__dirname, `${relativePath}/${files[i]}`), 'utf-8');
     await runThroughFile(data);
     return;
-  });
+  }
+  // files.forEach(async file => {
+  //   const data = fs.readFileSync(path.resolve(__dirname, `${relativePath}/${file}`), 'utf-8');
+  //   await runThroughFile(data);
+  //   return;
+  // });
   fs.writeFile(
     path.resolve(__dirname, '../../finalOutput/combinedMasterList.json'),
-    JSON.stringify(masterList, null, 2),
+    JSON.stringify(masterList),
     error => {
       if (error) {
         chalk.red.bold('THERE WAS AN ERROR CREATING THE MASTER LIST!');
