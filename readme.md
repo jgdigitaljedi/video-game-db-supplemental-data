@@ -250,6 +250,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 
 - PS1 games that don't work properly on the various PS2 models
 - Game Boy and Game Boy Color games that don't work properly on the Game Boy Advance
+- SNK Neo Geo Pocket Color games that play on the Neo Geo Pocket (has a black and white mode)
 - Xbox games that work on the Xbox 360
 - Xbox games that work on the Xbox One
 - Xbox 360 games that work on the Xbox One
@@ -344,8 +345,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan.
 
-Out of 15366 data points collected so far, the APIs are missing data the following number of items:
+Out of 15413 data points collected so far, the APIs are missing data the following number of items:
 
 - Missing from all APIs: 1474 (10%)
-- IGDB: 1625 (11%)
+- IGDB: 1626 (11%)
 - Giantbomb: 2602 (17%)

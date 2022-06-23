@@ -3,7 +3,6 @@
 
 | Platform                         | LT  | EX  |
 |----------------------------------|:---:|:---:|
-| Neo Geo Pocket Color             |     | X   |
 | Amiga                            | X   |     |
 | Nintendo Switch                  |     | X   |
 | Nokia NGage                      |     | X   |

@@ -32,9 +32,19 @@
     "gbId": 21437,
     "gbGuid": "3030-21437",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -52,8 +62,31 @@
     "misprintsErrors": []
   },
   {
-    "name": "Biomotor Unitron",
+    "name": "Big Bang Pro Wrestling",
     "id": "ngpc2",
+    "igdbId": 43972,
+    "gbId": 25986,
+    "gbGuid": "3030-25986",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Biomotor Unitron",
+    "id": "ngpc3",
     "igdbId": 43998,
     "gbId": 21180,
     "gbGuid": "3030-21180",
@@ -77,7 +110,7 @@
   },
   {
     "name": "Biomotor Unitron",
-    "id": "ngpc3",
+    "id": "ngpc4",
     "igdbId": 43991,
     "gbId": 21180,
     "gbGuid": "3030-21180",
@@ -103,7 +136,7 @@
   },
   {
     "name": "Bust-A-Move Pocket",
-    "id": "ngpc4",
+    "id": "ngpc5",
     "igdbId": 43977,
     "gbId": 22645,
     "gbGuid": "3030-22645",
@@ -128,8 +161,54 @@
     "misprintsErrors": []
   },
   {
+    "name": "Cool Boarders Pocket",
+    "id": "ngpc6",
+    "igdbId": 26133,
+    "gbId": 22626,
+    "gbGuid": "3030-22626",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cool Cool Jam",
+    "id": "ngpc7",
+    "igdbId": 43967,
+    "gbId": 25988,
+    "gbGuid": "3030-25988",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Cotton: Fantastic Night Dreams",
-    "id": "ngpc5",
+    "id": "ngpc8",
     "igdbId": 39488,
     "gbId": 16719,
     "gbGuid": "3030-16719",
@@ -155,7 +234,7 @@
   },
   {
     "name": "Crush Roller",
-    "id": "ngpc6",
+    "id": "ngpc9",
     "igdbId": 72747,
     "gbId": 23155,
     "gbGuid": "3030-23155",
@@ -181,14 +260,24 @@
   },
   {
     "name": "Dark Arms: Beast Buster 1999",
-    "id": "ngpc7",
+    "id": "ngpc10",
     "igdbId": 43997,
     "gbId": 21691,
     "gbGuid": "3030-21691",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -206,8 +295,54 @@
     "misprintsErrors": []
   },
   {
+    "name": "Delta Warp",
+    "id": "ngpc11",
+    "igdbId": 43978,
+    "gbId": 25989,
+    "gbGuid": "3030-25989",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Densetsu no Ogre Battle Gaiden: Zenobia no Ouji",
+    "id": "ngpc12",
+    "igdbId": 43975,
+    "gbId": 14728,
+    "gbGuid": "3030-14728",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Densha de GO! 2",
-    "id": "ngpc8",
+    "id": "ngpc13",
     "igdbId": 37286,
     "gbId": 18862,
     "gbGuid": "3030-18862",
@@ -233,14 +368,24 @@
   },
   {
     "name": "Dive Alert: Becky's Version",
-    "id": "ngpc9",
+    "id": "ngpc14",
     "igdbId": 69075,
     "gbId": 25995,
     "gbGuid": "3030-25995",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -259,14 +404,24 @@
   },
   {
     "name": "Dive Alert: Matt's Version",
-    "id": "ngpc10",
+    "id": "ngpc15",
     "igdbId": 69072,
     "gbId": 25996,
     "gbGuid": "3030-25996",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -285,14 +440,24 @@
   },
   {
     "name": "Doko Demo Mahjong",
-    "id": "ngpc11",
+    "id": "ngpc16",
     "igdbId": null,
     "gbId": 25998,
     "gbGuid": "3030-25998",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -310,8 +475,54 @@
     "misprintsErrors": []
   },
   {
+    "name": "Dynamite Slugger",
+    "id": "ngpc17",
+    "igdbId": 43999,
+    "gbId": 25999,
+    "gbGuid": "3030-25999",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Evolution: Eternal Dungeons",
+    "id": "ngpc18",
+    "igdbId": 43990,
+    "gbId": 20211,
+    "gbGuid": "3030-20211",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Faselei!",
-    "id": "ngpc12",
+    "id": "ngpc19",
     "igdbId": 28401,
     "gbId": 22465,
     "gbGuid": "3030-22465",
@@ -337,7 +548,7 @@
   },
   {
     "name": "Fatal Fury: First Contact",
-    "id": "ngpc13",
+    "id": "ngpc20",
     "igdbId": 44000,
     "gbId": 6708,
     "gbGuid": "3030-6708",
@@ -362,15 +573,71 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ganbare Neo Poke-Kun",
+    "id": "ngpc21",
+    "igdbId": 43970,
+    "gbId": 15129,
+    "gbGuid": "3030-15129",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Infinity Cure",
+    "id": "ngpc22",
+    "igdbId": 43965,
+    "gbId": 26002,
+    "gbGuid": "3030-26002",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kikou Seiki Unitron",
-    "id": "ngpc14",
+    "id": "ngpc23",
     "igdbId": 43969,
     "gbId": 26006,
     "gbGuid": "3030-26006",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -389,7 +656,7 @@
   },
   {
     "name": "King of Fighters R-1",
-    "id": "ngpc15",
+    "id": "ngpc24",
     "igdbId": 47602,
     "gbId": 17540,
     "gbGuid": "3030-17540",
@@ -415,7 +682,7 @@
   },
   {
     "name": "King of Fighters R-2",
-    "id": "ngpc16",
+    "id": "ngpc25",
     "igdbId": 43988,
     "gbId": 6872,
     "gbGuid": "3030-6872",
@@ -440,15 +707,71 @@
     "misprintsErrors": []
   },
   {
+    "name": "King of Fighters: Battle de Paradise",
+    "id": "ngpc26",
+    "igdbId": 75475,
+    "gbId": 24886,
+    "gbGuid": "3030-24886",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Koi Koi Mahjong",
+    "id": "ngpc27",
+    "igdbId": 43964,
+    "gbId": 26026,
+    "gbGuid": "3030-26026",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Magical Drop Pocket",
-    "id": "ngpc17",
+    "id": "ngpc28",
     "igdbId": 43993,
     "gbId": 33438,
     "gbGuid": "3030-33438",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -467,7 +790,7 @@
   },
   {
     "name": "Master of Syougi",
-    "id": "ngpc18",
+    "id": "ngpc29",
     "igdbId": 75451,
     "gbId": null,
     "gbGuid": null,
@@ -493,7 +816,7 @@
   },
   {
     "name": "Master of Syougi Color",
-    "id": "ngpc19",
+    "id": "ngpc30",
     "igdbId": 75452,
     "gbId": null,
     "gbGuid": null,
@@ -519,7 +842,7 @@
   },
   {
     "name": "Melon Chan's Growth Diary",
-    "id": "ngpc20",
+    "id": "ngpc31",
     "igdbId": 47622,
     "gbId": 26028,
     "gbGuid": "3030-26028",
@@ -544,17 +867,50 @@
     "misprintsErrors": []
   },
   {
+    "name": "Memories Off Pure",
+    "id": "ngpc32",
+    "igdbId": 43974,
+    "gbId": 26029,
+    "gbGuid": "3030-26029",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Metal Slug 1st Mission",
-    "id": "ngpc21",
+    "id": "ngpc33",
     "igdbId": 43986,
     "gbId": 5313,
     "gbGuid": "3030-5313",
     "tgdbId": 18485,
     "details": [
       "Neo Geo Pocket Color launch title",
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Neo Geo Pocket Color",
@@ -581,15 +937,71 @@
     "misprintsErrors": []
   },
   {
+    "name": "Metal Slug 2nd Mission",
+    "id": "ngpc34",
+    "igdbId": 43984,
+    "gbId": 7743,
+    "gbGuid": "3030-7743",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mezase! Kanji Ou",
+    "id": "ngpc35",
+    "igdbId": 43962,
+    "gbId": 26030,
+    "gbGuid": "3030-26030",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Neo 21",
-    "id": "ngpc22",
+    "id": "ngpc36",
     "igdbId": 75491,
     "gbId": 26357,
     "gbGuid": "3030-26357",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -608,14 +1020,24 @@
   },
   {
     "name": "Neo Baccarat",
-    "id": "ngpc23",
+    "id": "ngpc37",
     "igdbId": 47605,
     "gbId": 26031,
     "gbGuid": "3030-26031",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -634,7 +1056,7 @@
   },
   {
     "name": "Neo Cherry Master",
-    "id": "ngpc24",
+    "id": "ngpc38",
     "igdbId": 75492,
     "gbId": 73556,
     "gbGuid": "3030-73556",
@@ -660,14 +1082,24 @@
   },
   {
     "name": "Neo Cherry Master Color",
-    "id": "ngpc25",
+    "id": "ngpc39",
     "igdbId": 43980,
     "gbId": 26120,
     "gbGuid": "3030-26120",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -686,14 +1118,24 @@
   },
   {
     "name": "Neo Derby Champ Daiyosou",
-    "id": "ngpc26",
+    "id": "ngpc40",
     "igdbId": 43968,
     "gbId": 26347,
     "gbGuid": "3030-26347",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -712,14 +1154,24 @@
   },
   {
     "name": "Neo Dragon's Wild",
-    "id": "ngpc27",
+    "id": "ngpc41",
     "igdbId": 47606,
     "gbId": 26348,
     "gbGuid": "3030-26348",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -738,14 +1190,24 @@
   },
   {
     "name": "Neo Geo Cup '98 Plus Color",
-    "id": "ngpc28",
+    "id": "ngpc42",
     "igdbId": 43976,
     "gbId": 21432,
     "gbGuid": "3030-21432",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -764,7 +1226,7 @@
   },
   {
     "name": "Neo Geo Cup '98: The Road to the Victory",
-    "id": "ngpc29",
+    "id": "ngpc43",
     "igdbId": 39529,
     "gbId": 37101,
     "gbGuid": "3030-37101",
@@ -790,7 +1252,7 @@
   },
   {
     "name": "Neo Mystery Bonus",
-    "id": "ngpc30",
+    "id": "ngpc44",
     "igdbId": 43979,
     "gbId": 26349,
     "gbGuid": "3030-26349",
@@ -816,14 +1278,24 @@
   },
   {
     "name": "Neo Poke Pro Yakyuu",
-    "id": "ngpc31",
+    "id": "ngpc45",
     "igdbId": 47619,
     "gbId": 26358,
     "gbGuid": "3030-26358",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -842,7 +1314,7 @@
   },
   {
     "name": "Neo Turf Masters",
-    "id": "ngpc32",
+    "id": "ngpc46",
     "igdbId": 20323,
     "gbId": 17791,
     "gbGuid": "3030-17791",
@@ -867,8 +1339,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Nige-ron-pa",
+    "id": "ngpc47",
+    "igdbId": 43961,
+    "gbId": 26359,
+    "gbGuid": "3030-26359",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Pac-Man",
-    "id": "ngpc33",
+    "id": "ngpc48",
     "igdbId": 2750,
     "gbId": 7624,
     "gbGuid": "3030-7624",
@@ -904,8 +1399,169 @@
     "misprintsErrors": []
   },
   {
+    "name": "Pachi-Slot Aruze Oukoku Pocket: Azteca",
+    "id": "ngpc49",
+    "igdbId": 47612,
+    "gbId": 58288,
+    "gbGuid": "3030-58288",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pachi-Slot Aruze Oukoku Pocket: Del Sol 2",
+    "id": "ngpc50",
+    "igdbId": 47618,
+    "gbId": 58289,
+    "gbGuid": "3030-58289",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pachi-Slot Aruze Oukoku Pocket: Hanabi",
+    "id": "ngpc51",
+    "igdbId": 47617,
+    "gbId": 58286,
+    "gbGuid": "3030-58286",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pachi-Slot Aruze Oukoku Pocket: Porcano 2",
+    "id": "ngpc52",
+    "igdbId": 47610,
+    "gbId": 58290,
+    "gbGuid": "3030-58290",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pachi-Slot Aruze Oukoku Pocket: Ward of Lights",
+    "id": "ngpc53",
+    "igdbId": 47614,
+    "gbId": 58287,
+    "gbGuid": "3030-58287",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pachi-Slot Aruze Oukoku: e-CUP",
+    "id": "ngpc54",
+    "igdbId": 47613,
+    "gbId": 58285,
+    "gbGuid": "3030-58285",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pachi-Slot Aruze Ōkoku Pocket: DEKAHEL",
+    "id": "ngpc55",
+    "igdbId": 56737,
+    "gbId": 58273,
+    "gbGuid": "3030-58273",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Pachi-Slot Aruze Ōkoku Pocket: Hanabi",
-    "id": "ngpc34",
+    "id": "ngpc56",
     "igdbId": 56733,
     "gbId": 58286,
     "gbGuid": "3030-58286",
@@ -931,7 +1587,7 @@
   },
   {
     "name": "Pachinko Hisshou Guide: Pocket Parlor",
-    "id": "ngpc35",
+    "id": "ngpc57",
     "igdbId": 47621,
     "gbId": null,
     "gbGuid": null,
@@ -957,14 +1613,24 @@
   },
   {
     "name": "Party Mail",
-    "id": "ngpc36",
+    "id": "ngpc58",
     "igdbId": 47616,
     "gbId": 34145,
     "gbGuid": "3030-34145",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -983,7 +1649,7 @@
   },
   {
     "name": "Pocket Love: If",
-    "id": "ngpc37",
+    "id": "ngpc59",
     "igdbId": 43973,
     "gbId": 42791,
     "gbGuid": "3030-42791",
@@ -1008,8 +1674,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Pocket Reversi",
+    "id": "ngpc60",
+    "igdbId": 43989,
+    "gbId": 34146,
+    "gbGuid": "3030-34146",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Pocket Tennis",
-    "id": "ngpc38",
+    "id": "ngpc61",
     "igdbId": 47601,
     "gbId": 3230,
     "gbGuid": "3030-3230",
@@ -1035,14 +1724,24 @@
   },
   {
     "name": "Pocket Tennis Color",
-    "id": "ngpc39",
+    "id": "ngpc62",
     "igdbId": 47609,
     "gbId": 21967,
     "gbGuid": "3030-21967",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -1061,7 +1760,7 @@
   },
   {
     "name": "Puyo Pop",
-    "id": "ngpc40",
+    "id": "ngpc63",
     "igdbId": 23455,
     "gbId": 63,
     "gbGuid": "3030-63",
@@ -1087,7 +1786,7 @@
   },
   {
     "name": "Puzzle Link",
-    "id": "ngpc41",
+    "id": "ngpc64",
     "igdbId": 44002,
     "gbId": 41461,
     "gbGuid": "3030-41461",
@@ -1112,8 +1811,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Puzzle Link 2",
+    "id": "ngpc65",
+    "igdbId": 43985,
+    "gbId": 41462,
+    "gbGuid": "3030-41462",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Renketsu Puzzle Tsunagete Pon!",
-    "id": "ngpc42",
+    "id": "ngpc66",
     "igdbId": 47623,
     "gbId": null,
     "gbGuid": null,
@@ -1139,14 +1861,24 @@
   },
   {
     "name": "Rockman Battle & Fighters",
-    "id": "ngpc43",
+    "id": "ngpc67",
     "igdbId": 75515,
     "gbId": 23146,
     "gbGuid": "3030-23146",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -1164,8 +1896,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "SNK vs Capcom Cardfighters Clash 2: Expand Edition",
+    "id": "ngpc68",
+    "igdbId": 75441,
+    "gbId": 23127,
+    "gbGuid": "3030-23127",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "SNK vs. Capcom Card Fighters' Clash - Capcom Card Fighter's Version",
-    "id": "ngpc44",
+    "id": "ngpc69",
     "igdbId": 28398,
     "gbId": 5134,
     "gbGuid": "3030-5134",
@@ -1191,7 +1946,7 @@
   },
   {
     "name": "SNK vs. Capcom Card Fighters' Clash - SNK Card Fighter's Version",
-    "id": "ngpc45",
+    "id": "ngpc70",
     "igdbId": 28399,
     "gbId": 5134,
     "gbGuid": "3030-5134",
@@ -1217,7 +1972,7 @@
   },
   {
     "name": "Samurai Shodown!",
-    "id": "ngpc46",
+    "id": "ngpc71",
     "igdbId": 47586,
     "gbId": 34118,
     "gbGuid": "3030-34118",
@@ -1243,7 +1998,7 @@
   },
   {
     "name": "Samurai Shodown! 2",
-    "id": "ngpc47",
+    "id": "ngpc72",
     "igdbId": 200416,
     "gbId": 34040,
     "gbGuid": "3030-34040",
@@ -1269,14 +2024,24 @@
   },
   {
     "name": "Shanghai Mini",
-    "id": "ngpc48",
+    "id": "ngpc73",
     "igdbId": 43981,
     "gbId": 16026,
     "gbGuid": "3030-16026",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -1294,15 +2059,48 @@
     "misprintsErrors": []
   },
   {
+    "name": "Sonic the Hedgehog Pocket Adventure",
+    "id": "ngpc74",
+    "igdbId": 43323,
+    "gbId": 19810,
+    "gbGuid": "3030-19810",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sore Ike!! Hanafuda Dojo",
-    "id": "ngpc49",
+    "id": "ngpc75",
     "igdbId": 43995,
     "gbId": 81907,
     "gbGuid": "3030-81907",
     "details": [
+      "Neo Geo Pocket Color exclusive game",
       "Neo Geo Pocket Color game backward compatible with Neo Geo Pocket"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
     "isLaunchTitle": false,
     "special": [
       {
@@ -1317,6 +2115,29 @@
         }
       }
     ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Real Mahjong",
+    "id": "ngpc76",
+    "igdbId": 75408,
+    "gbId": 33439,
+    "gbGuid": "3030-33439",
+    "details": [
+      "Neo Geo Pocket Color exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Neo Geo Pocket Color",
+        "id": "ccl37",
+        "igdbId": 120,
+        "gbId": 81,
+        "gbGuid": "3045-81",
+        "tgdbId": 4923
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
     "misprintsErrors": []
   }
 ]

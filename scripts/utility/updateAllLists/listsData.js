@@ -600,7 +600,10 @@ module.exports.listData = [
       smallFiles,
       'launchTitles/neoGeoPocketColorLaunchTitles.json'
     )),
-    exclusives: null,
+    exclusives: require(path.resolve(
+      smallFiles,
+      'platformExclusives/neoGeoPocketColorExclusives.json'
+    )),
     misprintsAndErrors: null,
     special: [require(path.resolve(smallFiles, 'backwardCompatibilityLists/ngpcToNgp.json'))],
     output: path.resolve(consoleLists, 'NeoGeoPocketColor.json')
