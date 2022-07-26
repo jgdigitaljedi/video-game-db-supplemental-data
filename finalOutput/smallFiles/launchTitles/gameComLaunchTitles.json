@@ -1,20 +1,65 @@
 [
   {
-    "id": "comlt1",
-    "name": "Lights Out",
-    "details": "Game Com launch title",
-    "igdbId": 72821,
-    "gbId": 22805,
-    "gbGuid": "3030-22805",
-    "tgdbId": 46860
-  },
-  {
-    "id": "comlt2",
     "name": "Batman & Robin",
+    "id": "comlt1",
     "details": "Game Com launch title",
     "igdbId": 79820,
     "gbId": 13568,
     "gbGuid": "3030-13568",
     "tgdbId": 11570
+  },
+  {
+    "name": "Indy 500",
+    "id": "comlt2",
+    "details": "Tiger Game.com launch title",
+    "igdbId": 199427,
+    "gbId": 19945,
+    "gbGuid": "3030-19945",
+    "tgdbId": null
+  },
+  {
+    "name": "Lights Out",
+    "id": "comlt3",
+    "details": "Tiger Game.com launch title",
+    "igdbId": 199429,
+    "gbId": 22805,
+    "gbGuid": "3030-22805",
+    "tgdbId": null
+  },
+  {
+    "name": "Solitaire",
+    "id": "comlt4",
+    "details": "Tiger Game.com launch title",
+    "igdbId": 74206,
+    "gbId": 4607,
+    "gbGuid": "3030-4607",
+    "tgdbId": null
+  },
+  {
+    "name": "Tiger Casino",
+    "id": "comlt5",
+    "details": "Tiger Game.com launch title",
+    "igdbId": 131276,
+    "gbId": 3528,
+    "gbGuid": "3030-3528",
+    "tgdbId": null
+  },
+  {
+    "name": "Wheel of Fortune",
+    "id": "comlt6",
+    "details": "Tiger Game.com launch title",
+    "igdbId": 127485,
+    "gbId": 44572,
+    "gbGuid": "3030-44572",
+    "tgdbId": null
+  },
+  {
+    "name": "Williams Arcade Classics",
+    "id": "comlt7",
+    "details": "Tiger Game.com launch title",
+    "igdbId": 199435,
+    "gbId": 1956,
+    "gbGuid": "3030-1956",
+    "tgdbId": null
   }
 ]
