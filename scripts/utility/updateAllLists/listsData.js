@@ -809,5 +809,15 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'BandaiWonderSwan.json')
+  },
+  {
+    name: 'Nintendo 64DD',
+    id: 'ccl55',
+    prefix: 'n64dd',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/nintendo64DDLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'Nintendo64DD.json')
   }
 ];

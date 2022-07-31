@@ -6,12 +6,13 @@
 | Amiga                            | X   |     |
 | Nintendo Switch                  |     | X   |
 | Nokia NGage                      |     | X   |
-| Tiger Gizomondo                  |     | X   |
+| Tiger Telematics Gizomondo       |     | X   |
 | Bally Astrocade                  |     | X   |
-| Game.com                         |     | X   |
+| Tiger Game.com                   |     | X   |
 | Magnavox Odyssey 2               |     | X   |
 | Sony PlayStation 5               |     | X   |
 | Microsoft Xbox Series X&#124;S   |     | X   |
 | Neo Geo AES                      |     | X   |
 | WonderSwan Color                 |     | X   |
 | WonderSwan                       |     | X   |
+| Nintendo 64DD                    |     | X   |

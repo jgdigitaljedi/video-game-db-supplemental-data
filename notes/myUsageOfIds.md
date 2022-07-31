@@ -38,6 +38,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ivltX - Mattel Intellivision launch titles (intellivisionLaunchTitles.json) | GAMES LIST
 - mo2X - Magnavox Odyssey 2 launch titles (magnavoxOdyssey2LaunchTitles.json) | GAMES LIST
 - n3dsltX - Nintendo 3DS launch titles (nintendo3dsLaunchTitles.json) | GAMES LIST
+- n64ddltX - N64DD launch titles (nintendo64DDLaunchTitles.json) | GAMES LIST
 - n64ltX - N64 launch titles (n64LaunchTitles.json) | GAMES LIST
 - ndsltX - Nintendo DS launch titles (dsLaunchTitles.json) | GAMES LIST
 - nesltX - NES launch titles (nesLaunchTitles.json) | GAMES LIST

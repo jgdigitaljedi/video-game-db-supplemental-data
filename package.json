@@ -19,7 +19,8 @@
     "fix:missing": "node scripts/utility/findEntriesMissingAll.js",
     "fix:numbered": "node scripts/utility/cleanNumberedList.js",
     "fix:dump": "node scripts/utility/formatStringDump.js",
-    "updateAll": "node scripts/utility/updateAllLists/updateAllLists.js"
+    "updateAll": "node scripts/utility/updateAllLists/updateAllLists.js",
+    "platformInfo": "node scripts/utility/getPlatformInfo/getPlatformInfo.js"
   },
   "repository": {
     "type": "git",
@@ -45,19 +46,19 @@
   "dependencies": {
     "@mdi/font": "^4.9.95",
     "apicalypse": "^0.1.9",
-    "axios": "^0.26.1",
-    "cheerio": "^1.0.0-rc.10",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
     "cors": "^2.8.5",
-    "express": "^4.17.3",
-    "glob": "^8.0.1",
+    "express": "^4.18.1",
+    "glob": "^8.0.3",
     "igdb-api-node": "^5.0.1",
     "lodash": "^4.17.21",
     "moment": "^2.29.3",
     "request": "^2.88.2",
     "stringman": "^0.12.1",
     "stringman-utils": "^1.8.0",
-    "vue": "^2.6.14",
-    "vuetify": "^2.6.4",
+    "vue": "^2.7.8",
+    "vuetify": "^2.6.8",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
@@ -73,10 +74,10 @@
     "node-sass": "^4.14.1",
     "nodemon": "^1.19.4",
     "prettier": "^1.19.1",
-    "sass": "^1.50.1",
+    "sass": "^1.54.0",
     "sass-loader": "^7.3.1",
     "vue-cli-plugin-vuetify": "^0.6.3",
-    "vue-template-compiler": "^2.6.14",
-    "vuetify-loader": "^1.7.3"
+    "vue-template-compiler": "^2.7.8",
+    "vuetify-loader": "^1.9.2"
   }
 }

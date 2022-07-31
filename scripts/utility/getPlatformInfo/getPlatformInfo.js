@@ -3,7 +3,7 @@ const gbController = require('../../../server/gb.controller');
 const gbKey = process.env.JGBKEY;
 const axios = require('axios');
 
-const pName = 'jaguar';
+const pName = 'nintendo 64';
 
 const searchIgdbPlatform = async () => {
   try {
@@ -22,7 +22,6 @@ const searchGbPlatform = async () => {
     )
     .then(result => {
       try {
-        console.log('result.data', result.data);
         const cleaned = result.data.results.map(item => {
           return {
             gbId: item.id,
@@ -30,6 +29,7 @@ const searchGbPlatform = async () => {
             name: item.name
           };
         });
+        console.log('gb results cleaned', cleaned);
         return Promise.resolve(cleaned);
       } catch (error) {
         return Promise.resolve({ error: true, message: `UNKNOWN ERROR WITH GB: ${error}` });
@@ -45,5 +45,9 @@ const searchGbPlatform = async () => {
   const igdbResult = await searchIgdbPlatform();
   console.log('igdbResult', igdbResult);
   const gbResult = await searchGbPlatform();
-  console.log('gbResult', gbResult);
+  // const gbShort = gbResult.data.results.map(r => {
+  //   delete r.description;
+  //   return r;
+  // });
+  // console.log('gbResult', gbResult);
 })();
