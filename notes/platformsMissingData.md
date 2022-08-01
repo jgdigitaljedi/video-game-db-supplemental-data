@@ -16,3 +16,4 @@
 | WonderSwan Color                 |     | X   |
 | WonderSwan                       |     | X   |
 | Nintendo 64DD                    |     | X   |
+| NEC PC-FX                        |     | X   |

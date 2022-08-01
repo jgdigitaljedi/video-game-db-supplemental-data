@@ -819,5 +819,15 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'Nintendo64DD.json')
+  },
+  {
+    name: 'NEC PC-FX',
+    id: 'ccl56',
+    prefix: 'pcfx',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/pcfxLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'NEC_PC-FX.json')
   }
 ];

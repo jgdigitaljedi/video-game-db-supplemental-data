@@ -3,7 +3,7 @@ const gbController = require('../../../server/gb.controller');
 const gbKey = process.env.JGBKEY;
 const axios = require('axios');
 
-const pName = 'nintendo 64';
+const pName = 'pc-fx';
 
 const searchIgdbPlatform = async () => {
   try {
