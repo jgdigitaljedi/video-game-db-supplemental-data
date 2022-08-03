@@ -231,7 +231,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/masterSystemMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'special/segaMasterSystemPhaserGames.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'special/segaMasterSystemPhaserGames.json')),
+      require(path.resolve(smallFiles, 'special/segaMasterSystemBuiltInGames.json'))
+    ],
     output: path.resolve(consoleLists, 'SegaMasterSystem.json')
   },
   {
@@ -654,7 +657,7 @@ module.exports.listData = [
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/astrocadeLaunchTitles.json')),
     exclusives: null,
     misprintsAndErrors: null,
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/astrocadeBuiltInGames.json'))],
     output: path.resolve(consoleLists, 'BallyAstrocade.json')
   },
   {
@@ -709,7 +712,7 @@ module.exports.listData = [
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/gameComLaunchTitles.json')),
     exclusives: null,
     misprintsAndErrors: null,
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/tigerGameComBuiltInGames.json'))],
     output: path.resolve(consoleLists, 'GameCom.json')
   },
   {
@@ -829,5 +832,15 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'NEC_PC-FX.json')
+  },
+  {
+    name: 'Fairchild Channel F',
+    id: 'ccl57',
+    prefix: 'fcf',
+    launchTitles: null,
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: [require(path.resolve(smallFiles, 'special/fairchildChannelFBuiltInGames.json'))],
+    output: path.resolve(consoleLists, 'FairchildChannelF.json')
   }
 ];

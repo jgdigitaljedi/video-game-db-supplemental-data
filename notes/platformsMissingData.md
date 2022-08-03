@@ -17,3 +17,4 @@
 | WonderSwan                       |     | X   |
 | Nintendo 64DD                    |     | X   |
 | NEC PC-FX                        |     | X   |
+| Fairchild Channel F              | X   | X   |

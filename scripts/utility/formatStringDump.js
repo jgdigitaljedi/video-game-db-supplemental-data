@@ -2,13 +2,13 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/launchTitles/pcfxLaunchTitles.json';
-const idPrefix = 'pcfxlt';
+const relativePath = '../../textFilesToBeConverted/special/astrocadeBuiltInGames.json';
+const idPrefix = 'babi';
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
-  const newData = fileUtil.stringArrToObjectArr(parsed, 'NEC PC-FX launch title', idPrefix);
+  const newData = fileUtil.stringArrToObjectArr(parsed, 'Bally Astrocade built-in game', idPrefix);
   const result = await fileUtil.writeFile(relativePath, newData);
   if (result) {
     console.log(chalk.cyan.bold('All IDs written!'));

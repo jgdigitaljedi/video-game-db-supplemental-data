@@ -1280,5 +1280,23 @@
     "filePath": "../textFilesToBeConverted/launchTitles/pcfxLaunchTitles.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Fairchild Channel F built in games",
+    "filePath": "../textFilesToBeConverted/special/fairchildChannelFBuiltInGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega Master System built in games",
+    "filePath": "../textFilesToBeConverted/special/segaMasterSystemBuiltInGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Bally Astrocade built in games",
+    "filePath": "../textFilesToBeConverted/special/astrocadeBuiltInGames.json",
+    "type": "Game",
+    "complete": true
   }
 ]

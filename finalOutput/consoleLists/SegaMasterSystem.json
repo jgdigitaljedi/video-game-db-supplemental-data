@@ -48,8 +48,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "Alex Kidd: BMX Trial",
+    "name": "Alex Kidd in Miracle World",
     "id": "sms2",
+    "igdbId": 26778,
+    "gbId": 9101,
+    "gbGuid": "3030-9101",
+    "details": [
+      "Sega Master System built-in game (some models)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System built-in game (some models)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alex Kidd: BMX Trial",
+    "id": "sms3",
     "igdbId": 37174,
     "gbId": 4553,
     "gbGuid": "3030-4553",
@@ -73,7 +99,7 @@
   },
   {
     "name": "Alex Kidd: High-Tech World",
-    "id": "sms3",
+    "id": "sms4",
     "igdbId": 46112,
     "gbId": 7108,
     "gbGuid": "3030-7108",
@@ -97,7 +123,7 @@
   },
   {
     "name": "Arcade Smash Hits",
-    "id": "sms4",
+    "id": "sms5",
     "igdbId": 46151,
     "gbId": 6044,
     "gbGuid": "3030-6044",
@@ -121,7 +147,7 @@
   },
   {
     "name": "Assault City",
-    "id": "sms5",
+    "id": "sms6",
     "igdbId": 46117,
     "gbId": 312,
     "gbGuid": "3030-312",
@@ -158,7 +184,7 @@
   },
   {
     "name": "Asterix",
-    "id": "sms6",
+    "id": "sms7",
     "igdbId": 19486,
     "gbId": 9018,
     "gbGuid": "3030-9018",
@@ -181,7 +207,7 @@
   },
   {
     "name": "Astro Warrior",
-    "id": "sms7",
+    "id": "sms8",
     "igdbId": 37176,
     "gbId": 14539,
     "gbGuid": "3030-14539",
@@ -205,7 +231,7 @@
   },
   {
     "name": "Aztec Adventure",
-    "id": "sms8",
+    "id": "sms9",
     "igdbId": 45668,
     "gbId": 6159,
     "gbGuid": "3030-6159",
@@ -229,7 +255,7 @@
   },
   {
     "name": "Basketball Nightmare",
-    "id": "sms9",
+    "id": "sms10",
     "igdbId": 45667,
     "gbId": 40805,
     "gbGuid": "3030-40805",
@@ -253,7 +279,7 @@
   },
   {
     "name": "Battle OutRun",
-    "id": "sms10",
+    "id": "sms11",
     "igdbId": 2056,
     "gbId": 407,
     "gbGuid": "3030-407",
@@ -277,7 +303,7 @@
   },
   {
     "name": "Black Belt",
-    "id": "sms11",
+    "id": "sms12",
     "igdbId": 29134,
     "gbId": 16176,
     "gbGuid": "3030-16176",
@@ -295,7 +321,7 @@
   },
   {
     "name": "Blade Eagle 3-D",
-    "id": "sms12",
+    "id": "sms13",
     "igdbId": 45663,
     "gbId": 18151,
     "gbGuid": "3030-18151",
@@ -319,7 +345,7 @@
   },
   {
     "name": "Bomber Raid",
-    "id": "sms13",
+    "id": "sms14",
     "igdbId": 45662,
     "gbId": 6869,
     "gbGuid": "3030-6869",
@@ -343,7 +369,7 @@
   },
   {
     "name": "Buggy Run",
-    "id": "sms14",
+    "id": "sms15",
     "igdbId": 45657,
     "gbId": null,
     "gbGuid": null,
@@ -367,7 +393,7 @@
   },
   {
     "name": "Casino Games",
-    "id": "sms15",
+    "id": "sms16",
     "igdbId": 45656,
     "gbId": 32028,
     "gbGuid": "3030-32028",
@@ -391,7 +417,7 @@
   },
   {
     "name": "Champions of Europe",
-    "id": "sms16",
+    "id": "sms17",
     "igdbId": 45655,
     "gbId": 73315,
     "gbGuid": "3030-73315",
@@ -415,7 +441,7 @@
   },
   {
     "name": "Cloud Master (PAL)",
-    "id": "sms17",
+    "id": "sms18",
     "igdbId": 45654,
     "gbId": 11352,
     "gbGuid": "3030-11352",
@@ -433,7 +459,7 @@
   },
   {
     "name": "Cyborg Hunter",
-    "id": "sms18",
+    "id": "sms19",
     "igdbId": 45653,
     "gbId": 20088,
     "gbGuid": "3030-20088",
@@ -457,7 +483,7 @@
   },
   {
     "name": "Danan: The Jungle Fighter",
-    "id": "sms19",
+    "id": "sms20",
     "igdbId": 45664,
     "gbId": 3139,
     "gbGuid": "3030-3139",
@@ -481,7 +507,7 @@
   },
   {
     "name": "Double Hawk",
-    "id": "sms20",
+    "id": "sms21",
     "igdbId": 45659,
     "gbId": 15311,
     "gbGuid": "3030-15311",
@@ -505,7 +531,7 @@
   },
   {
     "name": "Fushigi no Oshiro Pit Pot",
-    "id": "sms21",
+    "id": "sms22",
     "igdbId": 36678,
     "gbId": 18268,
     "gbGuid": "3030-18268",
@@ -529,7 +555,7 @@
   },
   {
     "name": "Gangster Town",
-    "id": "sms22",
+    "id": "sms23",
     "igdbId": 45650,
     "gbId": 20354,
     "gbGuid": "3030-20354",
@@ -555,7 +581,7 @@
   },
   {
     "name": "Ghost House",
-    "id": "sms23",
+    "id": "sms24",
     "igdbId": 45649,
     "gbId": 9862,
     "gbGuid": "3030-9862",
@@ -579,7 +605,7 @@
   },
   {
     "name": "Golfamania",
-    "id": "sms24",
+    "id": "sms25",
     "igdbId": 45673,
     "gbId": null,
     "gbGuid": null,
@@ -603,7 +629,7 @@
   },
   {
     "name": "Great Baseball",
-    "id": "sms25",
+    "id": "sms26",
     "igdbId": 46145,
     "gbId": 12789,
     "gbGuid": "3030-12789",
@@ -627,7 +653,7 @@
   },
   {
     "name": "Great Football",
-    "id": "sms26",
+    "id": "sms27",
     "igdbId": 46144,
     "gbId": 14056,
     "gbGuid": "3030-14056",
@@ -645,7 +671,7 @@
   },
   {
     "name": "Great Ice Hockey",
-    "id": "sms27",
+    "id": "sms28",
     "igdbId": 46142,
     "gbId": 37110,
     "gbGuid": "3030-37110",
@@ -668,8 +694,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Hang-On",
+    "id": "sms29",
+    "igdbId": 6110,
+    "gbId": 11570,
+    "gbGuid": "3030-11570",
+    "details": [
+      "Sega Master System built-in game (some models)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System built-in game (some models)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Hoshi wo Sagashite...",
-    "id": "sms28",
+    "id": "sms30",
     "igdbId": 46149,
     "gbId": 17444,
     "gbGuid": "3030-17444",
@@ -693,7 +745,7 @@
   },
   {
     "name": "Kenseiden",
-    "id": "sms29",
+    "id": "sms31",
     "igdbId": 65579,
     "gbId": 20283,
     "gbGuid": "3030-20283",
@@ -717,7 +769,7 @@
   },
   {
     "name": "Kung Fu Kid",
-    "id": "sms30",
+    "id": "sms32",
     "igdbId": 36898,
     "gbId": 12779,
     "gbGuid": "3030-12779",
@@ -741,7 +793,7 @@
   },
   {
     "name": "Laser Ghost",
-    "id": "sms31",
+    "id": "sms33",
     "igdbId": 36901,
     "gbId": 14213,
     "gbGuid": "3030-14213",
@@ -767,7 +819,7 @@
   },
   {
     "name": "Lord of the Sword",
-    "id": "sms32",
+    "id": "sms34",
     "igdbId": 46671,
     "gbId": 10880,
     "gbGuid": "3030-10880",
@@ -791,7 +843,7 @@
   },
   {
     "name": "Marksman Shooting & Trap Shooting",
-    "id": "sms33",
+    "id": "sms35",
     "igdbId": 78779,
     "gbId": 4368,
     "gbGuid": "3030-4368",
@@ -828,7 +880,7 @@
   },
   {
     "name": "Missile Defense 3-D",
-    "id": "sms34",
+    "id": "sms36",
     "igdbId": 45672,
     "gbId": 19870,
     "gbGuid": "3030-19870",
@@ -854,7 +906,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "sms35",
+    "id": "sms37",
     "igdbId": 122241,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -878,7 +930,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "sms36",
+    "id": "sms38",
     "igdbId": 131548,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -896,7 +948,7 @@
   },
   {
     "name": "Ninja Gaiden",
-    "id": "sms37",
+    "id": "sms39",
     "igdbId": 7558,
     "gbId": 1653,
     "gbGuid": "3030-1653",
@@ -920,7 +972,7 @@
   },
   {
     "name": "Operation Wolf",
-    "id": "sms38",
+    "id": "sms40",
     "igdbId": 12190,
     "gbId": 14869,
     "gbGuid": "3030-14869",
@@ -946,7 +998,7 @@
   },
   {
     "name": "OutRun 3-D",
-    "id": "sms39",
+    "id": "sms41",
     "igdbId": 46136,
     "gbId": null,
     "gbGuid": null,
@@ -970,7 +1022,7 @@
   },
   {
     "name": "Penguin Land",
-    "id": "sms40",
+    "id": "sms42",
     "igdbId": 49152,
     "gbId": 15446,
     "gbGuid": "3030-15446",
@@ -994,7 +1046,7 @@
   },
   {
     "name": "Poseidon Wars 3-D",
-    "id": "sms41",
+    "id": "sms43",
     "igdbId": 46134,
     "gbId": 20312,
     "gbGuid": "3030-20312",
@@ -1018,7 +1070,7 @@
   },
   {
     "name": "Power Strike",
-    "id": "sms42",
+    "id": "sms44",
     "igdbId": 46132,
     "gbId": 3130,
     "gbGuid": "3030-3130",
@@ -1042,7 +1094,7 @@
   },
   {
     "name": "Pro Wrestling",
-    "id": "sms43",
+    "id": "sms45",
     "igdbId": 18143,
     "gbId": 4962,
     "gbGuid": "3030-4962",
@@ -1066,7 +1118,7 @@
   },
   {
     "name": "Psycho Fox",
-    "id": "sms44",
+    "id": "sms46",
     "igdbId": 46131,
     "gbId": 18090,
     "gbGuid": "3030-18090",
@@ -1096,7 +1148,7 @@
   },
   {
     "name": "R.C. Grand Prix",
-    "id": "sms45",
+    "id": "sms47",
     "igdbId": 46336,
     "gbId": 6208,
     "gbGuid": "3030-6208",
@@ -1120,7 +1172,7 @@
   },
   {
     "name": "Rambo III",
-    "id": "sms46",
+    "id": "sms48",
     "igdbId": 18145,
     "gbId": 1172,
     "gbGuid": "3030-1172",
@@ -1157,7 +1209,7 @@
   },
   {
     "name": "Rescue Mission",
-    "id": "sms47",
+    "id": "sms49",
     "igdbId": 18140,
     "gbId": 4358,
     "gbGuid": "3030-4358",
@@ -1183,7 +1235,7 @@
   },
   {
     "name": "Rocky",
-    "id": "sms48",
+    "id": "sms50",
     "igdbId": 37175,
     "gbId": 26048,
     "gbGuid": "3030-26048",
@@ -1207,7 +1259,7 @@
   },
   {
     "name": "Running Battle",
-    "id": "sms49",
+    "id": "sms51",
     "igdbId": 19511,
     "gbId": 45429,
     "gbGuid": "3030-45429",
@@ -1231,7 +1283,7 @@
   },
   {
     "name": "Safari Hunt",
-    "id": "sms50",
+    "id": "sms52",
     "igdbId": 94935,
     "gbId": 13798,
     "gbGuid": "3030-13798",
@@ -1257,7 +1309,7 @@
   },
   {
     "name": "Sega World Tournament Golf",
-    "id": "sms51",
+    "id": "sms53",
     "igdbId": 46128,
     "gbId": null,
     "gbGuid": null,
@@ -1281,7 +1333,7 @@
   },
   {
     "name": "Shooting Gallery",
-    "id": "sms52",
+    "id": "sms54",
     "igdbId": 79985,
     "gbId": 39454,
     "gbGuid": "3030-39454",
@@ -1307,7 +1359,7 @@
   },
   {
     "name": "Sitio do Picapau Amarelo",
-    "id": "sms53",
+    "id": "sms55",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1342,7 +1394,7 @@
   },
   {
     "name": "Slap Shot",
-    "id": "sms54",
+    "id": "sms56",
     "igdbId": 81281,
     "gbId": 40439,
     "gbGuid": "3030-40439",
@@ -1366,13 +1418,14 @@
   },
   {
     "name": "Snail Maze",
-    "id": "sms55",
+    "id": "sms57",
     "igdbId": 46118,
     "gbId": 21555,
     "gbGuid": "3030-21555",
     "tgdbId": 36132,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System built-in game (some models)"
     ],
     "isExclusive": [
       {
@@ -1385,12 +1438,50 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System built-in game (some models)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "id": "sms58",
+    "igdbId": 106274,
+    "gbId": 2465,
+    "gbGuid": "3030-2465",
+    "details": [
+      "Sega Master System built-in game (some models)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System built-in game (some models)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Space Gun",
-    "id": "sms56",
+    "id": "sms59",
     "igdbId": 12856,
     "gbId": 15378,
     "gbGuid": "3030-15378",
@@ -1416,7 +1507,7 @@
   },
   {
     "name": "Space Harrier 3-D",
-    "id": "sms57",
+    "id": "sms60",
     "igdbId": 46126,
     "gbId": 10291,
     "gbGuid": "3030-10291",
@@ -1440,7 +1531,7 @@
   },
   {
     "name": "SpellCaster",
-    "id": "sms58",
+    "id": "sms61",
     "igdbId": 46124,
     "gbId": 10557,
     "gbGuid": "3030-10557",
@@ -1464,7 +1555,7 @@
   },
   {
     "name": "Taz-Mania",
-    "id": "sms59",
+    "id": "sms62",
     "igdbId": 8066,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -1488,7 +1579,7 @@
   },
   {
     "name": "Tecmo World Cup '93",
-    "id": "sms60",
+    "id": "sms63",
     "igdbId": 46101,
     "gbId": 23136,
     "gbGuid": "3030-23136",
@@ -1512,7 +1603,7 @@
   },
   {
     "name": "The Cyber Shinobi",
-    "id": "sms61",
+    "id": "sms64",
     "igdbId": 10218,
     "gbId": null,
     "gbGuid": null,
@@ -1536,7 +1627,7 @@
   },
   {
     "name": "TransBot",
-    "id": "sms62",
+    "id": "sms65",
     "igdbId": 29136,
     "gbId": 15686,
     "gbGuid": "3030-15686",
@@ -1560,7 +1651,7 @@
   },
   {
     "name": "Wanted",
-    "id": "sms63",
+    "id": "sms66",
     "igdbId": 75090,
     "gbId": 15956,
     "gbGuid": "3030-15956",
@@ -1603,7 +1694,7 @@
   },
   {
     "name": "Wonder Boy in Monster Land",
-    "id": "sms64",
+    "id": "sms67",
     "igdbId": 39335,
     "gbId": 6949,
     "gbGuid": "3030-6949",
@@ -1626,7 +1717,7 @@
   },
   {
     "name": "World Grand Prix",
-    "id": "sms65",
+    "id": "sms68",
     "igdbId": 29132,
     "gbId": 20203,
     "gbGuid": "3030-20203",
@@ -1650,7 +1741,7 @@
   },
   {
     "name": "Zillion",
-    "id": "sms66",
+    "id": "sms69",
     "igdbId": 18141,
     "gbId": 8152,
     "gbGuid": "3030-8152",
@@ -1674,7 +1765,7 @@
   },
   {
     "name": "Zillion II: The Tri Formation",
-    "id": "sms67",
+    "id": "sms70",
     "igdbId": 46114,
     "gbId": 19742,
     "gbGuid": "3030-19742",

@@ -1094,8 +1094,7 @@
     "gbId": null,
     "gbGuid": null,
     "details": [
-      "Sega Saturn exclusive",
-      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4"
+      "Sega Saturn exclusive"
     ],
     "isExclusive": [
       {
@@ -1108,19 +1107,7 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [
-      {
-        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4",
-        "forPlatform": {
-          "name": "Sega Saturn",
-          "id": "ccl17",
-          "igdbId": 32,
-          "gbId": 42,
-          "gbGuid": "3045-42",
-          "tgdbId": 17
-        }
-      }
-    ],
+    "special": [],
     "misprintsErrors": []
   },
   {
@@ -3390,8 +3377,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "Worldwide Soccer: Sega International Victory Goal Edition",
+    "name": "World Wide Soccer ’98",
     "id": "ssat138",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Saturn Multiplayer Adapter compatible title – 1 to 4"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn Multiplayer Adapter compatible title – 1 to 4",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Worldwide Soccer: Sega International Victory Goal Edition",
+    "id": "ssat139",
     "igdbId": 19755,
     "gbId": 19794,
     "gbGuid": "3030-19794",
@@ -3438,7 +3451,7 @@
   },
   {
     "name": "Worms",
-    "id": "ssat139",
+    "id": "ssat140",
     "igdbId": 9331,
     "gbId": 2007,
     "gbGuid": "3030-2007",

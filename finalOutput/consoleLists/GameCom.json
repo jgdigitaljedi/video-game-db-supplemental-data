@@ -76,7 +76,8 @@
     "gbId": 4607,
     "gbGuid": "3030-4607",
     "details": [
-      "Tiger Game.com launch title"
+      "Tiger Game.com launch title",
+      "Tiger Game.com built-in game"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -89,7 +90,19 @@
         "tgdbId": 4940
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Tiger Game.com built-in game",
+        "forPlatform": {
+          "name": "Game.com",
+          "id": "ccl46",
+          "igdbId": null,
+          "gbId": 77,
+          "gbGuid": "3045-77",
+          "tgdbId": 4940
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {

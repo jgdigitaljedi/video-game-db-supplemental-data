@@ -65,9 +65,19 @@
     "gbGuid": "3030-3142",
     "tgdbId": 5256,
     "details": [
-      "Atari Jaguar CD launch title"
+      "Atari Jaguar CD launch title",
+      "Atari Jaguar CD exclusive game"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Atari Jaguar CD",
+        "id": "ccl43",
+        "igdbId": 62,
+        "gbId": 171,
+        "gbGuid": "3045-171",
+        "tgdbId": 29
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Atari Jaguar CD",
@@ -82,31 +92,8 @@
     "misprintsErrors": []
   },
   {
-    "name": "Blue Lightning",
-    "id": "ajcd3",
-    "igdbId": 12364,
-    "gbId": 3142,
-    "gbGuid": "3030-3142",
-    "details": [
-      "Atari Jaguar CD exclusive game"
-    ],
-    "isExclusive": [
-      {
-        "name": "Atari Jaguar CD",
-        "id": "ccl43",
-        "igdbId": 62,
-        "gbId": 171,
-        "gbGuid": "3045-171",
-        "tgdbId": 29
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
     "name": "Highlander: The Last of the MacLeods",
-    "id": "ajcd4",
+    "id": "ajcd3",
     "igdbId": 46925,
     "gbId": 10156,
     "gbGuid": "3030-10156",
@@ -140,7 +127,7 @@
   },
   {
     "name": "Hover Strike: Unconquered Lands",
-    "id": "ajcd5",
+    "id": "ajcd4",
     "igdbId": 46924,
     "gbId": 19650,
     "gbGuid": "3030-19650",
@@ -174,7 +161,7 @@
   },
   {
     "name": "Myst",
-    "id": "ajcd6",
+    "id": "ajcd5",
     "igdbId": 236,
     "gbId": 3970,
     "gbGuid": "3030-3970",
@@ -198,7 +185,7 @@
   },
   {
     "name": "Vid Grid",
-    "id": "ajcd7",
+    "id": "ajcd6",
     "igdbId": 71297,
     "gbId": 2471,
     "gbGuid": "3030-2471",
@@ -222,7 +209,7 @@
   },
   {
     "name": "World Tour Racing",
-    "id": "ajcd8",
+    "id": "ajcd7",
     "igdbId": 46923,
     "gbId": 14464,
     "gbGuid": "3030-14464",

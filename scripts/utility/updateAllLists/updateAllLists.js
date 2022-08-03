@@ -41,7 +41,9 @@ function launchExclusives(data, which, pData, final) {
         for (let i = 0; i < data.length; i++) {
           const game = data[i];
           const finalsIds = finalClone.map(g => g.igdbId);
+          const finalsNames = finalClone.map(g => g.name);
           const existingId = finalsIds.indexOf(game.igdbId);
+          const existingName = finalsNames.indexOf(game.name);
           if (existingId > -1) {
             if (!Array.isArray(finalClone[existingId][whichProp])) {
               finalClone[existingId][whichProp] = [];
@@ -52,6 +54,17 @@ function launchExclusives(data, which, pData, final) {
             if (finalClone[existingId].details.indexOf(game.details) < 0) {
               finalClone[existingId][whichProp].push(pData);
               finalClone[existingId].details.push(game.details);
+            }
+          } else if (existingName > -1) {
+            if (!Array.isArray(finalClone[existingName][whichProp])) {
+              finalClone[existingName][whichProp] = [];
+            }
+            if (!Array.isArray(finalClone[existingName].details)) {
+              finalClone[existingName].details = [];
+            }
+            if (finalClone[existingName].details.indexOf(game.details) < 0) {
+              finalClone[existingName][whichProp].push(pData);
+              finalClone[existingName].details.push(game.details);
             }
           } else {
             const newEntry = getNewEntry(game);
@@ -84,10 +97,14 @@ function misprintLogic(data, pData, final) {
         let finalClone = _cloneDeep(final);
         for (let i = 0; i < data.length; i++) {
           const finalsIds = finalClone.map(g => g.igdbId);
+          const finalsNames = finalClone.map(g => g.name);
           const game = data[i];
           const existingId = finalsIds.indexOf(game.igdbId);
+          const existingName = finalsIds.indexOf(game.name);
           if (existingId > -1) {
             finalClone[existingId].misprintsErrors.push(getMisprintObj(game));
+          } else if (existingName > -1) {
+            finalClone[existingName].misprintsErrors.push(getMisprintObj(game));
           } else {
             const newEntry = getNewEntry(game);
             newEntry.misprintsErrors.push(getMisprintObj(game));
@@ -116,9 +133,39 @@ async function handleSpecialList(list, pData, final) {
       const listLast = (list && list.length - 1) || 0;
       for (let i = 0; i < list.length; i++) {
         const finalsIds = finalClone.map(g => g.igdbId);
+        const finalsName = finalClone.map(g => g.name);
         const game = list[i];
         const existingId = finalsIds.indexOf(game.igdbId);
-        if (existingId > -1) {
+        if (!game.igdbId) {
+          const existingName = finalsName.indexOf(game.name);
+          if (existingName > -1) {
+            finalClone[existingName].special.push({
+              value: Array.isArray(game.details) ? game.details[0] : game.details,
+              forPlatform: pData
+            });
+            const dedpuedSpecial = _uniqBy(finalClone[existingName].special, 'value');
+            finalClone[existingName].special = dedpuedSpecial;
+            finalClone[existingName].details = _uniq(
+              _flatten([...finalClone[existingName].details, game.details])
+            );
+          } else {
+            const newEntry = getNewEntry(game);
+            newEntry.special.push({
+              value: Array.isArray(game.details) ? game.details[0] : game.details,
+              forPlatform: pData
+            });
+            newEntry.details = _flatten([game.details]);
+            finalClone.push(newEntry);
+          }
+        } else if (existingId < 0) {
+          const newEntry = getNewEntry(game);
+          newEntry.special.push({
+            value: Array.isArray(game.details) ? game.details[0] : game.details,
+            forPlatform: pData
+          });
+          newEntry.details = _flatten([game.details]);
+          finalClone.push(newEntry);
+        } else {
           finalClone[existingId].special.push({
             value: Array.isArray(game.details) ? game.details[0] : game.details,
             forPlatform: pData
@@ -128,14 +175,6 @@ async function handleSpecialList(list, pData, final) {
           finalClone[existingId].details = _uniq(
             _flatten([...finalClone[existingId].details, game.details])
           );
-        } else {
-          const newEntry = getNewEntry(game);
-          newEntry.special.push({
-            value: Array.isArray(game.details) ? game.details[0] : game.details,
-            forPlatform: pData
-          });
-          newEntry.details = _flatten([game.details]);
-          finalClone.push(newEntry);
         }
         if (listLast === i) {
           resolve(finalClone);

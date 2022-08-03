@@ -7,7 +7,8 @@
     "gbGuid": "3030-27190",
     "tgdbId": 38868,
     "details": [
-      "Bally Astrocade launch title"
+      "Bally Astrocade launch title",
+      "Bally Astrocade built-in game"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -20,7 +21,19 @@
         "tgdbId": 4968
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Bally Astrocade built-in game",
+        "forPlatform": {
+          "name": "Bally Astrocade",
+          "id": "ccl42",
+          "igdbId": 91,
+          "gbId": 120,
+          "gbGuid": "3045-120",
+          "tgdbId": 4968
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -31,7 +44,8 @@
     "gbGuid": "3030-32574",
     "tgdbId": 34925,
     "details": [
-      "Bally Astrocade launch title"
+      "Bally Astrocade launch title",
+      "Bally Astrocade built-in game"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -44,7 +58,19 @@
         "tgdbId": 4968
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Bally Astrocade built-in game",
+        "forPlatform": {
+          "name": "Bally Astrocade",
+          "id": "ccl42",
+          "igdbId": 91,
+          "gbId": 120,
+          "gbGuid": "3045-120",
+          "tgdbId": 4968
+        }
+      }
+    ],
     "misprintsErrors": []
   }
 ]

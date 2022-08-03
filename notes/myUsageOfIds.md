@@ -2,7 +2,7 @@
 
 I simply chose a prefix for each list then slap a number on the end to differentiate. Here's a list for myself so I don't accidentally reuse a prefix:
 
-### Backward Compatibility related
+### Backward Compatibility related (under "special" property in data)
 
 - 360toonebcX - Xbox 360 to Xbox One backward compatible games (Xbox360ToXboxOne.json) | GAMES LIST
 - bccX - Backward Compatible Consoles (backwardCompatibleConsoles.json) | CONSOLE/PLATFORM LIST
@@ -72,12 +72,12 @@ I simply chose a prefix for each list then slap a number on the end to different
 - wstX - Bandai WonderSwan launch titles (wonderswanLaunchTitles.json) | GAMES LIST
 - wultX - Nintendo Wii U launch titles (wiiULaunchTitles.json) | GAMES LIST
 
-### Region Lock Related
+### Region Lock Related (under "special" property in data)
 
 - rleX - PS3 Region Lock Exceptions (ps3RegionLockExceptions.json) | GAMES LIST
 - rfpX - region free consoles/platforms (regionFreePlatforms.json) | CONSOLE/PLATFORM LIST
 
-### Multiplayer related
+### Multiplayer related (under "special" property in data)
 
 - nesfsX - NES Four Score compatible games (nesFourScore.json) | GAMES LIST
 - ngaluX - Neo Geo AES 4 player Link-Up games (neoGeoAesLinkUp.json) | GAMES LIST
@@ -89,7 +89,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - snessmX - SNES Super Multitap compatible games (snesSuperMultitap.json) | GAMES LIST
 - tg16mtX - TurboGrafx-16 Multitap compatible games (tg16Multitap.json) | GAMES LIST
 
-### Special/Misc
+### Special/Misc (under "special" property in data)
 
 - a2600lgX - Atari 2600 light gun games (atari2600LightGunGames.json) | GAMES LIST
 - a7800lgX - Atari 7800 light gun games (atari7800LightGunGames.json) | GAMES LIST
@@ -161,7 +161,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - xb360exX - Microsoft Xbox 360 console exclusives (xbox360Exclusives.json | GAMES LIST)
 - xbexX - Microsoft Xbox console exclusives (microsoftXboxExclusives.json | GAMES LIST)
 
-### Greatest Hits/Player's Choice/Nintendo Selects/All-Stars/Platinum/etc
+### Greatest Hits/Player's Choice/Nintendo Selects/All-Stars/Platinum/etc (under "special" property in data)
 
 - 3dsnsX - Nintendo 3DS Nintendo Selects (3dsNintendoSelects.json | GAMES LIST)
 - dcasX - Sega Dreamcast All-Stars (North America) (dreamcastNAAllStars.json | GAMES LIST)
@@ -230,3 +230,10 @@ I simply chose a prefix for each list then slap a number on the end to different
 - xb360geX - Microsoft Xbox 360 Misprints/Errors (xbox360MisprintsAndErrors.json | GAMES LIST)
 - xbonegeX - Microsoft Xbox One Misprints/Errors (xboxOneMisprintsAndErrors.json | GAMES LIST)
 - xboxgeX - Microsoft Xbox Misprints/Errors (xboxMisprintsAndErrors.json | GAMES LIST)
+
+### Built-in Games (under "special" property in data)
+
+- babi - Bally Asctrocade built-in games (astrocadeBuiltInGames.json | GAMES LIST)
+- fcfbi - Fairchild Channel F built-in games (fairchildChannelFBuiltInGames.json | GAMES LIST)
+- smsbi - Sega Master System built-in games (segaMasterSystemBuiltInGames.json | GAMES LIST)
+- tgcbi - Tiger Game.com built-in games (tigerGameComBuiltInGames.json | GAMES LIST)
