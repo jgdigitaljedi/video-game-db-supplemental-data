@@ -106,6 +106,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - scdmX - Sega CD Menacer games (segaCDMenacerGames.json) | GAMES LIST
 - scdlgX - Sega Dreamcast light gun games (segaDreamcastLightGunGames.json) | GAMES LIST
 - sgsmX - Sega Genesis Menacer games (segaMenacerGenesisGames.json) | GAMES LIST
+- sms3dX - Sega Master System 3D games (segaMasterSystem3dGames.json) | GAMES LIST
 - smspX - Sega Master System Phaser games (segaMasterSystemPhaserGames.json) | GAMES LIST
 - snesssX - SNES Super Scope games (snesSuperScopeGames.json) | GAMES LIST
 - spslgX - Sony PlayStation light gun games (sonyPlaystationLightGunGames.json) | GAMES LIST

@@ -327,7 +327,8 @@
     "gbGuid": "3030-18151",
     "tgdbId": 2707,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System 3D game (3-D Glasses)"
     ],
     "isExclusive": [
       {
@@ -340,7 +341,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System 3D game (3-D Glasses)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -818,8 +831,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "Lord of the Sword",
+    "name": "Line of Fire",
     "id": "sms34",
+    "igdbId": 19487,
+    "gbId": 3688,
+    "gbGuid": "3030-3688",
+    "details": [
+      "Sega Master System 3D game (3-D Glasses)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System 3D game (3-D Glasses)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lord of the Sword",
+    "id": "sms35",
     "igdbId": 46671,
     "gbId": 10880,
     "gbGuid": "3030-10880",
@@ -843,7 +882,7 @@
   },
   {
     "name": "Marksman Shooting & Trap Shooting",
-    "id": "sms35",
+    "id": "sms36",
     "igdbId": 78779,
     "gbId": 4368,
     "gbGuid": "3030-4368",
@@ -879,13 +918,40 @@
     "misprintsErrors": []
   },
   {
+    "name": "Maze Hunter 3-D",
+    "id": "sms37",
+    "igdbId": 45674,
+    "gbId": 11858,
+    "gbGuid": "3030-11858",
+    "details": [
+      "Sega Master System 3D game (3-D Glasses)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System 3D game (3-D Glasses)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Missile Defense 3-D",
-    "id": "sms36",
+    "id": "sms38",
     "igdbId": 45672,
     "gbId": 19870,
     "gbGuid": "3030-19870",
     "details": [
-      "Sega Master System Phaser game"
+      "Sega Master System Phaser game",
+      "Sega Master System 3D game (3-D Glasses)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -900,13 +966,24 @@
           "gbGuid": "3045-8",
           "tgdbId": 35
         }
+      },
+      {
+        "value": "Sega Master System 3D game (3-D Glasses)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Monopoly",
-    "id": "sms37",
+    "id": "sms39",
     "igdbId": 122241,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -930,7 +1007,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "sms38",
+    "id": "sms40",
     "igdbId": 131548,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -948,7 +1025,7 @@
   },
   {
     "name": "Ninja Gaiden",
-    "id": "sms39",
+    "id": "sms41",
     "igdbId": 7558,
     "gbId": 1653,
     "gbGuid": "3030-1653",
@@ -972,7 +1049,7 @@
   },
   {
     "name": "Operation Wolf",
-    "id": "sms40",
+    "id": "sms42",
     "igdbId": 12190,
     "gbId": 14869,
     "gbGuid": "3030-14869",
@@ -998,13 +1075,14 @@
   },
   {
     "name": "OutRun 3-D",
-    "id": "sms41",
+    "id": "sms43",
     "igdbId": 46136,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 2949,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System 3D game (3-D Glasses)"
     ],
     "isExclusive": [
       {
@@ -1017,12 +1095,24 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System 3D game (3-D Glasses)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Penguin Land",
-    "id": "sms42",
+    "id": "sms44",
     "igdbId": 49152,
     "gbId": 15446,
     "gbGuid": "3030-15446",
@@ -1046,13 +1136,14 @@
   },
   {
     "name": "Poseidon Wars 3-D",
-    "id": "sms43",
+    "id": "sms45",
     "igdbId": 46134,
     "gbId": 20312,
     "gbGuid": "3030-20312",
     "tgdbId": 2971,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System 3D game (3-D Glasses)"
     ],
     "isExclusive": [
       {
@@ -1065,12 +1156,24 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System 3D game (3-D Glasses)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Power Strike",
-    "id": "sms44",
+    "id": "sms46",
     "igdbId": 46132,
     "gbId": 3130,
     "gbGuid": "3030-3130",
@@ -1094,7 +1197,7 @@
   },
   {
     "name": "Pro Wrestling",
-    "id": "sms45",
+    "id": "sms47",
     "igdbId": 18143,
     "gbId": 4962,
     "gbGuid": "3030-4962",
@@ -1118,7 +1221,7 @@
   },
   {
     "name": "Psycho Fox",
-    "id": "sms46",
+    "id": "sms48",
     "igdbId": 46131,
     "gbId": 18090,
     "gbGuid": "3030-18090",
@@ -1148,7 +1251,7 @@
   },
   {
     "name": "R.C. Grand Prix",
-    "id": "sms47",
+    "id": "sms49",
     "igdbId": 46336,
     "gbId": 6208,
     "gbGuid": "3030-6208",
@@ -1172,7 +1275,7 @@
   },
   {
     "name": "Rambo III",
-    "id": "sms48",
+    "id": "sms50",
     "igdbId": 18145,
     "gbId": 1172,
     "gbGuid": "3030-1172",
@@ -1209,7 +1312,7 @@
   },
   {
     "name": "Rescue Mission",
-    "id": "sms49",
+    "id": "sms51",
     "igdbId": 18140,
     "gbId": 4358,
     "gbGuid": "3030-4358",
@@ -1235,7 +1338,7 @@
   },
   {
     "name": "Rocky",
-    "id": "sms50",
+    "id": "sms52",
     "igdbId": 37175,
     "gbId": 26048,
     "gbGuid": "3030-26048",
@@ -1259,7 +1362,7 @@
   },
   {
     "name": "Running Battle",
-    "id": "sms51",
+    "id": "sms53",
     "igdbId": 19511,
     "gbId": 45429,
     "gbGuid": "3030-45429",
@@ -1283,7 +1386,7 @@
   },
   {
     "name": "Safari Hunt",
-    "id": "sms52",
+    "id": "sms54",
     "igdbId": 94935,
     "gbId": 13798,
     "gbGuid": "3030-13798",
@@ -1309,7 +1412,7 @@
   },
   {
     "name": "Sega World Tournament Golf",
-    "id": "sms53",
+    "id": "sms55",
     "igdbId": 46128,
     "gbId": null,
     "gbGuid": null,
@@ -1333,7 +1436,7 @@
   },
   {
     "name": "Shooting Gallery",
-    "id": "sms54",
+    "id": "sms56",
     "igdbId": 79985,
     "gbId": 39454,
     "gbGuid": "3030-39454",
@@ -1359,7 +1462,7 @@
   },
   {
     "name": "Sitio do Picapau Amarelo",
-    "id": "sms55",
+    "id": "sms57",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1394,7 +1497,7 @@
   },
   {
     "name": "Slap Shot",
-    "id": "sms56",
+    "id": "sms58",
     "igdbId": 81281,
     "gbId": 40439,
     "gbGuid": "3030-40439",
@@ -1418,7 +1521,7 @@
   },
   {
     "name": "Snail Maze",
-    "id": "sms57",
+    "id": "sms59",
     "igdbId": 46118,
     "gbId": 21555,
     "gbGuid": "3030-21555",
@@ -1455,7 +1558,7 @@
   },
   {
     "name": "Sonic the Hedgehog",
-    "id": "sms58",
+    "id": "sms60",
     "igdbId": 106274,
     "gbId": 2465,
     "gbGuid": "3030-2465",
@@ -1481,7 +1584,7 @@
   },
   {
     "name": "Space Gun",
-    "id": "sms59",
+    "id": "sms61",
     "igdbId": 12856,
     "gbId": 15378,
     "gbGuid": "3030-15378",
@@ -1507,13 +1610,14 @@
   },
   {
     "name": "Space Harrier 3-D",
-    "id": "sms60",
+    "id": "sms62",
     "igdbId": 46126,
     "gbId": 10291,
     "gbGuid": "3030-10291",
     "tgdbId": 3021,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System 3D game (3-D Glasses)"
     ],
     "isExclusive": [
       {
@@ -1526,12 +1630,24 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System 3D game (3-D Glasses)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "SpellCaster",
-    "id": "sms61",
+    "id": "sms63",
     "igdbId": 46124,
     "gbId": 10557,
     "gbGuid": "3030-10557",
@@ -1555,7 +1671,7 @@
   },
   {
     "name": "Taz-Mania",
-    "id": "sms62",
+    "id": "sms64",
     "igdbId": 8066,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -1579,7 +1695,7 @@
   },
   {
     "name": "Tecmo World Cup '93",
-    "id": "sms63",
+    "id": "sms65",
     "igdbId": 46101,
     "gbId": 23136,
     "gbGuid": "3030-23136",
@@ -1603,7 +1719,7 @@
   },
   {
     "name": "The Cyber Shinobi",
-    "id": "sms64",
+    "id": "sms66",
     "igdbId": 10218,
     "gbId": null,
     "gbGuid": null,
@@ -1627,7 +1743,7 @@
   },
   {
     "name": "TransBot",
-    "id": "sms65",
+    "id": "sms67",
     "igdbId": 29136,
     "gbId": 15686,
     "gbGuid": "3030-15686",
@@ -1651,7 +1767,7 @@
   },
   {
     "name": "Wanted",
-    "id": "sms66",
+    "id": "sms68",
     "igdbId": 75090,
     "gbId": 15956,
     "gbGuid": "3030-15956",
@@ -1694,7 +1810,7 @@
   },
   {
     "name": "Wonder Boy in Monster Land",
-    "id": "sms67",
+    "id": "sms69",
     "igdbId": 39335,
     "gbId": 6949,
     "gbGuid": "3030-6949",
@@ -1717,7 +1833,7 @@
   },
   {
     "name": "World Grand Prix",
-    "id": "sms68",
+    "id": "sms70",
     "igdbId": 29132,
     "gbId": 20203,
     "gbGuid": "3030-20203",
@@ -1740,8 +1856,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Zaxxon 3-D",
+    "id": "sms71",
+    "igdbId": 46104,
+    "gbId": 1728,
+    "gbGuid": "3030-1728",
+    "details": [
+      "Sega Master System 3D game (3-D Glasses)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System 3D game (3-D Glasses)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Zillion",
-    "id": "sms69",
+    "id": "sms72",
     "igdbId": 18141,
     "gbId": 8152,
     "gbGuid": "3030-8152",
@@ -1765,7 +1907,7 @@
   },
   {
     "name": "Zillion II: The Tri Formation",
-    "id": "sms70",
+    "id": "sms73",
     "igdbId": 46114,
     "gbId": 19742,
     "gbGuid": "3030-19742",
