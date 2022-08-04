@@ -103,8 +103,18 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ps1lbX - Sony PlayStation long box games (playstationLongboxGames.json) | GAMES LIST
 - neshtgX - NES hang tab games (nesHangtabGames.json) | GAMES LIST
 - neslgX - NES light gun games (nesLightGunGames.json) | GAMES LIST
+- s326bX - Sega 32X 6 button games (sega32x6ButtonGames.json) | GAMES LIST
+- s326bhX - Sega 32X 6 button hidden functionality (sega32x6ButtonHidden.json) | GAMES LIST
+- s326pmX - Sega 32X 6 button MODE button extra functionality (sega32x6ButtonMode.json) | GAMES LIST
 - scdmX - Sega CD Menacer games (segaCDMenacerGames.json) | GAMES LIST
+- scd6bX - Sega CD 6 button compatible games (segaCd6ButtonGames.json) | GAMES LIST
+- scd6bmX - Sega CD 6 button MODE extra functionality (segaCd6ButuonMode.json) | GAMES LIST
+- scd6pX - Sega CD 6 button problem games (segaCd6ButtonGames.json) | GAMES LIST
 - scdlgX - Sega Dreamcast light gun games (segaDreamcastLightGunGames.json) | GAMES LIST
+- sg6bX - Sega Genesis 6 button compatible games (segaGenesis6ButtonGames.json) | GAMES LIST
+- sg6bhX - Sega Genesis 6 button hidden functionality (segaGenesis6ButtonHidden.json) | GAMES LIST
+- sg6bpX - Sega Genesis 6 button problem games (segaGenesis6ButtonProblems.json) | GAMES LIST
+- sg6pmX - Sega Genesis 6 button MODE button extra functionality (segaGenesis6ButtonMode.json) | GAMES LIST
 - sgsmX - Sega Genesis Menacer games (segaMenacerGenesisGames.json) | GAMES LIST
 - sms3dX - Sega Master System 3D games (segaMasterSystem3dGames.json) | GAMES LIST
 - smspX - Sega Master System Phaser games (segaMasterSystemPhaserGames.json) | GAMES LIST

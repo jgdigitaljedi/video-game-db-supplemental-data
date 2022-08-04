@@ -251,7 +251,11 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'special/blackBoxGridGenesisGames.json')),
       require(path.resolve(smallFiles, 'multiplayer/segaGenesisTeamPlayer.json')),
-      require(path.resolve(smallFiles, 'special/segaMenacerGenesisGames.json'))
+      require(path.resolve(smallFiles, 'special/segaMenacerGenesisGames.json')),
+      require(path.resolve(smallFiles, 'special/segaGenesis6ButtonGames.json')),
+      require(path.resolve(smallFiles, 'special/segaGenesis6ButtonProblems.json')),
+      require(path.resolve(smallFiles, 'special/segaGenesis6ButtonMode.json')),
+      require(path.resolve(smallFiles, 'special/segaGenesis6ButtonHidden.json'))
     ],
     output: path.resolve(consoleLists, 'SegaGenesis.json')
   },
@@ -267,7 +271,10 @@ module.exports.listData = [
     )),
     special: [
       require(path.resolve(smallFiles, 'multiplayer/segaCdTeamPlayer.json')),
-      require(path.resolve(smallFiles, 'special/segaCDMenacerGames.json'))
+      require(path.resolve(smallFiles, 'special/segaCDMenacerGames.json')),
+      require(path.resolve(smallFiles, 'special/segaCd6ButtonGames.json')),
+      require(path.resolve(smallFiles, 'special/segaCd6ButtonProblems.json')),
+      require(path.resolve(smallFiles, 'special/segaCd6ButtonMode.json'))
     ],
     output: path.resolve(consoleLists, 'SegaCD.json')
   },
@@ -281,7 +288,12 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/sega32xMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'multiplayer/sega32xTeamPlayer.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'multiplayer/sega32xTeamPlayer.json')),
+      require(path.resolve(smallFiles, 'special/sega32x6ButtonGames.json')),
+      require(path.resolve(smallFiles, 'special/sega32x6ButtonMode.json')),
+      require(path.resolve(smallFiles, 'special/sega32x6ButtonHidden.json'))
+    ],
     output: path.resolve(consoleLists, 'Sega32X.json')
   },
   {

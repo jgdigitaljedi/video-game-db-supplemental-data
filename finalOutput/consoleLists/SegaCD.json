@@ -102,14 +102,42 @@
     ]
   },
   {
-    "name": "BattleCorps",
+    "name": "BC Racers",
     "id": "scd4",
+    "igdbId": 5362,
+    "gbId": 16086,
+    "gbGuid": "3030-16086",
+    "details": [
+      "Sega CD 6 button compatible game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD 6 button compatible game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "BattleCorps",
+    "id": "scd5",
     "igdbId": 46423,
     "gbId": 210,
     "gbGuid": "3030-210",
     "tgdbId": 4940,
     "details": [
-      "Sega CD exclusive"
+      "Sega CD exclusive",
+      "Sega CD 6 button compatible game",
+      "Sega CD 6 button controller MODE button extra functionality"
     ],
     "isExclusive": [
       {
@@ -122,12 +150,35 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega CD 6 button compatible game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      },
+      {
+        "value": "Sega CD 6 button controller MODE button extra functionality",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "BlackHole Assault",
-    "id": "scd5",
+    "id": "scd6",
     "igdbId": 5365,
     "gbId": 37977,
     "gbGuid": "3030-37977",
@@ -151,7 +202,7 @@
   },
   {
     "name": "Bouncers",
-    "id": "scd6",
+    "id": "scd7",
     "igdbId": 46422,
     "gbId": 7462,
     "gbGuid": "3030-7462",
@@ -174,8 +225,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Brutal: Paws of Fury",
+    "id": "scd8",
+    "igdbId": 4449,
+    "gbId": 10640,
+    "gbGuid": "3030-10640",
+    "details": [
+      "Sega CD 6 button compatible game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD 6 button compatible game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Captain Tsubasa",
-    "id": "scd7",
+    "id": "scd9",
     "igdbId": 5369,
     "gbId": 38265,
     "gbGuid": "3030-38265",
@@ -199,7 +276,7 @@
   },
   {
     "name": "Chuck Rock",
-    "id": "scd8",
+    "id": "scd10",
     "igdbId": 4516,
     "gbId": 2941,
     "gbGuid": "3030-2941",
@@ -223,7 +300,7 @@
   },
   {
     "name": "Cobra Command",
-    "id": "scd9",
+    "id": "scd11",
     "igdbId": 5371,
     "gbId": 30888,
     "gbGuid": "3030-30888",
@@ -247,7 +324,7 @@
   },
   {
     "name": "Corpse Killer",
-    "id": "scd10",
+    "id": "scd12",
     "igdbId": 5372,
     "gbId": 2817,
     "gbGuid": "3030-2817",
@@ -273,7 +350,7 @@
   },
   {
     "name": "Crime Patrol",
-    "id": "scd11",
+    "id": "scd13",
     "igdbId": 5373,
     "gbId": 14268,
     "gbGuid": "3030-14268",
@@ -299,7 +376,7 @@
   },
   {
     "name": "Dark Wizard",
-    "id": "scd12",
+    "id": "scd14",
     "igdbId": 5374,
     "gbId": 15251,
     "gbGuid": "3030-15251",
@@ -323,7 +400,7 @@
   },
   {
     "name": "Dungeon Explorer",
-    "id": "scd13",
+    "id": "scd15",
     "igdbId": 19742,
     "gbId": 28218,
     "gbGuid": "3030-28218",
@@ -349,7 +426,7 @@
   },
   {
     "name": "Dynamic Country Club: 3D Golf Simulation",
-    "id": "scd14",
+    "id": "scd16",
     "igdbId": 45873,
     "gbId": null,
     "gbGuid": null,
@@ -375,7 +452,7 @@
   },
   {
     "name": "ESPN NBA HangTime '95",
-    "id": "scd15",
+    "id": "scd17",
     "igdbId": 46406,
     "gbId": 10512,
     "gbGuid": "3030-10512",
@@ -412,7 +489,7 @@
   },
   {
     "name": "ESPN National Hockey Night",
-    "id": "scd16",
+    "id": "scd18",
     "igdbId": 5381,
     "gbId": 30852,
     "gbGuid": "3030-30852",
@@ -438,13 +515,14 @@
   },
   {
     "name": "Eternal Champions: Challenge from the Dark Side",
-    "id": "scd17",
+    "id": "scd19",
     "igdbId": 5383,
     "gbId": 8021,
     "gbGuid": "3030-8021",
     "tgdbId": 5010,
     "details": [
-      "Sega CD exclusive"
+      "Sega CD exclusive",
+      "Sega CD 6 button compatible game"
     ],
     "isExclusive": [
       {
@@ -457,12 +535,50 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega CD 6 button compatible game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fatal Fury Special",
+    "id": "scd20",
+    "igdbId": 5385,
+    "gbId": 19200,
+    "gbGuid": "3030-19200",
+    "details": [
+      "Sega CD 6 button compatible game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD 6 button compatible game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Formula One World Championship: Beyond the Limit",
-    "id": "scd18",
+    "id": "scd21",
     "igdbId": 5388,
     "gbId": 7432,
     "gbGuid": "3030-7432",
@@ -486,7 +602,7 @@
   },
   {
     "name": "Ground Zero: Texas",
-    "id": "scd19",
+    "id": "scd22",
     "igdbId": 5390,
     "gbId": 20309,
     "gbGuid": "3030-20309",
@@ -510,7 +626,7 @@
   },
   {
     "name": "Heart of the Alien: Out of this World Parts I And II",
-    "id": "scd20",
+    "id": "scd23",
     "igdbId": 46420,
     "gbId": 17785,
     "gbGuid": "3030-17785",
@@ -534,7 +650,7 @@
   },
   {
     "name": "INXS: Make My Video",
-    "id": "scd21",
+    "id": "scd24",
     "igdbId": 46418,
     "gbId": 10517,
     "gbGuid": "3030-10517",
@@ -568,7 +684,7 @@
   },
   {
     "name": "Jurassic Park",
-    "id": "scd22",
+    "id": "scd25",
     "igdbId": 4519,
     "gbId": 21383,
     "gbGuid": "3030-21383",
@@ -592,7 +708,7 @@
   },
   {
     "name": "Keio Flying Squadron",
-    "id": "scd23",
+    "id": "scd26",
     "igdbId": 12912,
     "gbId": 16410,
     "gbGuid": "3030-16410",
@@ -622,7 +738,7 @@
   },
   {
     "name": "Kris Kross: Make My Video",
-    "id": "scd24",
+    "id": "scd27",
     "igdbId": 46417,
     "gbId": 10670,
     "gbGuid": "3030-10670",
@@ -646,7 +762,7 @@
   },
   {
     "name": "Lunar: The Silver Star",
-    "id": "scd25",
+    "id": "scd28",
     "igdbId": 5334,
     "gbId": 13562,
     "gbGuid": "3030-13562",
@@ -670,7 +786,7 @@
   },
   {
     "name": "Mad Dog II: The Lost Gold",
-    "id": "scd26",
+    "id": "scd29",
     "igdbId": 4269,
     "gbId": 12886,
     "gbGuid": "3030-12886",
@@ -696,7 +812,7 @@
   },
   {
     "name": "Mad Dog McCree",
-    "id": "scd27",
+    "id": "scd30",
     "igdbId": 4254,
     "gbId": 17486,
     "gbGuid": "3030-17486",
@@ -722,7 +838,7 @@
   },
   {
     "name": "Marky Mark and the Funky Bunch: Make My Video",
-    "id": "scd28",
+    "id": "scd31",
     "igdbId": 46416,
     "gbId": 5307,
     "gbGuid": "3030-5307",
@@ -755,7 +871,7 @@
   },
   {
     "name": "Midnight Raiders",
-    "id": "scd29",
+    "id": "scd32",
     "igdbId": 19743,
     "gbId": 16280,
     "gbGuid": "3030-16280",
@@ -779,7 +895,7 @@
   },
   {
     "name": "Mighty Mighty Missile!",
-    "id": "scd30",
+    "id": "scd33",
     "igdbId": 128890,
     "gbId": null,
     "gbGuid": null,
@@ -805,7 +921,7 @@
   },
   {
     "name": "Mighty Morphin Power Rangers",
-    "id": "scd31",
+    "id": "scd34",
     "igdbId": 3286,
     "gbId": 27002,
     "gbGuid": "3030-27002",
@@ -828,8 +944,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mortal Kombat",
+    "id": "scd35",
+    "igdbId": 1618,
+    "gbId": 15743,
+    "gbGuid": "3030-15743",
+    "details": [
+      "Sega CD 6 button compatible game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD 6 button compatible game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "NBA Jam",
-    "id": "scd32",
+    "id": "scd36",
     "igdbId": 8995,
     "gbId": 16928,
     "gbGuid": "3030-16928",
@@ -855,7 +997,7 @@
   },
   {
     "name": "Night Trap",
-    "id": "scd33",
+    "id": "scd37",
     "igdbId": 2486,
     "gbId": 18648,
     "gbGuid": "3030-18648",
@@ -878,8 +1020,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Pitfall: The Mayan Adventure",
+    "id": "scd38",
+    "igdbId": 5410,
+    "gbId": 9331,
+    "gbGuid": "3030-9331",
+    "details": [
+      "Sega CD 6 button compatible game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD 6 button compatible game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Power Factory Featuring C+C Music Factory",
-    "id": "scd34",
+    "id": "scd39",
     "igdbId": 5420,
     "gbId": 18613,
     "gbGuid": "3030-18613",
@@ -903,7 +1071,7 @@
   },
   {
     "name": "Prize Fighter",
-    "id": "scd35",
+    "id": "scd40",
     "igdbId": 5424,
     "gbId": 8564,
     "gbGuid": "3030-8564",
@@ -927,7 +1095,7 @@
   },
   {
     "name": "RDF Global Conflict",
-    "id": "scd36",
+    "id": "scd41",
     "igdbId": 46606,
     "gbId": null,
     "gbGuid": null,
@@ -951,7 +1119,7 @@
   },
   {
     "name": "Racing Aces",
-    "id": "scd37",
+    "id": "scd42",
     "igdbId": 5426,
     "gbId": 14317,
     "gbGuid": "3030-14317",
@@ -975,7 +1143,7 @@
   },
   {
     "name": "Robo Aleste",
-    "id": "scd38",
+    "id": "scd43",
     "igdbId": 5430,
     "gbId": 12066,
     "gbGuid": "3030-12066",
@@ -998,8 +1166,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Samurai Shodown",
+    "id": "scd44",
+    "igdbId": 4260,
+    "gbId": 5692,
+    "gbGuid": "3030-5692",
+    "details": [
+      "Sega CD 6 button compatible game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD 6 button compatible game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sega Classics Arcade Collection 4-in-1",
-    "id": "scd39",
+    "id": "scd45",
     "igdbId": 5432,
     "gbId": 43485,
     "gbGuid": "3030-43485",
@@ -1033,7 +1227,7 @@
   },
   {
     "name": "Sewer Shark",
-    "id": "scd40",
+    "id": "scd46",
     "igdbId": 4293,
     "gbId": 7427,
     "gbGuid": "3030-7427",
@@ -1057,7 +1251,7 @@
   },
   {
     "name": "Shadowrun",
-    "id": "scd41",
+    "id": "scd47",
     "igdbId": 78514,
     "gbId": 34672,
     "gbGuid": "3030-34672",
@@ -1081,7 +1275,7 @@
   },
   {
     "name": "Sherlock Holmes Consulting Detective",
-    "id": "scd42",
+    "id": "scd48",
     "igdbId": 5435,
     "gbId": 12998,
     "gbGuid": "3030-12998",
@@ -1105,7 +1299,7 @@
   },
   {
     "name": "Shining Force CD",
-    "id": "scd43",
+    "id": "scd49",
     "igdbId": 3198,
     "gbId": 16383,
     "gbGuid": "3030-16383",
@@ -1129,7 +1323,7 @@
   },
   {
     "name": "Sol-Feace",
-    "id": "scd44",
+    "id": "scd50",
     "igdbId": 4388,
     "gbId": 2685,
     "gbGuid": "3030-2685",
@@ -1153,7 +1347,7 @@
   },
   {
     "name": "Soulstar",
-    "id": "scd45",
+    "id": "scd51",
     "igdbId": 5453,
     "gbId": 15595,
     "gbGuid": "3030-15595",
@@ -1183,7 +1377,7 @@
   },
   {
     "name": "Supreme Warrior",
-    "id": "scd46",
+    "id": "scd52",
     "igdbId": 4291,
     "gbId": 13379,
     "gbGuid": "3030-13379",
@@ -1201,7 +1395,7 @@
   },
   {
     "name": "The Adventures of Batman & Robin",
-    "id": "scd47",
+    "id": "scd53",
     "igdbId": 5346,
     "gbId": 12434,
     "gbGuid": "3030-12434",
@@ -1225,7 +1419,7 @@
   },
   {
     "name": "The Masked Rider: Kamen Rider ZO",
-    "id": "scd48",
+    "id": "scd54",
     "igdbId": 46409,
     "gbId": 15630,
     "gbGuid": "3030-15630",
@@ -1248,8 +1442,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "The Terminator",
+    "id": "scd55",
+    "igdbId": 4372,
+    "gbId": 10713,
+    "gbGuid": "3030-10713",
+    "details": [
+      "Sega CD 6 button controller problems (some menus move too fast and cheat codes are hard to input, but is fine in-game)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD 6 button controller problems (some menus move too fast and cheat codes are hard to input, but is fine in-game)",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Third World War",
-    "id": "scd49",
+    "id": "scd56",
     "igdbId": 5457,
     "gbId": 40982,
     "gbGuid": "3030-40982",
@@ -1273,7 +1493,7 @@
   },
   {
     "name": "Vay",
-    "id": "scd50",
+    "id": "scd57",
     "igdbId": 5460,
     "gbId": 13988,
     "gbGuid": "3030-13988",
@@ -1296,13 +1516,14 @@
   },
   {
     "name": "WWF Rage in the Cage",
-    "id": "scd51",
+    "id": "scd58",
     "igdbId": 5465,
     "gbId": 22268,
     "gbGuid": "3030-22268",
     "tgdbId": 5123,
     "details": [
-      "Sega CD exclusive"
+      "Sega CD exclusive",
+      "Sega CD 6 button compatible game"
     ],
     "isExclusive": [
       {
@@ -1315,12 +1536,24 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega CD 6 button compatible game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Who Shot Johnny Rock?",
-    "id": "scd52",
+    "id": "scd59",
     "igdbId": 4281,
     "gbId": 17503,
     "gbGuid": "3030-17503",
@@ -1346,7 +1579,7 @@
   },
   {
     "name": "Wild Woody",
-    "id": "scd53",
+    "id": "scd60",
     "igdbId": 5461,
     "gbId": 20438,
     "gbGuid": "3030-20438",
@@ -1369,8 +1602,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Wing Commander",
+    "id": "scd61",
+    "igdbId": 924,
+    "gbId": 16002,
+    "gbGuid": "3030-16002",
+    "details": [
+      "Sega CD 6 button compatible game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega CD 6 button compatible game",
+        "forPlatform": {
+          "name": "Sega CD",
+          "id": "ccl15",
+          "igdbId": 78,
+          "gbId": 29,
+          "gbGuid": "3045-29",
+          "tgdbId": 21
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Wirehead",
-    "id": "scd54",
+    "id": "scd62",
     "igdbId": 5462,
     "gbId": 5705,
     "gbGuid": "3030-5705",
@@ -1394,7 +1653,7 @@
   },
   {
     "name": "World Cup USA '94",
-    "id": "scd55",
+    "id": "scd63",
     "igdbId": 5464,
     "gbId": 5498,
     "gbGuid": "3030-5498",
