@@ -1598,5 +1598,29 @@
       }
     ],
     "misprintsErrors": []
+  },
+  {
+    "name": "Zero4 Champ",
+    "id": "tg1660",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 40705,
+    "details": [
+      "NEC Turbografx 16 exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "NEC TurboGrafx 16",
+        "id": "ccl33",
+        "igdbId": 86,
+        "gbId": 55,
+        "gbGuid": "3045-55",
+        "tgdbId": 34
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
   }
 ]

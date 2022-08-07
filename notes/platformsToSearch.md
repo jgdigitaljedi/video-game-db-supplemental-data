@@ -26,5 +26,4 @@ The platforms have either not yet been explored or I've not been able to find an
 - Super A'Can
 - Casio Loopy
 - VTech V.Smile
-- XaviXPort
 - Game Wave Family Entertainment System

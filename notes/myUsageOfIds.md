@@ -60,6 +60,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - smltX - Sega Master System launch titles (segaMasterSystemLaunchTitles.json) | GAMES LIST
 - snltX - SNES launch titles (snesLaunchTitles.json) | GAMES LIST
 - ssltX - Sega Saturn launch titles (segaSaturnLaunchTitles.json) | GAMES LIST
+- sxpltX - SSD Company Limited XaviXPORT launch titles (xavixPortLaunchTitles.json) | GAMES LIST
 - t16ltX - NEC TurboGrafx 16 launch titles launch titles (turbografx16LaunchTitles.json) | GAMES LIST
 - tgcdX - NEC TurboGrafx 16 CD launch titles (turbografx16CdLaunchTitles.json) | GAMES LIST
 - vbltX - Nintendo Virtual Boy launch titles (virtualBoyLaunchTitles.json) | GAMES LIST

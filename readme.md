@@ -8,7 +8,7 @@ For now, I'm focused mainly on North American data with some exceptions. I might
 
 Also, since the app isn't the focus here (the JSON files are the focus), there will be console logs, missing error handling, etc. I only need to have this working well enough to get me through all of the json data lists and keep me sane. Features are added only when I am going crazy trying to deal with a particular issue.
 
-### RECENT DEVELOPMENT
+### NOTICE
 
 NOTE: As of 11/7/2019, I have decided to abondon The Games DB. I've had too many problems with their API keys and that API was also getting the last amount of results so, at this point, it doesn't make sense to keep wrestling with it and just move on. I am freezing it in the UI, will eventually remove it from stats, etc. I'll leave the data I've collected for The Games DB API in there for now.
 
@@ -98,6 +98,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 
 ### Console/Platform launch titles
 
+- 3DO Interactive Multiplayer
 - Atari 2600
 - Atari 5200
 - Atari 7800
@@ -108,18 +109,21 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Bandai WonderSwan
 - Bandai WonderSwan Color
 - ColecoVision
-- Game.com
-- Gizmondo
+- Tiger Telematics Gizmondo
 - Magnavox Odyssey 2
 - Mattel Intellivision
 - Microsoft Xbox
 - Microsoft Xbox 360
 - Microsoft Xbox One
 - Microsoft Xbox Series X|S
+- NEC PC-FX
 - NEC Turbografx 16
 - NEC Turbografx CD
+- Neo Geo AES/MVS
+- Neo Geo CD
 - Neo Geo Pocket Color
 - Nintendo 64
+- Nintendo 64DD
 - Nintendo 3DS
 - Nintendo DS
 - Nintendo Entertainment System
@@ -154,12 +158,14 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sony PlayStation Portable
 - Sony PlayStation Vita
 - Super Nintendo Entertainment System
+- Tiger Game.com
 
 ### Console/Platform Exclusives
 
-- 3do Interactive Multiplayer
+- 3DO Interactive Multiplayer
 - Amiga
 - Atari 2600
+- Atari 5200
 - Atari 7800
 - Atari Jaguar
 - Atari Jaguar CD
@@ -171,6 +177,8 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Microsoft Xbox One
 - NEC Turbografx 16
 - NEC Turbografx CD
+- Neo Geo CD
+- Neo Geo Pocket Color
 - Nintendo 3DS
 - Nintendo 64
 - Nintendo DS
@@ -210,6 +218,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 ### Multiplayer addon/console version games
 
 - Atari 5200 4 player games
+- Neo Geo AES Link-Up games
 - NES Four Score games
 - SNES Super Multitap games
 - Sega 32X Team Player games
@@ -219,25 +228,30 @@ I've been scouring the web for unique data points and will continue to do so. He
 - SNK Neo Geo AES Link-Up games
 - Sony PlayStation Multitap games
 - Sony PlayStation 2 Multitap games
+- Super Nintendo Entertainment System Super Multitap games
 - TurboGrafx-16 Multitap games
-- Sony PlayStation Multitap games
 
-### Special
+### Controller Related (Special directory)
 
 - 3DO Interactive Multiplayer GameGun games
 - Atari 2600 light gun games
 - Atari 7800 light gun games
-- games banned in various countries with the reason for the ban
 - Microsoft Xbox light gun games
 - Microsoft Xbox 360 light gun games
-- NES Black Box games
-- NES hang tab games
 - NES zapper/light gun games
 - Philips CD-i Peacekeeper Revolver games
-- platforms/consoles that play burned disks without modification
+- Sega 32X 6 button controller compatible games
+- Sega 32X 6 button contoller has hidden functionality games
+- Sega 32X 6 button contoller MODE button extra functionality games
+- Sega CD 6 button controller compatible games
+- Sega CD 6 button contoller incompatible games
+- Sega CD 6 button contoller MODE button extra functionality games
 - Sega CD Menacer games
 - Sega Dreamcast light gun games
-- Sega Genesis Black Box Grid games
+- Sega Genesis 6 button controller compatible games
+- Sega Genesis 6 button contoller has hidden functionality games
+- Sega Genesis 6 button contoller incompatible games
+- Sega Genesis 6 button contoller MODE button extra functionality games
 - Sega Genesis Menacer games
 - Sega Master System Phaser games
 - SNES Super Scope games
@@ -245,6 +259,23 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sony PlayStation long box games
 - Sony PlayStation 2 light gun games
 - Sony PlayStation 3 light gun games
+
+### Built-in games (Special directory)
+
+- Bally Astrocade built-in games
+- Fairchild Channel F built-in games
+- Sega Master System built-in games
+- Tiger Game.com built-in games
+
+### Misc (Special directory)
+
+- games banned in various countries with the reason for the ban
+- NES Black Box games
+- NES hang tab games
+- platforms/consoles that play burned disks without modification
+- Sega Genesis Black Box Grid games
+- Sega Master System 3D games
+- Sony PlayStation longbox games
 
 ### Backward Compatibility
 
@@ -345,8 +376,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan.
 
-Out of 15564 data points collected so far, the APIs are missing data the following number of items:
+Out of 15568 data points collected so far, the APIs are missing data the following number of items:
 
 - Missing from all APIs: 1479 (10%)
-- IGDB: 1631 (10%)
+- IGDB: 1635 (11%)
 - Giantbomb: 2609 (17%)

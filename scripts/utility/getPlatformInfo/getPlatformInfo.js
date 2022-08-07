@@ -3,7 +3,7 @@ const gbController = require('../../../server/gb.controller');
 const gbKey = process.env.JGBKEY;
 const axios = require('axios');
 
-const pName = 'fairchild channel f';
+const pName = 'xavixport';
 
 const searchIgdbPlatform = async () => {
   try {

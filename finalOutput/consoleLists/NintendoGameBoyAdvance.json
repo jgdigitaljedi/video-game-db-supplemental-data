@@ -1,7 +1,31 @@
 [
   {
-    "name": "A Sound of Thunder",
+    "name": "2 Games in 1 - Crash Bandicoot Purple - Ripto's Rampage + Spyro Orange - The Cortex Conspiracy",
     "id": "ngba0",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 65145,
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "A Sound of Thunder",
+    "id": "ngba1",
     "igdbId": 49271,
     "gbId": 21839,
     "gbGuid": "3030-21839",
@@ -25,7 +49,7 @@
   },
   {
     "name": "Ace Combat Advance",
-    "id": "ngba1",
+    "id": "ngba2",
     "igdbId": 6297,
     "gbId": 3747,
     "gbGuid": "3030-3747",
@@ -49,7 +73,7 @@
   },
   {
     "name": "Advance Guardian Heroes",
-    "id": "ngba2",
+    "id": "ngba3",
     "igdbId": 6300,
     "gbId": 2249,
     "gbGuid": "3030-2249",
@@ -73,7 +97,7 @@
   },
   {
     "name": "Aggressive Inline",
-    "id": "ngba3",
+    "id": "ngba4",
     "igdbId": 3783,
     "gbId": 2570,
     "gbGuid": "3030-2570",
@@ -97,7 +121,7 @@
   },
   {
     "name": "Alex Rider: Stormbreaker",
-    "id": "ngba4",
+    "id": "ngba5",
     "igdbId": 2848,
     "gbId": 21671,
     "gbGuid": "3030-21671",
@@ -121,7 +145,7 @@
   },
   {
     "name": "All Grown Up! Express Yourself",
-    "id": "ngba5",
+    "id": "ngba6",
     "igdbId": 2796,
     "gbId": null,
     "gbGuid": null,
@@ -145,7 +169,7 @@
   },
   {
     "name": "American Bass Challenge",
-    "id": "ngba6",
+    "id": "ngba7",
     "igdbId": 6302,
     "gbId": 45818,
     "gbGuid": "3030-45818",
@@ -169,7 +193,7 @@
   },
   {
     "name": "An American Tail: Fievel's Gold Rush",
-    "id": "ngba7",
+    "id": "ngba8",
     "igdbId": 6305,
     "gbId": 9428,
     "gbGuid": "3030-9428",
@@ -193,7 +217,7 @@
   },
   {
     "name": "Antz Extreme Racing",
-    "id": "ngba8",
+    "id": "ngba9",
     "igdbId": 5727,
     "gbId": 7162,
     "gbGuid": "3030-7162",
@@ -217,7 +241,7 @@
   },
   {
     "name": "Army Men Advance",
-    "id": "ngba9",
+    "id": "ngba10",
     "igdbId": 6307,
     "gbId": null,
     "gbGuid": null,
@@ -251,7 +275,7 @@
   },
   {
     "name": "Army Men: Operation Green",
-    "id": "ngba10",
+    "id": "ngba11",
     "igdbId": 6308,
     "gbId": 19015,
     "gbGuid": "3030-19015",
@@ -275,7 +299,7 @@
   },
   {
     "name": "Astro Boy: Omega Factor",
-    "id": "ngba11",
+    "id": "ngba12",
     "igdbId": 6310,
     "gbId": 2253,
     "gbGuid": "3030-2253",
@@ -299,7 +323,7 @@
   },
   {
     "name": "Atomic Betty",
-    "id": "ngba12",
+    "id": "ngba13",
     "igdbId": 6312,
     "gbId": 7832,
     "gbGuid": "3030-7832",
@@ -323,7 +347,7 @@
   },
   {
     "name": "Back to Stone",
-    "id": "ngba13",
+    "id": "ngba14",
     "igdbId": 19217,
     "gbId": 2064,
     "gbGuid": "3030-2064",
@@ -347,7 +371,7 @@
   },
   {
     "name": "Backyard Basketball",
-    "id": "ngba14",
+    "id": "ngba15",
     "igdbId": 69242,
     "gbId": 6342,
     "gbGuid": "3030-6342",
@@ -371,7 +395,7 @@
   },
   {
     "name": "Backyard Hockey",
-    "id": "ngba15",
+    "id": "ngba16",
     "igdbId": 49244,
     "gbId": 15534,
     "gbGuid": "3030-15534",
@@ -395,7 +419,7 @@
   },
   {
     "name": "Ballistic: Ecks vs. Sever",
-    "id": "ngba16",
+    "id": "ngba17",
     "igdbId": 49196,
     "gbId": 14483,
     "gbGuid": "3030-14483",
@@ -425,7 +449,7 @@
   },
   {
     "name": "Banjo-Pilot",
-    "id": "ngba17",
+    "id": "ngba18",
     "igdbId": 6316,
     "gbId": 14277,
     "gbGuid": "3030-14277",
@@ -449,7 +473,7 @@
   },
   {
     "name": "Baseball Advance",
-    "id": "ngba18",
+    "id": "ngba19",
     "igdbId": 6319,
     "gbId": 333,
     "gbGuid": "3030-333",
@@ -473,7 +497,7 @@
   },
   {
     "name": "BattleBots: Beyond the BattleBox",
-    "id": "ngba19",
+    "id": "ngba20",
     "igdbId": 6320,
     "gbId": 46091,
     "gbGuid": "3030-46091",
@@ -497,7 +521,7 @@
   },
   {
     "name": "Bionicle: Matoran Adventures",
-    "id": "ngba20",
+    "id": "ngba21",
     "igdbId": 6322,
     "gbId": 6102,
     "gbGuid": "3030-6102",
@@ -521,7 +545,7 @@
   },
   {
     "name": "Bionicle: Maze of Shadows",
-    "id": "ngba21",
+    "id": "ngba22",
     "igdbId": 15738,
     "gbId": 24494,
     "gbGuid": "3030-24494",
@@ -545,7 +569,7 @@
   },
   {
     "name": "Black/Matrix",
-    "id": "ngba22",
+    "id": "ngba23",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -569,7 +593,7 @@
   },
   {
     "name": "Blender Bros.",
-    "id": "ngba23",
+    "id": "ngba24",
     "igdbId": 6324,
     "gbId": 19843,
     "gbGuid": "3030-19843",
@@ -593,7 +617,7 @@
   },
   {
     "name": "Boktai 2: Solar Boy Django",
-    "id": "ngba24",
+    "id": "ngba25",
     "igdbId": 6329,
     "gbId": 14556,
     "gbGuid": "3030-14556",
@@ -617,7 +641,7 @@
   },
   {
     "name": "Boktai: The Sun Is in Your Hand",
-    "id": "ngba25",
+    "id": "ngba26",
     "igdbId": 6326,
     "gbId": 7136,
     "gbGuid": "3030-7136",
@@ -641,7 +665,7 @@
   },
   {
     "name": "Bomberman Jetters: Game Collection",
-    "id": "ngba26",
+    "id": "ngba27",
     "igdbId": 49528,
     "gbId": 27468,
     "gbGuid": "3030-27468",
@@ -665,7 +689,7 @@
   },
   {
     "name": "Bomberman Max 2: Blue Advance",
-    "id": "ngba27",
+    "id": "ngba28",
     "igdbId": 6331,
     "gbId": null,
     "gbGuid": null,
@@ -689,7 +713,7 @@
   },
   {
     "name": "Bomberman Max 2: Red Advance",
-    "id": "ngba28",
+    "id": "ngba29",
     "igdbId": 6333,
     "gbId": null,
     "gbGuid": null,
@@ -713,7 +737,7 @@
   },
   {
     "name": "Bomberman Tournament",
-    "id": "ngba29",
+    "id": "ngba30",
     "igdbId": 6334,
     "gbId": 9113,
     "gbGuid": "3030-9113",
@@ -737,7 +761,7 @@
   },
   {
     "name": "Boxing Fever",
-    "id": "ngba30",
+    "id": "ngba31",
     "igdbId": 6335,
     "gbId": 14768,
     "gbGuid": "3030-14768",
@@ -761,7 +785,7 @@
   },
   {
     "name": "Bruce Lee: Return of the Legend",
-    "id": "ngba31",
+    "id": "ngba32",
     "igdbId": 6339,
     "gbId": 3462,
     "gbGuid": "3030-3462",
@@ -785,7 +809,7 @@
   },
   {
     "name": "Buffy the Vampire Slayer: Wrath of the Darkhul King",
-    "id": "ngba32",
+    "id": "ngba33",
     "igdbId": 6343,
     "gbId": 5575,
     "gbGuid": "3030-5575",
@@ -809,7 +833,7 @@
   },
   {
     "name": "CIMA: The Enemy",
-    "id": "ngba33",
+    "id": "ngba34",
     "igdbId": 6348,
     "gbId": 174,
     "gbGuid": "3030-174",
@@ -833,7 +857,7 @@
   },
   {
     "name": "CT Special Forces 2: Back in the Trenches",
-    "id": "ngba34",
+    "id": "ngba35",
     "igdbId": 6353,
     "gbId": 22202,
     "gbGuid": "3030-22202",
@@ -857,7 +881,7 @@
   },
   {
     "name": "Car Battler Joe",
-    "id": "ngba35",
+    "id": "ngba36",
     "igdbId": 6344,
     "gbId": 22081,
     "gbGuid": "3030-22081",
@@ -881,7 +905,7 @@
   },
   {
     "name": "Cartoon Network Block Party",
-    "id": "ngba36",
+    "id": "ngba37",
     "igdbId": 2809,
     "gbId": 7669,
     "gbGuid": "3030-7669",
@@ -905,7 +929,7 @@
   },
   {
     "name": "Cartoon Network Speedway",
-    "id": "ngba37",
+    "id": "ngba38",
     "igdbId": 2810,
     "gbId": 29762,
     "gbGuid": "3030-29762",
@@ -929,7 +953,7 @@
   },
   {
     "name": "Castlevania Double Pack",
-    "id": "ngba38",
+    "id": "ngba39",
     "igdbId": 22575,
     "gbId": 47975,
     "gbGuid": "3030-47975",
@@ -947,7 +971,7 @@
   },
   {
     "name": "Castlevania: Aria of Sorrow",
-    "id": "ngba39",
+    "id": "ngba40",
     "igdbId": 1134,
     "gbId": 12036,
     "gbGuid": "3030-12036",
@@ -973,7 +997,7 @@
   },
   {
     "name": "Castlevania: Circle of the Moon",
-    "id": "ngba40",
+    "id": "ngba41",
     "igdbId": 1132,
     "gbId": 13197,
     "gbGuid": "3030-13197",
@@ -997,7 +1021,7 @@
   },
   {
     "name": "Castleween",
-    "id": "ngba41",
+    "id": "ngba42",
     "igdbId": 4165,
     "gbId": null,
     "gbGuid": null,
@@ -1021,7 +1045,7 @@
   },
   {
     "name": "ChuChu Rocket!",
-    "id": "ngba42",
+    "id": "ngba43",
     "igdbId": 6347,
     "gbId": 13715,
     "gbGuid": "3030-13715",
@@ -1045,7 +1069,7 @@
   },
   {
     "name": "Classic NES Series: Donkey Kong",
-    "id": "ngba43",
+    "id": "ngba44",
     "igdbId": 49160,
     "gbId": 311,
     "gbGuid": "3030-311",
@@ -1063,7 +1087,7 @@
   },
   {
     "name": "Classic NES Series: Ice Climber",
-    "id": "ngba44",
+    "id": "ngba45",
     "igdbId": 49258,
     "gbId": 13918,
     "gbGuid": "3030-13918",
@@ -1081,7 +1105,7 @@
   },
   {
     "name": "Classic NES Series: Pac-Man",
-    "id": "ngba45",
+    "id": "ngba46",
     "igdbId": 76248,
     "gbId": 7624,
     "gbGuid": "3030-7624",
@@ -1099,7 +1123,7 @@
   },
   {
     "name": "Classic NES Series: Super Mario Bros.",
-    "id": "ngba46",
+    "id": "ngba47",
     "igdbId": 18065,
     "gbId": 15544,
     "gbGuid": "3030-15544",
@@ -1117,7 +1141,7 @@
   },
   {
     "name": "Classic NES Series: Xevious",
-    "id": "ngba47",
+    "id": "ngba48",
     "igdbId": 49205,
     "gbId": null,
     "gbGuid": null,
@@ -1135,7 +1159,7 @@
   },
   {
     "name": "Codename: Kids Next Door - Operation S.O.D.A.",
-    "id": "ngba48",
+    "id": "ngba49",
     "igdbId": 49159,
     "gbId": 44077,
     "gbGuid": "3030-44077",
@@ -1159,7 +1183,7 @@
   },
   {
     "name": "Columns Crown",
-    "id": "ngba49",
+    "id": "ngba50",
     "igdbId": 6350,
     "gbId": 1271,
     "gbGuid": "3030-1271",
@@ -1183,7 +1207,7 @@
   },
   {
     "name": "Crash Bandicoot 2: N-Tranced",
-    "id": "ngba50",
+    "id": "ngba51",
     "igdbId": 1198,
     "gbId": 355,
     "gbGuid": "3030-355",
@@ -1207,7 +1231,7 @@
   },
   {
     "name": "Crash Bandicoot: The Huge Adventure",
-    "id": "ngba51",
+    "id": "ngba52",
     "igdbId": 1197,
     "gbId": 7659,
     "gbGuid": "3030-7659",
@@ -1231,7 +1255,7 @@
   },
   {
     "name": "Crazy Taxi: Catch a Ride",
-    "id": "ngba52",
+    "id": "ngba53",
     "igdbId": 1808,
     "gbId": 18611,
     "gbGuid": "3030-18611",
@@ -1255,7 +1279,7 @@
   },
   {
     "name": "Cruis'n Velocity",
-    "id": "ngba53",
+    "id": "ngba54",
     "igdbId": 49191,
     "gbId": 3281,
     "gbGuid": "3030-3281",
@@ -1279,7 +1303,7 @@
   },
   {
     "name": "Curious George",
-    "id": "ngba54",
+    "id": "ngba55",
     "igdbId": 3867,
     "gbId": 24914,
     "gbGuid": "3030-24914",
@@ -1303,7 +1327,7 @@
   },
   {
     "name": "Custom Robo GX",
-    "id": "ngba55",
+    "id": "ngba56",
     "igdbId": 3464,
     "gbId": 24883,
     "gbGuid": "3030-24883",
@@ -1327,7 +1351,7 @@
   },
   {
     "name": "Daredevil",
-    "id": "ngba56",
+    "id": "ngba57",
     "igdbId": 18254,
     "gbId": 5795,
     "gbGuid": "3030-5795",
@@ -1351,7 +1375,7 @@
   },
   {
     "name": "Dark Arena",
-    "id": "ngba57",
+    "id": "ngba58",
     "igdbId": 6367,
     "gbId": 14972,
     "gbGuid": "3030-14972",
@@ -1375,7 +1399,7 @@
   },
   {
     "name": "Dave Mirra Freestyle BMX 2",
-    "id": "ngba58",
+    "id": "ngba59",
     "igdbId": 3871,
     "gbId": 10174,
     "gbGuid": "3030-10174",
@@ -1393,7 +1417,7 @@
   },
   {
     "name": "Dave Mirra Freestyle BMX 3",
-    "id": "ngba59",
+    "id": "ngba60",
     "igdbId": 6368,
     "gbId": 3238,
     "gbGuid": "3030-3238",
@@ -1417,7 +1441,7 @@
   },
   {
     "name": "Dead To Rights",
-    "id": "ngba60",
+    "id": "ngba61",
     "igdbId": 3872,
     "gbId": 3032,
     "gbGuid": "3030-3032",
@@ -1440,8 +1464,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Defender",
+    "id": "ngba62",
+    "igdbId": null,
+    "gbId": 24006,
+    "gbGuid": "3030-24006",
+    "tgdbId": 1347,
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Densetsu no Stafy 2",
-    "id": "ngba61",
+    "id": "ngba63",
     "igdbId": 6371,
     "gbId": 15298,
     "gbGuid": "3030-15298",
@@ -1464,7 +1512,7 @@
   },
   {
     "name": "Densetsu no Stafy 3",
-    "id": "ngba62",
+    "id": "ngba64",
     "igdbId": 6372,
     "gbId": 14855,
     "gbGuid": "3030-14855",
@@ -1487,7 +1535,7 @@
   },
   {
     "name": "Dexter's Laboratory: Chess Challenge",
-    "id": "ngba63",
+    "id": "ngba65",
     "igdbId": 6373,
     "gbId": 23934,
     "gbGuid": "3030-23934",
@@ -1511,7 +1559,7 @@
   },
   {
     "name": "Dexter's Laboratory: Deesaster Strikes!",
-    "id": "ngba64",
+    "id": "ngba66",
     "igdbId": 2813,
     "gbId": 23935,
     "gbGuid": "3030-23935",
@@ -1535,7 +1583,7 @@
   },
   {
     "name": "Digimon Racing",
-    "id": "ngba65",
+    "id": "ngba67",
     "igdbId": 6376,
     "gbId": 10806,
     "gbGuid": "3030-10806",
@@ -1559,7 +1607,7 @@
   },
   {
     "name": "Dinotopia: The Timestone Pirates",
-    "id": "ngba66",
+    "id": "ngba68",
     "igdbId": 6378,
     "gbId": 46010,
     "gbGuid": "3030-46010",
@@ -1583,7 +1631,7 @@
   },
   {
     "name": "Disney's Chicken Little",
-    "id": "ngba67",
+    "id": "ngba69",
     "igdbId": 3006,
     "gbId": 19647,
     "gbGuid": "3030-19647",
@@ -1607,7 +1655,7 @@
   },
   {
     "name": "Disney's Herbie: Fully Loaded",
-    "id": "ngba68",
+    "id": "ngba70",
     "igdbId": 49408,
     "gbId": null,
     "gbGuid": null,
@@ -1631,7 +1679,7 @@
   },
   {
     "name": "Disney's Lilo & Stitch",
-    "id": "ngba69",
+    "id": "ngba71",
     "igdbId": 25912,
     "gbId": 2811,
     "gbGuid": "3030-2811",
@@ -1655,7 +1703,7 @@
   },
   {
     "name": "Disney's Party",
-    "id": "ngba70",
+    "id": "ngba72",
     "igdbId": 3886,
     "gbId": 404,
     "gbGuid": "3030-404",
@@ -1679,7 +1727,7 @@
   },
   {
     "name": "Disney's Tarzan: Return to the Jungle",
-    "id": "ngba71",
+    "id": "ngba73",
     "igdbId": 49339,
     "gbId": 16908,
     "gbGuid": "3030-16908",
@@ -1703,7 +1751,7 @@
   },
   {
     "name": "Disney's The Lion King 1 1/2",
-    "id": "ngba72",
+    "id": "ngba74",
     "igdbId": 49272,
     "gbId": 19921,
     "gbGuid": "3030-19921",
@@ -1727,7 +1775,7 @@
   },
   {
     "name": "Disney/Pixar Finding Nemo",
-    "id": "ngba73",
+    "id": "ngba75",
     "igdbId": 3781,
     "gbId": 16805,
     "gbGuid": "3030-16805",
@@ -1751,7 +1799,7 @@
   },
   {
     "name": "Dokapon: Monster Hunter",
-    "id": "ngba74",
+    "id": "ngba76",
     "igdbId": 6382,
     "gbId": null,
     "gbGuid": null,
@@ -1775,7 +1823,7 @@
   },
   {
     "name": "Domo-Kun no Fushigi Terebi",
-    "id": "ngba75",
+    "id": "ngba77",
     "igdbId": 6383,
     "gbId": null,
     "gbGuid": null,
@@ -1799,7 +1847,7 @@
   },
   {
     "name": "Double Dragon Advance",
-    "id": "ngba76",
+    "id": "ngba78",
     "igdbId": 6384,
     "gbId": 20754,
     "gbGuid": "3030-20754",
@@ -1823,7 +1871,7 @@
   },
   {
     "name": "Dr. Muto",
-    "id": "ngba77",
+    "id": "ngba79",
     "igdbId": 3895,
     "gbId": 8035,
     "gbGuid": "3030-8035",
@@ -1847,7 +1895,7 @@
   },
   {
     "name": "Dr. Seuss: Green Eggs and Ham",
-    "id": "ngba78",
+    "id": "ngba80",
     "igdbId": 6354,
     "gbId": 57721,
     "gbGuid": "3030-57721",
@@ -1871,7 +1919,7 @@
   },
   {
     "name": "Dragon Ball GT: Transformation",
-    "id": "ngba79",
+    "id": "ngba81",
     "igdbId": 24269,
     "gbId": 15454,
     "gbGuid": "3030-15454",
@@ -1895,7 +1943,7 @@
   },
   {
     "name": "Dragon Ball Z: The Legacy of Goku",
-    "id": "ngba80",
+    "id": "ngba82",
     "igdbId": 6387,
     "gbId": 3510,
     "gbGuid": "3030-3510",
@@ -1925,7 +1973,7 @@
   },
   {
     "name": "Dragon Ball: Advanced Adventure",
-    "id": "ngba81",
+    "id": "ngba83",
     "igdbId": 6386,
     "gbId": 9872,
     "gbGuid": "3030-9872",
@@ -1949,7 +1997,7 @@
   },
   {
     "name": "Dragon Quest Monsters: Caravan Heart",
-    "id": "ngba82",
+    "id": "ngba84",
     "igdbId": 6388,
     "gbId": 24011,
     "gbGuid": "3030-24011",
@@ -1973,7 +2021,7 @@
   },
   {
     "name": "Dreamworks Madagascar: Operation Penguin",
-    "id": "ngba83",
+    "id": "ngba85",
     "igdbId": 3766,
     "gbId": 24443,
     "gbGuid": "3030-24443",
@@ -1997,7 +2045,7 @@
   },
   {
     "name": "Droopy's Tennis Open",
-    "id": "ngba84",
+    "id": "ngba86",
     "igdbId": 6395,
     "gbId": null,
     "gbGuid": null,
@@ -2021,7 +2069,7 @@
   },
   {
     "name": "Dual Blades",
-    "id": "ngba85",
+    "id": "ngba87",
     "igdbId": 6392,
     "gbId": 14248,
     "gbGuid": "3030-14248",
@@ -2045,7 +2093,7 @@
   },
   {
     "name": "Duke Nukem Advance",
-    "id": "ngba86",
+    "id": "ngba88",
     "igdbId": 6393,
     "gbId": 2729,
     "gbGuid": "3030-2729",
@@ -2069,7 +2117,7 @@
   },
   {
     "name": "Dungeons & Dragons: Eye of the Beholder",
-    "id": "ngba87",
+    "id": "ngba89",
     "igdbId": 49197,
     "gbId": 18058,
     "gbGuid": "3030-18058",
@@ -2093,7 +2141,7 @@
   },
   {
     "name": "Dynasty Warriors Advance",
-    "id": "ngba88",
+    "id": "ngba90",
     "igdbId": 6394,
     "gbId": 10702,
     "gbGuid": "3030-10702",
@@ -2117,7 +2165,7 @@
   },
   {
     "name": "ESPN Final Round Golf 2002",
-    "id": "ngba89",
+    "id": "ngba91",
     "igdbId": 6397,
     "gbId": 22200,
     "gbGuid": "3030-22200",
@@ -2141,7 +2189,7 @@
   },
   {
     "name": "ESPN International Winter Sports 2002",
-    "id": "ngba90",
+    "id": "ngba92",
     "igdbId": 3905,
     "gbId": 20023,
     "gbGuid": "3030-20023",
@@ -2165,7 +2213,7 @@
   },
   {
     "name": "Earthworm Jim",
-    "id": "ngba91",
+    "id": "ngba93",
     "igdbId": 3480,
     "gbId": 11133,
     "gbGuid": "3030-11133",
@@ -2189,7 +2237,7 @@
   },
   {
     "name": "Ecks vs. Sever",
-    "id": "ngba92",
+    "id": "ngba94",
     "igdbId": 6396,
     "gbId": 15516,
     "gbGuid": "3030-15516",
@@ -2213,7 +2261,7 @@
   },
   {
     "name": "Ed, Edd n Eddy: Jawbreakers!",
-    "id": "ngba93",
+    "id": "ngba95",
     "igdbId": 2816,
     "gbId": 6495,
     "gbGuid": "3030-6495",
@@ -2236,8 +2284,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Elemental Gelade",
+    "id": "ngba96",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Elevator Action: Old & New",
-    "id": "ngba94",
+    "id": "ngba97",
     "igdbId": 49284,
     "gbId": 12706,
     "gbGuid": "3030-12706",
@@ -2260,7 +2331,7 @@
   },
   {
     "name": "F-Zero: Maximum Velocity",
-    "id": "ngba95",
+    "id": "ngba98",
     "igdbId": 3491,
     "gbId": 46,
     "gbGuid": "3030-46",
@@ -2284,7 +2355,7 @@
   },
   {
     "name": "Fear Factor: Unleashed",
-    "id": "ngba96",
+    "id": "ngba99",
     "igdbId": 6406,
     "gbId": null,
     "gbGuid": null,
@@ -2308,7 +2379,7 @@
   },
   {
     "name": "Final Fight One",
-    "id": "ngba97",
+    "id": "ngba100",
     "igdbId": 1663,
     "gbId": 29727,
     "gbGuid": "3030-29727",
@@ -2326,7 +2397,7 @@
   },
   {
     "name": "Fire Emblem: The Sacred Stones",
-    "id": "ngba98",
+    "id": "ngba101",
     "igdbId": 1440,
     "gbId": 1148,
     "gbGuid": "3030-1148",
@@ -2349,7 +2420,7 @@
   },
   {
     "name": "Fire Pro Wrestling",
-    "id": "ngba99",
+    "id": "ngba102",
     "igdbId": 6407,
     "gbId": 18302,
     "gbGuid": "3030-18302",
@@ -2373,7 +2444,7 @@
   },
   {
     "name": "Fortress",
-    "id": "ngba100",
+    "id": "ngba103",
     "igdbId": 6409,
     "gbId": 30955,
     "gbGuid": "3030-30955",
@@ -2397,7 +2468,7 @@
   },
   {
     "name": "Frogger",
-    "id": "ngba101",
+    "id": "ngba104",
     "igdbId": 11465,
     "gbId": 11903,
     "gbGuid": "3030-11903",
@@ -2421,7 +2492,7 @@
   },
   {
     "name": "Frogger Advance: The Great Quest",
-    "id": "ngba102",
+    "id": "ngba105",
     "igdbId": 6412,
     "gbId": 4859,
     "gbGuid": "3030-4859",
@@ -2445,7 +2516,7 @@
   },
   {
     "name": "Frogger's Adventures: Temple of the Frog",
-    "id": "ngba103",
+    "id": "ngba106",
     "igdbId": 6411,
     "gbId": 9886,
     "gbGuid": "3030-9886",
@@ -2469,7 +2540,7 @@
   },
   {
     "name": "GT Advance 2: Rally Racing",
-    "id": "ngba104",
+    "id": "ngba107",
     "igdbId": 6425,
     "gbId": 12194,
     "gbGuid": "3030-12194",
@@ -2493,7 +2564,7 @@
   },
   {
     "name": "GT Advance 3: Pro Concept Racing",
-    "id": "ngba105",
+    "id": "ngba108",
     "igdbId": 6426,
     "gbId": 13599,
     "gbGuid": "3030-13599",
@@ -2517,7 +2588,7 @@
   },
   {
     "name": "GT Advance Championship Racing",
-    "id": "ngba106",
+    "id": "ngba109",
     "igdbId": 6424,
     "gbId": null,
     "gbGuid": null,
@@ -2551,7 +2622,7 @@
   },
   {
     "name": "Gadget Racers",
-    "id": "ngba107",
+    "id": "ngba110",
     "igdbId": 4088,
     "gbId": 15562,
     "gbGuid": "3030-15562",
@@ -2575,7 +2646,7 @@
   },
   {
     "name": "Game Boy Advance Video: SpongeBob SquarePants - Volume 1",
-    "id": "ngba108",
+    "id": "ngba111",
     "igdbId": 56496,
     "gbId": null,
     "gbGuid": null,
@@ -2593,7 +2664,7 @@
   },
   {
     "name": "Garfield and His Nine Lives",
-    "id": "ngba109",
+    "id": "ngba112",
     "igdbId": 6417,
     "gbId": 39231,
     "gbGuid": "3030-39231",
@@ -2617,7 +2688,7 @@
   },
   {
     "name": "Garfield: The Search for Pooky",
-    "id": "ngba110",
+    "id": "ngba113",
     "igdbId": 6416,
     "gbId": 3647,
     "gbGuid": "3030-3647",
@@ -2641,7 +2712,7 @@
   },
   {
     "name": "Gensou Suikoden: Card Stories",
-    "id": "ngba111",
+    "id": "ngba114",
     "igdbId": 1451,
     "gbId": 19925,
     "gbGuid": "3030-19925",
@@ -2665,7 +2736,7 @@
   },
   {
     "name": "Go! Go! Beckham! Adventure on Soccer Island",
-    "id": "ngba112",
+    "id": "ngba115",
     "igdbId": 6421,
     "gbId": 15623,
     "gbGuid": "3030-15623",
@@ -2688,8 +2759,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Godzilla: Destroy All Monsters Melee",
+    "id": "ngba116",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 6983,
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Golden Sun: The Lost Age (Spain)",
-    "id": "ngba113",
+    "id": "ngba117",
     "igdbId": 1173,
     "gbId": 4277,
     "gbGuid": "3030-4277",
@@ -2707,7 +2802,7 @@
   },
   {
     "name": "Gradius Advance",
-    "id": "ngba114",
+    "id": "ngba118",
     "igdbId": 1487,
     "gbId": null,
     "gbGuid": null,
@@ -2730,7 +2825,7 @@
   },
   {
     "name": "Grand Theft Auto Advance",
-    "id": "ngba115",
+    "id": "ngba119",
     "igdbId": 3266,
     "gbId": 3527,
     "gbGuid": "3030-3527",
@@ -2753,8 +2848,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Gundam: Battle Assault",
+    "id": "ngba120",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 11537,
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Gunstar Super Heroes",
-    "id": "ngba116",
+    "id": "ngba121",
     "igdbId": 6422,
     "gbId": 11973,
     "gbGuid": "3030-11973",
@@ -2777,8 +2896,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Guru Logic Champ",
+    "id": "ngba122",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 32151,
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Hamtaro: Ham-Ham Heartbreak",
-    "id": "ngba117",
+    "id": "ngba123",
     "igdbId": 6428,
     "gbId": 16651,
     "gbGuid": "3030-16651",
@@ -2802,7 +2945,7 @@
   },
   {
     "name": "Hatena Satena",
-    "id": "ngba118",
+    "id": "ngba124",
     "igdbId": 6431,
     "gbId": null,
     "gbGuid": null,
@@ -2826,7 +2969,7 @@
   },
   {
     "name": "Hey Arnold! The Movie",
-    "id": "ngba119",
+    "id": "ngba125",
     "igdbId": 6565,
     "gbId": 32329,
     "gbGuid": "3030-32329",
@@ -2850,7 +2993,7 @@
   },
   {
     "name": "High Heat Major League Baseball 2003",
-    "id": "ngba120",
+    "id": "ngba126",
     "igdbId": 6435,
     "gbId": 16036,
     "gbGuid": "3030-16036",
@@ -2874,7 +3017,7 @@
   },
   {
     "name": "Hot Potato!",
-    "id": "ngba121",
+    "id": "ngba127",
     "igdbId": 6437,
     "gbId": 5479,
     "gbGuid": "3030-5479",
@@ -2898,7 +3041,7 @@
   },
   {
     "name": "Hot Wheels: Burnin' Rubber",
-    "id": "ngba122",
+    "id": "ngba128",
     "igdbId": 49295,
     "gbId": null,
     "gbGuid": null,
@@ -2922,7 +3065,7 @@
   },
   {
     "name": "Ice Age",
-    "id": "ngba123",
+    "id": "ngba129",
     "igdbId": 6446,
     "gbId": 37685,
     "gbGuid": "3030-37685",
@@ -2946,7 +3089,7 @@
   },
   {
     "name": "Ice Nine",
-    "id": "ngba124",
+    "id": "ngba130",
     "igdbId": 6447,
     "gbId": 41038,
     "gbGuid": "3030-41038",
@@ -2970,7 +3113,7 @@
   },
   {
     "name": "Inspector Gadget: Advance Mission",
-    "id": "ngba125",
+    "id": "ngba131",
     "igdbId": 4864,
     "gbId": 38845,
     "gbGuid": "3030-38845",
@@ -2994,7 +3137,7 @@
   },
   {
     "name": "Iridion 3D",
-    "id": "ngba126",
+    "id": "ngba132",
     "igdbId": 6449,
     "gbId": 69,
     "gbGuid": "3030-69",
@@ -3028,7 +3171,7 @@
   },
   {
     "name": "Iridion II",
-    "id": "ngba127",
+    "id": "ngba133",
     "igdbId": 6450,
     "gbId": 10969,
     "gbGuid": "3030-10969",
@@ -3052,7 +3195,7 @@
   },
   {
     "name": "Jackie Chan Adventures: Legend of The Dark Hand",
-    "id": "ngba128",
+    "id": "ngba134",
     "igdbId": 8155,
     "gbId": 10253,
     "gbGuid": "3030-10253",
@@ -3076,7 +3219,7 @@
   },
   {
     "name": "Jazz Jackrabbit",
-    "id": "ngba129",
+    "id": "ngba135",
     "igdbId": 6477,
     "gbId": 46792,
     "gbGuid": "3030-46792",
@@ -3100,7 +3243,7 @@
   },
   {
     "name": "Juka and the Monophonic Menace",
-    "id": "ngba130",
+    "id": "ngba136",
     "igdbId": 6479,
     "gbId": 17024,
     "gbGuid": "3030-17024",
@@ -3124,7 +3267,7 @@
   },
   {
     "name": "Jurassic Park III: Island Attack",
-    "id": "ngba131",
+    "id": "ngba137",
     "igdbId": 6482,
     "gbId": 18850,
     "gbGuid": "3030-18850",
@@ -3148,7 +3291,7 @@
   },
   {
     "name": "Jurassic Park III: Park Builder",
-    "id": "ngba132",
+    "id": "ngba138",
     "igdbId": 6483,
     "gbId": 1022,
     "gbGuid": "3030-1022",
@@ -3172,7 +3315,7 @@
   },
   {
     "name": "Jurassic Park III: The DNA Factor",
-    "id": "ngba133",
+    "id": "ngba139",
     "igdbId": 6481,
     "gbId": 12195,
     "gbGuid": "3030-12195",
@@ -3196,7 +3339,7 @@
   },
   {
     "name": "Justice League Heroes: The Flash",
-    "id": "ngba134",
+    "id": "ngba140",
     "igdbId": 6486,
     "gbId": 17817,
     "gbGuid": "3030-17817",
@@ -3220,7 +3363,7 @@
   },
   {
     "name": "Justice League: Chronicles",
-    "id": "ngba135",
+    "id": "ngba141",
     "igdbId": 6485,
     "gbId": 13170,
     "gbGuid": "3030-13170",
@@ -3244,7 +3387,7 @@
   },
   {
     "name": "Justice League: Injustice for All",
-    "id": "ngba136",
+    "id": "ngba142",
     "igdbId": 6484,
     "gbId": 14314,
     "gbGuid": "3030-14314",
@@ -3268,7 +3411,7 @@
   },
   {
     "name": "Klonoa Heroes",
-    "id": "ngba137",
+    "id": "ngba143",
     "igdbId": 49638,
     "gbId": 1320,
     "gbGuid": "3030-1320",
@@ -3292,7 +3435,7 @@
   },
   {
     "name": "Konami Collector's Series: Arcade Advanced",
-    "id": "ngba138",
+    "id": "ngba144",
     "igdbId": 6494,
     "gbId": null,
     "gbGuid": null,
@@ -3316,7 +3459,7 @@
   },
   {
     "name": "Konami Krazy Racers",
-    "id": "ngba139",
+    "id": "ngba145",
     "igdbId": 6495,
     "gbId": 710,
     "gbGuid": "3030-710",
@@ -3340,7 +3483,7 @@
   },
   {
     "name": "Koro Koro Puzzle - Happy Panechu!",
-    "id": "ngba140",
+    "id": "ngba146",
     "igdbId": 6496,
     "gbId": null,
     "gbGuid": null,
@@ -3364,7 +3507,7 @@
   },
   {
     "name": "LEGO Bionicle",
-    "id": "ngba141",
+    "id": "ngba147",
     "igdbId": 6323,
     "gbId": 16342,
     "gbGuid": "3030-16342",
@@ -3388,7 +3531,7 @@
   },
   {
     "name": "LEGO Knights' Kingdom",
-    "id": "ngba142",
+    "id": "ngba148",
     "igdbId": 6498,
     "gbId": 38776,
     "gbGuid": "3030-38776",
@@ -3412,7 +3555,7 @@
   },
   {
     "name": "Lady Sia",
-    "id": "ngba143",
+    "id": "ngba149",
     "igdbId": 6497,
     "gbId": 6846,
     "gbGuid": "3030-6846",
@@ -3442,7 +3585,7 @@
   },
   {
     "name": "Lufia: The Ruins of Lore",
-    "id": "ngba144",
+    "id": "ngba150",
     "igdbId": 1180,
     "gbId": 12264,
     "gbGuid": "3030-12264",
@@ -3466,7 +3609,7 @@
   },
   {
     "name": "Lunar Legend",
-    "id": "ngba145",
+    "id": "ngba151",
     "igdbId": 13907,
     "gbId": 5395,
     "gbGuid": "3030-5395",
@@ -3490,7 +3633,7 @@
   },
   {
     "name": "Madden NFL 2003",
-    "id": "ngba146",
+    "id": "ngba152",
     "igdbId": 776,
     "gbId": 15987,
     "gbGuid": "3030-15987",
@@ -3514,7 +3657,7 @@
   },
   {
     "name": "Mario & Luigi: Superstar Saga",
-    "id": "ngba147",
+    "id": "ngba153",
     "igdbId": 3351,
     "gbId": 9306,
     "gbGuid": "3030-9306",
@@ -3540,7 +3683,7 @@
   },
   {
     "name": "Mario Kart: Super Circuit",
-    "id": "ngba148",
+    "id": "ngba154",
     "igdbId": 2343,
     "gbId": 16769,
     "gbGuid": "3030-16769",
@@ -3566,7 +3709,7 @@
   },
   {
     "name": "Marvel's The Invincible Iron Man",
-    "id": "ngba149",
+    "id": "ngba155",
     "igdbId": 49231,
     "gbId": 6063,
     "gbGuid": "3030-6063",
@@ -3590,7 +3733,7 @@
   },
   {
     "name": "Masters of the Universe - He-Man: Power of Grayskull",
-    "id": "ngba150",
+    "id": "ngba156",
     "igdbId": 6432,
     "gbId": null,
     "gbGuid": null,
@@ -3614,7 +3757,7 @@
   },
   {
     "name": "Mat Hoffman's Pro BMX 2",
-    "id": "ngba151",
+    "id": "ngba157",
     "igdbId": 3993,
     "gbId": 7099,
     "gbGuid": "3030-7099",
@@ -3638,7 +3781,7 @@
   },
   {
     "name": "Mech Platoon",
-    "id": "ngba152",
+    "id": "ngba158",
     "igdbId": 6508,
     "gbId": 12876,
     "gbGuid": "3030-12876",
@@ -3662,7 +3805,7 @@
   },
   {
     "name": "Medabots AX: Rokusho Version (PAL)",
-    "id": "ngba153",
+    "id": "ngba159",
     "igdbId": 49234,
     "gbId": 23056,
     "gbGuid": "3030-23056",
@@ -3680,7 +3823,7 @@
   },
   {
     "name": "Medal of Honor: Infiltrator",
-    "id": "ngba154",
+    "id": "ngba160",
     "igdbId": 1317,
     "gbId": 12457,
     "gbGuid": "3030-12457",
@@ -3704,7 +3847,7 @@
   },
   {
     "name": "Mega Man Zero 2",
-    "id": "ngba155",
+    "id": "ngba161",
     "igdbId": 1776,
     "gbId": 13623,
     "gbGuid": "3030-13623",
@@ -3722,7 +3865,7 @@
   },
   {
     "name": "Metal Slug Advance",
-    "id": "ngba156",
+    "id": "ngba162",
     "igdbId": 1406,
     "gbId": 8583,
     "gbGuid": "3030-8583",
@@ -3746,7 +3889,7 @@
   },
   {
     "name": "Minority Report: Everybody Runs",
-    "id": "ngba157",
+    "id": "ngba163",
     "igdbId": 4012,
     "gbId": 2571,
     "gbGuid": "3030-2571",
@@ -3770,7 +3913,7 @@
   },
   {
     "name": "Monster Force",
-    "id": "ngba158",
+    "id": "ngba164",
     "igdbId": 49390,
     "gbId": 918,
     "gbGuid": "3030-918",
@@ -3794,7 +3937,7 @@
   },
   {
     "name": "Monster Rancher Advance",
-    "id": "ngba159",
+    "id": "ngba165",
     "igdbId": 6511,
     "gbId": 4700,
     "gbGuid": "3030-4700",
@@ -3818,7 +3961,7 @@
   },
   {
     "name": "Monster Rancher Advance 2",
-    "id": "ngba160",
+    "id": "ngba166",
     "igdbId": 6512,
     "gbId": 11375,
     "gbGuid": "3030-11375",
@@ -3842,7 +3985,7 @@
   },
   {
     "name": "Mortal Kombat: Deadly Alliance",
-    "id": "ngba161",
+    "id": "ngba167",
     "igdbId": 1612,
     "gbId": 6588,
     "gbGuid": "3030-6588",
@@ -3866,7 +4009,7 @@
   },
   {
     "name": "Mother 3 (Japan)",
-    "id": "ngba162",
+    "id": "ngba168",
     "igdbId": 3683,
     "gbId": 3864,
     "gbGuid": "3030-3864",
@@ -3884,7 +4027,7 @@
   },
   {
     "name": "Moto Racer Advance",
-    "id": "ngba163",
+    "id": "ngba169",
     "igdbId": 6515,
     "gbId": 26194,
     "gbGuid": "3030-26194",
@@ -3908,7 +4051,7 @@
   },
   {
     "name": "My Little Pony Crystal Princess: The Runaway Rainbow",
-    "id": "ngba164",
+    "id": "ngba170",
     "igdbId": 49389,
     "gbId": 37886,
     "gbGuid": "3030-37886",
@@ -3932,7 +4075,7 @@
   },
   {
     "name": "NBA Jam 2002",
-    "id": "ngba165",
+    "id": "ngba171",
     "igdbId": 6523,
     "gbId": 37453,
     "gbGuid": "3030-37453",
@@ -3956,7 +4099,7 @@
   },
   {
     "name": "Namco Museum",
-    "id": "ngba166",
+    "id": "ngba172",
     "igdbId": 85608,
     "gbId": 32352,
     "gbGuid": "3030-32352",
@@ -3980,7 +4123,7 @@
   },
   {
     "name": "Naruto: Ninja Council 2",
-    "id": "ngba167",
+    "id": "ngba173",
     "igdbId": 24065,
     "gbId": 6939,
     "gbGuid": "3030-6939",
@@ -4004,7 +4147,7 @@
   },
   {
     "name": "Need for Speed Underground",
-    "id": "ngba168",
+    "id": "ngba174",
     "igdbId": 96,
     "gbId": 12254,
     "gbGuid": "3030-12254",
@@ -4028,7 +4171,7 @@
   },
   {
     "name": "Need for Speed Underground 2",
-    "id": "ngba169",
+    "id": "ngba175",
     "igdbId": 97,
     "gbId": 9651,
     "gbGuid": "3030-9651",
@@ -4052,7 +4195,7 @@
   },
   {
     "name": "Nickelodeon Danny Phantom: The Ultimate Enemy",
-    "id": "ngba170",
+    "id": "ngba176",
     "igdbId": 6365,
     "gbId": 27765,
     "gbGuid": "3030-27765",
@@ -4076,7 +4219,7 @@
   },
   {
     "name": "Nickelodeon Drake & Josh",
-    "id": "ngba171",
+    "id": "ngba177",
     "igdbId": 6385,
     "gbId": 23903,
     "gbGuid": "3030-23903",
@@ -4100,7 +4243,7 @@
   },
   {
     "name": "Nicktoons: Freeze Frame Frenzy",
-    "id": "ngba172",
+    "id": "ngba178",
     "igdbId": 2766,
     "gbId": 27253,
     "gbGuid": "3030-27253",
@@ -4124,7 +4267,7 @@
   },
   {
     "name": "Ninja Five-O",
-    "id": "ngba173",
+    "id": "ngba179",
     "igdbId": 6524,
     "gbId": 13904,
     "gbGuid": "3030-13904",
@@ -4148,7 +4291,7 @@
   },
   {
     "name": "No Rules: Get Phat",
-    "id": "ngba174",
+    "id": "ngba180",
     "igdbId": 6525,
     "gbId": 41879,
     "gbGuid": "3030-41879",
@@ -4172,7 +4315,7 @@
   },
   {
     "name": "One Piece",
-    "id": "ngba175",
+    "id": "ngba181",
     "igdbId": 75755,
     "gbId": 33385,
     "gbGuid": "3030-33385",
@@ -4195,7 +4338,7 @@
   },
   {
     "name": "Pac-Man Pinball Advance",
-    "id": "ngba176",
+    "id": "ngba182",
     "igdbId": 6529,
     "gbId": 30902,
     "gbGuid": "3030-30902",
@@ -4219,7 +4362,7 @@
   },
   {
     "name": "Pinobee: Wings of Adventure",
-    "id": "ngba177",
+    "id": "ngba183",
     "igdbId": 6535,
     "gbId": 6584,
     "gbGuid": "3030-6584",
@@ -4243,7 +4386,7 @@
   },
   {
     "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
-    "id": "ngba178",
+    "id": "ngba184",
     "igdbId": 19218,
     "gbId": 13282,
     "gbGuid": "3030-13282",
@@ -4267,7 +4410,7 @@
   },
   {
     "name": "Pitfall: The Lost Expedition",
-    "id": "ngba179",
+    "id": "ngba185",
     "igdbId": 4070,
     "gbId": 7298,
     "gbGuid": "3030-7298",
@@ -4291,7 +4434,7 @@
   },
   {
     "name": "Pitfall: The Mayan Adventure",
-    "id": "ngba180",
+    "id": "ngba186",
     "igdbId": 5410,
     "gbId": 9331,
     "gbGuid": "3030-9331",
@@ -4315,7 +4458,7 @@
   },
   {
     "name": "Pokémon Emerald",
-    "id": "ngba181",
+    "id": "ngba187",
     "igdbId": 1517,
     "gbId": 11552,
     "gbGuid": "3030-11552",
@@ -4339,7 +4482,7 @@
   },
   {
     "name": "Pokémon FireRed Version",
-    "id": "ngba182",
+    "id": "ngba188",
     "igdbId": 1559,
     "gbId": 14522,
     "gbGuid": "3030-14522",
@@ -4387,7 +4530,7 @@
   },
   {
     "name": "Pokémon LeafGreen Version",
-    "id": "ngba183",
+    "id": "ngba189",
     "igdbId": 1516,
     "gbId": 14522,
     "gbGuid": "3030-14522",
@@ -4430,7 +4573,7 @@
   },
   {
     "name": "Pokémon Ruby",
-    "id": "ngba184",
+    "id": "ngba190",
     "igdbId": 1557,
     "gbId": 10122,
     "gbGuid": "3030-10122",
@@ -4460,7 +4603,7 @@
   },
   {
     "name": "Pokémon Sapphire Version",
-    "id": "ngba185",
+    "id": "ngba191",
     "igdbId": 1515,
     "gbId": 10122,
     "gbGuid": "3030-10122",
@@ -4484,7 +4627,7 @@
   },
   {
     "name": "Popeye",
-    "id": "ngba186",
+    "id": "ngba192",
     "igdbId": 6538,
     "gbId": 43,
     "gbGuid": "3030-43",
@@ -4508,7 +4651,7 @@
   },
   {
     "name": "Power Rangers: S.P.D.",
-    "id": "ngba187",
+    "id": "ngba193",
     "igdbId": 3292,
     "gbId": null,
     "gbGuid": null,
@@ -4532,7 +4675,7 @@
   },
   {
     "name": "Power Rangers: Time Force",
-    "id": "ngba188",
+    "id": "ngba194",
     "igdbId": 3293,
     "gbId": null,
     "gbGuid": null,
@@ -4556,7 +4699,7 @@
   },
   {
     "name": "Power Rangers: Wild Force",
-    "id": "ngba189",
+    "id": "ngba195",
     "igdbId": 49181,
     "gbId": null,
     "gbGuid": null,
@@ -4580,7 +4723,7 @@
   },
   {
     "name": "Puyo Pop",
-    "id": "ngba190",
+    "id": "ngba196",
     "igdbId": 81459,
     "gbId": 40279,
     "gbGuid": "3030-40279",
@@ -4604,7 +4747,7 @@
   },
   {
     "name": "Racing Gears Advance",
-    "id": "ngba191",
+    "id": "ngba197",
     "igdbId": 6551,
     "gbId": 14600,
     "gbGuid": "3030-14600",
@@ -4628,7 +4771,7 @@
   },
   {
     "name": "Rampage: Puzzle Attack",
-    "id": "ngba192",
+    "id": "ngba198",
     "igdbId": 6552,
     "gbId": 5109,
     "gbGuid": "3030-5109",
@@ -4652,7 +4795,7 @@
   },
   {
     "name": "Rayman Advance",
-    "id": "ngba193",
+    "id": "ngba199",
     "igdbId": 22012,
     "gbId": null,
     "gbGuid": null,
@@ -4676,7 +4819,7 @@
   },
   {
     "name": "Rayman: Hoodlum's Revenge",
-    "id": "ngba194",
+    "id": "ngba200",
     "igdbId": 1967,
     "gbId": 6833,
     "gbGuid": "3030-6833",
@@ -4706,7 +4849,7 @@
   },
   {
     "name": "Ready 2 Rumble Boxing: Round 2",
-    "id": "ngba195",
+    "id": "ngba201",
     "igdbId": 3587,
     "gbId": 11649,
     "gbGuid": "3030-11649",
@@ -4730,7 +4873,7 @@
   },
   {
     "name": "Rebelstar: Tactical Command",
-    "id": "ngba196",
+    "id": "ngba202",
     "igdbId": 6554,
     "gbId": 17276,
     "gbGuid": "3030-17276",
@@ -4760,7 +4903,7 @@
   },
   {
     "name": "Recca no Honoo: Flame of Recca",
-    "id": "ngba197",
+    "id": "ngba203",
     "igdbId": 49412,
     "gbId": 43479,
     "gbGuid": "3030-43479",
@@ -4784,7 +4927,7 @@
   },
   {
     "name": "Reign of Fire",
-    "id": "ngba198",
+    "id": "ngba204",
     "igdbId": 4086,
     "gbId": 8994,
     "gbGuid": "3030-8994",
@@ -4808,7 +4951,7 @@
   },
   {
     "name": "Robopon 2: Cross Version",
-    "id": "ngba199",
+    "id": "ngba205",
     "igdbId": 6561,
     "gbId": 23117,
     "gbGuid": "3030-23117",
@@ -4832,7 +4975,7 @@
   },
   {
     "name": "Robopon 2: Ring Version",
-    "id": "ngba200",
+    "id": "ngba206",
     "igdbId": 6560,
     "gbId": 23117,
     "gbGuid": "3030-23117",
@@ -4856,7 +4999,7 @@
   },
   {
     "name": "Robot Wars: Advanced Destruction",
-    "id": "ngba201",
+    "id": "ngba207",
     "igdbId": 6562,
     "gbId": 19360,
     "gbGuid": "3030-19360",
@@ -4880,7 +5023,7 @@
   },
   {
     "name": "Robotech: The Macross Saga",
-    "id": "ngba202",
+    "id": "ngba208",
     "igdbId": 6563,
     "gbId": 6233,
     "gbGuid": "3030-6233",
@@ -4903,8 +5046,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Rock 'Em Sock 'Em Robots",
+    "id": "ngba209",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 28199,
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Rockman EXE 4.5 Real Operation",
-    "id": "ngba203",
+    "id": "ngba210",
     "igdbId": 1769,
     "gbId": 11723,
     "gbGuid": "3030-11723",
@@ -4928,7 +5095,7 @@
   },
   {
     "name": "Rugrats: Castle Capers",
-    "id": "ngba204",
+    "id": "ngba211",
     "igdbId": 2795,
     "gbId": 35641,
     "gbGuid": "3030-35641",
@@ -4952,7 +5119,7 @@
   },
   {
     "name": "Rugrats: I Gotta Go Party",
-    "id": "ngba205",
+    "id": "ngba212",
     "igdbId": 2794,
     "gbId": 18124,
     "gbGuid": "3030-18124",
@@ -4976,7 +5143,7 @@
   },
   {
     "name": "Sabre Wulf",
-    "id": "ngba206",
+    "id": "ngba213",
     "igdbId": 6582,
     "gbId": 23502,
     "gbGuid": "3030-23502",
@@ -5000,7 +5167,7 @@
   },
   {
     "name": "Sakura Momoko no UkiUki Carnival",
-    "id": "ngba207",
+    "id": "ngba214",
     "igdbId": 6583,
     "gbId": null,
     "gbGuid": null,
@@ -5024,7 +5191,7 @@
   },
   {
     "name": "Samurai Jack: The Amulet of Time",
-    "id": "ngba208",
+    "id": "ngba215",
     "igdbId": 2822,
     "gbId": 3116,
     "gbGuid": "3030-3116",
@@ -5048,7 +5215,7 @@
   },
   {
     "name": "Sea Trader: Rise of Taipan",
-    "id": "ngba209",
+    "id": "ngba216",
     "igdbId": 49386,
     "gbId": 734,
     "gbGuid": "3030-734",
@@ -5072,7 +5239,7 @@
   },
   {
     "name": "Secret of Mana",
-    "id": "ngba210",
+    "id": "ngba217",
     "igdbId": 6630,
     "gbId": 2248,
     "gbGuid": "3030-2248",
@@ -5096,7 +5263,7 @@
   },
   {
     "name": "Sega Arcade Gallery",
-    "id": "ngba211",
+    "id": "ngba218",
     "igdbId": 22241,
     "gbId": 4335,
     "gbGuid": "3030-4335",
@@ -5120,7 +5287,7 @@
   },
   {
     "name": "Serious Sam Advance",
-    "id": "ngba212",
+    "id": "ngba219",
     "igdbId": 6587,
     "gbId": 32989,
     "gbGuid": "3030-32989",
@@ -5144,7 +5311,7 @@
   },
   {
     "name": "Shaman King: Master of Spirits 2",
-    "id": "ngba213",
+    "id": "ngba220",
     "igdbId": 6591,
     "gbId": 18224,
     "gbGuid": "3030-18224",
@@ -5168,7 +5335,7 @@
   },
   {
     "name": "Shining Soul",
-    "id": "ngba214",
+    "id": "ngba221",
     "igdbId": 6593,
     "gbId": 16201,
     "gbGuid": "3030-16201",
@@ -5192,7 +5359,7 @@
   },
   {
     "name": "Shining Soul II",
-    "id": "ngba215",
+    "id": "ngba222",
     "igdbId": 6594,
     "gbId": 14289,
     "gbGuid": "3030-14289",
@@ -5216,7 +5383,7 @@
   },
   {
     "name": "Shonen Jump's Shaman King: Legacy of the Spirits, Soaring Hawk",
-    "id": "ngba216",
+    "id": "ngba223",
     "igdbId": 6588,
     "gbId": 26575,
     "gbGuid": "3030-26575",
@@ -5240,7 +5407,7 @@
   },
   {
     "name": "Shonen Jump's Shaman King: Legacy of the Spirits, Sprinting Wolf",
-    "id": "ngba217",
+    "id": "ngba224",
     "igdbId": 6589,
     "gbId": 26576,
     "gbGuid": "3030-26576",
@@ -5264,7 +5431,7 @@
   },
   {
     "name": "Shonen Jump's Shaman King: Master of Spirits",
-    "id": "ngba218",
+    "id": "ngba225",
     "igdbId": 6590,
     "gbId": 19486,
     "gbGuid": "3030-19486",
@@ -5288,7 +5455,7 @@
   },
   {
     "name": "Shrek: Hassle at the Castle",
-    "id": "ngba219",
+    "id": "ngba226",
     "igdbId": 49241,
     "gbId": 19239,
     "gbGuid": "3030-19239",
@@ -5312,7 +5479,7 @@
   },
   {
     "name": "Sigma Star Saga",
-    "id": "ngba220",
+    "id": "ngba227",
     "igdbId": 6595,
     "gbId": 3955,
     "gbGuid": "3030-3955",
@@ -5336,7 +5503,7 @@
   },
   {
     "name": "Slime MoriMori Dragon Quest: Shougeki No Shippo Dan",
-    "id": "ngba221",
+    "id": "ngba228",
     "igdbId": 1823,
     "gbId": 24123,
     "gbGuid": "3030-24123",
@@ -5360,7 +5527,7 @@
   },
   {
     "name": "Sonic Battle",
-    "id": "ngba222",
+    "id": "ngba229",
     "igdbId": 6600,
     "gbId": 9985,
     "gbGuid": "3030-9985",
@@ -5384,7 +5551,7 @@
   },
   {
     "name": "Sonic Pinball Party",
-    "id": "ngba223",
+    "id": "ngba230",
     "igdbId": 6601,
     "gbId": 4979,
     "gbGuid": "3030-4979",
@@ -5408,7 +5575,7 @@
   },
   {
     "name": "Spider-Man: Mysterio's Menace",
-    "id": "ngba224",
+    "id": "ngba231",
     "igdbId": 6605,
     "gbId": 19475,
     "gbGuid": "3030-19475",
@@ -5432,7 +5599,7 @@
   },
   {
     "name": "Spyro 2: Season of Flame",
-    "id": "ngba225",
+    "id": "ngba232",
     "igdbId": 1588,
     "gbId": 13370,
     "gbGuid": "3030-13370",
@@ -5456,7 +5623,7 @@
   },
   {
     "name": "Spyro: Attack of the Rhynocs",
-    "id": "ngba226",
+    "id": "ngba233",
     "igdbId": 1589,
     "gbId": 19433,
     "gbGuid": "3030-19433",
@@ -5480,7 +5647,7 @@
   },
   {
     "name": "Spyro: Season of Ice",
-    "id": "ngba227",
+    "id": "ngba234",
     "igdbId": 1587,
     "gbId": 10579,
     "gbGuid": "3030-10579",
@@ -5504,7 +5671,7 @@
   },
   {
     "name": "Star Wars Trilogy: Apprentice of the Force",
-    "id": "ngba228",
+    "id": "ngba235",
     "igdbId": 6609,
     "gbId": 7262,
     "gbGuid": "3030-7262",
@@ -5528,7 +5695,7 @@
   },
   {
     "name": "Star Wars: Episode II: Attack of the Clones",
-    "id": "ngba229",
+    "id": "ngba236",
     "igdbId": 18951,
     "gbId": 18331,
     "gbGuid": "3030-18331",
@@ -5552,7 +5719,7 @@
   },
   {
     "name": "Star Wars: Flight of the Falcon",
-    "id": "ngba230",
+    "id": "ngba237",
     "igdbId": 6608,
     "gbId": 10164,
     "gbGuid": "3030-10164",
@@ -5576,7 +5743,7 @@
   },
   {
     "name": "Star Wars: The New Droid Army",
-    "id": "ngba231",
+    "id": "ngba238",
     "igdbId": 6607,
     "gbId": 2201,
     "gbGuid": "3030-2201",
@@ -5600,7 +5767,7 @@
   },
   {
     "name": "Star X",
-    "id": "ngba232",
+    "id": "ngba239",
     "igdbId": 6610,
     "gbId": 4164,
     "gbGuid": "3030-4164",
@@ -5624,7 +5791,7 @@
   },
   {
     "name": "Summon Night Craft Sword Monogatari: Hajimari no Ishi",
-    "id": "ngba233",
+    "id": "ngba240",
     "igdbId": 49810,
     "gbId": 163,
     "gbGuid": "3030-163",
@@ -5648,7 +5815,7 @@
   },
   {
     "name": "Summon Night: Swordcraft Story",
-    "id": "ngba234",
+    "id": "ngba241",
     "igdbId": 6615,
     "gbId": 294,
     "gbGuid": "3030-294",
@@ -5672,7 +5839,7 @@
   },
   {
     "name": "Summon Night: Swordcraft Story 2",
-    "id": "ngba235",
+    "id": "ngba242",
     "igdbId": 6616,
     "gbId": 14817,
     "gbGuid": "3030-14817",
@@ -5696,7 +5863,7 @@
   },
   {
     "name": "Super Army War",
-    "id": "ngba236",
+    "id": "ngba243",
     "igdbId": 6617,
     "gbId": 22684,
     "gbGuid": "3030-22684",
@@ -5720,7 +5887,7 @@
   },
   {
     "name": "Super Chinese 1+2 Advance",
-    "id": "ngba237",
+    "id": "ngba244",
     "igdbId": 63963,
     "gbId": 41294,
     "gbGuid": "3030-41294",
@@ -5744,7 +5911,7 @@
   },
   {
     "name": "Super Dodge Ball Advance",
-    "id": "ngba238",
+    "id": "ngba245",
     "igdbId": 6620,
     "gbId": 13484,
     "gbGuid": "3030-13484",
@@ -5778,7 +5945,7 @@
   },
   {
     "name": "Super Duper Sumos",
-    "id": "ngba239",
+    "id": "ngba246",
     "details": [
       "Nintendo Game Boy Advance exclusive"
     ],
@@ -5798,7 +5965,7 @@
   },
   {
     "name": "Super Mario Advance",
-    "id": "ngba240",
+    "id": "ngba247",
     "igdbId": 81197,
     "gbId": 5215,
     "gbGuid": "3030-5215",
@@ -5835,7 +6002,7 @@
   },
   {
     "name": "Super Mario Advance 3: Yoshi's Island",
-    "id": "ngba241",
+    "id": "ngba248",
     "igdbId": 16747,
     "gbId": 11016,
     "gbGuid": "3030-11016",
@@ -5861,7 +6028,7 @@
   },
   {
     "name": "Super Mario World: Super Mario Advance 2",
-    "id": "ngba242",
+    "id": "ngba249",
     "igdbId": 16617,
     "gbId": 7551,
     "gbGuid": "3030-7551",
@@ -5886,8 +6053,148 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Robot Taisen: Original Generation",
+    "id": "ngba250",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Robot Taisen: Original Generation 2",
+    "id": "ngba251",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Robot Wars D",
+    "id": "ngba252",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Robot Wars J",
+    "id": "ngba253",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Robot Wars R",
+    "id": "ngba254",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Superman Returns: Fortress of Solitude",
+    "id": "ngba255",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Superman: Countdown to Apokolips",
+    "id": "ngba256",
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Surf's Up",
-    "id": "ngba243",
+    "id": "ngba257",
     "igdbId": 4191,
     "gbId": 7576,
     "gbGuid": "3030-7576",
@@ -5911,7 +6218,7 @@
   },
   {
     "name": "TMNT",
-    "id": "ngba244",
+    "id": "ngba258",
     "igdbId": 3817,
     "gbId": 4443,
     "gbGuid": "3030-4443",
@@ -5935,7 +6242,7 @@
   },
   {
     "name": "Tactics Ogre: The Knight of Lodis",
-    "id": "ngba245",
+    "id": "ngba259",
     "igdbId": 6635,
     "gbId": 12869,
     "gbGuid": "3030-12869",
@@ -5959,7 +6266,7 @@
   },
   {
     "name": "Tales of the World: Narikiri Dungeon 2",
-    "id": "ngba246",
+    "id": "ngba260",
     "igdbId": 49828,
     "gbId": 25908,
     "gbGuid": "3030-25908",
@@ -5983,7 +6290,7 @@
   },
   {
     "name": "Tales of the World: Narikiri Dungeon 3",
-    "id": "ngba247",
+    "id": "ngba261",
     "igdbId": 49827,
     "gbId": 31224,
     "gbGuid": "3030-31224",
@@ -6007,7 +6314,7 @@
   },
   {
     "name": "Tales of the World: Summoner's Lineage",
-    "id": "ngba248",
+    "id": "ngba262",
     "igdbId": 49826,
     "gbId": 25909,
     "gbGuid": "3030-25909",
@@ -6031,7 +6338,7 @@
   },
   {
     "name": "Tang Tang",
-    "id": "ngba249",
+    "id": "ngba263",
     "igdbId": 39912,
     "gbId": 27968,
     "gbGuid": "3030-27968",
@@ -6055,7 +6362,7 @@
   },
   {
     "name": "Teen Titans",
-    "id": "ngba250",
+    "id": "ngba264",
     "igdbId": 4195,
     "gbId": 2894,
     "gbGuid": "3030-2894",
@@ -6079,7 +6386,7 @@
   },
   {
     "name": "Teenage Mutant Hero Turtles",
-    "id": "ngba251",
+    "id": "ngba265",
     "igdbId": 19747,
     "gbId": 26368,
     "gbGuid": "3030-26368",
@@ -6103,7 +6410,7 @@
   },
   {
     "name": "Tekken Advance",
-    "id": "ngba252",
+    "id": "ngba266",
     "igdbId": 1240,
     "gbId": 3243,
     "gbGuid": "3030-3243",
@@ -6133,7 +6440,7 @@
   },
   {
     "name": "Terminator 3: Rise of the Machines",
-    "id": "ngba253",
+    "id": "ngba267",
     "igdbId": 6196,
     "gbId": 6580,
     "gbGuid": "3030-6580",
@@ -6157,7 +6464,7 @@
   },
   {
     "name": "The Cheetah Girls",
-    "id": "ngba254",
+    "id": "ngba268",
     "igdbId": 49367,
     "gbId": null,
     "gbGuid": null,
@@ -6180,8 +6487,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "The Game of Life / Yahtzee / Payday",
+    "id": "ngba269",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 22230,
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Legend of Zelda: A Link to the Past & Four Swords",
-    "id": "ngba255",
+    "id": "ngba270",
     "igdbId": 77336,
     "gbId": 35064,
     "gbGuid": "3030-35064",
@@ -6207,7 +6538,7 @@
   },
   {
     "name": "The Lord of the Rings: The Third Age",
-    "id": "ngba256",
+    "id": "ngba271",
     "igdbId": 6500,
     "gbId": 2959,
     "gbGuid": "3030-2959",
@@ -6231,7 +6562,7 @@
   },
   {
     "name": "The Pinball of the Dead",
-    "id": "ngba257",
+    "id": "ngba272",
     "igdbId": 6534,
     "gbId": 4130,
     "gbGuid": "3030-4130",
@@ -6255,7 +6586,7 @@
   },
   {
     "name": "The Revenge of Shinobi",
-    "id": "ngba258",
+    "id": "ngba273",
     "igdbId": 10222,
     "gbId": 40139,
     "gbGuid": "3030-40139",
@@ -6279,7 +6610,7 @@
   },
   {
     "name": "The Scorpion King: Sword of Osiris",
-    "id": "ngba259",
+    "id": "ngba274",
     "igdbId": 49236,
     "gbId": 12281,
     "gbGuid": "3030-12281",
@@ -6303,7 +6634,7 @@
   },
   {
     "name": "The Tower SP",
-    "id": "ngba260",
+    "id": "ngba275",
     "igdbId": 6639,
     "gbId": 29129,
     "gbGuid": "3030-29129",
@@ -6327,7 +6658,7 @@
   },
   {
     "name": "Tim Burton's The Nightmare Before Christmas: The Pumpkin King",
-    "id": "ngba261",
+    "id": "ngba276",
     "igdbId": 49246,
     "gbId": 11486,
     "gbGuid": "3030-11486",
@@ -6351,7 +6682,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Buster's Bad Dream",
-    "id": "ngba262",
+    "id": "ngba277",
     "igdbId": 6640,
     "gbId": 7204,
     "gbGuid": "3030-7204",
@@ -6374,7 +6705,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Wacky Stackers",
-    "id": "ngba263",
+    "id": "ngba278",
     "igdbId": 6642,
     "gbId": 3587,
     "gbGuid": "3030-3587",
@@ -6398,7 +6729,7 @@
   },
   {
     "name": "Tokyo Majin Gakuen: Fuju Houroku",
-    "id": "ngba264",
+    "id": "ngba279",
     "igdbId": 37471,
     "gbId": 33481,
     "gbGuid": "3030-33481",
@@ -6422,7 +6753,7 @@
   },
   {
     "name": "Tomb Raider the Prophecy",
-    "id": "ngba265",
+    "id": "ngba280",
     "igdbId": 18809,
     "gbId": 7141,
     "gbGuid": "3030-7141",
@@ -6446,7 +6777,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater 2",
-    "id": "ngba266",
+    "id": "ngba281",
     "igdbId": 913,
     "gbId": 990,
     "gbGuid": "3030-990",
@@ -6470,7 +6801,7 @@
   },
   {
     "name": "Top Gear GT Championship",
-    "id": "ngba267",
+    "id": "ngba282",
     "igdbId": 49342,
     "gbId": 36510,
     "gbGuid": "3030-36510",
@@ -6494,7 +6825,7 @@
   },
   {
     "name": "Totally Spies!",
-    "id": "ngba268",
+    "id": "ngba283",
     "igdbId": 8021,
     "gbId": 15202,
     "gbGuid": "3030-15202",
@@ -6517,8 +6848,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Uchuu no Stellvia",
+    "id": "ngba284",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 46644,
+    "details": [
+      "Nintendo Game Boy Advance exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Game Boy Advance",
+        "id": "ccl10",
+        "igdbId": 24,
+        "gbId": 4,
+        "gbGuid": "3045-4",
+        "tgdbId": 5
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Urban Yeti!",
-    "id": "ngba269",
+    "id": "ngba285",
     "igdbId": 6647,
     "gbId": 11262,
     "gbGuid": "3030-11262",
@@ -6542,7 +6897,7 @@
   },
   {
     "name": "W.I.T.C.H.",
-    "id": "ngba270",
+    "id": "ngba286",
     "igdbId": 6682,
     "gbId": null,
     "gbGuid": null,
@@ -6566,7 +6921,7 @@
   },
   {
     "name": "WWE Road to WrestleMania X8",
-    "id": "ngba271",
+    "id": "ngba287",
     "igdbId": 6683,
     "gbId": 14912,
     "gbGuid": "3030-14912",
@@ -6590,7 +6945,7 @@
   },
   {
     "name": "WWE Survivor Series",
-    "id": "ngba272",
+    "id": "ngba288",
     "igdbId": 6685,
     "gbId": 27740,
     "gbGuid": "3030-27740",
@@ -6614,7 +6969,7 @@
   },
   {
     "name": "WWF Road to Wrestlemania",
-    "id": "ngba273",
+    "id": "ngba289",
     "igdbId": 6686,
     "gbId": 38403,
     "gbGuid": "3030-38403",
@@ -6638,7 +6993,7 @@
   },
   {
     "name": "Wade Hixton's Counter Punch",
-    "id": "ngba274",
+    "id": "ngba290",
     "igdbId": 6676,
     "gbId": 1928,
     "gbGuid": "3030-1928",
@@ -6662,7 +7017,7 @@
   },
   {
     "name": "WarioWare: Twisted!",
-    "id": "ngba275",
+    "id": "ngba291",
     "igdbId": 1704,
     "gbId": 12208,
     "gbGuid": "3030-12208",
@@ -6686,7 +7041,7 @@
   },
   {
     "name": "X-Men: Reign of Apocalypse",
-    "id": "ngba276",
+    "id": "ngba292",
     "igdbId": 6688,
     "gbId": 6206,
     "gbGuid": "3030-6206",
@@ -6710,7 +7065,7 @@
   },
   {
     "name": "X-Men: The Official Game",
-    "id": "ngba277",
+    "id": "ngba293",
     "igdbId": 4578,
     "gbId": 232,
     "gbGuid": "3030-232",
@@ -6734,7 +7089,7 @@
   },
   {
     "name": "Yoshi Topsy-Turvy",
-    "id": "ngba278",
+    "id": "ngba294",
     "igdbId": 49212,
     "gbId": 1307,
     "gbGuid": "3030-1307",
@@ -6760,7 +7115,7 @@
   },
   {
     "name": "Yoshi's Universal Gravitation",
-    "id": "ngba279",
+    "id": "ngba295",
     "igdbId": 6694,
     "gbId": null,
     "gbGuid": null,
@@ -6783,7 +7138,7 @@
   },
   {
     "name": "Yu Yu Hakusho - Ghost Files: Spirit Detective",
-    "id": "ngba280",
+    "id": "ngba296",
     "igdbId": 6696,
     "gbId": null,
     "gbGuid": null,
@@ -6807,7 +7162,7 @@
   },
   {
     "name": "Yu Yu Hakusho: Tournament Tactics",
-    "id": "ngba281",
+    "id": "ngba297",
     "igdbId": 6695,
     "gbId": null,
     "gbGuid": null,
@@ -6831,7 +7186,7 @@
   },
   {
     "name": "Yu-Gi-Oh! The Sacred Cards",
-    "id": "ngba282",
+    "id": "ngba298",
     "igdbId": 6697,
     "gbId": 17038,
     "gbGuid": "3030-17038",
@@ -6855,7 +7210,7 @@
   },
   {
     "name": "Yu-Gi-Oh! World Championship Tournament 2004",
-    "id": "ngba283",
+    "id": "ngba299",
     "igdbId": 6698,
     "gbId": 17067,
     "gbGuid": "3030-17067",
@@ -6879,7 +7234,7 @@
   },
   {
     "name": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
-    "id": "ngba284",
+    "id": "ngba300",
     "igdbId": 6699,
     "gbId": 19813,
     "gbGuid": "3030-19813",
@@ -6903,7 +7258,7 @@
   },
   {
     "name": "Zone of the Enders: The Fist of Mars",
-    "id": "ngba285",
+    "id": "ngba301",
     "igdbId": 1474,
     "gbId": 19532,
     "gbGuid": "3030-19532",
@@ -6927,7 +7282,7 @@
   },
   {
     "name": "bit Generations: Boundish",
-    "id": "ngba286",
+    "id": "ngba302",
     "igdbId": 49436,
     "gbId": null,
     "gbGuid": null,
@@ -6951,7 +7306,7 @@
   },
   {
     "name": "bit Generations: Coloris",
-    "id": "ngba287",
+    "id": "ngba303",
     "igdbId": 49483,
     "gbId": null,
     "gbGuid": null,
@@ -6975,7 +7330,7 @@
   },
   {
     "name": "bit Generations: Dialhex",
-    "id": "ngba288",
+    "id": "ngba304",
     "igdbId": 49484,
     "gbId": null,
     "gbGuid": null,
@@ -6999,7 +7354,7 @@
   },
   {
     "name": "bit Generations: Digidrive",
-    "id": "ngba289",
+    "id": "ngba305",
     "igdbId": 49481,
     "gbId": null,
     "gbGuid": null,
@@ -7023,7 +7378,7 @@
   },
   {
     "name": "bit Generations: Dotstream",
-    "id": "ngba290",
+    "id": "ngba306",
     "igdbId": 49452,
     "gbId": null,
     "gbGuid": null,
@@ -7047,7 +7402,7 @@
   },
   {
     "name": "bit Generations: Orbital",
-    "id": "ngba291",
+    "id": "ngba307",
     "igdbId": 49513,
     "gbId": null,
     "gbGuid": null,
@@ -7071,7 +7426,7 @@
   },
   {
     "name": "bit Generations: Soundvoyager",
-    "id": "ngba292",
+    "id": "ngba308",
     "igdbId": 49482,
     "gbId": null,
     "gbGuid": null,

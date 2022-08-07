@@ -537,8 +537,31 @@
     "misprintsErrors": []
   },
   {
-    "name": "Missile Command 3D",
+    "name": "Mad Bodies",
     "id": "ajag22",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Atari Jaguar exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Atari Jaguar",
+        "id": "ccl31",
+        "igdbId": 62,
+        "gbId": 28,
+        "gbGuid": "3045-28",
+        "tgdbId": 28
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Missile Command 3D",
+    "id": "ajag23",
     "igdbId": 40810,
     "gbId": 10551,
     "gbGuid": "3030-10551",
@@ -562,7 +585,7 @@
   },
   {
     "name": "Power Drive Rally",
-    "id": "ajag23",
+    "id": "ajag24",
     "igdbId": 79089,
     "gbId": 4330,
     "gbGuid": "3030-4330",
@@ -586,7 +609,7 @@
   },
   {
     "name": "Protector",
-    "id": "ajag24",
+    "id": "ajag25",
     "igdbId": 95461,
     "gbId": 9835,
     "gbGuid": "3030-9835",
@@ -610,7 +633,7 @@
   },
   {
     "name": "Raiden",
-    "id": "ajag25",
+    "id": "ajag26",
     "igdbId": 6841,
     "gbId": 16693,
     "gbGuid": "3030-16693",
@@ -634,7 +657,7 @@
   },
   {
     "name": "Ruiner Pinball",
-    "id": "ajag26",
+    "id": "ajag27",
     "igdbId": 40825,
     "gbId": 391,
     "gbGuid": "3030-391",
@@ -658,7 +681,7 @@
   },
   {
     "name": "Skyhammer",
-    "id": "ajag27",
+    "id": "ajag28",
     "igdbId": 40807,
     "gbId": 12340,
     "gbGuid": "3030-12340",
@@ -682,7 +705,7 @@
   },
   {
     "name": "Super Burnout",
-    "id": "ajag28",
+    "id": "ajag29",
     "igdbId": 40824,
     "gbId": 20419,
     "gbGuid": "3030-20419",
@@ -706,7 +729,7 @@
   },
   {
     "name": "SuperCross 3D",
-    "id": "ajag29",
+    "id": "ajag30",
     "igdbId": 40823,
     "gbId": 4171,
     "gbGuid": "3030-4171",
@@ -730,7 +753,7 @@
   },
   {
     "name": "Trevor McFur in the Crescent Galaxy",
-    "id": "ajag30",
+    "id": "ajag31",
     "igdbId": 40830,
     "gbId": 19437,
     "gbGuid": "3030-19437",
@@ -764,7 +787,7 @@
   },
   {
     "name": "Ultra Vortek",
-    "id": "ajag31",
+    "id": "ajag32",
     "igdbId": 40822,
     "gbId": 17527,
     "gbGuid": "3030-17527",
@@ -788,7 +811,7 @@
   },
   {
     "name": "Val d'Isère Skiing and Snowboarding",
-    "id": "ajag32",
+    "id": "ajag33",
     "igdbId": 68747,
     "gbId": 13042,
     "gbGuid": "3030-13042",
@@ -811,7 +834,7 @@
   },
   {
     "name": "White Men Can't Jump",
-    "id": "ajag33",
+    "id": "ajag34",
     "igdbId": 40821,
     "gbId": 5958,
     "gbGuid": "3030-5958",
@@ -835,7 +858,7 @@
   },
   {
     "name": "World Tour Racing",
-    "id": "ajag34",
+    "id": "ajag35",
     "igdbId": 46923,
     "gbId": 14464,
     "gbGuid": "3030-14464",
@@ -859,7 +882,7 @@
   },
   {
     "name": "Zero 5",
-    "id": "ajag35",
+    "id": "ajag36",
     "igdbId": 40818,
     "gbId": 8525,
     "gbGuid": "3030-8525",

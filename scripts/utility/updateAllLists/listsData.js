@@ -855,5 +855,15 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: [require(path.resolve(smallFiles, 'special/fairchildChannelFBuiltInGames.json'))],
     output: path.resolve(consoleLists, 'FairchildChannelF.json')
+  },
+  {
+    name: 'SSD Company Limited XaviXPORT',
+    id: 'ccl58',
+    prefix: 'sxp',
+    launchTitles: require('../../../finalOutput/smallFiles/launchTitles/xavixPortLaunchTitles.json'),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'XaviXPORT.json')
   }
 ];

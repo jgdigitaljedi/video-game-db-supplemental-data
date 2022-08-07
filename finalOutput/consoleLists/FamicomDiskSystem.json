@@ -309,8 +309,32 @@
     "misprintsErrors": []
   },
   {
-    "name": "Soccer",
+    "name": "Risa no Yousei Densetsu",
     "id": "fds13",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 42797,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Soccer",
+    "id": "fds14",
     "igdbId": 86375,
     "gbId": 12955,
     "gbGuid": "3030-12955",
@@ -332,8 +356,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Suishō no Dragon",
+    "id": "fds15",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Super Boy Allan",
-    "id": "fds14",
+    "id": "fds16",
     "igdbId": 41305,
     "gbId": 42272,
     "gbGuid": "3030-42272",
@@ -357,7 +404,7 @@
   },
   {
     "name": "Super Mario Bros.",
-    "id": "fds15",
+    "id": "fds17",
     "igdbId": 358,
     "gbId": 15544,
     "gbGuid": "3030-15544",
@@ -380,7 +427,7 @@
   },
   {
     "name": "Tama and Friends",
-    "id": "fds16",
+    "id": "fds18",
     "igdbId": 80502,
     "gbId": 40596,
     "gbGuid": "3030-40596",
@@ -403,7 +450,7 @@
   },
   {
     "name": "Tennis",
-    "id": "fds17",
+    "id": "fds19",
     "igdbId": 74548,
     "gbId": 20780,
     "gbGuid": "3030-20780",
@@ -426,7 +473,7 @@
   },
   {
     "name": "The Legend of Zelda",
-    "id": "fds18",
+    "id": "fds20",
     "igdbId": 1022,
     "gbId": 11949,
     "gbGuid": "3030-11949",
@@ -449,7 +496,7 @@
   },
   {
     "name": "The Sword of Kalin",
-    "id": "fds19",
+    "id": "fds21",
     "igdbId": 41286,
     "gbId": 39606,
     "gbGuid": "3030-39606",
@@ -473,11 +520,34 @@
   },
   {
     "name": "Time Twist Rekishi no Katasumi de... - Kouhen",
-    "id": "fds20",
+    "id": "fds22",
     "igdbId": 41361,
     "gbId": 37842,
     "gbGuid": "3030-37842",
     "tgdbId": 42898,
+    "details": [
+      "Famicom Disk System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Famicom Disk System",
+        "id": "ccl48",
+        "igdbId": 51,
+        "gbId": 91,
+        "gbGuid": "3045-91",
+        "tgdbId": 4936
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Yūyūki",
+    "id": "fds23",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
     "details": [
       "Famicom Disk System exclusive"
     ],

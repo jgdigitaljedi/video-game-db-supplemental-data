@@ -152,11 +152,6 @@
         "image": "https://iamerror.gamehacking.org/Nintendo/switch/flinthook.jpg",
         "details": "no text on back",
         "type": "Printing"
-      },
-      {
-        "image": "https://iamerror.gamehacking.org/Nintendo/switch/kuniokuntheworld.jpg",
-        "details": "says 'Titles not not included in Japan' beneath a picture",
-        "type": "Typo"
       }
     ]
   },
@@ -245,8 +240,26 @@
     "misprintsErrors": []
   },
   {
-    "name": "LEGO City Undercover",
+    "name": "Kunio-Kun the World Classics Collection (Asia)",
     "id": "nsw12",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/switch/kuniokuntheworld.jpg",
+        "details": "says 'Titles not not included in Japan' beneath a picture",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
+    "name": "LEGO City Undercover",
+    "id": "nsw13",
     "igdbId": 2177,
     "gbId": 35576,
     "gbGuid": "3030-35576",
@@ -269,7 +282,7 @@
   },
   {
     "name": "LEGO DC Super-Villains (Steelbook)",
-    "id": "nsw13",
+    "id": "nsw14",
     "igdbId": 102321,
     "gbId": 68741,
     "gbGuid": "3030-68741",
@@ -287,7 +300,7 @@
   },
   {
     "name": "Mercenaries Saga Chronicles",
-    "id": "nsw14",
+    "id": "nsw15",
     "igdbId": 79987,
     "gbId": null,
     "gbGuid": null,
@@ -305,7 +318,7 @@
   },
   {
     "name": "Mercenary Kings: Reloaded (Limited Run Games)",
-    "id": "nsw15",
+    "id": "nsw16",
     "igdbId": 84923,
     "gbId": 38664,
     "gbGuid": "3030-38664",
@@ -323,7 +336,7 @@
   },
   {
     "name": "Metroid Dread: Special Edition",
-    "id": "nsw16",
+    "id": "nsw17",
     "igdbId": 153646,
     "gbId": 83057,
     "gbGuid": "3030-83057",
@@ -341,7 +354,7 @@
   },
   {
     "name": "Monster Hunter Stories 2: Wings of Ruin",
-    "id": "nsw17",
+    "id": "nsw18",
     "igdbId": 138951,
     "gbId": 80645,
     "gbGuid": "3030-80645",
@@ -359,7 +372,7 @@
   },
   {
     "name": "Mutant Mudds Collection",
-    "id": "nsw18",
+    "id": "nsw19",
     "igdbId": 72897,
     "gbId": 61957,
     "gbGuid": "3030-61957",
@@ -377,7 +390,7 @@
   },
   {
     "name": "NeuroVoider (PAL)",
-    "id": "nsw19",
+    "id": "nsw20",
     "igdbId": 23581,
     "gbId": 53244,
     "gbGuid": "3030-53244",
@@ -395,7 +408,7 @@
   },
   {
     "name": "Nickelodeon Kart Racers",
-    "id": "nsw20",
+    "id": "nsw21",
     "igdbId": 106109,
     "gbId": 69546,
     "gbGuid": "3030-69546",
@@ -413,7 +426,7 @@
   },
   {
     "name": "Oxenfree (Limited Run Games)",
-    "id": "nsw21",
+    "id": "nsw22",
     "igdbId": 14587,
     "gbId": 52278,
     "gbGuid": "3030-52278",
@@ -431,7 +444,7 @@
   },
   {
     "name": "Shovel Knight: Specter of Torment",
-    "id": "nsw22",
+    "id": "nsw23",
     "igdbId": 23910,
     "gbId": 57920,
     "gbGuid": "3030-57920",
@@ -454,7 +467,7 @@
   },
   {
     "name": "Shovel Knight: Treasure Trove",
-    "id": "nsw23",
+    "id": "nsw24",
     "igdbId": 26848,
     "gbId": null,
     "gbGuid": null,
@@ -478,7 +491,7 @@
   },
   {
     "name": "Skylanders Imaginators",
-    "id": "nsw24",
+    "id": "nsw25",
     "igdbId": 19576,
     "gbId": 54071,
     "gbGuid": "3030-54071",
@@ -502,7 +515,7 @@
   },
   {
     "name": "Snipperclips - Cut it out, together!",
-    "id": "nsw25",
+    "id": "nsw26",
     "igdbId": 26774,
     "gbId": 57698,
     "gbGuid": "3030-57698",
@@ -526,7 +539,7 @@
   },
   {
     "name": "Sonic Mania",
-    "id": "nsw26",
+    "id": "nsw27",
     "igdbId": 21062,
     "gbId": 54733,
     "gbGuid": "3030-54733",
@@ -544,7 +557,7 @@
   },
   {
     "name": "Super Bomberman R",
-    "id": "nsw27",
+    "id": "nsw28",
     "igdbId": 26760,
     "gbId": 57692,
     "gbGuid": "3030-57692",
@@ -568,7 +581,7 @@
   },
   {
     "name": "Super Mario Odyssey (PAL)(Austria)",
-    "id": "nsw28",
+    "id": "nsw29",
     "igdbId": 26758,
     "gbId": 56733,
     "gbGuid": "3030-56733",
@@ -596,7 +609,7 @@
   },
   {
     "name": "Terraria (PAL)",
-    "id": "nsw29",
+    "id": "nsw30",
     "igdbId": 1879,
     "gbId": 34940,
     "gbGuid": "3030-34940",
@@ -614,7 +627,7 @@
   },
   {
     "name": "The Legend of Zelda: Breath of the Wild",
-    "id": "nsw30",
+    "id": "nsw31",
     "igdbId": 7346,
     "gbId": 41355,
     "gbGuid": "3030-41355",
@@ -638,7 +651,7 @@
   },
   {
     "name": "Thimbleweed Park",
-    "id": "nsw31",
+    "id": "nsw32",
     "igdbId": 10232,
     "gbId": 50511,
     "gbGuid": "3030-50511",
@@ -656,7 +669,7 @@
   },
   {
     "name": "Witch Spring 3: Re:Fine - The Story of Eirudy",
-    "id": "nsw32",
+    "id": "nsw33",
     "igdbId": 141763,
     "gbId": null,
     "gbGuid": null,

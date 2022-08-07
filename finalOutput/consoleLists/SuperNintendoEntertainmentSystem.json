@@ -116,23 +116,7 @@
     ],
     "isLaunchTitle": false,
     "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Nintendo/snes/BITC.png",
-        "details": "double label power scope test cart label underneath 3rd image is altered to show lines of lower label",
-        "type": "Labeling"
-      },
-      {
-        "image": "https://iamerror.gamehacking.org/Nintendo/snes/testcart_zpsa3c9c92a.jpg",
-        "details": "upside down label",
-        "type": "Label Position"
-      },
-      {
-        "image": "https://iamerror.gamehacking.org/Nintendo/snes/ootwusd.jpg",
-        "details": "upside down label",
-        "type": "Label Position"
-      }
-    ]
+    "misprintsErrors": []
   },
   {
     "name": "Air Cavalry",
@@ -1115,8 +1099,31 @@
     "misprintsErrors": []
   },
   {
-    "name": "Brain Lord",
+    "name": "Bow Wow (manga)",
     "id": "snes44",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Brain Lord",
+    "id": "snes45",
     "igdbId": 16288,
     "gbId": 1579,
     "gbGuid": "3030-1579",
@@ -1146,7 +1153,7 @@
   },
   {
     "name": "Breath of Fire",
-    "id": "snes45",
+    "id": "snes46",
     "igdbId": 11617,
     "gbId": 15629,
     "gbGuid": "3030-15629",
@@ -1164,7 +1171,7 @@
   },
   {
     "name": "Breath of Fire II",
-    "id": "snes46",
+    "id": "snes47",
     "igdbId": 6337,
     "gbId": 3093,
     "gbGuid": "3030-3093",
@@ -1182,7 +1189,7 @@
   },
   {
     "name": "Brett Hull Hockey",
-    "id": "snes47",
+    "id": "snes48",
     "igdbId": 42633,
     "gbId": 22497,
     "gbGuid": "3030-22497",
@@ -1206,7 +1213,7 @@
   },
   {
     "name": "Bronkie the Bronchiasaurus",
-    "id": "snes48",
+    "id": "snes49",
     "igdbId": 42624,
     "gbId": 12535,
     "gbGuid": "3030-12535",
@@ -1230,7 +1237,7 @@
   },
   {
     "name": "Brunswick World: Tournament of Champions",
-    "id": "snes49",
+    "id": "snes50",
     "igdbId": 42596,
     "gbId": 59773,
     "gbGuid": "3030-59773",
@@ -1260,7 +1267,7 @@
   },
   {
     "name": "Bugs Bunny Rabbit Rampage",
-    "id": "snes50",
+    "id": "snes51",
     "igdbId": 3054,
     "gbId": 11860,
     "gbGuid": "3030-11860",
@@ -1283,8 +1290,44 @@
     "misprintsErrors": []
   },
   {
+    "name": "Burn-in/Test Cartridge Controller/Super Scope/Mouse",
+    "id": "snes52",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/snes/testcart_zpsa3c9c92a.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
+    "name": "Burn-in/Test Cartridge rev C",
+    "id": "snes53",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/snes/BITC.png",
+        "details": "double label power scope test cart label underneath 3rd image is altered to show lines of lower label",
+        "type": "Labeling"
+      }
+    ]
+  },
+  {
     "name": "C2 - Clay Fighter 2: Judgment Clay",
-    "id": "snes51",
+    "id": "snes54",
     "igdbId": 73298,
     "gbId": 18423,
     "gbGuid": "3030-18423",
@@ -1308,7 +1351,7 @@
   },
   {
     "name": "Cacoma Knight in Bizyland",
-    "id": "snes52",
+    "id": "snes55",
     "igdbId": 42734,
     "gbId": 13972,
     "gbGuid": "3030-13972",
@@ -1332,7 +1375,7 @@
   },
   {
     "name": "Capcom's MVP Football",
-    "id": "snes53",
+    "id": "snes56",
     "igdbId": 42597,
     "gbId": 33818,
     "gbGuid": "3030-33818",
@@ -1356,7 +1399,7 @@
   },
   {
     "name": "Capcom's Soccer Shootout",
-    "id": "snes54",
+    "id": "snes57",
     "igdbId": 42598,
     "gbId": 25661,
     "gbGuid": "3030-25661",
@@ -1382,7 +1425,7 @@
   },
   {
     "name": "Captain Novolin",
-    "id": "snes55",
+    "id": "snes58",
     "igdbId": 18986,
     "gbId": 4948,
     "gbGuid": "3030-4948",
@@ -1406,7 +1449,7 @@
   },
   {
     "name": "Captain Tsubasa 3",
-    "id": "snes56",
+    "id": "snes59",
     "igdbId": 38340,
     "gbId": null,
     "gbGuid": null,
@@ -1430,7 +1473,7 @@
   },
   {
     "name": "Captain Tsubasa IV: Pro no Rival Tachi",
-    "id": "snes57",
+    "id": "snes60",
     "igdbId": 38184,
     "gbId": null,
     "gbGuid": null,
@@ -1454,7 +1497,7 @@
   },
   {
     "name": "Captain Tsubasa J: The Way to World Youth",
-    "id": "snes58",
+    "id": "snes61",
     "igdbId": 65167,
     "gbId": 38263,
     "gbGuid": "3030-38263",
@@ -1477,7 +1520,7 @@
   },
   {
     "name": "Captain Tsubasa V: Hasha no Shougou Campione",
-    "id": "snes59",
+    "id": "snes62",
     "igdbId": 38268,
     "gbId": null,
     "gbGuid": null,
@@ -1501,7 +1544,7 @@
   },
   {
     "name": "Carrier Aces",
-    "id": "snes60",
+    "id": "snes63",
     "igdbId": 42632,
     "gbId": 18649,
     "gbGuid": "3030-18649",
@@ -1525,7 +1568,7 @@
   },
   {
     "name": "Casper",
-    "id": "snes61",
+    "id": "snes64",
     "igdbId": 6345,
     "gbId": 14860,
     "gbGuid": "3030-14860",
@@ -1549,7 +1592,7 @@
   },
   {
     "name": "Cho Aniki",
-    "id": "snes62",
+    "id": "snes65",
     "igdbId": 42391,
     "gbId": 23998,
     "gbGuid": "3030-23998",
@@ -1573,7 +1616,7 @@
   },
   {
     "name": "Choujikuu Yousai Macross: Scrambled Valkyrie",
-    "id": "snes63",
+    "id": "snes66",
     "igdbId": 42537,
     "gbId": 29408,
     "gbGuid": "3030-29408",
@@ -1597,7 +1640,7 @@
   },
   {
     "name": "Chrono Trigger",
-    "id": "snes64",
+    "id": "snes67",
     "igdbId": 1802,
     "gbId": 9249,
     "gbGuid": "3030-9249",
@@ -1615,7 +1658,7 @@
   },
   {
     "name": "Claymates",
-    "id": "snes65",
+    "id": "snes68",
     "igdbId": 42623,
     "gbId": 1607,
     "gbGuid": "3030-1607",
@@ -1639,7 +1682,7 @@
   },
   {
     "name": "College Slam",
-    "id": "snes66",
+    "id": "snes69",
     "igdbId": 4541,
     "gbId": 125,
     "gbGuid": "3030-125",
@@ -1665,7 +1708,7 @@
   },
   {
     "name": "Congo's Caper",
-    "id": "snes67",
+    "id": "snes70",
     "igdbId": 42665,
     "gbId": 2434,
     "gbGuid": "3030-2434",
@@ -1689,7 +1732,7 @@
   },
   {
     "name": "Contra III: The Alien Wars",
-    "id": "snes68",
+    "id": "snes71",
     "igdbId": 6351,
     "gbId": 3016,
     "gbGuid": "3030-3016",
@@ -1707,7 +1750,7 @@
   },
   {
     "name": "Cool World",
-    "id": "snes69",
+    "id": "snes72",
     "igdbId": 7825,
     "gbId": 20024,
     "gbGuid": "3030-20024",
@@ -1731,7 +1774,7 @@
   },
   {
     "name": "Crystal Beans: From Dungeon Explorer",
-    "id": "snes70",
+    "id": "snes73",
     "igdbId": 16297,
     "gbId": 18216,
     "gbGuid": "3030-18216",
@@ -1757,7 +1800,7 @@
   },
   {
     "name": "Cyber Spin",
-    "id": "snes71",
+    "id": "snes74",
     "igdbId": 42615,
     "gbId": 37253,
     "gbGuid": "3030-37253",
@@ -1781,7 +1824,7 @@
   },
   {
     "name": "D-Force",
-    "id": "snes72",
+    "id": "snes75",
     "igdbId": 42731,
     "gbId": 2551,
     "gbGuid": "3030-2551",
@@ -1805,7 +1848,7 @@
   },
   {
     "name": "Daffy Duck: The Marvin Missions",
-    "id": "snes73",
+    "id": "snes76",
     "igdbId": 8132,
     "gbId": 18031,
     "gbGuid": "3030-18031",
@@ -1828,8 +1871,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Daikaijyuu Monogatari",
+    "id": "snes77",
+    "igdbId": null,
+    "gbId": 7470,
+    "gbGuid": "3030-7470",
+    "tgdbId": 29689,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Darius Force",
-    "id": "snes74",
+    "id": "snes78",
     "igdbId": 42446,
     "gbId": null,
     "gbGuid": null,
@@ -1853,7 +1920,7 @@
   },
   {
     "name": "Dear Boys",
-    "id": "snes75",
+    "id": "snes79",
     "igdbId": 44419,
     "gbId": 37381,
     "gbGuid": "3030-37381",
@@ -1877,7 +1944,7 @@
   },
   {
     "name": "Dekitate High School",
-    "id": "snes76",
+    "id": "snes80",
     "igdbId": 44418,
     "gbId": 46822,
     "gbGuid": "3030-46822",
@@ -1901,7 +1968,7 @@
   },
   {
     "name": "Dig & Spike Volleyball",
-    "id": "snes77",
+    "id": "snes81",
     "igdbId": 94194,
     "gbId": 37346,
     "gbGuid": "3030-37346",
@@ -1924,8 +1991,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "DinoCity",
+    "id": "snes82",
+    "igdbId": null,
+    "gbId": 29459,
+    "gbGuid": "3030-29459",
+    "tgdbId": 42076,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dirt Racer",
-    "id": "snes78",
+    "id": "snes83",
     "igdbId": 42732,
     "gbId": 53450,
     "gbGuid": "3030-53450",
@@ -1949,7 +2040,7 @@
   },
   {
     "name": "Dirt Trax FX",
-    "id": "snes79",
+    "id": "snes84",
     "igdbId": 42622,
     "gbId": 25815,
     "gbGuid": "3030-25815",
@@ -1973,7 +2064,7 @@
   },
   {
     "name": "Disney's Aladdin",
-    "id": "snes80",
+    "id": "snes85",
     "igdbId": 2473,
     "gbId": 19944,
     "gbGuid": "3030-19944",
@@ -1991,7 +2082,7 @@
   },
   {
     "name": "Donkey Kong Country",
-    "id": "snes81",
+    "id": "snes86",
     "igdbId": 1090,
     "gbId": 15738,
     "gbGuid": "3030-15738",
@@ -2023,7 +2114,7 @@
   },
   {
     "name": "Donkey Kong Country 2: Diddy's Kong Quest",
-    "id": "snes82",
+    "id": "snes87",
     "igdbId": 1092,
     "gbId": 16889,
     "gbGuid": "3030-16889",
@@ -2055,7 +2146,7 @@
   },
   {
     "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
-    "id": "snes83",
+    "id": "snes88",
     "igdbId": 1094,
     "gbId": 4547,
     "gbGuid": "3030-4547",
@@ -2081,7 +2172,7 @@
   },
   {
     "name": "Doomsday Warrior",
-    "id": "snes84",
+    "id": "snes89",
     "igdbId": 42599,
     "gbId": 14779,
     "gbGuid": "3030-14779",
@@ -2105,7 +2196,7 @@
   },
   {
     "name": "Dragon View",
-    "id": "snes85",
+    "id": "snes90",
     "igdbId": 42635,
     "gbId": 18388,
     "gbGuid": "3030-18388",
@@ -2129,7 +2220,7 @@
   },
   {
     "name": "Dragon: The Bruce Lee Story",
-    "id": "snes86",
+    "id": "snes91",
     "igdbId": 18617,
     "gbId": 11980,
     "gbGuid": "3030-11980",
@@ -2155,7 +2246,7 @@
   },
   {
     "name": "Drakkhen",
-    "id": "snes87",
+    "id": "snes92",
     "igdbId": 12057,
     "gbId": 6947,
     "gbGuid": "3030-6947",
@@ -2173,7 +2264,7 @@
   },
   {
     "name": "Dream Basketball: Dunk & Hoop",
-    "id": "snes88",
+    "id": "snes93",
     "igdbId": 42279,
     "gbId": 50450,
     "gbGuid": "3030-50450",
@@ -2199,7 +2290,7 @@
   },
   {
     "name": "Dream T.V.",
-    "id": "snes89",
+    "id": "snes94",
     "igdbId": 93573,
     "gbId": 35318,
     "gbGuid": "3030-35318",
@@ -2223,7 +2314,7 @@
   },
   {
     "name": "Dynamic Stadium",
-    "id": "snes90",
+    "id": "snes95",
     "igdbId": 42278,
     "gbId": 47480,
     "gbGuid": "3030-47480",
@@ -2249,7 +2340,7 @@
   },
   {
     "name": "E.V.O.: Search for Eden",
-    "id": "snes91",
+    "id": "snes96",
     "igdbId": 6979,
     "gbId": 3397,
     "gbGuid": "3030-3397",
@@ -2273,7 +2364,7 @@
   },
   {
     "name": "ESPN National Hockey Night",
-    "id": "snes92",
+    "id": "snes97",
     "igdbId": 5381,
     "gbId": 30852,
     "gbGuid": "3030-30852",
@@ -2299,7 +2390,7 @@
   },
   {
     "name": "Eien no Filena",
-    "id": "snes93",
+    "id": "snes98",
     "igdbId": 15899,
     "gbId": 27673,
     "gbGuid": "3030-27673",
@@ -2323,7 +2414,7 @@
   },
   {
     "name": "Emmitt Smith Football",
-    "id": "snes94",
+    "id": "snes99",
     "igdbId": 42559,
     "gbId": 22056,
     "gbGuid": "3030-22056",
@@ -2347,7 +2438,7 @@
   },
   {
     "name": "Equinox",
-    "id": "snes95",
+    "id": "snes100",
     "igdbId": 100180,
     "gbId": 13849,
     "gbGuid": "3030-13849",
@@ -2371,7 +2462,7 @@
   },
   {
     "name": "Exertainment Mountain Bike Rally",
-    "id": "snes96",
+    "id": "snes101",
     "igdbId": 42485,
     "gbId": null,
     "gbGuid": null,
@@ -2395,7 +2486,7 @@
   },
   {
     "name": "Extra Innings",
-    "id": "snes97",
+    "id": "snes102",
     "igdbId": 42558,
     "gbId": 37310,
     "gbGuid": "3030-37310",
@@ -2419,7 +2510,7 @@
   },
   {
     "name": "F-Zero",
-    "id": "snes98",
+    "id": "snes103",
     "igdbId": 3490,
     "gbId": 15242,
     "gbGuid": "3030-15242",
@@ -2462,7 +2553,7 @@
   },
   {
     "name": "F1 Pole Position",
-    "id": "snes99",
+    "id": "snes104",
     "igdbId": 48947,
     "gbId": null,
     "gbGuid": null,
@@ -2486,7 +2577,7 @@
   },
   {
     "name": "F1 Pole Position 2",
-    "id": "snes100",
+    "id": "snes105",
     "igdbId": 42557,
     "gbId": 38982,
     "gbGuid": "3030-38982",
@@ -2510,7 +2601,7 @@
   },
   {
     "name": "F1 ROC II: Race of Champions",
-    "id": "snes101",
+    "id": "snes106",
     "igdbId": 42572,
     "gbId": 38012,
     "gbGuid": "3030-38012",
@@ -2534,7 +2625,7 @@
   },
   {
     "name": "F1 ROC: Race of Champions",
-    "id": "snes102",
+    "id": "snes107",
     "igdbId": 42571,
     "gbId": 22442,
     "gbGuid": "3030-22442",
@@ -2558,7 +2649,7 @@
   },
   {
     "name": "FIFA International Soccer",
-    "id": "snes103",
+    "id": "snes108",
     "igdbId": 4345,
     "gbId": 6260,
     "gbGuid": "3030-6260",
@@ -2584,7 +2675,7 @@
   },
   {
     "name": "FIFA Soccer 96",
-    "id": "snes104",
+    "id": "snes109",
     "igdbId": 704,
     "gbId": 14524,
     "gbGuid": "3030-14524",
@@ -2610,7 +2701,7 @@
   },
   {
     "name": "FIFA Soccer 97",
-    "id": "snes105",
+    "id": "snes110",
     "igdbId": 71398,
     "gbId": 3383,
     "gbGuid": "3030-3383",
@@ -2636,7 +2727,7 @@
   },
   {
     "name": "FIFA: Road to World Cup 98",
-    "id": "snes106",
+    "id": "snes111",
     "igdbId": 705,
     "gbId": 11207,
     "gbGuid": "3030-11207",
@@ -2662,7 +2753,7 @@
   },
   {
     "name": "Family Feud",
-    "id": "snes107",
+    "id": "snes112",
     "igdbId": 68397,
     "gbId": 26419,
     "gbGuid": "3030-26419",
@@ -2680,7 +2771,7 @@
   },
   {
     "name": "Fighter's History: Mizoguchi Kiki Ippatsu!!",
-    "id": "snes108",
+    "id": "snes113",
     "igdbId": 58791,
     "gbId": 53048,
     "gbGuid": "3030-53048",
@@ -2703,7 +2794,7 @@
   },
   {
     "name": "Final Fantasy II",
-    "id": "snes109",
+    "id": "snes114",
     "igdbId": 387,
     "gbId": 2094,
     "gbGuid": "3030-2094",
@@ -2721,7 +2812,7 @@
   },
   {
     "name": "Final Set",
-    "id": "snes110",
+    "id": "snes115",
     "igdbId": 44430,
     "gbId": 46955,
     "gbGuid": "3030-46955",
@@ -2747,7 +2838,7 @@
   },
   {
     "name": "Final Stretch",
-    "id": "snes111",
+    "id": "snes116",
     "igdbId": 42277,
     "gbId": 38925,
     "gbGuid": "3030-38925",
@@ -2771,7 +2862,7 @@
   },
   {
     "name": "Firestriker",
-    "id": "snes112",
+    "id": "snes117",
     "igdbId": 42553,
     "gbId": 7528,
     "gbGuid": "3030-7528",
@@ -2808,7 +2899,7 @@
   },
   {
     "name": "Flying Hero",
-    "id": "snes113",
+    "id": "snes118",
     "igdbId": 64265,
     "gbId": 40594,
     "gbGuid": "3030-40594",
@@ -2832,7 +2923,7 @@
   },
   {
     "name": "Football Fury",
-    "id": "snes114",
+    "id": "snes119",
     "igdbId": 42551,
     "gbId": 44147,
     "gbGuid": "3030-44147",
@@ -2856,7 +2947,7 @@
   },
   {
     "name": "Frantic Flea",
-    "id": "snes115",
+    "id": "snes120",
     "igdbId": 42620,
     "gbId": 27050,
     "gbGuid": "3030-27050",
@@ -2880,7 +2971,7 @@
   },
   {
     "name": "From TV Animation: Slam Dunk SD Heat Up!!",
-    "id": "snes116",
+    "id": "snes121",
     "igdbId": 65608,
     "gbId": 36646,
     "gbGuid": "3030-36646",
@@ -2906,7 +2997,7 @@
   },
   {
     "name": "Full Throttle Racing",
-    "id": "snes117",
+    "id": "snes122",
     "igdbId": 42594,
     "gbId": 17447,
     "gbGuid": "3030-17447",
@@ -2929,8 +3020,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "GD Leen",
+    "id": "snes123",
+    "igdbId": null,
+    "gbId": 33729,
+    "gbGuid": "3030-33729",
+    "tgdbId": 38572,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "GP-1",
-    "id": "snes118",
+    "id": "snes124",
     "igdbId": 18613,
     "gbId": 36333,
     "gbGuid": "3030-36333",
@@ -2954,7 +3069,7 @@
   },
   {
     "name": "GP-1 Part II",
-    "id": "snes119",
+    "id": "snes125",
     "igdbId": 42591,
     "gbId": 37312,
     "gbGuid": "3030-37312",
@@ -2978,7 +3093,7 @@
   },
   {
     "name": "Ganpuru: Gunman's Proof",
-    "id": "snes120",
+    "id": "snes126",
     "igdbId": 42590,
     "gbId": 4257,
     "gbGuid": "3030-4257",
@@ -3002,7 +3117,7 @@
   },
   {
     "name": "Ghost Sweeper Mikami",
-    "id": "snes121",
+    "id": "snes127",
     "igdbId": 37634,
     "gbId": null,
     "gbGuid": null,
@@ -3026,7 +3141,7 @@
   },
   {
     "name": "Go! Go! Dodge League",
-    "id": "snes122",
+    "id": "snes128",
     "igdbId": 42274,
     "gbId": 32142,
     "gbGuid": "3030-32142",
@@ -3052,7 +3167,7 @@
   },
   {
     "name": "Gods",
-    "id": "snes123",
+    "id": "snes129",
     "igdbId": 12118,
     "gbId": 12796,
     "gbGuid": "3030-12796",
@@ -3070,7 +3185,7 @@
   },
   {
     "name": "Godzilla: Kaijuu Daikessen",
-    "id": "snes124",
+    "id": "snes130",
     "igdbId": 36739,
     "gbId": null,
     "gbGuid": null,
@@ -3093,8 +3208,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Goldfish Warning!",
+    "id": "snes131",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Gon",
-    "id": "snes125",
+    "id": "snes132",
     "igdbId": 97118,
     "gbId": null,
     "gbGuid": null,
@@ -3118,7 +3256,7 @@
   },
   {
     "name": "Goof Troop",
-    "id": "snes126",
+    "id": "snes133",
     "igdbId": 8163,
     "gbId": 11349,
     "gbGuid": "3030-11349",
@@ -3142,7 +3280,7 @@
   },
   {
     "name": "Gradius III",
-    "id": "snes127",
+    "id": "snes134",
     "igdbId": 1481,
     "gbId": 7617,
     "gbGuid": "3030-7617",
@@ -3171,8 +3309,31 @@
     ]
   },
   {
+    "name": "Gurume Sentai Barayarō",
+    "id": "snes135",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "HAL's Hole in One Golf",
-    "id": "snes128",
+    "id": "snes136",
     "igdbId": 3653,
     "gbId": 30540,
     "gbGuid": "3030-30540",
@@ -3195,8 +3356,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Habu Meijin no Omoshiro Shogi",
+    "id": "snes137",
+    "igdbId": null,
+    "gbId": 47501,
+    "gbGuid": "3030-47501",
+    "tgdbId": 38579,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Hagane",
-    "id": "snes129",
+    "id": "snes138",
     "igdbId": 42611,
     "gbId": 11438,
     "gbGuid": "3030-11438",
@@ -3220,7 +3405,7 @@
   },
   {
     "name": "Hammerlock Wrestling",
-    "id": "snes130",
+    "id": "snes139",
     "igdbId": 42589,
     "gbId": 38662,
     "gbGuid": "3030-38662",
@@ -3257,7 +3442,7 @@
   },
   {
     "name": "Hana no Keiji",
-    "id": "snes131",
+    "id": "snes140",
     "igdbId": 42302,
     "gbId": 44168,
     "gbGuid": "3030-44168",
@@ -3281,7 +3466,7 @@
   },
   {
     "name": "Hanna Barbera's Turbo Toons",
-    "id": "snes132",
+    "id": "snes141",
     "igdbId": 42619,
     "gbId": 50821,
     "gbGuid": "3030-50821",
@@ -3318,7 +3503,7 @@
   },
   {
     "name": "Harley's Humongous Adventure",
-    "id": "snes133",
+    "id": "snes142",
     "igdbId": 20337,
     "gbId": 17331,
     "gbGuid": "3030-17331",
@@ -3342,7 +3527,7 @@
   },
   {
     "name": "Hat Trick Hero 2",
-    "id": "snes134",
+    "id": "snes143",
     "igdbId": 38332,
     "gbId": 37195,
     "gbGuid": "3030-37195",
@@ -3379,7 +3564,7 @@
   },
   {
     "name": "Head-On Soccer",
-    "id": "snes135",
+    "id": "snes144",
     "igdbId": 19758,
     "gbId": 12463,
     "gbGuid": "3030-12463",
@@ -3405,7 +3590,7 @@
   },
   {
     "name": "Hebereke no Oishii Puzzle wa Irimasenka",
-    "id": "snes136",
+    "id": "snes145",
     "igdbId": 38007,
     "gbId": 49749,
     "gbGuid": "3030-49749",
@@ -3431,7 +3616,7 @@
   },
   {
     "name": "Home Improvement",
-    "id": "snes137",
+    "id": "snes146",
     "igdbId": 11541,
     "gbId": 512,
     "gbGuid": "3030-512",
@@ -3455,7 +3640,7 @@
   },
   {
     "name": "Hong Kong '97",
-    "id": "snes138",
+    "id": "snes147",
     "igdbId": 9616,
     "gbId": 40832,
     "gbGuid": "3030-40832",
@@ -3479,7 +3664,7 @@
   },
   {
     "name": "Human Grand Prix III: F1 Triple Battle",
-    "id": "snes139",
+    "id": "snes148",
     "igdbId": 38172,
     "gbId": 39262,
     "gbGuid": "3030-39262",
@@ -3505,7 +3690,7 @@
   },
   {
     "name": "Human Grand Prix IV: F1 Dream Battle",
-    "id": "snes140",
+    "id": "snes149",
     "igdbId": 38171,
     "gbId": 39263,
     "gbGuid": "3030-39263",
@@ -3531,7 +3716,7 @@
   },
   {
     "name": "Hungry Dinosaurs",
-    "id": "snes141",
+    "id": "snes150",
     "igdbId": 42587,
     "gbId": 38487,
     "gbGuid": "3030-38487",
@@ -3557,7 +3742,7 @@
   },
   {
     "name": "Hyper Iria",
-    "id": "snes142",
+    "id": "snes151",
     "igdbId": 42334,
     "gbId": 41329,
     "gbGuid": "3030-41329",
@@ -3581,7 +3766,7 @@
   },
   {
     "name": "HyperZone",
-    "id": "snes143",
+    "id": "snes152",
     "igdbId": 42608,
     "gbId": 889,
     "gbGuid": "3030-889",
@@ -3605,7 +3790,7 @@
   },
   {
     "name": "Ihatovo Monogatari",
-    "id": "snes144",
+    "id": "snes153",
     "igdbId": 42289,
     "gbId": 16712,
     "gbGuid": "3030-16712",
@@ -3629,7 +3814,7 @@
   },
   {
     "name": "Illusion of Gaia",
-    "id": "snes145",
+    "id": "snes154",
     "igdbId": 3016,
     "gbId": 5199,
     "gbGuid": "3030-5199",
@@ -3652,8 +3837,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Imperium",
+    "id": "snes155",
+    "igdbId": null,
+    "gbId": 44480,
+    "gbGuid": "3030-44480",
+    "tgdbId": 1987,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Incantation",
-    "id": "snes146",
+    "id": "snes156",
     "igdbId": 44454,
     "gbId": 450,
     "gbGuid": "3030-450",
@@ -3677,7 +3886,7 @@
   },
   {
     "name": "Indiana Jones' Greatest Adventures",
-    "id": "snes147",
+    "id": "snes157",
     "igdbId": 10843,
     "gbId": 6329,
     "gbGuid": "3030-6329",
@@ -3701,7 +3910,7 @@
   },
   {
     "name": "Inspector Gadget",
-    "id": "snes148",
+    "id": "snes158",
     "igdbId": 4859,
     "gbId": 3376,
     "gbGuid": "3030-3376",
@@ -3725,7 +3934,7 @@
   },
   {
     "name": "International Superstar Soccer",
-    "id": "snes149",
+    "id": "snes159",
     "igdbId": 9861,
     "gbId": 6106,
     "gbGuid": "3030-6106",
@@ -3749,7 +3958,7 @@
   },
   {
     "name": "International Superstar Soccer Deluxe",
-    "id": "snes150",
+    "id": "snes160",
     "igdbId": 9862,
     "gbId": 7025,
     "gbGuid": "3030-7025",
@@ -3775,7 +3984,7 @@
   },
   {
     "name": "International Tennis Tour",
-    "id": "snes151",
+    "id": "snes161",
     "igdbId": 44453,
     "gbId": 28144,
     "gbGuid": "3030-28144",
@@ -3799,7 +4008,7 @@
   },
   {
     "name": "J. League Excite Stage '94",
-    "id": "snes152",
+    "id": "snes162",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3825,7 +4034,7 @@
   },
   {
     "name": "J. League Excite Stage '95",
-    "id": "snes153",
+    "id": "snes163",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3851,7 +4060,7 @@
   },
   {
     "name": "J. League Excite Stage '96",
-    "id": "snes154",
+    "id": "snes164",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3877,7 +4086,7 @@
   },
   {
     "name": "J. League Super Soccer",
-    "id": "snes155",
+    "id": "snes165",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3903,7 +4112,7 @@
   },
   {
     "name": "J. League Super Soccer '95",
-    "id": "snes156",
+    "id": "snes166",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3929,7 +4138,7 @@
   },
   {
     "name": "J.League Super Soccer '95: Jikkyou Stadium",
-    "id": "snes157",
+    "id": "snes167",
     "igdbId": 42392,
     "gbId": 28167,
     "gbGuid": "3030-28167",
@@ -3953,7 +4162,7 @@
   },
   {
     "name": "JWP Joshi Pro Wrestling: Pure Wrestle Queens",
-    "id": "snes158",
+    "id": "snes168",
     "igdbId": 38276,
     "gbId": 28212,
     "gbGuid": "3030-28212",
@@ -3979,7 +4188,7 @@
   },
   {
     "name": "Jaki Crush",
-    "id": "snes159",
+    "id": "snes169",
     "igdbId": 38361,
     "gbId": null,
     "gbGuid": null,
@@ -4002,7 +4211,7 @@
   },
   {
     "name": "Jikkyou Power Pro Wrestling '96: Max Voltage",
-    "id": "snes160",
+    "id": "snes170",
     "igdbId": 42415,
     "gbId": 28186,
     "gbGuid": "3030-28186",
@@ -4039,7 +4248,7 @@
   },
   {
     "name": "Jimmy Connors Pro Tennis Tour",
-    "id": "snes161",
+    "id": "snes171",
     "igdbId": 42605,
     "gbId": 5740,
     "gbGuid": "3030-5740",
@@ -4065,7 +4274,7 @@
   },
   {
     "name": "Jissen Kyoutei",
-    "id": "snes162",
+    "id": "snes172",
     "igdbId": 42643,
     "gbId": 28198,
     "gbGuid": "3030-28198",
@@ -4089,7 +4298,7 @@
   },
   {
     "name": "Joe & Mac 2: Lost in the Tropics",
-    "id": "snes163",
+    "id": "snes173",
     "igdbId": 42604,
     "gbId": 9982,
     "gbGuid": "3030-9982",
@@ -4113,7 +4322,7 @@
   },
   {
     "name": "Jurassic Park",
-    "id": "snes164",
+    "id": "snes174",
     "igdbId": 11067,
     "gbId": 5721,
     "gbGuid": "3030-5721",
@@ -4143,7 +4352,7 @@
   },
   {
     "name": "Jyutei Senki",
-    "id": "snes165",
+    "id": "snes175",
     "igdbId": 42387,
     "gbId": null,
     "gbGuid": null,
@@ -4166,8 +4375,55 @@
     "misprintsErrors": []
   },
   {
+    "name": "Kaizo Mario World",
+    "id": "snes176",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kaizou Choujin Shubibinman Zero",
+    "id": "snes177",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 32318,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kashiwagi Shigetaka no Top Water Bassing",
-    "id": "snes166",
+    "id": "snes178",
     "igdbId": 37967,
     "gbId": 53062,
     "gbGuid": "3030-53062",
@@ -4191,7 +4447,7 @@
   },
   {
     "name": "Kat's Run",
-    "id": "snes167",
+    "id": "snes179",
     "igdbId": 38267,
     "gbId": 28244,
     "gbGuid": "3030-28244",
@@ -4215,7 +4471,7 @@
   },
   {
     "name": "Kawasaki Caribbean Challenge",
-    "id": "snes168",
+    "id": "snes180",
     "igdbId": 42508,
     "gbId": 987,
     "gbGuid": "3030-987",
@@ -4239,7 +4495,7 @@
   },
   {
     "name": "Ken Griffey Jr.'s Winning Run",
-    "id": "snes169",
+    "id": "snes181",
     "igdbId": 42507,
     "gbId": 3894,
     "gbGuid": "3030-3894",
@@ -4263,7 +4519,7 @@
   },
   {
     "name": "Kendo Rage",
-    "id": "snes170",
+    "id": "snes182",
     "igdbId": 15845,
     "gbId": 13210,
     "gbGuid": "3030-13210",
@@ -4287,7 +4543,7 @@
   },
   {
     "name": "Kevin Keegan's Player Manager",
-    "id": "snes171",
+    "id": "snes183",
     "igdbId": 42618,
     "gbId": 29480,
     "gbGuid": "3030-29480",
@@ -4311,7 +4567,7 @@
   },
   {
     "name": "Kikou Keisatsu Metal Jack",
-    "id": "snes172",
+    "id": "snes184",
     "igdbId": 38212,
     "gbId": null,
     "gbGuid": null,
@@ -4334,7 +4590,7 @@
   },
   {
     "name": "King Arthur's World",
-    "id": "snes173",
+    "id": "snes185",
     "igdbId": 42506,
     "gbId": 12248,
     "gbGuid": "3030-12248",
@@ -4358,7 +4614,7 @@
   },
   {
     "name": "Koutetsu no Kishi 3: Gekitotsu Europe Sensen",
-    "id": "snes174",
+    "id": "snes186",
     "igdbId": 37947,
     "gbId": 28290,
     "gbGuid": "3030-28290",
@@ -4382,7 +4638,7 @@
   },
   {
     "name": "Kunio-Kun no Dodge Ball Dayo Zenin Shuugo!",
-    "id": "snes175",
+    "id": "snes187",
     "igdbId": 42516,
     "gbId": 950,
     "gbGuid": "3030-950",
@@ -4408,7 +4664,7 @@
   },
   {
     "name": "Kyle Petty's No Fear Racing",
-    "id": "snes176",
+    "id": "snes188",
     "igdbId": 42505,
     "gbId": 31707,
     "gbGuid": "3030-31707",
@@ -4432,7 +4688,7 @@
   },
   {
     "name": "Lady Stalker",
-    "id": "snes177",
+    "id": "snes189",
     "igdbId": 42578,
     "gbId": 1774,
     "gbGuid": "3030-1774",
@@ -4456,7 +4712,7 @@
   },
   {
     "name": "Lamborghini: American Challenge",
-    "id": "snes178",
+    "id": "snes190",
     "igdbId": 27525,
     "gbId": null,
     "gbGuid": null,
@@ -4482,7 +4738,7 @@
   },
   {
     "name": "Lemmings 2: The Tribes",
-    "id": "snes179",
+    "id": "snes191",
     "igdbId": 8307,
     "gbId": 18818,
     "gbGuid": "3030-18818",
@@ -4508,7 +4764,7 @@
   },
   {
     "name": "Lennus II: Fuuin no Shito",
-    "id": "snes180",
+    "id": "snes192",
     "igdbId": 38376,
     "gbId": 1135,
     "gbGuid": "3030-1135",
@@ -4532,7 +4788,7 @@
   },
   {
     "name": "Lester the Unlikely",
-    "id": "snes181",
+    "id": "snes193",
     "igdbId": 42504,
     "gbId": 2657,
     "gbGuid": "3030-2657",
@@ -4556,7 +4812,7 @@
   },
   {
     "name": "Looney Tunes B-Ball",
-    "id": "snes182",
+    "id": "snes194",
     "igdbId": 42585,
     "gbId": 17850,
     "gbGuid": "3030-17850",
@@ -4593,7 +4849,7 @@
   },
   {
     "name": "Lufia & the Fortress of Doom",
-    "id": "snes183",
+    "id": "snes195",
     "igdbId": 1177,
     "gbId": 2516,
     "gbGuid": "3030-2516",
@@ -4617,7 +4873,7 @@
   },
   {
     "name": "Lufia II: Rise of the Sinistrals",
-    "id": "snes184",
+    "id": "snes196",
     "igdbId": 1178,
     "gbId": 5739,
     "gbGuid": "3030-5739",
@@ -4641,7 +4897,7 @@
   },
   {
     "name": "MTV's Beavis and Butt-head",
-    "id": "snes185",
+    "id": "snes197",
     "igdbId": 7777,
     "gbId": 18248,
     "gbGuid": "3030-18248",
@@ -4665,7 +4921,7 @@
   },
   {
     "name": "Madden NFL '94",
-    "id": "snes186",
+    "id": "snes198",
     "igdbId": 4381,
     "gbId": 7106,
     "gbGuid": "3030-7106",
@@ -4691,7 +4947,7 @@
   },
   {
     "name": "Madden NFL 95",
-    "id": "snes187",
+    "id": "snes199",
     "igdbId": 4506,
     "gbId": 7715,
     "gbGuid": "3030-7715",
@@ -4717,7 +4973,7 @@
   },
   {
     "name": "Madden NFL 96",
-    "id": "snes188",
+    "id": "snes200",
     "igdbId": 4542,
     "gbId": 12957,
     "gbGuid": "3030-12957",
@@ -4743,7 +4999,7 @@
   },
   {
     "name": "Madden NFL 97",
-    "id": "snes189",
+    "id": "snes201",
     "igdbId": 4589,
     "gbId": 6279,
     "gbGuid": "3030-6279",
@@ -4769,7 +5025,7 @@
   },
   {
     "name": "Madden NFL 98",
-    "id": "snes190",
+    "id": "snes202",
     "igdbId": 4590,
     "gbId": 8679,
     "gbGuid": "3030-8679",
@@ -4795,7 +5051,7 @@
   },
   {
     "name": "Magical Pop'n",
-    "id": "snes191",
+    "id": "snes203",
     "igdbId": 9671,
     "gbId": 12491,
     "gbGuid": "3030-12491",
@@ -4819,7 +5075,7 @@
   },
   {
     "name": "Mahjong Hishouden: Shin Naki no Ryuu",
-    "id": "snes192",
+    "id": "snes204",
     "igdbId": 37937,
     "gbId": 28318,
     "gbGuid": "3030-28318",
@@ -4842,8 +5098,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Majyuuou",
+    "id": "snes205",
+    "igdbId": null,
+    "gbId": 31636,
+    "gbGuid": "3030-31636",
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Manchester United Championship Soccer",
-    "id": "snes193",
+    "id": "snes206",
     "igdbId": 42503,
     "gbId": 37635,
     "gbGuid": "3030-37635",
@@ -4867,7 +5146,7 @@
   },
   {
     "name": "Mario Paint",
-    "id": "snes194",
+    "id": "snes207",
     "igdbId": 8203,
     "gbId": 8791,
     "gbGuid": "3030-8791",
@@ -4910,7 +5189,7 @@
   },
   {
     "name": "Mario and Wario",
-    "id": "snes195",
+    "id": "snes208",
     "igdbId": 1709,
     "gbId": 22862,
     "gbGuid": "3030-22862",
@@ -4934,7 +5213,7 @@
   },
   {
     "name": "Mark Davis' The Fishing Master",
-    "id": "snes196",
+    "id": "snes209",
     "igdbId": 42499,
     "gbId": 30217,
     "gbGuid": "3030-30217",
@@ -4958,7 +5237,7 @@
   },
   {
     "name": "Marvel Super Heroes in War of the Gems",
-    "id": "snes197",
+    "id": "snes210",
     "igdbId": 42656,
     "gbId": 8899,
     "gbGuid": "3030-8899",
@@ -4982,7 +5261,7 @@
   },
   {
     "name": "Matsukata Hiroki no Super Trawling",
-    "id": "snes198",
+    "id": "snes211",
     "igdbId": 37930,
     "gbId": 28338,
     "gbGuid": "3030-28338",
@@ -5006,7 +5285,7 @@
   },
   {
     "name": "Mazinger Z",
-    "id": "snes199",
+    "id": "snes212",
     "igdbId": 41089,
     "gbId": 28340,
     "gbGuid": "3030-28340",
@@ -5030,7 +5309,7 @@
   },
   {
     "name": "Mecarobot Golf",
-    "id": "snes200",
+    "id": "snes213",
     "igdbId": 42498,
     "gbId": 38339,
     "gbGuid": "3030-38339",
@@ -5054,7 +5333,7 @@
   },
   {
     "name": "MechWarrior",
-    "id": "snes201",
+    "id": "snes214",
     "igdbId": 19188,
     "gbId": 13931,
     "gbGuid": "3030-13931",
@@ -5078,7 +5357,7 @@
   },
   {
     "name": "Mega Man Soccer",
-    "id": "snes202",
+    "id": "snes215",
     "igdbId": 1730,
     "gbId": 11496,
     "gbGuid": "3030-11496",
@@ -5102,7 +5381,7 @@
   },
   {
     "name": "Megami Tensei Gaiden: Last Bible",
-    "id": "snes203",
+    "id": "snes216",
     "igdbId": 45264,
     "gbId": null,
     "gbGuid": null,
@@ -5126,7 +5405,7 @@
   },
   {
     "name": "Metal Combat: Falcon's Revenge",
-    "id": "snes204",
+    "id": "snes217",
     "igdbId": 44461,
     "gbId": 3484,
     "gbGuid": "3030-3484",
@@ -5163,7 +5442,7 @@
   },
   {
     "name": "Metal Morph",
-    "id": "snes205",
+    "id": "snes218",
     "igdbId": 42556,
     "gbId": 13118,
     "gbGuid": "3030-13118",
@@ -5187,7 +5466,7 @@
   },
   {
     "name": "Metal Warriors",
-    "id": "snes206",
+    "id": "snes219",
     "igdbId": 14386,
     "gbId": 15559,
     "gbGuid": "3030-15559",
@@ -5211,7 +5490,7 @@
   },
   {
     "name": "Michael Andretti's Indy Car Challenge",
-    "id": "snes207",
+    "id": "snes220",
     "igdbId": 42496,
     "gbId": 26638,
     "gbGuid": "3030-26638",
@@ -5235,7 +5514,7 @@
   },
   {
     "name": "Michael Jordan: Chaos in the Windy City",
-    "id": "snes208",
+    "id": "snes221",
     "igdbId": 42490,
     "gbId": 6694,
     "gbGuid": "3030-6694",
@@ -5259,7 +5538,7 @@
   },
   {
     "name": "Mickey no Tokyo Disneyland Daibouken",
-    "id": "snes209",
+    "id": "snes222",
     "igdbId": 42543,
     "gbId": 28344,
     "gbGuid": "3030-28344",
@@ -5283,7 +5562,7 @@
   },
   {
     "name": "Micro Machines",
-    "id": "snes210",
+    "id": "snes223",
     "igdbId": 2703,
     "gbId": 2140,
     "gbGuid": "3030-2140",
@@ -5309,7 +5588,7 @@
   },
   {
     "name": "Micro Machines 2: Turbo Tournament",
-    "id": "snes211",
+    "id": "snes224",
     "igdbId": 8775,
     "gbId": 20350,
     "gbGuid": "3030-20350",
@@ -5334,8 +5613,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mighty Atom (1994 video game)",
+    "id": "snes225",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Mighty Morphin Power Rangers",
-    "id": "snes212",
+    "id": "snes226",
     "igdbId": 3324,
     "gbId": 6531,
     "gbGuid": "3030-6531",
@@ -5365,7 +5667,7 @@
   },
   {
     "name": "Mighty Morphin Power Rangers: The Fighting Edition",
-    "id": "snes213",
+    "id": "snes227",
     "igdbId": 3287,
     "gbId": 11585,
     "gbGuid": "3030-11585",
@@ -5389,7 +5691,7 @@
   },
   {
     "name": "Mighty Morphin Power Rangers: The Movie",
-    "id": "snes214",
+    "id": "snes228",
     "igdbId": 3288,
     "gbId": 21927,
     "gbGuid": "3030-21927",
@@ -5413,7 +5715,7 @@
   },
   {
     "name": "Miracle Girls",
-    "id": "snes215",
+    "id": "snes229",
     "igdbId": 42386,
     "gbId": 28350,
     "gbGuid": "3030-28350",
@@ -5437,7 +5739,7 @@
   },
   {
     "name": "Mizuki Shigeru no Youkai Hyakki Yakou",
-    "id": "snes216",
+    "id": "snes230",
     "igdbId": 37924,
     "gbId": 28352,
     "gbGuid": "3030-28352",
@@ -5463,7 +5765,7 @@
   },
   {
     "name": "Mohawk & Headphone Jack",
-    "id": "snes217",
+    "id": "snes231",
     "igdbId": 42487,
     "gbId": 7939,
     "gbGuid": "3030-7939",
@@ -5487,7 +5789,7 @@
   },
   {
     "name": "Momotarou Densetsu Gaiden",
-    "id": "snes218",
+    "id": "snes232",
     "igdbId": 42297,
     "gbId": null,
     "gbGuid": null,
@@ -5511,7 +5813,7 @@
   },
   {
     "name": "Mortal Kombat",
-    "id": "snes219",
+    "id": "snes233",
     "igdbId": 1618,
     "gbId": 15743,
     "gbGuid": "3030-15743",
@@ -5529,7 +5831,7 @@
   },
   {
     "name": "Motoko-chan no Wonder Kitchen",
-    "id": "snes220",
+    "id": "snes234",
     "igdbId": 37920,
     "gbId": 28362,
     "gbGuid": "3030-28362",
@@ -5553,7 +5855,7 @@
   },
   {
     "name": "Multi Play Volleyball",
-    "id": "snes221",
+    "id": "snes235",
     "igdbId": 38363,
     "gbId": 28365,
     "gbGuid": "3030-28365",
@@ -5579,7 +5881,7 @@
   },
   {
     "name": "Musya: The Classic Japanese Tale of Horror",
-    "id": "snes222",
+    "id": "snes236",
     "igdbId": 36740,
     "gbId": 39003,
     "gbGuid": "3030-39003",
@@ -5603,7 +5905,7 @@
   },
   {
     "name": "Mystic Ark",
-    "id": "snes223",
+    "id": "snes237",
     "igdbId": 42484,
     "gbId": 168,
     "gbGuid": "3030-168",
@@ -5627,7 +5929,7 @@
   },
   {
     "name": "NBA Give 'n Go",
-    "id": "snes224",
+    "id": "snes238",
     "igdbId": 42482,
     "gbId": 11202,
     "gbGuid": "3030-11202",
@@ -5664,7 +5966,7 @@
   },
   {
     "name": "NBA Hangtime",
-    "id": "snes225",
+    "id": "snes239",
     "igdbId": 3550,
     "gbId": 10512,
     "gbGuid": "3030-10512",
@@ -5690,7 +5992,7 @@
   },
   {
     "name": "NBA Jam",
-    "id": "snes226",
+    "id": "snes240",
     "igdbId": 8995,
     "gbId": 16928,
     "gbGuid": "3030-16928",
@@ -5716,7 +6018,7 @@
   },
   {
     "name": "NBA Jam Tournament Edition",
-    "id": "snes227",
+    "id": "snes241",
     "igdbId": 19712,
     "gbId": 14792,
     "gbGuid": "3030-14792",
@@ -5742,7 +6044,7 @@
   },
   {
     "name": "NBA Live 95",
-    "id": "snes228",
+    "id": "snes242",
     "igdbId": 37285,
     "gbId": 3091,
     "gbGuid": "3030-3091",
@@ -5768,7 +6070,7 @@
   },
   {
     "name": "NBA Live 96",
-    "id": "snes229",
+    "id": "snes243",
     "igdbId": 809,
     "gbId": 20257,
     "gbGuid": "3030-20257",
@@ -5794,7 +6096,7 @@
   },
   {
     "name": "NBA Live 97",
-    "id": "snes230",
+    "id": "snes244",
     "igdbId": 20134,
     "gbId": 1356,
     "gbGuid": "3030-1356",
@@ -5820,7 +6122,7 @@
   },
   {
     "name": "NBA Live 98",
-    "id": "snes231",
+    "id": "snes245",
     "igdbId": 26013,
     "gbId": 15170,
     "gbGuid": "3030-15170",
@@ -5846,7 +6148,7 @@
   },
   {
     "name": "NCAA Basketball",
-    "id": "snes232",
+    "id": "snes246",
     "igdbId": 42480,
     "gbId": 20007,
     "gbGuid": "3030-20007",
@@ -5870,7 +6172,7 @@
   },
   {
     "name": "NCAA Final Four Basketball",
-    "id": "snes233",
+    "id": "snes247",
     "igdbId": 4385,
     "gbId": 52965,
     "gbGuid": "3030-52965",
@@ -5896,7 +6198,7 @@
   },
   {
     "name": "NCAA Football",
-    "id": "snes234",
+    "id": "snes248",
     "igdbId": 46680,
     "gbId": 15972,
     "gbGuid": "3030-15972",
@@ -5922,7 +6224,7 @@
   },
   {
     "name": "NFL Quarterback Club",
-    "id": "snes235",
+    "id": "snes249",
     "igdbId": 114754,
     "gbId": 22136,
     "gbGuid": "3030-22136",
@@ -5948,7 +6250,7 @@
   },
   {
     "name": "NFL Quarterback Club 96",
-    "id": "snes236",
+    "id": "snes250",
     "igdbId": 25080,
     "gbId": 11504,
     "gbGuid": "3030-11504",
@@ -5974,7 +6276,7 @@
   },
   {
     "name": "NHL '94",
-    "id": "snes237",
+    "id": "snes251",
     "igdbId": 5405,
     "gbId": 20166,
     "gbGuid": "3030-20166",
@@ -6000,7 +6302,7 @@
   },
   {
     "name": "NHL 98",
-    "id": "snes238",
+    "id": "snes252",
     "igdbId": 818,
     "gbId": 18845,
     "gbGuid": "3030-18845",
@@ -6026,7 +6328,7 @@
   },
   {
     "name": "NHL Pro Hockey '94",
-    "id": "snes239",
+    "id": "snes253",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6052,7 +6354,7 @@
   },
   {
     "name": "NHL Stanley Cup",
-    "id": "snes240",
+    "id": "snes254",
     "igdbId": 42655,
     "gbId": 14125,
     "gbGuid": "3030-14125",
@@ -6076,7 +6378,7 @@
   },
   {
     "name": "Nakajima Satoru Kanshuu: F-1 Hero '94",
-    "id": "snes241",
+    "id": "snes255",
     "igdbId": 37914,
     "gbId": 28368,
     "gbGuid": "3030-28368",
@@ -6099,7 +6401,7 @@
   },
   {
     "name": "Nakano Kouichi Kanshuu: Keirinou",
-    "id": "snes242",
+    "id": "snes256",
     "igdbId": 37913,
     "gbId": null,
     "gbGuid": null,
@@ -6123,7 +6425,7 @@
   },
   {
     "name": "Natsuki Crisis Battle",
-    "id": "snes243",
+    "id": "snes257",
     "igdbId": 38210,
     "gbId": 28375,
     "gbGuid": "3030-28375",
@@ -6147,7 +6449,7 @@
   },
   {
     "name": "Natsume Championship Wrestling",
-    "id": "snes244",
+    "id": "snes258",
     "igdbId": 42483,
     "gbId": 9816,
     "gbGuid": "3030-9816",
@@ -6173,7 +6475,7 @@
   },
   {
     "name": "Neugier: Umi to Kaze no Koudou",
-    "id": "snes245",
+    "id": "snes259",
     "igdbId": 15848,
     "gbId": 14451,
     "gbGuid": "3030-14451",
@@ -6197,7 +6499,7 @@
   },
   {
     "name": "Nintendo PowerFest '94",
-    "id": "snes246",
+    "id": "snes260",
     "igdbId": 85808,
     "gbId": 37538,
     "gbGuid": "3030-37538",
@@ -6220,7 +6522,7 @@
   },
   {
     "name": "Nolan Ryan's Baseball",
-    "id": "snes247",
+    "id": "snes261",
     "igdbId": 42477,
     "gbId": 30887,
     "gbGuid": "3030-30887",
@@ -6244,7 +6546,7 @@
   },
   {
     "name": "Nosferatu",
-    "id": "snes248",
+    "id": "snes262",
     "igdbId": 11125,
     "gbId": 6408,
     "gbGuid": "3030-6408",
@@ -6268,7 +6570,7 @@
   },
   {
     "name": "Onita Atsushi: FMW",
-    "id": "snes249",
+    "id": "snes263",
     "igdbId": 38229,
     "gbId": 30213,
     "gbGuid": "3030-30213",
@@ -6292,7 +6594,7 @@
   },
   {
     "name": "Operation Logic Bomb: The Ultimate Search & Destroy",
-    "id": "snes250",
+    "id": "snes264",
     "igdbId": 42653,
     "gbId": 7224,
     "gbGuid": "3030-7224",
@@ -6316,7 +6618,7 @@
   },
   {
     "name": "Operation Thunderbolt",
-    "id": "snes251",
+    "id": "snes265",
     "igdbId": 12191,
     "gbId": 14088,
     "gbGuid": "3030-14088",
@@ -6342,7 +6644,7 @@
   },
   {
     "name": "Otoboke Ninja Colosseum",
-    "id": "snes252",
+    "id": "snes266",
     "igdbId": 38118,
     "gbId": 30222,
     "gbGuid": "3030-30222",
@@ -6365,8 +6667,26 @@
     "misprintsErrors": []
   },
   {
+    "name": "Out of This World",
+    "id": "snes267",
+    "igdbId": null,
+    "gbId": 17483,
+    "gbGuid": "3030-17483",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/snes/ootwusd.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
     "name": "Packy & Marlon",
-    "id": "snes253",
+    "id": "snes268",
     "igdbId": 42475,
     "gbId": 33018,
     "gbGuid": "3030-33018",
@@ -6389,7 +6709,7 @@
   },
   {
     "name": "Paladin's Quest",
-    "id": "snes254",
+    "id": "snes269",
     "igdbId": 46586,
     "gbId": 10392,
     "gbGuid": "3030-10392",
@@ -6413,7 +6733,7 @@
   },
   {
     "name": "Panic in Nakayoshi World",
-    "id": "snes255",
+    "id": "snes270",
     "igdbId": 42374,
     "gbId": 30456,
     "gbGuid": "3030-30456",
@@ -6437,7 +6757,7 @@
   },
   {
     "name": "Phalanx",
-    "id": "snes256",
+    "id": "snes271",
     "igdbId": 6532,
     "gbId": 18519,
     "gbGuid": "3030-18519",
@@ -6455,7 +6775,7 @@
   },
   {
     "name": "Pieces",
-    "id": "snes257",
+    "id": "snes272",
     "igdbId": 46587,
     "gbId": 28172,
     "gbGuid": "3030-28172",
@@ -6481,7 +6801,7 @@
   },
   {
     "name": "Pilotwings",
-    "id": "snes258",
+    "id": "snes273",
     "igdbId": 9619,
     "gbId": 14727,
     "gbGuid": "3030-14727",
@@ -6505,7 +6825,7 @@
   },
   {
     "name": "Porky Pig's Haunted Holiday",
-    "id": "snes259",
+    "id": "snes274",
     "igdbId": 42472,
     "gbId": 1683,
     "gbGuid": "3030-1683",
@@ -6523,7 +6843,7 @@
   },
   {
     "name": "RPM Racing",
-    "id": "snes260",
+    "id": "snes275",
     "igdbId": 42466,
     "gbId": null,
     "gbGuid": null,
@@ -6547,7 +6867,7 @@
   },
   {
     "name": "Radical Dreamers",
-    "id": "snes261",
+    "id": "snes276",
     "igdbId": 1803,
     "gbId": 11566,
     "gbGuid": "3030-11566",
@@ -6571,7 +6891,7 @@
   },
   {
     "name": "Ranma 1/2: Hard Battle",
-    "id": "snes262",
+    "id": "snes277",
     "igdbId": 44462,
     "gbId": 7069,
     "gbGuid": "3030-7069",
@@ -6595,7 +6915,7 @@
   },
   {
     "name": "Rap Jam: Volume One",
-    "id": "snes263",
+    "id": "snes278",
     "igdbId": 44458,
     "gbId": 946,
     "gbGuid": "3030-946",
@@ -6632,7 +6952,7 @@
   },
   {
     "name": "Realm",
-    "id": "snes264",
+    "id": "snes279",
     "igdbId": 44457,
     "gbId": 38915,
     "gbGuid": "3030-38915",
@@ -6656,7 +6976,7 @@
   },
   {
     "name": "Rendering Ranger: R2",
-    "id": "snes265",
+    "id": "snes280",
     "igdbId": 38369,
     "gbId": 8261,
     "gbGuid": "3030-8261",
@@ -6680,7 +7000,7 @@
   },
   {
     "name": "Rex Ronan: Experimental Surgeon",
-    "id": "snes266",
+    "id": "snes281",
     "igdbId": 42651,
     "gbId": 8948,
     "gbGuid": "3030-8948",
@@ -6704,7 +7024,7 @@
   },
   {
     "name": "Road Runner's Death Valley Rally",
-    "id": "snes267",
+    "id": "snes282",
     "igdbId": 8099,
     "gbId": 18398,
     "gbGuid": "3030-18398",
@@ -6728,7 +7048,7 @@
   },
   {
     "name": "Robotrek",
-    "id": "snes268",
+    "id": "snes283",
     "igdbId": 42649,
     "gbId": 394,
     "gbGuid": "3030-394",
@@ -6752,7 +7072,7 @@
   },
   {
     "name": "Rocko's Modern Life: Spunky's Dangerous Day",
-    "id": "snes269",
+    "id": "snes284",
     "igdbId": 7562,
     "gbId": 22711,
     "gbGuid": "3030-22711",
@@ -6776,7 +7096,7 @@
   },
   {
     "name": "Rocky Rodent",
-    "id": "snes270",
+    "id": "snes285",
     "igdbId": 42648,
     "gbId": 11083,
     "gbGuid": "3030-11083",
@@ -6800,7 +7120,7 @@
   },
   {
     "name": "Ruin Arm",
-    "id": "snes271",
+    "id": "snes286",
     "igdbId": 38292,
     "gbId": 2270,
     "gbGuid": "3030-2270",
@@ -6824,7 +7144,7 @@
   },
   {
     "name": "Run Saber",
-    "id": "snes272",
+    "id": "snes287",
     "igdbId": 22358,
     "gbId": 18064,
     "gbGuid": "3030-18064",
@@ -6848,7 +7168,7 @@
   },
   {
     "name": "SD F-1 Grand Prix",
-    "id": "snes273",
+    "id": "snes288",
     "igdbId": 38328,
     "gbId": 37413,
     "gbGuid": "3030-37413",
@@ -6872,7 +7192,7 @@
   },
   {
     "name": "SOS",
-    "id": "snes274",
+    "id": "snes289",
     "igdbId": 24008,
     "gbId": 13078,
     "gbGuid": "3030-13078",
@@ -6896,7 +7216,7 @@
   },
   {
     "name": "SWAT Kats: The Radical Squadron",
-    "id": "snes275",
+    "id": "snes290",
     "igdbId": 8068,
     "gbId": 4706,
     "gbGuid": "3030-4706",
@@ -6920,7 +7240,7 @@
   },
   {
     "name": "Saturday Night Slam Masters",
-    "id": "snes276",
+    "id": "snes291",
     "igdbId": 4504,
     "gbId": 16684,
     "gbGuid": "3030-16684",
@@ -6946,7 +7266,7 @@
   },
   {
     "name": "Secret of Evermore",
-    "id": "snes277",
+    "id": "snes292",
     "igdbId": 1359,
     "gbId": 8723,
     "gbGuid": "3030-8723",
@@ -6970,7 +7290,7 @@
   },
   {
     "name": "Secret of Mana",
-    "id": "snes278",
+    "id": "snes293",
     "igdbId": 3216,
     "gbId": 19507,
     "gbGuid": "3030-19507",
@@ -6996,7 +7316,7 @@
   },
   {
     "name": "Sgt. Saunders' Combat!",
-    "id": "snes279",
+    "id": "snes294",
     "igdbId": 42368,
     "gbId": 40924,
     "gbGuid": "3030-40924",
@@ -7020,7 +7340,7 @@
   },
   {
     "name": "Shadowrun",
-    "id": "snes280",
+    "id": "snes295",
     "igdbId": 7640,
     "gbId": 21198,
     "gbGuid": "3030-21198",
@@ -7044,7 +7364,7 @@
   },
   {
     "name": "Shien's Revenge",
-    "id": "snes281",
+    "id": "snes296",
     "igdbId": 20173,
     "gbId": 5058,
     "gbGuid": "3030-5058",
@@ -7068,7 +7388,7 @@
   },
   {
     "name": "Shijou Saikyou League Serie A: Ace Striker",
-    "id": "snes282",
+    "id": "snes297",
     "igdbId": 38202,
     "gbId": 37265,
     "gbGuid": "3030-37265",
@@ -7092,7 +7412,7 @@
   },
   {
     "name": "Shin Nekketsu Kouha: Kunio-tachi no Banka",
-    "id": "snes283",
+    "id": "snes298",
     "igdbId": 46584,
     "gbId": 5471,
     "gbGuid": "3030-5471",
@@ -7116,7 +7436,7 @@
   },
   {
     "name": "Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome",
-    "id": "snes284",
+    "id": "snes299",
     "igdbId": 61304,
     "gbId": 46993,
     "gbGuid": "3030-46993",
@@ -7142,7 +7462,7 @@
   },
   {
     "name": "Shin Nippon Pro Wrestling '95: Tokyo Dome Battle 7",
-    "id": "snes285",
+    "id": "snes300",
     "igdbId": 61303,
     "gbId": 46994,
     "gbGuid": "3030-46994",
@@ -7168,7 +7488,7 @@
   },
   {
     "name": "Shin Nippon Pro Wrestling: Chou Senshi in Tokyo Dome",
-    "id": "snes286",
+    "id": "snes301",
     "igdbId": 61317,
     "gbId": 46954,
     "gbGuid": "3030-46954",
@@ -7194,7 +7514,7 @@
   },
   {
     "name": "Shinseiki Odysselya",
-    "id": "snes287",
+    "id": "snes302",
     "igdbId": 42367,
     "gbId": 38783,
     "gbGuid": "3030-38783",
@@ -7218,7 +7538,7 @@
   },
   {
     "name": "Shiroi Ringu he: Twinkle Little Star",
-    "id": "snes288",
+    "id": "snes303",
     "igdbId": 38217,
     "gbId": null,
     "gbGuid": null,
@@ -7241,7 +7561,7 @@
   },
   {
     "name": "Shounen Ninja Sasuke",
-    "id": "snes289",
+    "id": "snes304",
     "igdbId": 38232,
     "gbId": 50067,
     "gbGuid": "3030-50067",
@@ -7265,7 +7585,7 @@
   },
   {
     "name": "Shounin yo, Taishi o Dake!!",
-    "id": "snes290",
+    "id": "snes305",
     "igdbId": 42380,
     "gbId": 55126,
     "gbGuid": "3030-55126",
@@ -7289,7 +7609,7 @@
   },
   {
     "name": "Silva Saga II: The Legend of Light and Darkness",
-    "id": "snes291",
+    "id": "snes306",
     "igdbId": 63758,
     "gbId": 41830,
     "gbGuid": "3030-41830",
@@ -7313,7 +7633,7 @@
   },
   {
     "name": "SimCity",
-    "id": "snes292",
+    "id": "snes307",
     "igdbId": 1272,
     "gbId": 15035,
     "gbGuid": "3030-15035",
@@ -7337,7 +7657,7 @@
   },
   {
     "name": "SimCity",
-    "id": "snes293",
+    "id": "snes308",
     "igdbId": 180001,
     "gbId": 15035,
     "gbGuid": "3030-15035",
@@ -7363,7 +7683,7 @@
   },
   {
     "name": "SimCity 2000",
-    "id": "snes294",
+    "id": "snes309",
     "igdbId": 330,
     "gbId": 13760,
     "gbGuid": "3030-13760",
@@ -7381,7 +7701,7 @@
   },
   {
     "name": "Simulation Pro Yakyuu",
-    "id": "snes295",
+    "id": "snes310",
     "igdbId": 38301,
     "gbId": 53433,
     "gbGuid": "3030-53433",
@@ -7405,7 +7725,7 @@
   },
   {
     "name": "SkulJagger: Revolt of the Westicans",
-    "id": "snes296",
+    "id": "snes311",
     "igdbId": 42664,
     "gbId": 8519,
     "gbGuid": "3030-8519",
@@ -7429,7 +7749,7 @@
   },
   {
     "name": "Skyblazer",
-    "id": "snes297",
+    "id": "snes312",
     "igdbId": 42581,
     "gbId": 6763,
     "gbGuid": "3030-6763",
@@ -7453,7 +7773,7 @@
   },
   {
     "name": "Slayers",
-    "id": "snes298",
+    "id": "snes313",
     "igdbId": 42462,
     "gbId": 8998,
     "gbGuid": "3030-8998",
@@ -7477,7 +7797,7 @@
   },
   {
     "name": "Smart Ball",
-    "id": "snes299",
+    "id": "snes314",
     "igdbId": 42461,
     "gbId": 21634,
     "gbGuid": "3030-21634",
@@ -7501,7 +7821,7 @@
   },
   {
     "name": "Snoopy Concert",
-    "id": "snes300",
+    "id": "snes315",
     "igdbId": 42383,
     "gbId": 34569,
     "gbGuid": "3030-34569",
@@ -7525,7 +7845,7 @@
   },
   {
     "name": "Snow White in Happily Ever After",
-    "id": "snes301",
+    "id": "snes316",
     "igdbId": 42582,
     "gbId": 40459,
     "gbGuid": "3030-40459",
@@ -7549,7 +7869,7 @@
   },
   {
     "name": "Solid Runner",
-    "id": "snes302",
+    "id": "snes317",
     "igdbId": 44437,
     "gbId": 14760,
     "gbGuid": "3030-14760",
@@ -7573,7 +7893,7 @@
   },
   {
     "name": "Sonic Blast Man II",
-    "id": "snes303",
+    "id": "snes318",
     "igdbId": 42459,
     "gbId": 5676,
     "gbGuid": "3030-5676",
@@ -7597,7 +7917,7 @@
   },
   {
     "name": "Soul & Sword",
-    "id": "snes304",
+    "id": "snes319",
     "igdbId": 42533,
     "gbId": 47599,
     "gbGuid": "3030-47599",
@@ -7621,7 +7941,7 @@
   },
   {
     "name": "Soul Blazer",
-    "id": "snes305",
+    "id": "snes320",
     "igdbId": 11616,
     "gbId": 13986,
     "gbGuid": "3030-13986",
@@ -7645,7 +7965,7 @@
   },
   {
     "name": "Space Football: One on One",
-    "id": "snes306",
+    "id": "snes321",
     "igdbId": 42458,
     "gbId": 31928,
     "gbGuid": "3030-31928",
@@ -7669,7 +7989,7 @@
   },
   {
     "name": "Space Megaforce",
-    "id": "snes307",
+    "id": "snes322",
     "igdbId": 42583,
     "gbId": 3838,
     "gbGuid": "3030-3838",
@@ -7699,7 +8019,7 @@
   },
   {
     "name": "Sparkster",
-    "id": "snes308",
+    "id": "snes323",
     "igdbId": 1263,
     "gbId": 19920,
     "gbGuid": "3030-19920",
@@ -7723,7 +8043,7 @@
   },
   {
     "name": "Speed Racer in My Most Dangerous Adventures",
-    "id": "snes309",
+    "id": "snes324",
     "igdbId": 42457,
     "gbId": 18983,
     "gbGuid": "3030-18983",
@@ -7747,7 +8067,7 @@
   },
   {
     "name": "Speedy Gonzales: Los Gatos Bandidos",
-    "id": "snes310",
+    "id": "snes325",
     "igdbId": 8076,
     "gbId": 10961,
     "gbGuid": "3030-10961",
@@ -7771,7 +8091,7 @@
   },
   {
     "name": "Spider-Man and the X-Men in Arcade's Revenge",
-    "id": "snes311",
+    "id": "snes326",
     "igdbId": 4389,
     "gbId": 10085,
     "gbGuid": "3030-10085",
@@ -7789,7 +8109,7 @@
   },
   {
     "name": "Stealth",
-    "id": "snes312",
+    "id": "snes327",
     "igdbId": 24679,
     "gbId": 44689,
     "gbGuid": "3030-44689",
@@ -7813,7 +8133,7 @@
   },
   {
     "name": "Sterling Sharpe: End 2 End",
-    "id": "snes313",
+    "id": "snes328",
     "igdbId": 38434,
     "gbId": 43476,
     "gbGuid": "3030-43476",
@@ -7850,7 +8170,7 @@
   },
   {
     "name": "Street Fighter II",
-    "id": "snes314",
+    "id": "snes329",
     "igdbId": 3186,
     "gbId": 6665,
     "gbGuid": "3030-6665",
@@ -7868,7 +8188,7 @@
   },
   {
     "name": "Street Hockey '95",
-    "id": "snes315",
+    "id": "snes330",
     "igdbId": 38431,
     "gbId": 23132,
     "gbGuid": "3030-23132",
@@ -7905,7 +8225,7 @@
   },
   {
     "name": "Street Racer",
-    "id": "snes316",
+    "id": "snes331",
     "igdbId": 19770,
     "gbId": 22190,
     "gbGuid": "3030-22190",
@@ -7931,7 +8251,7 @@
   },
   {
     "name": "Stunt Race FX",
-    "id": "snes317",
+    "id": "snes332",
     "igdbId": 28509,
     "gbId": 19991,
     "gbGuid": "3030-19991",
@@ -7955,7 +8275,7 @@
   },
   {
     "name": "Sugoi Hebereke",
-    "id": "snes318",
+    "id": "snes333",
     "igdbId": 37846,
     "gbId": 38021,
     "gbGuid": "3030-38021",
@@ -7981,7 +8301,7 @@
   },
   {
     "name": "Sugoro Quest++ Dicenics",
-    "id": "snes319",
+    "id": "snes334",
     "igdbId": 37807,
     "gbId": 38665,
     "gbGuid": "3030-38665",
@@ -8007,7 +8327,7 @@
   },
   {
     "name": "Sugoroku Ginga Senki",
-    "id": "snes320",
+    "id": "snes335",
     "igdbId": 37845,
     "gbId": 39860,
     "gbGuid": "3030-39860",
@@ -8033,7 +8353,7 @@
   },
   {
     "name": "Super Air Diver",
-    "id": "snes321",
+    "id": "snes336",
     "igdbId": 38430,
     "gbId": null,
     "gbGuid": null,
@@ -8056,7 +8376,7 @@
   },
   {
     "name": "Super Baseball Simulator 1.000",
-    "id": "snes322",
+    "id": "snes337",
     "igdbId": 42601,
     "gbId": 18669,
     "gbGuid": "3030-18669",
@@ -8080,7 +8400,7 @@
   },
   {
     "name": "Super Bases Loaded",
-    "id": "snes323",
+    "id": "snes338",
     "igdbId": 42430,
     "gbId": 21659,
     "gbGuid": "3030-21659",
@@ -8104,7 +8424,7 @@
   },
   {
     "name": "Super Bases Loaded 2",
-    "id": "snes324",
+    "id": "snes339",
     "igdbId": 38429,
     "gbId": 21660,
     "gbGuid": "3030-21660",
@@ -8128,7 +8448,7 @@
   },
   {
     "name": "Super Bases Loaded 3: License to Steal",
-    "id": "snes325",
+    "id": "snes340",
     "igdbId": 38428,
     "gbId": 21661,
     "gbGuid": "3030-21661",
@@ -8152,7 +8472,7 @@
   },
   {
     "name": "Super Batter Up",
-    "id": "snes326",
+    "id": "snes341",
     "igdbId": 38427,
     "gbId": 24454,
     "gbGuid": "3030-24454",
@@ -8176,7 +8496,7 @@
   },
   {
     "name": "Super Battleship",
-    "id": "snes327",
+    "id": "snes342",
     "igdbId": 46270,
     "gbId": 21588,
     "gbGuid": "3030-21588",
@@ -8194,7 +8514,7 @@
   },
   {
     "name": "Super Battletank 2",
-    "id": "snes328",
+    "id": "snes343",
     "igdbId": 38425,
     "gbId": 32829,
     "gbGuid": "3030-32829",
@@ -8218,7 +8538,7 @@
   },
   {
     "name": "Super Bomberman",
-    "id": "snes329",
+    "id": "snes344",
     "igdbId": 3450,
     "gbId": 11992,
     "gbGuid": "3030-11992",
@@ -8244,7 +8564,7 @@
   },
   {
     "name": "Super Bomberman 2",
-    "id": "snes330",
+    "id": "snes345",
     "igdbId": 14530,
     "gbId": 12414,
     "gbGuid": "3030-12414",
@@ -8293,7 +8613,7 @@
   },
   {
     "name": "Super Bomberman 3",
-    "id": "snes331",
+    "id": "snes346",
     "igdbId": 18618,
     "gbId": 7190,
     "gbGuid": "3030-7190",
@@ -8330,7 +8650,7 @@
   },
   {
     "name": "Super Bomberman 4",
-    "id": "snes332",
+    "id": "snes347",
     "igdbId": 38388,
     "gbId": 10163,
     "gbGuid": "3030-10163",
@@ -8354,7 +8674,7 @@
   },
   {
     "name": "Super Bomberman 4",
-    "id": "snes333",
+    "id": "snes348",
     "igdbId": 80539,
     "gbId": 10163,
     "gbGuid": "3030-10163",
@@ -8380,7 +8700,7 @@
   },
   {
     "name": "Super Bomberman 5",
-    "id": "snes334",
+    "id": "snes349",
     "igdbId": 38387,
     "gbId": 3354,
     "gbGuid": "3030-3354",
@@ -8417,7 +8737,7 @@
   },
   {
     "name": "Super Bomberman: Panic Bomber W",
-    "id": "snes335",
+    "id": "snes350",
     "igdbId": 42546,
     "gbId": null,
     "gbGuid": null,
@@ -8443,7 +8763,7 @@
   },
   {
     "name": "Super Casino 2",
-    "id": "snes336",
+    "id": "snes351",
     "igdbId": 38304,
     "gbId": 50072,
     "gbGuid": "3030-50072",
@@ -8467,7 +8787,7 @@
   },
   {
     "name": "Super Castlevania IV",
-    "id": "snes337",
+    "id": "snes352",
     "igdbId": 1124,
     "gbId": 11443,
     "gbGuid": "3030-11443",
@@ -8485,7 +8805,7 @@
   },
   {
     "name": "Super Chinese Fighter",
-    "id": "snes338",
+    "id": "snes353",
     "igdbId": 42322,
     "gbId": 41292,
     "gbGuid": "3030-41292",
@@ -8509,7 +8829,7 @@
   },
   {
     "name": "Super Chinese World 2",
-    "id": "snes339",
+    "id": "snes354",
     "igdbId": 37840,
     "gbId": 1017,
     "gbGuid": "3030-1017",
@@ -8533,7 +8853,7 @@
   },
   {
     "name": "Super Chinese World 3",
-    "id": "snes340",
+    "id": "snes355",
     "igdbId": 42304,
     "gbId": 17731,
     "gbGuid": "3030-17731",
@@ -8557,7 +8877,7 @@
   },
   {
     "name": "Super Conflict: The Mideast",
-    "id": "snes341",
+    "id": "snes356",
     "igdbId": 38421,
     "gbId": 14530,
     "gbGuid": "3030-14530",
@@ -8581,7 +8901,7 @@
   },
   {
     "name": "Super Double Dragon",
-    "id": "snes342",
+    "id": "snes357",
     "igdbId": 9929,
     "gbId": 7711,
     "gbGuid": "3030-7711",
@@ -8605,7 +8925,7 @@
   },
   {
     "name": "Super Drift Out",
-    "id": "snes343",
+    "id": "snes358",
     "igdbId": 42417,
     "gbId": 39887,
     "gbGuid": "3030-39887",
@@ -8629,7 +8949,7 @@
   },
   {
     "name": "Super E.D.F. Earth Defense Force",
-    "id": "snes344",
+    "id": "snes359",
     "igdbId": 84918,
     "gbId": 6619,
     "gbGuid": "3030-6619",
@@ -8647,7 +8967,7 @@
   },
   {
     "name": "Super Family Tennis",
-    "id": "snes345",
+    "id": "snes360",
     "igdbId": 44106,
     "gbId": 23133,
     "gbGuid": "3030-23133",
@@ -8673,7 +8993,7 @@
   },
   {
     "name": "Super Fire Pro Wrestling Special",
-    "id": "snes346",
+    "id": "snes361",
     "igdbId": 38286,
     "gbId": 38888,
     "gbGuid": "3030-38888",
@@ -8699,7 +9019,7 @@
   },
   {
     "name": "Super Fire Pro Wrestling X",
-    "id": "snes347",
+    "id": "snes362",
     "igdbId": 38287,
     "gbId": 55330,
     "gbGuid": "3030-55330",
@@ -8725,7 +9045,7 @@
   },
   {
     "name": "Super Fire Pro Wrestling X Premium",
-    "id": "snes348",
+    "id": "snes363",
     "igdbId": 38420,
     "gbId": null,
     "gbGuid": null,
@@ -8751,7 +9071,7 @@
   },
   {
     "name": "Super Fire Pro Wrestling: Queen's Special",
-    "id": "snes349",
+    "id": "snes364",
     "igdbId": 38282,
     "gbId": 11265,
     "gbGuid": "3030-11265",
@@ -8777,7 +9097,7 @@
   },
   {
     "name": "Super Formation Soccer 94",
-    "id": "snes350",
+    "id": "snes365",
     "igdbId": 42362,
     "gbId": 39323,
     "gbGuid": "3030-39323",
@@ -8814,7 +9134,7 @@
   },
   {
     "name": "Super Formation Soccer 94: World Cup Final Data",
-    "id": "snes351",
+    "id": "snes366",
     "igdbId": 42361,
     "gbId": null,
     "gbGuid": null,
@@ -8840,7 +9160,7 @@
   },
   {
     "name": "Super Formation Soccer 95: della Serie A",
-    "id": "snes352",
+    "id": "snes367",
     "igdbId": 42360,
     "gbId": 37247,
     "gbGuid": "3030-37247",
@@ -8866,7 +9186,7 @@
   },
   {
     "name": "Super Formation Soccer 96: World Club Edition",
-    "id": "snes353",
+    "id": "snes368",
     "igdbId": 42359,
     "gbId": 40164,
     "gbGuid": "3030-40164",
@@ -8903,7 +9223,7 @@
   },
   {
     "name": "Super Formation Soccer II",
-    "id": "snes354",
+    "id": "snes369",
     "igdbId": 42363,
     "gbId": 46495,
     "gbGuid": "3030-46495",
@@ -8940,7 +9260,7 @@
   },
   {
     "name": "Super Genjin 2",
-    "id": "snes355",
+    "id": "snes370",
     "igdbId": 42408,
     "gbId": null,
     "gbGuid": null,
@@ -8963,7 +9283,7 @@
   },
   {
     "name": "Super Goal! 2",
-    "id": "snes356",
+    "id": "snes371",
     "igdbId": 38419,
     "gbId": 32962,
     "gbGuid": "3030-32962",
@@ -8987,7 +9307,7 @@
   },
   {
     "name": "Super Godzilla",
-    "id": "snes357",
+    "id": "snes372",
     "igdbId": 38418,
     "gbId": 22183,
     "gbGuid": "3030-22183",
@@ -9011,7 +9331,7 @@
   },
   {
     "name": "Super Ice Hockey",
-    "id": "snes358",
+    "id": "snes373",
     "igdbId": 38196,
     "gbId": 49294,
     "gbGuid": "3030-49294",
@@ -9047,7 +9367,7 @@
   },
   {
     "name": "Super International Cricket",
-    "id": "snes359",
+    "id": "snes374",
     "igdbId": 42456,
     "gbId": 21668,
     "gbGuid": "3030-21668",
@@ -9071,7 +9391,7 @@
   },
   {
     "name": "Super Keirin",
-    "id": "snes360",
+    "id": "snes375",
     "igdbId": 37820,
     "gbId": 37176,
     "gbGuid": "3030-37176",
@@ -9095,7 +9415,7 @@
   },
   {
     "name": "Super Kyousouba: Kaze no Silpheed",
-    "id": "snes361",
+    "id": "snes376",
     "igdbId": 37818,
     "gbId": 47229,
     "gbGuid": "3030-47229",
@@ -9121,7 +9441,7 @@
   },
   {
     "name": "Super Kyoutei",
-    "id": "snes362",
+    "id": "snes377",
     "igdbId": 37817,
     "gbId": 53632,
     "gbGuid": "3030-53632",
@@ -9145,7 +9465,7 @@
   },
   {
     "name": "Super Mad Champ",
-    "id": "snes363",
+    "id": "snes378",
     "igdbId": 42356,
     "gbId": 37279,
     "gbGuid": "3030-37279",
@@ -9169,7 +9489,7 @@
   },
   {
     "name": "Super Mario All-Stars",
-    "id": "snes364",
+    "id": "snes379",
     "igdbId": 5199,
     "gbId": 18529,
     "gbGuid": "3030-18529",
@@ -9195,7 +9515,7 @@
   },
   {
     "name": "Super Mario Kart (PAL)",
-    "id": "snes365",
+    "id": "snes380",
     "igdbId": 2332,
     "gbId": 19071,
     "gbGuid": "3030-19071",
@@ -9227,7 +9547,7 @@
   },
   {
     "name": "Super Mario RPG: Legend of the Seven Stars (Japan)",
-    "id": "snes366",
+    "id": "snes381",
     "igdbId": 5418,
     "gbId": 7358,
     "gbGuid": "3030-7358",
@@ -9245,7 +9565,7 @@
   },
   {
     "name": "Super Mario World",
-    "id": "snes367",
+    "id": "snes382",
     "igdbId": 1070,
     "gbId": 1334,
     "gbGuid": "3030-1334",
@@ -9293,7 +9613,7 @@
   },
   {
     "name": "Super Mario World 2: Yoshi's Island",
-    "id": "snes368",
+    "id": "snes383",
     "igdbId": 1073,
     "gbId": 2866,
     "gbGuid": "3030-2866",
@@ -9319,7 +9639,7 @@
   },
   {
     "name": "Super Metroid",
-    "id": "snes369",
+    "id": "snes384",
     "igdbId": 1103,
     "gbId": 8292,
     "gbGuid": "3030-8292",
@@ -9356,7 +9676,7 @@
   },
   {
     "name": "Super Morph",
-    "id": "snes370",
+    "id": "snes385",
     "igdbId": 76904,
     "gbId": 37109,
     "gbGuid": "3030-37109",
@@ -9380,7 +9700,7 @@
   },
   {
     "name": "Super Pinball: Behind the Mask",
-    "id": "snes371",
+    "id": "snes386",
     "igdbId": 42455,
     "gbId": 17398,
     "gbGuid": "3030-17398",
@@ -9404,7 +9724,7 @@
   },
   {
     "name": "Super Play Action Football",
-    "id": "snes372",
+    "id": "snes387",
     "igdbId": 42454,
     "gbId": 455,
     "gbGuid": "3030-455",
@@ -9428,7 +9748,7 @@
   },
   {
     "name": "Super Power League",
-    "id": "snes373",
+    "id": "snes388",
     "igdbId": 42263,
     "gbId": 46678,
     "gbGuid": "3030-46678",
@@ -9454,7 +9774,7 @@
   },
   {
     "name": "Super Professional Baseball II",
-    "id": "snes374",
+    "id": "snes389",
     "igdbId": 37854,
     "gbId": 44224,
     "gbGuid": "3030-44224",
@@ -9478,7 +9798,7 @@
   },
   {
     "name": "Super R-Type",
-    "id": "snes375",
+    "id": "snes390",
     "igdbId": 42574,
     "gbId": 8479,
     "gbGuid": "3030-8479",
@@ -9496,7 +9816,7 @@
   },
   {
     "name": "Super R.B.I. Baseball",
-    "id": "snes376",
+    "id": "snes391",
     "igdbId": 5332,
     "gbId": 38287,
     "gbGuid": "3030-38287",
@@ -9520,7 +9840,7 @@
   },
   {
     "name": "Super Scope 6",
-    "id": "snes377",
+    "id": "snes392",
     "igdbId": 71316,
     "gbId": 2543,
     "gbGuid": "3030-2543",
@@ -9544,7 +9864,7 @@
   },
   {
     "name": "Super Scope 6",
-    "id": "snes378",
+    "id": "snes393",
     "igdbId": 18616,
     "gbId": 2543,
     "gbGuid": "3030-2543",
@@ -9570,7 +9890,7 @@
   },
   {
     "name": "Super Slam Dunk",
-    "id": "snes379",
+    "id": "snes394",
     "igdbId": 42452,
     "gbId": 26563,
     "gbGuid": "3030-26563",
@@ -9594,7 +9914,7 @@
   },
   {
     "name": "Super Slap Shot",
-    "id": "snes380",
+    "id": "snes395",
     "igdbId": 94561,
     "gbId": 13699,
     "gbGuid": "3030-13699",
@@ -9618,7 +9938,7 @@
   },
   {
     "name": "Super Soccer",
-    "id": "snes381",
+    "id": "snes396",
     "igdbId": 77457,
     "gbId": 11864,
     "gbGuid": "3030-11864",
@@ -9642,7 +9962,7 @@
   },
   {
     "name": "Super Solitaire",
-    "id": "snes382",
+    "id": "snes397",
     "igdbId": 42450,
     "gbId": 4955,
     "gbGuid": "3030-4955",
@@ -9666,7 +9986,7 @@
   },
   {
     "name": "Super Star Wars",
-    "id": "snes383",
+    "id": "snes398",
     "igdbId": 20031,
     "gbId": 14450,
     "gbGuid": "3030-14450",
@@ -9692,7 +10012,7 @@
   },
   {
     "name": "Super Star Wars: The Empire Strikes Back",
-    "id": "snes384",
+    "id": "snes399",
     "igdbId": 44463,
     "gbId": 8627,
     "gbGuid": "3030-8627",
@@ -9710,7 +10030,7 @@
   },
   {
     "name": "Super Street Fighter II: The New Challengers",
-    "id": "snes385",
+    "id": "snes400",
     "igdbId": 12860,
     "gbId": 6665,
     "gbGuid": "3030-6665",
@@ -9742,7 +10062,7 @@
   },
   {
     "name": "Super Strike Eagle",
-    "id": "snes386",
+    "id": "snes401",
     "igdbId": 42449,
     "gbId": 39278,
     "gbGuid": "3030-39278",
@@ -9766,7 +10086,7 @@
   },
   {
     "name": "Super Tekkyuu Fight!",
-    "id": "snes387",
+    "id": "snes402",
     "igdbId": null,
     "gbId": 35226,
     "gbGuid": "3030-35226",
@@ -9792,7 +10112,7 @@
   },
   {
     "name": "Super Tennis",
-    "id": "snes388",
+    "id": "snes403",
     "igdbId": 81523,
     "gbId": 18664,
     "gbGuid": "3030-18664",
@@ -9816,7 +10136,7 @@
   },
   {
     "name": "Super Tetris 3",
-    "id": "snes389",
+    "id": "snes404",
     "igdbId": 42531,
     "gbId": 30711,
     "gbGuid": "3030-30711",
@@ -9842,7 +10162,7 @@
   },
   {
     "name": "Super Troll Islands",
-    "id": "snes390",
+    "id": "snes405",
     "igdbId": 42448,
     "gbId": 12300,
     "gbGuid": "3030-12300",
@@ -9866,7 +10186,7 @@
   },
   {
     "name": "Super Widget",
-    "id": "snes391",
+    "id": "snes406",
     "igdbId": 42495,
     "gbId": 4533,
     "gbGuid": "3030-4533",
@@ -9890,7 +10210,7 @@
   },
   {
     "name": "Super Wrestle Angels",
-    "id": "snes392",
+    "id": "snes407",
     "igdbId": 38288,
     "gbId": 37652,
     "gbGuid": "3030-37652",
@@ -9913,8 +10233,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Ōzumō: Netsusen Daiichiban",
+    "id": "snes408",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Syndicate",
-    "id": "snes393",
+    "id": "snes409",
     "igdbId": 49,
     "gbId": 10865,
     "gbGuid": "3030-10865",
@@ -9940,7 +10283,7 @@
   },
   {
     "name": "T2: The Arcade Game",
-    "id": "snes394",
+    "id": "snes410",
     "igdbId": 12861,
     "gbId": null,
     "gbGuid": null,
@@ -9966,7 +10309,7 @@
   },
   {
     "name": "TKO Super Championship Boxing",
-    "id": "snes395",
+    "id": "snes411",
     "igdbId": 42440,
     "gbId": 28262,
     "gbGuid": "3030-28262",
@@ -9990,7 +10333,7 @@
   },
   {
     "name": "Tadaima Yuusha Boshuuchuu Okawari",
-    "id": "snes396",
+    "id": "snes412",
     "igdbId": 37799,
     "gbId": 50514,
     "gbGuid": "3030-50514",
@@ -10014,7 +10357,7 @@
   },
   {
     "name": "Taekwondo",
-    "id": "snes397",
+    "id": "snes413",
     "igdbId": 114033,
     "gbId": 1402,
     "gbGuid": "3030-1402",
@@ -10038,7 +10381,7 @@
   },
   {
     "name": "Tarot Mystery",
-    "id": "snes398",
+    "id": "snes414",
     "igdbId": 37793,
     "gbId": 44345,
     "gbGuid": "3030-44345",
@@ -10062,7 +10405,7 @@
   },
   {
     "name": "Taz-Mania",
-    "id": "snes399",
+    "id": "snes415",
     "igdbId": 8066,
     "gbId": 46448,
     "gbGuid": "3030-46448",
@@ -10086,7 +10429,7 @@
   },
   {
     "name": "Tecmo Secret of the Stars",
-    "id": "snes400",
+    "id": "snes416",
     "igdbId": 15893,
     "gbId": 12462,
     "gbGuid": "3030-12462",
@@ -10110,7 +10453,7 @@
   },
   {
     "name": "Tecmo Super NBA Basketball",
-    "id": "snes401",
+    "id": "snes417",
     "igdbId": 46596,
     "gbId": 15820,
     "gbGuid": "3030-15820",
@@ -10128,7 +10471,7 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles: Tournament Fighters",
-    "id": "snes402",
+    "id": "snes418",
     "igdbId": 48274,
     "gbId": 4896,
     "gbGuid": "3030-4896",
@@ -10152,7 +10495,7 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles: Turtles in Time",
-    "id": "snes403",
+    "id": "snes419",
     "igdbId": 14697,
     "gbId": 18034,
     "gbGuid": "3030-18034",
@@ -10170,7 +10513,7 @@
   },
   {
     "name": "Tenchi Muyou!",
-    "id": "snes404",
+    "id": "snes420",
     "igdbId": 42444,
     "gbId": 25732,
     "gbGuid": "3030-25732",
@@ -10194,7 +10537,7 @@
   },
   {
     "name": "Tengai Makyou Zero",
-    "id": "snes405",
+    "id": "snes421",
     "igdbId": 15900,
     "gbId": 15375,
     "gbGuid": "3030-15375",
@@ -10218,7 +10561,7 @@
   },
   {
     "name": "Tenryu Genichiro no Pro Wrestling Revolution",
-    "id": "snes406",
+    "id": "snes422",
     "igdbId": 38228,
     "gbId": null,
     "gbGuid": null,
@@ -10244,7 +10587,7 @@
   },
   {
     "name": "Terranigma",
-    "id": "snes407",
+    "id": "snes423",
     "igdbId": 9633,
     "gbId": 13828,
     "gbGuid": "3030-13828",
@@ -10268,7 +10611,7 @@
   },
   {
     "name": "Tetris & Dr. Mario",
-    "id": "snes408",
+    "id": "snes424",
     "igdbId": 14531,
     "gbId": 6805,
     "gbGuid": "3030-6805",
@@ -10305,7 +10648,7 @@
   },
   {
     "name": "Tetris 2",
-    "id": "snes409",
+    "id": "snes425",
     "igdbId": 9083,
     "gbId": 12562,
     "gbGuid": "3030-12562",
@@ -10331,7 +10674,7 @@
   },
   {
     "name": "Tetris Attack",
-    "id": "snes410",
+    "id": "snes426",
     "igdbId": 2739,
     "gbId": 13130,
     "gbGuid": "3030-13130",
@@ -10349,7 +10692,7 @@
   },
   {
     "name": "Tetris Battle Gaiden",
-    "id": "snes411",
+    "id": "snes427",
     "igdbId": 38371,
     "gbId": 30673,
     "gbGuid": "3030-30673",
@@ -10373,7 +10716,7 @@
   },
   {
     "name": "The 7th Saga",
-    "id": "snes412",
+    "id": "snes428",
     "igdbId": 15846,
     "gbId": 20389,
     "gbGuid": "3030-20389",
@@ -10397,7 +10740,7 @@
   },
   {
     "name": "The Adventures of Batman & Robin",
-    "id": "snes413",
+    "id": "snes429",
     "igdbId": 5346,
     "gbId": 12434,
     "gbGuid": "3030-12434",
@@ -10421,7 +10764,7 @@
   },
   {
     "name": "The Amazing Spider-Man: Lethal Foes",
-    "id": "snes414",
+    "id": "snes430",
     "igdbId": 42403,
     "gbId": 34997,
     "gbGuid": "3030-34997",
@@ -10445,7 +10788,7 @@
   },
   {
     "name": "The Firemen",
-    "id": "snes415",
+    "id": "snes431",
     "igdbId": 42621,
     "gbId": 1160,
     "gbGuid": "3030-1160",
@@ -10469,7 +10812,7 @@
   },
   {
     "name": "The Flintstones: The Treasure of Sierra Madrock",
-    "id": "snes416",
+    "id": "snes432",
     "igdbId": 8450,
     "gbId": 13694,
     "gbGuid": "3030-13694",
@@ -10493,7 +10836,7 @@
   },
   {
     "name": "The Hunt for Red October",
-    "id": "snes417",
+    "id": "snes433",
     "igdbId": 45118,
     "gbId": 2491,
     "gbGuid": "3030-2491",
@@ -10519,7 +10862,7 @@
   },
   {
     "name": "The Jetsons: Invasion of the Planet Pirates",
-    "id": "snes418",
+    "id": "snes434",
     "igdbId": 42511,
     "gbId": 12576,
     "gbGuid": "3030-12576",
@@ -10543,7 +10886,7 @@
   },
   {
     "name": "The Legend of Zelda: A Link to the Past",
-    "id": "snes419",
+    "id": "snes435",
     "igdbId": 1026,
     "gbId": 10276,
     "gbGuid": "3030-10276",
@@ -10575,7 +10918,7 @@
   },
   {
     "name": "The Mask",
-    "id": "snes420",
+    "id": "snes436",
     "igdbId": 42730,
     "gbId": 6111,
     "gbGuid": "3030-6111",
@@ -10599,7 +10942,7 @@
   },
   {
     "name": "The Monopoly Game 2",
-    "id": "snes421",
+    "id": "snes437",
     "igdbId": 67593,
     "gbId": 28354,
     "gbGuid": "3030-28354",
@@ -10623,7 +10966,7 @@
   },
   {
     "name": "The Ninja Warriors",
-    "id": "snes422",
+    "id": "snes438",
     "igdbId": 42654,
     "gbId": 1618,
     "gbGuid": "3030-1618",
@@ -10647,7 +10990,7 @@
   },
   {
     "name": "The Peace Keepers",
-    "id": "snes423",
+    "id": "snes439",
     "igdbId": 44465,
     "gbId": 7950,
     "gbGuid": "3030-7950",
@@ -10684,7 +11027,7 @@
   },
   {
     "name": "The Sporting News Baseball",
-    "id": "snes424",
+    "id": "snes440",
     "igdbId": 55154,
     "gbId": 38050,
     "gbGuid": "3030-38050",
@@ -10710,7 +11053,7 @@
   },
   {
     "name": "The Twisted Tales of Spike McFang",
-    "id": "snes425",
+    "id": "snes441",
     "igdbId": 16295,
     "gbId": 2626,
     "gbGuid": "3030-2626",
@@ -10734,7 +11077,7 @@
   },
   {
     "name": "The Wizard of Oz",
-    "id": "snes426",
+    "id": "snes442",
     "igdbId": 25781,
     "gbId": 22692,
     "gbGuid": "3030-22692",
@@ -10758,7 +11101,7 @@
   },
   {
     "name": "Thoroughbred Breeder",
-    "id": "snes427",
+    "id": "snes443",
     "igdbId": 37789,
     "gbId": 46853,
     "gbGuid": "3030-46853",
@@ -10782,7 +11125,7 @@
   },
   {
     "name": "Time Cop",
-    "id": "snes428",
+    "id": "snes444",
     "igdbId": 42441,
     "gbId": 11222,
     "gbGuid": "3030-11222",
@@ -10806,7 +11149,7 @@
   },
   {
     "name": "Time Slip",
-    "id": "snes429",
+    "id": "snes445",
     "igdbId": 42442,
     "gbId": 21340,
     "gbGuid": "3030-21340",
@@ -10830,7 +11173,7 @@
   },
   {
     "name": "Time Trax",
-    "id": "snes430",
+    "id": "snes446",
     "igdbId": 28484,
     "gbId": 17309,
     "gbGuid": "3030-17309",
@@ -10854,7 +11197,7 @@
   },
   {
     "name": "Tin Star",
-    "id": "snes431",
+    "id": "snes447",
     "igdbId": 104677,
     "gbId": 22002,
     "gbGuid": "3030-22002",
@@ -10891,7 +11234,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Buster Busts Loose!",
-    "id": "snes432",
+    "id": "snes448",
     "igdbId": 8050,
     "gbId": 9441,
     "gbGuid": "3030-9441",
@@ -10915,7 +11258,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Wacky Sports Challenge",
-    "id": "snes433",
+    "id": "snes449",
     "igdbId": 8051,
     "gbId": 15537,
     "gbGuid": "3030-15537",
@@ -10941,7 +11284,7 @@
   },
   {
     "name": "Todd McFarlane's Spawn: The Video Game",
-    "id": "snes434",
+    "id": "snes450",
     "igdbId": 42580,
     "gbId": 23058,
     "gbGuid": "3030-23058",
@@ -10965,7 +11308,7 @@
   },
   {
     "name": "Tommy Moe's Winter Extreme: Skiing & Snowboarding",
-    "id": "snes435",
+    "id": "snes451",
     "igdbId": 42429,
     "gbId": 30873,
     "gbGuid": "3030-30873",
@@ -10989,7 +11332,7 @@
   },
   {
     "name": "Tony Meola's Sidekicks Soccer",
-    "id": "snes436",
+    "id": "snes452",
     "igdbId": 42540,
     "gbId": 36366,
     "gbGuid": "3030-36366",
@@ -11013,7 +11356,7 @@
   },
   {
     "name": "Top Gear",
-    "id": "snes437",
+    "id": "snes453",
     "igdbId": 27461,
     "gbId": 9364,
     "gbGuid": "3030-9364",
@@ -11037,7 +11380,7 @@
   },
   {
     "name": "Top Gear 3000",
-    "id": "snes438",
+    "id": "snes454",
     "igdbId": 46007,
     "gbId": 3215,
     "gbGuid": "3030-3215",
@@ -11074,7 +11417,7 @@
   },
   {
     "name": "Torneko no Daibouken: Fushigi no Dungeon",
-    "id": "snes439",
+    "id": "snes455",
     "igdbId": 42439,
     "gbId": 6411,
     "gbGuid": "3030-6411",
@@ -11097,8 +11440,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Tottemo! Luckyman",
+    "id": "snes456",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Traverse: Starlight & Prairie",
-    "id": "snes440",
+    "id": "snes457",
     "igdbId": 37782,
     "gbId": 41045,
     "gbGuid": "3030-41045",
@@ -11122,7 +11488,7 @@
   },
   {
     "name": "Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama",
-    "id": "snes441",
+    "id": "snes458",
     "igdbId": 37778,
     "gbId": 50467,
     "gbGuid": "3030-50467",
@@ -11146,7 +11512,7 @@
   },
   {
     "name": "Tuff E Nuff",
-    "id": "snes442",
+    "id": "snes459",
     "igdbId": 46006,
     "gbId": 14880,
     "gbGuid": "3030-14880",
@@ -11170,7 +11536,7 @@
   },
   {
     "name": "U.N. Squadron",
-    "id": "snes443",
+    "id": "snes460",
     "igdbId": 1357,
     "gbId": 16642,
     "gbGuid": "3030-16642",
@@ -11188,7 +11554,7 @@
   },
   {
     "name": "UFO Kamen Yakisoban: Kettler no Kuroi Inbou",
-    "id": "snes444",
+    "id": "snes461",
     "igdbId": 44445,
     "gbId": 33387,
     "gbGuid": "3030-33387",
@@ -11212,7 +11578,7 @@
   },
   {
     "name": "Uchuu Race: Astro Go! Go!",
-    "id": "snes445",
+    "id": "snes462",
     "igdbId": 42353,
     "gbId": 37439,
     "gbGuid": "3030-37439",
@@ -11236,7 +11602,7 @@
   },
   {
     "name": "Ultimate Fighter",
-    "id": "snes446",
+    "id": "snes463",
     "igdbId": 38413,
     "gbId": 22953,
     "gbGuid": "3030-22953",
@@ -11260,7 +11626,7 @@
   },
   {
     "name": "Ultra League: Moero! Soccer Daikessen!!",
-    "id": "snes447",
+    "id": "snes464",
     "igdbId": 42354,
     "gbId": 38486,
     "gbGuid": "3030-38486",
@@ -11284,7 +11650,7 @@
   },
   {
     "name": "Uniracers",
-    "id": "snes448",
+    "id": "snes465",
     "igdbId": 16743,
     "gbId": 16228,
     "gbGuid": "3030-16228",
@@ -11308,7 +11674,7 @@
   },
   {
     "name": "Urban Strike",
-    "id": "snes449",
+    "id": "snes466",
     "igdbId": 4492,
     "gbId": 9336,
     "gbGuid": "3030-9336",
@@ -11326,7 +11692,7 @@
   },
   {
     "name": "Verne World",
-    "id": "snes450",
+    "id": "snes467",
     "igdbId": 37772,
     "gbId": 46754,
     "gbGuid": "3030-46754",
@@ -11350,7 +11716,7 @@
   },
   {
     "name": "Virtual Soccer",
-    "id": "snes451",
+    "id": "snes468",
     "igdbId": 46005,
     "gbId": 28166,
     "gbGuid": "3030-28166",
@@ -11387,7 +11753,7 @@
   },
   {
     "name": "Vortex",
-    "id": "snes452",
+    "id": "snes469",
     "igdbId": 81436,
     "gbId": 9146,
     "gbGuid": "3030-9146",
@@ -11411,7 +11777,7 @@
   },
   {
     "name": "Vs. Collection",
-    "id": "snes453",
+    "id": "snes470",
     "igdbId": 37771,
     "gbId": 58983,
     "gbGuid": "3030-58983",
@@ -11437,7 +11803,7 @@
   },
   {
     "name": "WCW Super Brawl Wrestling",
-    "id": "snes454",
+    "id": "snes471",
     "igdbId": 38404,
     "gbId": 22273,
     "gbGuid": "3030-22273",
@@ -11461,7 +11827,7 @@
   },
   {
     "name": "WWF Raw",
-    "id": "snes455",
+    "id": "snes472",
     "igdbId": 19771,
     "gbId": 4155,
     "gbGuid": "3030-4155",
@@ -11487,7 +11853,7 @@
   },
   {
     "name": "Wagyan Land",
-    "id": "snes456",
+    "id": "snes473",
     "igdbId": 48550,
     "gbId": 37159,
     "gbGuid": "3030-37159",
@@ -11511,7 +11877,7 @@
   },
   {
     "name": "Wakataka Oozumou",
-    "id": "snes457",
+    "id": "snes474",
     "igdbId": 42394,
     "gbId": 47378,
     "gbGuid": "3030-47378",
@@ -11535,7 +11901,7 @@
   },
   {
     "name": "WakuWaku Ski Wonder Spur",
-    "id": "snes458",
+    "id": "snes475",
     "igdbId": 37770,
     "gbId": 40942,
     "gbGuid": "3030-40942",
@@ -11559,7 +11925,7 @@
   },
   {
     "name": "War 2410",
-    "id": "snes459",
+    "id": "snes476",
     "igdbId": 38398,
     "gbId": 54902,
     "gbGuid": "3030-54902",
@@ -11583,7 +11949,7 @@
   },
   {
     "name": "War 3010: The Revolution",
-    "id": "snes460",
+    "id": "snes477",
     "igdbId": 38397,
     "gbId": 58870,
     "gbGuid": "3030-58870",
@@ -11607,7 +11973,7 @@
   },
   {
     "name": "Whirlo",
-    "id": "snes461",
+    "id": "snes478",
     "igdbId": 46588,
     "gbId": 4795,
     "gbGuid": "3030-4795",
@@ -11631,7 +11997,7 @@
   },
   {
     "name": "Wild Guns",
-    "id": "snes462",
+    "id": "snes479",
     "igdbId": 1344,
     "gbId": 1201,
     "gbGuid": "3030-1201",
@@ -11649,7 +12015,7 @@
   },
   {
     "name": "Wing Commander",
-    "id": "snes463",
+    "id": "snes480",
     "igdbId": 924,
     "gbId": 16002,
     "gbGuid": "3030-16002",
@@ -11667,7 +12033,7 @@
   },
   {
     "name": "Wings 2: Aces High",
-    "id": "snes464",
+    "id": "snes481",
     "igdbId": 42577,
     "gbId": 30807,
     "gbGuid": "3030-30807",
@@ -11691,7 +12057,7 @@
   },
   {
     "name": "Wonder Project J",
-    "id": "snes465",
+    "id": "snes482",
     "igdbId": 37255,
     "gbId": 14145,
     "gbGuid": "3030-14145",
@@ -11715,7 +12081,7 @@
   },
   {
     "name": "World Masters Golf",
-    "id": "snes466",
+    "id": "snes483",
     "igdbId": 37248,
     "gbId": 39086,
     "gbGuid": "3030-39086",
@@ -11739,7 +12105,7 @@
   },
   {
     "name": "World Soccer '94: Road to Glory",
-    "id": "snes467",
+    "id": "snes484",
     "igdbId": 42428,
     "gbId": 14324,
     "gbGuid": "3030-14324",
@@ -11763,7 +12129,7 @@
   },
   {
     "name": "X-Kaliber 2097",
-    "id": "snes468",
+    "id": "snes485",
     "igdbId": 38406,
     "gbId": 30781,
     "gbGuid": "3030-30781",
@@ -11787,7 +12153,7 @@
   },
   {
     "name": "X-Men: Mutant Apocalypse",
-    "id": "snes469",
+    "id": "snes486",
     "igdbId": 42576,
     "gbId": 5981,
     "gbGuid": "3030-5981",
@@ -11811,7 +12177,7 @@
   },
   {
     "name": "X-Zone",
-    "id": "snes470",
+    "id": "snes487",
     "igdbId": 42647,
     "gbId": 13533,
     "gbGuid": "3030-13533",
@@ -11837,7 +12203,7 @@
   },
   {
     "name": "Xardion",
-    "id": "snes471",
+    "id": "snes488",
     "igdbId": 38407,
     "gbId": 28136,
     "gbGuid": "3030-28136",
@@ -11861,7 +12227,7 @@
   },
   {
     "name": "Yadamon: Wonderland Dream",
-    "id": "snes472",
+    "id": "snes489",
     "igdbId": 37762,
     "gbId": 38281,
     "gbGuid": "3030-38281",
@@ -11885,7 +12251,7 @@
   },
   {
     "name": "Yoshi's Safari",
-    "id": "snes473",
+    "id": "snes490",
     "igdbId": 11604,
     "gbId": 3699,
     "gbGuid": "3030-3699",
@@ -11922,7 +12288,7 @@
   },
   {
     "name": "Young Merlin",
-    "id": "snes474",
+    "id": "snes491",
     "igdbId": 11665,
     "gbId": 14108,
     "gbGuid": "3030-14108",
@@ -11946,7 +12312,7 @@
   },
   {
     "name": "Yuujin no Furi Furi Girls",
-    "id": "snes475",
+    "id": "snes492",
     "igdbId": 37751,
     "gbId": 38053,
     "gbGuid": "3030-38053",
@@ -11972,7 +12338,7 @@
   },
   {
     "name": "Zenkoku Koukou Soccer",
-    "id": "snes476",
+    "id": "snes493",
     "igdbId": 42351,
     "gbId": 50517,
     "gbGuid": "3030-50517",
@@ -11996,7 +12362,7 @@
   },
   {
     "name": "Zenkoku Koukou Soccer 2",
-    "id": "snes477",
+    "id": "snes494",
     "igdbId": 42350,
     "gbId": 37293,
     "gbGuid": "3030-37293",
@@ -12020,7 +12386,7 @@
   },
   {
     "name": "Zero 4 Champ",
-    "id": "snes478",
+    "id": "snes495",
     "igdbId": 37648,
     "gbId": null,
     "gbGuid": null,
@@ -12046,7 +12412,7 @@
   },
   {
     "name": "Zero 4 Champ RR",
-    "id": "snes479",
+    "id": "snes496",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -12072,7 +12438,7 @@
   },
   {
     "name": "Zero-4 Champ RR",
-    "id": "snes480",
+    "id": "snes497",
     "igdbId": 60307,
     "gbId": 49619,
     "gbGuid": "3030-49619",
@@ -12096,7 +12462,7 @@
   },
   {
     "name": "Zero-4 Champ RR-Z",
-    "id": "snes481",
+    "id": "snes498",
     "igdbId": 58090,
     "gbId": 54792,
     "gbGuid": "3030-54792",
@@ -12120,11 +12486,34 @@
   },
   {
     "name": "Zico Soccer",
-    "id": "snes482",
+    "id": "snes499",
     "igdbId": 42348,
     "gbId": 37604,
     "gbGuid": "3030-37604",
     "tgdbId": 26320,
+    "details": [
+      "Super Nintendo Entertainment System exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Super Nintendo Entertainment System (SNES)",
+        "id": "ccl2",
+        "igdbId": 19,
+        "gbId": 9,
+        "gbGuid": "3045-9",
+        "tgdbId": 6
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ōzumō Spirit",
+    "id": "snes500",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
     "details": [
       "Super Nintendo Entertainment System exclusive"
     ],

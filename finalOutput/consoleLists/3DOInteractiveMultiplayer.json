@@ -1047,8 +1047,32 @@
     "misprintsErrors": []
   },
   {
-    "name": "Zhadnost: The People's Party",
+    "name": "Yuu Yuu Hakusho",
     "id": "r3do42",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 29220,
+    "details": [
+      "3do Interactive Multiplayer exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "3DO Interactive Multiplayer",
+        "id": "ccl35",
+        "igdbId": 50,
+        "gbId": 26,
+        "gbGuid": "3045-26",
+        "tgdbId": 25
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Zhadnost: The People's Party",
+    "id": "r3do43",
     "igdbId": 4298,
     "gbId": 16144,
     "gbGuid": "3030-16144",

@@ -568,8 +568,31 @@
     "misprintsErrors": []
   },
   {
-    "name": "American Dream",
+    "name": "America Daitōryō Senkyo",
     "id": "nes22",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "American Dream",
+    "id": "nes23",
     "igdbId": 48634,
     "gbId": 15200,
     "gbGuid": "3030-15200",
@@ -593,7 +616,7 @@
   },
   {
     "name": "Anticipation",
-    "id": "nes23",
+    "id": "nes24",
     "igdbId": 8946,
     "gbId": 16547,
     "gbGuid": "3030-16547",
@@ -617,7 +640,7 @@
   },
   {
     "name": "Arch Rivals",
-    "id": "nes24",
+    "id": "nes25",
     "igdbId": 4515,
     "gbId": 8857,
     "gbGuid": "3030-8857",
@@ -635,7 +658,7 @@
   },
   {
     "name": "Arkanoid",
-    "id": "nes25",
+    "id": "nes26",
     "igdbId": 4595,
     "gbId": 15107,
     "gbGuid": "3030-15107",
@@ -662,7 +685,7 @@
   },
   {
     "name": "Arkista's Ring",
-    "id": "nes26",
+    "id": "nes27",
     "igdbId": 9024,
     "gbId": 11353,
     "gbGuid": "3030-11353",
@@ -685,8 +708,56 @@
     "misprintsErrors": []
   },
   {
+    "name": "Armadillo",
+    "id": "nes28",
+    "igdbId": null,
+    "gbId": 1911,
+    "gbGuid": "3030-1911",
+    "tgdbId": 26248,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Artelius",
+    "id": "nes29",
+    "igdbId": null,
+    "gbId": 13383,
+    "gbGuid": "3030-13383",
+    "tgdbId": 26249,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Asmik-kun Land",
-    "id": "nes27",
+    "id": "nes30",
     "igdbId": 48616,
     "gbId": 11161,
     "gbGuid": "3030-11161",
@@ -710,7 +781,7 @@
   },
   {
     "name": "Asterix",
-    "id": "nes28",
+    "id": "nes31",
     "igdbId": 7757,
     "gbId": 36064,
     "gbGuid": "3030-36064",
@@ -734,7 +805,7 @@
   },
   {
     "name": "Astro Fang: Super Machine",
-    "id": "nes29",
+    "id": "nes32",
     "igdbId": 48608,
     "gbId": 20108,
     "gbGuid": "3030-20108",
@@ -758,7 +829,7 @@
   },
   {
     "name": "Athena",
-    "id": "nes30",
+    "id": "nes33",
     "igdbId": 9052,
     "gbId": 9868,
     "gbGuid": "3030-9868",
@@ -795,7 +866,7 @@
   },
   {
     "name": "Athletic World",
-    "id": "nes31",
+    "id": "nes34",
     "igdbId": 9104,
     "gbId": 17103,
     "gbGuid": "3030-17103",
@@ -822,7 +893,7 @@
   },
   {
     "name": "Attack of the Killer Tomatoes",
-    "id": "nes32",
+    "id": "nes35",
     "igdbId": 7761,
     "gbId": 12169,
     "gbGuid": "3030-12169",
@@ -840,7 +911,7 @@
   },
   {
     "name": "Aussie Rules Footy",
-    "id": "nes33",
+    "id": "nes36",
     "igdbId": 9107,
     "gbId": 20411,
     "gbGuid": "3030-20411",
@@ -864,7 +935,7 @@
   },
   {
     "name": "Baby Boomer",
-    "id": "nes34",
+    "id": "nes37",
     "igdbId": 48107,
     "gbId": 12102,
     "gbGuid": "3030-12102",
@@ -894,7 +965,7 @@
   },
   {
     "name": "Back To The Future",
-    "id": "nes35",
+    "id": "nes38",
     "igdbId": 8516,
     "gbId": 18697,
     "gbGuid": "3030-18697",
@@ -918,7 +989,7 @@
   },
   {
     "name": "Back to the Future Part II & III",
-    "id": "nes36",
+    "id": "nes39",
     "igdbId": 8517,
     "gbId": 13771,
     "gbGuid": "3030-13771",
@@ -942,7 +1013,7 @@
   },
   {
     "name": "Bad News Baseball",
-    "id": "nes37",
+    "id": "nes40",
     "igdbId": 9167,
     "gbId": 17007,
     "gbGuid": "3030-17007",
@@ -966,7 +1037,7 @@
   },
   {
     "name": "Bakushou! Star Monomane Shitenou",
-    "id": "nes38",
+    "id": "nes41",
     "igdbId": 48729,
     "gbId": null,
     "gbGuid": null,
@@ -990,7 +1061,7 @@
   },
   {
     "name": "Balloon Fight",
-    "id": "nes39",
+    "id": "nes42",
     "igdbId": 2735,
     "gbId": 86,
     "gbGuid": "3030-86",
@@ -1034,7 +1105,7 @@
   },
   {
     "name": "Baltron",
-    "id": "nes40",
+    "id": "nes43",
     "igdbId": 48588,
     "gbId": 23065,
     "gbGuid": "3030-23065",
@@ -1058,7 +1129,7 @@
   },
   {
     "name": "Banana",
-    "id": "nes41",
+    "id": "nes44",
     "igdbId": 95469,
     "gbId": 8997,
     "gbGuid": "3030-8997",
@@ -1082,7 +1153,7 @@
   },
   {
     "name": "Banana Prince",
-    "id": "nes42",
+    "id": "nes45",
     "igdbId": 9264,
     "gbId": 14712,
     "gbGuid": "3030-14712",
@@ -1106,7 +1177,7 @@
   },
   {
     "name": "Bandai Golf: Challenge Pebble Beach",
-    "id": "nes43",
+    "id": "nes46",
     "igdbId": 9285,
     "gbId": 21837,
     "gbGuid": "3030-21837",
@@ -1130,7 +1201,7 @@
   },
   {
     "name": "Barcode World",
-    "id": "nes44",
+    "id": "nes47",
     "igdbId": 48725,
     "gbId": 36464,
     "gbGuid": "3030-36464",
@@ -1154,7 +1225,7 @@
   },
   {
     "name": "Barker Bill's Trick Shooting",
-    "id": "nes45",
+    "id": "nes48",
     "igdbId": 9875,
     "gbId": 8177,
     "gbGuid": "3030-8177",
@@ -1191,7 +1262,7 @@
   },
   {
     "name": "Base Wars",
-    "id": "nes46",
+    "id": "nes49",
     "igdbId": 9876,
     "gbId": 4376,
     "gbGuid": "3030-4376",
@@ -1215,7 +1286,7 @@
   },
   {
     "name": "Baseball",
-    "id": "nes47",
+    "id": "nes50",
     "igdbId": 7580,
     "gbId": 8145,
     "gbGuid": "3030-8145",
@@ -1270,7 +1341,7 @@
   },
   {
     "name": "Baseball Simulator 1.000",
-    "id": "nes48",
+    "id": "nes51",
     "igdbId": 9897,
     "gbId": 4636,
     "gbGuid": "3030-4636",
@@ -1294,7 +1365,7 @@
   },
   {
     "name": "Bases Loaded 3",
-    "id": "nes49",
+    "id": "nes52",
     "igdbId": 10124,
     "gbId": 14136,
     "gbGuid": "3030-14136",
@@ -1318,7 +1389,7 @@
   },
   {
     "name": "Bases Loaded 4",
-    "id": "nes50",
+    "id": "nes53",
     "igdbId": 10257,
     "gbId": 6808,
     "gbGuid": "3030-6808",
@@ -1342,7 +1413,7 @@
   },
   {
     "name": "Bases Loaded II: Second Season",
-    "id": "nes51",
+    "id": "nes54",
     "igdbId": 10122,
     "gbId": 7502,
     "gbGuid": "3030-7502",
@@ -1366,7 +1437,7 @@
   },
   {
     "name": "Batman Returns",
-    "id": "nes52",
+    "id": "nes55",
     "igdbId": 121244,
     "gbId": 9710,
     "gbGuid": "3030-9710",
@@ -1390,7 +1461,7 @@
   },
   {
     "name": "Batman: The Video Game",
-    "id": "nes53",
+    "id": "nes56",
     "igdbId": 49226,
     "gbId": 21264,
     "gbGuid": "3030-21264",
@@ -1413,8 +1484,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Bats & Terry",
+    "id": "nes57",
+    "igdbId": null,
+    "gbId": 39498,
+    "gbGuid": "3030-39498",
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Battle Kid: Fortress of Peril",
-    "id": "nes54",
+    "id": "nes58",
     "igdbId": 11145,
     "gbId": 29596,
     "gbGuid": "3030-29596",
@@ -1444,7 +1538,7 @@
   },
   {
     "name": "Battle Rush: Build Up Robot Tournament",
-    "id": "nes55",
+    "id": "nes59",
     "igdbId": 48520,
     "gbId": 36500,
     "gbGuid": "3030-36500",
@@ -1468,7 +1562,7 @@
   },
   {
     "name": "Battle Storm",
-    "id": "nes56",
+    "id": "nes60",
     "igdbId": 48583,
     "gbId": null,
     "gbGuid": null,
@@ -1492,7 +1586,7 @@
   },
   {
     "name": "Battle Tank",
-    "id": "nes57",
+    "id": "nes61",
     "igdbId": 10623,
     "gbId": 28036,
     "gbGuid": "3030-28036",
@@ -1516,7 +1610,7 @@
   },
   {
     "name": "Be-Bop High School: Koukousei Gokuraku Densetsu",
-    "id": "nes58",
+    "id": "nes62",
     "igdbId": 48546,
     "gbId": 39961,
     "gbGuid": "3030-39961",
@@ -1539,8 +1633,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Beauty & the Beast",
+    "id": "nes63",
+    "igdbId": null,
+    "gbId": 19897,
+    "gbGuid": "3030-19897",
+    "tgdbId": 25820,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Big Nose Freaks Out",
-    "id": "nes59",
+    "id": "nes64",
     "igdbId": 48105,
     "gbId": 8457,
     "gbGuid": "3030-8457",
@@ -1564,7 +1682,7 @@
   },
   {
     "name": "Bigfoot",
-    "id": "nes60",
+    "id": "nes65",
     "igdbId": 13398,
     "gbId": 7302,
     "gbGuid": "3030-7302",
@@ -1587,8 +1705,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Bill & Ted's Excellent Video Game Adventure",
+    "id": "nes66",
+    "igdbId": null,
+    "gbId": 42944,
+    "gbGuid": "3030-42944",
+    "tgdbId": 1648,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Bio Senshi Dan: Increaser to no Tatakai",
-    "id": "nes61",
+    "id": "nes67",
     "igdbId": 48647,
     "gbId": null,
     "gbGuid": null,
@@ -1612,7 +1754,7 @@
   },
   {
     "name": "Bionic Commando (PAL)",
-    "id": "nes62",
+    "id": "nes68",
     "igdbId": 54535,
     "gbId": 7860,
     "gbGuid": "3030-7860",
@@ -1630,7 +1772,7 @@
   },
   {
     "name": "Bird Week",
-    "id": "nes63",
+    "id": "nes69",
     "igdbId": 48543,
     "gbId": 18708,
     "gbGuid": "3030-18708",
@@ -1654,7 +1796,7 @@
   },
   {
     "name": "Blaster Master",
-    "id": "nes64",
+    "id": "nes70",
     "igdbId": 2367,
     "gbId": 1257,
     "gbGuid": "3030-1257",
@@ -1672,7 +1814,7 @@
   },
   {
     "name": "Bomberman II",
-    "id": "nes65",
+    "id": "nes71",
     "igdbId": 3447,
     "gbId": 5993,
     "gbGuid": "3030-5993",
@@ -1709,7 +1851,7 @@
   },
   {
     "name": "Booby Kids",
-    "id": "nes66",
+    "id": "nes72",
     "igdbId": 7796,
     "gbId": 8940,
     "gbGuid": "3030-8940",
@@ -1733,7 +1875,7 @@
   },
   {
     "name": "Break Time: The National Pool Tour",
-    "id": "nes67",
+    "id": "nes73",
     "igdbId": 48103,
     "gbId": 14120,
     "gbGuid": "3030-14120",
@@ -1757,7 +1899,7 @@
   },
   {
     "name": "BreakThru",
-    "id": "nes68",
+    "id": "nes74",
     "igdbId": 13437,
     "gbId": 18783,
     "gbGuid": "3030-18783",
@@ -1784,7 +1926,7 @@
   },
   {
     "name": "Bubble Bobble",
-    "id": "nes69",
+    "id": "nes75",
     "igdbId": 194444,
     "gbId": 4995,
     "gbGuid": "3030-4995",
@@ -1802,7 +1944,7 @@
   },
   {
     "name": "Bucky O'Hare",
-    "id": "nes70",
+    "id": "nes76",
     "igdbId": 18808,
     "gbId": 10152,
     "gbGuid": "3030-10152",
@@ -1826,7 +1968,7 @@
   },
   {
     "name": "Burai Fighter",
-    "id": "nes71",
+    "id": "nes77",
     "igdbId": 2382,
     "gbId": 4422,
     "gbGuid": "3030-4422",
@@ -1844,7 +1986,7 @@
   },
   {
     "name": "BurgerTime",
-    "id": "nes72",
+    "id": "nes78",
     "igdbId": 4609,
     "gbId": 4702,
     "gbGuid": "3030-4702",
@@ -1871,7 +2013,7 @@
   },
   {
     "name": "Business Wars",
-    "id": "nes73",
+    "id": "nes79",
     "igdbId": 48723,
     "gbId": 46758,
     "gbGuid": "3030-46758",
@@ -1895,7 +2037,7 @@
   },
   {
     "name": "Caltron 6 in 1",
-    "id": "nes74",
+    "id": "nes80",
     "igdbId": 81250,
     "gbId": 25153,
     "gbGuid": "3030-25153",
@@ -1918,8 +2060,26 @@
     "misprintsErrors": []
   },
   {
+    "name": "Caltron 6-in-1",
+    "id": "nes81",
+    "igdbId": null,
+    "gbId": 25153,
+    "gbGuid": "3030-25153",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/6in1_zpsef447701.jpg",
+        "details": "upside down label",
+        "type": "Label Position"
+      }
+    ]
+  },
+  {
     "name": "Capcom's Gold Medal Challenge '92",
-    "id": "nes75",
+    "id": "nes82",
     "igdbId": 48159,
     "gbId": 4588,
     "gbGuid": "3030-4588",
@@ -1943,7 +2103,7 @@
   },
   {
     "name": "Captain Comic: The Adventure",
-    "id": "nes76",
+    "id": "nes83",
     "igdbId": 48110,
     "gbId": 19460,
     "gbGuid": "3030-19460",
@@ -1961,7 +2121,7 @@
   },
   {
     "name": "Captain Tsubasa II: Super Striker",
-    "id": "nes77",
+    "id": "nes84",
     "igdbId": 48705,
     "gbId": 23274,
     "gbGuid": "3030-23274",
@@ -1985,7 +2145,7 @@
   },
   {
     "name": "Casino Kid",
-    "id": "nes78",
+    "id": "nes85",
     "igdbId": 48102,
     "gbId": 4741,
     "gbGuid": "3030-4741",
@@ -2009,7 +2169,7 @@
   },
   {
     "name": "Castle of Deceit",
-    "id": "nes79",
+    "id": "nes86",
     "igdbId": 7779,
     "gbId": 14143,
     "gbGuid": "3030-14143",
@@ -2039,7 +2199,7 @@
   },
   {
     "name": "Castlevania",
-    "id": "nes80",
+    "id": "nes87",
     "igdbId": 1114,
     "gbId": 6673,
     "gbGuid": "3030-6673",
@@ -2066,7 +2226,7 @@
   },
   {
     "name": "Castlevania II: Simon's Quest",
-    "id": "nes81",
+    "id": "nes88",
     "igdbId": 1116,
     "gbId": 11820,
     "gbGuid": "3030-11820",
@@ -2084,7 +2244,7 @@
   },
   {
     "name": "Challenge of the Dragon",
-    "id": "nes82",
+    "id": "nes89",
     "igdbId": 48294,
     "gbId": 18431,
     "gbGuid": "3030-18431",
@@ -2108,7 +2268,7 @@
   },
   {
     "name": "Championship Bowling",
-    "id": "nes83",
+    "id": "nes90",
     "igdbId": 4408,
     "gbId": 19679,
     "gbGuid": "3030-19679",
@@ -2126,7 +2286,7 @@
   },
   {
     "name": "Championship Rally",
-    "id": "nes84",
+    "id": "nes91",
     "igdbId": 40849,
     "gbId": 21593,
     "gbGuid": "3030-21593",
@@ -2150,7 +2310,7 @@
   },
   {
     "name": "Chaos World",
-    "id": "nes85",
+    "id": "nes92",
     "igdbId": 7904,
     "gbId": 8123,
     "gbGuid": "3030-8123",
@@ -2174,7 +2334,7 @@
   },
   {
     "name": "Chubby Cherub",
-    "id": "nes86",
+    "id": "nes93",
     "igdbId": 48031,
     "gbId": 19535,
     "gbGuid": "3030-19535",
@@ -2211,7 +2371,7 @@
   },
   {
     "name": "Circus Caper",
-    "id": "nes87",
+    "id": "nes94",
     "igdbId": 48099,
     "gbId": 19308,
     "gbGuid": "3030-19308",
@@ -2235,7 +2395,7 @@
   },
   {
     "name": "Clash at Demonhead",
-    "id": "nes88",
+    "id": "nes95",
     "igdbId": 19118,
     "gbId": 16188,
     "gbGuid": "3030-16188",
@@ -2259,7 +2419,7 @@
   },
   {
     "name": "Clu Clu Land",
-    "id": "nes89",
+    "id": "nes96",
     "igdbId": 7573,
     "gbId": 4721,
     "gbGuid": "3030-4721",
@@ -2308,7 +2468,7 @@
   },
   {
     "name": "Cobra Command",
-    "id": "nes90",
+    "id": "nes97",
     "igdbId": 69496,
     "gbId": 30888,
     "gbGuid": "3030-30888",
@@ -2326,7 +2486,7 @@
   },
   {
     "name": "Cobra Triangle (PAL)(Italy)",
-    "id": "nes91",
+    "id": "nes98",
     "igdbId": 14590,
     "gbId": 13924,
     "gbGuid": "3030-13924",
@@ -2344,7 +2504,7 @@
   },
   {
     "name": "Cocoron",
-    "id": "nes92",
+    "id": "nes99",
     "igdbId": 48644,
     "gbId": 25681,
     "gbGuid": "3030-25681",
@@ -2368,7 +2528,7 @@
   },
   {
     "name": "Code Name: Viper",
-    "id": "nes93",
+    "id": "nes100",
     "igdbId": 48069,
     "gbId": 12177,
     "gbGuid": "3030-12177",
@@ -2398,7 +2558,7 @@
   },
   {
     "name": "Color a Dinosaur",
-    "id": "nes94",
+    "id": "nes101",
     "igdbId": 8202,
     "gbId": 5504,
     "gbGuid": "3030-5504",
@@ -2421,8 +2581,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Colorful Dragon",
+    "id": "nes102",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Commando",
-    "id": "nes95",
+    "id": "nes103",
     "igdbId": 5668,
     "gbId": 6850,
     "gbGuid": "3030-6850",
@@ -2449,7 +2632,7 @@
   },
   {
     "name": "Conflict",
-    "id": "nes96",
+    "id": "nes104",
     "igdbId": 48143,
     "gbId": 4854,
     "gbGuid": "3030-4854",
@@ -2473,7 +2656,7 @@
   },
   {
     "name": "Conquest of the Crystal Palace",
-    "id": "nes97",
+    "id": "nes105",
     "igdbId": 48068,
     "gbId": 10142,
     "gbGuid": "3030-10142",
@@ -2497,7 +2680,7 @@
   },
   {
     "name": "Contra",
-    "id": "nes98",
+    "id": "nes106",
     "igdbId": 186207,
     "gbId": 4350,
     "gbGuid": "3030-4350",
@@ -2515,7 +2698,7 @@
   },
   {
     "name": "Contra Force",
-    "id": "nes99",
+    "id": "nes107",
     "igdbId": 24978,
     "gbId": 845,
     "gbGuid": "3030-845",
@@ -2539,7 +2722,7 @@
   },
   {
     "name": "Cool World",
-    "id": "nes100",
+    "id": "nes108",
     "igdbId": 7825,
     "gbId": 20024,
     "gbGuid": "3030-20024",
@@ -2563,7 +2746,7 @@
   },
   {
     "name": "Cosmic Wars",
-    "id": "nes101",
+    "id": "nes109",
     "igdbId": 48646,
     "gbId": 33551,
     "gbGuid": "3030-33551",
@@ -2587,7 +2770,7 @@
   },
   {
     "name": "Crayon Shin-Chan: Ora to Poi Poi",
-    "id": "nes102",
+    "id": "nes110",
     "igdbId": 48533,
     "gbId": null,
     "gbGuid": null,
@@ -2611,7 +2794,7 @@
   },
   {
     "name": "Crisis Force",
-    "id": "nes103",
+    "id": "nes111",
     "igdbId": 48652,
     "gbId": 31494,
     "gbGuid": "3030-31494",
@@ -2635,7 +2818,7 @@
   },
   {
     "name": "Cycle Race: Road Man",
-    "id": "nes104",
+    "id": "nes112",
     "igdbId": 48532,
     "gbId": 26643,
     "gbGuid": "3030-26643",
@@ -2659,7 +2842,7 @@
   },
   {
     "name": "Dance Aerobics",
-    "id": "nes105",
+    "id": "nes113",
     "igdbId": 48176,
     "gbId": 10667,
     "gbGuid": "3030-10667",
@@ -2683,7 +2866,7 @@
   },
   {
     "name": "Danny Sullivan's Indy Heat",
-    "id": "nes106",
+    "id": "nes114",
     "igdbId": 12734,
     "gbId": 15374,
     "gbGuid": "3030-15374",
@@ -2709,7 +2892,7 @@
   },
   {
     "name": "Dash Galaxy in the Alien Asylum",
-    "id": "nes107",
+    "id": "nes115",
     "igdbId": 48140,
     "gbId": 10393,
     "gbGuid": "3030-10393",
@@ -2733,7 +2916,7 @@
   },
   {
     "name": "Day Dreamin' Davey",
-    "id": "nes108",
+    "id": "nes116",
     "igdbId": 48139,
     "gbId": 12591,
     "gbGuid": "3030-12591",
@@ -2770,7 +2953,7 @@
   },
   {
     "name": "Deadly Towers",
-    "id": "nes109",
+    "id": "nes117",
     "igdbId": 48067,
     "gbId": 19113,
     "gbGuid": "3030-19113",
@@ -2807,7 +2990,7 @@
   },
   {
     "name": "Death Race",
-    "id": "nes110",
+    "id": "nes118",
     "igdbId": 8561,
     "gbId": 14950,
     "gbGuid": "3030-14950",
@@ -2836,8 +3019,56 @@
     ]
   },
   {
+    "name": "Decathlon",
+    "id": "nes119",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 9245,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Deep Dungeon",
+    "id": "nes120",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 47996,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Defender of the Crown (PAL)",
-    "id": "nes111",
+    "id": "nes121",
     "igdbId": 1873,
     "gbId": 5773,
     "gbGuid": "3030-5773",
@@ -2855,7 +3086,7 @@
   },
   {
     "name": "Defenders of Dynatron City",
-    "id": "nes112",
+    "id": "nes122",
     "igdbId": 48066,
     "gbId": 7157,
     "gbGuid": "3030-7157",
@@ -2879,7 +3110,7 @@
   },
   {
     "name": "Demon Sword",
-    "id": "nes113",
+    "id": "nes123",
     "igdbId": 48065,
     "gbId": 19193,
     "gbGuid": "3030-19193",
@@ -2903,7 +3134,7 @@
   },
   {
     "name": "Desert Commander",
-    "id": "nes114",
+    "id": "nes124",
     "igdbId": 48137,
     "gbId": 11195,
     "gbGuid": "3030-11195",
@@ -2927,7 +3158,7 @@
   },
   {
     "name": "Destination Earthstar",
-    "id": "nes115",
+    "id": "nes125",
     "igdbId": 22410,
     "gbId": 20261,
     "gbGuid": "3030-20261",
@@ -2951,7 +3182,7 @@
   },
   {
     "name": "Destiny of an Emperor",
-    "id": "nes116",
+    "id": "nes126",
     "igdbId": 48064,
     "gbId": 1624,
     "gbGuid": "3030-1624",
@@ -2975,7 +3206,7 @@
   },
   {
     "name": "Die Hard",
-    "id": "nes117",
+    "id": "nes127",
     "igdbId": 47188,
     "gbId": 7416,
     "gbGuid": "3030-7416",
@@ -2999,7 +3230,7 @@
   },
   {
     "name": "Dirty Harry",
-    "id": "nes118",
+    "id": "nes128",
     "igdbId": 3142,
     "gbId": 7415,
     "gbGuid": "3030-7415",
@@ -3022,8 +3253,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Doki! Doki! Yūenchi: Crazy Land Daisakusen",
+    "id": "nes129",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 20982,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Don Doko Don 2",
-    "id": "nes119",
+    "id": "nes130",
     "igdbId": 48696,
     "gbId": 9540,
     "gbGuid": "3030-9540",
@@ -3047,7 +3302,7 @@
   },
   {
     "name": "Donald Land",
-    "id": "nes120",
+    "id": "nes131",
     "igdbId": 48524,
     "gbId": 27030,
     "gbGuid": "3030-27030",
@@ -3071,7 +3326,7 @@
   },
   {
     "name": "Donkey Kong",
-    "id": "nes121",
+    "id": "nes132",
     "igdbId": 141959,
     "gbId": 311,
     "gbGuid": "3030-311",
@@ -3089,7 +3344,7 @@
   },
   {
     "name": "Donkey Kong",
-    "id": "nes122",
+    "id": "nes133",
     "igdbId": 1086,
     "gbId": 311,
     "gbGuid": "3030-311",
@@ -3128,7 +3383,7 @@
   },
   {
     "name": "Donkey Kong 3",
-    "id": "nes123",
+    "id": "nes134",
     "igdbId": 1088,
     "gbId": 3296,
     "gbGuid": "3030-3296",
@@ -3167,7 +3422,7 @@
   },
   {
     "name": "Donkey Kong Jr.",
-    "id": "nes124",
+    "id": "nes135",
     "igdbId": 1087,
     "gbId": 19416,
     "gbGuid": "3030-19416",
@@ -3206,7 +3461,7 @@
   },
   {
     "name": "Donkey Kong Jr. Math",
-    "id": "nes125",
+    "id": "nes136",
     "igdbId": 5692,
     "gbId": 18503,
     "gbGuid": "3030-18503",
@@ -3244,8 +3499,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Doraemon",
+    "id": "nes137",
+    "igdbId": null,
+    "gbId": 33940,
+    "gbGuid": "3030-33940",
+    "tgdbId": 26775,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Double Dribble",
-    "id": "nes126",
+    "id": "nes138",
     "igdbId": 4699,
     "gbId": 1533,
     "gbGuid": "3030-1533",
@@ -3277,7 +3556,7 @@
   },
   {
     "name": "Dr. Jekyll and Mr. Hyde",
-    "id": "nes127",
+    "id": "nes139",
     "igdbId": 7961,
     "gbId": 4584,
     "gbGuid": "3030-4584",
@@ -3301,7 +3580,7 @@
   },
   {
     "name": "Drac's Night Out",
-    "id": "nes128",
+    "id": "nes140",
     "igdbId": 48643,
     "gbId": 37915,
     "gbGuid": "3030-37915",
@@ -3324,8 +3603,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Dragon Ball Z Side Story: Plan to Eradicate the Saiyans",
+    "id": "nes141",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dragon Fighter",
-    "id": "nes129",
+    "id": "nes142",
     "igdbId": 14662,
     "gbId": 17330,
     "gbGuid": "3030-17330",
@@ -3349,7 +3651,7 @@
   },
   {
     "name": "Dragon Scroll: Yomigaerishi Maryuu",
-    "id": "nes130",
+    "id": "nes143",
     "igdbId": 48512,
     "gbId": 39782,
     "gbGuid": "3030-39782",
@@ -3373,7 +3675,7 @@
   },
   {
     "name": "Dragon Spirit: The New Legend",
-    "id": "nes131",
+    "id": "nes144",
     "igdbId": 17461,
     "gbId": 8408,
     "gbGuid": "3030-8408",
@@ -3397,7 +3699,7 @@
   },
   {
     "name": "Dragon's Lair",
-    "id": "nes132",
+    "id": "nes145",
     "igdbId": 14529,
     "gbId": 23,
     "gbGuid": "3030-23",
@@ -3421,7 +3723,7 @@
   },
   {
     "name": "Duck Hunt",
-    "id": "nes133",
+    "id": "nes146",
     "igdbId": 2741,
     "gbId": 2758,
     "gbGuid": "3030-2758",
@@ -3488,7 +3790,7 @@
   },
   {
     "name": "DuckTales",
-    "id": "nes134",
+    "id": "nes147",
     "igdbId": 6487,
     "gbId": 15799,
     "gbGuid": "3030-15799",
@@ -3506,7 +3808,7 @@
   },
   {
     "name": "Dungeon Magic: Sword of the Elements",
-    "id": "nes135",
+    "id": "nes148",
     "igdbId": 48131,
     "gbId": 14102,
     "gbGuid": "3030-14102",
@@ -3530,7 +3832,7 @@
   },
   {
     "name": "Dusty Diamond's All-Star Softball",
-    "id": "nes136",
+    "id": "nes149",
     "igdbId": 48130,
     "gbId": 6751,
     "gbGuid": "3030-6751",
@@ -3554,7 +3856,7 @@
   },
   {
     "name": "Dynowarz: Destruction of Spondylus",
-    "id": "nes137",
+    "id": "nes150",
     "igdbId": 48029,
     "gbId": 6244,
     "gbGuid": "3030-6244",
@@ -3578,7 +3880,7 @@
   },
   {
     "name": "Egypt",
-    "id": "nes138",
+    "id": "nes151",
     "igdbId": 94952,
     "gbId": 8155,
     "gbGuid": "3030-8155",
@@ -3602,7 +3904,7 @@
   },
   {
     "name": "Elevator Action",
-    "id": "nes139",
+    "id": "nes152",
     "igdbId": 4599,
     "gbId": 8179,
     "gbGuid": "3030-8179",
@@ -3629,7 +3931,7 @@
   },
   {
     "name": "Eliminator: Boat Duel",
-    "id": "nes140",
+    "id": "nes153",
     "igdbId": 9158,
     "gbId": 3245,
     "gbGuid": "3030-3245",
@@ -3658,8 +3960,32 @@
     ]
   },
   {
+    "name": "Erika to Satoru no Yume Bōken",
+    "id": "nes154",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26786,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Excitebike",
-    "id": "nes141",
+    "id": "nes155",
     "igdbId": 4600,
     "gbId": 15025,
     "gbGuid": "3030-15025",
@@ -3724,7 +4050,7 @@
   },
   {
     "name": "F-1 Sensation",
-    "id": "nes142",
+    "id": "nes156",
     "igdbId": 79063,
     "gbId": 37641,
     "gbGuid": "3030-37641",
@@ -3747,7 +4073,7 @@
   },
   {
     "name": "F-117A Stealth Fighter",
-    "id": "nes143",
+    "id": "nes157",
     "igdbId": 69582,
     "gbId": 11908,
     "gbGuid": "3030-11908",
@@ -3771,7 +4097,7 @@
   },
   {
     "name": "Famicom Jump II: Saikyō no Shichinin",
-    "id": "nes144",
+    "id": "nes158",
     "igdbId": 65407,
     "gbId": 37452,
     "gbGuid": "3030-37452",
@@ -3795,7 +4121,7 @@
   },
   {
     "name": "Famicom Jump: Hero Retsuden",
-    "id": "nes145",
+    "id": "nes159",
     "igdbId": 48500,
     "gbId": 36239,
     "gbGuid": "3030-36239",
@@ -3819,7 +4145,7 @@
   },
   {
     "name": "Family Circuit",
-    "id": "nes146",
+    "id": "nes160",
     "igdbId": 48498,
     "gbId": 12126,
     "gbGuid": "3030-12126",
@@ -3843,7 +4169,7 @@
   },
   {
     "name": "Faria: A World of Mystery and Danger!",
-    "id": "nes147",
+    "id": "nes161",
     "igdbId": 48060,
     "gbId": 1754,
     "gbGuid": "3030-1754",
@@ -3867,7 +4193,7 @@
   },
   {
     "name": "Faxanadu",
-    "id": "nes148",
+    "id": "nes162",
     "igdbId": 1974,
     "gbId": 7851,
     "gbGuid": "3030-7851",
@@ -3885,7 +4211,7 @@
   },
   {
     "name": "Final Fantasy VII",
-    "id": "nes149",
+    "id": "nes163",
     "igdbId": 427,
     "gbId": 13053,
     "gbGuid": "3030-13053",
@@ -3909,7 +4235,7 @@
   },
   {
     "name": "Fire 'n Ice",
-    "id": "nes150",
+    "id": "nes164",
     "igdbId": 48671,
     "gbId": 1859,
     "gbGuid": "3030-1859",
@@ -3932,8 +4258,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Fist of the North Star",
+    "id": "nes165",
+    "igdbId": null,
+    "gbId": 15338,
+    "gbGuid": "3030-15338",
+    "tgdbId": 1287,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Formula One: Built to Win",
-    "id": "nes151",
+    "id": "nes166",
     "igdbId": 48297,
     "gbId": 17945,
     "gbGuid": "3030-17945",
@@ -3957,7 +4307,7 @@
   },
   {
     "name": "Fox's Peter Pan & The Pirates: The Revenge of Captain Hook",
-    "id": "nes152",
+    "id": "nes167",
     "igdbId": 72710,
     "gbId": 23359,
     "gbGuid": "3030-23359",
@@ -3975,7 +4325,7 @@
   },
   {
     "name": "Frankenstein: The Monster Returns",
-    "id": "nes153",
+    "id": "nes168",
     "igdbId": 48128,
     "gbId": null,
     "gbGuid": null,
@@ -3999,7 +4349,7 @@
   },
   {
     "name": "Freedom Force",
-    "id": "nes154",
+    "id": "nes169",
     "igdbId": 68361,
     "gbId": 35952,
     "gbGuid": "3030-35952",
@@ -4025,7 +4375,7 @@
   },
   {
     "name": "Friday the 13th",
-    "id": "nes155",
+    "id": "nes170",
     "igdbId": 8530,
     "gbId": 21482,
     "gbGuid": "3030-21482",
@@ -4049,7 +4399,7 @@
   },
   {
     "name": "Fushigi no Umi Nadia: The Secret of Blue Water",
-    "id": "nes156",
+    "id": "nes171",
     "igdbId": 48490,
     "gbId": null,
     "gbGuid": null,
@@ -4073,7 +4423,7 @@
   },
   {
     "name": "Fuzzical Fighter",
-    "id": "nes157",
+    "id": "nes172",
     "igdbId": 48489,
     "gbId": 21884,
     "gbGuid": "3030-21884",
@@ -4097,7 +4447,7 @@
   },
   {
     "name": "G.I. JOE: A Real American Hero",
-    "id": "nes158",
+    "id": "nes173",
     "igdbId": 8165,
     "gbId": 21731,
     "gbGuid": "3030-21731",
@@ -4121,7 +4471,7 @@
   },
   {
     "name": "G.I. Joe: The Atlantis Factor",
-    "id": "nes159",
+    "id": "nes174",
     "igdbId": 8166,
     "gbId": 21728,
     "gbGuid": "3030-21728",
@@ -4145,7 +4495,7 @@
   },
   {
     "name": "Galaxy 5000",
-    "id": "nes160",
+    "id": "nes175",
     "igdbId": 48120,
     "gbId": 11631,
     "gbGuid": "3030-11631",
@@ -4168,8 +4518,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ganso Saiyuuki: Super Monkey Daibouken",
+    "id": "nes176",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 26885,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Gauntlet",
-    "id": "nes161",
+    "id": "nes177",
     "igdbId": 7294,
     "gbId": 8594,
     "gbGuid": "3030-8594",
@@ -4193,7 +4567,7 @@
   },
   {
     "name": "Gauntlet II",
-    "id": "nes162",
+    "id": "nes178",
     "igdbId": 3503,
     "gbId": 648,
     "gbGuid": "3030-648",
@@ -4219,7 +4593,7 @@
   },
   {
     "name": "Gekitotsu Yonku Battle",
-    "id": "nes163",
+    "id": "nes179",
     "igdbId": 48484,
     "gbId": 37087,
     "gbGuid": "3030-37087",
@@ -4243,7 +4617,7 @@
   },
   {
     "name": "Ghost Lion",
-    "id": "nes164",
+    "id": "nes180",
     "igdbId": 48186,
     "gbId": null,
     "gbGuid": null,
@@ -4267,7 +4641,7 @@
   },
   {
     "name": "Ghostbusters II",
-    "id": "nes165",
+    "id": "nes181",
     "igdbId": 14555,
     "gbId": 7445,
     "gbGuid": "3030-7445",
@@ -4291,7 +4665,7 @@
   },
   {
     "name": "Ghosts 'n Goblins",
-    "id": "nes166",
+    "id": "nes182",
     "igdbId": 6807,
     "gbId": 17031,
     "gbGuid": "3030-17031",
@@ -4318,7 +4692,7 @@
   },
   {
     "name": "Ghoul School",
-    "id": "nes167",
+    "id": "nes183",
     "igdbId": 48163,
     "gbId": 2076,
     "gbGuid": "3030-2076",
@@ -4342,7 +4716,7 @@
   },
   {
     "name": "Godzilla 2: War of the Monsters",
-    "id": "nes168",
+    "id": "nes184",
     "igdbId": 48160,
     "gbId": 1068,
     "gbGuid": "3030-1068",
@@ -4366,7 +4740,7 @@
   },
   {
     "name": "Godzilla: Monster of Monsters!",
-    "id": "nes169",
+    "id": "nes185",
     "igdbId": 48161,
     "gbId": 8755,
     "gbGuid": "3030-8755",
@@ -4390,7 +4764,7 @@
   },
   {
     "name": "Golf",
-    "id": "nes170",
+    "id": "nes186",
     "igdbId": 3399,
     "gbId": 22096,
     "gbGuid": "3030-22096",
@@ -4450,7 +4824,7 @@
   },
   {
     "name": "Golf Grand Slam",
-    "id": "nes171",
+    "id": "nes187",
     "igdbId": 48285,
     "gbId": 25353,
     "gbGuid": "3030-25353",
@@ -4474,7 +4848,7 @@
   },
   {
     "name": "Golgo 13: Top Secret Episode",
-    "id": "nes172",
+    "id": "nes188",
     "igdbId": 48059,
     "gbId": 7322,
     "gbGuid": "3030-7322",
@@ -4498,7 +4872,7 @@
   },
   {
     "name": "Gotcha! The Sport!",
-    "id": "nes173",
+    "id": "nes189",
     "igdbId": 5848,
     "gbId": 17980,
     "gbGuid": "3030-17980",
@@ -4547,7 +4921,7 @@
   },
   {
     "name": "Gradius",
-    "id": "nes174",
+    "id": "nes190",
     "igdbId": 1476,
     "gbId": 15508,
     "gbGuid": "3030-15508",
@@ -4579,7 +4953,7 @@
   },
   {
     "name": "Greg Norman's Golf Power",
-    "id": "nes175",
+    "id": "nes191",
     "igdbId": 48701,
     "gbId": null,
     "gbGuid": null,
@@ -4616,7 +4990,7 @@
   },
   {
     "name": "Gumshoe",
-    "id": "nes176",
+    "id": "nes192",
     "igdbId": 18834,
     "gbId": 1113,
     "gbGuid": "3030-1113",
@@ -4666,8 +5040,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Gun-Nac",
+    "id": "nes193",
+    "igdbId": null,
+    "gbId": 4360,
+    "gbGuid": "3030-4360",
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Gyromite",
-    "id": "nes177",
+    "id": "nes194",
     "igdbId": 8578,
     "gbId": 20055,
     "gbGuid": "3030-20055",
@@ -4727,7 +5124,7 @@
   },
   {
     "name": "Hanjuku Hero",
-    "id": "nes178",
+    "id": "nes195",
     "igdbId": 78948,
     "gbId": 28991,
     "gbGuid": "3030-28991",
@@ -4751,7 +5148,7 @@
   },
   {
     "name": "Harlem Globetrotters",
-    "id": "nes179",
+    "id": "nes196",
     "igdbId": 92724,
     "gbId": 22903,
     "gbGuid": "3030-22903",
@@ -4777,7 +5174,7 @@
   },
   {
     "name": "Heavy Shreddin'",
-    "id": "nes180",
+    "id": "nes197",
     "igdbId": 48157,
     "gbId": 36307,
     "gbGuid": "3030-36307",
@@ -4800,8 +5197,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Hello Kitty no Hanabatake",
+    "id": "nes198",
+    "igdbId": null,
+    "gbId": 70024,
+    "gbGuid": "3030-70024",
+    "tgdbId": 25401,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Hi no Tori Hououhen: Gaou no Bouken",
-    "id": "nes181",
+    "id": "nes199",
     "igdbId": 48474,
     "gbId": null,
     "gbGuid": null,
@@ -4825,7 +5246,7 @@
   },
   {
     "name": "High Speed",
-    "id": "nes182",
+    "id": "nes200",
     "igdbId": 48156,
     "gbId": 4509,
     "gbGuid": "3030-4509",
@@ -4849,7 +5270,7 @@
   },
   {
     "name": "Hogan's Alley",
-    "id": "nes183",
+    "id": "nes201",
     "igdbId": 4601,
     "gbId": 6490,
     "gbGuid": "3030-6490",
@@ -4921,7 +5342,7 @@
   },
   {
     "name": "Holy Diver",
-    "id": "nes184",
+    "id": "nes202",
     "igdbId": 19110,
     "gbId": 26042,
     "gbGuid": "3030-26042",
@@ -4945,7 +5366,7 @@
   },
   {
     "name": "Home Alone",
-    "id": "nes185",
+    "id": "nes203",
     "igdbId": 4523,
     "gbId": 6595,
     "gbGuid": "3030-6595",
@@ -4969,7 +5390,7 @@
   },
   {
     "name": "Hoops",
-    "id": "nes186",
+    "id": "nes204",
     "igdbId": 48155,
     "gbId": 12115,
     "gbGuid": "3030-12115",
@@ -4993,7 +5414,7 @@
   },
   {
     "name": "Hoshi wo Miru Hito",
-    "id": "nes187",
+    "id": "nes205",
     "igdbId": 25016,
     "gbId": 19127,
     "gbGuid": "3030-19127",
@@ -5017,7 +5438,7 @@
   },
   {
     "name": "Hot Slots",
-    "id": "nes188",
+    "id": "nes206",
     "igdbId": 98881,
     "gbId": 37536,
     "gbGuid": "3030-37536",
@@ -5041,7 +5462,7 @@
   },
   {
     "name": "Hottaman no Chisoko Tanken",
-    "id": "nes189",
+    "id": "nes207",
     "igdbId": 63589,
     "gbId": 42160,
     "gbGuid": "3030-42160",
@@ -5065,7 +5486,7 @@
   },
   {
     "name": "Ice Climber",
-    "id": "nes190",
+    "id": "nes208",
     "igdbId": 3666,
     "gbId": 13918,
     "gbGuid": "3030-13918",
@@ -5114,7 +5535,7 @@
   },
   {
     "name": "Idol Hakkenden",
-    "id": "nes191",
+    "id": "nes209",
     "igdbId": 7905,
     "gbId": 48262,
     "gbGuid": "3030-48262",
@@ -5138,7 +5559,7 @@
   },
   {
     "name": "Ikari Warriors",
-    "id": "nes192",
+    "id": "nes210",
     "igdbId": 12153,
     "gbId": 1619,
     "gbGuid": "3030-1619",
@@ -5165,7 +5586,7 @@
   },
   {
     "name": "Incantation",
-    "id": "nes193",
+    "id": "nes211",
     "igdbId": 44454,
     "gbId": 450,
     "gbGuid": "3030-450",
@@ -5189,7 +5610,7 @@
   },
   {
     "name": "Indiana Jones and the Temple of Doom",
-    "id": "nes194",
+    "id": "nes212",
     "igdbId": 12156,
     "gbId": 10032,
     "gbGuid": "3030-10032",
@@ -5213,7 +5634,7 @@
   },
   {
     "name": "International Cricket",
-    "id": "nes195",
+    "id": "nes213",
     "igdbId": 65196,
     "gbId": 38193,
     "gbGuid": "3030-38193",
@@ -5237,7 +5658,7 @@
   },
   {
     "name": "Iron Tank: The Invasion of Normandy",
-    "id": "nes196",
+    "id": "nes214",
     "igdbId": 19956,
     "gbId": 3683,
     "gbGuid": "3030-3683",
@@ -5261,7 +5682,7 @@
   },
   {
     "name": "Ironsword: Wizards & Warriors II",
-    "id": "nes197",
+    "id": "nes215",
     "igdbId": 48053,
     "gbId": 12176,
     "gbGuid": "3030-12176",
@@ -5285,7 +5706,7 @@
   },
   {
     "name": "Isolated Warrior",
-    "id": "nes198",
+    "id": "nes216",
     "igdbId": 48154,
     "gbId": 27222,
     "gbGuid": "3030-27222",
@@ -5309,7 +5730,7 @@
   },
   {
     "name": "Ivan ''Ironman'' Stewart's Super Off Road",
-    "id": "nes199",
+    "id": "nes217",
     "igdbId": 12735,
     "gbId": 9509,
     "gbGuid": "3030-9509",
@@ -5335,7 +5756,7 @@
   },
   {
     "name": "J. League Super Top Players",
-    "id": "nes200",
+    "id": "nes218",
     "igdbId": 48519,
     "gbId": null,
     "gbGuid": null,
@@ -5359,7 +5780,7 @@
   },
   {
     "name": "JaJaMaru no Daibouken",
-    "id": "nes201",
+    "id": "nes219",
     "igdbId": 48457,
     "gbId": 41540,
     "gbGuid": "3030-41540",
@@ -5383,7 +5804,7 @@
   },
   {
     "name": "Jajamaru Gekimaden: Maboroshi no Kinmajou",
-    "id": "nes202",
+    "id": "nes220",
     "igdbId": 48458,
     "gbId": null,
     "gbGuid": null,
@@ -5406,8 +5827,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Jajamaru Ninpou Chou",
+    "id": "nes221",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27150,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Jaws",
-    "id": "nes203",
+    "id": "nes222",
     "igdbId": 68385,
     "gbId": 3560,
     "gbGuid": "3030-3560",
@@ -5444,7 +5889,7 @@
   },
   {
     "name": "Journey to Silius",
-    "id": "nes204",
+    "id": "nes223",
     "igdbId": 9159,
     "gbId": 18435,
     "gbGuid": "3030-18435",
@@ -5474,7 +5919,7 @@
   },
   {
     "name": "Joust",
-    "id": "nes205",
+    "id": "nes224",
     "igdbId": 3659,
     "gbId": 11689,
     "gbGuid": "3030-11689",
@@ -5491,8 +5936,31 @@
     ]
   },
   {
+    "name": "Joyvan Kid",
+    "id": "nes225",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Jumpin' Kid: Jack to Mame no Ki Monogatari",
-    "id": "nes206",
+    "id": "nes226",
     "igdbId": 48450,
     "gbId": 51821,
     "gbGuid": "3030-51821",
@@ -5516,7 +5984,7 @@
   },
   {
     "name": "Jurassic Park",
-    "id": "nes207",
+    "id": "nes227",
     "igdbId": 25880,
     "gbId": 5721,
     "gbGuid": "3030-5721",
@@ -5540,7 +6008,7 @@
   },
   {
     "name": "Just Breed",
-    "id": "nes208",
+    "id": "nes228",
     "igdbId": 70173,
     "gbId": 14135,
     "gbGuid": "3030-14135",
@@ -5564,7 +6032,7 @@
   },
   {
     "name": "Kabuki Quantum Fighter",
-    "id": "nes209",
+    "id": "nes229",
     "igdbId": 27623,
     "gbId": 1220,
     "gbGuid": "3030-1220",
@@ -5588,7 +6056,7 @@
   },
   {
     "name": "Kaijuu Monogatari",
-    "id": "nes210",
+    "id": "nes230",
     "igdbId": 48446,
     "gbId": 40383,
     "gbGuid": "3030-40383",
@@ -5612,7 +6080,7 @@
   },
   {
     "name": "Karaoke Studio",
-    "id": "nes211",
+    "id": "nes231",
     "igdbId": 79252,
     "gbId": 33070,
     "gbGuid": "3030-33070",
@@ -5636,7 +6104,7 @@
   },
   {
     "name": "Karate Champ",
-    "id": "nes212",
+    "id": "nes232",
     "igdbId": 25835,
     "gbId": 7250,
     "gbGuid": "3030-7250",
@@ -5663,7 +6131,7 @@
   },
   {
     "name": "Karnov",
-    "id": "nes213",
+    "id": "nes233",
     "igdbId": 13234,
     "gbId": 2057,
     "gbGuid": "3030-2057",
@@ -5690,7 +6158,7 @@
   },
   {
     "name": "Kart Fighter",
-    "id": "nes214",
+    "id": "nes234",
     "igdbId": 48577,
     "gbId": null,
     "gbGuid": null,
@@ -5713,8 +6181,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Keisan Game",
+    "id": "nes235",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kero Kero Keroppi no Daibouken",
-    "id": "nes215",
+    "id": "nes236",
     "igdbId": 48351,
     "gbId": 58268,
     "gbGuid": "3030-58268",
@@ -5738,7 +6229,7 @@
   },
   {
     "name": "Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi",
-    "id": "nes216",
+    "id": "nes237",
     "igdbId": 48350,
     "gbId": 58269,
     "gbGuid": "3030-58269",
@@ -5762,7 +6253,7 @@
   },
   {
     "name": "Kick Master",
-    "id": "nes217",
+    "id": "nes238",
     "igdbId": 48116,
     "gbId": 10994,
     "gbGuid": "3030-10994",
@@ -5786,7 +6277,7 @@
   },
   {
     "name": "Kid Icarus",
-    "id": "nes218",
+    "id": "nes239",
     "igdbId": 3663,
     "gbId": 15154,
     "gbGuid": "3030-15154",
@@ -5818,7 +6309,7 @@
   },
   {
     "name": "Kid Klown in Night Mayor World",
-    "id": "nes219",
+    "id": "nes240",
     "igdbId": 48115,
     "gbId": 5542,
     "gbGuid": "3030-5542",
@@ -5842,7 +6333,7 @@
   },
   {
     "name": "Kid Kool and the Quest for the Seven Wonder Herbs",
-    "id": "nes220",
+    "id": "nes241",
     "igdbId": 48150,
     "gbId": 11968,
     "gbGuid": "3030-11968",
@@ -5866,7 +6357,7 @@
   },
   {
     "name": "Kid Niki: Radical Ninja",
-    "id": "nes221",
+    "id": "nes242",
     "igdbId": 39465,
     "gbId": 9766,
     "gbGuid": "3030-9766",
@@ -5898,7 +6389,7 @@
   },
   {
     "name": "King Kong 2: Ikari no Megaton Punch",
-    "id": "nes222",
+    "id": "nes243",
     "igdbId": 48690,
     "gbId": 32435,
     "gbGuid": "3030-32435",
@@ -5922,7 +6413,7 @@
   },
   {
     "name": "King Of Kings",
-    "id": "nes223",
+    "id": "nes244",
     "igdbId": 48721,
     "gbId": 40402,
     "gbGuid": "3030-40402",
@@ -5946,7 +6437,7 @@
   },
   {
     "name": "King of Kings: The Early Years",
-    "id": "nes224",
+    "id": "nes245",
     "igdbId": 48148,
     "gbId": 2022,
     "gbGuid": "3030-2022",
@@ -5970,7 +6461,7 @@
   },
   {
     "name": "Kings of the Beach",
-    "id": "nes225",
+    "id": "nes246",
     "igdbId": 41117,
     "gbId": 14465,
     "gbGuid": "3030-14465",
@@ -5996,7 +6487,7 @@
   },
   {
     "name": "Knight Rider",
-    "id": "nes226",
+    "id": "nes247",
     "igdbId": 72808,
     "gbId": 2188,
     "gbGuid": "3030-2188",
@@ -6020,7 +6511,7 @@
   },
   {
     "name": "Konami Hyper Soccer",
-    "id": "nes227",
+    "id": "nes248",
     "igdbId": 48284,
     "gbId": 16749,
     "gbGuid": "3030-16749",
@@ -6044,27 +6535,17 @@
   },
   {
     "name": "Kung Fu",
-    "id": "nes228",
+    "id": "nes249",
     "igdbId": null,
     "gbId": 50919,
     "gbGuid": "3030-50919",
     "tgdbId": 1810,
     "details": [
       "NES launch title",
-      "NES exclusive game",
       "NES black box game: Action Series",
       "NES hang tab game"
     ],
-    "isExclusive": [
-      {
-        "name": "Nintendo Entertainment System (NES)",
-        "id": "ccl1",
-        "igdbId": 18,
-        "gbId": 21,
-        "gbGuid": "3045-21",
-        "tgdbId": 7
-      }
-    ],
+    "isExclusive": false,
     "isLaunchTitle": [
       {
         "name": "Nintendo Entertainment System (NES)",
@@ -6099,22 +6580,11 @@
         }
       }
     ],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Nintendo/nes/6in1_zpsef447701.jpg",
-        "details": "upside down label",
-        "type": "Label Position"
-      },
-      {
-        "image": "https://iamerror.gamehacking.org/Nintendo/nes/tengenAlchohol_zpstqaz0cfg.jpg",
-        "details": "says alchohol on back label has appeared on After Burner,Alien Syndrome, Indiana Jones and the Temple of Doom, Pac Man, R.B.I. Baseball, Road Runner , Shinobi, Super Sprint, Tetris, Vindicators,Gauntlet",
-        "type": "Typo"
-      }
-    ]
+    "misprintsErrors": []
   },
   {
     "name": "Kyatto Ninden Teyandee",
-    "id": "nes229",
+    "id": "nes250",
     "igdbId": 24480,
     "gbId": 29544,
     "gbGuid": "3030-29544",
@@ -6138,7 +6608,7 @@
   },
   {
     "name": "Lagrange Point",
-    "id": "nes230",
+    "id": "nes251",
     "igdbId": 48576,
     "gbId": 20134,
     "gbGuid": "3030-20134",
@@ -6162,7 +6632,7 @@
   },
   {
     "name": "Laser Invasion",
-    "id": "nes231",
+    "id": "nes252",
     "igdbId": 48145,
     "gbId": 19777,
     "gbGuid": "3030-19777",
@@ -6199,7 +6669,7 @@
   },
   {
     "name": "Layla",
-    "id": "nes232",
+    "id": "nes253",
     "details": [
       "NES exclusive game"
     ],
@@ -6219,7 +6689,7 @@
   },
   {
     "name": "Legendary Wings",
-    "id": "nes233",
+    "id": "nes254",
     "igdbId": 39705,
     "gbId": 7717,
     "gbGuid": "3030-7717",
@@ -6237,7 +6707,7 @@
   },
   {
     "name": "Legends of the Diamond",
-    "id": "nes234",
+    "id": "nes255",
     "igdbId": 48253,
     "gbId": 25171,
     "gbGuid": "3030-25171",
@@ -6267,7 +6737,7 @@
   },
   {
     "name": "Life Force",
-    "id": "nes235",
+    "id": "nes256",
     "igdbId": 174945,
     "gbId": 13960,
     "gbGuid": "3030-13960",
@@ -6285,7 +6755,7 @@
   },
   {
     "name": "Little League Baseball: Championship Series",
-    "id": "nes236",
+    "id": "nes257",
     "igdbId": 48283,
     "gbId": 15257,
     "gbGuid": "3030-15257",
@@ -6309,7 +6779,7 @@
   },
   {
     "name": "Little Nemo: The Dream Master",
-    "id": "nes237",
+    "id": "nes258",
     "igdbId": 9160,
     "gbId": 15110,
     "gbGuid": "3030-15110",
@@ -6333,7 +6803,7 @@
   },
   {
     "name": "Little Samson",
-    "id": "nes238",
+    "id": "nes259",
     "igdbId": 48114,
     "gbId": 14592,
     "gbGuid": "3030-14592",
@@ -6357,7 +6827,7 @@
   },
   {
     "name": "Lode Runner",
-    "id": "nes239",
+    "id": "nes260",
     "igdbId": 69179,
     "gbId": 636,
     "gbGuid": "3030-636",
@@ -6384,7 +6854,7 @@
   },
   {
     "name": "Lost Word of JeNnY: Ushinawareta Message",
-    "id": "nes240",
+    "id": "nes261",
     "igdbId": 48434,
     "gbId": 42270,
     "gbGuid": "3030-42270",
@@ -6408,7 +6878,7 @@
   },
   {
     "name": "Low G Man: The Low Gravity Man",
-    "id": "nes241",
+    "id": "nes262",
     "igdbId": 48028,
     "gbId": 8250,
     "gbGuid": "3030-8250",
@@ -6432,7 +6902,7 @@
   },
   {
     "name": "Lunar Pool",
-    "id": "nes242",
+    "id": "nes263",
     "igdbId": 7550,
     "gbId": 11351,
     "gbGuid": "3030-11351",
@@ -6459,7 +6929,7 @@
   },
   {
     "name": "M.U.L.E.",
-    "id": "nes243",
+    "id": "nes264",
     "igdbId": 23895,
     "gbId": 14520,
     "gbGuid": "3030-14520",
@@ -6485,7 +6955,7 @@
   },
   {
     "name": "Mach Rider",
-    "id": "nes244",
+    "id": "nes265",
     "igdbId": 4616,
     "gbId": 5930,
     "gbGuid": "3030-5930",
@@ -6540,7 +7010,7 @@
   },
   {
     "name": "Mad Max",
-    "id": "nes245",
+    "id": "nes266",
     "igdbId": 3034,
     "gbId": 9017,
     "gbGuid": "3030-9017",
@@ -6564,7 +7034,7 @@
   },
   {
     "name": "Magic Bubble",
-    "id": "nes246",
+    "id": "nes267",
     "igdbId": 45743,
     "gbId": null,
     "gbGuid": null,
@@ -6588,7 +7058,7 @@
   },
   {
     "name": "Magic Darts",
-    "id": "nes247",
+    "id": "nes268",
     "igdbId": 48182,
     "gbId": 28004,
     "gbGuid": "3030-28004",
@@ -6612,7 +7082,7 @@
   },
   {
     "name": "Magic Johnson's Fast Break",
-    "id": "nes248",
+    "id": "nes269",
     "igdbId": 48180,
     "gbId": 1725,
     "gbGuid": "3030-1725",
@@ -6638,7 +7108,7 @@
   },
   {
     "name": "Magician",
-    "id": "nes249",
+    "id": "nes270",
     "igdbId": 94209,
     "gbId": 901,
     "gbGuid": "3030-901",
@@ -6662,7 +7132,7 @@
   },
   {
     "name": "Major League Baseball",
-    "id": "nes250",
+    "id": "nes271",
     "igdbId": 80424,
     "gbId": 5992,
     "gbGuid": "3030-5992",
@@ -6686,7 +7156,7 @@
   },
   {
     "name": "Maniac Mansion",
-    "id": "nes251",
+    "id": "nes272",
     "igdbId": 192,
     "gbId": 2037,
     "gbGuid": "3030-2037",
@@ -6704,7 +7174,7 @@
   },
   {
     "name": "Mappy Kids",
-    "id": "nes252",
+    "id": "nes273",
     "igdbId": 48625,
     "gbId": 23910,
     "gbGuid": "3030-23910",
@@ -6728,7 +7198,7 @@
   },
   {
     "name": "Mario Bros",
-    "id": "nes253",
+    "id": "nes274",
     "igdbId": 3105,
     "gbId": 19726,
     "gbGuid": "3030-19726",
@@ -6767,7 +7237,7 @@
   },
   {
     "name": "Mario Bros. (PAL)(ESP)",
-    "id": "nes254",
+    "id": "nes275",
     "igdbId": 172201,
     "gbId": 19726,
     "gbGuid": "3030-19726",
@@ -6785,7 +7255,7 @@
   },
   {
     "name": "Mechanized Attack",
-    "id": "nes255",
+    "id": "nes276",
     "igdbId": 40357,
     "gbId": 15547,
     "gbGuid": "3030-15547",
@@ -6811,7 +7281,7 @@
   },
   {
     "name": "Mega Man",
-    "id": "nes256",
+    "id": "nes277",
     "igdbId": 1714,
     "gbId": 5251,
     "gbGuid": "3030-5251",
@@ -6848,7 +7318,7 @@
   },
   {
     "name": "Mega Man 3",
-    "id": "nes257",
+    "id": "nes278",
     "igdbId": 1716,
     "gbId": 4518,
     "gbGuid": "3030-4518",
@@ -6866,7 +7336,7 @@
   },
   {
     "name": "Mega Man 6",
-    "id": "nes258",
+    "id": "nes279",
     "igdbId": 1719,
     "gbId": 16475,
     "gbGuid": "3030-16475",
@@ -6884,7 +7354,7 @@
   },
   {
     "name": "Meitantei Holmes: M-Kara no Chousenjou",
-    "id": "nes259",
+    "id": "nes280",
     "igdbId": 48777,
     "gbId": 40780,
     "gbGuid": "3030-40780",
@@ -6908,7 +7378,7 @@
   },
   {
     "name": "Menace Beach",
-    "id": "nes260",
+    "id": "nes281",
     "igdbId": 11167,
     "gbId": 11825,
     "gbGuid": "3030-11825",
@@ -6932,7 +7402,7 @@
   },
   {
     "name": "Metal Mech: Man & Machine",
-    "id": "nes261",
+    "id": "nes282",
     "igdbId": 48082,
     "gbId": null,
     "gbGuid": null,
@@ -6956,7 +7426,7 @@
   },
   {
     "name": "Metal Storm",
-    "id": "nes262",
+    "id": "nes283",
     "igdbId": 48170,
     "gbId": 12296,
     "gbGuid": "3030-12296",
@@ -6980,7 +7450,7 @@
   },
   {
     "name": "Metroid",
-    "id": "nes263",
+    "id": "nes284",
     "igdbId": 1101,
     "gbId": 21761,
     "gbGuid": "3030-21761",
@@ -7017,7 +7487,7 @@
   },
   {
     "name": "Mezase! Top Pro Green ni Kakeru Yume",
-    "id": "nes264",
+    "id": "nes285",
     "igdbId": 48775,
     "gbId": null,
     "gbGuid": null,
@@ -7041,7 +7511,7 @@
   },
   {
     "name": "Michael Andretti's World GP",
-    "id": "nes265",
+    "id": "nes286",
     "igdbId": 48279,
     "gbId": 12451,
     "gbGuid": "3030-12451",
@@ -7065,7 +7535,7 @@
   },
   {
     "name": "Mickey Mousecapade",
-    "id": "nes266",
+    "id": "nes287",
     "igdbId": 8126,
     "gbId": 17706,
     "gbGuid": "3030-17706",
@@ -7089,7 +7559,7 @@
   },
   {
     "name": "Mickey's Adventure in Numberland",
-    "id": "nes267",
+    "id": "nes288",
     "igdbId": 48169,
     "gbId": 52179,
     "gbGuid": "3030-52179",
@@ -7112,7 +7582,7 @@
   },
   {
     "name": "Mickey's Safari in Letterland",
-    "id": "nes268",
+    "id": "nes289",
     "igdbId": 48168,
     "gbId": 12179,
     "gbGuid": "3030-12179",
@@ -7135,8 +7605,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mighty Atom",
+    "id": "nes290",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Mighty Bomb Jack",
-    "id": "nes269",
+    "id": "nes291",
     "igdbId": 40531,
     "gbId": 13256,
     "gbGuid": "3030-13256",
@@ -7163,7 +7656,7 @@
   },
   {
     "name": "Mike Tyson's Punch-Out!!",
-    "id": "nes270",
+    "id": "nes292",
     "igdbId": 2195,
     "gbId": 4848,
     "gbGuid": "3030-4848",
@@ -7205,7 +7698,7 @@
   },
   {
     "name": "Millipede",
-    "id": "nes271",
+    "id": "nes293",
     "igdbId": 4604,
     "gbId": 2773,
     "gbGuid": "3030-2773",
@@ -7223,7 +7716,7 @@
   },
   {
     "name": "Minelvaton Saga: Ragon no Fukkatsu",
-    "id": "nes272",
+    "id": "nes294",
     "igdbId": 48687,
     "gbId": null,
     "gbGuid": null,
@@ -7247,7 +7740,7 @@
   },
   {
     "name": "Miracle Ropitt: 2100-nen no Daibouken",
-    "id": "nes273",
+    "id": "nes295",
     "igdbId": 48624,
     "gbId": null,
     "gbGuid": null,
@@ -7271,7 +7764,7 @@
   },
   {
     "name": "Mission: Impossible",
-    "id": "nes274",
+    "id": "nes296",
     "igdbId": 3123,
     "gbId": 1622,
     "gbGuid": "3030-1622",
@@ -7295,7 +7788,7 @@
   },
   {
     "name": "Mitsume Ga Tooru",
-    "id": "nes275",
+    "id": "nes297",
     "igdbId": 48666,
     "gbId": 11139,
     "gbGuid": "3030-11139",
@@ -7318,8 +7811,54 @@
     "misprintsErrors": []
   },
   {
+    "name": "Moai-kun",
+    "id": "nes298",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Moero 6!! Shin Moero!! Pro Yakyuu",
+    "id": "nes299",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Moero!! Judo Warriors",
-    "id": "nes276",
+    "id": "nes300",
     "igdbId": 48422,
     "gbId": null,
     "gbGuid": null,
@@ -7343,7 +7882,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "nes277",
+    "id": "nes301",
     "igdbId": 122241,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -7369,7 +7908,7 @@
   },
   {
     "name": "Monster Party",
-    "id": "nes278",
+    "id": "nes302",
     "igdbId": 48165,
     "gbId": 7505,
     "gbGuid": "3030-7505",
@@ -7393,7 +7932,7 @@
   },
   {
     "name": "Monster Truck Rally",
-    "id": "nes279",
+    "id": "nes303",
     "igdbId": 48199,
     "gbId": 40422,
     "gbGuid": "3030-40422",
@@ -7436,7 +7975,7 @@
   },
   {
     "name": "Monster in My Pocket",
-    "id": "nes280",
+    "id": "nes304",
     "igdbId": 48166,
     "gbId": 14307,
     "gbGuid": "3030-14307",
@@ -7460,7 +7999,7 @@
   },
   {
     "name": "Moon Ranger",
-    "id": "nes281",
+    "id": "nes305",
     "igdbId": 48198,
     "gbId": 20053,
     "gbGuid": "3030-20053",
@@ -7484,7 +8023,7 @@
   },
   {
     "name": "Motor City Patrol",
-    "id": "nes282",
+    "id": "nes306",
     "igdbId": 48197,
     "gbId": 5280,
     "gbGuid": "3030-5280",
@@ -7508,7 +8047,7 @@
   },
   {
     "name": "Musashi no Bouken",
-    "id": "nes283",
+    "id": "nes307",
     "igdbId": 48688,
     "gbId": 8880,
     "gbGuid": "3030-8880",
@@ -7532,7 +8071,7 @@
   },
   {
     "name": "Musashi no Ken: Tadaima Shugyou Chuu",
-    "id": "nes284",
+    "id": "nes308",
     "igdbId": 48417,
     "gbId": 34295,
     "gbGuid": "3030-34295",
@@ -7556,7 +8095,7 @@
   },
   {
     "name": "NES Play Action Football",
-    "id": "nes285",
+    "id": "nes309",
     "igdbId": 48194,
     "gbId": 1853,
     "gbGuid": "3030-1853",
@@ -7582,7 +8121,7 @@
   },
   {
     "name": "NFL Football",
-    "id": "nes286",
+    "id": "nes310",
     "igdbId": 64743,
     "gbId": 15289,
     "gbGuid": "3030-15289",
@@ -7606,7 +8145,7 @@
   },
   {
     "name": "Nagagutsu o Haita Neko: Sekai Isshuu 80 Nichi Dai Bouken",
-    "id": "nes287",
+    "id": "nes311",
     "igdbId": 48416,
     "gbId": null,
     "gbGuid": null,
@@ -7630,7 +8169,7 @@
   },
   {
     "name": "Nakajima Satoru: F1 Hero 2",
-    "id": "nes288",
+    "id": "nes312",
     "igdbId": 48301,
     "gbId": null,
     "gbGuid": null,
@@ -7653,7 +8192,7 @@
   },
   {
     "name": "Napoleon Senki",
-    "id": "nes289",
+    "id": "nes313",
     "igdbId": 48412,
     "gbId": 39941,
     "gbGuid": "3030-39941",
@@ -7677,7 +8216,7 @@
   },
   {
     "name": "Nekketsu Kakutou Densetsu",
-    "id": "nes290",
+    "id": "nes314",
     "igdbId": 48410,
     "gbId": null,
     "gbGuid": null,
@@ -7701,7 +8240,7 @@
   },
   {
     "name": "New Ghostbusters II",
-    "id": "nes291",
+    "id": "nes315",
     "igdbId": 3658,
     "gbId": 1338,
     "gbGuid": "3030-1338",
@@ -7725,7 +8264,7 @@
   },
   {
     "name": "Nightshade",
-    "id": "nes292",
+    "id": "nes316",
     "igdbId": 31764,
     "gbId": 1848,
     "gbGuid": "3030-1848",
@@ -7749,7 +8288,7 @@
   },
   {
     "name": "Niji no Silkroad",
-    "id": "nes293",
+    "id": "nes317",
     "igdbId": 48409,
     "gbId": 8310,
     "gbGuid": "3030-8310",
@@ -7773,7 +8312,7 @@
   },
   {
     "name": "Ninja Crusaders",
-    "id": "nes294",
+    "id": "nes318",
     "igdbId": 48193,
     "gbId": 18230,
     "gbGuid": "3030-18230",
@@ -7797,7 +8336,7 @@
   },
   {
     "name": "Ninja Hattori-kun: Ninja wa Syugyou de Gozaru",
-    "id": "nes295",
+    "id": "nes319",
     "igdbId": 58882,
     "gbId": 52748,
     "gbGuid": "3030-52748",
@@ -7821,7 +8360,7 @@
   },
   {
     "name": "Ninja Kid",
-    "id": "nes296",
+    "id": "nes320",
     "igdbId": 68360,
     "gbId": 9191,
     "gbGuid": "3030-9191",
@@ -7858,7 +8397,7 @@
   },
   {
     "name": "Noah's Ark",
-    "id": "nes297",
+    "id": "nes321",
     "igdbId": 48192,
     "gbId": 10611,
     "gbGuid": "3030-10611",
@@ -7882,7 +8421,7 @@
   },
   {
     "name": "Oishinbo: Kyukyoku no Menu 3bon Syoubu",
-    "id": "nes298",
+    "id": "nes322",
     "igdbId": 48406,
     "gbId": 41425,
     "gbGuid": "3030-41425",
@@ -7906,7 +8445,7 @@
   },
   {
     "name": "Operation Secret Storm",
-    "id": "nes299",
+    "id": "nes323",
     "igdbId": 3143,
     "gbId": 13423,
     "gbGuid": "3030-13423",
@@ -7930,7 +8469,7 @@
   },
   {
     "name": "Operation Wolf",
-    "id": "nes300",
+    "id": "nes324",
     "igdbId": 12190,
     "gbId": 14869,
     "gbGuid": "3030-14869",
@@ -7956,7 +8495,7 @@
   },
   {
     "name": "Over Horizon",
-    "id": "nes301",
+    "id": "nes325",
     "igdbId": 48190,
     "gbId": 11102,
     "gbGuid": "3030-11102",
@@ -7980,7 +8519,7 @@
   },
   {
     "name": "Pachi-Slot Adventure 2: Sorotta-kun no Pachi-Slot Tanteidan",
-    "id": "nes302",
+    "id": "nes326",
     "igdbId": 48796,
     "gbId": null,
     "gbGuid": null,
@@ -8004,7 +8543,7 @@
   },
   {
     "name": "Pachi-Slot Adventure 3: Bitaoshii 7 Kenzan!",
-    "id": "nes303",
+    "id": "nes327",
     "igdbId": 48795,
     "gbId": null,
     "gbGuid": null,
@@ -8028,7 +8567,7 @@
   },
   {
     "name": "Panic Restaurant",
-    "id": "nes304",
+    "id": "nes328",
     "igdbId": 48051,
     "gbId": 18919,
     "gbGuid": "3030-18919",
@@ -8058,7 +8597,7 @@
   },
   {
     "name": "Paperboy (PAL)(FR)",
-    "id": "nes305",
+    "id": "nes329",
     "igdbId": 11762,
     "gbId": 3414,
     "gbGuid": "3030-3414",
@@ -8076,7 +8615,7 @@
   },
   {
     "name": "Paperboy 2 (PAL)",
-    "id": "nes306",
+    "id": "nes330",
     "igdbId": 12458,
     "gbId": 17563,
     "gbGuid": "3030-17563",
@@ -8094,7 +8633,7 @@
   },
   {
     "name": "Parallel World",
-    "id": "nes307",
+    "id": "nes331",
     "igdbId": 48348,
     "gbId": null,
     "gbGuid": null,
@@ -8118,7 +8657,7 @@
   },
   {
     "name": "Peek-A-Boo Poker",
-    "id": "nes308",
+    "id": "nes332",
     "igdbId": 48277,
     "gbId": 15655,
     "gbGuid": "3030-15655",
@@ -8142,7 +8681,7 @@
   },
   {
     "name": "Pesterminator: The Western Exterminator",
-    "id": "nes309",
+    "id": "nes333",
     "igdbId": 48080,
     "gbId": 15944,
     "gbGuid": "3030-15944",
@@ -8166,7 +8705,7 @@
   },
   {
     "name": "Peter Pan & The Pirates",
-    "id": "nes310",
+    "id": "nes334",
     "igdbId": 48189,
     "gbId": null,
     "gbGuid": null,
@@ -8190,7 +8729,7 @@
   },
   {
     "name": "Phantom Fighter",
-    "id": "nes311",
+    "id": "nes335",
     "igdbId": 48188,
     "gbId": 1191,
     "gbGuid": "3030-1191",
@@ -8214,7 +8753,7 @@
   },
   {
     "name": "Pictionary",
-    "id": "nes312",
+    "id": "nes336",
     "igdbId": 48224,
     "gbId": 17553,
     "gbGuid": "3030-17553",
@@ -8238,7 +8777,7 @@
   },
   {
     "name": "PinBot",
-    "id": "nes313",
+    "id": "nes337",
     "igdbId": 72809,
     "gbId": null,
     "gbGuid": null,
@@ -8262,7 +8801,7 @@
   },
   {
     "name": "Pinball",
-    "id": "nes314",
+    "id": "nes338",
     "igdbId": 86428,
     "gbId": 20885,
     "gbGuid": "3030-20885",
@@ -8311,7 +8850,7 @@
   },
   {
     "name": "Pinball Quest",
-    "id": "nes315",
+    "id": "nes339",
     "igdbId": 48026,
     "gbId": 16223,
     "gbGuid": "3030-16223",
@@ -8335,7 +8874,7 @@
   },
   {
     "name": "Platoon",
-    "id": "nes316",
+    "id": "nes340",
     "igdbId": 12718,
     "gbId": 504,
     "gbGuid": "3030-504",
@@ -8353,7 +8892,7 @@
   },
   {
     "name": "Popeye",
-    "id": "nes317",
+    "id": "nes341",
     "igdbId": 4619,
     "gbId": 14419,
     "gbGuid": "3030-14419",
@@ -8392,7 +8931,7 @@
   },
   {
     "name": "Popeye no Eigo Asobi",
-    "id": "nes318",
+    "id": "nes342",
     "igdbId": 48641,
     "gbId": 35883,
     "gbGuid": "3030-35883",
@@ -8416,7 +8955,7 @@
   },
   {
     "name": "Power Blade",
-    "id": "nes319",
+    "id": "nes343",
     "igdbId": 48079,
     "gbId": 18686,
     "gbGuid": "3030-18686",
@@ -8434,7 +8973,7 @@
   },
   {
     "name": "Power Blade 2",
-    "id": "nes320",
+    "id": "nes344",
     "igdbId": 48223,
     "gbId": 18596,
     "gbGuid": "3030-18596",
@@ -8458,7 +8997,7 @@
   },
   {
     "name": "Power Punch II",
-    "id": "nes321",
+    "id": "nes345",
     "igdbId": 48222,
     "gbId": 15812,
     "gbGuid": "3030-15812",
@@ -8482,7 +9021,7 @@
   },
   {
     "name": "Power Soccer",
-    "id": "nes322",
+    "id": "nes346",
     "igdbId": 48305,
     "gbId": 37910,
     "gbGuid": "3030-37910",
@@ -8506,7 +9045,7 @@
   },
   {
     "name": "Pro Wrestling",
-    "id": "nes323",
+    "id": "nes347",
     "igdbId": 18143,
     "gbId": 20707,
     "gbGuid": "3030-20707",
@@ -8545,7 +9084,7 @@
   },
   {
     "name": "Punch-Out!!",
-    "id": "nes324",
+    "id": "nes348",
     "igdbId": 84799,
     "gbId": 23965,
     "gbGuid": "3030-23965",
@@ -8563,7 +9102,7 @@
   },
   {
     "name": "Puss 'n Boots: Pero's Great Adventure",
-    "id": "nes325",
+    "id": "nes349",
     "igdbId": 48219,
     "gbId": 17529,
     "gbGuid": "3030-17529",
@@ -8587,7 +9126,7 @@
   },
   {
     "name": "Pyramid (AVE)",
-    "id": "nes326",
+    "id": "nes350",
     "igdbId": 185891,
     "gbId": 3012,
     "gbGuid": "3030-3012",
@@ -8605,7 +9144,7 @@
   },
   {
     "name": "Q*bert",
-    "id": "nes327",
+    "id": "nes351",
     "igdbId": 1980,
     "gbId": 20782,
     "gbGuid": "3030-20782",
@@ -8623,7 +9162,7 @@
   },
   {
     "name": "R.C. Pro-Am II",
-    "id": "nes328",
+    "id": "nes352",
     "igdbId": 9156,
     "gbId": 1316,
     "gbGuid": "3030-1316",
@@ -8649,7 +9188,7 @@
   },
   {
     "name": "RPG Jinsei Game",
-    "id": "nes329",
+    "id": "nes353",
     "igdbId": 48819,
     "gbId": 67438,
     "gbGuid": "3030-67438",
@@ -8673,7 +9212,7 @@
   },
   {
     "name": "Race America",
-    "id": "nes330",
+    "id": "nes354",
     "igdbId": 48215,
     "gbId": null,
     "gbGuid": null,
@@ -8697,7 +9236,7 @@
   },
   {
     "name": "Racer Mini Yonku: Japan Cup",
-    "id": "nes331",
+    "id": "nes355",
     "igdbId": 48822,
     "gbId": 48256,
     "gbGuid": "3030-48256",
@@ -8721,7 +9260,7 @@
   },
   {
     "name": "Racket Attack",
-    "id": "nes332",
+    "id": "nes356",
     "igdbId": 48214,
     "gbId": 8745,
     "gbGuid": "3030-8745",
@@ -8745,7 +9284,7 @@
   },
   {
     "name": "Rackets & Rivals",
-    "id": "nes333",
+    "id": "nes357",
     "igdbId": 48213,
     "gbId": null,
     "gbGuid": null,
@@ -8771,7 +9310,7 @@
   },
   {
     "name": "Rad Racer",
-    "id": "nes334",
+    "id": "nes358",
     "igdbId": 8359,
     "gbId": 2386,
     "gbGuid": "3030-2386",
@@ -8797,8 +9336,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Radia Senki: Reimmeihen",
+    "id": "nes359",
+    "igdbId": null,
+    "gbId": 6348,
+    "gbGuid": "3030-6348",
+    "tgdbId": 19058,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Raid !!!",
-    "id": "nes335",
+    "id": "nes360",
     "igdbId": 92219,
     "gbId": 34109,
     "gbGuid": "3030-34109",
@@ -8822,7 +9385,7 @@
   },
   {
     "name": "Raid 2020",
-    "id": "nes336",
+    "id": "nes361",
     "igdbId": 48211,
     "gbId": 18917,
     "gbGuid": "3030-18917",
@@ -8846,7 +9409,7 @@
   },
   {
     "name": "Raid On Bungeling Bay",
-    "id": "nes337",
+    "id": "nes362",
     "igdbId": 24664,
     "gbId": 15577,
     "gbGuid": "3030-15577",
@@ -8873,7 +9436,7 @@
   },
   {
     "name": "Rambo",
-    "id": "nes338",
+    "id": "nes363",
     "igdbId": 48210,
     "gbId": 3114,
     "gbGuid": "3030-3114",
@@ -8903,7 +9466,7 @@
   },
   {
     "name": "Renegade",
-    "id": "nes339",
+    "id": "nes364",
     "igdbId": 6852,
     "gbId": 18293,
     "gbGuid": "3030-18293",
@@ -8930,7 +9493,7 @@
   },
   {
     "name": "Ring King",
-    "id": "nes340",
+    "id": "nes365",
     "igdbId": 48208,
     "gbId": 11769,
     "gbGuid": "3030-11769",
@@ -8957,7 +9520,7 @@
   },
   {
     "name": "RoboWarrior",
-    "id": "nes341",
+    "id": "nes366",
     "igdbId": 8473,
     "gbId": 1352,
     "gbGuid": "3030-1352",
@@ -8974,8 +9537,32 @@
     ]
   },
   {
+    "name": "Robocco Wars",
+    "id": "nes367",
+    "igdbId": null,
+    "gbId": 23536,
+    "gbGuid": "3030-23536",
+    "tgdbId": 33578,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Robodemons",
-    "id": "nes342",
+    "id": "nes368",
     "igdbId": 48207,
     "gbId": 13909,
     "gbGuid": "3030-13909",
@@ -8999,7 +9586,7 @@
   },
   {
     "name": "Rock 'n' Ball",
-    "id": "nes343",
+    "id": "nes369",
     "igdbId": 48206,
     "gbId": 1790,
     "gbGuid": "3030-1790",
@@ -9036,7 +9623,7 @@
   },
   {
     "name": "RollerGames",
-    "id": "nes344",
+    "id": "nes370",
     "igdbId": 40076,
     "gbId": 15287,
     "gbGuid": "3030-15287",
@@ -9060,7 +9647,7 @@
   },
   {
     "name": "Rollerblade Racer",
-    "id": "nes345",
+    "id": "nes371",
     "igdbId": 48204,
     "gbId": 19264,
     "gbGuid": "3030-19264",
@@ -9078,7 +9665,7 @@
   },
   {
     "name": "Rollergames",
-    "id": "nes346",
+    "id": "nes372",
     "igdbId": 138793,
     "gbId": 15287,
     "gbGuid": "3030-15287",
@@ -9096,7 +9683,7 @@
   },
   {
     "name": "Roundball: 2 on 2 Challenge",
-    "id": "nes347",
+    "id": "nes373",
     "igdbId": 48203,
     "gbId": null,
     "gbGuid": null,
@@ -9133,7 +9720,7 @@
   },
   {
     "name": "Rush'n Attack",
-    "id": "nes348",
+    "id": "nes374",
     "igdbId": 90990,
     "gbId": 15457,
     "gbGuid": "3030-15457",
@@ -9160,7 +9747,7 @@
   },
   {
     "name": "Rygar",
-    "id": "nes349",
+    "id": "nes375",
     "igdbId": 28841,
     "gbId": 10397,
     "gbGuid": "3030-10397",
@@ -9186,8 +9773,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Sanada Ten Braves",
+    "id": "nes376",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sanrio Cup: Ponpon Volleyball",
-    "id": "nes350",
+    "id": "nes377",
     "igdbId": 97416,
     "gbId": 67703,
     "gbGuid": "3030-67703",
@@ -9211,7 +9821,7 @@
   },
   {
     "name": "Section-Z",
-    "id": "nes351",
+    "id": "nes378",
     "igdbId": 9755,
     "gbId": 1432,
     "gbGuid": "3030-1432",
@@ -9238,7 +9848,7 @@
   },
   {
     "name": "Sherlock Holmes: Hakushaku Reijou Yuukai Jiken",
-    "id": "nes352",
+    "id": "nes379",
     "igdbId": 48396,
     "gbId": 42175,
     "gbGuid": "3030-42175",
@@ -9262,7 +9872,7 @@
   },
   {
     "name": "Shockwave",
-    "id": "nes353",
+    "id": "nes380",
     "igdbId": 48084,
     "gbId": 4048,
     "gbGuid": "3030-4048",
@@ -9292,7 +9902,7 @@
   },
   {
     "name": "Shooting Range",
-    "id": "nes354",
+    "id": "nes381",
     "igdbId": 48247,
     "gbId": 29088,
     "gbGuid": "3030-29088",
@@ -9335,7 +9945,7 @@
   },
   {
     "name": "Side Pocket",
-    "id": "nes355",
+    "id": "nes382",
     "igdbId": 6048,
     "gbId": 2042,
     "gbGuid": "3030-2042",
@@ -9362,7 +9972,7 @@
   },
   {
     "name": "Sidewinder",
-    "id": "nes356",
+    "id": "nes383",
     "igdbId": 12850,
     "gbId": 12630,
     "gbGuid": "3030-12630",
@@ -9386,7 +9996,7 @@
   },
   {
     "name": "Silver Surfer",
-    "id": "nes357",
+    "id": "nes384",
     "igdbId": 9099,
     "gbId": 12487,
     "gbGuid": "3030-12487",
@@ -9410,7 +10020,7 @@
   },
   {
     "name": "Skate or Die (PAL)",
-    "id": "nes358",
+    "id": "nes385",
     "igdbId": 12267,
     "gbId": 8819,
     "gbGuid": "3030-8819",
@@ -9428,7 +10038,7 @@
   },
   {
     "name": "Skate or Die 2: The Search for Double Trouble",
-    "id": "nes359",
+    "id": "nes386",
     "igdbId": 48181,
     "gbId": 11794,
     "gbGuid": "3030-11794",
@@ -9452,7 +10062,7 @@
   },
   {
     "name": "Sky Kid",
-    "id": "nes360",
+    "id": "nes387",
     "igdbId": 17282,
     "gbId": 16382,
     "gbGuid": "3030-16382",
@@ -9479,7 +10089,7 @@
   },
   {
     "name": "Slalom",
-    "id": "nes361",
+    "id": "nes388",
     "igdbId": 14589,
     "gbId": 2599,
     "gbGuid": "3030-2599",
@@ -9518,7 +10128,7 @@
   },
   {
     "name": "Smash T.V.",
-    "id": "nes362",
+    "id": "nes389",
     "igdbId": 12853,
     "gbId": 16194,
     "gbGuid": "3030-16194",
@@ -9544,7 +10154,7 @@
   },
   {
     "name": "Snake's Revenge",
-    "id": "nes363",
+    "id": "nes390",
     "igdbId": 7848,
     "gbId": 6129,
     "gbGuid": "3030-6129",
@@ -9568,7 +10178,7 @@
   },
   {
     "name": "Snoopy's Silly Sports Spectacular!",
-    "id": "nes364",
+    "id": "nes391",
     "igdbId": 48077,
     "gbId": 11985,
     "gbGuid": "3030-11985",
@@ -9592,7 +10202,7 @@
   },
   {
     "name": "Soccer (PAL B)",
-    "id": "nes365",
+    "id": "nes392",
     "igdbId": 86375,
     "gbId": 12955,
     "gbGuid": "3030-12955",
@@ -9636,7 +10246,7 @@
   },
   {
     "name": "Solomon's Key",
-    "id": "nes366",
+    "id": "nes393",
     "igdbId": 28384,
     "gbId": 928,
     "gbGuid": "3030-928",
@@ -9663,7 +10273,7 @@
   },
   {
     "name": "Solstice: The Quest for the Staff of Demnos",
-    "id": "nes367",
+    "id": "nes394",
     "igdbId": 48244,
     "gbId": 13220,
     "gbGuid": "3030-13220",
@@ -9686,8 +10296,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "Somari",
+    "id": "nes395",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Space Hunter",
-    "id": "nes368",
+    "id": "nes396",
     "igdbId": 26416,
     "gbId": 7861,
     "gbGuid": "3030-7861",
@@ -9711,7 +10344,7 @@
   },
   {
     "name": "Space Shadow",
-    "id": "nes369",
+    "id": "nes397",
     "igdbId": 178988,
     "gbId": 40593,
     "gbGuid": "3030-40593",
@@ -9737,7 +10370,7 @@
   },
   {
     "name": "Space Shuttle Project",
-    "id": "nes370",
+    "id": "nes398",
     "igdbId": 48243,
     "gbId": 22831,
     "gbGuid": "3030-22831",
@@ -9761,7 +10394,7 @@
   },
   {
     "name": "Spartan X 2",
-    "id": "nes371",
+    "id": "nes399",
     "igdbId": 48650,
     "gbId": 13529,
     "gbGuid": "3030-13529",
@@ -9785,7 +10418,7 @@
   },
   {
     "name": "Spelunker",
-    "id": "nes372",
+    "id": "nes400",
     "igdbId": 4621,
     "gbId": 3087,
     "gbGuid": "3030-3087",
@@ -9811,8 +10444,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Spelunker II: Yuushahe no Chousen",
+    "id": "nes401",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27282,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Splatterhouse: Wanpaku Graffiti",
-    "id": "nes373",
+    "id": "nes402",
     "igdbId": 48653,
     "gbId": 4912,
     "gbGuid": "3030-4912",
@@ -9836,7 +10493,7 @@
   },
   {
     "name": "Spot: The Video Game",
-    "id": "nes374",
+    "id": "nes403",
     "igdbId": 48075,
     "gbId": 5156,
     "gbGuid": "3030-5156",
@@ -9862,7 +10519,7 @@
   },
   {
     "name": "Spy Hunter",
-    "id": "nes375",
+    "id": "nes404",
     "igdbId": 4167,
     "gbId": 10448,
     "gbGuid": "3030-10448",
@@ -9889,7 +10546,7 @@
   },
   {
     "name": "Sqoon",
-    "id": "nes376",
+    "id": "nes405",
     "igdbId": 4605,
     "gbId": 309,
     "gbGuid": "3030-309",
@@ -9926,7 +10583,7 @@
   },
   {
     "name": "Square no Tom Sawyer",
-    "id": "nes377",
+    "id": "nes406",
     "igdbId": 73518,
     "gbId": 17014,
     "gbGuid": "3030-17014",
@@ -9950,7 +10607,7 @@
   },
   {
     "name": "Stack-Up",
-    "id": "nes378",
+    "id": "nes407",
     "igdbId": 8579,
     "gbId": 19746,
     "gbGuid": "3030-19746",
@@ -9999,7 +10656,7 @@
   },
   {
     "name": "Stadium Events",
-    "id": "nes379",
+    "id": "nes408",
     "igdbId": 2242,
     "gbId": 7309,
     "gbGuid": "3030-7309",
@@ -10036,7 +10693,7 @@
   },
   {
     "name": "Stanley: The Search for Dr. Livingston",
-    "id": "nes380",
+    "id": "nes409",
     "igdbId": 48242,
     "gbId": 9593,
     "gbGuid": "3030-9593",
@@ -10060,7 +10717,7 @@
   },
   {
     "name": "Star Force",
-    "id": "nes381",
+    "id": "nes410",
     "igdbId": 6139,
     "gbId": 3329,
     "gbGuid": "3030-3329",
@@ -10087,7 +10744,7 @@
   },
   {
     "name": "Star Trek: 25th Anniversary",
-    "id": "nes382",
+    "id": "nes411",
     "igdbId": 2231,
     "gbId": 9737,
     "gbGuid": "3030-9737",
@@ -10111,7 +10768,7 @@
   },
   {
     "name": "Star Voyager",
-    "id": "nes383",
+    "id": "nes412",
     "igdbId": 3283,
     "gbId": 867,
     "gbGuid": "3030-867",
@@ -10148,7 +10805,7 @@
   },
   {
     "name": "Star Wars",
-    "id": "nes384",
+    "id": "nes413",
     "igdbId": 54649,
     "gbId": 54,
     "gbGuid": "3030-54",
@@ -10172,7 +10829,7 @@
   },
   {
     "name": "Starship Hector",
-    "id": "nes385",
+    "id": "nes414",
     "igdbId": 48238,
     "gbId": 8092,
     "gbGuid": "3030-8092",
@@ -10196,7 +10853,7 @@
   },
   {
     "name": "Stealth ATF",
-    "id": "nes386",
+    "id": "nes415",
     "igdbId": 48237,
     "gbId": 5441,
     "gbGuid": "3030-5441",
@@ -10220,7 +10877,7 @@
   },
   {
     "name": "Stinger",
-    "id": "nes387",
+    "id": "nes416",
     "igdbId": 52195,
     "gbId": 16079,
     "gbGuid": "3030-16079",
@@ -10247,7 +10904,7 @@
   },
   {
     "name": "Sunman",
-    "id": "nes388",
+    "id": "nes417",
     "igdbId": 48651,
     "gbId": null,
     "gbGuid": null,
@@ -10271,7 +10928,7 @@
   },
   {
     "name": "Super C",
-    "id": "nes389",
+    "id": "nes418",
     "igdbId": 84919,
     "gbId": 10077,
     "gbGuid": "3030-10077",
@@ -10289,7 +10946,7 @@
   },
   {
     "name": "Super Chinese 3",
-    "id": "nes390",
+    "id": "nes419",
     "igdbId": 48840,
     "gbId": 41293,
     "gbGuid": "3030-41293",
@@ -10313,7 +10970,7 @@
   },
   {
     "name": "Super Glove Ball",
-    "id": "nes391",
+    "id": "nes420",
     "igdbId": 48234,
     "gbId": 13107,
     "gbGuid": "3030-13107",
@@ -10337,7 +10994,7 @@
   },
   {
     "name": "Super Jeopardy!",
-    "id": "nes392",
+    "id": "nes421",
     "igdbId": 64476,
     "gbId": 24201,
     "gbGuid": "3030-24201",
@@ -10363,7 +11020,7 @@
   },
   {
     "name": "Super Mario Bros.",
-    "id": "nes393",
+    "id": "nes422",
     "igdbId": 358,
     "gbId": 15544,
     "gbGuid": "3030-15544",
@@ -10428,7 +11085,7 @@
   },
   {
     "name": "Super Mario Bros. / Duck Hunt / World Class Track Meet",
-    "id": "nes394",
+    "id": "nes423",
     "igdbId": 77227,
     "gbId": 19967,
     "gbGuid": "3030-19967",
@@ -10446,7 +11103,7 @@
   },
   {
     "name": "Super Mario Bros. 2",
-    "id": "nes395",
+    "id": "nes424",
     "igdbId": 1067,
     "gbId": 7406,
     "gbGuid": "3030-7406",
@@ -10464,7 +11121,7 @@
   },
   {
     "name": "Super Mario Bros. 3 (Challenge set)",
-    "id": "nes396",
+    "id": "nes425",
     "igdbId": 1068,
     "gbId": 10299,
     "gbGuid": "3030-10299",
@@ -10487,7 +11144,7 @@
   },
   {
     "name": "Super Pitfall",
-    "id": "nes397",
+    "id": "nes426",
     "igdbId": 48233,
     "gbId": 13716,
     "gbGuid": "3030-13716",
@@ -10514,7 +11171,7 @@
   },
   {
     "name": "Super Spike V'Ball",
-    "id": "nes398",
+    "id": "nes427",
     "igdbId": 48073,
     "gbId": 12512,
     "gbGuid": "3030-12512",
@@ -10540,7 +11197,7 @@
   },
   {
     "name": "Super Spy Hunter",
-    "id": "nes399",
+    "id": "nes428",
     "igdbId": 6154,
     "gbId": 8,
     "gbGuid": "3030-8",
@@ -10557,8 +11214,32 @@
     ]
   },
   {
+    "name": "Super Star Force: Jikūreki no Himitsu",
+    "id": "nes429",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 27304,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Super Turrican",
-    "id": "nes400",
+    "id": "nes430",
     "igdbId": 48231,
     "gbId": 44802,
     "gbGuid": "3030-44802",
@@ -10582,7 +11263,7 @@
   },
   {
     "name": "Superman",
-    "id": "nes401",
+    "id": "nes431",
     "igdbId": 68440,
     "gbId": 22981,
     "gbGuid": "3030-22981",
@@ -10606,7 +11287,7 @@
   },
   {
     "name": "Sweet Home",
-    "id": "nes402",
+    "id": "nes432",
     "igdbId": 9426,
     "gbId": 15120,
     "gbGuid": "3030-15120",
@@ -10630,7 +11311,7 @@
   },
   {
     "name": "Sword Master",
-    "id": "nes403",
+    "id": "nes433",
     "igdbId": 69900,
     "gbId": 14708,
     "gbGuid": "3030-14708",
@@ -10654,7 +11335,7 @@
   },
   {
     "name": "Swords and Serpents",
-    "id": "nes404",
+    "id": "nes434",
     "igdbId": 48230,
     "gbId": 3639,
     "gbGuid": "3030-3639",
@@ -10697,7 +11378,7 @@
   },
   {
     "name": "TM Network: Live in Power Bowl",
-    "id": "nes405",
+    "id": "nes435",
     "igdbId": 48435,
     "gbId": 37086,
     "gbGuid": "3030-37086",
@@ -10721,7 +11402,7 @@
   },
   {
     "name": "Taboo: The Sixth Sense",
-    "id": "nes406",
+    "id": "nes436",
     "igdbId": 11295,
     "gbId": 4271,
     "gbGuid": "3030-4271",
@@ -10745,7 +11426,7 @@
   },
   {
     "name": "Tag Team Match: M.U.S.C.L.E.",
-    "id": "nes407",
+    "id": "nes437",
     "igdbId": 48933,
     "gbId": null,
     "gbGuid": null,
@@ -10782,7 +11463,7 @@
   },
   {
     "name": "Tag Team Wrestling",
-    "id": "nes408",
+    "id": "nes438",
     "igdbId": 36587,
     "gbId": 6068,
     "gbGuid": "3030-6068",
@@ -10809,7 +11490,7 @@
   },
   {
     "name": "Takahashi Meijin no Bouken Jima IV",
-    "id": "nes409",
+    "id": "nes439",
     "igdbId": 84868,
     "gbId": null,
     "gbGuid": null,
@@ -10833,7 +11514,7 @@
   },
   {
     "name": "Tecmo Baseball",
-    "id": "nes410",
+    "id": "nes440",
     "igdbId": 48228,
     "gbId": 16272,
     "gbGuid": "3030-16272",
@@ -10857,7 +11538,7 @@
   },
   {
     "name": "Tecmo Cup Soccer Game",
-    "id": "nes411",
+    "id": "nes441",
     "igdbId": 48227,
     "gbId": 11965,
     "gbGuid": "3030-11965",
@@ -10881,7 +11562,7 @@
   },
   {
     "name": "Tecmo NBA Basketball",
-    "id": "nes412",
+    "id": "nes442",
     "igdbId": 48226,
     "gbId": 27293,
     "gbGuid": "3030-27293",
@@ -10905,7 +11586,7 @@
   },
   {
     "name": "Tecmo World Wrestling",
-    "id": "nes413",
+    "id": "nes443",
     "igdbId": 48083,
     "gbId": 12836,
     "gbGuid": "3030-12836",
@@ -10929,7 +11610,7 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles",
-    "id": "nes414",
+    "id": "nes444",
     "igdbId": 86386,
     "gbId": 20790,
     "gbGuid": "3030-20790",
@@ -10947,7 +11628,7 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles III: The Manhattan Project",
-    "id": "nes415",
+    "id": "nes445",
     "igdbId": 14731,
     "gbId": 1831,
     "gbGuid": "3030-1831",
@@ -10971,7 +11652,7 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles: Tournament Fighters",
-    "id": "nes416",
+    "id": "nes446",
     "igdbId": 48274,
     "gbId": 4896,
     "gbGuid": "3030-4896",
@@ -10995,7 +11676,7 @@
   },
   {
     "name": "Tenchi wo Kurau II: Shokatsu Koumei Den",
-    "id": "nes417",
+    "id": "nes447",
     "igdbId": 48346,
     "gbId": null,
     "gbGuid": null,
@@ -11018,8 +11699,26 @@
     "misprintsErrors": []
   },
   {
+    "name": "Tengen games (various)",
+    "id": "nes448",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Nintendo/nes/tengenAlchohol_zpstqaz0cfg.jpg",
+        "details": "says alchohol on back label has appeared on After Burner,Alien Syndrome, Indiana Jones and the Temple of Doom, Pac Man, R.B.I. Baseball, Road Runner , Shinobi, Super Sprint, Tetris, Vindicators,Gauntlet",
+        "type": "Typo"
+      }
+    ]
+  },
+  {
     "name": "Tenkaichi Bushi: Keru Naguuru",
-    "id": "nes418",
+    "id": "nes449",
     "igdbId": 48389,
     "gbId": null,
     "gbGuid": null,
@@ -11043,7 +11742,7 @@
   },
   {
     "name": "Tennis",
-    "id": "nes419",
+    "id": "nes450",
     "igdbId": 74548,
     "gbId": 20780,
     "gbGuid": "3030-20780",
@@ -11092,7 +11791,7 @@
   },
   {
     "name": "Tetris",
-    "id": "nes420",
+    "id": "nes451",
     "igdbId": 180278,
     "gbId": 1896,
     "gbGuid": "3030-1896",
@@ -11115,7 +11814,7 @@
   },
   {
     "name": "The Adventures of Bayou Billy",
-    "id": "nes421",
+    "id": "nes452",
     "igdbId": 8740,
     "gbId": 12536,
     "gbGuid": "3030-12536",
@@ -11152,7 +11851,7 @@
   },
   {
     "name": "The Adventures of Gilligan's Island",
-    "id": "nes422",
+    "id": "nes453",
     "igdbId": 8742,
     "gbId": 10759,
     "gbGuid": "3030-10759",
@@ -11176,7 +11875,7 @@
   },
   {
     "name": "The Adventures of Rad Gravity",
-    "id": "nes423",
+    "id": "nes454",
     "igdbId": 8777,
     "gbId": null,
     "gbGuid": null,
@@ -11200,7 +11899,7 @@
   },
   {
     "name": "The Black Bass",
-    "id": "nes424",
+    "id": "nes455",
     "igdbId": 17458,
     "gbId": 5643,
     "gbGuid": "3030-5643",
@@ -11235,7 +11934,7 @@
   },
   {
     "name": "The Blue Marlin",
-    "id": "nes425",
+    "id": "nes456",
     "igdbId": 48104,
     "gbId": 6169,
     "gbGuid": "3030-6169",
@@ -11259,7 +11958,7 @@
   },
   {
     "name": "The Bugs Bunny Birthday Blowout",
-    "id": "nes426",
+    "id": "nes457",
     "igdbId": 2719,
     "gbId": 18326,
     "gbGuid": "3030-18326",
@@ -11283,7 +11982,7 @@
   },
   {
     "name": "The California Raisins: The Grape Escape",
-    "id": "nes427",
+    "id": "nes458",
     "igdbId": 48702,
     "gbId": 36472,
     "gbGuid": "3030-36472",
@@ -11307,7 +12006,7 @@
   },
   {
     "name": "The Flintstones: The Rescue of Dino & Hoppy",
-    "id": "nes428",
+    "id": "nes459",
     "igdbId": 18810,
     "gbId": 274,
     "gbGuid": "3030-274",
@@ -11331,7 +12030,7 @@
   },
   {
     "name": "The Flintstones: The Surprise at Dinosaur Peak!",
-    "id": "nes429",
+    "id": "nes460",
     "igdbId": 48288,
     "gbId": 6882,
     "gbGuid": "3030-6882",
@@ -11355,7 +12054,7 @@
   },
   {
     "name": "The Golf '92",
-    "id": "nes430",
+    "id": "nes461",
     "igdbId": 48483,
     "gbId": 70643,
     "gbGuid": "3030-70643",
@@ -11379,7 +12078,7 @@
   },
   {
     "name": "The Goonies II",
-    "id": "nes431",
+    "id": "nes462",
     "igdbId": 18916,
     "gbId": 10395,
     "gbGuid": "3030-10395",
@@ -11422,7 +12121,7 @@
   },
   {
     "name": "The Guardian Legend",
-    "id": "nes432",
+    "id": "nes463",
     "igdbId": 48058,
     "gbId": 13536,
     "gbGuid": "3030-13536",
@@ -11446,7 +12145,7 @@
   },
   {
     "name": "The Jetsons: Cogswell's Caper",
-    "id": "nes433",
+    "id": "nes464",
     "igdbId": 48153,
     "gbId": 10709,
     "gbGuid": "3030-10709",
@@ -11470,7 +12169,7 @@
   },
   {
     "name": "The Karate Kid",
-    "id": "nes434",
+    "id": "nes465",
     "igdbId": 68386,
     "gbId": 14763,
     "gbGuid": "3030-14763",
@@ -11507,7 +12206,7 @@
   },
   {
     "name": "The Legend of Kage",
-    "id": "nes435",
+    "id": "nes466",
     "igdbId": 4593,
     "gbId": 10701,
     "gbGuid": "3030-10701",
@@ -11534,7 +12233,7 @@
   },
   {
     "name": "The Legend of Zelda",
-    "id": "nes436",
+    "id": "nes467",
     "igdbId": 1022,
     "gbId": 11949,
     "gbGuid": "3030-11949",
@@ -11576,7 +12275,7 @@
   },
   {
     "name": "The Little Mermaid",
-    "id": "nes437",
+    "id": "nes468",
     "igdbId": 19900,
     "gbId": 8958,
     "gbGuid": "3030-8958",
@@ -11594,7 +12293,7 @@
   },
   {
     "name": "The Lone Ranger",
-    "id": "nes438",
+    "id": "nes469",
     "igdbId": 48183,
     "gbId": 22205,
     "gbGuid": "3030-22205",
@@ -11631,7 +12330,7 @@
   },
   {
     "name": "The Mafat Conspiracy",
-    "id": "nes439",
+    "id": "nes470",
     "igdbId": 48057,
     "gbId": 9219,
     "gbGuid": "3030-9219",
@@ -11655,7 +12354,7 @@
   },
   {
     "name": "The Magic of Scheherazade",
-    "id": "nes440",
+    "id": "nes471",
     "igdbId": 48078,
     "gbId": 9011,
     "gbGuid": "3030-9011",
@@ -11679,7 +12378,7 @@
   },
   {
     "name": "The Mutant Virus: \"Crisis in a Computer World!\"",
-    "id": "nes441",
+    "id": "nes472",
     "igdbId": 48196,
     "gbId": 4998,
     "gbGuid": "3030-4998",
@@ -11702,7 +12401,7 @@
   },
   {
     "name": "The Quest of Ki",
-    "id": "nes442",
+    "id": "nes473",
     "igdbId": 48353,
     "gbId": 4905,
     "gbGuid": "3030-4905",
@@ -11726,7 +12425,7 @@
   },
   {
     "name": "The Rocketeer",
-    "id": "nes443",
+    "id": "nes474",
     "igdbId": 48205,
     "gbId": 3219,
     "gbGuid": "3030-3219",
@@ -11750,7 +12449,7 @@
   },
   {
     "name": "The Super Dimension Fortress Macross",
-    "id": "nes444",
+    "id": "nes475",
     "igdbId": 66470,
     "gbId": 32224,
     "gbGuid": "3030-32224",
@@ -11774,7 +12473,7 @@
   },
   {
     "name": "The Ultimate Stuntman",
-    "id": "nes445",
+    "id": "nes476",
     "igdbId": 48264,
     "gbId": null,
     "gbGuid": null,
@@ -11804,7 +12503,7 @@
   },
   {
     "name": "The Uncanny X-Men",
-    "id": "nes446",
+    "id": "nes477",
     "igdbId": 48050,
     "gbId": 2424,
     "gbGuid": "3030-2424",
@@ -11828,7 +12527,7 @@
   },
   {
     "name": "The Young Indiana Jones Chronicles",
-    "id": "nes447",
+    "id": "nes478",
     "igdbId": 48254,
     "gbId": 13439,
     "gbGuid": "3030-13439",
@@ -11852,7 +12551,7 @@
   },
   {
     "name": "Tiger-Heli",
-    "id": "nes448",
+    "id": "nes479",
     "igdbId": 4606,
     "gbId": 9833,
     "gbGuid": "3030-9833",
@@ -11879,7 +12578,7 @@
   },
   {
     "name": "Time Diver: Eon Man",
-    "id": "nes449",
+    "id": "nes480",
     "igdbId": 48564,
     "gbId": null,
     "gbGuid": null,
@@ -11903,7 +12602,7 @@
   },
   {
     "name": "Time Lord",
-    "id": "nes450",
+    "id": "nes481",
     "igdbId": 18536,
     "gbId": 15739,
     "gbGuid": "3030-15739",
@@ -11927,7 +12626,7 @@
   },
   {
     "name": "Tiny Toon Adventures",
-    "id": "nes451",
+    "id": "nes482",
     "igdbId": 4555,
     "gbId": 16460,
     "gbGuid": "3030-16460",
@@ -11957,7 +12656,7 @@
   },
   {
     "name": "Tiny Toon Adventures 2: Trouble in Wackyland",
-    "id": "nes452",
+    "id": "nes483",
     "igdbId": 8047,
     "gbId": 2147,
     "gbGuid": "3030-2147",
@@ -11981,7 +12680,7 @@
   },
   {
     "name": "Tiny Toon Adventures Cartoon Workshop",
-    "id": "nes453",
+    "id": "nes484",
     "igdbId": 8045,
     "gbId": 30983,
     "gbGuid": "3030-30983",
@@ -12005,7 +12704,7 @@
   },
   {
     "name": "To the Earth",
-    "id": "nes454",
+    "id": "nes485",
     "igdbId": 48117,
     "gbId": 16148,
     "gbGuid": "3030-16148",
@@ -12042,7 +12741,7 @@
   },
   {
     "name": "Toki no Tabibito: Time Stranger",
-    "id": "nes455",
+    "id": "nes486",
     "igdbId": 48879,
     "gbId": 38812,
     "gbGuid": "3030-38812",
@@ -12066,7 +12765,7 @@
   },
   {
     "name": "Tokyo Pachi-Slot Adventure",
-    "id": "nes456",
+    "id": "nes487",
     "igdbId": 48877,
     "gbId": null,
     "gbGuid": null,
@@ -12090,7 +12789,7 @@
   },
   {
     "name": "Top Gun",
-    "id": "nes457",
+    "id": "nes488",
     "igdbId": 18021,
     "gbId": 8678,
     "gbGuid": "3030-8678",
@@ -12127,7 +12826,7 @@
   },
   {
     "name": "Top Players' Tennis",
-    "id": "nes458",
+    "id": "nes489",
     "igdbId": 48700,
     "gbId": 7081,
     "gbGuid": "3030-7081",
@@ -12163,8 +12862,32 @@
     "misprintsErrors": []
   },
   {
+    "name": "Top Striker",
+    "id": "nes490",
+    "igdbId": null,
+    "gbId": 37909,
+    "gbGuid": "3030-37909",
+    "tgdbId": 27323,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Totally Rad",
-    "id": "nes459",
+    "id": "nes491",
     "igdbId": 48118,
     "gbId": 12513,
     "gbGuid": "3030-12513",
@@ -12188,7 +12911,7 @@
   },
   {
     "name": "Town & Country Surf Designs II: Thrilla's Surfari",
-    "id": "nes460",
+    "id": "nes492",
     "igdbId": 48177,
     "gbId": 30823,
     "gbGuid": "3030-30823",
@@ -12212,7 +12935,7 @@
   },
   {
     "name": "Town & Country Surf Designs: Wood & Water Rage",
-    "id": "nes461",
+    "id": "nes493",
     "igdbId": 48119,
     "gbId": 2963,
     "gbGuid": "3030-2963",
@@ -12236,7 +12959,7 @@
   },
   {
     "name": "Track & Field II",
-    "id": "nes462",
+    "id": "nes494",
     "igdbId": 20903,
     "gbId": 11289,
     "gbGuid": "3030-11289",
@@ -12279,7 +13002,7 @@
   },
   {
     "name": "Track and Field",
-    "id": "nes463",
+    "id": "nes495",
     "igdbId": 6439,
     "gbId": 18232,
     "gbGuid": "3030-18232",
@@ -12306,7 +13029,7 @@
   },
   {
     "name": "Treasure Master",
-    "id": "nes464",
+    "id": "nes496",
     "igdbId": 80822,
     "gbId": 16708,
     "gbGuid": "3030-16708",
@@ -12330,7 +13053,7 @@
   },
   {
     "name": "Trojan",
-    "id": "nes465",
+    "id": "nes497",
     "igdbId": 39993,
     "gbId": 14800,
     "gbGuid": "3030-14800",
@@ -12362,7 +13085,7 @@
   },
   {
     "name": "Tsuppari Wars",
-    "id": "nes466",
+    "id": "nes498",
     "igdbId": 48384,
     "gbId": null,
     "gbGuid": null,
@@ -12385,8 +13108,31 @@
     "misprintsErrors": []
   },
   {
+    "name": "UWC",
+    "id": "nes499",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "NES exclusive game"
+    ],
+    "isExclusive": [
+      {
+        "name": "Nintendo Entertainment System (NES)",
+        "id": "ccl1",
+        "igdbId": 18,
+        "gbId": 21,
+        "gbGuid": "3045-21",
+        "tgdbId": 7
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ultimate Air Combat",
-    "id": "nes467",
+    "id": "nes500",
     "igdbId": 48267,
     "gbId": 24515,
     "gbGuid": "3030-24515",
@@ -12410,7 +13156,7 @@
   },
   {
     "name": "Ultimate Basketball",
-    "id": "nes468",
+    "id": "nes501",
     "igdbId": 48266,
     "gbId": 23115,
     "gbGuid": "3030-23115",
@@ -12434,7 +13180,7 @@
   },
   {
     "name": "Urban Champion",
-    "id": "nes469",
+    "id": "nes502",
     "igdbId": 4624,
     "gbId": 8980,
     "gbGuid": "3030-8980",
@@ -12473,7 +13219,7 @@
   },
   {
     "name": "Ushio to Tora: Shinen no Daiyou",
-    "id": "nes470",
+    "id": "nes503",
     "igdbId": 48554,
     "gbId": 3006,
     "gbGuid": "3030-3006",
@@ -12497,7 +13243,7 @@
   },
   {
     "name": "Utsurun Desu.: Kawauso Hawaii e Iku!!!",
-    "id": "nes471",
+    "id": "nes504",
     "igdbId": 48553,
     "gbId": 52028,
     "gbGuid": "3030-52028",
@@ -12521,7 +13267,7 @@
   },
   {
     "name": "Vegas Connection: Casino Kara Ai o Komete",
-    "id": "nes472",
+    "id": "nes505",
     "igdbId": 48872,
     "gbId": 23113,
     "gbGuid": "3030-23113",
@@ -12545,7 +13291,7 @@
   },
   {
     "name": "Vegas Dream",
-    "id": "nes473",
+    "id": "nes506",
     "igdbId": 3661,
     "gbId": 18035,
     "gbGuid": "3030-18035",
@@ -12569,7 +13315,7 @@
   },
   {
     "name": "Vice: Project Doom",
-    "id": "nes474",
+    "id": "nes507",
     "igdbId": 48262,
     "gbId": 8193,
     "gbGuid": "3030-8193",
@@ -12593,7 +13339,7 @@
   },
   {
     "name": "Videomation",
-    "id": "nes475",
+    "id": "nes508",
     "igdbId": 18309,
     "gbId": 29437,
     "gbGuid": "3030-29437",
@@ -12617,7 +13363,7 @@
   },
   {
     "name": "Volleyball",
-    "id": "nes476",
+    "id": "nes509",
     "igdbId": 55052,
     "gbId": 5902,
     "gbGuid": "3030-5902",
@@ -12656,7 +13402,7 @@
   },
   {
     "name": "WCW Wrestling",
-    "id": "nes477",
+    "id": "nes510",
     "igdbId": 7447,
     "gbId": null,
     "gbGuid": null,
@@ -12679,7 +13425,7 @@
   },
   {
     "name": "WWF WrestleMania",
-    "id": "nes478",
+    "id": "nes511",
     "igdbId": 72120,
     "gbId": 3213,
     "gbGuid": "3030-3213",
@@ -12703,7 +13449,7 @@
   },
   {
     "name": "WWF WrestleMania Challenge",
-    "id": "nes479",
+    "id": "nes512",
     "igdbId": 19513,
     "gbId": 20282,
     "gbGuid": "3030-20282",
@@ -12733,7 +13479,7 @@
   },
   {
     "name": "Wacky Races",
-    "id": "nes480",
+    "id": "nes513",
     "igdbId": 81547,
     "gbId": 23001,
     "gbGuid": "3030-23001",
@@ -12757,7 +13503,7 @@
   },
   {
     "name": "Wagyan Land",
-    "id": "nes481",
+    "id": "nes514",
     "igdbId": 48550,
     "gbId": 37159,
     "gbGuid": "3030-37159",
@@ -12781,7 +13527,7 @@
   },
   {
     "name": "Wall Street Kid",
-    "id": "nes482",
+    "id": "nes515",
     "igdbId": 48261,
     "gbId": 13426,
     "gbGuid": "3030-13426",
@@ -12805,7 +13551,7 @@
   },
   {
     "name": "Wally Bear and the NO! Gang",
-    "id": "nes483",
+    "id": "nes516",
     "igdbId": 48260,
     "gbId": 5308,
     "gbGuid": "3030-5308",
@@ -12829,7 +13575,7 @@
   },
   {
     "name": "Werewolf: The Last Warrior",
-    "id": "nes484",
+    "id": "nes517",
     "igdbId": 48259,
     "gbId": 3506,
     "gbGuid": "3030-3506",
@@ -12853,7 +13599,7 @@
   },
   {
     "name": "Wheel of Fortune: Family Edition",
-    "id": "nes485",
+    "id": "nes518",
     "igdbId": 48258,
     "gbId": 10750,
     "gbGuid": "3030-10750",
@@ -12871,7 +13617,7 @@
   },
   {
     "name": "Wheel of Fortune: Junior Edition",
-    "id": "nes486",
+    "id": "nes519",
     "igdbId": 48094,
     "gbId": 8864,
     "gbGuid": "3030-8864",
@@ -12889,7 +13635,7 @@
   },
   {
     "name": "Where's Waldo?",
-    "id": "nes487",
+    "id": "nes520",
     "igdbId": 10618,
     "gbId": 12689,
     "gbGuid": "3030-12689",
@@ -12913,7 +13659,7 @@
   },
   {
     "name": "Who Framed Roger Rabbit",
-    "id": "nes488",
+    "id": "nes521",
     "igdbId": 12826,
     "gbId": 4274,
     "gbGuid": "3030-4274",
@@ -12937,7 +13683,7 @@
   },
   {
     "name": "Whomp 'Em",
-    "id": "nes489",
+    "id": "nes522",
     "igdbId": 48257,
     "gbId": 11428,
     "gbGuid": "3030-11428",
@@ -12961,7 +13707,7 @@
   },
   {
     "name": "Widget",
-    "id": "nes490",
+    "id": "nes523",
     "igdbId": 95355,
     "gbId": 19468,
     "gbGuid": "3030-19468",
@@ -12985,7 +13731,7 @@
   },
   {
     "name": "Wild Gunman",
-    "id": "nes491",
+    "id": "nes524",
     "igdbId": 4625,
     "gbId": 4116,
     "gbGuid": "3030-4116",
@@ -13052,7 +13798,7 @@
   },
   {
     "name": "Willow",
-    "id": "nes492",
+    "id": "nes525",
     "igdbId": 6981,
     "gbId": 7916,
     "gbGuid": "3030-7916",
@@ -13076,7 +13822,7 @@
   },
   {
     "name": "Wily & Light's Rockboard: That's Paradise!!",
-    "id": "nes493",
+    "id": "nes526",
     "igdbId": 1729,
     "gbId": 829,
     "gbGuid": "3030-829",
@@ -13100,7 +13846,7 @@
   },
   {
     "name": "Winter Games",
-    "id": "nes494",
+    "id": "nes527",
     "igdbId": 12268,
     "gbId": 10492,
     "gbGuid": "3030-10492",
@@ -13127,7 +13873,7 @@
   },
   {
     "name": "Wizards & Warriors",
-    "id": "nes495",
+    "id": "nes528",
     "igdbId": 9720,
     "gbId": 6633,
     "gbGuid": "3030-6633",
@@ -13164,7 +13910,7 @@
   },
   {
     "name": "Wizards & Warriors III: Kuros: Visions of Power",
-    "id": "nes496",
+    "id": "nes529",
     "igdbId": 48092,
     "gbId": 1814,
     "gbGuid": "3030-1814",
@@ -13188,7 +13934,7 @@
   },
   {
     "name": "Wolverine",
-    "id": "nes497",
+    "id": "nes530",
     "igdbId": 85885,
     "gbId": 26157,
     "gbGuid": "3030-26157",
@@ -13212,7 +13958,7 @@
   },
   {
     "name": "Wrath of the Black Manta",
-    "id": "nes498",
+    "id": "nes531",
     "igdbId": 10761,
     "gbId": 563,
     "gbGuid": "3030-563",
@@ -13236,7 +13982,7 @@
   },
   {
     "name": "Wrecking Crew",
-    "id": "nes499",
+    "id": "nes532",
     "igdbId": 41420,
     "gbId": 14710,
     "gbGuid": "3030-14710",
@@ -13296,7 +14042,7 @@
   },
   {
     "name": "Wurm: Journey to the Center of the Earth",
-    "id": "nes500",
+    "id": "nes533",
     "igdbId": 48112,
     "gbId": 17201,
     "gbGuid": "3030-17201",
@@ -13320,7 +14066,7 @@
   },
   {
     "name": "Xexyz",
-    "id": "nes501",
+    "id": "nes534",
     "igdbId": 14413,
     "gbId": 18714,
     "gbGuid": "3030-18714",
@@ -13344,7 +14090,7 @@
   },
   {
     "name": "Yoshi",
-    "id": "nes502",
+    "id": "nes535",
     "igdbId": 86264,
     "gbId": 19197,
     "gbGuid": "3030-19197",
@@ -13362,7 +14108,7 @@
   },
   {
     "name": "Yume Penguin Monogatari",
-    "id": "nes503",
+    "id": "nes536",
     "igdbId": 48596,
     "gbId": 9867,
     "gbGuid": "3030-9867",
@@ -13386,7 +14132,7 @@
   },
   {
     "name": "Zanac",
-    "id": "nes504",
+    "id": "nes537",
     "igdbId": 41319,
     "gbId": 4394,
     "gbGuid": "3030-4394",
@@ -13413,7 +14159,7 @@
   },
   {
     "name": "Zelda II: The Adventure of Link",
-    "id": "nes505",
+    "id": "nes538",
     "igdbId": 1025,
     "gbId": 16241,
     "gbGuid": "3030-16241",
@@ -13441,7 +14187,7 @@
   },
   {
     "name": "Zombie Nation",
-    "id": "nes506",
+    "id": "nes539",
     "igdbId": 48201,
     "gbId": 18465,
     "gbGuid": "3030-18465",

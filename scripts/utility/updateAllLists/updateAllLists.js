@@ -44,7 +44,7 @@ function launchExclusives(data, which, pData, final) {
           const finalsNames = finalClone.map(g => g.name);
           const existingId = finalsIds.indexOf(game.igdbId);
           const existingName = finalsNames.indexOf(game.name);
-          if (existingId > -1) {
+          if (existingId > -1 && game.igdbId) {
             if (!Array.isArray(finalClone[existingId][whichProp])) {
               finalClone[existingId][whichProp] = [];
             }
@@ -101,7 +101,7 @@ function misprintLogic(data, pData, final) {
           const game = data[i];
           const existingId = finalsIds.indexOf(game.igdbId);
           const existingName = finalsIds.indexOf(game.name);
-          if (existingId > -1) {
+          if (existingId > -1 && game.igdbId) {
             finalClone[existingId].misprintsErrors.push(getMisprintObj(game));
           } else if (existingName > -1) {
             finalClone[existingName].misprintsErrors.push(getMisprintObj(game));
