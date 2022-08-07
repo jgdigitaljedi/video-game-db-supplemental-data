@@ -878,5 +878,28 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'NintendoNew3DS.json')
+  },
+  {
+    name: 'Nintendo DSi',
+    id: 'ccl60',
+    prefix: 'ndsi',
+    launchTitles: null,
+    exclusives: require(path.resolve(smallFiles, 'platformExclusives/nintendoDsiExclusives.json')),
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'NintendoDSi.json')
+  },
+  {
+    name: 'Bandai Playdia',
+    id: 'ccl61',
+    prefix: 'bp',
+    launchTitles: null,
+    exclusives: require(path.resolve(
+      smallFiles,
+      'platformExclusives/bandaiPlaydiaExclusives.json'
+    )),
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'BandaiPlaydia.json')
   }
 ];

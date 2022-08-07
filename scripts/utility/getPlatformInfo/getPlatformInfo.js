@@ -3,7 +3,7 @@ const gbController = require('../../../server/gb.controller');
 const gbKey = process.env.JGBKEY;
 const axios = require('axios');
 
-const pName = 'new nintendo 3ds';
+const pName = 'playdia';
 
 const searchIgdbPlatform = async () => {
   try {

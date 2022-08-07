@@ -27,3 +27,6 @@ The platforms have either not yet been explored or I've not been able to find an
 - Casio Loopy
 - VTech V.Smile
 - Game Wave Family Entertainment System
+- Playdia
+- Gamate
+-

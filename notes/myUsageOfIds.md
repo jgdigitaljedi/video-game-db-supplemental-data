@@ -44,6 +44,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - nesltX - NES launch titles (nesLaunchTitles.json) | GAMES LIST
 - ngaltX - SNK Neo Geo AES launch titles (neoGeoAesLaunchTitles.json) | GAMES LIST
 - ngcdltX - SNK Neo Geo CD launch titles (neoGeoCdLaunchTitles.json) | GAMES LIST
+- nn3dltX - Nintendo New 3DS launch titles (nintendoNew3DSLaunchTitles.json) | GAMES LIST
 - nngltX - Nokia N-Gage titles (ngageLaunchTitles.json) | GAMES LIST
 - npcltX - Neo Geo Pocket Color launch titles (neoGeoPocketColorLaunchTitles.json) | GAMES LIST
 - nsltX - Nintendo Switch launch titles (switchLaunchTitles.json) | GAMES LIST
@@ -134,6 +135,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ajexX - Atari Jaguar console exclusives (atariJaguarExclusives.json | GAMES LIST)
 - alexX - Atari Lynx console exclusives (atariLynxExclusives.json | GAMES LIST)
 - amexX - Amiga console exclusives (amigaExclusives.json | GAMES LIST)
+- bpexX - Bandai Playdia exclusives (bandaiPlaydiaExclusives.json | GAMES LIST)
 - cdiexX - Philips CD-i console exclusives (philipsCdiExclusives.json | GAMES LIST)
 - cvexX - ColecoVision console exclusives (colecovisionExclusives.json | GAMES LIST)
 - fdsexX - Famicom Disk System console exclusives (famicomDiskSystemExclusives.json | GAMES LIST)
@@ -142,6 +144,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - n3dsexX - Nintendo 3ds console exclusives (nintendo3dsExclusives.json | GAMES LIST)
 - n64exX - Nintendo 64 console exclusives (nintendoN64Exclusives.json | GAMES LIST)
 - ndsexX - Nintendo DS console exclusives (nintendoDsExclusives.json | GAMES LIST)
+- ndsiexX - Nintendo DSi console exclusives (nintendoDsiExclusives.json | GAMES LIST)
 - nesexX - NES console exclusives (nesExclusives.json | GAMES LIST)
 - nfcexX - Nintendo Famicom console exclusives (nintendoFamicomExclusives.json | GAMES LIST)
 - ngbaexX - Nintendo Game Boy Advance console exclusives (nintendoGameBoyAdvanceExclusives.json | GAMES LIST)

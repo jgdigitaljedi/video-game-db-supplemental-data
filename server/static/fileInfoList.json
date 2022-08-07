@@ -1376,5 +1376,17 @@
     "filePath": "../textFilesToBeConverted/platformExclusives/nintendoNew3DSExclusives.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Nintendo DSi exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nintendoDsiExclusives.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Bandai Playdia exclusives",
+    "filePath": "../textFilesToBeConverted/platformExclusives/bandaiPlaydiaExclusives.json",
+    "type": "Game",
+    "complete": true
   }
 ]
