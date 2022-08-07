@@ -151,8 +151,8 @@
     "igdbId": 95438,
     "gbId": 12850,
     "gbGuid": "3030-12850",
-    "tgdbId": 10089,
     "details": [
+      "3DO Interactive Multiplayer launch title",
       "3do Interactive Multiplayer exclusive"
     ],
     "isExclusive": [
@@ -165,7 +165,16 @@
         "tgdbId": 25
       }
     ],
-    "isLaunchTitle": false,
+    "isLaunchTitle": [
+      {
+        "name": "3DO Interactive Multiplayer",
+        "id": "ccl35",
+        "igdbId": 50,
+        "gbId": 26,
+        "gbGuid": "3045-26",
+        "tgdbId": 25
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },

@@ -33,7 +33,7 @@ function getNewEntry(game) {
 function launchExclusives(data, which, pData, final) {
   return new Promise((resolve, reject) => {
     try {
-      const listLast = (data && data.length - 1) || -1;
+      const listLast = data && data.length > 0 ? data.length - 1 : -1;
       if (listLast > -1) {
         const whichProp = which === 'exclusives' ? 'isExclusive' : 'isLaunchTitle';
         let finalClone = _cloneDeep(final);
@@ -215,8 +215,9 @@ function handleSpecial(lists, final, pData) {
 }
 
 (async function() {
-  await lists.forEach(async list => {
+  for (let i = 0; i < lists.length; i++) {
     try {
+      const list = lists[i];
       const platformData = masterList.filter(item => item.id === list.id)[0];
       const launchTitles = await launchExclusives(list.launchTitles, 'launch', platformData, []);
       if (launchTitles.error) {
@@ -261,8 +262,8 @@ function handleSpecial(lists, final, pData) {
           console.log(chalk.green.bold(`File ${list.output} written!`));
         }
       });
-    } catch (err) {
+    } catch (error) {
       console.log(chalk.red.bold('Final catch block errors', err));
     }
-  });
+  }
 })();

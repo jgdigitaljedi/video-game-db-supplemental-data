@@ -149,6 +149,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ngbexX - Nintendo Game Boy console exclusives (nintendoGameBoyExclusives.json | GAMES LIST)
 - ngcdexX - SNK Neo Geo CD console exclusives (neoGeoCdExclusives.json | GAMES LIST)
 - ngpcexX - SNK Neo Geo Pocket Color console exclusives (neoGeoPocketColorExclusives.json | GAMES LIST)
+- nn3dexX - Nintendo New 3DS console exclusives (nintendoNew3DSExclusives.json | GAMES LIST)
 - nswexX - Nintendo Switch console exclusives (nintendoSwitchExclusives.json | GAMES LIST)
 - nvbexX - Nintendo Virtual Boy console exclusives (virtualBoyExclusives.json | GAMES LIST)
 - nwiiexX - Nintendo Wii console exclusives (nintendoWiiExclusives.json | GAMES LIST)

@@ -21,3 +21,4 @@ Launch titles and platform exclusives are my core data points here for a platfor
 | NEC PC-FX                        |     | X   |
 | Fairchild Channel F              | X   | X   |
 | XaviXPORT                        |     | X   |
+| Nintendo New 3DS                 | X   |     |

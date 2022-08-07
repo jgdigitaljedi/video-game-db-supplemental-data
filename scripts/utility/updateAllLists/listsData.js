@@ -860,10 +860,23 @@ module.exports.listData = [
     name: 'SSD Company Limited XaviXPORT',
     id: 'ccl58',
     prefix: 'sxp',
-    launchTitles: require('../../../finalOutput/smallFiles/launchTitles/xavixPortLaunchTitles.json'),
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/xavixPortLaunchTitles.json')),
     exclusives: null,
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'XaviXPORT.json')
+  },
+  {
+    name: 'New Nintendo 3DS',
+    id: 'ccl59',
+    prefix: 'nn3d',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/nintendoNew3DSLaunchTitles.json')),
+    exclusives: require(path.resolve(
+      smallFiles,
+      'platformExclusives/nintendoNew3DSExclusives.json'
+    )),
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'NintendoNew3DS.json')
   }
 ];
