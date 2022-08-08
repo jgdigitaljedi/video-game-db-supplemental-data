@@ -893,7 +893,7 @@ module.exports.listData = [
     name: 'Bandai Playdia',
     id: 'ccl61',
     prefix: 'bp',
-    launchTitles: null,
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/bandaiPlaydiaLaunchTitles.json')),
     exclusives: require(path.resolve(
       smallFiles,
       'platformExclusives/bandaiPlaydiaExclusives.json'

@@ -92,7 +92,7 @@ function getMisprintObj({ image, details, type }) {
 function misprintLogic(data, pData, final) {
   return new Promise((resolve, reject) => {
     try {
-      const listLast = (data && data.length - 1) || 0;
+      const listLast = data && data.length > 0 ? data.length - 1 : -1;
       if (listLast > 0) {
         let finalClone = _cloneDeep(final);
         for (let i = 0; i < data.length; i++) {
@@ -130,7 +130,7 @@ async function handleSpecialList(list, pData, final) {
       if (!Array.isArray(finalClone)) {
         finalClone = [];
       }
-      const listLast = (list && list.length - 1) || 0;
+      const listLast = list && list.length > 0 ? list.length - 1 : -1;
       for (let i = 0; i < list.length; i++) {
         const finalsIds = finalClone.map(g => g.igdbId);
         const finalsName = finalClone.map(g => g.name);
@@ -189,7 +189,7 @@ async function handleSpecialList(list, pData, final) {
 function handleSpecial(lists, final, pData) {
   return new Promise(async (resolve, reject) => {
     try {
-      const lastList = (lists && lists.length - 1) || 0;
+      const lastList = lists && lists.length > 0 ? lists.length - 1 : -1;
       let finalClone = _cloneDeep(final);
       if (lists && lastList > -1) {
         for (let i = 0; i < lists.length; i++) {

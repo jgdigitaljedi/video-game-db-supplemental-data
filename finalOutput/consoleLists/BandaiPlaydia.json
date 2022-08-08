@@ -6,6 +6,7 @@
     "gbId": 41295,
     "gbGuid": "3030-41295",
     "details": [
+      "Bandai Playdia launch title",
       "Bandai Playdia exclusive"
     ],
     "isExclusive": [
@@ -17,7 +18,15 @@
         "gbGuid": "3045-127"
       }
     ],
-    "isLaunchTitle": false,
+    "isLaunchTitle": [
+      {
+        "name": "Bandai Playdia",
+        "id": "ccl61",
+        "igdbId": 308,
+        "gbId": 127,
+        "gbGuid": "3045-127"
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
@@ -138,6 +147,7 @@
     "gbId": 34486,
     "gbGuid": "3030-34486",
     "details": [
+      "Bandai Playdia launch title",
       "Bandai Playdia exclusive"
     ],
     "isExclusive": [
@@ -149,7 +159,15 @@
         "gbGuid": "3045-127"
       }
     ],
-    "isLaunchTitle": false,
+    "isLaunchTitle": [
+      {
+        "name": "Bandai Playdia",
+        "id": "ccl61",
+        "igdbId": 308,
+        "gbId": 127,
+        "gbGuid": "3045-127"
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   },
@@ -172,6 +190,28 @@
       }
     ],
     "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "SD Gundam Daizukan",
+    "id": "bp8",
+    "igdbId": 65997,
+    "gbId": 35037,
+    "gbGuid": "3030-35037",
+    "details": [
+      "Bandai Playdia launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Bandai Playdia",
+        "id": "ccl61",
+        "igdbId": 308,
+        "gbId": 127,
+        "gbGuid": "3045-127"
+      }
+    ],
     "special": [],
     "misprintsErrors": []
   }

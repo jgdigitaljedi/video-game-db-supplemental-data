@@ -22,6 +22,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ajltX - Atari Jaguar launch titles (atariJaguarLaunchTitles.json) | GAMES LIST
 - atcdX - Atari Jaguar CD launch titles (atariJaguarCdLaunchTitles.json) | GAMES LIST
 - baltX - Bally Astrocade launch titles (astrocadeLaunchTitles.json) | GAMES LIST
+- bpltX - Bandai Playdia launch titles (bandaiPlaydiaLaunchTitles.json) | GAMES LIST
 - cdiltX - Philips CD-i launch titles (cdiLaunchTitles.json) | GAMES LIST
 - comltX - Game Com launch titles (gameComLaunchTitles.json) | GAMES LIST
 - cvltX - ColecoVision launch titles (colecoVisionLaunchTitles.json) | GAMES LIST
