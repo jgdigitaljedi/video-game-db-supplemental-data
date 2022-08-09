@@ -98,6 +98,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - a7800lgX - Atari 7800 light gun games (atari7800LightGunGames.json) | GAMES LIST
 - biX - games banned in various countries (bannedInternationally.json) | GAMES LIST
 - dsienX - Nintendo DS games with enhanced features on DSi (nintendoDsGameDsiEnhanced.json) | GAMES LIST
+- dsijpX - Nintendo DS games with enhanced features on DSi (Japan) (nintendoDsGameDsiEnhancedJapan.json) | GAMES LIST
 - gbbgX - Genesis black box grid games (blackBoxGridGenesisGames.json) | GAMES LIST
 - mxb360lgX - Microsoft Xbox 360 light gun games (microsoftXbox360LightGunGames.json) | GAMES LIST
 - mxblgX - Microsoft Xbox light gun games (microsoftXboxLightGunGames.json) | GAMES LIST

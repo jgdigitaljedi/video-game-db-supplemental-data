@@ -2603,8 +2603,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "Chibi-Robo: Park Patrol",
+    "name": "Chara-Chinko",
     "id": "nds107",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Chibi-Robo: Park Patrol",
+    "id": "nds108",
     "igdbId": 21307,
     "gbId": 21629,
     "gbGuid": "3030-21629",
@@ -2628,7 +2654,7 @@
   },
   {
     "name": "Chicken Hunter",
-    "id": "nds108",
+    "id": "nds109",
     "igdbId": null,
     "gbId": 25928,
     "gbGuid": "3030-25928",
@@ -2652,7 +2678,7 @@
   },
   {
     "name": "Children of Mana",
-    "id": "nds109",
+    "id": "nds110",
     "igdbId": 14988,
     "gbId": 9471,
     "gbGuid": "3030-9471",
@@ -2676,7 +2702,7 @@
   },
   {
     "name": "Chronicles of Mystery: The Secret Tree of Life",
-    "id": "nds110",
+    "id": "nds111",
     "igdbId": 66175,
     "gbId": 33587,
     "gbGuid": "3030-33587",
@@ -2702,7 +2728,7 @@
   },
   {
     "name": "Classic Word Games",
-    "id": "nds111",
+    "id": "nds112",
     "igdbId": 79535,
     "gbId": 26876,
     "gbGuid": "3030-26876",
@@ -2728,7 +2754,7 @@
   },
   {
     "name": "Club Penguin: Elite Penguin Force",
-    "id": "nds112",
+    "id": "nds113",
     "igdbId": 78695,
     "gbId": 24113,
     "gbGuid": "3030-24113",
@@ -2752,7 +2778,7 @@
   },
   {
     "name": "Clubhouse Games",
-    "id": "nds113",
+    "id": "nds114",
     "igdbId": 18597,
     "gbId": 8573,
     "gbGuid": "3030-8573",
@@ -2776,7 +2802,7 @@
   },
   {
     "name": "Code (video game)",
-    "id": "nds114",
+    "id": "nds115",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2799,7 +2825,7 @@
   },
   {
     "name": "Code Lyoko",
-    "id": "nds115",
+    "id": "nds116",
     "igdbId": 8453,
     "gbId": 13447,
     "gbGuid": "3030-13447",
@@ -2823,7 +2849,7 @@
   },
   {
     "name": "Code Lyoko: Fall of X.A.N.A.",
-    "id": "nds116",
+    "id": "nds117",
     "igdbId": 8454,
     "gbId": 25324,
     "gbGuid": "3030-25324",
@@ -2847,7 +2873,7 @@
   },
   {
     "name": "Color Cross",
-    "id": "nds117",
+    "id": "nds118",
     "igdbId": 21268,
     "gbId": null,
     "gbGuid": null,
@@ -2871,7 +2897,7 @@
   },
   {
     "name": "Combat of Giants: Dinosaurs 3D",
-    "id": "nds118",
+    "id": "nds119",
     "igdbId": 7906,
     "gbId": 31766,
     "gbGuid": "3030-31766",
@@ -2895,7 +2921,7 @@
   },
   {
     "name": "Command and Destroy",
-    "id": "nds119",
+    "id": "nds120",
     "igdbId": 47887,
     "gbId": 28423,
     "gbGuid": "3030-28423",
@@ -2919,7 +2945,7 @@
   },
   {
     "name": "Commando: Steel Disaster",
-    "id": "nds120",
+    "id": "nds121",
     "igdbId": 21272,
     "gbId": 21048,
     "gbGuid": "3030-21048",
@@ -2943,7 +2969,7 @@
   },
   {
     "name": "Contact",
-    "id": "nds121",
+    "id": "nds122",
     "igdbId": 20581,
     "gbId": 2856,
     "gbGuid": "3030-2856",
@@ -2967,7 +2993,7 @@
   },
   {
     "name": "Cooking Guide: Can't Decide What to Eat?",
-    "id": "nds122",
+    "id": "nds123",
     "igdbId": 48047,
     "gbId": 23074,
     "gbGuid": "3030-23074",
@@ -2991,7 +3017,7 @@
   },
   {
     "name": "Cooking Mama",
-    "id": "nds123",
+    "id": "nds124",
     "igdbId": 3060,
     "gbId": 6163,
     "gbGuid": "3030-6163",
@@ -3009,7 +3035,7 @@
   },
   {
     "name": "Cooking Mama 2: Dinner with Friends",
-    "id": "nds124",
+    "id": "nds125",
     "igdbId": 3062,
     "gbId": 7604,
     "gbGuid": "3030-7604",
@@ -3033,7 +3059,7 @@
   },
   {
     "name": "Cooking Mama 3: Shop & Chop",
-    "id": "nds125",
+    "id": "nds126",
     "igdbId": 3065,
     "gbId": 26385,
     "gbGuid": "3030-26385",
@@ -3057,7 +3083,7 @@
   },
   {
     "name": "Cory in the House",
-    "id": "nds126",
+    "id": "nds127",
     "igdbId": 47969,
     "gbId": 25994,
     "gbGuid": "3030-25994",
@@ -3080,8 +3106,86 @@
     "misprintsErrors": []
   },
   {
+    "name": "Cosmetic Paradise",
+    "id": "nds128",
+    "igdbId": 47871,
+    "gbId": 24338,
+    "gbGuid": "3030-24338",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cosmetic Paradise: Kirei no Mahou",
+    "id": "nds129",
+    "igdbId": 130393,
+    "gbId": 77031,
+    "gbGuid": "3030-77031",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cosmetic Paradise: Princess Life",
+    "id": "nds130",
+    "igdbId": 130392,
+    "gbId": 77032,
+    "gbGuid": "3030-77032",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Cosmos X2",
-    "id": "nds127",
+    "id": "nds131",
     "igdbId": 85054,
     "gbId": null,
     "gbGuid": null,
@@ -3104,7 +3208,7 @@
   },
   {
     "name": "Crafting Mama",
-    "id": "nds128",
+    "id": "nds132",
     "igdbId": 47810,
     "gbId": 30379,
     "gbGuid": "3030-30379",
@@ -3128,7 +3232,7 @@
   },
   {
     "name": "Crash Boom Bang!",
-    "id": "nds129",
+    "id": "nds133",
     "igdbId": 1196,
     "gbId": null,
     "gbGuid": null,
@@ -3152,7 +3256,7 @@
   },
   {
     "name": "Crayola Treasure Adventures",
-    "id": "nds130",
+    "id": "nds134",
     "igdbId": 21363,
     "gbId": 53524,
     "gbGuid": "3030-53524",
@@ -3176,7 +3280,7 @@
   },
   {
     "name": "Crime Lab: Body of Evidence",
-    "id": "nds131",
+    "id": "nds135",
     "igdbId": 23665,
     "gbId": 76526,
     "gbGuid": "3030-76526",
@@ -3202,7 +3306,7 @@
   },
   {
     "name": "Crime Scene",
-    "id": "nds132",
+    "id": "nds136",
     "igdbId": 21653,
     "gbId": 31044,
     "gbGuid": "3030-31044",
@@ -3226,7 +3330,7 @@
   },
   {
     "name": "Crosswords DS",
-    "id": "nds133",
+    "id": "nds137",
     "igdbId": 47766,
     "gbId": 21610,
     "gbGuid": "3030-21610",
@@ -3249,7 +3353,7 @@
   },
   {
     "name": "Custom Robo Arena",
-    "id": "nds134",
+    "id": "nds138",
     "igdbId": 3466,
     "gbId": 17424,
     "gbGuid": "3030-17424",
@@ -3273,7 +3377,7 @@
   },
   {
     "name": "DS Dengeki Bunko: Inukami! feat. Animation",
-    "id": "nds135",
+    "id": "nds139",
     "igdbId": 112538,
     "gbId": 70004,
     "gbGuid": "3030-70004",
@@ -3296,7 +3400,7 @@
   },
   {
     "name": "DS Dengeki Bunko: Iria no Sora, UFO no Natsu",
-    "id": "nds136",
+    "id": "nds140",
     "igdbId": 112535,
     "gbId": 70005,
     "gbGuid": "3030-70005",
@@ -3318,8 +3422,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "DS-Pico Series: Sanrio Puro Land - Waku Waku Okaimono - Suteki na Oheya Otsukuri Masho",
+    "id": "nds141",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Daigasso! Band Brothers",
-    "id": "nds137",
+    "id": "nds142",
     "igdbId": 28559,
     "gbId": 505,
     "gbGuid": "3030-505",
@@ -3343,7 +3473,7 @@
   },
   {
     "name": "Daniel X: The Ultimate Power",
-    "id": "nds138",
+    "id": "nds143",
     "igdbId": 67188,
     "gbId": 29573,
     "gbGuid": "3030-29573",
@@ -3369,7 +3499,7 @@
   },
   {
     "name": "Dead 'N' Furious",
-    "id": "nds139",
+    "id": "nds144",
     "igdbId": 85072,
     "gbId": null,
     "gbGuid": null,
@@ -3392,7 +3522,7 @@
   },
   {
     "name": "Death Jr. and the Science Fair of Doom",
-    "id": "nds140",
+    "id": "nds145",
     "igdbId": 21412,
     "gbId": 25992,
     "gbGuid": "3030-25992",
@@ -3416,7 +3546,7 @@
   },
   {
     "name": "Dengeki Gakuen RPG: Cross of Venus",
-    "id": "nds141",
+    "id": "nds146",
     "igdbId": 70697,
     "gbId": 24247,
     "gbGuid": "3030-24247",
@@ -3439,7 +3569,7 @@
   },
   {
     "name": "Densetsu no Stafi 4",
-    "id": "nds142",
+    "id": "nds147",
     "igdbId": 85080,
     "gbId": 13455,
     "gbGuid": "3030-13455",
@@ -3462,7 +3592,7 @@
   },
   {
     "name": "Der Fluch der Osterinsel",
-    "id": "nds143",
+    "id": "nds148",
     "igdbId": 6664,
     "gbId": null,
     "gbGuid": null,
@@ -3488,7 +3618,7 @@
   },
   {
     "name": "Devilish: Ball Bounder",
-    "id": "nds144",
+    "id": "nds149",
     "igdbId": 122509,
     "gbId": null,
     "gbGuid": null,
@@ -3511,7 +3641,7 @@
   },
   {
     "name": "Diamond Trust of London",
-    "id": "nds145",
+    "id": "nds150",
     "igdbId": 9138,
     "gbId": 31101,
     "gbGuid": "3030-31101",
@@ -3535,7 +3665,7 @@
   },
   {
     "name": "Dig Dug: Digging Strike",
-    "id": "nds146",
+    "id": "nds151",
     "igdbId": 47729,
     "gbId": 23674,
     "gbGuid": "3030-23674",
@@ -3559,7 +3689,7 @@
   },
   {
     "name": "Digimon Story: Lost Evolution",
-    "id": "nds147",
+    "id": "nds152",
     "igdbId": 67307,
     "gbId": 29253,
     "gbGuid": "3030-29253",
@@ -3583,7 +3713,7 @@
   },
   {
     "name": "Digimon World Championship",
-    "id": "nds148",
+    "id": "nds153",
     "igdbId": 47897,
     "gbId": 22672,
     "gbGuid": "3030-22672",
@@ -3607,7 +3737,7 @@
   },
   {
     "name": "Digimon World DS",
-    "id": "nds149",
+    "id": "nds154",
     "igdbId": 20609,
     "gbId": 21933,
     "gbGuid": "3030-21933",
@@ -3631,7 +3761,7 @@
   },
   {
     "name": "Digimon World: Dawn",
-    "id": "nds150",
+    "id": "nds155",
     "igdbId": 21521,
     "gbId": 24388,
     "gbGuid": "3030-24388",
@@ -3655,7 +3785,7 @@
   },
   {
     "name": "Digimon World: Dusk",
-    "id": "nds151",
+    "id": "nds156",
     "igdbId": 78285,
     "gbId": 24388,
     "gbGuid": "3030-24388",
@@ -3679,7 +3809,7 @@
   },
   {
     "name": "Dino Master",
-    "id": "nds152",
+    "id": "nds157",
     "igdbId": 69143,
     "gbId": 25884,
     "gbGuid": "3030-25884",
@@ -3703,7 +3833,7 @@
   },
   {
     "name": "Dinosaur King",
-    "id": "nds153",
+    "id": "nds158",
     "igdbId": 80832,
     "gbId": 21079,
     "gbGuid": "3030-21079",
@@ -3727,7 +3857,7 @@
   },
   {
     "name": "Disney Camp Rock: The Final Jam",
-    "id": "nds154",
+    "id": "nds159",
     "igdbId": 122508,
     "gbId": 77038,
     "gbGuid": "3030-77038",
@@ -3753,7 +3883,7 @@
   },
   {
     "name": "Disney Friends",
-    "id": "nds155",
+    "id": "nds160",
     "igdbId": 47859,
     "gbId": 19964,
     "gbGuid": "3030-19964",
@@ -3777,7 +3907,7 @@
   },
   {
     "name": "Disney High School Musical 2: Work This Out!",
-    "id": "nds156",
+    "id": "nds161",
     "igdbId": 21371,
     "gbId": 22458,
     "gbGuid": "3030-22458",
@@ -3801,7 +3931,7 @@
   },
   {
     "name": "Disney High School Musical 3: Senior Year",
-    "id": "nds157",
+    "id": "nds162",
     "igdbId": 4912,
     "gbId": 27864,
     "gbGuid": "3030-27864",
@@ -3825,7 +3955,7 @@
   },
   {
     "name": "Disney High School Musical: Makin' the Cut",
-    "id": "nds158",
+    "id": "nds163",
     "igdbId": 44063,
     "gbId": 27903,
     "gbGuid": "3030-27903",
@@ -3849,7 +3979,7 @@
   },
   {
     "name": "Disney Princess: Magical Jewels",
-    "id": "nds159",
+    "id": "nds164",
     "igdbId": 47698,
     "gbId": 74519,
     "gbGuid": "3030-74519",
@@ -3873,7 +4003,7 @@
   },
   {
     "name": "Disney's American Dragon: Jake Long, Attack of the Dark Dragon",
-    "id": "nds160",
+    "id": "nds165",
     "igdbId": 8464,
     "gbId": 17666,
     "gbGuid": "3030-17666",
@@ -3897,7 +4027,7 @@
   },
   {
     "name": "Disney's Herbie: Rescue Rally",
-    "id": "nds161",
+    "id": "nds166",
     "igdbId": 73552,
     "gbId": 16248,
     "gbGuid": "3030-16248",
@@ -3921,7 +4051,7 @@
   },
   {
     "name": "Disney/Pixar Ratatouille: Food Frenzy",
-    "id": "nds162",
+    "id": "nds167",
     "igdbId": 18296,
     "gbId": 21778,
     "gbGuid": "3030-21778",
@@ -3945,7 +4075,7 @@
   },
   {
     "name": "Doctor Who: Evacuation Earth",
-    "id": "nds163",
+    "id": "nds168",
     "igdbId": 47842,
     "gbId": 32424,
     "gbGuid": "3030-32424",
@@ -3969,7 +4099,7 @@
   },
   {
     "name": "Dokapon Journey",
-    "id": "nds164",
+    "id": "nds169",
     "igdbId": 21121,
     "gbId": 24299,
     "gbGuid": "3030-24299",
@@ -3993,7 +4123,7 @@
   },
   {
     "name": "Doki Doki Majo Shinpan! 2 DUO",
-    "id": "nds165",
+    "id": "nds170",
     "igdbId": 21456,
     "gbId": 21702,
     "gbGuid": "3030-21702",
@@ -4016,7 +4146,7 @@
   },
   {
     "name": "Doki Majo Plus",
-    "id": "nds166",
+    "id": "nds171",
     "igdbId": 69120,
     "gbId": 25950,
     "gbGuid": "3030-25950",
@@ -4039,7 +4169,7 @@
   },
   {
     "name": "Dokidoki Majo Shinpan!",
-    "id": "nds167",
+    "id": "nds172",
     "igdbId": 47970,
     "gbId": 4707,
     "gbGuid": "3030-4707",
@@ -4063,7 +4193,7 @@
   },
   {
     "name": "Dolphin Island: Underwater Adventures",
-    "id": "nds168",
+    "id": "nds173",
     "igdbId": 122510,
     "gbId": 48555,
     "gbGuid": "3030-48555",
@@ -4099,7 +4229,7 @@
   },
   {
     "name": "Doodle Hex",
-    "id": "nds169",
+    "id": "nds174",
     "igdbId": 21475,
     "gbId": 21607,
     "gbGuid": "3030-21607",
@@ -4123,7 +4253,7 @@
   },
   {
     "name": "Dr. Mario Express",
-    "id": "nds170",
+    "id": "nds175",
     "igdbId": 47847,
     "gbId": 24924,
     "gbGuid": "3030-24924",
@@ -4147,7 +4277,7 @@
   },
   {
     "name": "Dr. Seuss: How the Grinch Stole Christmas!",
-    "id": "nds171",
+    "id": "nds176",
     "igdbId": 15489,
     "gbId": 17539,
     "gbGuid": "3030-17539",
@@ -4171,7 +4301,7 @@
   },
   {
     "name": "Draglade",
-    "id": "nds172",
+    "id": "nds177",
     "igdbId": 21542,
     "gbId": 20498,
     "gbGuid": "3030-20498",
@@ -4195,7 +4325,7 @@
   },
   {
     "name": "Dragon Ball Kai: Ultimate Butouden",
-    "id": "nds173",
+    "id": "nds178",
     "igdbId": 47834,
     "gbId": 33253,
     "gbGuid": "3030-33253",
@@ -4219,7 +4349,7 @@
   },
   {
     "name": "Dragon Ball Z: Attack of the Saiyans",
-    "id": "nds174",
+    "id": "nds179",
     "igdbId": 21196,
     "gbId": 25435,
     "gbGuid": "3030-25435",
@@ -4243,7 +4373,7 @@
   },
   {
     "name": "Dragon Ball Z: Harukanaru Densetsu",
-    "id": "nds175",
+    "id": "nds180",
     "igdbId": 21426,
     "gbId": 24289,
     "gbGuid": "3030-24289",
@@ -4267,7 +4397,7 @@
   },
   {
     "name": "Dragon Ball: Origins",
-    "id": "nds176",
+    "id": "nds181",
     "igdbId": 19308,
     "gbId": 22006,
     "gbGuid": "3030-22006",
@@ -4291,7 +4421,7 @@
   },
   {
     "name": "Dragon Ball: Origins 2",
-    "id": "nds177",
+    "id": "nds182",
     "igdbId": 20412,
     "gbId": 29254,
     "gbGuid": "3030-29254",
@@ -4315,7 +4445,7 @@
   },
   {
     "name": "Dragon Quest Heroes: Rocket Slime",
-    "id": "nds178",
+    "id": "nds183",
     "igdbId": 1824,
     "gbId": 10252,
     "gbGuid": "3030-10252",
@@ -4339,7 +4469,7 @@
   },
   {
     "name": "Dragon Quest IX: Sentinels of the Starry Skies",
-    "id": "nds179",
+    "id": "nds184",
     "igdbId": 1820,
     "gbId": 21666,
     "gbGuid": "3030-21666",
@@ -4363,7 +4493,7 @@
   },
   {
     "name": "Dragon Quest Monsters: Joker",
-    "id": "nds180",
+    "id": "nds185",
     "igdbId": 17460,
     "gbId": 6632,
     "gbGuid": "3030-6632",
@@ -4387,7 +4517,7 @@
   },
   {
     "name": "Dragon Quest Monsters: Joker 2",
-    "id": "nds181",
+    "id": "nds186",
     "igdbId": 21727,
     "gbId": 29922,
     "gbGuid": "3030-29922",
@@ -4411,7 +4541,7 @@
   },
   {
     "name": "Dragon Quest Wars",
-    "id": "nds182",
+    "id": "nds187",
     "igdbId": 1825,
     "gbId": 26476,
     "gbGuid": "3030-26476",
@@ -4435,7 +4565,7 @@
   },
   {
     "name": "Dragon Tamer Sound Spirit",
-    "id": "nds183",
+    "id": "nds188",
     "igdbId": 123156,
     "gbId": 73182,
     "gbGuid": "3030-73182",
@@ -4458,7 +4588,7 @@
   },
   {
     "name": "Drawn To Life: The Next Chapter",
-    "id": "nds184",
+    "id": "nds189",
     "igdbId": 4820,
     "gbId": 26615,
     "gbGuid": "3030-26615",
@@ -4482,7 +4612,7 @@
   },
   {
     "name": "Drawn to Life: SpongeBob SquarePants Edition",
-    "id": "nds185",
+    "id": "nds190",
     "igdbId": 4822,
     "gbId": 21076,
     "gbGuid": "3030-21076",
@@ -4506,7 +4636,7 @@
   },
   {
     "name": "Drone Tactics",
-    "id": "nds186",
+    "id": "nds191",
     "igdbId": 21487,
     "gbId": 20506,
     "gbGuid": "3030-20506",
@@ -4530,7 +4660,7 @@
   },
   {
     "name": "Ducati Moto",
-    "id": "nds187",
+    "id": "nds192",
     "igdbId": 67746,
     "gbId": 27923,
     "gbGuid": "3030-27923",
@@ -4554,7 +4684,7 @@
   },
   {
     "name": "Duel Love",
-    "id": "nds188",
+    "id": "nds193",
     "igdbId": 70538,
     "gbId": 24809,
     "gbGuid": "3030-24809",
@@ -4577,7 +4707,7 @@
   },
   {
     "name": "Duke Nukem: Critical Mass",
-    "id": "nds189",
+    "id": "nds194",
     "igdbId": 47967,
     "gbId": null,
     "gbGuid": null,
@@ -4601,7 +4731,7 @@
   },
   {
     "name": "Dynasty Warriors DS: Fighter's Battle",
-    "id": "nds190",
+    "id": "nds195",
     "igdbId": 21534,
     "gbId": 23506,
     "gbGuid": "3030-23506",
@@ -4625,7 +4755,7 @@
   },
   {
     "name": "Eco-Creatures: Save the Forest",
-    "id": "nds191",
+    "id": "nds196",
     "igdbId": 21280,
     "gbId": 24124,
     "gbGuid": "3030-24124",
@@ -4649,7 +4779,7 @@
   },
   {
     "name": "Ed, Edd n Eddy: Scam of the Century",
-    "id": "nds192",
+    "id": "nds197",
     "igdbId": 2817,
     "gbId": 20508,
     "gbGuid": "3030-20508",
@@ -4673,7 +4803,7 @@
   },
   {
     "name": "Elebits: The Adventures of Kai and Zero",
-    "id": "nds193",
+    "id": "nds198",
     "igdbId": 47965,
     "gbId": 21723,
     "gbGuid": "3030-21723",
@@ -4697,7 +4827,7 @@
   },
   {
     "name": "Electroplankton",
-    "id": "nds194",
+    "id": "nds199",
     "igdbId": 18340,
     "gbId": 492,
     "gbGuid": "3030-492",
@@ -4721,7 +4851,7 @@
   },
   {
     "name": "Elite Beat Agents",
-    "id": "nds195",
+    "id": "nds200",
     "igdbId": 9109,
     "gbId": 11982,
     "gbGuid": "3030-11982",
@@ -4745,7 +4875,7 @@
   },
   {
     "name": "Elite Forces: Unit 77",
-    "id": "nds196",
+    "id": "nds201",
     "igdbId": 21291,
     "gbId": 25751,
     "gbGuid": "3030-25751",
@@ -4768,8 +4898,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Elminage II DS Remix: Sousei no Megami to Unmei no Daichi",
+    "id": "nds202",
+    "igdbId": 21028,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Emergency Room: Real Life Rescues",
-    "id": "nds197",
+    "id": "nds203",
     "igdbId": 24322,
     "gbId": 27869,
     "gbGuid": "3030-27869",
@@ -4793,7 +4949,7 @@
   },
   {
     "name": "Emily the Strange: Strangerous",
-    "id": "nds198",
+    "id": "nds204",
     "igdbId": 47765,
     "gbId": 35382,
     "gbGuid": "3030-35382",
@@ -4819,7 +4975,7 @@
   },
   {
     "name": "Enchanted",
-    "id": "nds199",
+    "id": "nds205",
     "igdbId": 13641,
     "gbId": 27902,
     "gbGuid": "3030-27902",
@@ -4843,7 +4999,7 @@
   },
   {
     "name": "Essential Sudoku DS",
-    "id": "nds200",
+    "id": "nds206",
     "igdbId": 68784,
     "gbId": 12723,
     "gbGuid": "3030-12723",
@@ -4866,7 +5022,7 @@
   },
   {
     "name": "Etrian Odyssey",
-    "id": "nds201",
+    "id": "nds207",
     "igdbId": 14716,
     "gbId": 14350,
     "gbGuid": "3030-14350",
@@ -4890,7 +5046,7 @@
   },
   {
     "name": "Etrian Odyssey II: Heroes of Lagaard",
-    "id": "nds202",
+    "id": "nds208",
     "igdbId": 14717,
     "gbId": 20511,
     "gbGuid": "3030-20511",
@@ -4914,7 +5070,7 @@
   },
   {
     "name": "Etrian Odyssey III: The Drowned City",
-    "id": "nds203",
+    "id": "nds209",
     "igdbId": 14718,
     "gbId": 29469,
     "gbGuid": "3030-29469",
@@ -4938,7 +5094,7 @@
   },
   {
     "name": "FIFA 11",
-    "id": "nds204",
+    "id": "nds210",
     "igdbId": 503,
     "gbId": 31651,
     "gbGuid": "3030-31651",
@@ -4964,7 +5120,7 @@
   },
   {
     "name": "Family Park Tycoon",
-    "id": "nds205",
+    "id": "nds211",
     "igdbId": 123310,
     "gbId": null,
     "gbGuid": null,
@@ -4987,7 +5143,7 @@
   },
   {
     "name": "Fancy Nancy: Tea Party Time!",
-    "id": "nds206",
+    "id": "nds212",
     "igdbId": 66370,
     "gbId": 32690,
     "gbGuid": "3030-32690",
@@ -5013,7 +5169,7 @@
   },
   {
     "name": "Fashion Designer: Style Icon",
-    "id": "nds207",
+    "id": "nds213",
     "igdbId": 123309,
     "gbId": null,
     "gbGuid": null,
@@ -5036,7 +5192,7 @@
   },
   {
     "name": "Feel the Magic: XY/XX",
-    "id": "nds208",
+    "id": "nds214",
     "igdbId": 18331,
     "gbId": 11248,
     "gbGuid": "3030-11248",
@@ -5070,7 +5226,7 @@
   },
   {
     "name": "Fighting Fantasy: The Warlock of Firetop Mountain",
-    "id": "nds209",
+    "id": "nds215",
     "igdbId": 81501,
     "gbId": 27265,
     "gbGuid": "3030-27265",
@@ -5094,7 +5250,7 @@
   },
   {
     "name": "Final Fantasy Crystal Chronicles: Ring of Fates",
-    "id": "nds210",
+    "id": "nds216",
     "igdbId": 9585,
     "gbId": 22015,
     "gbGuid": "3030-22015",
@@ -5118,7 +5274,7 @@
   },
   {
     "name": "Final Fantasy Fables: Chocobo Tales",
-    "id": "nds211",
+    "id": "nds217",
     "igdbId": 41830,
     "gbId": 3668,
     "gbGuid": "3030-3668",
@@ -5142,7 +5298,7 @@
   },
   {
     "name": "Final Fantasy Tactics A2: Grimoire of the Rift",
-    "id": "nds212",
+    "id": "nds218",
     "igdbId": 2408,
     "gbId": 21286,
     "gbGuid": "3030-21286",
@@ -5166,7 +5322,7 @@
   },
   {
     "name": "Final Fantasy XII: Revenant Wings",
-    "id": "nds213",
+    "id": "nds219",
     "igdbId": 392,
     "gbId": 10751,
     "gbGuid": "3030-10751",
@@ -5190,7 +5346,7 @@
   },
   {
     "name": "Final Fantasy: The 4 Heroes of Light",
-    "id": "nds214",
+    "id": "nds220",
     "igdbId": 17463,
     "gbId": 27186,
     "gbGuid": "3030-27186",
@@ -5214,12 +5370,13 @@
   },
   {
     "name": "Fire Emblem: New Mystery of the Emblem",
-    "id": "nds215",
+    "id": "nds221",
     "igdbId": 1445,
     "gbId": null,
     "gbGuid": null,
     "details": [
-      "Nintendo DS exclusive"
+      "Nintendo DS exclusive",
+      "Nintendo DS game with enhanced features on DSi (Japan)"
     ],
     "isExclusive": [
       {
@@ -5232,12 +5389,24 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Flash Focus: Vision Training in Minutes a Day",
-    "id": "nds216",
+    "id": "nds222",
     "igdbId": 21912,
     "gbId": 14434,
     "gbGuid": "3030-14434",
@@ -5261,7 +5430,7 @@
   },
   {
     "name": "Flipnote Studio",
-    "id": "nds217",
+    "id": "nds223",
     "igdbId": 85636,
     "gbId": 24930,
     "gbGuid": "3030-24930",
@@ -5285,7 +5454,7 @@
   },
   {
     "name": "Florist Shop",
-    "id": "nds218",
+    "id": "nds224",
     "igdbId": 44070,
     "gbId": null,
     "gbGuid": null,
@@ -5309,7 +5478,7 @@
   },
   {
     "name": "Football Academy",
-    "id": "nds219",
+    "id": "nds225",
     "igdbId": 124015,
     "gbId": null,
     "gbGuid": null,
@@ -5332,7 +5501,7 @@
   },
   {
     "name": "Fossil Fighters",
-    "id": "nds220",
+    "id": "nds226",
     "igdbId": 20978,
     "gbId": 27048,
     "gbGuid": "3030-27048",
@@ -5356,7 +5525,7 @@
   },
   {
     "name": "Fossil Fighters: Champions",
-    "id": "nds221",
+    "id": "nds227",
     "igdbId": 20979,
     "gbId": 35583,
     "gbGuid": "3030-35583",
@@ -5393,7 +5562,7 @@
   },
   {
     "name": "Foto Showdown",
-    "id": "nds222",
+    "id": "nds228",
     "igdbId": 47903,
     "gbId": 29542,
     "gbGuid": "3030-29542",
@@ -5417,7 +5586,7 @@
   },
   {
     "name": "Freedom Wings",
-    "id": "nds223",
+    "id": "nds229",
     "igdbId": 47820,
     "gbId": 15594,
     "gbGuid": "3030-15594",
@@ -5441,7 +5610,7 @@
   },
   {
     "name": "Freshly-Picked: Tingle's Rosy Rupeeland",
-    "id": "nds224",
+    "id": "nds230",
     "igdbId": 11607,
     "gbId": 21239,
     "gbGuid": "3030-21239",
@@ -5465,7 +5634,7 @@
   },
   {
     "name": "From The Abyss",
-    "id": "nds225",
+    "id": "nds231",
     "igdbId": 17266,
     "gbId": 22044,
     "gbGuid": "3030-22044",
@@ -5488,8 +5657,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Fuyu no Sonata DS",
+    "id": "nds232",
+    "igdbId": 124014,
+    "gbId": 75911,
+    "gbGuid": "3030-75911",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki",
-    "id": "nds226",
+    "id": "nds233",
     "igdbId": 73299,
     "gbId": 18424,
     "gbGuid": "3030-18424",
@@ -5512,7 +5707,7 @@
   },
   {
     "name": "Garfield's Nightmare",
-    "id": "nds227",
+    "id": "nds234",
     "igdbId": 67853,
     "gbId": 27498,
     "gbGuid": "3030-27498",
@@ -5536,7 +5731,7 @@
   },
   {
     "name": "Garfield: A Tail of Two Kitties",
-    "id": "nds228",
+    "id": "nds235",
     "igdbId": 23734,
     "gbId": 5016,
     "gbGuid": "3030-5016",
@@ -5560,7 +5755,7 @@
   },
   {
     "name": "Glory of Heracles",
-    "id": "nds229",
+    "id": "nds236",
     "igdbId": 21766,
     "gbId": 26932,
     "gbGuid": "3030-26932",
@@ -5584,7 +5779,7 @@
   },
   {
     "name": "Go Go Cosmo Cops",
-    "id": "nds230",
+    "id": "nds237",
     "details": [
       "Nintendo DS exclusive"
     ],
@@ -5604,7 +5799,7 @@
   },
   {
     "name": "Go! Go! Kokopolo: Harmonious Forest Revenge",
-    "id": "nds231",
+    "id": "nds238",
     "igdbId": 65247,
     "gbId": 38052,
     "gbGuid": "3030-38052",
@@ -5627,7 +5822,7 @@
   },
   {
     "name": "GoPets: Vacation Island",
-    "id": "nds232",
+    "id": "nds239",
     "igdbId": 124019,
     "gbId": null,
     "gbGuid": null,
@@ -5651,7 +5846,7 @@
   },
   {
     "name": "Golden Nugget Casino DS",
-    "id": "nds233",
+    "id": "nds240",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5675,7 +5870,7 @@
   },
   {
     "name": "Golden Sun: Dark Dawn",
-    "id": "nds234",
+    "id": "nds241",
     "igdbId": 1174,
     "gbId": 26833,
     "gbGuid": "3030-26833",
@@ -5699,7 +5894,7 @@
   },
   {
     "name": "Grease",
-    "id": "nds235",
+    "id": "nds242",
     "igdbId": 4895,
     "gbId": 27200,
     "gbGuid": "3030-27200",
@@ -5725,7 +5920,7 @@
   },
   {
     "name": "Guilty Gear Dust Strikers",
-    "id": "nds236",
+    "id": "nds243",
     "igdbId": 9149,
     "gbId": 21376,
     "gbGuid": "3030-21376",
@@ -5749,7 +5944,7 @@
   },
   {
     "name": "Guitar Hero: On Tour",
-    "id": "nds237",
+    "id": "nds244",
     "igdbId": 7088,
     "gbId": 20639,
     "gbGuid": "3030-20639",
@@ -5773,7 +5968,7 @@
   },
   {
     "name": "Guru Logic Champ",
-    "id": "nds238",
+    "id": "nds245",
     "igdbId": 49239,
     "gbId": 13113,
     "gbGuid": "3030-13113",
@@ -5797,7 +5992,7 @@
   },
   {
     "name": "Hamsterz Life",
-    "id": "nds239",
+    "id": "nds246",
     "igdbId": 9248,
     "gbId": 22229,
     "gbGuid": "3030-22229",
@@ -5821,7 +6016,7 @@
   },
   {
     "name": "Hands On! Tangrams",
-    "id": "nds240",
+    "id": "nds247",
     "igdbId": 48043,
     "gbId": 25915,
     "gbGuid": "3030-25915",
@@ -5845,7 +6040,7 @@
   },
   {
     "name": "Hard-Hat Domo",
-    "id": "nds241",
+    "id": "nds248",
     "igdbId": 69134,
     "gbId": 26897,
     "gbGuid": "3030-26897",
@@ -5868,7 +6063,7 @@
   },
   {
     "name": "Harvest Moon DS",
-    "id": "nds242",
+    "id": "nds249",
     "igdbId": 3385,
     "gbId": 12573,
     "gbGuid": "3030-12573",
@@ -5892,7 +6087,7 @@
   },
   {
     "name": "Harvest Moon DS: Grand Bazaar",
-    "id": "nds243",
+    "id": "nds250",
     "igdbId": 3391,
     "gbId": null,
     "gbGuid": null,
@@ -5916,7 +6111,7 @@
   },
   {
     "name": "Harvest Moon DS: Island of Happiness",
-    "id": "nds244",
+    "id": "nds251",
     "igdbId": 3387,
     "gbId": null,
     "gbGuid": null,
@@ -5940,7 +6135,7 @@
   },
   {
     "name": "Harvest Moon DS: Sunshine Islands",
-    "id": "nds245",
+    "id": "nds252",
     "igdbId": 3389,
     "gbId": null,
     "gbGuid": null,
@@ -5964,7 +6159,7 @@
   },
   {
     "name": "Hayate the Combat Butler",
-    "id": "nds246",
+    "id": "nds253",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5987,7 +6182,7 @@
   },
   {
     "name": "Hello Kitty: Big City Dreams",
-    "id": "nds247",
+    "id": "nds254",
     "igdbId": 3686,
     "gbId": 24505,
     "gbGuid": "3030-24505",
@@ -6011,7 +6206,7 @@
   },
   {
     "name": "Henry Hatsworth in the Puzzling Adventure",
-    "id": "nds248",
+    "id": "nds255",
     "igdbId": 9601,
     "gbId": 23282,
     "gbGuid": "3030-23282",
@@ -6035,7 +6230,7 @@
   },
   {
     "name": "Hero's Saga: Laevatein Tactics",
-    "id": "nds249",
+    "id": "nds256",
     "igdbId": 21034,
     "gbId": 24252,
     "gbGuid": "3030-24252",
@@ -6059,7 +6254,7 @@
   },
   {
     "name": "Heroes of Mana",
-    "id": "nds250",
+    "id": "nds257",
     "igdbId": 14990,
     "gbId": 21626,
     "gbGuid": "3030-21626",
@@ -6083,7 +6278,7 @@
   },
   {
     "name": "Hi Hi Puffy AmiYumi: The Genie & the Amp",
-    "id": "nds251",
+    "id": "nds258",
     "igdbId": 2818,
     "gbId": 20524,
     "gbGuid": "3030-20524",
@@ -6107,7 +6302,7 @@
   },
   {
     "name": "Honeycomb Beat",
-    "id": "nds252",
+    "id": "nds259",
     "igdbId": 20685,
     "gbId": 35792,
     "gbGuid": "3030-35792",
@@ -6131,7 +6326,7 @@
   },
   {
     "name": "Hoshigami: Ruining Blue Earth",
-    "id": "nds253",
+    "id": "nds260",
     "igdbId": 45223,
     "gbId": 14011,
     "gbGuid": "3030-14011",
@@ -6155,7 +6350,7 @@
   },
   {
     "name": "Hot Wheels Track Attack",
-    "id": "nds254",
+    "id": "nds261",
     "igdbId": 4917,
     "gbId": 32983,
     "gbGuid": "3030-32983",
@@ -6181,7 +6376,7 @@
   },
   {
     "name": "Hotel Dusk: Room 215",
-    "id": "nds255",
+    "id": "nds262",
     "igdbId": 9249,
     "gbId": 1159,
     "gbGuid": "3030-1159",
@@ -6211,7 +6406,7 @@
   },
   {
     "name": "IL-2 Sturmovik: Birds of Prey",
-    "id": "nds256",
+    "id": "nds263",
     "igdbId": 193298,
     "gbId": 20722,
     "gbGuid": "3030-20722",
@@ -6229,7 +6424,7 @@
   },
   {
     "name": "IQ Sapuri",
-    "id": "nds257",
+    "id": "nds264",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6252,7 +6447,7 @@
   },
   {
     "name": "Imagine: Animal Doctor Care Center",
-    "id": "nds258",
+    "id": "nds265",
     "igdbId": 7948,
     "gbId": 2683,
     "gbGuid": "3030-2683",
@@ -6278,7 +6473,7 @@
   },
   {
     "name": "Imagine: Artist",
-    "id": "nds259",
+    "id": "nds266",
     "igdbId": 7944,
     "gbId": null,
     "gbGuid": null,
@@ -6304,7 +6499,7 @@
   },
   {
     "name": "Imagine: Babyz Fashion",
-    "id": "nds260",
+    "id": "nds267",
     "igdbId": 7946,
     "gbId": 29136,
     "gbGuid": "3030-29136",
@@ -6330,7 +6525,7 @@
   },
   {
     "name": "Imagine: Champion Rider",
-    "id": "nds261",
+    "id": "nds268",
     "igdbId": 7919,
     "gbId": 24401,
     "gbGuid": "3030-24401",
@@ -6356,7 +6551,7 @@
   },
   {
     "name": "Imagine: Fashion Designer World Tour",
-    "id": "nds262",
+    "id": "nds269",
     "igdbId": 7945,
     "gbId": 28452,
     "gbGuid": "3030-28452",
@@ -6382,7 +6577,7 @@
   },
   {
     "name": "Imagine: Fashion Stylist",
-    "id": "nds263",
+    "id": "nds270",
     "igdbId": 7949,
     "gbId": null,
     "gbGuid": null,
@@ -6408,7 +6603,7 @@
   },
   {
     "name": "Imagine: Reporter",
-    "id": "nds264",
+    "id": "nds271",
     "igdbId": 7942,
     "gbId": 29195,
     "gbGuid": "3030-29195",
@@ -6434,7 +6629,7 @@
   },
   {
     "name": "Imagine: Rescue Vet",
-    "id": "nds265",
+    "id": "nds272",
     "igdbId": 147432,
     "gbId": null,
     "gbGuid": null,
@@ -6460,7 +6655,7 @@
   },
   {
     "name": "Imagine: Resort Owner",
-    "id": "nds266",
+    "id": "nds273",
     "igdbId": 7947,
     "gbId": null,
     "gbGuid": null,
@@ -6486,7 +6681,7 @@
   },
   {
     "name": "Infinite Space",
-    "id": "nds267",
+    "id": "nds274",
     "igdbId": 11683,
     "gbId": 24075,
     "gbGuid": "3030-24075",
@@ -6510,7 +6705,7 @@
   },
   {
     "name": "Inuyasha: Secret of the Divine Jewel",
-    "id": "nds268",
+    "id": "nds275",
     "igdbId": 20653,
     "gbId": 16001,
     "gbGuid": "3030-16001",
@@ -6534,7 +6729,7 @@
   },
   {
     "name": "Irodzuki Tingle no Koi no Balloon Trip",
-    "id": "nds269",
+    "id": "nds276",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6557,7 +6752,7 @@
   },
   {
     "name": "Iron Feather",
-    "id": "nds270",
+    "id": "nds277",
     "igdbId": 71609,
     "gbId": 24233,
     "gbGuid": "3030-24233",
@@ -6580,7 +6775,7 @@
   },
   {
     "name": "Izuna 2: The Unemployed Ninja Returns",
-    "id": "nds271",
+    "id": "nds278",
     "igdbId": 21345,
     "gbId": 21034,
     "gbGuid": "3030-21034",
@@ -6604,7 +6799,7 @@
   },
   {
     "name": "Izuna: Legend of the Unemployed Ninja",
-    "id": "nds272",
+    "id": "nds279",
     "igdbId": 20671,
     "gbId": 4464,
     "gbGuid": "3030-4464",
@@ -6628,7 +6823,7 @@
   },
   {
     "name": "JAM sessions",
-    "id": "nds273",
+    "id": "nds280",
     "igdbId": 47925,
     "gbId": 18573,
     "gbGuid": "3030-18573",
@@ -6652,7 +6847,7 @@
   },
   {
     "name": "Jam Sessions 2",
-    "id": "nds274",
+    "id": "nds281",
     "igdbId": 65090,
     "gbId": 38479,
     "gbGuid": "3030-38479",
@@ -6678,7 +6873,7 @@
   },
   {
     "name": "Jam with the Band",
-    "id": "nds275",
+    "id": "nds282",
     "igdbId": 21100,
     "gbId": 21366,
     "gbGuid": "3030-21366",
@@ -6702,7 +6897,7 @@
   },
   {
     "name": "James Cameron's Avatar: The Game",
-    "id": "nds276",
+    "id": "nds283",
     "igdbId": 4211,
     "gbId": 30564,
     "gbGuid": "3030-30564",
@@ -6726,7 +6921,7 @@
   },
   {
     "name": "James Cameron's Avatar: The Game",
-    "id": "nds277",
+    "id": "nds284",
     "igdbId": 200999,
     "gbId": 30564,
     "gbGuid": "3030-30564",
@@ -6752,7 +6947,7 @@
   },
   {
     "name": "James Patterson: Women's Murder Club: Games of Passion",
-    "id": "nds278",
+    "id": "nds285",
     "igdbId": 47831,
     "gbId": 26836,
     "gbGuid": "3030-26836",
@@ -6789,7 +6984,7 @@
   },
   {
     "name": "Jet Impulse",
-    "id": "nds279",
+    "id": "nds286",
     "igdbId": 72952,
     "gbId": 22030,
     "gbGuid": "3030-22030",
@@ -6812,7 +7007,7 @@
   },
   {
     "name": "Jig-a-Pix: Love Is",
-    "id": "nds280",
+    "id": "nds287",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6838,7 +7033,7 @@
   },
   {
     "name": "Jigapix Wild World",
-    "id": "nds281",
+    "id": "nds288",
     "igdbId": 47919,
     "gbId": null,
     "gbGuid": null,
@@ -6864,7 +7059,7 @@
   },
   {
     "name": "Jigapix: Pets",
-    "id": "nds282",
+    "id": "nds289",
     "igdbId": 209987,
     "gbId": null,
     "gbGuid": null,
@@ -6890,7 +7085,7 @@
   },
   {
     "name": "Jigapix: Wonderful World",
-    "id": "nds283",
+    "id": "nds290",
     "igdbId": 209988,
     "gbId": null,
     "gbGuid": null,
@@ -6916,7 +7111,7 @@
   },
   {
     "name": "Johnny Test",
-    "id": "nds284",
+    "id": "nds291",
     "igdbId": null,
     "gbId": 72346,
     "gbGuid": "3030-72346",
@@ -6940,7 +7135,7 @@
   },
   {
     "name": "Journey to the Center of the Earth",
-    "id": "nds285",
+    "id": "nds292",
     "igdbId": 81426,
     "gbId": 30581,
     "gbGuid": "3030-30581",
@@ -6964,7 +7159,7 @@
   },
   {
     "name": "Jump Superstars",
-    "id": "nds286",
+    "id": "nds293",
     "igdbId": 28835,
     "gbId": 21241,
     "gbGuid": "3030-21241",
@@ -6988,7 +7183,7 @@
   },
   {
     "name": "Jump Ultimate Stars",
-    "id": "nds287",
+    "id": "nds294",
     "igdbId": 40263,
     "gbId": 21788,
     "gbGuid": "3030-21788",
@@ -7012,7 +7207,7 @@
   },
   {
     "name": "Just Sing!",
-    "id": "nds288",
+    "id": "nds295",
     "igdbId": 81460,
     "gbId": 46904,
     "gbGuid": "3030-46904",
@@ -7038,7 +7233,7 @@
   },
   {
     "name": "KORG DS-10 Plus",
-    "id": "nds289",
+    "id": "nds296",
     "igdbId": 124490,
     "gbId": 27155,
     "gbGuid": "3030-27155",
@@ -7064,7 +7259,7 @@
   },
   {
     "name": "KORG DS-10 Synthesizer",
-    "id": "nds290",
+    "id": "nds297",
     "igdbId": 73009,
     "gbId": 21427,
     "gbGuid": "3030-21427",
@@ -7088,7 +7283,7 @@
   },
   {
     "name": "Kabu Trader Shun",
-    "id": "nds291",
+    "id": "nds298",
     "igdbId": 123337,
     "gbId": null,
     "gbGuid": null,
@@ -7111,7 +7306,7 @@
   },
   {
     "name": "Kanji Sonomama Rakubiki Jiten DS",
-    "id": "nds292",
+    "id": "nds299",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -7133,8 +7328,60 @@
     "misprintsErrors": []
   },
   {
+    "name": "Katekyo Hitman Reborn! DS Flame Rumble XX - Kessen! Real 6 Chouka",
+    "id": "nds300",
+    "igdbId": 64381,
+    "gbId": 40287,
+    "gbGuid": "3030-40287",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Katekyoo Hitman Reborn! Ore ga Boss! Saikyou Family Taisen",
+    "id": "nds301",
+    "igdbId": null,
+    "gbId": 84504,
+    "gbGuid": "3030-84504",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Keroro Gunsō the Super Movie",
-    "id": "nds293",
+    "id": "nds302",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -7157,7 +7404,7 @@
   },
   {
     "name": "Keroro RPG: Kishi to Busha to Densetsu no Kaizoku",
-    "id": "nds294",
+    "id": "nds303",
     "igdbId": 67306,
     "gbId": 29252,
     "gbGuid": "3030-29252",
@@ -7180,7 +7427,7 @@
   },
   {
     "name": "Kidou Senshi Gundam 00",
-    "id": "nds295",
+    "id": "nds304",
     "igdbId": 47870,
     "gbId": 21740,
     "gbGuid": "3030-21740",
@@ -7204,7 +7451,7 @@
   },
   {
     "name": "Kimi ni Todoke: Sodateru Omoi",
-    "id": "nds296",
+    "id": "nds305",
     "igdbId": 66964,
     "gbId": 30179,
     "gbGuid": "3030-30179",
@@ -7227,7 +7474,7 @@
   },
   {
     "name": "Kimi no Yusha",
-    "id": "nds297",
+    "id": "nds306",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -7250,7 +7497,7 @@
   },
   {
     "name": "Kingdom Hearts 358/2 Days",
-    "id": "nds298",
+    "id": "nds307",
     "igdbId": 1223,
     "gbId": 21448,
     "gbGuid": "3030-21448",
@@ -7280,7 +7527,7 @@
   },
   {
     "name": "Konami Classics Series: Arcade Hits",
-    "id": "nds299",
+    "id": "nds308",
     "igdbId": 21395,
     "gbId": 15915,
     "gbGuid": "3030-15915",
@@ -7304,7 +7551,7 @@
   },
   {
     "name": "Konductra",
-    "id": "nds300",
+    "id": "nds309",
     "igdbId": 20619,
     "gbId": 12040,
     "gbGuid": "3030-12040",
@@ -7328,7 +7575,7 @@
   },
   {
     "name": "Korogashi Puzzle Katamari Damacy",
-    "id": "nds301",
+    "id": "nds310",
     "igdbId": 6458,
     "gbId": 25427,
     "gbGuid": "3030-25427",
@@ -7351,7 +7598,7 @@
   },
   {
     "name": "Kousoku Card Battle: Card Hero",
-    "id": "nds302",
+    "id": "nds311",
     "igdbId": 73037,
     "gbId": 20804,
     "gbGuid": "3030-20804",
@@ -7374,7 +7621,7 @@
   },
   {
     "name": "Kumatanchi",
-    "id": "nds303",
+    "id": "nds312",
     "igdbId": 70683,
     "gbId": 24288,
     "gbGuid": "3030-24288",
@@ -7397,7 +7644,7 @@
   },
   {
     "name": "Kung Fu Panda 2",
-    "id": "nds304",
+    "id": "nds313",
     "igdbId": 200906,
     "gbId": 34990,
     "gbGuid": "3030-34990",
@@ -7423,7 +7670,7 @@
   },
   {
     "name": "Kurikin: Nano Island Story",
-    "id": "nds305",
+    "id": "nds314",
     "igdbId": 59337,
     "gbId": 51915,
     "gbGuid": "3030-51915",
@@ -7446,7 +7693,7 @@
   },
   {
     "name": "LEGO Star Wars: The Complete Saga (Canada)",
-    "id": "nds306",
+    "id": "nds315",
     "igdbId": 194935,
     "gbId": 11120,
     "gbGuid": "3030-11120",
@@ -7464,7 +7711,7 @@
   },
   {
     "name": "LOL",
-    "id": "nds307",
+    "id": "nds316",
     "igdbId": 124474,
     "gbId": 21395,
     "gbGuid": "3030-21395",
@@ -7487,7 +7734,7 @@
   },
   {
     "name": "Last Bullet",
-    "id": "nds308",
+    "id": "nds317",
     "igdbId": 94837,
     "gbId": 24418,
     "gbGuid": "3030-24418",
@@ -7510,7 +7757,7 @@
   },
   {
     "name": "Last Window: The Secret of Cape West",
-    "id": "nds309",
+    "id": "nds318",
     "igdbId": 22958,
     "gbId": 29533,
     "gbGuid": "3030-29533",
@@ -7534,7 +7781,7 @@
   },
   {
     "name": "Learn with Pokémon: Typing Adventure",
-    "id": "nds310",
+    "id": "nds319",
     "igdbId": 4564,
     "gbId": 32812,
     "gbGuid": "3030-32812",
@@ -7558,7 +7805,7 @@
   },
   {
     "name": "Lego Battles",
-    "id": "nds311",
+    "id": "nds320",
     "igdbId": 2648,
     "gbId": 25250,
     "gbGuid": "3030-25250",
@@ -7582,7 +7829,7 @@
   },
   {
     "name": "Lego Battles: Ninjago",
-    "id": "nds312",
+    "id": "nds321",
     "igdbId": 19767,
     "gbId": 36924,
     "gbGuid": "3030-36924",
@@ -7606,7 +7853,7 @@
   },
   {
     "name": "Let's Yoga",
-    "id": "nds313",
+    "id": "nds322",
     "igdbId": 47857,
     "gbId": null,
     "gbGuid": null,
@@ -7630,7 +7877,7 @@
   },
   {
     "name": "LifeSigns: Surgical Unit",
-    "id": "nds314",
+    "id": "nds323",
     "igdbId": 18600,
     "gbId": 21777,
     "gbGuid": "3030-21777",
@@ -7654,7 +7901,7 @@
   },
   {
     "name": "Lionel Trains: On Track",
-    "id": "nds315",
+    "id": "nds324",
     "igdbId": 10738,
     "gbId": 17682,
     "gbGuid": "3030-17682",
@@ -7678,7 +7925,7 @@
   },
   {
     "name": "List of DS:Style products",
-    "id": "nds316",
+    "id": "nds325",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -7701,7 +7948,7 @@
   },
   {
     "name": "Little Book Of Big Secrets",
-    "id": "nds317",
+    "id": "nds326",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -7727,7 +7974,7 @@
   },
   {
     "name": "Little Red Riding Hood's Zombie BBQ",
-    "id": "nds318",
+    "id": "nds327",
     "igdbId": 21298,
     "gbId": 21993,
     "gbGuid": "3030-21993",
@@ -7751,7 +7998,7 @@
   },
   {
     "name": "Looney Tunes: Cartoon Conductor",
-    "id": "nds319",
+    "id": "nds328",
     "igdbId": 21364,
     "gbId": null,
     "gbGuid": null,
@@ -7775,7 +8022,7 @@
   },
   {
     "name": "Looney Tunes: Duck Amuck",
-    "id": "nds320",
+    "id": "nds329",
     "igdbId": 8134,
     "gbId": 20536,
     "gbGuid": "3030-20536",
@@ -7799,7 +8046,7 @@
   },
   {
     "name": "Lost Identities",
-    "id": "nds321",
+    "id": "nds330",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -7825,7 +8072,7 @@
   },
   {
     "name": "Lost Magic",
-    "id": "nds322",
+    "id": "nds331",
     "igdbId": 20522,
     "gbId": 6453,
     "gbGuid": "3030-6453",
@@ -7849,7 +8096,7 @@
   },
   {
     "name": "Lost in Blue",
-    "id": "nds323",
+    "id": "nds332",
     "igdbId": 22513,
     "gbId": 8451,
     "gbGuid": "3030-8451",
@@ -7873,7 +8120,7 @@
   },
   {
     "name": "Lost in Blue 2",
-    "id": "nds324",
+    "id": "nds333",
     "igdbId": 21396,
     "gbId": 14227,
     "gbGuid": "3030-14227",
@@ -7897,7 +8144,7 @@
   },
   {
     "name": "Lost in Blue 3",
-    "id": "nds325",
+    "id": "nds334",
     "igdbId": 21361,
     "gbId": 23961,
     "gbGuid": "3030-23961",
@@ -7921,7 +8168,7 @@
   },
   {
     "name": "Lovely Lisa and Friends",
-    "id": "nds326",
+    "id": "nds335",
     "igdbId": 47911,
     "gbId": 29750,
     "gbGuid": "3030-29750",
@@ -7947,7 +8194,7 @@
   },
   {
     "name": "Lufia: Curse of the Sinistrals",
-    "id": "nds327",
+    "id": "nds336",
     "igdbId": 1181,
     "gbId": 29232,
     "gbGuid": "3030-29232",
@@ -7971,7 +8218,7 @@
   },
   {
     "name": "Luminous Arc",
-    "id": "nds328",
+    "id": "nds337",
     "igdbId": 21447,
     "gbId": 5534,
     "gbGuid": "3030-5534",
@@ -7995,7 +8242,7 @@
   },
   {
     "name": "Luminous Arc 2",
-    "id": "nds329",
+    "id": "nds338",
     "igdbId": 21330,
     "gbId": 21163,
     "gbGuid": "3030-21163",
@@ -8019,7 +8266,7 @@
   },
   {
     "name": "Luminous Arc 3: Eyes",
-    "id": "nds330",
+    "id": "nds339",
     "igdbId": 25100,
     "gbId": 27680,
     "gbGuid": "3030-27680",
@@ -8043,7 +8290,7 @@
   },
   {
     "name": "Lunar Knights",
-    "id": "nds331",
+    "id": "nds340",
     "igdbId": 9887,
     "gbId": 7060,
     "gbGuid": "3030-7060",
@@ -8067,7 +8314,7 @@
   },
   {
     "name": "Lunar: Dragon Song",
-    "id": "nds332",
+    "id": "nds341",
     "igdbId": 13908,
     "gbId": 16319,
     "gbGuid": "3030-16319",
@@ -8091,7 +8338,7 @@
   },
   {
     "name": "Lux-Pain",
-    "id": "nds333",
+    "id": "nds342",
     "igdbId": 21045,
     "gbId": 25156,
     "gbGuid": "3030-25156",
@@ -8115,7 +8362,7 @@
   },
   {
     "name": "Madden NFL 2005",
-    "id": "nds334",
+    "id": "nds343",
     "igdbId": 778,
     "gbId": 4222,
     "gbGuid": "3030-4222",
@@ -8139,7 +8386,7 @@
   },
   {
     "name": "Mage Knight: Destiny's Soldier",
-    "id": "nds335",
+    "id": "nds344",
     "igdbId": 20576,
     "gbId": 27921,
     "gbGuid": "3030-27921",
@@ -8163,7 +8410,7 @@
   },
   {
     "name": "Magical Starsign",
-    "id": "nds336",
+    "id": "nds345",
     "igdbId": 15839,
     "gbId": 11278,
     "gbGuid": "3030-11278",
@@ -8187,7 +8434,7 @@
   },
   {
     "name": "Magician's Quest: Mysterious Times",
-    "id": "nds337",
+    "id": "nds346",
     "igdbId": 21183,
     "gbId": null,
     "gbGuid": null,
@@ -8211,7 +8458,7 @@
   },
   {
     "name": "Major League Baseball 2K8 Fantasy All Stars",
-    "id": "nds338",
+    "id": "nds347",
     "igdbId": 20781,
     "gbId": 29371,
     "gbGuid": "3030-29371",
@@ -8235,7 +8482,7 @@
   },
   {
     "name": "Make 10",
-    "id": "nds339",
+    "id": "nds348",
     "igdbId": 122550,
     "gbId": 73693,
     "gbGuid": "3030-73693",
@@ -8259,7 +8506,7 @@
   },
   {
     "name": "MapleStory DS",
-    "id": "nds340",
+    "id": "nds349",
     "igdbId": 79942,
     "gbId": 30700,
     "gbGuid": "3030-30700",
@@ -8283,7 +8530,7 @@
   },
   {
     "name": "Mario & Luigi: Bowser's Inside Story",
-    "id": "nds341",
+    "id": "nds350",
     "igdbId": 3363,
     "gbId": 23983,
     "gbGuid": "3030-23983",
@@ -8307,7 +8554,7 @@
   },
   {
     "name": "Mario & Luigi: Partners in Time",
-    "id": "nds342",
+    "id": "nds351",
     "igdbId": 3364,
     "gbId": 15439,
     "gbGuid": "3030-15439",
@@ -8325,7 +8572,7 @@
   },
   {
     "name": "Mario Hoops: 3 on 3",
-    "id": "nds343",
+    "id": "nds352",
     "igdbId": 3988,
     "gbId": 11206,
     "gbGuid": "3030-11206",
@@ -8349,7 +8596,7 @@
   },
   {
     "name": "Mario vs. Donkey Kong: Mini-Land Mayhem",
-    "id": "nds344",
+    "id": "nds353",
     "igdbId": 21093,
     "gbId": 31742,
     "gbGuid": "3030-31742",
@@ -8386,7 +8633,7 @@
   },
   {
     "name": "Mario vs. Donkey Kong: Minis March Again!",
-    "id": "nds345",
+    "id": "nds354",
     "igdbId": 48032,
     "gbId": 26854,
     "gbGuid": "3030-26854",
@@ -8410,7 +8657,7 @@
   },
   {
     "name": "Master of Illusion",
-    "id": "nds346",
+    "id": "nds355",
     "igdbId": 20770,
     "gbId": 22220,
     "gbGuid": "3030-22220",
@@ -8434,7 +8681,7 @@
   },
   {
     "name": "MechAssault: Phantom War",
-    "id": "nds347",
+    "id": "nds356",
     "igdbId": 19195,
     "gbId": 17059,
     "gbGuid": "3030-17059",
@@ -8458,7 +8705,7 @@
   },
   {
     "name": "Mega Man Star Force 2: Zerker x Ninja",
-    "id": "nds348",
+    "id": "nds357",
     "igdbId": 1785,
     "gbId": 20539,
     "gbGuid": "3030-20539",
@@ -8488,7 +8735,7 @@
   },
   {
     "name": "Mega Man Star Force 2: Zerker x Saurian",
-    "id": "nds349",
+    "id": "nds358",
     "igdbId": 1784,
     "gbId": 20539,
     "gbGuid": "3030-20539",
@@ -8512,7 +8759,7 @@
   },
   {
     "name": "Mega Man Star Force 3: Black Ace",
-    "id": "nds350",
+    "id": "nds359",
     "igdbId": 1786,
     "gbId": 21403,
     "gbGuid": "3030-21403",
@@ -8542,7 +8789,7 @@
   },
   {
     "name": "Mega Man Star Force 3: Red Joker",
-    "id": "nds351",
+    "id": "nds360",
     "igdbId": 1787,
     "gbId": 21403,
     "gbGuid": "3030-21403",
@@ -8566,7 +8813,7 @@
   },
   {
     "name": "Mega Man Star Force: Dragon",
-    "id": "nds352",
+    "id": "nds361",
     "igdbId": 1783,
     "gbId": 1476,
     "gbGuid": "3030-1476",
@@ -8590,7 +8837,7 @@
   },
   {
     "name": "Mega Man Star Force: Leo",
-    "id": "nds353",
+    "id": "nds362",
     "igdbId": 1782,
     "gbId": 1476,
     "gbGuid": "3030-1476",
@@ -8614,7 +8861,7 @@
   },
   {
     "name": "Mega Man Star Force: Pegasus",
-    "id": "nds354",
+    "id": "nds363",
     "igdbId": 1781,
     "gbId": 1476,
     "gbGuid": "3030-1476",
@@ -8638,7 +8885,7 @@
   },
   {
     "name": "Mega Man ZX",
-    "id": "nds355",
+    "id": "nds364",
     "igdbId": 1779,
     "gbId": 11103,
     "gbGuid": "3030-11103",
@@ -8662,7 +8909,7 @@
   },
   {
     "name": "Mega Man ZX Advent",
-    "id": "nds356",
+    "id": "nds365",
     "igdbId": 1780,
     "gbId": 20435,
     "gbGuid": "3030-20435",
@@ -8686,7 +8933,7 @@
   },
   {
     "name": "Mega Man Zero Collection",
-    "id": "nds357",
+    "id": "nds366",
     "igdbId": 24355,
     "gbId": 29768,
     "gbGuid": "3030-29768",
@@ -8710,7 +8957,7 @@
   },
   {
     "name": "Metal Max 3",
-    "id": "nds358",
+    "id": "nds367",
     "igdbId": 66922,
     "gbId": 30297,
     "gbGuid": "3030-30297",
@@ -8733,7 +8980,7 @@
   },
   {
     "name": "Metal Saga: Hagane no Kisetsu",
-    "id": "nds359",
+    "id": "nds368",
     "igdbId": 66989,
     "gbId": 30081,
     "gbGuid": "3030-30081",
@@ -8756,7 +9003,7 @@
   },
   {
     "name": "Metroid Prime Hunters – First Hunt (Demo)",
-    "id": "nds360",
+    "id": "nds369",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8779,7 +9026,7 @@
   },
   {
     "name": "Metroid Prime Pinball",
-    "id": "nds361",
+    "id": "nds370",
     "igdbId": 1109,
     "gbId": 5436,
     "gbGuid": "3030-5436",
@@ -8803,7 +9050,7 @@
   },
   {
     "name": "Miami Law",
-    "id": "nds362",
+    "id": "nds371",
     "igdbId": 20281,
     "gbId": 25685,
     "gbGuid": "3030-25685",
@@ -8827,7 +9074,7 @@
   },
   {
     "name": "Mighty Milky Way",
-    "id": "nds363",
+    "id": "nds372",
     "igdbId": 80560,
     "gbId": 33948,
     "gbGuid": "3030-33948",
@@ -8850,7 +9097,7 @@
   },
   {
     "name": "Milon no Hoshizora Shabon: Puzzle Kumikyoku",
-    "id": "nds364",
+    "id": "nds373",
     "igdbId": 97681,
     "gbId": 67291,
     "gbGuid": "3030-67291",
@@ -8873,7 +9120,7 @@
   },
   {
     "name": "MinDStorm",
-    "id": "nds365",
+    "id": "nds374",
     "igdbId": 47861,
     "gbId": null,
     "gbGuid": null,
@@ -8896,7 +9143,7 @@
   },
   {
     "name": "Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly",
-    "id": "nds366",
+    "id": "nds375",
     "igdbId": 7979,
     "gbId": 27499,
     "gbGuid": "3030-27499",
@@ -8919,7 +9166,7 @@
   },
   {
     "name": "Mister Slime",
-    "id": "nds367",
+    "id": "nds376",
     "igdbId": 21377,
     "gbId": 21025,
     "gbGuid": "3030-21025",
@@ -8943,7 +9190,7 @@
   },
   {
     "name": "Mixed Messages",
-    "id": "nds368",
+    "id": "nds377",
     "igdbId": 80175,
     "gbId": 25845,
     "gbGuid": "3030-25845",
@@ -8966,7 +9213,7 @@
   },
   {
     "name": "Moero! Nekketsu Rhythm Damashii: Osu! Tatakae! Ouendan 2",
-    "id": "nds369",
+    "id": "nds378",
     "igdbId": 23095,
     "gbId": 254,
     "gbGuid": "3030-254",
@@ -8989,8 +9236,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mommy Talk DS",
+    "id": "nds379",
+    "igdbId": null,
+    "gbId": 77033,
+    "gbGuid": "3030-77033",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Monster High: Ghoul Spirit",
-    "id": "nds370",
+    "id": "nds380",
     "igdbId": 8567,
     "gbId": 36772,
     "gbGuid": "3030-36772",
@@ -9016,7 +9289,7 @@
   },
   {
     "name": "Monster Rancher DS",
-    "id": "nds371",
+    "id": "nds381",
     "igdbId": 47795,
     "gbId": 29487,
     "gbGuid": "3030-29487",
@@ -9040,7 +9313,7 @@
   },
   {
     "name": "Monster Tale",
-    "id": "nds372",
+    "id": "nds382",
     "igdbId": 21078,
     "gbId": 31268,
     "gbGuid": "3030-31268",
@@ -9064,7 +9337,7 @@
   },
   {
     "name": "Moto Racer DS",
-    "id": "nds373",
+    "id": "nds383",
     "igdbId": 10564,
     "gbId": 21630,
     "gbGuid": "3030-21630",
@@ -9088,7 +9361,7 @@
   },
   {
     "name": "Mr. Driller: Drill Spirits",
-    "id": "nds374",
+    "id": "nds384",
     "igdbId": 18330,
     "gbId": 7095,
     "gbGuid": "3030-7095",
@@ -9112,7 +9385,7 @@
   },
   {
     "name": "Mushishi",
-    "id": "nds375",
+    "id": "nds385",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -9135,7 +9408,7 @@
   },
   {
     "name": "My Frogger: Toy Trials",
-    "id": "nds376",
+    "id": "nds386",
     "igdbId": 11482,
     "gbId": null,
     "gbGuid": null,
@@ -9159,7 +9432,7 @@
   },
   {
     "name": "My Healthy Cooking Coach",
-    "id": "nds377",
+    "id": "nds387",
     "igdbId": 47702,
     "gbId": 40853,
     "gbGuid": "3030-40853",
@@ -9185,7 +9458,7 @@
   },
   {
     "name": "My Little Pony: Pinkie Pie's Party",
-    "id": "nds378",
+    "id": "nds388",
     "igdbId": 80769,
     "gbId": 21074,
     "gbGuid": "3030-21074",
@@ -9209,7 +9482,7 @@
   },
   {
     "name": "My SAT Coach with the Princeton Review",
-    "id": "nds379",
+    "id": "nds389",
     "igdbId": 70537,
     "gbId": 24810,
     "gbGuid": "3030-24810",
@@ -9233,7 +9506,7 @@
   },
   {
     "name": "Mystery Case Files: MillionHeir",
-    "id": "nds380",
+    "id": "nds390",
     "igdbId": 20276,
     "gbId": 21061,
     "gbGuid": "3030-21061",
@@ -9257,7 +9530,7 @@
   },
   {
     "name": "NRL Mascot Mania",
-    "id": "nds381",
+    "id": "nds391",
     "igdbId": 124026,
     "gbId": null,
     "gbGuid": null,
@@ -9281,7 +9554,7 @@
   },
   {
     "name": "Nacho Libre",
-    "id": "nds382",
+    "id": "nds392",
     "igdbId": 7997,
     "gbId": 27026,
     "gbGuid": "3030-27026",
@@ -9305,7 +9578,7 @@
   },
   {
     "name": "Namco Museum",
-    "id": "nds383",
+    "id": "nds393",
     "igdbId": 2646,
     "gbId": 31471,
     "gbGuid": "3030-31471",
@@ -9329,7 +9602,7 @@
   },
   {
     "name": "Nanashi no Game",
-    "id": "nds384",
+    "id": "nds394",
     "igdbId": 67979,
     "gbId": 27137,
     "gbGuid": "3030-27137",
@@ -9353,7 +9626,7 @@
   },
   {
     "name": "Nanostray",
-    "id": "nds385",
+    "id": "nds395",
     "igdbId": 21436,
     "gbId": 12864,
     "gbGuid": "3030-12864",
@@ -9377,7 +9650,7 @@
   },
   {
     "name": "Nanostray 2",
-    "id": "nds386",
+    "id": "nds396",
     "igdbId": 20992,
     "gbId": 21385,
     "gbGuid": "3030-21385",
@@ -9401,7 +9674,7 @@
   },
   {
     "name": "Nervous Brickdown",
-    "id": "nds387",
+    "id": "nds397",
     "igdbId": 9507,
     "gbId": 20551,
     "gbGuid": "3030-20551",
@@ -9425,7 +9698,7 @@
   },
   {
     "name": "New Carnival Games",
-    "id": "nds388",
+    "id": "nds398",
     "igdbId": 4057,
     "gbId": 31760,
     "gbGuid": "3030-31760",
@@ -9451,7 +9724,7 @@
   },
   {
     "name": "New International Track & Field",
-    "id": "nds389",
+    "id": "nds399",
     "igdbId": 23030,
     "gbId": 20619,
     "gbGuid": "3030-20619",
@@ -9475,7 +9748,7 @@
   },
   {
     "name": "Ni no Kuni: Dominion of the Dark Djinn",
-    "id": "nds390",
+    "id": "nds400",
     "igdbId": 18856,
     "gbId": null,
     "gbGuid": null,
@@ -9498,7 +9771,7 @@
   },
   {
     "name": "Nickelodeon Drake & Josh: Talent Showdown",
-    "id": "nds391",
+    "id": "nds401",
     "igdbId": 7971,
     "gbId": 31117,
     "gbGuid": "3030-31117",
@@ -9522,7 +9795,7 @@
   },
   {
     "name": "Ninja Gaiden: Dragon Sword",
-    "id": "nds392",
+    "id": "nds402",
     "igdbId": 21466,
     "gbId": 21178,
     "gbGuid": "3030-21178",
@@ -9546,7 +9819,7 @@
   },
   {
     "name": "Ninjatown",
-    "id": "nds393",
+    "id": "nds403",
     "igdbId": 2825,
     "gbId": 22801,
     "gbGuid": "3030-22801",
@@ -9570,7 +9843,7 @@
   },
   {
     "name": "Nintendogs",
-    "id": "nds394",
+    "id": "nds404",
     "igdbId": 3058,
     "gbId": 10148,
     "gbGuid": "3030-10148",
@@ -9593,7 +9866,7 @@
   },
   {
     "name": "Nostalgia",
-    "id": "nds395",
+    "id": "nds405",
     "igdbId": 21904,
     "gbId": 23987,
     "gbGuid": "3030-23987",
@@ -9617,7 +9890,7 @@
   },
   {
     "name": "Oishinbo: Kyukyoku no Menu 3bon Syoubu",
-    "id": "nds396",
+    "id": "nds406",
     "igdbId": 48406,
     "gbId": 41425,
     "gbGuid": "3030-41425",
@@ -9641,7 +9914,7 @@
   },
   {
     "name": "Okamiden",
-    "id": "nds397",
+    "id": "nds407",
     "igdbId": 16618,
     "gbId": 28006,
     "gbGuid": "3030-28006",
@@ -9665,7 +9938,7 @@
   },
   {
     "name": "Ontamarama",
-    "id": "nds398",
+    "id": "nds408",
     "igdbId": 21509,
     "gbId": 20556,
     "gbGuid": "3030-20556",
@@ -9689,7 +9962,7 @@
   },
   {
     "name": "Osu! Tatakae! Ouendan",
-    "id": "nds399",
+    "id": "nds409",
     "igdbId": 24645,
     "gbId": 7037,
     "gbGuid": "3030-7037",
@@ -9713,7 +9986,7 @@
   },
   {
     "name": "Otona no Onnaryoku Kentei",
-    "id": "nds400",
+    "id": "nds410",
     "igdbId": 123376,
     "gbId": null,
     "gbGuid": null,
@@ -9736,7 +10009,7 @@
   },
   {
     "name": "Over the Hedge",
-    "id": "nds401",
+    "id": "nds411",
     "igdbId": 4059,
     "gbId": 7954,
     "gbGuid": "3030-7954",
@@ -9760,7 +10033,7 @@
   },
   {
     "name": "Overlord Minions",
-    "id": "nds402",
+    "id": "nds412",
     "igdbId": 48,
     "gbId": 23396,
     "gbGuid": "3030-23396",
@@ -9784,7 +10057,7 @@
   },
   {
     "name": "Pac-Pix",
-    "id": "nds403",
+    "id": "nds413",
     "igdbId": 18275,
     "gbId": 1863,
     "gbGuid": "3030-1863",
@@ -9808,7 +10081,7 @@
   },
   {
     "name": "Paint by DS",
-    "id": "nds404",
+    "id": "nds414",
     "igdbId": 79868,
     "gbId": 26381,
     "gbGuid": "3030-26381",
@@ -9831,7 +10104,7 @@
   },
   {
     "name": "Pang: Magical Michael",
-    "id": "nds405",
+    "id": "nds415",
     "igdbId": 66524,
     "gbId": 31921,
     "gbGuid": "3030-31921",
@@ -9854,7 +10127,7 @@
   },
   {
     "name": "Paws & Claws Pampered Pets 2",
-    "id": "nds406",
+    "id": "nds416",
     "igdbId": 202226,
     "gbId": null,
     "gbGuid": null,
@@ -9880,7 +10153,7 @@
   },
   {
     "name": "Paws & Claws: Marine Rescue",
-    "id": "nds407",
+    "id": "nds417",
     "igdbId": 47851,
     "gbId": 33780,
     "gbGuid": "3030-33780",
@@ -9906,7 +10179,7 @@
   },
   {
     "name": "Personal Trainer: Walking",
-    "id": "nds408",
+    "id": "nds418",
     "igdbId": 71901,
     "gbId": 23979,
     "gbGuid": "3030-23979",
@@ -9930,7 +10203,7 @@
   },
   {
     "name": "Pet Alien: An Intergalactic Puzzlepalooza",
-    "id": "nds409",
+    "id": "nds419",
     "igdbId": 8120,
     "gbId": 27497,
     "gbGuid": "3030-27497",
@@ -9954,7 +10227,7 @@
   },
   {
     "name": "Petz Dolphinz Encounter",
-    "id": "nds410",
+    "id": "nds420",
     "igdbId": 67345,
     "gbId": 29052,
     "gbGuid": "3030-29052",
@@ -9980,7 +10253,7 @@
   },
   {
     "name": "Petz Fantasy: Moonlight Magic",
-    "id": "nds411",
+    "id": "nds421",
     "igdbId": 66364,
     "gbId": 32751,
     "gbGuid": "3030-32751",
@@ -10006,7 +10279,7 @@
   },
   {
     "name": "Petz Fantasy: Sunshine Magic",
-    "id": "nds412",
+    "id": "nds422",
     "igdbId": 47962,
     "gbId": 32753,
     "gbGuid": "3030-32753",
@@ -10032,7 +10305,7 @@
   },
   {
     "name": "Petz Horsez Family",
-    "id": "nds413",
+    "id": "nds423",
     "igdbId": 209998,
     "gbId": null,
     "gbGuid": null,
@@ -10058,7 +10331,7 @@
   },
   {
     "name": "Petz Rescue: Ocean Patrol",
-    "id": "nds414",
+    "id": "nds424",
     "igdbId": 70534,
     "gbId": 24822,
     "gbGuid": "3030-24822",
@@ -10082,7 +10355,7 @@
   },
   {
     "name": "Petz Wild Animals: Tigerz",
-    "id": "nds415",
+    "id": "nds425",
     "igdbId": 66227,
     "gbId": 33404,
     "gbGuid": "3030-33404",
@@ -10106,7 +10379,7 @@
   },
   {
     "name": "Phantasy Star Zero",
-    "id": "nds416",
+    "id": "nds426",
     "igdbId": 21091,
     "gbId": 23777,
     "gbGuid": "3030-23777",
@@ -10130,7 +10403,7 @@
   },
   {
     "name": "Phineas and Ferb",
-    "id": "nds417",
+    "id": "nds427",
     "igdbId": 47788,
     "gbId": 25334,
     "gbGuid": "3030-25334",
@@ -10154,7 +10427,7 @@
   },
   {
     "name": "Phineas and Ferb: Ride Again",
-    "id": "nds418",
+    "id": "nds428",
     "igdbId": 66260,
     "gbId": 33262,
     "gbGuid": "3030-33262",
@@ -10191,7 +10464,7 @@
   },
   {
     "name": "Photo Dojo",
-    "id": "nds419",
+    "id": "nds429",
     "igdbId": 67245,
     "gbId": 29430,
     "gbGuid": "3030-29430",
@@ -10215,7 +10488,7 @@
   },
   {
     "name": "Pic Pic",
-    "id": "nds420",
+    "id": "nds430",
     "igdbId": 85344,
     "gbId": 30620,
     "gbGuid": "3030-30620",
@@ -10239,7 +10512,7 @@
   },
   {
     "name": "Picopict",
-    "id": "nds421",
+    "id": "nds431",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -10262,7 +10535,7 @@
   },
   {
     "name": "Picross DS",
-    "id": "nds422",
+    "id": "nds432",
     "igdbId": 10617,
     "gbId": 19050,
     "gbGuid": "3030-19050",
@@ -10286,7 +10559,7 @@
   },
   {
     "name": "Picture Perfect Hair Salon",
-    "id": "nds423",
+    "id": "nds433",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -10310,7 +10583,7 @@
   },
   {
     "name": "PictureBook Games: The Royal Bluff",
-    "id": "nds424",
+    "id": "nds434",
     "igdbId": 77127,
     "gbId": 29112,
     "gbGuid": "3030-29112",
@@ -10333,7 +10606,7 @@
   },
   {
     "name": "Ping Pals",
-    "id": "nds425",
+    "id": "nds435",
     "igdbId": 18274,
     "gbId": 3853,
     "gbGuid": "3030-3853",
@@ -10357,7 +10630,7 @@
   },
   {
     "name": "Pirates: Duels on the High Seas",
-    "id": "nds426",
+    "id": "nds436",
     "igdbId": 21274,
     "gbId": null,
     "gbGuid": null,
@@ -10380,7 +10653,7 @@
   },
   {
     "name": "Planet Puzzle League",
-    "id": "nds427",
+    "id": "nds437",
     "igdbId": 23093,
     "gbId": 19256,
     "gbGuid": "3030-19256",
@@ -10404,7 +10677,7 @@
   },
   {
     "name": "Pokemon Conquest ",
-    "id": "nds428",
+    "id": "nds438",
     "igdbId": 2288,
     "gbId": 37054,
     "gbGuid": "3030-37054",
@@ -10441,7 +10714,7 @@
   },
   {
     "name": "Pokémon Black",
-    "id": "nds429",
+    "id": "nds439",
     "igdbId": 1521,
     "gbId": 30613,
     "gbGuid": "3030-30613",
@@ -10467,7 +10740,7 @@
   },
   {
     "name": "Pokémon Black Version",
-    "id": "nds430",
+    "id": "nds440",
     "igdbId": null,
     "gbId": 30613,
     "gbGuid": "3030-30613",
@@ -10491,7 +10764,7 @@
   },
   {
     "name": "Pokémon Black Version 2",
-    "id": "nds431",
+    "id": "nds441",
     "igdbId": 8284,
     "gbId": 37603,
     "gbGuid": "3030-37603",
@@ -10517,7 +10790,7 @@
   },
   {
     "name": "Pokémon Black/White Version 2",
-    "id": "nds432",
+    "id": "nds442",
     "igdbId": 8353,
     "gbId": 37603,
     "gbGuid": "3030-37603",
@@ -10554,7 +10827,7 @@
   },
   {
     "name": "Pokémon Dash",
-    "id": "nds433",
+    "id": "nds443",
     "igdbId": 18594,
     "gbId": 1145,
     "gbGuid": "3030-1145",
@@ -10578,7 +10851,7 @@
   },
   {
     "name": "Pokémon Diamond Version",
-    "id": "nds434",
+    "id": "nds444",
     "igdbId": 1560,
     "gbId": 3240,
     "gbGuid": "3030-3240",
@@ -10602,7 +10875,7 @@
   },
   {
     "name": "Pokémon HeartGold Version",
-    "id": "nds435",
+    "id": "nds445",
     "igdbId": 1556,
     "gbId": 26372,
     "gbGuid": "3030-26372",
@@ -10626,7 +10899,7 @@
   },
   {
     "name": "Pokémon Pearl Version",
-    "id": "nds436",
+    "id": "nds446",
     "igdbId": null,
     "gbId": 3240,
     "gbGuid": "3030-3240",
@@ -10650,7 +10923,7 @@
   },
   {
     "name": "Pokémon Platinum Version",
-    "id": "nds437",
+    "id": "nds447",
     "igdbId": 1519,
     "gbId": 21676,
     "gbGuid": "3030-21676",
@@ -10674,7 +10947,7 @@
   },
   {
     "name": "Pokémon Ranger",
-    "id": "nds438",
+    "id": "nds448",
     "igdbId": null,
     "gbId": 1812,
     "gbGuid": "3030-1812",
@@ -10698,7 +10971,7 @@
   },
   {
     "name": "Pokémon Ranger: Shadows of Almia",
-    "id": "nds439",
+    "id": "nds449",
     "igdbId": 14699,
     "gbId": 21127,
     "gbGuid": "3030-21127",
@@ -10722,7 +10995,7 @@
   },
   {
     "name": "Pokémon SoulSilver Version",
-    "id": "nds440",
+    "id": "nds450",
     "igdbId": 1520,
     "gbId": 26372,
     "gbGuid": "3030-26372",
@@ -10746,7 +11019,7 @@
   },
   {
     "name": "Pokémon Trozei!",
-    "id": "nds441",
+    "id": "nds451",
     "igdbId": 8588,
     "gbId": 7395,
     "gbGuid": "3030-7395",
@@ -10770,7 +11043,7 @@
   },
   {
     "name": "Pokémon White",
-    "id": "nds442",
+    "id": "nds452",
     "igdbId": 1522,
     "gbId": 30613,
     "gbGuid": "3030-30613",
@@ -10796,7 +11069,7 @@
   },
   {
     "name": "Pokémon White Version",
-    "id": "nds443",
+    "id": "nds453",
     "igdbId": null,
     "gbId": 30613,
     "gbGuid": "3030-30613",
@@ -10820,7 +11093,7 @@
   },
   {
     "name": "Polarium",
-    "id": "nds444",
+    "id": "nds454",
     "igdbId": 6537,
     "gbId": 11138,
     "gbGuid": "3030-11138",
@@ -10844,7 +11117,7 @@
   },
   {
     "name": "Pop Cutie! Street Fashion Simulation",
-    "id": "nds445",
+    "id": "nds455",
     "igdbId": 72743,
     "gbId": 23144,
     "gbGuid": "3030-23144",
@@ -10868,7 +11141,7 @@
   },
   {
     "name": "Pop Island",
-    "id": "nds446",
+    "id": "nds456",
     "igdbId": 68124,
     "gbId": 26727,
     "gbGuid": "3030-26727",
@@ -10891,7 +11164,7 @@
   },
   {
     "name": "Pop Island: Paperfield",
-    "id": "nds447",
+    "id": "nds457",
     "igdbId": 84811,
     "gbId": 68864,
     "gbGuid": "3030-68864",
@@ -10914,7 +11187,7 @@
   },
   {
     "name": "Popstars",
-    "id": "nds448",
+    "id": "nds458",
     "igdbId": 92843,
     "gbId": 36735,
     "gbGuid": "3030-36735",
@@ -10940,7 +11213,7 @@
   },
   {
     "name": "Populous DS",
-    "id": "nds449",
+    "id": "nds459",
     "igdbId": 8898,
     "gbId": 21149,
     "gbGuid": "3030-21149",
@@ -10969,8 +11242,112 @@
     ]
   },
   {
+    "name": "Power Pro-Kun Pocket 12",
+    "id": "nds460",
+    "igdbId": 84333,
+    "gbId": 28477,
+    "gbGuid": "3030-28477",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Power Pro-Kun Pocket 13",
+    "id": "nds461",
+    "igdbId": 98509,
+    "gbId": 65615,
+    "gbGuid": "3030-65615",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Power Pro-Kun Pocket 14",
+    "id": "nds462",
+    "igdbId": 63216,
+    "gbId": 43101,
+    "gbGuid": "3030-43101",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pretty Rhythm Collection",
+    "id": "nds463",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Prey the Stars",
-    "id": "nds450",
+    "id": "nds464",
     "igdbId": 21337,
     "gbId": 21132,
     "gbGuid": "3030-21132",
@@ -10994,7 +11371,7 @@
   },
   {
     "name": "Prince Of Persia: The Fallen King",
-    "id": "nds451",
+    "id": "nds465",
     "igdbId": 21267,
     "gbId": 21809,
     "gbGuid": "3030-21809",
@@ -11018,7 +11395,7 @@
   },
   {
     "name": "Prince of Persia: The Forgotten Sands",
-    "id": "nds452",
+    "id": "nds466",
     "igdbId": 142712,
     "gbId": 29321,
     "gbGuid": "3030-29321",
@@ -11044,7 +11421,7 @@
   },
   {
     "name": "Princess Debut",
-    "id": "nds453",
+    "id": "nds467",
     "igdbId": 21225,
     "gbId": 23440,
     "gbGuid": "3030-23440",
@@ -11068,7 +11445,7 @@
   },
   {
     "name": "Professor Brainium's Games",
-    "id": "nds454",
+    "id": "nds468",
     "igdbId": 80358,
     "gbId": 21036,
     "gbGuid": "3030-21036",
@@ -11092,7 +11469,7 @@
   },
   {
     "name": "Professor Kageyama's Maths Training",
-    "id": "nds455",
+    "id": "nds469",
     "igdbId": 21507,
     "gbId": null,
     "gbGuid": null,
@@ -11116,7 +11493,7 @@
   },
   {
     "name": "Professor Layton and the Last Specter",
-    "id": "nds456",
+    "id": "nds470",
     "igdbId": 1400,
     "gbId": 29299,
     "gbGuid": "3030-29299",
@@ -11140,7 +11517,7 @@
   },
   {
     "name": "Professor Layton and the Unwound Future",
-    "id": "nds457",
+    "id": "nds471",
     "igdbId": 1399,
     "gbId": 22336,
     "gbGuid": "3030-22336",
@@ -11164,7 +11541,7 @@
   },
   {
     "name": "Project Hacker: Kakusei",
-    "id": "nds458",
+    "id": "nds472",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -11187,7 +11564,7 @@
   },
   {
     "name": "Puchi Puchi Virus",
-    "id": "nds459",
+    "id": "nds473",
     "igdbId": 21053,
     "gbId": 21029,
     "gbGuid": "3030-21029",
@@ -11211,7 +11588,7 @@
   },
   {
     "name": "Puss In Boots",
-    "id": "nds460",
+    "id": "nds474",
     "igdbId": 192927,
     "gbId": 31938,
     "gbGuid": "3030-31938",
@@ -11237,7 +11614,7 @@
   },
   {
     "name": "Puzzle Series",
-    "id": "nds461",
+    "id": "nds475",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -11260,7 +11637,7 @@
   },
   {
     "name": "Puzzle de Harvest Moon",
-    "id": "nds462",
+    "id": "nds476",
     "igdbId": 20897,
     "gbId": 23771,
     "gbGuid": "3030-23771",
@@ -11284,7 +11661,7 @@
   },
   {
     "name": "QuickSpot",
-    "id": "nds463",
+    "id": "nds477",
     "igdbId": 20677,
     "gbId": 15668,
     "gbGuid": "3030-15668",
@@ -11307,8 +11684,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "RPG Tsukuuru DS+: Create the New World",
+    "id": "nds478",
+    "igdbId": 63508,
+    "gbId": 42378,
+    "gbGuid": "3030-42378",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Rabbids Go Home",
-    "id": "nds464",
+    "id": "nds479",
     "igdbId": 193295,
     "gbId": 25792,
     "gbGuid": "3030-25792",
@@ -11334,7 +11737,7 @@
   },
   {
     "name": "Race Driver: Create & Race",
-    "id": "nds465",
+    "id": "nds480",
     "igdbId": 20763,
     "gbId": 23416,
     "gbGuid": "3030-23416",
@@ -11358,7 +11761,7 @@
   },
   {
     "name": "Ragnarok DS",
-    "id": "nds466",
+    "id": "nds481",
     "igdbId": 21097,
     "gbId": 24232,
     "gbGuid": "3030-24232",
@@ -11382,7 +11785,7 @@
   },
   {
     "name": "Rainbow Islands Revolution",
-    "id": "nds467",
+    "id": "nds482",
     "igdbId": 22598,
     "gbId": 15893,
     "gbGuid": "3030-15893",
@@ -11406,7 +11809,7 @@
   },
   {
     "name": "Remindelight",
-    "id": "nds468",
+    "id": "nds483",
     "igdbId": 123405,
     "gbId": null,
     "gbGuid": null,
@@ -11429,7 +11832,7 @@
   },
   {
     "name": "Retro Atari Classics",
-    "id": "nds469",
+    "id": "nds484",
     "igdbId": 18402,
     "gbId": 10555,
     "gbGuid": "3030-10555",
@@ -11453,7 +11856,7 @@
   },
   {
     "name": "Retro Game Challenge",
-    "id": "nds470",
+    "id": "nds485",
     "igdbId": 21251,
     "gbId": 21465,
     "gbGuid": "3030-21465",
@@ -11477,7 +11880,7 @@
   },
   {
     "name": "Rhythm 'n Notes: Improve Your Music Skills",
-    "id": "nds471",
+    "id": "nds486",
     "igdbId": null,
     "gbId": 11385,
     "gbGuid": "3030-11385",
@@ -11501,7 +11904,7 @@
   },
   {
     "name": "Rhythm Heaven",
-    "id": "nds472",
+    "id": "nds487",
     "igdbId": 8167,
     "gbId": 21312,
     "gbGuid": "3030-21312",
@@ -11525,7 +11928,7 @@
   },
   {
     "name": "Rhythm de Run Run Run",
-    "id": "nds473",
+    "id": "nds488",
     "igdbId": 123406,
     "gbId": null,
     "gbGuid": null,
@@ -11547,8 +11950,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Rika-Chan DS Motto! Onna no Ko Lesson: Oshare Oshigoto Otetsudai Daisuki!",
+    "id": "nds489",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Rio",
-    "id": "nds474",
+    "id": "nds490",
     "igdbId": 209217,
     "gbId": 34202,
     "gbGuid": "3030-34202",
@@ -11574,7 +12003,7 @@
   },
   {
     "name": "River City Soccer Hooligans",
-    "id": "nds475",
+    "id": "nds491",
     "igdbId": 47838,
     "gbId": 31298,
     "gbGuid": "3030-31298",
@@ -11598,7 +12027,7 @@
   },
   {
     "name": "Robot Rescue",
-    "id": "nds476",
+    "id": "nds492",
     "igdbId": 84844,
     "gbId": 26639,
     "gbGuid": "3030-26639",
@@ -11621,7 +12050,7 @@
   },
   {
     "name": "Rockin' Pretty",
-    "id": "nds477",
+    "id": "nds493",
     "igdbId": 69155,
     "gbId": 25668,
     "gbGuid": "3030-25668",
@@ -11645,7 +12074,7 @@
   },
   {
     "name": "Rockman EXE Operate Shooting Star",
-    "id": "nds478",
+    "id": "nds494",
     "igdbId": 1774,
     "gbId": 27101,
     "gbGuid": "3030-27101",
@@ -11667,8 +12096,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Roller Angels",
+    "id": "nds495",
+    "igdbId": 84847,
+    "gbId": 35881,
+    "gbGuid": "3030-35881",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Rondo of Swords",
-    "id": "nds479",
+    "id": "nds496",
     "igdbId": 21481,
     "gbId": 20571,
     "gbGuid": "3030-20571",
@@ -11692,7 +12147,7 @@
   },
   {
     "name": "Roogoo Attack!",
-    "id": "nds480",
+    "id": "nds497",
     "igdbId": 21242,
     "gbId": 25868,
     "gbGuid": "3030-25868",
@@ -11716,7 +12171,7 @@
   },
   {
     "name": "Rosario to Vampire: Tanabata no Miss Youkai Gakuen",
-    "id": "nds481",
+    "id": "nds498",
     "igdbId": 58727,
     "gbId": 53225,
     "gbGuid": "3030-53225",
@@ -11739,7 +12194,7 @@
   },
   {
     "name": "Rune Factory 2: A Fantasy Harvest Moon",
-    "id": "nds482",
+    "id": "nds499",
     "igdbId": 20768,
     "gbId": 23516,
     "gbGuid": "3030-23516",
@@ -11763,7 +12218,7 @@
   },
   {
     "name": "Rune Factory 3: A Fantasy Harvest Moon",
-    "id": "nds483",
+    "id": "nds500",
     "igdbId": 9640,
     "gbId": 27199,
     "gbGuid": "3030-27199",
@@ -11787,7 +12242,7 @@
   },
   {
     "name": "Rune Factory: A Fantasy Harvest Moon",
-    "id": "nds484",
+    "id": "nds501",
     "igdbId": 20767,
     "gbId": 21486,
     "gbGuid": "3030-21486",
@@ -11811,7 +12266,7 @@
   },
   {
     "name": "SBK: Snowboard Kids",
-    "id": "nds485",
+    "id": "nds502",
     "igdbId": 47725,
     "gbId": 22102,
     "gbGuid": "3030-22102",
@@ -11835,7 +12290,7 @@
   },
   {
     "name": "SNK vs. Capcom Card Fighters' Clash - Capcom Card Fighter's Version",
-    "id": "nds486",
+    "id": "nds503",
     "igdbId": 28398,
     "gbId": null,
     "gbGuid": null,
@@ -11858,7 +12313,7 @@
   },
   {
     "name": "Sakura Note",
-    "id": "nds487",
+    "id": "nds504",
     "igdbId": 67734,
     "gbId": 27948,
     "gbGuid": "3030-27948",
@@ -11881,7 +12336,7 @@
   },
   {
     "name": "Sands of Destruction",
-    "id": "nds488",
+    "id": "nds505",
     "igdbId": 24331,
     "gbId": 24200,
     "gbGuid": "3030-24200",
@@ -11905,7 +12360,7 @@
   },
   {
     "name": "Scooby-Doo! Who's Watching Who?",
-    "id": "nds489",
+    "id": "nds506",
     "igdbId": 8087,
     "gbId": 21272,
     "gbGuid": "3030-21272",
@@ -11923,7 +12378,7 @@
   },
   {
     "name": "Scribblenauts",
-    "id": "nds490",
+    "id": "nds507",
     "igdbId": 8807,
     "gbId": 24741,
     "gbGuid": "3030-24741",
@@ -11947,7 +12402,7 @@
   },
   {
     "name": "Scripps Spelling Bee",
-    "id": "nds491",
+    "id": "nds508",
     "igdbId": 206644,
     "gbId": null,
     "gbGuid": null,
@@ -11973,7 +12428,7 @@
   },
   {
     "name": "Sekai no Gohan Shaberu! DS Oryouri Navi",
-    "id": "nds492",
+    "id": "nds509",
     "igdbId": 70563,
     "gbId": 24751,
     "gbGuid": "3030-24751",
@@ -11996,7 +12451,7 @@
   },
   {
     "name": "Shaun the Sheep",
-    "id": "nds493",
+    "id": "nds510",
     "igdbId": 68942,
     "gbId": 21081,
     "gbGuid": "3030-21081",
@@ -12020,7 +12475,7 @@
   },
   {
     "name": "Sherlock Holmes and the Mystery of Osborne House",
-    "id": "nds494",
+    "id": "nds511",
     "igdbId": 47926,
     "gbId": 39708,
     "gbGuid": "3030-39708",
@@ -12044,7 +12499,7 @@
   },
   {
     "name": "Shin Lucky Star Moe Drill: Tabidachi",
-    "id": "nds495",
+    "id": "nds512",
     "igdbId": 72619,
     "gbId": 23700,
     "gbGuid": "3030-23700",
@@ -12066,8 +12521,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Shin Noukyo Iku",
+    "id": "nds513",
+    "igdbId": null,
+    "gbId": 83374,
+    "gbGuid": "3030-83374",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Shining Force Feather",
-    "id": "nds496",
+    "id": "nds514",
     "igdbId": 47720,
     "gbId": 23986,
     "gbGuid": "3030-23986",
@@ -12091,7 +12572,7 @@
   },
   {
     "name": "Shonen Kininden Tsumuji",
-    "id": "nds497",
+    "id": "nds515",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -12115,7 +12596,7 @@
   },
   {
     "name": "Shrek Forever After",
-    "id": "nds498",
+    "id": "nds516",
     "igdbId": 210458,
     "gbId": 30877,
     "gbGuid": "3030-30877",
@@ -12141,7 +12622,7 @@
   },
   {
     "name": "Shrek: Ogres and Dronkeys",
-    "id": "nds499",
+    "id": "nds517",
     "igdbId": 47860,
     "gbId": null,
     "gbGuid": null,
@@ -12165,7 +12646,7 @@
   },
   {
     "name": "Sigma Harmonics",
-    "id": "nds500",
+    "id": "nds518",
     "igdbId": 24946,
     "gbId": 22311,
     "gbGuid": "3030-22311",
@@ -12188,7 +12669,7 @@
   },
   {
     "name": "SimCity Creator",
-    "id": "nds501",
+    "id": "nds519",
     "igdbId": 1493,
     "gbId": 20960,
     "gbGuid": "3030-20960",
@@ -12212,7 +12693,7 @@
   },
   {
     "name": "SimCity DS",
-    "id": "nds502",
+    "id": "nds520",
     "igdbId": 1494,
     "gbId": 17114,
     "gbGuid": "3030-17114",
@@ -12236,7 +12717,7 @@
   },
   {
     "name": "Slide Adventure: Mag Kid",
-    "id": "nds503",
+    "id": "nds521",
     "igdbId": 69702,
     "gbId": 12222,
     "gbGuid": "3030-12222",
@@ -12260,7 +12741,7 @@
   },
   {
     "name": "Snoopy DS: Let's Go Meet Snoopy and His Friends!",
-    "id": "nds504",
+    "id": "nds522",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -12283,7 +12764,7 @@
   },
   {
     "name": "Solatorobo: Red the Hunter",
-    "id": "nds505",
+    "id": "nds523",
     "igdbId": 9597,
     "gbId": 30423,
     "gbGuid": "3030-30423",
@@ -12320,7 +12801,7 @@
   },
   {
     "name": "Soma Bringer",
-    "id": "nds506",
+    "id": "nds524",
     "igdbId": 21468,
     "gbId": 21633,
     "gbGuid": "3030-21633",
@@ -12344,7 +12825,7 @@
   },
   {
     "name": "Sonic Chronicles: The Dark Brotherhood",
-    "id": "nds507",
+    "id": "nds525",
     "igdbId": 217,
     "gbId": 20641,
     "gbGuid": "3030-20641",
@@ -12368,7 +12849,7 @@
   },
   {
     "name": "Sonic Classic Collection",
-    "id": "nds508",
+    "id": "nds526",
     "igdbId": 20502,
     "gbId": 30187,
     "gbGuid": "3030-30187",
@@ -12405,7 +12886,7 @@
   },
   {
     "name": "Sonic Rush",
-    "id": "nds509",
+    "id": "nds527",
     "igdbId": 19258,
     "gbId": 9479,
     "gbGuid": "3030-9479",
@@ -12435,7 +12916,7 @@
   },
   {
     "name": "Sonic Rush Adventure",
-    "id": "nds510",
+    "id": "nds528",
     "igdbId": 19261,
     "gbId": 12778,
     "gbGuid": "3030-12778",
@@ -12459,7 +12940,7 @@
   },
   {
     "name": "Sonny with a Chance",
-    "id": "nds511",
+    "id": "nds529",
     "igdbId": 66903,
     "gbId": 30361,
     "gbGuid": "3030-30361",
@@ -12485,7 +12966,7 @@
   },
   {
     "name": "Sora no Otoshimono Forte: Dreamy Season",
-    "id": "nds512",
+    "id": "nds530",
     "igdbId": 62623,
     "gbId": 44527,
     "gbGuid": "3030-44527",
@@ -12508,7 +12989,7 @@
   },
   {
     "name": "Soul Bubbles",
-    "id": "nds513",
+    "id": "nds531",
     "igdbId": 21370,
     "gbId": 20611,
     "gbGuid": "3030-20611",
@@ -12532,7 +13013,7 @@
   },
   {
     "name": "Space Bust-A-Move",
-    "id": "nds514",
+    "id": "nds532",
     "igdbId": 20484,
     "gbId": 25411,
     "gbGuid": "3030-25411",
@@ -12556,7 +13037,7 @@
   },
   {
     "name": "Space Invaders Extreme 2",
-    "id": "nds515",
+    "id": "nds533",
     "igdbId": 8199,
     "gbId": 25127,
     "gbGuid": "3030-25127",
@@ -12580,7 +13061,7 @@
   },
   {
     "name": "Spanish for Everyone!",
-    "id": "nds516",
+    "id": "nds534",
     "igdbId": 25018,
     "gbId": null,
     "gbGuid": null,
@@ -12604,7 +13085,7 @@
   },
   {
     "name": "Spectrobes",
-    "id": "nds517",
+    "id": "nds535",
     "igdbId": 5174,
     "gbId": 18602,
     "gbGuid": "3030-18602",
@@ -12628,7 +13109,7 @@
   },
   {
     "name": "Spectrobes: Beyond the Portals",
-    "id": "nds518",
+    "id": "nds536",
     "igdbId": 5175,
     "gbId": 21159,
     "gbGuid": "3030-21159",
@@ -12652,7 +13133,7 @@
   },
   {
     "name": "Spice and Wolf",
-    "id": "nds519",
+    "id": "nds537",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -12675,7 +13156,7 @@
   },
   {
     "name": "Spider-Man 2",
-    "id": "nds520",
+    "id": "nds538",
     "igdbId": 6285,
     "gbId": 1690,
     "gbGuid": "3030-1690",
@@ -12699,7 +13180,7 @@
   },
   {
     "name": "Spider-Man: Web of Shadows",
-    "id": "nds521",
+    "id": "nds539",
     "igdbId": 5181,
     "gbId": 20762,
     "gbGuid": "3030-20762",
@@ -12717,7 +13198,7 @@
   },
   {
     "name": "SpongeBob's Boating Bash",
-    "id": "nds522",
+    "id": "nds540",
     "igdbId": 5189,
     "gbId": 30168,
     "gbGuid": "3030-30168",
@@ -12743,7 +13224,7 @@
   },
   {
     "name": "Spongebob vs. The Big One: Beach Party Cook-Off",
-    "id": "nds523",
+    "id": "nds541",
     "igdbId": 7993,
     "gbId": 25057,
     "gbGuid": "3030-25057",
@@ -12766,7 +13247,7 @@
   },
   {
     "name": "Spore Hero Arena",
-    "id": "nds524",
+    "id": "nds542",
     "igdbId": 21214,
     "gbId": 25119,
     "gbGuid": "3030-25119",
@@ -12790,7 +13271,7 @@
   },
   {
     "name": "Sprung",
-    "id": "nds525",
+    "id": "nds543",
     "igdbId": 124057,
     "gbId": 20145,
     "gbGuid": "3030-20145",
@@ -12814,7 +13295,7 @@
   },
   {
     "name": "Spyro: Shadow Legacy",
-    "id": "nds526",
+    "id": "nds544",
     "igdbId": 1581,
     "gbId": 13512,
     "gbGuid": "3030-13512",
@@ -12838,7 +13319,7 @@
   },
   {
     "name": "Star Wars The Clone Wars: Jedi Alliance",
-    "id": "nds527",
+    "id": "nds545",
     "igdbId": 21335,
     "gbId": 21021,
     "gbGuid": "3030-21021",
@@ -12862,7 +13343,7 @@
   },
   {
     "name": "Steal Princess",
-    "id": "nds528",
+    "id": "nds546",
     "igdbId": 21186,
     "gbId": 24307,
     "gbGuid": "3030-24307",
@@ -12886,7 +13367,7 @@
   },
   {
     "name": "SteamWorld Tower Defense",
-    "id": "nds529",
+    "id": "nds547",
     "igdbId": 84391,
     "gbId": 32009,
     "gbGuid": "3030-32009",
@@ -12909,7 +13390,7 @@
   },
   {
     "name": "Style Lab Makeover",
-    "id": "nds530",
+    "id": "nds548",
     "igdbId": 47980,
     "gbId": null,
     "gbGuid": null,
@@ -12935,7 +13416,7 @@
   },
   {
     "name": "Style Lab: Fashion Design",
-    "id": "nds531",
+    "id": "nds549",
     "igdbId": 208358,
     "gbId": null,
     "gbGuid": null,
@@ -12961,7 +13442,7 @@
   },
   {
     "name": "Style Lab: Jewelry Design",
-    "id": "nds532",
+    "id": "nds550",
     "igdbId": 208359,
     "gbId": null,
     "gbGuid": null,
@@ -12987,7 +13468,7 @@
   },
   {
     "name": "Style Savvy",
-    "id": "nds533",
+    "id": "nds551",
     "igdbId": 85398,
     "gbId": 23978,
     "gbGuid": "3030-23978",
@@ -13011,7 +13492,7 @@
   },
   {
     "name": "Sudoku Gridmaster",
-    "id": "nds534",
+    "id": "nds552",
     "igdbId": 20538,
     "gbId": 27786,
     "gbGuid": "3030-27786",
@@ -13035,7 +13516,7 @@
   },
   {
     "name": "Sudokuro",
-    "id": "nds535",
+    "id": "nds553",
     "igdbId": 123454,
     "gbId": null,
     "gbGuid": null,
@@ -13059,7 +13540,7 @@
   },
   {
     "name": "Suikoden Tierkreis",
-    "id": "nds536",
+    "id": "nds554",
     "igdbId": 1452,
     "gbId": 23478,
     "gbGuid": "3030-23478",
@@ -13083,7 +13564,7 @@
   },
   {
     "name": "Sujin Taisen Number Battles",
-    "id": "nds537",
+    "id": "nds555",
     "igdbId": 85408,
     "gbId": null,
     "gbGuid": null,
@@ -13106,7 +13587,7 @@
   },
   {
     "name": "Summon Night X: Tears Crown",
-    "id": "nds538",
+    "id": "nds556",
     "igdbId": 69297,
     "gbId": 25150,
     "gbGuid": "3030-25150",
@@ -13129,7 +13610,7 @@
   },
   {
     "name": "Summon Night: Twin Age",
-    "id": "nds539",
+    "id": "nds557",
     "igdbId": 21477,
     "gbId": 20615,
     "gbGuid": "3030-20615",
@@ -13153,7 +13634,7 @@
   },
   {
     "name": "Super Dodgeball Brawlers",
-    "id": "nds540",
+    "id": "nds558",
     "igdbId": 21052,
     "gbId": 21609,
     "gbGuid": "3030-21609",
@@ -13177,7 +13658,7 @@
   },
   {
     "name": "Super Mario 64 DS",
-    "id": "nds541",
+    "id": "nds559",
     "igdbId": 22301,
     "gbId": 8942,
     "gbGuid": "3030-8942",
@@ -13201,7 +13682,7 @@
   },
   {
     "name": "Super Monkey Ball: Touch & Roll",
-    "id": "nds542",
+    "id": "nds560",
     "igdbId": 20489,
     "gbId": 16029,
     "gbGuid": "3030-16029",
@@ -13225,7 +13706,7 @@
   },
   {
     "name": "Super Princess Peach",
-    "id": "nds543",
+    "id": "nds561",
     "igdbId": 20497,
     "gbId": 9882,
     "gbGuid": "3030-9882",
@@ -13249,7 +13730,7 @@
   },
   {
     "name": "Super Robot Taisen OG Saga: Endless Frontier",
-    "id": "nds544",
+    "id": "nds562",
     "igdbId": 21187,
     "gbId": 23621,
     "gbGuid": "3030-23621",
@@ -13273,7 +13754,7 @@
   },
   {
     "name": "Super Robot Taisen OG Saga: Mugen no Frontier EXCEED",
-    "id": "nds545",
+    "id": "nds563",
     "igdbId": 124069,
     "gbId": null,
     "gbGuid": null,
@@ -13297,7 +13778,7 @@
   },
   {
     "name": "Super Robot Wars W",
-    "id": "nds546",
+    "id": "nds564",
     "igdbId": 79341,
     "gbId": 21244,
     "gbGuid": "3030-21244",
@@ -13320,7 +13801,7 @@
   },
   {
     "name": "Super Scribblenauts",
-    "id": "nds547",
+    "id": "nds565",
     "igdbId": 8808,
     "gbId": 30209,
     "gbGuid": "3030-30209",
@@ -13344,7 +13825,7 @@
   },
   {
     "name": "Super Swap!",
-    "id": "nds548",
+    "id": "nds566",
     "igdbId": 54414,
     "gbId": null,
     "gbGuid": null,
@@ -13367,7 +13848,7 @@
   },
   {
     "name": "System: Flaw",
-    "id": "nds549",
+    "id": "nds567",
     "igdbId": 67695,
     "gbId": 28014,
     "gbGuid": "3030-28014",
@@ -13391,12 +13872,13 @@
   },
   {
     "name": "THE iDOLM@STER Dearly Stars",
-    "id": "nds550",
+    "id": "nds568",
     "igdbId": 11700,
     "gbId": 27313,
     "gbGuid": "3030-27313",
     "details": [
-      "Nintendo DS exclusive"
+      "Nintendo DS exclusive",
+      "Nintendo DS game with enhanced features on DSi (Japan)"
     ],
     "isExclusive": [
       {
@@ -13409,12 +13891,24 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Tales of the Tempest",
-    "id": "nds551",
+    "id": "nds569",
     "igdbId": 19096,
     "gbId": 21446,
     "gbGuid": "3030-21446",
@@ -13438,7 +13932,7 @@
   },
   {
     "name": "Tamagotchi Connection: Corner Shop",
-    "id": "nds552",
+    "id": "nds570",
     "igdbId": 20491,
     "gbId": null,
     "gbGuid": null,
@@ -13462,7 +13956,7 @@
   },
   {
     "name": "Tamagotchi Connection: Corner Shop 2",
-    "id": "nds553",
+    "id": "nds571",
     "igdbId": 20607,
     "gbId": 46327,
     "gbGuid": "3030-46327",
@@ -13486,7 +13980,7 @@
   },
   {
     "name": "Tamagotchi Connection: Corner Shop 3",
-    "id": "nds554",
+    "id": "nds572",
     "igdbId": 26544,
     "gbId": 21351,
     "gbGuid": "3030-21351",
@@ -13510,7 +14004,7 @@
   },
   {
     "name": "Tank Beat",
-    "id": "nds555",
+    "id": "nds573",
     "igdbId": 21532,
     "gbId": 24381,
     "gbGuid": "3030-24381",
@@ -13534,7 +14028,7 @@
   },
   {
     "name": "Tao's Adventure: Curse of the Demon Seal",
-    "id": "nds556",
+    "id": "nds574",
     "igdbId": 20495,
     "gbId": 6402,
     "gbGuid": "3030-6402",
@@ -13558,7 +14052,7 @@
   },
   {
     "name": "Tecmo Bowl: Kickoff",
-    "id": "nds557",
+    "id": "nds575",
     "igdbId": 21329,
     "gbId": 21038,
     "gbGuid": "3030-21038",
@@ -13582,7 +14076,7 @@
   },
   {
     "name": "Teenage Zombies: Invasion of the Alien Brain Thingys!",
-    "id": "nds558",
+    "id": "nds576",
     "igdbId": 21301,
     "gbId": 21611,
     "gbGuid": "3030-21611",
@@ -13606,7 +14100,7 @@
   },
   {
     "name": "Tenchu: Dark Secret",
-    "id": "nds559",
+    "id": "nds577",
     "igdbId": 20557,
     "gbId": 19998,
     "gbGuid": "3030-19998",
@@ -13630,7 +14124,7 @@
   },
   {
     "name": "Tetris DS",
-    "id": "nds560",
+    "id": "nds578",
     "igdbId": 18599,
     "gbId": 10234,
     "gbGuid": "3030-10234",
@@ -13654,7 +14148,7 @@
   },
   {
     "name": "That's So Raven: Psychic on the Scene",
-    "id": "nds561",
+    "id": "nds579",
     "igdbId": 47951,
     "gbId": 24170,
     "gbGuid": "3030-24170",
@@ -13678,7 +14172,7 @@
   },
   {
     "name": "The Biggest Loser",
-    "id": "nds562",
+    "id": "nds580",
     "igdbId": 48035,
     "gbId": 28433,
     "gbGuid": "3030-28433",
@@ -13704,7 +14198,7 @@
   },
   {
     "name": "The Cheetah Girls: Passport to Stardom",
-    "id": "nds563",
+    "id": "nds581",
     "igdbId": 117498,
     "gbId": 21979,
     "gbGuid": "3030-21979",
@@ -13728,7 +14222,7 @@
   },
   {
     "name": "The Cheetah Girls: Pop Star Sensations",
-    "id": "nds564",
+    "id": "nds582",
     "igdbId": 67759,
     "gbId": 27900,
     "gbGuid": "3030-27900",
@@ -13752,7 +14246,7 @@
   },
   {
     "name": "The Dark Spire",
-    "id": "nds565",
+    "id": "nds583",
     "igdbId": 21185,
     "gbId": 24865,
     "gbGuid": "3030-24865",
@@ -13776,7 +14270,7 @@
   },
   {
     "name": "The Last Airbender",
-    "id": "nds566",
+    "id": "nds584",
     "igdbId": 27458,
     "gbId": 30601,
     "gbGuid": "3030-30601",
@@ -13802,7 +14296,7 @@
   },
   {
     "name": "The Legend of Kage 2",
-    "id": "nds567",
+    "id": "nds585",
     "igdbId": 21336,
     "gbId": 21131,
     "gbGuid": "3030-21131",
@@ -13826,7 +14320,7 @@
   },
   {
     "name": "The Legendary Starfy",
-    "id": "nds568",
+    "id": "nds586",
     "igdbId": 20280,
     "gbId": 21016,
     "gbGuid": "3030-21016",
@@ -13850,7 +14344,7 @@
   },
   {
     "name": "The New York Times Crosswords",
-    "id": "nds569",
+    "id": "nds587",
     "igdbId": 44069,
     "gbId": 12937,
     "gbGuid": "3030-12937",
@@ -13874,7 +14368,7 @@
   },
   {
     "name": "The Penguins of Madagascar",
-    "id": "nds570",
+    "id": "nds588",
     "igdbId": 18273,
     "gbId": 69085,
     "gbGuid": "3030-69085",
@@ -13911,7 +14405,7 @@
   },
   {
     "name": "The Penguins of Madagascar: Dr. Blowhole Returns – Again!",
-    "id": "nds571",
+    "id": "nds589",
     "igdbId": 3768,
     "gbId": 35805,
     "gbGuid": "3030-35805",
@@ -13937,7 +14431,7 @@
   },
   {
     "name": "The Quest Trio: Jewels, Cards and Tiles",
-    "id": "nds572",
+    "id": "nds590",
     "igdbId": 124083,
     "gbId": null,
     "gbGuid": null,
@@ -13961,7 +14455,7 @@
   },
   {
     "name": "The Rub Rabbits!",
-    "id": "nds573",
+    "id": "nds591",
     "igdbId": 20488,
     "gbId": 3064,
     "gbGuid": "3030-3064",
@@ -13985,7 +14479,7 @@
   },
   {
     "name": "The Sims 2: Apartment Pets",
-    "id": "nds574",
+    "id": "nds592",
     "igdbId": 21464,
     "gbId": 21054,
     "gbGuid": "3030-21054",
@@ -14009,7 +14503,7 @@
   },
   {
     "name": "The Sims 3",
-    "id": "nds575",
+    "id": "nds593",
     "igdbId": 260,
     "gbId": 20581,
     "gbGuid": "3030-20581",
@@ -14035,7 +14529,7 @@
   },
   {
     "name": "The Smurfs",
-    "id": "nds576",
+    "id": "nds594",
     "igdbId": 80521,
     "gbId": 47406,
     "gbGuid": "3030-47406",
@@ -14059,7 +14553,7 @@
   },
   {
     "name": "The Urbz: Sims in the City",
-    "id": "nds577",
+    "id": "nds595",
     "igdbId": 2158,
     "gbId": 1842,
     "gbGuid": "3030-1842",
@@ -14083,7 +14577,7 @@
   },
   {
     "name": "The Wizard of Oz: Beyond the Yellow Brick Road",
-    "id": "nds578",
+    "id": "nds596",
     "igdbId": 21116,
     "gbId": 24394,
     "gbGuid": "3030-24394",
@@ -14107,7 +14601,7 @@
   },
   {
     "name": "Theresia",
-    "id": "nds579",
+    "id": "nds597",
     "igdbId": 21300,
     "gbId": 21411,
     "gbGuid": "3030-21411",
@@ -14131,7 +14625,7 @@
   },
   {
     "name": "ThunderCats",
-    "id": "nds580",
+    "id": "nds598",
     "igdbId": 8060,
     "gbId": 38569,
     "gbGuid": "3030-38569",
@@ -14155,7 +14649,7 @@
   },
   {
     "name": "Time Ace",
-    "id": "nds581",
+    "id": "nds599",
     "igdbId": 21545,
     "gbId": 46670,
     "gbGuid": "3030-46670",
@@ -14179,7 +14673,7 @@
   },
   {
     "name": "Time Hollow",
-    "id": "nds582",
+    "id": "nds600",
     "igdbId": 21055,
     "gbId": 21052,
     "gbGuid": "3030-21052",
@@ -14203,7 +14697,7 @@
   },
   {
     "name": "Tokyo Beat Down",
-    "id": "nds583",
+    "id": "nds601",
     "igdbId": 20703,
     "gbId": 25040,
     "gbGuid": "3030-25040",
@@ -14227,7 +14721,7 @@
   },
   {
     "name": "Tomodachi Collection",
-    "id": "nds584",
+    "id": "nds602",
     "igdbId": 71900,
     "gbId": 23982,
     "gbGuid": "3030-23982",
@@ -14251,7 +14745,7 @@
   },
   {
     "name": "Tony Hawk's Motion",
-    "id": "nds585",
+    "id": "nds603",
     "igdbId": 21929,
     "gbId": 23634,
     "gbGuid": "3030-23634",
@@ -14275,7 +14769,7 @@
   },
   {
     "name": "Tornado",
-    "id": "nds586",
+    "id": "nds604",
     "igdbId": 21333,
     "gbId": 21086,
     "gbGuid": "3030-21086",
@@ -14299,7 +14793,7 @@
   },
   {
     "name": "Touch Detective 2 1/2",
-    "id": "nds587",
+    "id": "nds605",
     "igdbId": 21237,
     "gbId": 8676,
     "gbGuid": "3030-8676",
@@ -14323,7 +14817,7 @@
   },
   {
     "name": "Touch Dictionary",
-    "id": "nds588",
+    "id": "nds606",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -14346,7 +14840,7 @@
   },
   {
     "name": "TouchMaster",
-    "id": "nds589",
+    "id": "nds607",
     "igdbId": 21442,
     "gbId": 20637,
     "gbGuid": "3030-20637",
@@ -14370,7 +14864,7 @@
   },
   {
     "name": "TouchMaster Connect",
-    "id": "nds590",
+    "id": "nds608",
     "igdbId": 124102,
     "gbId": 73761,
     "gbGuid": "3030-73761",
@@ -14396,7 +14890,7 @@
   },
   {
     "name": "Toy Shop",
-    "id": "nds591",
+    "id": "nds609",
     "igdbId": 21299,
     "gbId": 22964,
     "gbGuid": "3030-22964",
@@ -14420,7 +14914,7 @@
   },
   {
     "name": "Toy Story 3: The Video Game",
-    "id": "nds592",
+    "id": "nds610",
     "igdbId": 202117,
     "gbId": 30039,
     "gbGuid": "3030-30039",
@@ -14446,7 +14940,7 @@
   },
   {
     "name": "TrackMania DS",
-    "id": "nds593",
+    "id": "nds611",
     "igdbId": 21304,
     "gbId": 22406,
     "gbGuid": "3030-22406",
@@ -14470,7 +14964,7 @@
   },
   {
     "name": "Transformers Animated: The Game",
-    "id": "nds594",
+    "id": "nds612",
     "igdbId": 47846,
     "gbId": 27812,
     "gbGuid": "3030-27812",
@@ -14494,7 +14988,7 @@
   },
   {
     "name": "Transformers: Autobots",
-    "id": "nds595",
+    "id": "nds613",
     "igdbId": 21536,
     "gbId": 27027,
     "gbGuid": "3030-27027",
@@ -14518,7 +15012,7 @@
   },
   {
     "name": "Transformers: Revenge of the Fallen - Autobots",
-    "id": "nds596",
+    "id": "nds614",
     "igdbId": 7471,
     "gbId": null,
     "gbGuid": null,
@@ -14542,7 +15036,7 @@
   },
   {
     "name": "Transformers: War for Cybertron",
-    "id": "nds597",
+    "id": "nds615",
     "igdbId": 47945,
     "gbId": 29405,
     "gbGuid": "3030-29405",
@@ -14566,7 +15060,7 @@
   },
   {
     "name": "Trauma Center: Under the Knife 2",
-    "id": "nds598",
+    "id": "nds616",
     "igdbId": 1526,
     "gbId": 20620,
     "gbGuid": "3030-20620",
@@ -14590,7 +15084,7 @@
   },
   {
     "name": "Treasure World",
-    "id": "nds599",
+    "id": "nds617",
     "igdbId": 21125,
     "gbId": 26624,
     "gbGuid": "3030-26624",
@@ -14614,7 +15108,7 @@
   },
   {
     "name": "Trioncube",
-    "id": "nds600",
+    "id": "nds618",
     "igdbId": 21547,
     "gbId": 31017,
     "gbGuid": "3030-31017",
@@ -14638,7 +15132,7 @@
   },
   {
     "name": "Tron Evolution: Battle Grids",
-    "id": "nds601",
+    "id": "nds619",
     "igdbId": 5246,
     "gbId": 29284,
     "gbGuid": "3030-29284",
@@ -14664,7 +15158,7 @@
   },
   {
     "name": "True Swing Golf",
-    "id": "nds602",
+    "id": "nds620",
     "igdbId": 20493,
     "gbId": 11329,
     "gbGuid": "3030-11329",
@@ -14688,7 +15182,7 @@
   },
   {
     "name": "Ultimate Mortal Kombat",
-    "id": "nds603",
+    "id": "nds621",
     "igdbId": 21526,
     "gbId": 21277,
     "gbGuid": "3030-21277",
@@ -14712,7 +15206,7 @@
   },
   {
     "name": "Unsolved Crimes",
-    "id": "nds604",
+    "id": "nds622",
     "igdbId": 21376,
     "gbId": 21807,
     "gbGuid": "3030-21807",
@@ -14736,7 +15230,7 @@
   },
   {
     "name": "Utacchi",
-    "id": "nds605",
+    "id": "nds623",
     "igdbId": 80482,
     "gbId": 30618,
     "gbGuid": "3030-30618",
@@ -14759,7 +15253,7 @@
   },
   {
     "name": "Valkyrie Profile: Covenant of the Plume",
-    "id": "nds606",
+    "id": "nds624",
     "igdbId": 6579,
     "gbId": 21400,
     "gbGuid": "3030-21400",
@@ -14783,7 +15277,7 @@
   },
   {
     "name": "Vampire Legends: Power of Three",
-    "id": "nds607",
+    "id": "nds625",
     "igdbId": 18308,
     "gbId": null,
     "gbGuid": null,
@@ -14809,7 +15303,7 @@
   },
   {
     "name": "Viewtiful Joe: Double Trouble!",
-    "id": "nds608",
+    "id": "nds626",
     "igdbId": 5987,
     "gbId": 20043,
     "gbGuid": "3030-20043",
@@ -14833,7 +15327,7 @@
   },
   {
     "name": "Viva Piñata: Pocket Paradise",
-    "id": "nds609",
+    "id": "nds627",
     "igdbId": 47724,
     "gbId": 21062,
     "gbGuid": "3030-21062",
@@ -14857,7 +15351,7 @@
   },
   {
     "name": "Wagyan Land",
-    "id": "nds610",
+    "id": "nds628",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -14881,7 +15375,7 @@
   },
   {
     "name": "WarioWare: Snapped!",
-    "id": "nds611",
+    "id": "nds629",
     "igdbId": 1707,
     "gbId": 24313,
     "gbGuid": "3030-24313",
@@ -14904,7 +15398,7 @@
   },
   {
     "name": "What's Cooking with Jamie Oliver",
-    "id": "nds612",
+    "id": "nds630",
     "igdbId": 80202,
     "gbId": 24399,
     "gbGuid": "3030-24399",
@@ -14928,7 +15422,7 @@
   },
   {
     "name": "Where in the World is Carmen Sandiego? 3 - New Carmen Adventure",
-    "id": "nds613",
+    "id": "nds631",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -14951,7 +15445,7 @@
   },
   {
     "name": "Witches & Vampires Ghost Pirates Of Ashburry",
-    "id": "nds614",
+    "id": "nds632",
     "igdbId": 47812,
     "gbId": null,
     "gbGuid": null,
@@ -14977,7 +15471,7 @@
   },
   {
     "name": "Wizards of Waverly Place",
-    "id": "nds615",
+    "id": "nds633",
     "igdbId": 44065,
     "gbId": 26807,
     "gbGuid": "3030-26807",
@@ -15001,7 +15495,7 @@
   },
   {
     "name": "Wizards of Waverly Place: Spellbound",
-    "id": "nds616",
+    "id": "nds634",
     "igdbId": 24309,
     "gbId": null,
     "gbGuid": null,
@@ -15025,7 +15519,7 @@
   },
   {
     "name": "WordJong",
-    "id": "nds617",
+    "id": "nds635",
     "igdbId": null,
     "gbId": 21466,
     "gbGuid": "3030-21466",
@@ -15049,7 +15543,7 @@
   },
   {
     "name": "World Snooker Championship 2007",
-    "id": "nds618",
+    "id": "nds636",
     "igdbId": 7248,
     "gbId": 38757,
     "gbGuid": "3030-38757",
@@ -15073,7 +15567,7 @@
   },
   {
     "name": "X-Scape",
-    "id": "nds619",
+    "id": "nds637",
     "igdbId": 67155,
     "gbId": 29633,
     "gbGuid": "3030-29633",
@@ -15096,7 +15590,7 @@
   },
   {
     "name": "Xenosaga I & II",
-    "id": "nds620",
+    "id": "nds638",
     "igdbId": 26805,
     "gbId": 11881,
     "gbGuid": "3030-11881",
@@ -15120,7 +15614,7 @@
   },
   {
     "name": "Yakuman DS",
-    "id": "nds621",
+    "id": "nds639",
     "igdbId": 18596,
     "gbId": 29145,
     "gbGuid": "3030-29145",
@@ -15144,7 +15638,7 @@
   },
   {
     "name": "You Don't Know Jack",
-    "id": "nds622",
+    "id": "nds640",
     "igdbId": 5304,
     "gbId": 31816,
     "gbGuid": "3030-31816",
@@ -15170,7 +15664,7 @@
   },
   {
     "name": "Youda Farmer",
-    "id": "nds623",
+    "id": "nds641",
     "igdbId": 9315,
     "gbId": null,
     "gbGuid": null,
@@ -15196,7 +15690,7 @@
   },
   {
     "name": "Ys Strategy",
-    "id": "nds624",
+    "id": "nds642",
     "igdbId": 15456,
     "gbId": 24107,
     "gbGuid": "3030-24107",
@@ -15219,8 +15713,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Zaidan Houjin Nippon Kanji Nouryoku Kentai Kyoukai Kyouryoku Kanken DS Training",
+    "id": "nds643",
+    "igdbId": 123032,
+    "gbId": 73826,
+    "gbGuid": "3030-73826",
+    "details": [
+      "Nintendo DS game with enhanced features on DSi (Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo DS game with enhanced features on DSi (Japan)",
+        "forPlatform": {
+          "name": "Nintendo DS",
+          "id": "ccl11",
+          "igdbId": 20,
+          "gbId": 52,
+          "gbGuid": "3045-52",
+          "tgdbId": 8
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "ZhuZhu Pets 2: Featuring The Wild Bunch",
-    "id": "nds625",
+    "id": "nds644",
     "igdbId": 50978,
     "gbId": null,
     "gbGuid": null,
@@ -15246,7 +15766,7 @@
   },
   {
     "name": "Zoo Tycoon DS",
-    "id": "nds626",
+    "id": "nds645",
     "igdbId": 18598,
     "gbId": 9677,
     "gbGuid": "3030-9677",
@@ -15270,7 +15790,7 @@
   },
   {
     "name": "Zoo Tycoon DS 2",
-    "id": "nds627",
+    "id": "nds646",
     "igdbId": 20773,
     "gbId": 41998,
     "gbGuid": "3030-41998",
@@ -15294,7 +15814,7 @@
   },
   {
     "name": "Zoobles! Spring to Life!",
-    "id": "nds628",
+    "id": "nds647",
     "igdbId": 9753,
     "gbId": 36426,
     "gbGuid": "3030-36426",
@@ -15318,7 +15838,7 @@
   },
   {
     "name": "Zorro: Quest for Justice",
-    "id": "nds629",
+    "id": "nds648",
     "igdbId": 60504,
     "gbId": 49126,
     "gbGuid": "3030-49126",
@@ -15336,7 +15856,7 @@
   },
   {
     "name": "Zubo",
-    "id": "nds630",
+    "id": "nds649",
     "igdbId": 21472,
     "gbId": 21085,
     "gbGuid": "3030-21085",
@@ -15360,7 +15880,7 @@
   },
   {
     "name": "de Blob 2",
-    "id": "nds631",
+    "id": "nds650",
     "igdbId": 4796,
     "gbId": 29940,
     "gbGuid": "3030-29940",
@@ -15386,7 +15906,7 @@
   },
   {
     "name": "iCarly",
-    "id": "nds632",
+    "id": "nds651",
     "igdbId": 4921,
     "gbId": 28441,
     "gbGuid": "3030-28441",
@@ -15412,7 +15932,7 @@
   },
   {
     "name": "iCarly 2: iJoin the Click",
-    "id": "nds633",
+    "id": "nds652",
     "igdbId": 4922,
     "gbId": 39017,
     "gbGuid": "3030-39017",
@@ -15438,7 +15958,7 @@
   },
   {
     "name": "uDraw Pictionary",
-    "id": "nds634",
+    "id": "nds653",
     "igdbId": 5186,
     "gbId": 17553,
     "gbGuid": "3030-17553",

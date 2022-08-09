@@ -202,7 +202,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/nintendoDsMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'special/nintendoDsGamesDsiEnhanced.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'special/nintendoDsGamesDsiEnhanced.json')),
+      require(path.resolve(smallFiles, 'special/nintendoDsGamesDsiEnhancedJapan.json'))
+    ],
     output: path.resolve(consoleLists, 'NintendoDS.json')
   },
   {
