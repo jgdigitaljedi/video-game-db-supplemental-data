@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 const glob = require('glob');
+const parensRemove = require('stringman-utils').parensRemove;
+const parensRetrieve = require('stringman-utils').parensRetrieve;
 
 module.exports.writeFile = function(filePath, data) {
   return new Promise((resolve, reject) => {
@@ -41,12 +43,22 @@ module.exports.incrementIds = function(data, prefix) {
   });
 };
 
-module.exports.stringArrToObjectArr = function(data, details, prefix) {
+function moveTextInParens(text) {
+  const parensContent = parensRetrieve(text);
+  if (parensContent && parensContent.length) {
+    const noParens = parensRemove(text);
+    return { name: noParens, detailsExtra: parensContent };
+  }
+  return { name: text, detailsExtra: null };
+}
+
+module.exports.stringArrToObjectArr = function(data, details, prefix, parensToDetails) {
   return data.map((d, index) => {
+    const parens = parensToDetails ? moveTextInParens(d) : { name: d, detailsExtra: null };
     return {
-      name: d,
+      name: parens.name,
       id: `${prefix}${index + 1}`,
-      details,
+      details: `${details}${parens && parens.detailsExtra ? ' (' + parens.detailsExtra + ')' : ''}`,
       igdbId: null,
       gbId: null,
       gbGuid: null,

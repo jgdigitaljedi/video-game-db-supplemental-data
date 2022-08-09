@@ -2,13 +2,19 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/launchTitles/bandaiPlaydiaLaunchTitles.json';
-const idPrefix = 'bplt';
+const relativePath = '../../textFilesToBeConverted/special/nintendoDsGamesDsiEnhanced.json';
+const idPrefix = 'dsien';
+const parensToDetails = true;
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
-  const newData = fileUtil.stringArrToObjectArr(parsed, 'Bandai Playdia launch title', idPrefix);
+  const newData = fileUtil.stringArrToObjectArr(
+    parsed,
+    'Nintendo DS game with enhanced features on DSi',
+    idPrefix,
+    parensToDetails
+  );
   const result = await fileUtil.writeFile(relativePath, newData);
   if (result) {
     console.log(chalk.cyan.bold('All IDs written!'));
