@@ -27,6 +27,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - comltX - Game Com launch titles (gameComLaunchTitles.json) | GAMES LIST
 - cvltX - ColecoVision launch titles (colecoVisionLaunchTitles.json) | GAMES LIST
 - dcltX - Sega Dreamcast launch titles (dreamcastLaunchTitles.json) | GAMES LIST
+- ecvtX - Epoch Cassette Vision launch titles (epochCassetteVisionLaunchTitles.json) | GAMES LIST
 - famltX - Nintendo Famicom launch titles (famicomLaunchTitles.json) | GAMES LIST
 - fdsltX - Nintendo Famicom Disk System launch titles (famicomDiskSystemLaunchTitles.json) | GAMES LIST
 - gbltX - Nintendo Game Boy launch titles (gameBoyLaunchTitles.json) | GAMES LIST
@@ -61,6 +62,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - scdltX - Sega CD launch titles (segaCdLaunchTitles.json) | GAMES LIST
 - smltX - Sega Master System launch titles (segaMasterSystemLaunchTitles.json) | GAMES LIST
 - snltX - SNES launch titles (snesLaunchTitles.json) | GAMES LIST
+- ssg1ltX - Sega SG-1000 launch titles (segaSg1000LaunchTitles.json) | GAMES LIST
 - ssltX - Sega Saturn launch titles (segaSaturnLaunchTitles.json) | GAMES LIST
 - sxpltX - SSD Company Limited XaviXPORT launch titles (xavixPortLaunchTitles.json) | GAMES LIST
 - t16ltX - NEC TurboGrafx 16 launch titles launch titles (turbografx16LaunchTitles.json) | GAMES LIST

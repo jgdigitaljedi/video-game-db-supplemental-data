@@ -3,8 +3,8 @@ const cheerio = require('cheerio');
 const request = require('request');
 const fileUtil = require('./fileUtilities');
 
-const siteUrl = 'https://wikiless.org/wiki/List_of_Neo_Geo_Pocket_Color_games?lang=en';
-const filePath = '../../textFilesToBeConverted/backwardCompatibility/ngpcToNgp.json';
+const siteUrl = 'https://wikiless.org/wiki/List_of_SG-1000_games?lang=en';
+const filePath = '../../textFilesToBeConverted/launchTitles/segaSg1000LaunchTitles.json';
 
 const final = [];
 

@@ -3,7 +3,7 @@ const gbController = require('../../../server/gb.controller');
 const gbKey = process.env.JGBKEY;
 const axios = require('axios');
 
-const pName = 'playdia';
+const pName = 'Epoch Cassette Vision';
 
 const searchIgdbPlatform = async () => {
   try {

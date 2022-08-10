@@ -23,4 +23,5 @@ Note that the Nintendo DSi is NOT missing launch titles because there were none.
 | NEC PC-FX                        |     | X   |
 | Fairchild Channel F              | X   | X   |
 | XaviXPORT                        |     | X   |
-| Bandai Playdia                   | X   |     |
+| Sega SG-1000                     |     | X   |
+| Epoch Cassette Vision            |     | X   |

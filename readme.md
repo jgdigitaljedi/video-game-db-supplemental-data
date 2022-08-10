@@ -110,7 +110,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Bandai WonderSwan
 - Bandai WonderSwan Color
 - ColecoVision
-- Tiger Telematics Gizmondo
+- Epoch Cassette Vision
 - Magnavox Odyssey 2
 - Mattel Intellivision
 - Microsoft Xbox
@@ -148,6 +148,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sega Genesis
 - Sega Master System
 - Sega Saturn
+- Sega SG-1000
 - SNK Neo Geo AES
 - SNK Neo Geo CD
 - SNK Neo Geo Pocket Color
@@ -160,6 +161,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sony PlayStation Vita
 - Super Nintendo Entertainment System
 - Tiger Game.com
+- Tiger Telematics Gizmondo
 
 ### Console/Platform Exclusives
 
@@ -379,7 +381,7 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan.
 
-Out of 15717 data points collected so far, the APIs are missing data the following number of items:
+Out of 15733 data points collected so far, the APIs are missing data the following number of items:
 
 - Missing from all APIs: 1486 (9%)
 - IGDB: 1645 (10%)

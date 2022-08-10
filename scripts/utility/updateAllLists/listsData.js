@@ -904,5 +904,28 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'BandaiPlaydia.json')
+  },
+  {
+    name: 'Sega SG-1000',
+    id: 'ccl62',
+    prefix: 'ssg1',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/segaSg1000LaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'SegaSG-1000.json')
+  },
+  {
+    name: 'Epoch Cassette Vision',
+    id: 'ccl63',
+    prefix: 'ecv',
+    launchTitles: require(path.resolve(
+      smallFiles,
+      'launchTitles/epochCassetteVisionLaunchTitles.json'
+    )),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'EpochCassetteVision.json')
   }
 ];

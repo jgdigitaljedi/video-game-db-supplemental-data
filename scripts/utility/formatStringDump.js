@@ -2,8 +2,9 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/nintendoDsGamesDsiEnhancedJapan.json';
-const idPrefix = 'dsijp';
+const relativePath =
+  '../../textFilesToBeConverted/launchTitles/epochCassetteVisionLaunchTitles.json';
+const idPrefix = 'ecv';
 const parensToDetails = false;
 
 (async function() {
@@ -11,7 +12,7 @@ const parensToDetails = false;
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Nintendo DS game with enhanced features on DSi (Japan)',
+    'Epoch Cassette Vision launch title',
     idPrefix,
     parensToDetails
   );
