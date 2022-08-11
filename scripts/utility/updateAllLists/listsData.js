@@ -946,7 +946,10 @@ module.exports.listData = [
       smallFiles,
       'launchTitles/magnavoxOdysseyLaunchTitles.json'
     )),
-    exclusives: null,
+    exclusives: require(path.resolve(
+      smallFiles,
+      'platformExclusives/magnavoxOdysseyExclusives.json'
+    )),
     misprintsAndErrors: null,
     special: [require(path.resolve(smallFiles, 'special/magnavoxOdysseyLightGunGames.json'))],
     output: path.resolve(consoleLists, 'MagnavoxOdyssey.json')

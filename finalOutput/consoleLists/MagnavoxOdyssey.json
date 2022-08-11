@@ -22,8 +22,74 @@
     "misprintsErrors": []
   },
   {
-    "name": "Cat and Mouse",
+    "name": "Baseball",
     "id": "mo1",
+    "igdbId": 7582,
+    "gbId": 37739,
+    "gbGuid": "3030-37739",
+    "details": [
+      "Magnavox Odyssey exclusive game (US exclusive)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Basketball",
+    "id": "mo2",
+    "igdbId": 109471,
+    "gbId": 67475,
+    "gbGuid": "3030-67475",
+    "details": [
+      "Magnavox Odyssey exclusive game (US exclusive)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Brain Wave",
+    "id": "mo3",
+    "igdbId": 41540,
+    "gbId": 67468,
+    "gbGuid": "3030-67468",
+    "details": [
+      "Magnavox Odyssey exclusive game (US exclusive)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cat and Mouse",
+    "id": "mo4",
     "igdbId": 11533,
     "gbId": 67471,
     "gbGuid": "3030-67471",
@@ -45,7 +111,7 @@
   },
   {
     "name": "Dogfight!",
-    "id": "mo2",
+    "id": "mo5",
     "igdbId": 109451,
     "gbId": 67518,
     "gbGuid": "3030-67518",
@@ -70,14 +136,23 @@
   },
   {
     "name": "Football",
-    "id": "mo3",
+    "id": "mo6",
     "igdbId": 11547,
     "gbId": 67515,
     "gbGuid": "3030-67515",
     "details": [
-      "Magnavox Odyssey launch title (Included with console for US - game card 3 & 4)"
+      "Magnavox Odyssey launch title (Included with console for US - game card 3 & 4)",
+      "Magnavox Odyssey exclusive game (US exclusive)"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Magnavox Odyssey",
@@ -91,8 +166,52 @@
     "misprintsErrors": []
   },
   {
+    "name": "Fun Zoo",
+    "id": "mo7",
+    "igdbId": 18360,
+    "gbId": 67466,
+    "gbGuid": "3030-67466",
+    "details": [
+      "Magnavox Odyssey exclusive game (US exclusive)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Handball",
+    "id": "mo8",
+    "igdbId": 18391,
+    "gbId": 67476,
+    "gbGuid": "3030-67476",
+    "details": [
+      "Magnavox Odyssey exclusive game (US exclusive)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Haunted House",
-    "id": "mo4",
+    "id": "mo9",
     "igdbId": 11517,
     "gbId": 33491,
     "gbGuid": "3030-33491",
@@ -114,7 +233,7 @@
   },
   {
     "name": "Hockey",
-    "id": "mo5",
+    "id": "mo10",
     "igdbId": 11534,
     "gbId": 67469,
     "gbGuid": "3030-67469",
@@ -135,8 +254,74 @@
     "misprintsErrors": []
   },
   {
+    "name": "Interplanetary Voyage",
+    "id": "mo11",
+    "igdbId": 41541,
+    "gbId": 67517,
+    "gbGuid": "3030-67517",
+    "details": [
+      "Magnavox Odyssey exclusive game (US exclusive)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Invasion",
+    "id": "mo12",
+    "igdbId": 109448,
+    "gbId": 67516,
+    "gbGuid": "3030-67516",
+    "details": [
+      "Magnavox Odyssey exclusive game (US exclusive)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Percepts",
+    "id": "mo13",
+    "igdbId": 18392,
+    "gbId": 67467,
+    "gbGuid": "3030-67467",
+    "details": [
+      "Magnavox Odyssey exclusive game (US exclusive)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Prehistoric Safari",
-    "id": "mo6",
+    "id": "mo14",
     "igdbId": 109452,
     "gbId": 67519,
     "gbGuid": "3030-67519",
@@ -161,7 +346,7 @@
   },
   {
     "name": "Roulette",
-    "id": "mo7",
+    "id": "mo15",
     "igdbId": 11521,
     "gbId": 49940,
     "gbGuid": "3030-49940",
@@ -183,7 +368,7 @@
   },
   {
     "name": "Shooting Gallery",
-    "id": "mo8",
+    "id": "mo16",
     "igdbId": 28363,
     "gbId": 43951,
     "gbGuid": "3030-43951",
@@ -208,7 +393,7 @@
   },
   {
     "name": "Shootout!",
-    "id": "mo9",
+    "id": "mo17",
     "igdbId": 109450,
     "gbId": 67520,
     "gbGuid": "3030-67520",
@@ -233,7 +418,7 @@
   },
   {
     "name": "Simon Says",
-    "id": "mo10",
+    "id": "mo18",
     "igdbId": 11505,
     "gbId": 33456,
     "gbGuid": "3030-33456",
@@ -255,7 +440,7 @@
   },
   {
     "name": "Ski",
-    "id": "mo11",
+    "id": "mo19",
     "igdbId": 11532,
     "gbId": 63832,
     "gbGuid": "3030-63832",
@@ -277,14 +462,23 @@
   },
   {
     "name": "Soccer",
-    "id": "mo12",
+    "id": "mo20",
     "igdbId": 18441,
     "gbId": 67477,
     "gbGuid": "3030-67477",
     "details": [
-      "Magnavox Odyssey launch title (Included with console for Int - game card 8)"
+      "Magnavox Odyssey launch title (Included with console for Int - game card 8)",
+      "Magnavox Odyssey exclusive game (International exclusive)"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Magnavox Odyssey",
@@ -299,14 +493,23 @@
   },
   {
     "name": "States",
-    "id": "mo13",
+    "id": "mo21",
     "igdbId": 11531,
     "gbId": 49941,
     "gbGuid": "3030-49941",
     "details": [
-      "Magnavox Odyssey launch title (Included with console for US - game card 6)"
+      "Magnavox Odyssey launch title (Included with console for US - game card 6)",
+      "Magnavox Odyssey exclusive game (US exclusive)"
     ],
-    "isExclusive": false,
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
     "isLaunchTitle": [
       {
         "name": "Magnavox Odyssey",
@@ -321,7 +524,7 @@
   },
   {
     "name": "Submarine",
-    "id": "mo14",
+    "id": "mo22",
     "igdbId": 11520,
     "gbId": 8010,
     "gbGuid": "3030-8010",
@@ -343,7 +546,7 @@
   },
   {
     "name": "Table Tennis",
-    "id": "mo15",
+    "id": "mo23",
     "igdbId": 11500,
     "gbId": 14965,
     "gbGuid": "3030-14965",
@@ -365,7 +568,7 @@
   },
   {
     "name": "Volleyball",
-    "id": "mo16",
+    "id": "mo24",
     "igdbId": 109446,
     "gbId": 67474,
     "gbGuid": "3030-67474",
@@ -386,8 +589,30 @@
     "misprintsErrors": []
   },
   {
+    "name": "W.I.N.",
+    "id": "mo25",
+    "igdbId": 41539,
+    "gbId": 67472,
+    "gbGuid": "3030-67472",
+    "details": [
+      "Magnavox Odyssey exclusive game (US exclusive)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Magnavox Odyssey",
+        "id": "ccl65",
+        "igdbId": 88,
+        "gbId": 74,
+        "gbGuid": "3045-74"
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
     "name": "Wipeout",
-    "id": "mo17",
+    "id": "mo26",
     "igdbId": 109445,
     "gbId": 67473,
     "gbGuid": "3030-67473",

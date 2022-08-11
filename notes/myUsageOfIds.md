@@ -149,6 +149,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - fdsexX - Famicom Disk System console exclusives (famicomDiskSystemExclusives.json | GAMES LIST)
 - gcexX - Nintendo GameCube console exclusives (gamecubeExclusives.json | GAMES LIST)
 - ivexX - Mattel Intellivision console exclusives (intellivisionExclusives.json | GAMES LIST)
+- moexX - Magnavox Odyssey console exclusives (magnavoxOdysseyExclusives.json | GAMES LIST)
 - n3dsexX - Nintendo 3ds console exclusives (nintendo3dsExclusives.json | GAMES LIST)
 - n64exX - Nintendo 64 console exclusives (nintendoN64Exclusives.json | GAMES LIST)
 - ndsexX - Nintendo DS console exclusives (nintendoDsExclusives.json | GAMES LIST)
