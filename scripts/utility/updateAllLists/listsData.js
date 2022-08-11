@@ -927,5 +927,28 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'EpochCassetteVision.json')
+  },
+  {
+    name: 'Emerson Arcadia 2001',
+    id: 'ccl64',
+    prefix: 'ema',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/emersonArcadiaLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'EmersonArcadia2001.json')
+  },
+  {
+    name: 'Magnavox Odyssey',
+    id: 'ccl65',
+    prefix: 'mo',
+    launchTitles: require(path.resolve(
+      smallFiles,
+      'launchTitles/magnavoxOdysseyLaunchTitles.json'
+    )),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: [require(path.resolve(smallFiles, 'special/magnavoxOdysseyLightGunGames.json'))],
+    output: path.resolve(consoleLists, 'MagnavoxOdyssey.json')
   }
 ];

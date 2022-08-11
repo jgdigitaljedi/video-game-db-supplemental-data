@@ -28,6 +28,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - cvltX - ColecoVision launch titles (colecoVisionLaunchTitles.json) | GAMES LIST
 - dcltX - Sega Dreamcast launch titles (dreamcastLaunchTitles.json) | GAMES LIST
 - ecvtX - Epoch Cassette Vision launch titles (epochCassetteVisionLaunchTitles.json) | GAMES LIST
+- emaltX - Emerson Arcadia 2001 launch titles (emersonArcadiaVisionLaunchTitles.json) | GAMES LIST
 - famltX - Nintendo Famicom launch titles (famicomLaunchTitles.json) | GAMES LIST
 - fdsltX - Nintendo Famicom Disk System launch titles (famicomDiskSystemLaunchTitles.json) | GAMES LIST
 - gbltX - Nintendo Game Boy launch titles (gameBoyLaunchTitles.json) | GAMES LIST
@@ -39,6 +40,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - gmltX - Gizmondo launch titles (gizmondoLaunchTitles.json) | GAMES LIST
 - ivltX - Mattel Intellivision launch titles (intellivisionLaunchTitles.json) | GAMES LIST
 - mo2X - Magnavox Odyssey 2 launch titles (magnavoxOdyssey2LaunchTitles.json) | GAMES LIST
+- moltX - Magnavox Odyssey launch titles (magnavoxOdysseyLaunchTitles.json) | GAMES LIST
 - n3dsltX - Nintendo 3DS launch titles (nintendo3dsLaunchTitles.json) | GAMES LIST
 - n64ddltX - N64DD launch titles (nintendo64DDLaunchTitles.json) | GAMES LIST
 - n64ltX - N64 launch titles (n64LaunchTitles.json) | GAMES LIST
@@ -102,6 +104,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - dsienX - Nintendo DS games with enhanced features on DSi (nintendoDsGameDsiEnhanced.json) | GAMES LIST
 - dsijpX - Nintendo DS games with enhanced features on DSi (Japan) (nintendoDsGameDsiEnhancedJapan.json) | GAMES LIST
 - gbbgX - Genesis black box grid games (blackBoxGridGenesisGames.json) | GAMES LIST
+- molgX - Magnavox Odyssey light gun games (magnavoxOdysseyLightGunGamesGames.json) | GAMES LIST
 - mxb360lgX - Microsoft Xbox 360 light gun games (microsoftXbox360LightGunGames.json) | GAMES LIST
 - mxblgX - Microsoft Xbox light gun games (microsoftXboxLightGunGames.json) | GAMES LIST
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST

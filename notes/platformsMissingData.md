@@ -25,3 +25,4 @@ Note that the Nintendo DSi is NOT missing launch titles because there were none.
 | XaviXPORT                        |     | X   |
 | Sega SG-1000                     |     | X   |
 | Epoch Cassette Vision            |     | X   |
+| Emerson Arcadia 2001             |     | X   |
