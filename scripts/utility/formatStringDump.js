@@ -2,17 +2,16 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath =
-  '../../textFilesToBeConverted/platformExclusives/magnavoxOdysseyExclusives.json';
-const idPrefix = 'moex';
-const parensToDetails = true;
+const relativePath = '../../textFilesToBeConverted/special/rcaStudio2BuiltInGames.json';
+const idPrefix = 'rs2bi';
+const parensToDetails = false;
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Magnavox Odyssey exclusive game',
+    'RCA Studio II built-in game',
     idPrefix,
     parensToDetails
   );

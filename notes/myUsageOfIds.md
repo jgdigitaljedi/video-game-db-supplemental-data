@@ -60,6 +60,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ps5ltX - Sony PlayStation 5 launch titles (ps5LaunchTitles.json) | GAMES LIST
 - pspltX - Sony PSP launch titles (pspLaunchTitles.json) | GAMES LIST
 - pvltX - Sony PlayStation Vita launch titles (psVitaLaunchTitles.json) | GAMES LIST
+- rs2tX - RCA Studio II launch titles (rcaStudio2LaunchTitles.json) | GAMES LIST
 - s32xltX - Sega 32X launch titles (sega32xLaunchTitles.json) | GAMES LIST
 - scdltX - Sega CD launch titles (segaCdLaunchTitles.json) | GAMES LIST
 - smltX - Sega Master System launch titles (segaMasterSystemLaunchTitles.json) | GAMES LIST
@@ -260,5 +261,6 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 - babi - Bally Asctrocade built-in games (astrocadeBuiltInGames.json | GAMES LIST)
 - fcfbi - Fairchild Channel F built-in games (fairchildChannelFBuiltInGames.json | GAMES LIST)
+- rs2bi - RCA Studio II built-in games (rcaStudio2BuiltInGames.json | GAMES LIST)
 - smsbi - Sega Master System built-in games (segaMasterSystemBuiltInGames.json | GAMES LIST)
 - tgcbi - Tiger Game.com built-in games (tigerGameComBuiltInGames.json | GAMES LIST)

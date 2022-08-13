@@ -142,6 +142,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Nintendo Wii U
 - Nokia N-Gage
 - Philips CD-i
+- RCA Studio II
 - REAL 3DO
 - Sega 32x
 - Sega CD
@@ -273,6 +274,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 
 - Bally Astrocade built-in games
 - Fairchild Channel F built-in games
+- RCA Studio II built-in games
 - Sega Master System built-in games
 - Tiger Game.com built-in games
 
@@ -385,8 +387,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan.
 
-Out of 15771 data points collected so far, the APIs are missing data the following number of items:
+Out of 15780 data points collected so far, the APIs are missing data the following number of items:
 
 - Missing from all APIs: 1486 (9%)
-- IGDB: 1646 (10%)
+- IGDB: 1647 (10%)
 - Giantbomb: 2638 (17%)

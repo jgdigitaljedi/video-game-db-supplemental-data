@@ -1442,5 +1442,17 @@
     "filePath": "../textFilesToBeConverted/platformExclusives/magnavoxOdysseyExclusives.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "RCA Studio II launch titles",
+    "filePath": "../textFilesToBeConverted/launchTitles/rcaStudio2LaunchTitles.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "RCA Studio II built in games",
+    "filePath": "../textFilesToBeConverted/special/rcaStudio2BuiltInGames.json",
+    "type": "Game",
+    "complete": true
   }
 ]

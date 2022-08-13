@@ -953,5 +953,15 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: [require(path.resolve(smallFiles, 'special/magnavoxOdysseyLightGunGames.json'))],
     output: path.resolve(consoleLists, 'MagnavoxOdyssey.json')
+  },
+  {
+    name: 'RCA Studio II',
+    id: 'ccl66',
+    prefix: 'rs2',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/rcaStudio2LaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: [require(path.resolve(smallFiles, 'special/rcaStudio2BuiltInGames.json'))],
+    output: path.resolve(consoleLists, 'RcaStudioII.json')
   }
 ];

@@ -7,7 +7,6 @@ I've decided to start dropping links into this list as I find info that gets me 
 - FM Towns Marty - difficult to find info
 - Amiga CD32 - difficult to find info
 - Apple Pippin - difficult to find info
-- PC Engine (Jap)
 - Supergrafx - difficult to find info
 - Vectrex
 - RCA Studio II

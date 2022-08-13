@@ -3,7 +3,7 @@ const gbController = require('../../../server/gb.controller');
 const gbKey = process.env.JGBKEY;
 const axios = require('axios');
 
-const pName = 'pc engine';
+const pName = 'rca studio II';
 
 const searchIgdbPlatform = async () => {
   try {
