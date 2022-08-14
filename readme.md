@@ -1,16 +1,27 @@
 # video-game-db-supplemental-data
 
-The idea here was to create something that can be referenced and used alongside various video game APIs to supplement that data available. As a collector, I like to know which games might not be fully backward compatible with systems that say they are fully backward compatible. In the case of the Xbox generations, I also like to know which games are backward compatible with which Xbox generation because those lists are limited. This is an example of the type of thing I am looking to generate data for with this project and is intended to create JSON files that contain that data and is setup in such a way that it can be used with Giantbomb, IGDB, and TGDB. It's a WIP right now. I'm still focused on setup and data collection ATM.
+The udea here is to create a data set, to the best of my ability, of interesting data points not available in any video game APIs I've encountered. Things like light gun games, launch titles, platform exclusives, games banned in certain countries, etc are the types of data points I'm going for. After scouring the internet for the most accurate data I can find, lists of games are created for a data set, then the IGDB and Giantbomb IDs for the games are acquired using the frontend I built in this repo. As a result, data sets are created that can quickly and easily be referenced to add more data to your video game app that uses IGDB or Giantbomb.
 
-Data is being collected via Wikipedia and other sites so it might not be 100% accurate all the time. Essentially, I create JSON files with some details from various website data; add unique IDs to each entry in the files for my own use; then search Giantbomb, IGDB, and TheGamesDB for their IDs and add those as well. The end result I have in mind is a data set that can be searched using the ID from whatever video game API you choose to use to get some supplemental data. Matching the various API IDs is a lot more solid way to search since I have noticed that each of the APIs has different ways of storing names (different use of capitalization, punctuation, sub-titles, etc).
-
-For now, I'm focused mainly on North American data with some exceptions. I might go back and get the European and Japanese data at some point, but then my data structure is going to have to change. Not a huge deal, but selfishly I want to use this so the NA data is my primary focus right now.
+Data is being collected via Wikipedia, Video Game Kraken, and other sites so it might not be 100% accurate all the time. I'm doing the best I can to find accurate data, but the internet is often full of crap. There's a bit of thought and consideration going into these lists if I think I've found less than accurate data, but that doesn't mean all data points in this project are accurate.
 
 Also, since the app isn't the focus here (the JSON files are the focus), there will be console logs, missing error handling, etc. I only need to have this working well enough to get me through all of the json data lists and keep me sane. Features are added only when I am going crazy trying to deal with a particular issue.
 
 ### NOTICE
 
 NOTE: As of 11/7/2019, I have decided to abondon The Games DB. I've had too many problems with their API keys and that API was also getting the last amount of results so, at this point, it doesn't make sense to keep wrestling with it and just move on. I am freezing it in the UI, will eventually remove it from stats, etc. I'll leave the data I've collected for The Games DB API in there for now.
+
+---
+
+## Index
+
+1. [Usage](#usage)
+2. [Organization](#organization)
+3. [Tasks](#tasks)
+4. [Plans](#plans)
+5. [TODOs](#todos)
+6. [Data Being Collected](#data-being-collected)
+7. [Things I've learned about these APIs](#things-ive-learned-about-these-apis)
+8. [Stats](#stats)
 
 ---
 
@@ -89,6 +100,8 @@ I'm still gathering data and working out the data structures. To build this out,
 - Get through the rest of the lists.
 - Create an API using collected data.
 - Get more data!
+
+---
 
 ## Data Being Collected
 
@@ -202,6 +215,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Nintendo Virtual Boy
 - Nintendo Wii
 - Nintendo Wii U
+- Nokia N-Gage
 - Philips CD-i (I can't find info for this so I started a list with what I know to be exclusives)
 - Sega 32x
 - Sega CD
@@ -272,6 +286,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 
 ### Built-in games (Special directory)
 
+- APF MP-1000 built-in games
 - Bally Astrocade built-in games
 - Fairchild Channel F built-in games
 - RCA Studio II built-in games
