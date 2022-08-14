@@ -2,16 +2,16 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/rcaStudio2BuiltInGames.json';
-const idPrefix = 'rs2bi';
-const parensToDetails = false;
+const relativePath = '../../textFilesToBeConverted/platformExclusives/nokiaNgageExclusives.json';
+const idPrefix = 'nnex';
+const parensToDetails = true;
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'RCA Studio II built-in game',
+    'Nokia N-Gage exclusive game',
     idPrefix,
     parensToDetails
   );

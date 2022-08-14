@@ -645,7 +645,7 @@ module.exports.listData = [
     id: 'ccl39',
     prefix: 'ngag',
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/ngageLaunchTitles.json')),
-    exclusives: null,
+    exclusives: require(path.resolve(smallFiles, 'platformExclusives/nokiaNgageExclusives.json')),
     misprintsAndErrors: require(path.resolve(
       smallFiles,
       'misprintsAndErrors/ngageMisprintsAndErrors.json'
@@ -963,5 +963,15 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: [require(path.resolve(smallFiles, 'special/rcaStudio2BuiltInGames.json'))],
     output: path.resolve(consoleLists, 'RcaStudioII.json')
+  },
+  {
+    name: 'APF MP-1000',
+    id: 'ccl67',
+    prefix: 'apf',
+    launchTitles: null,
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: [require(path.resolve(smallFiles, 'special/apfMp1000BuiltInGames.json'))],
+    output: path.resolve(consoleLists, 'APF_MP-1000.json')
   }
 ];

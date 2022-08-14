@@ -1454,5 +1454,17 @@
     "filePath": "../textFilesToBeConverted/special/rcaStudio2BuiltInGames.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "APF MP-1000 built in games",
+    "filePath": "../textFilesToBeConverted/special/apfMp1000BuiltInGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Nokia N-Gage exclusive games",
+    "filePath": "../textFilesToBeConverted/platformExclusives/nokiaNgageExclusives.json",
+    "type": "Game",
+    "complete": true
   }
 ]

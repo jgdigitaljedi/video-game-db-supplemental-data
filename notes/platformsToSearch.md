@@ -8,10 +8,9 @@ I've decided to start dropping links into this list as I find info that gets me 
 - Amiga CD32 - difficult to find info
 - Apple Pippin - difficult to find info
 - Supergrafx - difficult to find info
-- Vectrex
-- RCA Studio II
-- Inerton VC 4000
-- APF Imagination Machine
+- Vectrex - can find info, just not LT or EX
+- Inerton VC 4000 - can find info, just not LT or EX
+- APF MP 1000 - bundled with BASIC interpreter, LT and EX info difficult to find
 - Bandai Super Vision 8000
 - Epoch Super Cassette Vision - best info so far = https://www.giantbomb.com/super-cassette-vision/3045-136/
 - Casio PV-1000

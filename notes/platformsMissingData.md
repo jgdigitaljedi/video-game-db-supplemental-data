@@ -9,7 +9,6 @@ Note that the Nintendo DSi is NOT missing launch titles because there were none.
 |----------------------------------|:---:|:---:|
 | Amiga                            | X   |     |
 | Nintendo Switch                  |     | X   |
-| Nokia NGage                      |     | X   |
 | Tiger Telematics Gizomondo       |     | X   |
 | Bally Astrocade                  |     | X   |
 | Tiger Game.com                   |     | X   |
@@ -27,3 +26,4 @@ Note that the Nintendo DSi is NOT missing launch titles because there were none.
 | Epoch Cassette Vision            |     | X   |
 | Emerson Arcadia 2001             |     | X   |
 | RCA Studio II                    |     | X   |
+| APF MP-1000                      | X   | X   |

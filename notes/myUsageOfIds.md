@@ -162,6 +162,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ngbexX - Nintendo Game Boy console exclusives (nintendoGameBoyExclusives.json | GAMES LIST)
 - ngcdexX - SNK Neo Geo CD console exclusives (neoGeoCdExclusives.json | GAMES LIST)
 - ngpcexX - SNK Neo Geo Pocket Color console exclusives (neoGeoPocketColorExclusives.json | GAMES LIST)
+- nnexX - Nokia N-Gage console exclusives (nokiaNgageExclusives.json | GAMES LIST)
 - nn3dexX - Nintendo New 3DS console exclusives (nintendoNew3DSExclusives.json | GAMES LIST)
 - nswexX - Nintendo Switch console exclusives (nintendoSwitchExclusives.json | GAMES LIST)
 - nvbexX - Nintendo Virtual Boy console exclusives (virtualBoyExclusives.json | GAMES LIST)
@@ -259,6 +260,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 ### Built-in Games (under "special" property in data)
 
+- apfbi - APF MP-1000 built-in games (apfMp1000BuiltInGames.json | GAMES LIST)
 - babi - Bally Asctrocade built-in games (astrocadeBuiltInGames.json | GAMES LIST)
 - fcfbi - Fairchild Channel F built-in games (fairchildChannelFBuiltInGames.json | GAMES LIST)
 - rs2bi - RCA Studio II built-in games (rcaStudio2BuiltInGames.json | GAMES LIST)

@@ -387,8 +387,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan.
 
-Out of 15780 data points collected so far, the APIs are missing data the following number of items:
+Out of 15802 data points collected so far, the APIs are missing data the following number of items:
 
-- Missing from all APIs: 1486 (9%)
-- IGDB: 1647 (10%)
-- Giantbomb: 2638 (17%)
+- Missing from all APIs: 1490 (9%)
+- IGDB: 1652 (10%)
+- Giantbomb: 2645 (17%)
