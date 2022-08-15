@@ -25,6 +25,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - bpltX - Bandai Playdia launch titles (bandaiPlaydiaLaunchTitles.json) | GAMES LIST
 - cdiltX - Philips CD-i launch titles (cdiLaunchTitles.json) | GAMES LIST
 - comltX - Game Com launch titles (gameComLaunchTitles.json) | GAMES LIST
+- cp1ltX - Casio PV-1000 launch titles (casioPv1000LaunchTitles.json) | GAMES LIST
 - cvltX - ColecoVision launch titles (colecoVisionLaunchTitles.json) | GAMES LIST
 - dcltX - Sega Dreamcast launch titles (dreamcastLaunchTitles.json) | GAMES LIST
 - ecvtX - Epoch Cassette Vision launch titles (epochCassetteVisionLaunchTitles.json) | GAMES LIST
@@ -146,6 +147,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - amexX - Amiga console exclusives (amigaExclusives.json | GAMES LIST)
 - bpexX - Bandai Playdia exclusives (bandaiPlaydiaExclusives.json | GAMES LIST)
 - cdiexX - Philips CD-i console exclusives (philipsCdiExclusives.json | GAMES LIST)
+- cp1exX - Casio PV-1000 console exclusives (casioPv1000Exclusives.json | GAMES LIST)
 - cvexX - ColecoVision console exclusives (colecovisionExclusives.json | GAMES LIST)
 - fdsexX - Famicom Disk System console exclusives (famicomDiskSystemExclusives.json | GAMES LIST)
 - gcexX - Nintendo GameCube console exclusives (gamecubeExclusives.json | GAMES LIST)

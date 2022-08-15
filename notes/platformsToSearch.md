@@ -13,7 +13,7 @@ I've decided to start dropping links into this list as I find info that gets me 
 - APF MP 1000 - bundled with BASIC interpreter, LT and EX info difficult to find
 - Bandai Super Vision 8000
 - Epoch Super Cassette Vision - best info so far = https://www.giantbomb.com/super-cassette-vision/3045-136/
-- Casio PV-1000
+- Casio PV-2000
 - Commodore 64GS
 - Amstrad GX4000
 - Action Max

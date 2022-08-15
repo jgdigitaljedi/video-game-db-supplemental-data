@@ -2,16 +2,16 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/platformExclusives/nokiaNgageExclusives.json';
-const idPrefix = 'nnex';
-const parensToDetails = true;
+const relativePath = '../../textFilesToBeConverted/launchTitles/casioPv1000LaunchTitles.json';
+const idPrefix = 'cp1lt';
+const parensToDetails = false;
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Nokia N-Gage exclusive game',
+    'Casio PV-1000 launch title',
     idPrefix,
     parensToDetails
   );

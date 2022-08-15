@@ -973,5 +973,15 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: [require(path.resolve(smallFiles, 'special/apfMp1000BuiltInGames.json'))],
     output: path.resolve(consoleLists, 'APF_MP-1000.json')
+  },
+  {
+    name: 'Casio PV-1000',
+    id: 'ccl68',
+    prefix: 'cp1',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/casioPv1000LaunchTitles.json')),
+    exclusives: require(path.resolve(smallFiles, 'platformExclusives/casioPv1000Exclusives.json')),
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'Casio_PV-1000.json')
   }
 ];
