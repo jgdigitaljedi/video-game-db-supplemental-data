@@ -11,24 +11,24 @@ const _difference = require('lodash/difference');
 const filesArr = [
   {
     key: 'isLaunchTitle',
-    path: '../../finalOutput/smallFiles/launchTitles/sega32xLaunchTitles.json'
+    path: '../../finalOutput/smallFiles/launchTitles/n64LaunchTitles.json'
   },
   {
     key: 'isExclusive',
-    path: '../../finalOutput/smallFiles/platformExclusives/sega32xExclusives.json'
+    path: '../../finalOutput/smallFiles/platformExclusives/nintendoN64Exclusives.json'
   },
   {
     key: 'misprintsAndErrors',
-    path: '../../finalOutput/smallFiles/misprintsAndErrors/sega32xMisprintsAndErrors.json'
+    path: '../../finalOutput/smallFiles/misprintsAndErrors/n64MisprintsAndErrors.json'
   },
   {
     key: 'special',
-    path: '../../finalOutput/smallFiles/multiplayer/sega32xTeamPlayer.json'
+    path: '../../finalOutput/smallFiles/greatestHits/nintendo64PlayersChoice.json'
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/special/n64ExpansionPakGames.json'
   }
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/greatestHits/xbox360PlatinumHits.json'
-  // },
   // {
   //   key: 'special',
   //   path: '../../finalOutput/smallFiles/greatestHits/xbox360PlatinumCollectionJP.json'
@@ -38,8 +38,8 @@ const filesArr = [
   //   path: '../../finalOutput/smallFiles/greatestHits/xbox360ClassicsPal.json'
   // }
 ];
-const mlId = 'ccl16';
-const outPath = '../../finalOutput/consoleLists/Sega32X.json';
+const mlId = 'ccl3';
+const outPath = '../../finalOutput/consoleLists/Nintendo64.json';
 const idPrefix = 's32x';
 
 function makeCombinedId(item) {

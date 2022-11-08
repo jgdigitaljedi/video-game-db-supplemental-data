@@ -2,8 +2,8 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/launchTitles/casioPv1000LaunchTitles.json';
-const idPrefix = 'cp1lt';
+const relativePath = '../../textFilesToBeConverted/special/n64ExpansionPakGames.json';
+const idPrefix = 'n64ep';
 const parensToDetails = false;
 
 (async function() {
@@ -11,7 +11,7 @@ const parensToDetails = false;
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Casio PV-1000 launch title',
+    'N64 Expansion Pak Game',
     idPrefix,
     parensToDetails
   );
