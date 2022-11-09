@@ -33,14 +33,14 @@ const filesArr = [
     key: 'special',
     path: '../../finalOutput/smallFiles/multiplayer/n64_4playerGames.json'
   },
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/greatestHits/xbox360ClassicsPal.json'
-  // }
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/multiplayer/n64_3playerGames.json'
+  }
 ];
 const mlId = 'ccl3';
 const outPath = '../../finalOutput/consoleLists/Nintendo64.json';
-const idPrefix = 's32x';
+const idPrefix = 'n64';
 
 function makeCombinedId(item) {
   // return `${item.igdbId}-${item.tgdbId}-${item.gbId}`;

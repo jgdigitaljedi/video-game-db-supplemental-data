@@ -3,9 +3,9 @@ const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
 
-const siteUrl = 'https://www.nintendo64ever.com/Nintendo-64-4-players-Games.html';
-const filePath = '../../textFilesToBeConverted/multiplayer/n64_4playerGames.json';
-const idPrefix = 'n644p'
+const siteUrl = 'https://www.nintendo64ever.com/Nintendo-64-3-players-Games.html';
+const filePath = '../../textFilesToBeConverted/multiplayer/n64_3playerGames.json';
+const idPrefix = 'n643p'
 
 function makeRequest(url) {
   return new Promise((resolve, reject) => {
