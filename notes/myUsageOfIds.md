@@ -88,6 +88,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 ### Multiplayer related (under "special" property in data)
 
+- n643pX - N64 3-Player Games (n64_4playerGames.json) | GAMES LIST
+- n644pX - N64 4-Player Games (n64_4playerGames.json) | GAMES LIST
 - nesfsX - NES Four Score compatible games (nesFourScore.json) | GAMES LIST
 - ngaluX - Neo Geo AES 4 player Link-Up games (neoGeoAesLinkUp.json) | GAMES LIST
 - spmtX - Sony PlayStation multitap compatible games (playStationMultitap.json) | GAMES LIST
@@ -109,8 +111,6 @@ I simply chose a prefix for each list then slap a number on the end to different
 - molgX - Magnavox Odyssey light gun games (magnavoxOdysseyLightGunGamesGames.json) | GAMES LIST
 - mxb360lgX - Microsoft Xbox 360 light gun games (microsoftXbox360LightGunGames.json) | GAMES LIST
 - mxblgX - Microsoft Xbox light gun games (microsoftXboxLightGunGames.json) | GAMES LIST
-- n643pX - N64 3-Player Games (n64_4playerGames.json) | GAMES LIST
-- n644pX - N64 4-Player Games (n64_4playerGames.json) | GAMES LIST
 - n64epX - N64 Expansion Pak Games (n64ExpansionPakGames.json) | GAMES LIST
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST
 - pcdilgX - Philips CD-i Peacekeeper Revovler games (philipsCdiPeacekeeperRevolverGames.json) | GAMES LIST
