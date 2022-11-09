@@ -28,11 +28,11 @@ const filesArr = [
   {
     key: 'special',
     path: '../../finalOutput/smallFiles/special/n64ExpansionPakGames.json'
-  }
-  // {
-  //   key: 'special',
-  //   path: '../../finalOutput/smallFiles/greatestHits/xbox360PlatinumCollectionJP.json'
-  // },
+  },
+  {
+    key: 'special',
+    path: '../../finalOutput/smallFiles/multiplayer/n64_4playerGames.json'
+  },
   // {
   //   key: 'special',
   //   path: '../../finalOutput/smallFiles/greatestHits/xbox360ClassicsPal.json'
