@@ -241,6 +241,8 @@ I've been scouring the web for unique data points and will continue to do so. He
 ### Multiplayer addon/console version games
 
 - Atari 5200 4 player games
+- N64 3 player games
+- N64 4 player games
 - Neo Geo AES Link-Up games
 - NES Four Score games
 - SNES Super Multitap games
@@ -296,6 +298,8 @@ I've been scouring the web for unique data points and will continue to do so. He
 ### Misc (Special directory)
 
 - games banned in various countries with the reason for the ban
+- GameCube broadband adapter compatible games
+- N64 Expansion Pak games
 - NES Black Box games
 - NES hang tab games
 - platforms/consoles that play burned disks without modification
