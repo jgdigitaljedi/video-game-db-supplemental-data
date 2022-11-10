@@ -3,8 +3,9 @@ const cheerio = require('cheerio');
 const request = require('request');
 const fileUtil = require('./fileUtilities');
 
-const siteUrl = 'https://wikiless.org/wiki/List_of_SG-1000_games?lang=en';
-const filePath = '../../textFilesToBeConverted/launchTitles/segaSg1000LaunchTitles.json';
+const siteUrl = 'https://wikiless.org/wiki/List_of_Dreamcast_online_games?lang=en';
+const filePath = '../../textFilesToBeConverted/special/dreamcastOnlineGames.json';
+const idPrefix = 'dcog';
 
 const final = [];
 
@@ -23,23 +24,34 @@ function makeRequest(url) {
 (function() {
   makeRequest(siteUrl).then(html => {
     const $ = cheerio.load(html);
-    const rows = $('#softwarelist tr');
+    const rows = $('table.wikitable.sortable tbody tr');
     $(rows).each((index, row) => {
       if (index === 0) {
         return;
       }
       const gameTitle = $(row)
-        .find('th i a')
+        .find('td i a')
         .text();
-      const cells = $(row).find('td');
-      const yesNoCell = $(cells)[2];
-      if (yesNoCell) {
-        const yesNo = yesNoCell.attribs.class;
-        console.log('yesNo', yesNo);
-        if (yesNo && yesNo === 'table-yes') {
-          final.push(gameTitle);
-        }
+      console.log(gameTitle);
+      if (gameTitle) {
+        final.push({
+          name: gameTitle,
+          id: `${idPrefix}${index}`,
+          igdbId: null,
+          gbId: null,
+          gbGuid: '',
+          tgdbId: null
+        });
       }
+      // const cells = $(row).find('td');
+      // const yesNoCell = $(cells)[2];
+      // if (yesNoCell) {
+      //   const yesNo = yesNoCell.attribs.class;
+      //   console.log('yesNo', yesNo);
+      //   if (yesNo && yesNo === 'table-yes') {
+      //     final.push(gameTitle);
+      //   }
+      // }
     });
     fileUtil.writeFile(filePath, final);
     console.log(chalk.cyan.bold('Scraping complete and file written!'));

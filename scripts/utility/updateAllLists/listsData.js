@@ -337,7 +337,8 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'greatestHits/dreamcastJPAllStars.json')),
       require(path.resolve(smallFiles, 'greatestHits/dreamcastNAAllStars.json')),
-      require(path.resolve(smallFiles, 'special/segaDreamcastLightGunGames.json'))
+      require(path.resolve(smallFiles, 'special/segaDreamcastLightGunGames.json')),
+      require(path.resolve(smallFiles, 'special/dreamcastOnlineGames.json'))
     ],
     output: path.resolve(consoleLists, 'SegaDreamcast.json')
   },
