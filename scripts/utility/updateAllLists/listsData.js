@@ -86,7 +86,12 @@ module.exports.listData = [
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/n64LaunchTitles.json')),
     exclusives: require(path.resolve(smallFiles, 'platformExclusives/nintendoN64Exclusives.json')),
     misprintsAndErrors: null,
-    special: [require(path.resolve(smallFiles, 'greatestHits/nintendo64PlayersChoice.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'greatestHits/nintendo64PlayersChoice.json')),
+      require(path.resolve(smallFiles, 'multiplayer/n64_3playerGames.json')),
+      require(path.resolve(smallFiles, 'multiplayer/n64_4playerGames.json')),
+      require(path.resolve(smallFiles, 'special/n64ExpansionPakGames.json'))
+    ],
     output: path.resolve(consoleLists, 'Nintendo64.json')
   },
   {
@@ -101,7 +106,8 @@ module.exports.listData = [
     )),
     special: [
       require(path.resolve(smallFiles, 'greatestHits/gamecubeEuropePlayersChoice.json')),
-      require(path.resolve(smallFiles, 'greatestHits/gamecubePlayersChoice.json'))
+      require(path.resolve(smallFiles, 'greatestHits/gamecubePlayersChoice.json')),
+      require(path.resolve(smallFiles, 'special/gamecubeBroadbandGames.json'))
     ],
     output: path.resolve(consoleLists, 'NintendoGameCube.json')
   },
