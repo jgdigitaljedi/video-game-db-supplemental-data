@@ -24,3 +24,8 @@ I've decided to start dropping links into this list as I find info that gets me 
 - VTech V.Smile
 - Game Wave Family Entertainment System
 - Gamate
+- GameKing
+- Mega Duck
+- Adventure Vision
+- VTech Creativision
+- Watara Supervision

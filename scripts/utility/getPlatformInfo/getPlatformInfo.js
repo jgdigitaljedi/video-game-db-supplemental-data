@@ -3,7 +3,7 @@ const gbController = require('../../../server/gb.controller');
 const gbKey = process.env.JGBKEY;
 const axios = require('axios');
 
-const pName = 'pv-1000';
+const pName = 'marty';
 
 const searchIgdbPlatform = async () => {
   try {
