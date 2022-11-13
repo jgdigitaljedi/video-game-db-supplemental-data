@@ -990,5 +990,15 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'Casio_PV-1000.json')
+  },
+  {
+    name: 'PC Engine SuperGrafx',
+    id: 'ccl85',
+    prefix: 'pcsg',
+    launchTitles: require(path.resolve(smallFiles, 'launchTitles/superGrafxLaunchTitles.json')),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'SuperGrafx.json')
   }
 ];

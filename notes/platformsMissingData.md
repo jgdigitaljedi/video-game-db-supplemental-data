@@ -27,3 +27,4 @@ Note that the Nintendo DSi is NOT missing launch titles because there were none.
 | Emerson Arcadia 2001             |     | X   |
 | RCA Studio II                    |     | X   |
 | APF MP-1000                      | X   | X   |
+| SuperGrafx                       |     | X   |

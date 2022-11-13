@@ -52,6 +52,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - nn3dltX - Nintendo New 3DS launch titles (nintendoNew3DSLaunchTitles.json) | GAMES LIST
 - nngltX - Nokia N-Gage titles (ngageLaunchTitles.json) | GAMES LIST
 - npcltX - Neo Geo Pocket Color launch titles (neoGeoPocketColorLaunchTitles.json) | GAMES LIST
+- nsgltX - NEC SuperGrafx launch titles (superGrafxLaunchTitles.json) | GAMES LIST
 - nsltX - Nintendo Switch launch titles (switchLaunchTitles.json) | GAMES LIST
 - pcfxltX - NEC PC-FX launch titles (pcfxLaunchTitles.json) | GAMES LIST
 - ps1ltX - Sony PlayStation launch titles (playstationLaunchTitles.json) | GAMES LIST
