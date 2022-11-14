@@ -7,7 +7,6 @@ I've decided to start dropping links into this list as I find info that gets me 
 - FM Towns Marty - difficult to find info
 - Amiga CD32 - difficult to find info
 - Apple Pippin - difficult to find info
-- Supergrafx - difficult to find info
 - Vectrex - can find info, just not LT or EX
 - Inerton VC 4000 - can find info, just not LT or EX
 - APF MP 1000 - bundled with BASIC interpreter, LT and EX info difficult to find

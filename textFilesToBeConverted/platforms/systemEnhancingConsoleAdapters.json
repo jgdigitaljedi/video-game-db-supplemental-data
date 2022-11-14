@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Nintendo Entertainment System (NES)",
+    "id": "ccl1",
+    "igdbId": 18,
+    "gbId": 21,
+    "gbGuid": "3045-21",
+    "tgdbId": 7,
+    "details": [
+      {
+        "name": "Aladdin Deck Enhancer",
+        "details": "The Aladdin Deck Enhancer is a system-enhancing adaptor to use Compact Cartridges on the Nintendo Entertainment System released in November 1992, with its planned library to reach a total 24 games by the end of 1993. However, only seven games were actually released."
+      }
+    ]
+  },
+  {
+    "name": "Nintendo Family Computer (Famicom)",
+    "id": "ccl51",
+    "igdbId": 99,
+    "gbId": 21,
+    "gbGuid": "3045-21",
+    "details": [
+      {
+        "name": "Datach",
+        "details": "The Datach or Datach Joint ROM System, is an aftermarket enhancement accessory by Bandai for the Family Computer, allowing the system to play select compatible games (7 in total)."
+      }
+    ]
+  },
+  {
+    "name": "Atari 2600",
+    "id": "ccl28",
+    "igdbId": 59,
+    "gbId": 40,
+    "gbGuid": "3045-40",
+    "tgdbId": 22,
+    "details": [
+      {
+        "name": "Starpath Supercharger",
+        "details": "The Starpath Supercharger is an expansion peripheral cartridge created by Starpath, for playing cassette-based proprietary games on the Atari 2600 video game console allowing for the creation of specially compatible games which are larger and have higher resolution graphics than normal cartridges. A cable coming out of the side of the cartridge plugs into the earphone jack of any standard cassette player, for loading all Supercharger games from standard audio cassettes."
+      }
+    ]
+  },
+  {
+    "name": "Nintendo 64",
+    "id": "ccl3",
+    "igdbId": 4,
+    "gbId": 43,
+    "gbGuid": "3045-43",
+    "tgdbId": 3,
+    "details": [
+      {
+        "name": "Expansion Pak",
+        "details": "The Expansion Pak consists of 4 MB of RAM increasing the console's RAM from 4 MB to 8 MB of contiguous main memory. It is installed in a port on top of the console and replaces the pre-installed Jumper Pak. There were 64 games that could use the Expansion Pak for enhanced graphics, higher resolutions, and more."
+      }
+    ]
+  },
+  {
+    "name": "Nintendo Super Famicom",
+    "id": "ccl88",
+    "igdbId": 58,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      {
+        "name": "Sufami Turbo",
+        "details": "This device is designed to sit on top of the Super Famicom, and features two cartridge slots. The premise is that games could be produced at a much lower cost and development time, not having to rely on Nintendo for cartridge production. Unlike the Aladdin Deck Enhancer, this device was officially approved by Nintendo under the provision that Bandai handle all the hardware manufacturing itself. The two cartridge slots are designed to share data between the games. The cartridge placed in slot 1 is the game that will be played, while the cartridge in slot 2 supplies additional data for use in the main game. Of the thirteen games released, nine of them can link up, within each game series."
+      },
+      {
+        "name": "Satellaview",
+        "details": "The Satellaview is a satellite modem peripheral produced by Nintendo for the Super Famicom in 1995. Containing 1 megabyte of ROM space and an additional 512 kB of RAM, Satellaview allowed players to download games, magazines, and other media through satellite broadcasts provided by Japanese company St.GIGA. Its heavy third-party support included Squaresoft, Taito, Konami, Capcom, and Seta. To use Satellaview, players purchased a special broadcast satellite (BS) tuner directly from St.GIGA or rented one for a six-month fee, and paid monthly subscription fees to both St.GIGA and Nintendo. It attaches to the expansion port on the bottom of the Super Famicom."
+      },
+      {
+        "name": "Super Game Boy",
+        "details": "The Super Game Boy is compatible with the same cartridges as the original Game Boy: original Game Boy cartridges, the Game Boy Camera, and dual-mode Game Boy Color cartridges (in Game Boy-mode). The unit could map the four shades of green to various colors on the screen. Later Game Boy games that were optimized to use the Super Game Boy had additional color information and could override the on-screen colors, display a graphical border around the screen, and display special background sprites, as seen in the Mario's Picross title screen."
+      },
+      {
+        "name": "Super Game Boy 2",
+        "details": "The Super Game Boy 2 was released exclusively in Japan in 1998. Additions included a link port to allow a user to access two-player mode via the link cable, the green game link LED, and the red power LED indicator, and it runs at the exact speed of the Game Boy (the original model runs 2.4% faster than a Game Boy). In addition, it came with eight new default borders, which replaced those in the original model (though the old borders are still accessible via a code); however, it retained the same built-in palettes and coloring tools as on the original model. Also, this version of the SGB does not allow one to change borders in some games that have built-in borders. Some games have features only available through the Super Game Boy 2, such as a special Tetris DX border."
+      }
+    ]
+  },
+  {
+    "name": "Super Nintendo Entertainment System (SNES)",
+    "id": "ccl2",
+    "igdbId": 19,
+    "gbId": 9,
+    "gbGuid": "3045-9",
+    "tgdbId": 6,
+    "details": [
+      {
+        "name": "Super Game Boy",
+        "details": "The Super Game Boy is compatible with the same cartridges as the original Game Boy: original Game Boy cartridges, the Game Boy Camera, and dual-mode Game Boy Color cartridges (in Game Boy-mode). The unit could map the four shades of green to various colors on the screen. Later Game Boy games that were optimized to use the Super Game Boy had additional color information and could override the on-screen colors, display a graphical border around the screen, and display special background sprites, as seen in the Mario's Picross title screen."
+      }
+    ]
+  },
+  {
+    "name": "Atari 5200",
+    "id": "ccl29",
+    "igdbId": 66,
+    "gbId": 67,
+    "gbGuid": "3045-67",
+    "tgdbId": 26,
+    "details": [
+      {
+        "name": "VCS Cartridge Adapter",
+        "details": "Atari released the VCS cartridge adapter, which is basically an Atari 2600 in a small box that uses the 5200 power input and video output to function. You still need 2600-compatible controllers to play, and it was not compatible with the original four-port 5200 without modifying the console."
+      }
+    ]
+  },
+  {
+    "name": "Sega Mega Drive/Genesis",
+    "id": "ccl14",
+    "igdbId": 29,
+    "gbId": 6,
+    "gbGuid": "3045-6",
+    "tgdbId": 18,
+    "details": [
+      {
+        "name": "Power Base Converter",
+        "details": "The Power Base Converter (Master System Converter in Europe), allows Master System games to be played on a Genesis/Mega Drive. It's designed for the Model 1. It will work with the Model 2, but the shell does block the power and AC ports, so the converter will either to have its shell modified or a pass thru adaptor needs to be used. The converter doesn't work with the Model 3 or the Nomad. A second model, the Master System Converter 2, was released only in Europe for use with the Mega Drive II. It will still work with NTSC and PAL Model 1 and 2 consoles, though the Model 3 and Nomad still don't work with it."
+      }
+    ]
+  },
+  {
+    "name": "Colecovision",
+    "id": "ccl38",
+    "igdbId": 68,
+    "gbId": 47,
+    "gbGuid": "3045-47",
+    "tgdbId": 31,
+    "details": [
+      {
+        "name": "ColecoVision Expansion Module",
+        "details": "Coleco built its ColecoVision console with impressive expansion capabilities baked in: there's a large port on the front of the console that can receive modules designed to enhance the capabilities of the system. The most complex upgrade, Expansion Module #3, turned the ColecoVision into a full-fledged home PC called the Adam. But before the Adam rolled out, Coleco decided to try something that had never been done before: release an adapter that played games from a competitor's console. Expansion Module #1 plays almost the entire Atari 2600 game catalog while supporting Atari controllers. As you might guess, the module functions as a hardware clone of an Atari 2600 console; it merely uses the Colecovision for video output and power. Atari wasn't happy about the module and cried foul in court, but the two firms eventually settled with Coleco, licensing Atari's patents. By that point, however, the American video game industry was in poor shape, and the ColecoVision didn't last long."
+      }
+    ]
+  },
+  {
+    "name": "Sega Game Gear",
+    "id": "ccl19",
+    "igdbId": 35,
+    "gbId": 5,
+    "gbGuid": "3045-5",
+    "tgdbId": 20,
+    "details": [
+      {
+        "name": "Master Gear Converter",
+        "details": "The Master Gear Converter screws into the back of the Game Gear and serves as a cartridge adapter that accepts original Master System cartridges, bulky as they may be. The resulting experience isn't that great, since the converter squishes the video from Master System games to fit onto the smaller screen (which is fairly low contrast to begin with)."
+      }
+    ]
+  },
+  {
+    "name": "Intellivision",
+    "id": "ccl44",
+    "igdbId": 67,
+    "gbId": 51,
+    "gbGuid": "3045-51",
+    "tgdbId": 32,
+    "details": [
+      {
+        "name": "Intellivision System Changer",
+        "details": "The System Changer, takes a page from Coleco's playbook. It allows Intellivision owners to play most of the Atari VCS/2600 game library using their Intellivision. There are a few catches, of course. First, the adapter doesn't work on the original Intellivision console without modifications, and System Changer is basically just an Atari 2600 clone that uses the Intellivision for video and power. You also need to use Atari joysticks."
+      }
+    ]
+  },
+  {
+    "name": "Nintendo GameCube",
+    "id": "ccl4",
+    "igdbId": 21,
+    "gbId": 23,
+    "gbGuid": "3045-23",
+    "tgdbId": 2,
+    "details": [
+      {
+        "name": "Game Boy Player",
+        "details": "The Game Boy Player was developed by Nintendo and enables the GameCube to play Game Boy, Game Boy Color, and Game Boy Advance cartridges, allowing those games to be played on a television. It connects via the high speed parallel port at the bottom of the GameCube and requires use of a boot disc to access the hardware. Rather than emulating a Game Boy system, the Game Boy Player uses physical hardware nearly identical to that of a Game Boy Advance. The device does not use the enhanced effects used by the Super Game Boy (a similar peripheral for the Super Nintendo Entertainment System)."
+      }
+    ]
+  }
+]
