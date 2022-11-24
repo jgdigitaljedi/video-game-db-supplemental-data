@@ -1,0 +1,27 @@
+{
+  "name": "Super Nintendo Entertainment System (SNES)",
+  "id": "ccl2",
+  "igdbId": 19,
+  "gbId": 9,
+  "gbGuid": "3045-9",
+  "tgdbId": 6,
+  "totalGames": {
+    "NA": 725
+  },
+  "backupDevices": [
+    "Super Magicom",
+    "Super Wild Card DX 32",
+    "Super Wild Card DX2",
+    "Super UFO",
+    "Game Doctor",
+    "Multi Game Hunter",
+    "Double Pro Fighter",
+    "Retrode"
+  ],
+  "consoleAdapters": [
+    {
+      "name": "Super Game Boy",
+      "details": "The Super Game Boy is compatible with the same cartridges as the original Game Boy: original Game Boy cartridges, the Game Boy Camera, and dual-mode Game Boy Color cartridges (in Game Boy-mode). The unit could map the four shades of green to various colors on the screen. Later Game Boy games that were optimized to use the Super Game Boy had additional color information and could override the on-screen colors, display a graphical border around the screen, and display special background sprites, as seen in the Mario's Picross title screen."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Sony Playstation 3",
+  "id": "ccl22",
+  "igdbId": 9,
+  "gbId": 35,
+  "gbGuid": "3045-35",
+  "tgdbId": 12,
+  "regionFree": {
+    "details": "all but 2 games (see exceptions)",
+    "exceptions": [
+      {
+        "id": "rle1",
+        "name": "Persona 4 Arena",
+        "igdbId": 5650,
+        "gbId": 36274,
+        "gbGuid": "3030-36274",
+        "tgdbId": 12431
+      },
+      {
+        "id": "rle2",
+        "name": "Way of the Samurai 3",
+        "igdbId": 7247,
+        "gbId": 24516,
+        "gbGuid": "3030-24516",
+        "tgdbId": 12469
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Nintendo Entertainment System (NES)",
+  "id": "ccl1",
+  "igdbId": 18,
+  "gbId": 21,
+  "gbGuid": "3045-21",
+  "tgdbId": 7,
+  "totalGames": {
+    "NA": 679
+  },
+  "consoleAdapters": [
+    {
+      "name": "Aladdin Deck Enhancer",
+      "details": "The Aladdin Deck Enhancer is a system-enhancing adaptor to use Compact Cartridges on the Nintendo Entertainment System released in November 1992, with its planned library to reach a total 24 games by the end of 1993. However, only seven games were actually released."
+    },
+    {
+      "name": "HES Unidapter",
+      "details": "The HES Unidaptor is a video game adapter which allows any Nintendo Entertainment System (NES) console game to be operated on any NES hardware despite the 10NES region security chip. "
+    },
+    {
+      "name": "Magic Key",
+      "details": "Game cartridge converter which lets Europeans play North American NES games."
+    }
+  ]
+}

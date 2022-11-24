@@ -20,6 +20,7 @@
     "fix:numbered": "node scripts/utility/cleanNumberedList.js",
     "fix:dump": "node scripts/utility/formatStringDump.js",
     "updateAll": "node scripts/utility/updateAllLists/updateAllLists.js",
+    "updatePlatforms": "node scripts/utility/updateAllLists/updateConsoleLists.js",
     "platformInfo": "node scripts/utility/getPlatformInfo/getPlatformInfo.js"
   },
   "repository": {

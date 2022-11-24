@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Microsoft Xbox One",
+    "id": "rfp1",
+    "igdbId": 49,
+    "gbId": 145,
+    "gbGuid": "3045-145",
+    "tgdbId": 4920,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo Game Boy",
+    "id": "rfp2",
+    "igdbId": 33,
+    "gbId": 3,
+    "gbGuid": "3045-3",
+    "tgdbId": 4,
+    "details": "all generations and models",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo DS",
+    "id": "rfp3",
+    "igdbId": 20,
+    "gbId": 52,
+    "gbGuid": "3045-52",
+    "tgdbId": 8,
+    "details": "all generations and models",
+    "exceptions": []
+  },
+  {
+    "name": "Sony Playstation Portable",
+    "id": "rfp4",
+    "igdbId": 38,
+    "gbId": 18,
+    "gbGuid": "3045-18",
+    "tgdbId": 13,
+    "details": "games are region free while movies aren't",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo Switch",
+    "id": "rfp5",
+    "igdbId": 130,
+    "gbId": 157,
+    "gbGuid": "3045-157",
+    "tgdbId": 4971,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Sony Playstation Vita",
+    "id": "rfp6",
+    "igdbId": 46,
+    "gbId": 129,
+    "gbGuid": "3045-129",
+    "tgdbId": 39,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Sony Playstation 4",
+    "id": "rfp7",
+    "igdbId": 48,
+    "gbId": 146,
+    "gbGuid": "3045-146",
+    "tgdbId": 4919,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Sega Mega Drive/Genesis",
+    "id": "rfp8",
+    "igdbId": 29,
+    "gbId": 6,
+    "gbGuid": "3045-6",
+    "tgdbId": 18,
+    "details": "model 3 only (model 1 and 2 slots are not big enough)",
+    "exceptions": []
+  },
+  {
+    "name": "3do Interactive Multiplayer",
+    "id": "rfp9",
+    "igdbId": 50,
+    "gbId": 26,
+    "gbGuid": "3045-26",
+    "tgdbId": 25,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Sega Game Gear",
+    "id": "rfp10",
+    "igdbId": 35,
+    "gbId": 5,
+    "gbGuid": "3045-5",
+    "tgdbId": 20,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Philips CD-i",
+    "id": "rfp11",
+    "igdbId": 117,
+    "gbId": 27,
+    "gbGuid": "3045-27",
+    "tgdbId": 4917,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Neo Geo Pocket Color",
+    "id": "rfp12",
+    "igdbId": 120,
+    "gbId": 81,
+    "gbGuid": "3045-81",
+    "tgdbId": 4923,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Atari 5200",
+    "id": "rfp13",
+    "igdbId": 66,
+    "gbId": 67,
+    "gbGuid": "3045-67",
+    "tgdbId": 26,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Atari Jaguar",
+    "id": "rfp14",
+    "igdbId": 62,
+    "gbId": 28,
+    "gbGuid": "3045-28",
+    "tgdbId": 28,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Atari Lynx",
+    "id": "rfp15",
+    "igdbId": 61,
+    "gbId": 7,
+    "gbGuid": "3045-7",
+    "tgdbId": 4924,
+    "details": "",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo Game Boy Color",
+    "id": "rfp16",
+    "igdbId": 22,
+    "gbId": 57,
+    "gbGuid": "3045-57",
+    "tgdbId": 41,
+    "details": "all generations and models",
+    "exceptions": []
+  },
+  {
+    "name": "Nintendo Game Boy Advance",
+    "id": "rfp17",
+    "igdbId": 24,
+    "gbId": 4,
+    "gbGuid": "3045-4",
+    "tgdbId": 5,
+    "details": "all generations and models",
+    "exceptions": []
+  },
+  {
+    "name": "Sony PlayStation 3",
+    "id": "rfp18",
+    "igdbId": 9,
+    "gbId": 35,
+    "gbGuid": "3045-35",
+    "tgdbId": 12,
+    "details": "all but 2 games (see exceptions)",
+    "exceptions": [
+      {
+        "id": "rle1",
+        "name": "Persona 4 Arena",
+        "igdbId": 5650,
+        "gbId": 36274,
+        "gbGuid": "3030-36274",
+        "tgdbId": 12431
+      },
+      {
+        "id": "rle2",
+        "name": "Way of the Samurai 3",
+        "igdbId": 7247,
+        "gbId": 24516,
+        "gbGuid": "3030-24516",
+        "tgdbId": 12469
+      }
+    ]
+  },
+  {
+    "name": "Nintendo GameCube",
+    "id": "rfp19",
+    "igdbId": 21,
+    "gbId": 23,
+    "gbGuid": "3045-23",
+    "tgdbId": 2,
+    "details": "needs Action Replay or Datel's Freeloader to play games from other regions",
+    "exceptions": []
+  },
+  {
+    "name": "Sega Saturn",
+    "id": "rfp20",
+    "igdbId": 32,
+    "gbId": 42,
+    "gbGuid": "3045-42",
+    "tgdbId": 17,
+    "details": "needs Action Replay plugged in to play games from other regions",
+    "exceptions": []
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "Nintendo Super Famicom",
+  "id": "ccl88",
+  "igdbId": 58,
+  "gbId": null,
+  "gbGuid": null,
+  "backupDevices": [
+    "Professor SF"
+  ],
+  "consoleAdapters": [
+    {
+      "name": "Sufami Turbo",
+      "details": "This device is designed to sit on top of the Super Famicom, and features two cartridge slots. The premise is that games could be produced at a much lower cost and development time, not having to rely on Nintendo for cartridge production. Unlike the Aladdin Deck Enhancer, this device was officially approved by Nintendo under the provision that Bandai handle all the hardware manufacturing itself. The two cartridge slots are designed to share data between the games. The cartridge placed in slot 1 is the game that will be played, while the cartridge in slot 2 supplies additional data for use in the main game. Of the thirteen games released, nine of them can link up, within each game series."
+    },
+    {
+      "name": "Satellaview",
+      "details": "The Satellaview is a satellite modem peripheral produced by Nintendo for the Super Famicom in 1995. Containing 1 megabyte of ROM space and an additional 512 kB of RAM, Satellaview allowed players to download games, magazines, and other media through satellite broadcasts provided by Japanese company St.GIGA. Its heavy third-party support included Squaresoft, Taito, Konami, Capcom, and Seta. To use Satellaview, players purchased a special broadcast satellite (BS) tuner directly from St.GIGA or rented one for a six-month fee, and paid monthly subscription fees to both St.GIGA and Nintendo. It attaches to the expansion port on the bottom of the Super Famicom."
+    },
+    {
+      "name": "Super Game Boy",
+      "details": "The Super Game Boy is compatible with the same cartridges as the original Game Boy: original Game Boy cartridges, the Game Boy Camera, and dual-mode Game Boy Color cartridges (in Game Boy-mode). The unit could map the four shades of green to various colors on the screen. Later Game Boy games that were optimized to use the Super Game Boy had additional color information and could override the on-screen colors, display a graphical border around the screen, and display special background sprites, as seen in the Mario's Picross title screen."
+    },
+    {
+      "name": "Super Game Boy 2",
+      "details": "The Super Game Boy 2 was released exclusively in Japan in 1998. Additions included a link port to allow a user to access two-player mode via the link cable, the green game link LED, and the red power LED indicator, and it runs at the exact speed of the Game Boy (the original model runs 2.4% faster than a Game Boy). In addition, it came with eight new default borders, which replaced those in the original model (though the old borders are still accessible via a code); however, it retained the same built-in palettes and coloring tools as on the original model. Also, this version of the SGB does not allow one to change borders in some games that have built-in borders. Some games have features only available through the Super Game Boy 2, such as a special Tetris DX border."
+    }
+  ]
+}

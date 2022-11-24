@@ -1,0 +1,15 @@
+{
+  "name": "Sega Game Gear",
+  "id": "ccl19",
+  "igdbId": 35,
+  "gbId": 5,
+  "gbGuid": "3045-5",
+  "tgdbId": 20,
+  "regionFree": true,
+  "consoleAdapters": [
+    {
+      "name": "Master Gear Converter",
+      "details": "The Master Gear Converter screws into the back of the Game Gear and serves as a cartridge adapter that accepts original Master System cartridges, bulky as they may be. The resulting experience isn't that great, since the converter squishes the video from Master System games to fit onto the smaller screen (which is fairly low contrast to begin with)."
+    }
+  ]
+}
