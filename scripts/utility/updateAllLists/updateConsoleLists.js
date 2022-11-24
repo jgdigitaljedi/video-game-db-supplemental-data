@@ -16,6 +16,13 @@ const backupIds = gameBackupDevices.map(plat => `${plat.igdbId}-${plat.gbId}`);
 const regionIds = regionFree.map(plat => `${plat.igdbId}-${plat.gbId}`);
 const adapterIds = consoleAdapters.map(plat => `${plat.igdbId}-${plat.gbId}`);
 
+let platformStats = {
+  allGamesExclusives: 0,
+  gameBackupDevices: 0,
+  regionFreeConsoles: 0,
+  consoleAdapters: 0
+};
+
 function getAllExlcusives(combinedId) {
   const index = allExclIds.indexOf(combinedId);
   return index > -1;
@@ -61,7 +68,18 @@ function getFormattedRegionFree(rf) {
       const region = getRegionFree(combinedId);
       const adapter = getConsoleAdapters(combinedId);
       if (allEx || backup || region || adapter) {
-        const rf = !!region;
+        if (allEx) {
+          platformStats.allGamesExclusives++;
+        }
+        if (backup) {
+          platformStats.gameBackupDevices += backup.length;
+        }
+        if (region) {
+          platformStats.regionFreeConsoles++;
+        }
+        if (adapter) {
+          platformStats.consoleAdapters += adapter.length;
+        }
         return {
           ...platform,
           details: allEx ? 'All games are exclusive to this platform.' : undefined,
@@ -81,4 +99,9 @@ function getFormattedRegionFree(rf) {
       'utf-8'
     );
   }
+  fs.writeFileSync(
+    path.join(__dirname, 'platformDataStats.json'),
+    JSON.stringify(platformStats, null, 2),
+    'utf-8'
+  );
 })();

@@ -3,6 +3,7 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 const fs = require('fs');
 const path = require('path');
+const platformStats = require('./updateAllLists/platformDataStats.json');
 
 const masterList = '../../server/static/fileInfoList.json';
 let igdb = 0;
@@ -55,6 +56,17 @@ async function checkFileForApiInfo(file) {
   const master = await fileUtil.readFile(masterList);
   const pMaster = JSON.parse(master);
 
+  // console data
+  const totalPlatDataPoints = Object.values(platformStats).reduce((acc, obj) => {
+    acc += obj;
+    return acc;
+  }, 0);
+
+  console.log(
+    chalk.magenta.bold(`There are ${totalPlatDataPoints} data points for platforms/consoles.`)
+  );
+
+  // game data
   for (const file of pMaster) {
     if (file.complete) {
       const done = await checkFileForApiInfo(file);
@@ -77,10 +89,10 @@ async function checkFileForApiInfo(file) {
   console.log(chalk.magenta.bold(`Giantbomb: ${gb} (${gbPer}%)`));
   const rm = await fileUtil.readFile('../../readme.md');
   const statsRemoved = rm.split('\n');
-  statsRemoved.splice(-6, 6);
+  statsRemoved.splice(-7, 7);
   const modified = `${statsRemoved.join(
     '\n'
-  )}\nOut of ${total} data points collected so far, the APIs are missing data the following number of items:\n\n- Missing from all APIs: ${allThree} (${totalPer}%)\n- IGDB: ${igdb} (${igdbPer}%)\n- Giantbomb: ${gb} (${gbPer}%)\n`;
+  )}\nThere are ${totalPlatDataPoints} data points for platforms/consoles.\n Out of ${total} games data points collected so far, the APIs are missing data the following number of games:\n\n- Missing from all APIs: ${allThree} (${totalPer}%)\n- IGDB: ${igdb} (${igdbPer}%)\n- Giantbomb: ${gb} (${gbPer}%)\n`;
   fs.writeFile(path.join(__dirname, '../../readme.md'), modified, error => {
     if (error) {
       console.log(chalk.red.bold(`ERROR WRITING TO README: ${error}`));
