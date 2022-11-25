@@ -10,17 +10,20 @@ const allGamesExclusives = require(path.join(smallFiles, 'allGamesForPlatformAre
 const gameBackupDevices = require(path.join(smallFiles, 'gameBackupDevices.json'));
 const regionFree = require(path.join(smallFiles, 'regionFreePlatforms.json'));
 const consoleAdapters = require(path.join(smallFiles, 'systemEnhancingConsoleAdapters.json'));
+const rgbOutput = require(path.join(smallFiles, 'outputsRgbWithoutMod.json'));
 
 const allExclIds = allGamesExclusives.map(plat => `${plat.igdbId}-${plat.gbId}`);
 const backupIds = gameBackupDevices.map(plat => `${plat.igdbId}-${plat.gbId}`);
 const regionIds = regionFree.map(plat => `${plat.igdbId}-${plat.gbId}`);
 const adapterIds = consoleAdapters.map(plat => `${plat.igdbId}-${plat.gbId}`);
+const rgbIds = rgbOutput.map(plat => `${plat.igdbId}-${plat.gbId}`);
 
 let platformStats = {
   allGamesExclusives: 0,
   gameBackupDevices: 0,
   regionFreeConsoles: 0,
-  consoleAdapters: 0
+  consoleAdapters: 0,
+  rgbOutput: 0
 };
 
 function getAllExlcusives(combinedId) {
@@ -45,6 +48,11 @@ function getConsoleAdapters(combinedId) {
   return index > -1 ? consoleAdapters[index].details : null;
 }
 
+function getRgb(combinedId) {
+  const index = rgbIds.indexOf(combinedId);
+  return index > -1 ? rgbOutput[index].details : null;
+}
+
 function getFormattedRegionFree(rf) {
   if (!rf) {
     return undefined;
@@ -67,7 +75,8 @@ function getFormattedRegionFree(rf) {
       const backup = getBackupDevices(combinedId);
       const region = getRegionFree(combinedId);
       const adapter = getConsoleAdapters(combinedId);
-      if (allEx || backup || region || adapter) {
+      const rgb = getRgb(combinedId);
+      if (allEx || backup || region || adapter || rgb) {
         if (allEx) {
           platformStats.allGamesExclusives++;
         }
@@ -80,12 +89,16 @@ function getFormattedRegionFree(rf) {
         if (adapter) {
           platformStats.consoleAdapters += adapter.length;
         }
+        if (rgb) {
+          platformStats.rgbOutput++;
+        }
         return {
           ...platform,
           details: allEx ? 'All games are exclusive to this platform.' : undefined,
           backupDevices: backup || undefined,
           regionFree: getFormattedRegionFree(region),
-          consoleAdapters: adapter || undefined
+          consoleAdapters: adapter || undefined,
+          nativeRgbOutput: rgb || undefined
         };
       }
       return null;

@@ -1,6 +1,6 @@
 # video-game-db-supplemental-data
 
-The udea here is to create a data set, to the best of my ability, of interesting data points not available in any video game APIs I've encountered. Things like light gun games, launch titles, platform exclusives, games banned in certain countries, etc are the types of data points I'm going for. After scouring the internet for the most accurate data I can find, lists of games are created for a data set, then the IGDB and Giantbomb IDs for the games are acquired using the frontend I built in this repo. As a result, data sets are created that can quickly and easily be referenced to add more data to your video game app that uses IGDB or Giantbomb.
+This is both a collection of over 16,000 data points and the tools I've used to gather and format them. The idea here is to create a data set, to the best of my ability, of interesting data points not available in any video game APIs I've encountered. Things like light gun games, launch titles, platform exclusives, games banned in certain countries, etc are the types of data points I'm going for. After scouring the internet for the most accurate data I can find, lists of games are created for a data set, then the IGDB and Giantbomb IDs for the games are acquired using the frontend I built in this repo. As a result, data sets are created that can quickly and easily be referenced to add more data to your video game app that uses IGDB or Giantbomb.
 
 Data is being collected via Wikipedia, Video Game Kraken, and other sites so it might not be 100% accurate all the time. I'm doing the best I can to find accurate data, but the internet is often full of crap. There's a bit of thought and consideration going into these lists if I think I've found less than accurate data, but that doesn't mean all data points in this project are accurate.
 
@@ -122,6 +122,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Bandai Playdia
 - Bandai WonderSwan
 - Bandai WonderSwan Color
+- Casio PV 1000
 - ColecoVision
 - Emerson Arcadia 2001
 - Epoch Cassette Vision
@@ -178,6 +179,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Super Nintendo Entertainment System
 - Tiger Game.com
 - Tiger Telematics Gizmondo
+- XaviXPORT
 
 ### Console/Platform Exclusives
 
@@ -190,6 +192,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Atari Jaguar CD
 - Atari Lynx
 - Bandai Playdia
+- Casio PV 1000
 - ColecoVision
 - Magnavox Odyssey
 - Mattel Intellivision
@@ -233,9 +236,8 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sony PlayStation Vita
 - Super Nintendo Entertainment System
 
-### Console/Platform Region Lock Info
+### Region Lock Info
 
-- platforms/consoles that are region free
 - PS3 games that aren't region free (the PS3 games are region free with a couple of exceptions)
 
 ### Multiplayer addon/console version games
@@ -388,6 +390,14 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sony PlayStation Portable
 - Sony PlayStation Vita
 
+### Platform/console data
+
+- platforms/consoles that are region free
+- platforms/consoles where all games are exclusives
+- platform/console backup devices
+- platform/console system enhancing adapters
+- platforms/consoles that output an RGB signal without modification
+
 ---
 
 ### Things I've learned about these APIs
@@ -406,7 +416,7 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan.
 
-There are 59 data points for platforms/consoles.
+There are 74 data points for platforms/consoles.
  Out of 16087 games data points collected so far, the APIs are missing data the following number of games:
 
 - Missing from all APIs: 1491 (9%)

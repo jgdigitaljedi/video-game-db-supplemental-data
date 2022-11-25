@@ -9,3 +9,5 @@
 
 ## Consoles
 
+- multiplayer controller adapters
+- platforms that output RGB by default

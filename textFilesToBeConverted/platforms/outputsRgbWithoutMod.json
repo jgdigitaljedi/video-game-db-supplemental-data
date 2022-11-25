@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Super Nintendo Entertainment System (SNES)",
+    "igdbId": 19,
+    "gbId": 9,
+    "gbGuid": "3045-9",
+    "details": "with the right cable, the SNES will output an RGB signal without modification with exception to the SNES Jr. This is also true for the Super Famicom."
+  },
+  {
+    "name": "Sega Mega Drive/Genesis",
+    "igdbId": 29,
+    "gbId": 6,
+    "gbGuid": "3045-6",
+    "details": "with the right cable, the Genesis/Mega Drive will output an RGB signal without modification with exception of the Model 3 which needs a small mod to do this. Model 1, Model 2, and the CDX all output RGB without modification."
+  },
+  {
+    "name": "Sega Master System",
+    "igdbId": 64,
+    "gbId": 8,
+    "gbGuid": "3045-8",
+    "details": "with the right cable, the Master System model 1 will output an RGB signal without modification. The Master System 2 requires a modification to do this."
+  },
+  {
+    "name": "Sega Saturn",
+    "igdbId": 32,
+    "gbId": 42,
+    "gbGuid": "3045-42",
+    "details": "with the right cable, all models of the Saturn will output an RGB signal without modification."
+  },
+  {
+    "name": "Nintendo GameCube",
+    "igdbId": 21,
+    "gbId": 23,
+    "gbGuid": "3045-23",
+    "details": "with the component cable, the GameCube model DOL-001 with the digital video connection will output RGB."
+  },
+  {
+    "name": "Sega Dreamcast",
+    "igdbId": 23,
+    "gbId": 37,
+    "gbGuid": "3045-37",
+    "details": "with an RGB cable or VGA cable, the Dreamcast will output RGB without modification"
+  },
+  {
+    "name": "Nintendo Wii",
+    "igdbId": 5,
+    "gbId": 36,
+    "gbGuid": "3045-36",
+    "details": "with a component cable, the Wii will output RGB without modification"
+  },
+  {
+    "name": "Atari Jaguar",
+    "igdbId": 62,
+    "gbId": 28,
+    "gbGuid": "3045-28",
+    "details": "with an adapter that connects to the pin output on the back of the Jaguar, you can use either a SCART cable or component cable to get an RGB signal form the Jaguar without modification."
+  },
+  {
+    "name": "NEC TurboGrafx 16",
+    "igdbId": 86,
+    "gbId": 55,
+    "gbGuid": "3045-55",
+    "details": "with an adapter for the pin output on the back, all PC Engine and TurboGrafx-16 consoles can output RGB without any modification. The Duo requires modification to do this."
+  },
+  {
+    "name": "SNK Neo Geo AES",
+    "igdbId": 80,
+    "gbId": 25,
+    "gbGuid": "2045-25",
+    "details": "with the right cable, all versions of the Neo Geo can output RGB without modification."
+  },
+  {
+    "name": "Philips CD-i",
+    "igdbId": 117,
+    "gbId": 27,
+    "gbGuid": "3045-27",
+    "details": "the PAL version of the CD-i has a SCART connector and can output RGB without any modification. All other versions of the CD-i require a modification to do this."
+  },
+  {
+    "name": "Microsoft Xbox",
+    "igdbId": 11,
+    "gbId": 32,
+    "gbGuid": "3045-32",
+    "details": "with a component cable, the Xbox can output RGB without modification"
+  },
+  {
+    "name": "Sony PlayStation",
+    "igdbId": 7,
+    "gbId": 22,
+    "gbGuid": "3045-22",
+    "details": "with the right cable, the PlayStation will output an RGB signal without modification"
+  },
+  {
+    "name": "Sony Playstation 2",
+    "igdbId": 8,
+    "gbId": 19,
+    "gbGuid": "3045-19",
+    "details": "with the right cable, the PlayStation 2 will output an RGB signal without modification"
+  },
+  {
+    "name": "Sony Playstation 3",
+    "igdbId": 9,
+    "gbId": 35,
+    "gbGuid": "3045-35",
+    "details": "with the right cable, the PlayStation 3 will output an RGB signal without modification"
+  }
+]
