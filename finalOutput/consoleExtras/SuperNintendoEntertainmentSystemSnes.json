@@ -24,5 +24,25 @@
       "details": "The Super Game Boy is compatible with the same cartridges as the original Game Boy: original Game Boy cartridges, the Game Boy Camera, and dual-mode Game Boy Color cartridges (in Game Boy-mode). The unit could map the four shades of green to various colors on the screen. Later Game Boy games that were optimized to use the Super Game Boy had additional color information and could override the on-screen colors, display a graphical border around the screen, and display special background sprites, as seen in the Mario's Picross title screen."
     }
   ],
-  "nativeRgbOutput": "with the right cable, the SNES will output an RGB signal without modification with exception to the SNES Jr. This is also true for the Super Famicom."
+  "nativeRgbOutput": "with the right cable, the SNES will output an RGB signal without modification with exception to the SNES Jr. This is also true for the Super Famicom.",
+  "multiplayerAdapters": [
+    {
+      "name": "Super MultiTap",
+      "players": 5
+    },
+    {
+      "name": "Hori Multitap/Super Links",
+      "players": 5,
+      "details": "Hori Multitap was the name used in all regions except NA where the name was Super Links"
+    },
+    {
+      "name": "Multi-Adapter Auto",
+      "players": 5
+    },
+    {
+      "name": "Naki Tribal Tap 6",
+      "players": 6,
+      "details": "this adapter had 6 ports although there was never a game released that supported 6 players"
+    }
+  ]
 }

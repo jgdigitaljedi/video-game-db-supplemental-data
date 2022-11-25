@@ -9,5 +9,15 @@
       "name": "Datach",
       "details": "The Datach or Datach Joint ROM System, is an aftermarket enhancement accessory by Bandai for the Family Computer, allowing the system to play select compatible games (7 in total)."
     }
+  ],
+  "multiplayerAdapters": [
+    {
+      "name": "Joypair",
+      "players": 4
+    },
+    {
+      "name": "Hori Twin Adapter",
+      "players": 4
+    }
   ]
 }

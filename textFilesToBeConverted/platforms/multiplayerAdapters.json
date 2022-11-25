@@ -1,0 +1,169 @@
+[
+  {
+    "name": "Nintendo Family Computer (Famicom)",
+    "igdbId": 99,
+    "gbId": 21,
+    "gbGuid": "3045-21",
+    "adapters": [
+      {
+        "name": "Joypair",
+        "players": 4
+      },
+      {
+        "name": "Hori Twin Adapter",
+        "players": 4
+      }
+    ]
+  },
+  {
+    "name": "Nintendo Entertainment System (NES)",
+    "igdbId": 18,
+    "gbId": 21,
+    "gbGuid": "3045-21",
+    "adapters": [
+      {
+        "name": "NES Four Score",
+        "players": 4
+      },
+      {
+        "name": "NES Satellite",
+        "players": 4
+      }
+    ]
+  },
+  {
+    "name": "NEC PC Engine/TurboGrafx-16",
+    "igdbId": 86,
+    "gbId": 55,
+    "gbGuid": "3045-55",
+    "adapters": [
+      {
+        "name": "Multitap",
+        "players": 5
+      },
+      {
+        "name": "Big Club Battle Tap",
+        "players": 4
+      },
+      {
+        "name": "Hudson Soft Joy Tap 3",
+        "players": 3
+      },
+      {
+        "name": "TurboTap",
+        "players": 5,
+        "details": "meant for the NA TurboGrafx-16"
+      },
+      {
+        "name": "DuoTap",
+        "players": 5,
+        "details": "meant for the TurboDuo"
+      }
+    ]
+  },
+  {
+    "name": "Super Nintendo Entertainment System (SNES)",
+    "igdbId": 19,
+    "gbId": 9,
+    "gbGuid": "3045-9",
+    "adapters": [
+      {
+        "name": "Super MiltiTap",
+        "players": 5
+      },
+      {
+        "name": "Hori Multitap/Super Links",
+        "players": 5,
+        "details": "Hori Multitap was the name used in all regions except NA where the name was Super Links"
+      },
+      {
+        "name": "Multi-Adapter Auto",
+        "players": 5
+      },
+      {
+        "name": "Naki Tribal Tap 6",
+        "players": 6,
+        "details": "this adapter had 6 ports although there was never a game released that supported 6 players"
+      }
+    ]
+  },
+  {
+    "name": "Sega Mega Drive/Genesis",
+    "igdbId": 29,
+    "gbId": 6,
+    "gbGuid": "3045-6",
+    "adapters": [
+      {
+        "name": "EA 4-Way Play",
+        "players": 4
+      },
+      {
+        "name": "Team Player",
+        "players": 4
+      }
+    ]
+  },
+  {
+    "name": "Sega 32X",
+    "igdbId": 30,
+    "gbId": 31,
+    "gbGuid": "3045-31",
+    "adapters": [
+      {
+        "name": "Team Player",
+        "players": 4
+      }
+    ]
+  },
+  {
+    "name": "Sega CD",
+    "igdbId": 78,
+    "gbId": 29,
+    "gbGuid": "3045-29",
+    "adapters": [
+      {
+        "name": "Team Player",
+        "players": 4
+      }
+    ]
+  },
+  {
+    "name": "Sony PlayStation",
+    "igdbId": 7,
+    "gbId": 22,
+    "gbGuid": "3045-22",
+    "adapters": [
+      {
+        "name": "PlayStation MultiTap",
+        "players": 4,
+        "details": "allows for 4 memory cards to be plugged in"
+      }
+    ]
+  },
+  {
+    "name": "Sega Saturn",
+    "igdbId": 32,
+    "gbId": 42,
+    "gbGuid": "3045-42",
+    "adapters": [
+      {
+        "name": "Multi-Player Adapter/Multi Terminal 6",
+        "players": 6,
+        "details": "Multi Terminal 6 was the name in Japan, and it was known as the Multi-Player Adapter in other regions"
+      }
+    ]
+  },
+  {
+    "name": "Sony Playstation 2",
+    "igdbId": 8,
+    "gbId": 19,
+    "gbGuid": "3045-19",
+    "adapters": [
+      {
+        "name": "PS2 Multitap",
+        "players": 4,
+        "details": "there was a different version released for the regular PS2 and the slim PS2, but both adapters allow for 4 more memory cards to be plugged in"
+      }
+    ]
+  }
+]

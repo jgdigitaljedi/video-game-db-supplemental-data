@@ -5,5 +5,12 @@
   "gbId": 22,
   "gbGuid": "3045-22",
   "tgdbId": 10,
-  "nativeRgbOutput": "with the right cable, the PlayStation will output an RGB signal without modification"
+  "nativeRgbOutput": "with the right cable, the PlayStation will output an RGB signal without modification",
+  "multiplayerAdapters": [
+    {
+      "name": "PlayStation MultiTap",
+      "players": 4,
+      "details": "allows for 4 memory cards to be plugged in"
+    }
+  ]
 }

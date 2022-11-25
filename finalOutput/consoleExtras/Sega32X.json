@@ -1,0 +1,17 @@
+{
+  "name": "Sega 32X",
+  "id": "ccl16",
+  "igdbId": 30,
+  "gbId": 31,
+  "gbGuid": "3045-31",
+  "tgdbId": 33,
+  "totalGames": {
+    "NA": 31
+  },
+  "multiplayerAdapters": [
+    {
+      "name": "Team Player",
+      "players": 4
+    }
+  ]
+}

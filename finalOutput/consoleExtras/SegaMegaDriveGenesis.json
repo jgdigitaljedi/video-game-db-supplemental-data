@@ -19,5 +19,15 @@
       "details": "The Power Base Converter (Master System Converter in Europe), allows Master System games to be played on a Genesis/Mega Drive. It's designed for the Model 1. It will work with the Model 2, but the shell does block the power and AC ports, so the converter will either to have its shell modified or a pass thru adaptor needs to be used. The converter doesn't work with the Model 3 or the Nomad. A second model, the Master System Converter 2, was released only in Europe for use with the Mega Drive II. It will still work with NTSC and PAL Model 1 and 2 consoles, though the Model 3 and Nomad still don't work with it."
     }
   ],
-  "nativeRgbOutput": "with the right cable, the Genesis/Mega Drive will output an RGB signal without modification with exception of the Model 3 which needs a small mod to do this. Model 1, Model 2, and the CDX all output RGB without modification."
+  "nativeRgbOutput": "with the right cable, the Genesis/Mega Drive will output an RGB signal without modification with exception of the Model 3 which needs a small mod to do this. Model 1, Model 2, and the CDX all output RGB without modification.",
+  "multiplayerAdapters": [
+    {
+      "name": "EA 4-Way Play",
+      "players": 4
+    },
+    {
+      "name": "Team Player",
+      "players": 4
+    }
+  ]
 }

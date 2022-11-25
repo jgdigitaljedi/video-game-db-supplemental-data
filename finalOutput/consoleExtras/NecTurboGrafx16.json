@@ -5,5 +5,29 @@
   "gbId": 55,
   "gbGuid": "3045-55",
   "tgdbId": 34,
-  "nativeRgbOutput": "with an adapter for the pin output on the back, all PC Engine and TurboGrafx-16 consoles can output RGB without any modification. The Duo requires modification to do this."
+  "nativeRgbOutput": "with an adapter for the pin output on the back, all PC Engine and TurboGrafx-16 consoles can output RGB without any modification. The Duo requires modification to do this.",
+  "multiplayerAdapters": [
+    {
+      "name": "Multitap",
+      "players": 5
+    },
+    {
+      "name": "Big Club Battle Tap",
+      "players": 4
+    },
+    {
+      "name": "Hudson Soft Joy Tap 3",
+      "players": 3
+    },
+    {
+      "name": "TurboTap",
+      "players": 5,
+      "details": "meant for the NA TurboGrafx-16"
+    },
+    {
+      "name": "DuoTap",
+      "players": 5,
+      "details": "meant for the TurboDuo"
+    }
+  ]
 }

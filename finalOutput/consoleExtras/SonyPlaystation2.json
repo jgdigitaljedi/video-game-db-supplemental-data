@@ -5,5 +5,12 @@
   "gbId": 19,
   "gbGuid": "3045-19",
   "tgdbId": 11,
-  "nativeRgbOutput": "with the right cable, the PlayStation 2 will output an RGB signal without modification"
+  "nativeRgbOutput": "with the right cable, the PlayStation 2 will output an RGB signal without modification",
+  "multiplayerAdapters": [
+    {
+      "name": "PS2 Multitap",
+      "players": 4,
+      "details": "there was a different version released for the regular PS2 and the slim PS2, but both adapters allow for 4 more memory cards to be plugged in"
+    }
+  ]
 }

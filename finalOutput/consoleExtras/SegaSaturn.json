@@ -8,5 +8,12 @@
   "regionFree": {
     "details": "needs Action Replay plugged in to play games from other regions"
   },
-  "nativeRgbOutput": "with the right cable, all models of the Saturn will output an RGB signal without modification."
+  "nativeRgbOutput": "with the right cable, all models of the Saturn will output an RGB signal without modification.",
+  "multiplayerAdapters": [
+    {
+      "name": "Multi-Player Adapter/Multi Terminal 6",
+      "players": 6,
+      "details": "Multi Terminal 6 was the name in Japan, and it was known as the Multi-Player Adapter in other regions"
+    }
+  ]
 }

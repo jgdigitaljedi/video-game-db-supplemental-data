@@ -21,5 +21,15 @@
       "name": "Magic Key",
       "details": "Game cartridge converter which lets Europeans play North American NES games."
     }
+  ],
+  "multiplayerAdapters": [
+    {
+      "name": "NES Four Score",
+      "players": 4
+    },
+    {
+      "name": "NES Satellite",
+      "players": 4
+    }
   ]
 }
