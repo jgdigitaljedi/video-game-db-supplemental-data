@@ -15,14 +15,18 @@ const mpAdapters = require(path.join(smallFiles, 'multiplayerAdapters.json'));
 const burnedDiscs = require(path.join(smallFiles, 'platformsThatPlayBurnedDiscs.json'));
 const lightGuns = require(path.join(smallFiles, 'lightGuns.json'));
 
-const allExclIds = allGamesExclusives.map(plat => `${plat.igdbId}-${plat.gbId}`);
-const backupIds = gameBackupDevices.map(plat => `${plat.igdbId}-${plat.gbId}`);
-const regionIds = regionFree.map(plat => `${plat.igdbId}-${plat.gbId}`);
-const adapterIds = consoleAdapters.map(plat => `${plat.igdbId}-${plat.gbId}`);
-const rgbIds = rgbOutput.map(plat => `${plat.igdbId}-${plat.gbId}`);
-const mpIds = mpAdapters.map(plat => `${plat.igdbId}-${plat.gbId}`);
-const burnedIds = burnedDiscs.map(plat => `${plat.igdbId}-${plat.gbId}`);
-const lgIds = lightGuns.map(plat => `${plat.igdbId}-${plat.gbId}`);
+function getCombinedId(data) {
+  return data.map(plat => `${plat.igdbId}-${plat.gbId}`);
+}
+
+const allExclIds = getCombinedId(allGamesExclusives);
+const backupIds = getCombinedId(gameBackupDevices);
+const regionIds = getCombinedId(regionFree);
+const adapterIds = getCombinedId(consoleAdapters);
+const rgbIds = getCombinedId(rgbOutput);
+const mpIds = getCombinedId(mpAdapters);
+const burnedIds = getCombinedId(burnedDiscs);
+const lgIds = getCombinedId(lightGuns);
 
 let platformStats = {
   allGamesExclusives: 0,
@@ -35,14 +39,14 @@ let platformStats = {
   lightGuns: 0
 };
 
-function getAllExlcusives(combinedId) {
-  const index = allExclIds.indexOf(combinedId);
+function getBool(combinedId, ids) {
+  const index = ids.indexOf(combinedId);
   return index > -1;
 }
 
-function getBackupDevices(combinedId) {
-  const index = backupIds.indexOf(combinedId);
-  return index > -1 ? gameBackupDevices[index].details : null;
+function getDetails(combinedId, ids, data, prop) {
+  const index = ids.indexOf(combinedId);
+  return index > -1 ? data[index][prop] : null;
 }
 
 function getRegionFree(combinedId) {
@@ -50,21 +54,6 @@ function getRegionFree(combinedId) {
   return index > -1
     ? { details: regionFree[index].details, exceptions: regionFree[index].exceptions }
     : null;
-}
-
-function getConsoleAdapters(combinedId) {
-  const index = adapterIds.indexOf(combinedId);
-  return index > -1 ? consoleAdapters[index].details : null;
-}
-
-function getRgb(combinedId) {
-  const index = rgbIds.indexOf(combinedId);
-  return index > -1 ? rgbOutput[index].details : null;
-}
-
-function getMpAdapters(combinedId) {
-  const index = mpIds.indexOf(combinedId);
-  return index > -1 ? mpAdapters[index].adapters : null;
 }
 
 function getFormattedRegionFree(rf) {
@@ -81,28 +70,18 @@ function getFormattedRegionFree(rf) {
   }
 }
 
-function getBurned(combinedId) {
-  const index = burnedIds.indexOf(combinedId);
-  return index > -1 ? burnedDiscs[index].details : null;
-}
-
-function getLightGuns(combinedId) {
-  const index = lgIds.indexOf(combinedId);
-  return index > -1 ? lightGuns[index].details : null;
-}
-
 (function() {
   const platformsData = masterList
     .map(platform => {
       const combinedId = `${platform.igdbId}-${platform.gbId}`;
-      const allEx = getAllExlcusives(combinedId);
-      const backup = getBackupDevices(combinedId);
+      const allEx = getBool(combinedId, allExclIds);
+      const backup = getDetails(combinedId, backupIds, gameBackupDevices, 'details');
       const region = getRegionFree(combinedId);
-      const adapter = getConsoleAdapters(combinedId);
-      const rgb = getRgb(combinedId);
-      const multi = getMpAdapters(combinedId);
-      const burned = getBurned(combinedId);
-      const lg = getLightGuns(combinedId);
+      const adapter = getDetails(combinedId, adapterIds, consoleAdapters, 'details');
+      const rgb = getDetails(combinedId, rgbIds, rgbOutput, 'details');
+      const multi = getDetails(combinedId, mpIds, mpAdapters, 'adapters');
+      const burned = getDetails(combinedId, burnedIds, burnedDiscs, 'details');
+      const lg = getDetails(combinedId, lgIds, lightGuns, 'details');
       if (allEx || backup || region || adapter || rgb || multi || burned || lg) {
         if (allEx) {
           platformStats.allGamesExclusives++;
