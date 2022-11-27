@@ -14,6 +14,7 @@ const rgbOutput = require(path.join(smallFiles, 'outputsRgbWithoutMod.json'));
 const mpAdapters = require(path.join(smallFiles, 'multiplayerAdapters.json'));
 const burnedDiscs = require(path.join(smallFiles, 'platformsThatPlayBurnedDiscs.json'));
 const lightGuns = require(path.join(smallFiles, 'lightGuns.json'));
+const flashCarts = require(path.join(smallFiles, 'flashCarts.json'));
 
 function getCombinedId(data) {
   return data.map(plat => `${plat.igdbId}-${plat.gbId}`);
@@ -27,6 +28,7 @@ const rgbIds = getCombinedId(rgbOutput);
 const mpIds = getCombinedId(mpAdapters);
 const burnedIds = getCombinedId(burnedDiscs);
 const lgIds = getCombinedId(lightGuns);
+const fcIds = getCombinedId(flashCarts);
 
 let platformStats = {
   allGamesExclusives: 0,
@@ -36,7 +38,8 @@ let platformStats = {
   rgbOutput: 0,
   multiplayerAdapters: 0,
   burnedDiscs: 0,
-  lightGuns: 0
+  lightGuns: 0,
+  flashCarts: 0
 };
 
 function getBool(combinedId, ids) {
@@ -82,7 +85,8 @@ function getFormattedRegionFree(rf) {
       const multi = getDetails(combinedId, mpIds, mpAdapters, 'adapters');
       const burned = getDetails(combinedId, burnedIds, burnedDiscs, 'details');
       const lg = getDetails(combinedId, lgIds, lightGuns, 'details');
-      if (allEx || backup || region || adapter || rgb || multi || burned || lg) {
+      const fc = getDetails(combinedId, fcIds, flashCarts, 'details');
+      if (allEx || backup || region || adapter || rgb || multi || burned || lg || fc) {
         if (allEx) {
           platformStats.allGamesExclusives++;
         }
@@ -107,6 +111,9 @@ function getFormattedRegionFree(rf) {
         if (lg) {
           platformStats.lightGuns += lg.length;
         }
+        if (fc) {
+          platformStats.flashCarts += fc.length;
+        }
         return {
           ...platform,
           details: allEx ? 'All games are exclusive to this platform.' : undefined,
@@ -116,7 +123,8 @@ function getFormattedRegionFree(rf) {
           nativeRgbOutput: rgb || undefined,
           multiplayerAdapters: multi || undefined,
           playsBurnedDiscs: burned || undefined,
-          lightGuns: lg || undefined
+          lightGuns: lg || undefined,
+          flashCarts: fc || undefined
         };
       }
       return null;

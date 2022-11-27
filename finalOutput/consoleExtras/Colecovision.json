@@ -10,5 +10,9 @@
       "name": "ColecoVision Expansion Module",
       "details": "Coleco built its ColecoVision console with impressive expansion capabilities baked in: there's a large port on the front of the console that can receive modules designed to enhance the capabilities of the system. The most complex upgrade, Expansion Module #3, turned the ColecoVision into a full-fledged home PC called the Adam. But before the Adam rolled out, Coleco decided to try something that had never been done before: release an adapter that played games from a competitor's console. Expansion Module #1 plays almost the entire Atari 2600 game catalog while supporting Atari controllers. As you might guess, the module functions as a hardware clone of an Atari 2600 console; it merely uses the Colecovision for video output and power. Atari wasn't happy about the module and cried foul in court, but the two firms eventually settled with Coleco, licensing Atari's patents. By that point, however, the American video game industry was in poor shape, and the ColecoVision didn't last long."
     }
+  ],
+  "flashCarts": [
+    "Atarimax for Coleco",
+    "192-Game DipSwitch Cart"
   ]
 }

@@ -9,5 +9,9 @@
     "NA": 50
   },
   "regionFree": true,
-  "nativeRgbOutput": "with an adapter that connects to the pin output on the back of the Jaguar, you can use either a SCART cable or component cable to get an RGB signal form the Jaguar without modification."
+  "nativeRgbOutput": "with an adapter that connects to the pin output on the back of the Jaguar, you can use either a SCART cable or component cable to get an RGB signal form the Jaguar without modification.",
+  "flashCarts": [
+    "GameDrive",
+    "Skunkboard"
+  ]
 }

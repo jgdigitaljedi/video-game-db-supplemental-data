@@ -1,0 +1,204 @@
+[
+  {
+    "name": "Nintendo Entertainment System (NES)",
+    "igdbId": 18,
+    "gbId": 21,
+    "gbGuid": "3045-21",
+    "tgdbId": 7,
+    "details": ["EverDrive N8 Pro", "PowerPak", "FDSStick"]
+  },
+  {
+    "name": "Super Nintendo Entertainment System (SNES)",
+    "igdbId": 19,
+    "gbId": 9,
+    "gbGuid": "3045-9",
+    "tgdbId": 6,
+    "details": ["SD2SNES", "FXPAK Pro", "Super EverDrive"]
+  },
+  {
+    "name": "Sega Mega Drive/Genesis",
+    "igdbId": 29,
+    "gbId": 6,
+    "gbGuid": "3045-6",
+    "tgdbId": 18,
+    "details": ["Mega EverDrive", "Mega EverDrive Pro", "Mega SD"]
+  },
+  {
+    "name": "Sega Master System",
+    "igdbId": 64,
+    "gbId": 8,
+    "gbGuid": "3045-8",
+    "tgdbId": 35,
+    "details": ["Master EverDrive"]
+  },
+  {
+    "name": "Nintendo 64",
+    "igdbId": 4,
+    "gbId": 43,
+    "gbGuid": "3045-43",
+    "tgdbId": 3,
+    "details": ["EverDrive 64", "64 Drive"]
+  },
+  {
+    "name": "Nintendo Game Boy",
+    "igdbId": 33,
+    "gbId": 3,
+    "gbGuid": "3045-3",
+    "tgdbId": 4,
+    "details": ["EverDrive GB"]
+  },
+  {
+    "name": "Nintendo Game Boy Color",
+    "igdbId": 22,
+    "gbId": 57,
+    "gbGuid": "3045-57",
+    "tgdbId": 41,
+    "details": ["EverDrive GB"]
+  },
+  {
+    "name": "Nintendo Game Boy Advance",
+    "igdbId": 24,
+    "gbId": 4,
+    "gbGuid": "3045-4",
+    "tgdbId": 5,
+    "details": ["EverDrive GBA"]
+  },
+  {
+    "name": "SNK Neo Geo AES",
+    "igdbId": 80,
+    "gbId": 25,
+    "gbGuid": "2045-25",
+    "details": ["Neo SD AES", "Neo SD Pro AES", "Darksoft Multi AES"]
+  },
+  {
+    "name": "NEC TurboGrafx 16",
+    "igdbId": 86,
+    "gbId": 55,
+    "gbGuid": "3045-55",
+    "tgdbId": 34,
+    "details": [
+      "Turbo EverDrive",
+      "Turbo EverDrive v2",
+      "Super SD System 3",
+      "Super SD System 3 Pro"
+    ]
+  },
+  {
+    "name": "Atari Jaguar",
+    "igdbId": 62,
+    "gbId": 28,
+    "gbGuid": "3045-28",
+    "tgdbId": 28,
+    "details": ["GameDrive", "Skunkboard"]
+  },
+  {
+    "name": "Intellivision",
+    "igdbId": 67,
+    "gbId": 51,
+    "gbGuid": "3045-51",
+    "tgdbId": 32,
+    "details": ["LTO Flash", "Hive Multi-cart"]
+  },
+  {
+    "name": "Neo Geo Pocket",
+    "id": "ccl89",
+    "igdbId": 119,
+    "gbId": 80,
+    "gbGuid": "3045-80",
+    "details": ["Neo Pocket GameDrive", "Neo Pocket Flash Masta"]
+  },
+  {
+    "name": "Neo Geo Pocket Color",
+    "igdbId": 120,
+    "gbId": 81,
+    "gbGuid": "3045-81",
+    "tgdbId": 4923,
+    "details": ["Neo Pocket GameDrive", "Neo Pocket Flash Masta"]
+  },
+  {
+    "name": "Atari Lynx",
+    "igdbId": 61,
+    "gbId": 7,
+    "gbGuid": "3045-7",
+    "tgdbId": 4924,
+    "details": ["GameDrive", "El Cheapo", "AgaCart"]
+  },
+  {
+    "name": "Sega Game Gear",
+    "igdbId": 35,
+    "gbId": 5,
+    "gbGuid": "3045-5",
+    "tgdbId": 20,
+    "details": ["EverDrive GG"]
+  },
+  {
+    "name": "Atari 2600",
+    "igdbId": 59,
+    "gbId": 40,
+    "gbGuid": "3045-40",
+    "tgdbId": 22,
+    "details": ["Harmony Cart"]
+  },
+  {
+    "name": "Colecovision",
+    "igdbId": 68,
+    "gbId": 47,
+    "gbGuid": "3045-47",
+    "tgdbId": 31,
+    "details": ["Atarimax for Coleco", "192-Game DipSwitch Cart"]
+  },
+  {
+    "name": "Atari 5200",
+    "igdbId": 66,
+    "gbId": 67,
+    "gbGuid": "3045-67",
+    "tgdbId": 26,
+    "details": ["Atarimax 5200"]
+  },
+  {
+    "name": "Bandai WonderSwan Color",
+    "igdbId": 123,
+    "gbId": 54,
+    "gbGuid": "3045-54",
+    "details": ["WS Flash Masta"]
+  },
+  {
+    "name": "Bandai WonderSwan",
+    "igdbId": 57,
+    "gbId": 65,
+    "gbGuid": "3045-65",
+    "details": ["WS Flash Masta"]
+  },
+  {
+    "name": "Nintendo Virtual Boy",
+    "igdbId": 87,
+    "gbId": 79,
+    "gbGuid": "3045-79",
+    "tgdbId": 4918,
+    "details": ["HyperFlash 32"]
+  },
+  {
+    "name": "Atari 7800",
+    "igdbId": 60,
+    "gbId": 70,
+    "gbGuid": "3045-70",
+    "tgdbId": 27,
+    "details": ["Mateos Atari 7800 Rewritable Multigame Cartridge", "Harmony Cart"]
+  },
+  {
+    "name": "Nintendo DS",
+    "igdbId": 20,
+    "gbId": 52,
+    "gbGuid": "3045-52",
+    "tgdbId": 8,
+    "details": ["R4i Gold RTS", "Supercard DSTWO Plus"]
+  },
+  {
+    "name": "Nintendo 3DS",
+    "igdbId": 37,
+    "gbId": 117,
+    "gbGuid": "3045-117",
+    "tgdbId": 4912,
+    "details": ["Gateway 3DS", "Sky 3DS"]
+  }
+]
