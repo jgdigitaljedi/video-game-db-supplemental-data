@@ -12,6 +12,8 @@ const regionFree = require(path.join(smallFiles, 'regionFreePlatforms.json'));
 const consoleAdapters = require(path.join(smallFiles, 'systemEnhancingConsoleAdapters.json'));
 const rgbOutput = require(path.join(smallFiles, 'outputsRgbWithoutMod.json'));
 const mpAdapters = require(path.join(smallFiles, 'multiplayerAdapters.json'));
+const burnedDiscs = require(path.join(smallFiles, 'platformsThatPlayBurnedDiscs.json'));
+const lightGuns = require(path.join(smallFiles, 'lightGuns.json'));
 
 const allExclIds = allGamesExclusives.map(plat => `${plat.igdbId}-${plat.gbId}`);
 const backupIds = gameBackupDevices.map(plat => `${plat.igdbId}-${plat.gbId}`);
@@ -19,6 +21,8 @@ const regionIds = regionFree.map(plat => `${plat.igdbId}-${plat.gbId}`);
 const adapterIds = consoleAdapters.map(plat => `${plat.igdbId}-${plat.gbId}`);
 const rgbIds = rgbOutput.map(plat => `${plat.igdbId}-${plat.gbId}`);
 const mpIds = mpAdapters.map(plat => `${plat.igdbId}-${plat.gbId}`);
+const burnedIds = burnedDiscs.map(plat => `${plat.igdbId}-${plat.gbId}`);
+const lgIds = lightGuns.map(plat => `${plat.igdbId}-${plat.gbId}`);
 
 let platformStats = {
   allGamesExclusives: 0,
@@ -26,7 +30,9 @@ let platformStats = {
   regionFreeConsoles: 0,
   consoleAdapters: 0,
   rgbOutput: 0,
-  multiplayerAdapters: 0
+  multiplayerAdapters: 0,
+  burnedDiscs: 0,
+  lightGuns: 0
 };
 
 function getAllExlcusives(combinedId) {
@@ -75,6 +81,16 @@ function getFormattedRegionFree(rf) {
   }
 }
 
+function getBurned(combinedId) {
+  const index = burnedIds.indexOf(combinedId);
+  return index > -1 ? burnedDiscs[index].details : null;
+}
+
+function getLightGuns(combinedId) {
+  const index = lgIds.indexOf(combinedId);
+  return index > -1 ? lightGuns[index].details : null;
+}
+
 (function() {
   const platformsData = masterList
     .map(platform => {
@@ -85,7 +101,9 @@ function getFormattedRegionFree(rf) {
       const adapter = getConsoleAdapters(combinedId);
       const rgb = getRgb(combinedId);
       const multi = getMpAdapters(combinedId);
-      if (allEx || backup || region || adapter || rgb || multi) {
+      const burned = getBurned(combinedId);
+      const lg = getLightGuns(combinedId);
+      if (allEx || backup || region || adapter || rgb || multi || burned || lg) {
         if (allEx) {
           platformStats.allGamesExclusives++;
         }
@@ -104,6 +122,12 @@ function getFormattedRegionFree(rf) {
         if (multi) {
           platformStats.multiplayerAdapters += multi.length;
         }
+        if (burned) {
+          platformStats.burnedDiscs++;
+        }
+        if (lg) {
+          platformStats.lightGuns += lg.length;
+        }
         return {
           ...platform,
           details: allEx ? 'All games are exclusive to this platform.' : undefined,
@@ -111,7 +135,9 @@ function getFormattedRegionFree(rf) {
           regionFree: getFormattedRegionFree(region),
           consoleAdapters: adapter || undefined,
           nativeRgbOutput: rgb || undefined,
-          multiplayerAdapters: multi || undefined
+          multiplayerAdapters: multi || undefined,
+          playsBurnedDiscs: burned || undefined,
+          lightGuns: lg || undefined
         };
       }
       return null;
