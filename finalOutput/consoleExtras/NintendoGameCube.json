@@ -17,5 +17,8 @@
       "details": "The Game Boy Player was developed by Nintendo and enables the GameCube to play Game Boy, Game Boy Color, and Game Boy Advance cartridges, allowing those games to be played on a television. It connects via the high speed parallel port at the bottom of the GameCube and requires use of a boot disc to access the hardware. Rather than emulating a Game Boy system, the Game Boy Player uses physical hardware nearly identical to that of a Game Boy Advance. The device does not use the enhanced effects used by the Super Game Boy (a similar peripheral for the Super Nintendo Entertainment System)."
     }
   ],
-  "nativeRgbOutput": "with the component cable, the GameCube model DOL-001 with the digital video connection will output RGB."
+  "nativeRgbOutput": "with the component cable, the GameCube model DOL-001 with the digital video connection will output RGB.",
+  "opticalDriveEmulators": [
+    "GC Loader"
+  ]
 }

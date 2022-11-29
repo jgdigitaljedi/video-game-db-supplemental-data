@@ -17,6 +17,7 @@ const lightGuns = require(path.join(smallFiles, 'lightGuns.json'));
 const flashCarts = require(path.join(smallFiles, 'flashCarts.json'));
 const hardClones = require(path.join(smallFiles, 'clonesThatPlayOriginalGames.json'));
 const softClones = require(path.join(smallFiles, 'clonesWithBuiltInGames.json'));
+const opticalDrivesEm = require(path.join(smallFiles, 'opticalDriveEmulators.json'));
 
 function getCombinedId(data) {
   return data.map(plat => `${plat.igdbId}-${plat.gbId}`);
@@ -33,6 +34,7 @@ const lgIds = getCombinedId(lightGuns);
 const fcIds = getCombinedId(flashCarts);
 const hcIds = getCombinedId(hardClones);
 const scIds = getCombinedId(softClones);
+const odeIds = getCombinedId(opticalDrivesEm);
 
 let platformStats = {
   allGamesExclusives: 0,
@@ -45,7 +47,8 @@ let platformStats = {
   lightGuns: 0,
   flashCarts: 0,
   hardwareClones: 0,
-  softwareClones: 0
+  softwareClones: 0,
+  opticalDriveEmulators: 0
 };
 
 function getBool(combinedId, ids) {
@@ -94,8 +97,22 @@ function getFormattedRegionFree(rf) {
       const fc = getDetails(combinedId, fcIds, flashCarts, 'details');
       const hc = getDetails(combinedId, hcIds, hardClones, 'details');
       const sc = getDetails(combinedId, scIds, softClones, 'details');
+      const ode = getDetails(combinedId, odeIds, opticalDrivesEm, 'details');
 
-      if (allEx || backup || region || adapter || rgb || multi || burned || lg || fc || hc || sc) {
+      if (
+        allEx ||
+        backup ||
+        region ||
+        adapter ||
+        rgb ||
+        multi ||
+        burned ||
+        lg ||
+        fc ||
+        hc ||
+        sc ||
+        ode
+      ) {
         if (allEx) {
           platformStats.allGamesExclusives++;
         }
@@ -129,6 +146,9 @@ function getFormattedRegionFree(rf) {
         if (sc) {
           platformStats.softwareClones += sc.length;
         }
+        if (ode) {
+          platformStats.opticalDriveEmulators += ode.length;
+        }
         return {
           ...platform,
           details: allEx ? 'All games are exclusive to this platform.' : undefined,
@@ -141,7 +161,8 @@ function getFormattedRegionFree(rf) {
           lightGuns: lg || undefined,
           flashCarts: fc || undefined,
           hardwareClones: hc || undefined,
-          softwareClones: sc || undefined
+          softwareClones: sc || undefined,
+          opticalDriveEmulators: ode || undefined
         };
       }
       return null;

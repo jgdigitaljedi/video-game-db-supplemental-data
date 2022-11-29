@@ -200,5 +200,23 @@
     "gbGuid": "3045-117",
     "tgdbId": 4912,
     "details": ["Gateway 3DS", "Sky 3DS"]
+  },
+  {
+    "name": "Sony PlayStation",
+    "id": "ccl20",
+    "igdbId": 7,
+    "gbId": 22,
+    "gbGuid": "3045-22",
+    "tgdbId": 10,
+    "details": ["PSIO"]
+  },
+  {
+    "name": "Sega Saturn",
+    "id": "ccl17",
+    "igdbId": 32,
+    "gbId": 42,
+    "gbGuid": "3045-42",
+    "tgdbId": 17,
+    "details": ["Satiator"]
   }
 ]
