@@ -20,5 +20,17 @@
   "nativeRgbOutput": "with the component cable, the GameCube model DOL-001 with the digital video connection will output RGB.",
   "opticalDriveEmulators": [
     "GC Loader"
-  ]
+  ],
+  "specialVideoOutputs": {
+    "details": [
+      "Prism HD Video Adapter",
+      "Inusrrection Industries Carby",
+      "Eon GCHD",
+      "Eon GCHD Mk-II",
+      "Nintendo GameCube component cables"
+    ],
+    "notes": [
+      "all options only work with the GameCube model that has the additional digital output (DOL-001)"
+    ]
+  }
 }

@@ -404,6 +404,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - console hardware clones (plays original disks/carts; only from big players; not cheap garbage)
 - console classic/mini/software clones (devices loaded with games from a particular console; only from big players; not cheap garbage)
 - disc based console/platform optical drive emulators
+- special video output adapters & cables
 
 ---
 
@@ -423,8 +424,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan. I think some of this is lost in translation.
 
-There are 301 data points for platforms/consoles.
- Out of 16080 games data points collected so far, the APIs are missing data the following number of games:
+There are 345 data points for platforms/consoles.
+Out of 16080 games data points collected so far, the APIs are missing data the following number of games:
 
 - Missing from all APIs: 1491 (9%)
 - IGDB: 1662 (10%)

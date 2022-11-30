@@ -1,0 +1,150 @@
+[
+  {
+    "name": "NEC TurboGrafx 16",
+    "id": "ccl33",
+    "igdbId": 86,
+    "gbId": 55,
+    "gbGuid": "3045-55",
+    "tgdbId": 34,
+    "details": ["Spark Plug", "db-Electronics grafx booster", "fidde_se's RGB cable", "SSDS3"]
+  },
+  {
+    "name": "Super Nintendo Entertainment System (SNES)",
+    "id": "ccl2",
+    "igdbId": 19,
+    "gbId": 9,
+    "gbGuid": "3045-9",
+    "tgdbId": 6,
+    "details": [
+      "Universal RGB SCART cable",
+      "RAD2x",
+      "HD Retrovision component cable",
+      "Retro Gaming Cables component cable",
+      "Super Nintendo SNES RGB SCART cable"
+    ]
+  },
+  {
+    "name": "Sega Mega Drive/Genesis",
+    "id": "ccl14",
+    "igdbId": 29,
+    "gbId": 6,
+    "gbGuid": "3045-6",
+    "tgdbId": 18,
+    "details": [
+      "Sega Genesis / Mega Drive 2 RGB Scart Cable",
+      "Genesis 2 RAD2x",
+      "HD Retrovision component cable",
+      "Retro Gaming Cables component cable",
+      "Genesis 1 with Stereo Audio to Genesis 2 Adapter",
+      "Genesis 1 Mono Audio / Sega Master System to Genesis 2 Adapter",
+      "Genesis 1 with Stereo Audio to Genesis 2 Adapter "
+    ]
+  },
+  {
+    "name": "Sega Master System",
+    "id": "ccl13",
+    "igdbId": 64,
+    "gbId": 8,
+    "gbGuid": "3045-8",
+    "tgdbId": 35,
+    "details": ["Sega Master System RGB SCART Cable"],
+    "notes": [
+      "all Genesis cables can be used with the Master System using the Genesis 2 Adapter",
+      "the MK-2000 will not use any of these options as it has no RGB output"
+    ]
+  },
+  {
+    "name": "Nintendo 64",
+    "id": "ccl3",
+    "igdbId": 4,
+    "gbId": 43,
+    "gbGuid": "3045-43",
+    "tgdbId": 3,
+    "details": [
+      "Retro Gaming Cables NTSC S-Video Cable",
+      "Retro-Access NTSC Coax S-Video Cable",
+      "Insurrection Industries NTSC S-Video Cable",
+      "Consoles4You PAL S-Video Cable",
+      "Eon Super 64"
+    ]
+  },
+  {
+    "name": "Sega Saturn",
+    "id": "ccl17",
+    "igdbId": 32,
+    "gbId": 42,
+    "gbGuid": "3045-42",
+    "tgdbId": 17,
+    "details": [
+      "Sega Saturn RGB SCART cable (PAL users MUST select “sync on luma”, everyone else select “NTSC csync”)",
+      "Sega Saturn NTSC RGB SCART Cable",
+      "Sega Saturn NTSC RGB SCART cable",
+      "Sega Saturn PAL RGB SCART cable csync",
+      "Retro Gaming Cables component cable"
+    ],
+    "notes": ["all Genesis cables will work with the HD Retrovision Sega Saturn Adapter"]
+  },
+  {
+    "name": "Nintendo GameCube",
+    "id": "ccl4",
+    "igdbId": 21,
+    "gbId": 23,
+    "gbGuid": "3045-23",
+    "tgdbId": 2,
+    "details": [
+      "Prism HD Video Adapter",
+      "Inusrrection Industries Carby",
+      "Eon GCHD",
+      "Eon GCHD Mk-II",
+      "Nintendo GameCube component cables"
+    ],
+    "notes": [
+      "all options only work with the GameCube model that has the additional digital output (DOL-001)"
+    ]
+  },
+  {
+    "name": "Sega Dreamcast",
+    "id": "ccl18",
+    "igdbId": 23,
+    "gbId": 37,
+    "gbGuid": "3045-37",
+    "tgdbId": 16,
+    "details": [
+      "Retro Access Dreamcast SCART Cable",
+      "Retro Access Dreamcast BNC Cable",
+      "Retro Gaming Cables SCART Cable",
+      "Boxes made by Beharbros"
+    ]
+  },
+  {
+    "name": "Atari Jaguar",
+    "id": "ccl31",
+    "igdbId": 62,
+    "gbId": 28,
+    "gbGuid": "3045-28",
+    "tgdbId": 28,
+    "details": ["Atari Jaguar RGB SCART cable", "JAG2GEN"]
+  },
+  {
+    "name": "SNK Neo Geo AES",
+    "id": "ccl50",
+    "igdbId": 80,
+    "gbId": 25,
+    "gbGuid": "2045-25",
+    "details": [
+      "Neo Geo AES Stereo RGB Scart Cable",
+      "Neo Geo AES Stereo RGB SCART Cable",
+      "Neo Geo AES Stereo RGB Scart Cable",
+      "Neo Geo CD & CDZ Stereo RGB Scart Cable"
+    ]
+  },
+  {
+    "name": "Microsoft Xbox",
+    "id": "ccl25",
+    "igdbId": 11,
+    "gbId": 32,
+    "gbGuid": "3045-32",
+    "tgdbId": 14,
+    "details": ["POUND HD Link cable", "Laboen Original Xbox to HDMI Converter"]
+  }
+]

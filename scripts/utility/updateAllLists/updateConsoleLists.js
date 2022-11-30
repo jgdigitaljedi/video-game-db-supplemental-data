@@ -1,6 +1,8 @@
 const path = require('path');
 const fs = require('fs');
 const pascalCase = require('stringman-utils').casePascalCase;
+const addStats = require(path.join(__dirname, './updateConsolesStats')).addStats;
+const getStats = require(path.join(__dirname, './updateConsolesStats')).getCounts;
 
 const smallFiles = path.join(__dirname, '../../../finalOutput/consoleExtras/smallFiles');
 const consoleLists = path.join(__dirname, '../../../finalOutput/consoleExtras');
@@ -18,6 +20,7 @@ const flashCarts = require(path.join(smallFiles, 'flashCarts.json'));
 const hardClones = require(path.join(smallFiles, 'clonesThatPlayOriginalGames.json'));
 const softClones = require(path.join(smallFiles, 'clonesWithBuiltInGames.json'));
 const opticalDrivesEm = require(path.join(smallFiles, 'opticalDriveEmulators.json'));
+const videoOuts = require(path.join(smallFiles, 'specialVideoOutputAdapters.json'));
 
 function getCombinedId(data) {
   return data.map(plat => `${plat.igdbId}-${plat.gbId}`);
@@ -35,21 +38,7 @@ const fcIds = getCombinedId(flashCarts);
 const hcIds = getCombinedId(hardClones);
 const scIds = getCombinedId(softClones);
 const odeIds = getCombinedId(opticalDrivesEm);
-
-let platformStats = {
-  allGamesExclusives: 0,
-  gameBackupDevices: 0,
-  regionFreeConsoles: 0,
-  consoleAdapters: 0,
-  rgbOutput: 0,
-  multiplayerAdapters: 0,
-  burnedDiscs: 0,
-  lightGuns: 0,
-  flashCarts: 0,
-  hardwareClones: 0,
-  softwareClones: 0,
-  opticalDriveEmulators: 0
-};
+const vidIds = getCombinedId(videoOuts);
 
 function getBool(combinedId, ids) {
   const index = ids.indexOf(combinedId);
@@ -65,6 +54,13 @@ function getRegionFree(combinedId) {
   const index = regionIds.indexOf(combinedId);
   return index > -1
     ? { details: regionFree[index].details, exceptions: regionFree[index].exceptions }
+    : null;
+}
+
+function getVideoOuts(combinedId) {
+  const index = vidIds.indexOf(combinedId);
+  return index > -1
+    ? { details: videoOuts[index].details, notes: videoOuts[index].notes }
     : null;
 }
 
@@ -98,6 +94,7 @@ function getFormattedRegionFree(rf) {
       const hc = getDetails(combinedId, hcIds, hardClones, 'details');
       const sc = getDetails(combinedId, scIds, softClones, 'details');
       const ode = getDetails(combinedId, odeIds, opticalDrivesEm, 'details');
+      const vid = getVideoOuts(combinedId);
 
       if (
         allEx ||
@@ -111,44 +108,9 @@ function getFormattedRegionFree(rf) {
         fc ||
         hc ||
         sc ||
-        ode
+        ode || vid
       ) {
-        if (allEx) {
-          platformStats.allGamesExclusives++;
-        }
-        if (backup) {
-          platformStats.gameBackupDevices += backup.length;
-        }
-        if (region) {
-          platformStats.regionFreeConsoles++;
-        }
-        if (adapter) {
-          platformStats.consoleAdapters += adapter.length;
-        }
-        if (rgb) {
-          platformStats.rgbOutput++;
-        }
-        if (multi) {
-          platformStats.multiplayerAdapters += multi.length;
-        }
-        if (burned) {
-          platformStats.burnedDiscs++;
-        }
-        if (lg) {
-          platformStats.lightGuns += lg.length;
-        }
-        if (fc) {
-          platformStats.flashCarts += fc.length;
-        }
-        if (hc) {
-          platformStats.hardwareClones += hc.length;
-        }
-        if (sc) {
-          platformStats.softwareClones += sc.length;
-        }
-        if (ode) {
-          platformStats.opticalDriveEmulators += ode.length;
-        }
+        addStats(allEx, backup, region, adapter, rgb, multi, burned, lg, fc, hc, sc, ode, vid);
         return {
           ...platform,
           details: allEx ? 'All games are exclusive to this platform.' : undefined,
@@ -162,7 +124,8 @@ function getFormattedRegionFree(rf) {
           flashCarts: fc || undefined,
           hardwareClones: hc || undefined,
           softwareClones: sc || undefined,
-          opticalDriveEmulators: ode || undefined
+          opticalDriveEmulators: ode || undefined,
+          specialVideoOutputs: vid || undefined
         };
       }
       return null;
@@ -178,7 +141,7 @@ function getFormattedRegionFree(rf) {
   }
   fs.writeFileSync(
     path.join(__dirname, 'platformDataStats.json'),
-    JSON.stringify(platformStats, null, 2),
+    JSON.stringify(getStats(), null, 2),
     'utf-8'
   );
 })();

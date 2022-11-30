@@ -31,5 +31,17 @@
     "Fenrir",
     "Rhea",
     "Phoebe"
-  ]
+  ],
+  "specialVideoOutputs": {
+    "details": [
+      "Sega Saturn RGB SCART cable (PAL users MUST select “sync on luma”, everyone else select “NTSC csync”)",
+      "Sega Saturn NTSC RGB SCART Cable",
+      "Sega Saturn NTSC RGB SCART cable",
+      "Sega Saturn PAL RGB SCART cable csync",
+      "Retro Gaming Cables component cable"
+    ],
+    "notes": [
+      "all Genesis cables will work with the HD Retrovision Sega Saturn Adapter"
+    ]
+  }
 }
