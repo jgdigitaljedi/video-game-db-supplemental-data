@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Magnavox Odyssey",
+    "id": "ccl65",
+    "igdbId": 88,
+    "gbId": 74,
+    "gbGuid": "3045-74",
+    "accessories": ["Shooting Gallery", "Magnavox Odyssey Travel Case"]
+  },
+  {
+    "name": "Intellivision",
+    "id": "ccl44",
+    "igdbId": 67,
+    "gbId": 51,
+    "gbGuid": "3045-51",
+    "tgdbId": 32,
+    "accessories": ["Entertainment Computer System", "Intellivoice Voice Synthesis Module"]
+  },
+  {
+    "name": "Colecovision",
+    "id": "ccl38",
+    "igdbId": 68,
+    "gbId": 47,
+    "gbGuid": "3045-47",
+    "tgdbId": 31,
+    "accessories": [
+      "Expansion module #1",
+      "Expansion module #2",
+      "Expansion module #3",
+      "Roller Controller",
+      "Super Action Controller"
+    ]
+  },
+  {
+    "name": "Nintendo Entertainment System (NES)",
+    "id": "ccl1",
+    "igdbId": 18,
+    "gbId": 21,
+    "gbGuid": "3045-21",
+    "tgdbId": 7,
+    "accessories": [
+      "NES Zapper",
+      "NES Advantage",
+      "NES Max",
+      "Power Glove",
+      "NES Satellite",
+      "NES Four Score",
+      "R.O.B.",
+      "NES Cleaning Kit",
+      "NES Lockout",
+      "Power Pad",
+      "Family BASIC",
+      "Famicom Data Recorder",
+      "FamiCoin",
+      "Famicom 3D System",
+      "NES Gamepad"
+    ]
+  },
+  {
+    "name": "Sega Master System",
+    "id": "ccl13",
+    "igdbId": 64,
+    "gbId": 8,
+    "gbGuid": "3045-8",
+    "tgdbId": 35,
+    "accessories": [
+      "Light Phaser",
+      "SegaScope 3-D Glasses",
+      "Sega Control Pad",
+      "Sega Control Stick"
+    ]
+  },
+  {
+    "name": "NEC TurboGrafx 16",
+    "id": "ccl33",
+    "igdbId": 86,
+    "gbId": 55,
+    "gbGuid": "3045-55",
+    "tgdbId": 34,
+    "accessories": ["Turbo Tap", "Turbo Booster", "Turbo Stick"]
+  },
+  {
+    "name": "Super Nintendo Entertainment System (SNES)",
+    "id": "ccl2",
+    "igdbId": 19,
+    "gbId": 9,
+    "gbGuid": "3045-9",
+    "tgdbId": 6,
+    "accessories": [
+      "SNES Cleaning Kit",
+      "Super Game Boy",
+      "Super NES Mouse",
+      "Super Scope",
+      "Score Master"
+    ]
+  },
+  {
+    "name": "Nintendo Super Famicom",
+    "id": "ccl88",
+    "igdbId": 58,
+    "gbId": null,
+    "gbGuid": null,
+    "accessories": [
+      "Satellaview",
+      "Nintendo Power cartridge",
+      "Super Game Boy",
+      "Super Game Boy 2",
+      "Super NES Mouse",
+      "Super Scope",
+      "Cleaning Kit"
+    ]
+  },
+  {
+    "name": "Atari 2600",
+    "id": "ccl28",
+    "igdbId": 59,
+    "gbId": 40,
+    "gbGuid": "3045-40",
+    "tgdbId": 22,
+    "accessories": [
+      "CX40 Joystick",
+      "CX30-04 Paddle Controller",
+      "CX20-01 Driving Controller",
+      "CX50 Keyboard Controller",
+      "CX21 Video Touch Pad",
+      "CX78 Power Control Pad"
+    ]
+  },
+  {
+    "name": "Nintendo Virtual Boy",
+    "id": "ccl50",
+    "igdbId": 87,
+    "gbId": 79,
+    "gbGuid": "3045-79",
+    "tgdbId": 4918,
+    "accessories": [
+      "EyeShade",
+      "Soft Case",
+      "Stereo Headphones",
+      "Virtual Boy Adapter",
+      "Virtual Boy Hardcase"
+    ]
+  },
+  {
+    "name": "Nintendo 64",
+    "id": "ccl3",
+    "igdbId": 4,
+    "gbId": 43,
+    "gbGuid": "3045-43",
+    "tgdbId": 3,
+    "accessories": [
+      "Nintendo 64 Controller",
+      "Controller Pak",
+      "Jumper Pak",
+      "Expansion Pak",
+      "Rumble Pak",
+      "Transfer Pak",
+      "64DD",
+      "Nintendo 64 Mouse",
+      "Voice Recognition Unit",
+      "Nintendo 64 Cleaning Kit"
+    ]
+  },
+  {
+    "name": "Nintendo 64DD",
+    "id": "ccl55",
+    "igdbId": 4,
+    "gbId": 101,
+    "gbGuid": "3045-101",
+    "accessories": ["64DD Modem", "64DD Keyboard"]
+  },
+  {
+    "name": "Nintendo GameCube",
+    "id": "ccl4",
+    "igdbId": 21,
+    "gbId": 23,
+    "gbGuid": "3045-23",
+    "tgdbId": 2,
+    "accessories": []
+  }
+]
