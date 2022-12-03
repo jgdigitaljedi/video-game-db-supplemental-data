@@ -5,6 +5,9 @@
 - games that come with their own unique controller
 - N64 Rumble Pak games
 - Nintendo DS Rumble Pak games
+- PS2 network adapter games
+- Dreamcast network games
+- GameCube network games
 
 ---
 
