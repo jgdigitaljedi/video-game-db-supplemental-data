@@ -8,6 +8,7 @@
 - PS2 network adapter games
 - Dreamcast network games
 - GameCube network games
+- Jaguar Team Tap games
 
 ---
 

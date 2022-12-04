@@ -692,5 +692,190 @@
       "PlayStation Portable GPS",
       "PlayStation Portable Go!Cam"
     ]
+  },
+  {
+    "name": "Microsoft Xbox",
+    "id": "ccl25",
+    "igdbId": 11,
+    "gbId": 32,
+    "gbGuid": "3045-32",
+    "tgdbId": 14,
+    "accessories": [
+      "Xbox Controller 1 (The Duke)",
+      "Xbox Controller 2 (Controller S)",
+      "Xbox DVD Playback Kit",
+      "Xbox Memory Card Unit",
+      "Xbox Component Cable",
+      "Xbox System Link Cable",
+      "Xbox LIVE Starter Kit",
+      "Xbox Advanced AV Pack",
+      "Xbox Media Center Extender",
+      "Wireless-G Xbox Adapter",
+      "Xbox Music Mixer",
+      "Xbox Headset Communicator",
+      "RF Adapter"
+    ]
+  },
+  {
+    "name": "Microsoft Xbox 360",
+    "id": "ccl26",
+    "igdbId": 12,
+    "gbId": 20,
+    "gbGuid": "3045-20",
+    "tgdbId": 15,
+    "accessories": [
+      "Xbox 360 Controller",
+      "Xbox 360 Wireless Gaming Receiver",
+      "Xbox 360 Rechargeable Battery Pack",
+      "Xbox 360 Play and Change Kit",
+      "Xbox 360 Quick Charge Kit",
+      "Xbox 360 Messenger Kit (Chatpad)",
+      "Xbox 360 Universal Media Remote",
+      "Xbox 360 Media Remote",
+      "Xbox 360 Wireless Racing Wheel",
+      "Xbox 360 Wireless Speed Wheel",
+      "Xbox 360 Wireless Micorphone",
+      "Kinect",
+      "Composite AV Cable",
+      "S-video AV Cable",
+      "Advanced SCART AV Cable",
+      "Component HD AV Cable",
+      "D-terminal HD AV Cable",
+      "VGA HD Av Cable",
+      "HDMI Cable",
+      "HDMI Audio Adapter",
+      "Xbox 360 HD DVD Player",
+      "Xbox 360 Wireless Headset",
+      "Xbox 360 Wired Headset",
+      "Xbox Live Vision Camera",
+      "Xbox 360 Wireless Network Adapter 1",
+      "Xbox 360 Wireless Network Adapter 2"
+    ]
+  },
+  {
+    "name": "Atari 5200",
+    "id": "ccl29",
+    "igdbId": 66,
+    "gbId": 67,
+    "gbGuid": "3045-67",
+    "tgdbId": 26,
+    "accessories": [
+      "Atari 5200 Controller",
+      "Atari 5200 Trak-Ball",
+      "Atari 5200 Adapter",
+      "Atari Joystick Coupler",
+      "Atari 4-port Switchbox",
+      "Atari Carrying Case"
+    ]
+  },
+  {
+    "name": "Atari 7800",
+    "id": "ccl30",
+    "igdbId": 60,
+    "gbId": 70,
+    "gbGuid": "3045-70",
+    "tgdbId": 27,
+    "accessories": ["Atari Pro-Line Joystick", "Atari Gamepad"]
+  },
+  {
+    "name": "Atari Jaguar",
+    "id": "ccl31",
+    "igdbId": 62,
+    "gbId": 28,
+    "gbGuid": "3045-28",
+    "tgdbId": 28,
+    "accessories": [
+      "Jaguar Controller",
+      "Jaguar Pro Controller",
+      "Jaguar Team Tap",
+      "Jaguar JagLink Interface",
+      "Jaguar Game/TV Switch",
+      "Jaguar S-video cable",
+      "Jaguar Composite cable"
+    ]
+  },
+  {
+    "name": "Atari Jaguar CD",
+    "id": "ccl43",
+    "igdbId": 62,
+    "gbId": 171,
+    "gbGuid": "3045-171",
+    "tgdbId": 29,
+    "accessories": ["Jaguar MemoryTrack Cartridge"]
+  },
+  {
+    "name": "Atari Lynx",
+    "id": "ccl32",
+    "igdbId": 61,
+    "gbId": 7,
+    "gbGuid": "3045-7",
+    "tgdbId": 4924,
+    "accessories": [
+      "Multiplayer ComLynx Cable",
+      "Lynx AC Adapter",
+      "Lynx Cigarette Lighter Adapter",
+      "Lynx Sun Visor",
+      "Lynx II Sun Visor",
+      "Lynx Battery Pack",
+      "Lynx Carrying Pouch",
+      "Lynx Kit Case",
+      "Lynx Carrying Case"
+    ]
+  },
+  {
+    "name": "3DO Interactive Multiplayer",
+    "id": "ccl35",
+    "igdbId": 50,
+    "gbId": 26,
+    "gbGuid": "3045-26",
+    "tgdbId": 25,
+    "accessories": [
+      "3DO Controller",
+      "Gamegun",
+      "3DO Mouse",
+      "Panasonic FZ-EM256 Expandable Memory Unit",
+      "Panasonic 3DO Karaoke Mixer"
+    ]
+  },
+  {
+    "name": "Philips CD-i",
+    "id": "ccl36",
+    "igdbId": 117,
+    "gbId": 27,
+    "gbGuid": "3045-27",
+    "tgdbId": 4917,
+    "accessories": [
+      "CD-i Connection Kit",
+      "CD-i RF Modulator",
+      "CD-i I/O Port Splitter",
+      "CD-i Mouse",
+      "CD-i Touchpad",
+      "CD-i Trackerball",
+      "CD-i Thumbstick Remote Controller",
+      "CD-i KeyControl Keyboard",
+      "CD-i Wireless Remote",
+      "CD-i 3-Button Gamepad"
+    ]
+  },
+  {
+    "name": "Sony Playstation Vita",
+    "id": "ccl45",
+    "igdbId": 46,
+    "gbId": 129,
+    "gbGuid": "3045-129",
+    "tgdbId": 39,
+    "accessories": [
+      "PlayStation Vita Cradle",
+      "PlayStation Vita AC Adapter",
+      "PlayStation Vita Car Adapter",
+      "PlayStation Vita Card Holder",
+      "PlayStation Vita Cleaning Cloth",
+      "PlayStation Vita Screen Protector",
+      "PlayStation Vita USB Cable",
+      "PlayStation Vita Travel Pouch",
+      "PlayStation Vita Carrying Case",
+      "PlayStation Vita In-Ear Headset",
+      "PlayStation Vita Portable Charger"
+    ]
   }
 ]
