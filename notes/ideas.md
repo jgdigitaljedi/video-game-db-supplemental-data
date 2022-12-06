@@ -9,6 +9,7 @@
 - Dreamcast network games
 - GameCube network games
 - Jaguar Team Tap games
+- Epoch Cassette Vision light gun games
 
 ---
 

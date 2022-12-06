@@ -49,10 +49,6 @@
       "NES Cleaning Kit",
       "NES Lockout",
       "Power Pad",
-      "Family BASIC",
-      "Famicom Data Recorder",
-      "FamiCoin",
-      "Famicom 3D System",
       "NES Gamepad"
     ]
   },
@@ -877,5 +873,114 @@
       "PlayStation Vita In-Ear Headset",
       "PlayStation Vita Portable Charger"
     ]
+  },
+  {
+    "name": "SNK Neo Geo AES",
+    "id": "ccl50",
+    "igdbId": 80,
+    "gbId": 25,
+    "gbGuid": "2045-25",
+    "accessories": [
+      "Neo Geo Arcade Stick",
+      "Neo Geo MVS Cartridge Adapter",
+      "Neo Geo Memory Card",
+      "Neo Geo Deck",
+      "Neo Geo RF Adapter",
+      "Neo Geo AES AC Adapter",
+      "Neo Geo AES RGB SCART cable",
+      "Neo Geo Mahjong Controller",
+      "Neo Geo Joypad"
+    ]
+  },
+  {
+    "name": "Nintendo Family Computer (Famicom)",
+    "id": "ccl51",
+    "igdbId": 99,
+    "gbId": 21,
+    "gbGuid": "3045-21",
+    "accessories": [
+      "Family BASIC Keyboard",
+      "Famicom Data Recorder",
+      "FamiCoin",
+      "Famicom 3D System",
+      "Family Robot",
+      "Famicom Light Gun",
+      "Famicom Modem",
+      "Famicom Computer Disk System",
+      "Famicom 4-Players Adapter"
+    ]
+  },
+  {
+    "name": "Neo Geo CD",
+    "id": "ccl52",
+    "igdbId": 136,
+    "gbId": 59,
+    "gbGuid": "3045-59",
+    "accessories": ["Neo Geo CD Ac Adapter", "Neo Geo CD Controller Pro", "Neo Geo CD Pad"]
+  },
+  {
+    "name": "Bandai WonderSwan",
+    "id": "ccl54",
+    "igdbId": 57,
+    "gbId": 65,
+    "gbGuid": "3045-65",
+    "accessories": [
+      "Communication Link Cable",
+      "Digimon Digivice connector",
+      "WonderBeat 9480 Headphone Adapter",
+      "Wonderswan Charger",
+      "Wonderswan Rechargeable Battery",
+      "WonderBorg",
+      "WongerGate",
+      "WonderMagic",
+      "WonderWave",
+      "WonderWitch",
+      "Worm Light"
+    ]
+  },
+  {
+    "name": "Bandai WonderSwan Color",
+    "id": "ccl53",
+    "igdbId": 123,
+    "gbId": 54,
+    "gbGuid": "3045-54",
+    "accessories": ["WonderMagic Color"]
+  },
+  {
+    "name": "Fairchild Channel F",
+    "id": "ccl57",
+    "igdbId": 127,
+    "gbId": null,
+    "gbGuid": null,
+    "accessories": ["Fairchild Channel F Controller"]
+  },
+  {
+    "name": "Bandai Playdia",
+    "id": "ccl61",
+    "igdbId": 308,
+    "gbId": 127,
+    "gbGuid": "3045-127",
+    "accessories": ["Infrared Rays Controller", "Kaleido Moon Scope", "Ultraman Special Armband"]
+  },
+  {
+    "name": "Sega SG-1000",
+    "id": "ccl62",
+    "igdbId": 84,
+    "gbId": 141,
+    "gbGuid": "3045-141",
+    "accessories": [
+      "SG-1000 Controller",
+      "SG-1000 Mk-2 Controller",
+      "SK-1100 Keyboard",
+      "Card Catcher"
+    ]
+  },
+  {
+    "name": "Epoch Cassette Vision",
+    "id": "ccl63",
+    "igdbId": 375,
+    "gbId": 135,
+    "gbGuid": "3045-135",
+    "accessories": ["Light Gun"]
   }
 ]
