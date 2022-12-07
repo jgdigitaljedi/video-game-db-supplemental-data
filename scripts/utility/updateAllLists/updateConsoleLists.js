@@ -21,6 +21,7 @@ const hardClones = require(path.join(smallFiles, 'clonesThatPlayOriginalGames.js
 const softClones = require(path.join(smallFiles, 'clonesWithBuiltInGames.json'));
 const opticalDrivesEm = require(path.join(smallFiles, 'opticalDriveEmulators.json'));
 const videoOuts = require(path.join(smallFiles, 'specialVideoOutputAdapters.json'));
+const offAcc = require(path.join(smallFiles, 'officialLicensedAccessories.json'));
 
 function getCombinedId(data) {
   return data.map(plat => `${plat.igdbId}-${plat.gbId}`);
@@ -39,6 +40,7 @@ const hcIds = getCombinedId(hardClones);
 const scIds = getCombinedId(softClones);
 const odeIds = getCombinedId(opticalDrivesEm);
 const vidIds = getCombinedId(videoOuts);
+const olAccIds = getCombinedId(offAcc);
 
 function getBool(combinedId, ids) {
   const index = ids.indexOf(combinedId);
@@ -59,9 +61,7 @@ function getRegionFree(combinedId) {
 
 function getVideoOuts(combinedId) {
   const index = vidIds.indexOf(combinedId);
-  return index > -1
-    ? { details: videoOuts[index].details, notes: videoOuts[index].notes }
-    : null;
+  return index > -1 ? { details: videoOuts[index].details, notes: videoOuts[index].notes } : null;
 }
 
 function getFormattedRegionFree(rf) {
@@ -95,6 +95,7 @@ function getFormattedRegionFree(rf) {
       const sc = getDetails(combinedId, scIds, softClones, 'details');
       const ode = getDetails(combinedId, odeIds, opticalDrivesEm, 'details');
       const vid = getVideoOuts(combinedId);
+      const ola = getDetails(combinedId, olAccIds, offAcc, 'accessories');
 
       if (
         allEx ||
@@ -108,9 +109,11 @@ function getFormattedRegionFree(rf) {
         fc ||
         hc ||
         sc ||
-        ode || vid
+        ode ||
+        vid ||
+        ola
       ) {
-        addStats(allEx, backup, region, adapter, rgb, multi, burned, lg, fc, hc, sc, ode, vid);
+        addStats(allEx, backup, region, adapter, rgb, multi, burned, lg, fc, hc, sc, ode, vid, ola);
         return {
           ...platform,
           details: allEx ? 'All games are exclusive to this platform.' : undefined,
@@ -125,7 +128,8 @@ function getFormattedRegionFree(rf) {
           hardwareClones: hc || undefined,
           softwareClones: sc || undefined,
           opticalDriveEmulators: ode || undefined,
-          specialVideoOutputs: vid || undefined
+          specialVideoOutputs: vid || undefined,
+          officialLicensedAccessories: ola || undefined
         };
       }
       return null;

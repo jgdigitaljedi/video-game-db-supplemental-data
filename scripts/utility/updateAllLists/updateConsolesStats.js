@@ -11,7 +11,8 @@ let platformStats = {
   hardwareClones: 0,
   softwareClones: 0,
   opticalDriveEmulators: 0,
-  specialVideoOutputs: 0
+  specialVideoOutputs: 0,
+  officialLicensedAccessories: 0
 };
 
 module.exports.getCounts = function() {
@@ -31,7 +32,8 @@ module.exports.addStats = function(
   hc,
   sc,
   ode,
-  vid
+  vid,
+  ola
 ) {
   if (allEx) {
     platformStats.allGamesExclusives++;
@@ -71,5 +73,8 @@ module.exports.addStats = function(
   }
   if (vid) {
     platformStats.specialVideoOutputs += vid.details.length
+  }
+  if (ola) {
+    platformStats.specialVideoOutputs += ola.length
   }
 };
