@@ -90,7 +90,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'greatestHits/nintendo64PlayersChoice.json')),
       require(path.resolve(smallFiles, 'multiplayer/n64_3playerGames.json')),
       require(path.resolve(smallFiles, 'multiplayer/n64_4playerGames.json')),
-      require(path.resolve(smallFiles, 'special/n64ExpansionPakGames.json'))
+      require(path.resolve(smallFiles, 'special/n64ExpansionPakGames.json')),
+      require(path.resolve(smallFiles, 'special/nintendo64RumblePakGames.json'))
     ],
     output: path.resolve(consoleLists, 'Nintendo64.json')
   },
