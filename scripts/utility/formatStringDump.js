@@ -2,8 +2,8 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/nintendo64RumblePakGames.json';
-const idPrefix = 'n64rp';
+const relativePath = '../../textFilesToBeConverted/special/nintendoDsRumblePakGames.json';
+const idPrefix = 'dsrp';
 const parensToDetails = false;
 
 (async function() {
@@ -11,7 +11,7 @@ const parensToDetails = false;
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'N64 Rumble Pak Game',
+    'Nintendo DS Rumble Pak Game',
     idPrefix,
     parensToDetails
   );

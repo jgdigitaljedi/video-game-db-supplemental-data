@@ -89,6 +89,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 ### Multiplayer related (under "special" property in data)
 
+- ajttX - Atari Jaguar Team Tap Games (atariJaguarTeamTapGames.json) | GAMES LIST
 - n643pX - N64 3-Player Games (n64_4playerGames.json) | GAMES LIST
 - n644pX - N64 4-Player Games (n64_4playerGames.json) | GAMES LIST
 - nesfsX - NES Four Score compatible games (nesFourScore.json) | GAMES LIST
@@ -108,6 +109,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - biX - games banned in various countries (bannedInternationally.json) | GAMES LIST
 - dsienX - Nintendo DS games with enhanced features on DSi (nintendoDsGameDsiEnhanced.json) | GAMES LIST
 - dsijpX - Nintendo DS games with enhanced features on DSi (Japan) (nintendoDsGameDsiEnhancedJapan.json) | GAMES LIST
+- dsrpX - Nintendo DS Rumble Pak games (nintendoDsRumblePakGames.json) | GAMES LIST
 - gbbgX - Genesis black box grid games (blackBoxGridGenesisGames.json) | GAMES LIST
 - gcbbaX - GameCube braodband adapter games (gamecubeBroadbandGames.json) | GAMES LIST
 - molgX - Magnavox Odyssey light gun games (magnavoxOdysseyLightGunGamesGames.json) | GAMES LIST

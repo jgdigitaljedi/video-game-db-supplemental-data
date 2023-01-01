@@ -10,6 +10,8 @@ Also, since the app isn't the focus here (the JSON files are the focus), there w
 
 NOTE: As of 11/7/2019, I have decided to abondon The Games DB. I've had too many problems with their API keys and that API was also getting the last amount of results so, at this point, it doesn't make sense to keep wrestling with it and just move on. I am freezing it in the UI, will eventually remove it from stats, etc. I'll leave the data I've collected for The Games DB API in there for now.
 
+Additionally, feel free to use any of this data or even fork this project for personal usage. I added a license in an effort to help prevent the proprietary usage of any data I have spent a countless number of hours collecting, here. DO NOT USE MY DATA IN A PROPRIETARY PROJECT! The license dictates that any commercial usage must have proper attribution and must be open source as well. I have plans in the distant future to use this data to build an API that will have free tiers for devs using it for smaller projects and paid tiers for more monthly calls to the API and I will not take kindly to someone misusing my data! That said, if you are wanting an easier way to consume this data, I plan on building on launching this API sometime in 2023 and the free tier will have a generous amount of monthly API calls to allow collectors and hobbyists to use the data for free.
+
 ---
 
 ## Index
@@ -243,6 +245,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 ### Multiplayer addon/console version games
 
 - Atari 5200 4 player games
+- Atari Jaguar Team Tap games
 - N64 3 player games
 - N64 4 player games
 - Neo Geo AES Link-Up games
@@ -305,6 +308,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - N64 Rumble Pak games
 - NES Black Box games
 - NES hang tab games
+- Nintendo DS Rumble Pak games
 - platforms/consoles that play burned disks without modification
 - Sega Genesis Black Box Grid games
 - Sega Master System 3D games
@@ -427,8 +431,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan. I think some of this is lost in translation.
 
 There are 918 data points for platforms/consoles.
- Out of 16292 games data points collected so far, the APIs are missing data the following number of games:
+Out of 16345 games data points collected so far, the APIs are missing data the following number of games:
 
-- Missing from all APIs: 1491 (9%)
-- IGDB: 1662 (10%)
-- Giantbomb: 2656 (16%)
+- Missing from all APIs: 1492 (9%)
+- IGDB: 1663 (10%)
+- Giantbomb: 2658 (16%)

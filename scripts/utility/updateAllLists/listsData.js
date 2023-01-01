@@ -211,7 +211,8 @@ module.exports.listData = [
     )),
     special: [
       require(path.resolve(smallFiles, 'special/nintendoDsGamesDsiEnhanced.json')),
-      require(path.resolve(smallFiles, 'special/nintendoDsGamesDsiEnhancedJapan.json'))
+      require(path.resolve(smallFiles, 'special/nintendoDsGamesDsiEnhancedJapan.json')),
+      require(path.resolve(smallFiles, 'special/nintendoDsRumblePakGames.json'))
     ],
     output: path.resolve(consoleLists, 'NintendoDS.json')
   },
@@ -557,7 +558,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/atariJaguarMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'multiplayer/atariJaguarTeamTapGames.json'))],
     output: path.resolve(consoleLists, 'AtariJaguar.json')
   },
   {
