@@ -3,9 +3,6 @@
 ## Games
 
 - games that come with their own unique controller
-- Nintendo DS Rumble Pak games
-- PS2 network adapter games
-- Dreamcast network games
 - GameCube network games
 - Epoch Cassette Vision light gun games
 - V.Smile mic games (https://vtech.fandom.com/wiki/V.Smile#Accessories)

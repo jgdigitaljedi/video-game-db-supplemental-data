@@ -396,7 +396,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'greatestHits/sonyPlayStation2GreatestHits.json')),
       require(path.resolve(smallFiles, 'special/bannedInternationally.json')),
       require(path.resolve(smallFiles, 'multiplayer/playstation2multitap.json')),
-      require(path.resolve(smallFiles, 'special/sonyPlaystation2LightGunGames.json'))
+      require(path.resolve(smallFiles, 'special/sonyPlaystation2LightGunGames.json')),
+      require(path.resolve(smallFiles, 'special/playstation2OnlineGames.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlaystation2.json')
   },

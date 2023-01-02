@@ -123,6 +123,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ps1lbX - Sony PlayStation long box games (playstationLongboxGames.json) | GAMES LIST
 - neshtgX - NES hang tab games (nesHangtabGames.json) | GAMES LIST
 - neslgX - NES light gun games (nesLightGunGames.json) | GAMES LIST
+- ps2olX - Sony PlayStation 2 Online games (playstation2OnlineGamesGames.json) | GAMES LIST
 - s326bX - Sega 32X 6 button games (sega32x6ButtonGames.json) | GAMES LIST
 - s326bhX - Sega 32X 6 button hidden functionality (sega32x6ButtonHidden.json) | GAMES LIST
 - s326pmX - Sega 32X 6 button MODE button extra functionality (sega32x6ButtonMode.json) | GAMES LIST

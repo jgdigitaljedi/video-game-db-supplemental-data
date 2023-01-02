@@ -3,9 +3,9 @@ const cheerio = require('cheerio');
 const request = require('request');
 const fileUtil = require('./fileUtilities');
 
-const siteUrl = 'https://wikiless.org/wiki/List_of_Dreamcast_online_games?lang=en';
-const filePath = '../../textFilesToBeConverted/special/dreamcastOnlineGames.json';
-const idPrefix = 'dcog';
+const siteUrl = 'https://wikiless.org/wiki/List_of_PlayStation_2_online_games?lang=en';
+const filePath = '../../textFilesToBeConverted/special/playstation2OnlineGames.json';
+const idPrefix = 'ps2ol';
 
 const final = [];
 
@@ -30,7 +30,7 @@ function makeRequest(url) {
         return;
       }
       const gameTitle = $(row)
-        .find('td i a')
+        .find('td a')
         .text();
       console.log(gameTitle);
       if (gameTitle) {
