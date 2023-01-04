@@ -1532,5 +1532,17 @@
     "filePath": "../textFilesToBeConverted/special/playstation2OnlineGames.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Microsoft Xbox online multiplayer games",
+    "filePath": "../textFilesToBeConverted/special/microsoftXboxOnlineGames.json",
+    "type": "Game",
+    "complete": false
+  },
+  {
+    "title": "Microsoft Xbox System Link games",
+    "filePath": "../textFilesToBeConverted/special/microsoftXboxSystemLinkGames.json",
+    "type": "Game",
+    "complete": true
   }
 ]

@@ -101,6 +101,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 - smaX - Sega Saturn Multiplayer Adapter compatible games (saturnMultiplayerAdapter.json) | GAMES LIST
 - snessmX - SNES Super Multitap compatible games (snesSuperMultitap.json) | GAMES LIST
 - tg16mtX - TurboGrafx-16 Multitap compatible games (tg16Multitap.json) | GAMES LIST
+- xbomX - Microsoft Xbox online multiplayer games (microsoftXboxOnlineGames.json) | GAMES LIST
+- xbslX - Microsoft Xbox System Link games (microsoftXboxSystemLinkGames.json) | GAMES LIST
 
 ### Special/Misc (under "special" property in data)
 

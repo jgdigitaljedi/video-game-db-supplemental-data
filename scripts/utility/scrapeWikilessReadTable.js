@@ -3,9 +3,13 @@ const cheerio = require('cheerio');
 const request = require('request');
 const fileUtil = require('./fileUtilities');
 
-const siteUrl = 'https://wikiless.org/wiki/List_of_PlayStation_2_online_games?lang=en';
-const filePath = '../../textFilesToBeConverted/special/playstation2OnlineGames.json';
-const idPrefix = 'ps2ol';
+/** variables specific to each list */
+const siteUrl = 'https://wikiless.org/wiki/List_of_Xbox_network_games?lang=en';
+const filePath = '../../textFilesToBeConverted/special/microsoftXboxSystemLinkGames.json';
+const idPrefix = 'xbsl';
+const details = 'Microsoft Xbox System Link game';
+const conditional = true;
+/** end variables; make sure to set these */
 
 const final = [];
 
@@ -21,6 +25,18 @@ function makeRequest(url) {
   });
 }
 
+function makeEntry(gameTitle, idPrefix, index) {
+  return {
+    name: gameTitle,
+    details: [details],
+    id: `${idPrefix}${index}`,
+    igdbId: null,
+    gbId: null,
+    gbGuid: null,
+    tgdbId: null
+  };
+}
+
 (function() {
   makeRequest(siteUrl).then(html => {
     const $ = cheerio.load(html);
@@ -29,29 +45,30 @@ function makeRequest(url) {
       if (index === 0) {
         return;
       }
-      const gameTitle = $(row)
-        .find('td a')
+      const cells = Array.from($(row).find('td'));
+      const gameTitle = $(cells[0])
+        .find('a')
+        // .find('td a')
         .text();
       console.log(gameTitle);
       if (gameTitle) {
-        final.push({
-          name: gameTitle,
-          id: `${idPrefix}${index}`,
-          igdbId: null,
-          gbId: null,
-          gbGuid: '',
-          tgdbId: null
-        });
+        if (conditional) {
+          /** this is where to add conditional logic before adding to list */
+          if (
+            cells &&
+            cells.length &&
+            $(cells[4])
+              .text()
+              .toLowerCase()
+              .indexOf('system link') >= 0
+          ) {
+            final.push(makeEntry(gameTitle, idPrefix, index));
+          }
+          /** end of conditional section */
+        } else {
+          final.push(makeEntry(gameTitle, idPrefix, index));
+        }
       }
-      // const cells = $(row).find('td');
-      // const yesNoCell = $(cells)[2];
-      // if (yesNoCell) {
-      //   const yesNo = yesNoCell.attribs.class;
-      //   console.log('yesNo', yesNo);
-      //   if (yesNo && yesNo === 'table-yes') {
-      //     final.push(gameTitle);
-      //   }
-      // }
     });
     fileUtil.writeFile(filePath, final);
     console.log(chalk.cyan.bold('Scraping complete and file written!'));
