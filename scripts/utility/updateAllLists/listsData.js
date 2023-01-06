@@ -474,7 +474,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'greatestHits/xboxPlatinumHits.json')),
       require(path.resolve(smallFiles, 'special/bannedInternationally.json')),
       require(path.resolve(smallFiles, 'special/microsoftXboxLightGunGames.json')),
-      require('../../../finalOutput/smallFiles/multiplayer/microsoftXboxSystemLinkGames.json')
+      require(path.resolve(smallFiles, 'multiplayer/microsoftXboxSystemLinkGames.json')),
+      require(path.resolve(smallFiles, 'multiplayer/microsoftXboxOnlineGames.json'))
     ],
     output: path.resolve(consoleLists, 'MicrosoftXbox.json')
   },
