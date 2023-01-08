@@ -1,12 +1,15 @@
 [
   {
     "name": "Outlast 2",
-    "details": ["banned in Australia"],
+    "details": [
+      "banned in Australia"
+    ],
     "id": "bi1",
     "igdbId": 14390,
     "gbId": 48099,
     "gbGuid": "3030-48099",
-    "tgdbId": 36327
+    "tgdbId": 36327,
+    "category": "banned"
   },
   {
     "name": "Tropico 5",
@@ -17,7 +20,8 @@
     "igdbId": 3211,
     "gbId": 43535,
     "gbGuid": "3030-43535",
-    "tgdbId": 19998
+    "tgdbId": 19998,
+    "category": "banned"
   },
   {
     "name": "Dante's Inferno",
@@ -28,7 +32,8 @@
     "igdbId": 28854,
     "gbId": 8828,
     "gbGuid": "3030-8828",
-    "tgdbId": 639
+    "tgdbId": 639,
+    "category": "banned"
   },
   {
     "name": "Battlefield 3",
@@ -39,7 +44,8 @@
     "igdbId": 343,
     "gbId": 27006,
     "gbGuid": "3030-27006",
-    "tgdbId": 2599
+    "tgdbId": 2599,
+    "category": "banned"
   },
   {
     "name": "Pokémon GO",
@@ -51,7 +57,8 @@
     "igdbId": 12515,
     "gbId": 50840,
     "gbGuid": "3030-50840",
-    "tgdbId": 37527
+    "tgdbId": 37527,
+    "category": "banned"
   },
   {
     "name": "EA Sports MMA",
@@ -62,7 +69,8 @@
     "igdbId": 6984,
     "gbId": 26815,
     "gbGuid": "3030-26815",
-    "tgdbId": 13850
+    "tgdbId": 13850,
+    "category": "banned"
   },
   {
     "name": "Carmageddon",
@@ -75,7 +83,8 @@
     "igdbId": 626,
     "gbId": 18394,
     "gbGuid": "3030-18394",
-    "tgdbId": 4580
+    "tgdbId": 4580,
+    "category": "banned"
   },
   {
     "name": "RapeLay",
@@ -89,7 +98,8 @@
     "igdbId": 22426,
     "gbId": 16696,
     "gbGuid": "3030-16696",
-    "tgdbId": null
+    "tgdbId": null,
+    "category": "banned"
   },
   {
     "name": "Bully",
@@ -100,7 +110,8 @@
     "igdbId": 2720,
     "gbId": 10281,
     "gbGuid": "3030-10281",
-    "tgdbId": 3931
+    "tgdbId": 3931,
+    "category": "banned"
   },
   {
     "name": "Counter-Strike",
@@ -111,7 +122,8 @@
     "igdbId": 241,
     "gbId": 11663,
     "gbGuid": "3030-11663",
-    "tgdbId": 6030
+    "tgdbId": 6030,
+    "category": "banned"
   },
   {
     "name": "EverQuest",
@@ -122,7 +134,8 @@
     "igdbId": 282,
     "gbId": 10796,
     "gbGuid": "3030-10796",
-    "tgdbId": 6653
+    "tgdbId": 6653,
+    "category": "banned"
   },
   {
     "name": "Grand Theft Auto: Episodes from Liberty City",
@@ -134,7 +147,8 @@
     "igdbId": 7003,
     "gbId": 26616,
     "gbGuid": "3030-26616",
-    "tgdbId": 2533
+    "tgdbId": 2533,
+    "category": "banned"
   },
   {
     "name": "Battlefield 4",
@@ -145,7 +159,8 @@
     "igdbId": 1979,
     "gbId": 39035,
     "gbGuid": "3030-39035",
-    "tgdbId": 16691
+    "tgdbId": 16691,
+    "category": "banned"
   },
   {
     "name": "Command & Conquer: Generals",
@@ -156,7 +171,8 @@
     "igdbId": 649,
     "gbId": 10973,
     "gbGuid": "3030-10973",
-    "tgdbId": 4545
+    "tgdbId": 4545,
+    "category": "banned"
   },
   {
     "name": "Football Manager 2005",
@@ -167,7 +183,8 @@
     "igdbId": 944,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": 30286
+    "tgdbId": 30286,
+    "category": "banned"
   },
   {
     "name": "IGI 2: Covert Strike",
@@ -178,7 +195,8 @@
     "igdbId": 8559,
     "gbId": 11364,
     "gbGuid": "3030-11364",
-    "tgdbId": 8407
+    "tgdbId": 8407,
+    "category": "banned"
   },
   {
     "name": "Valkyrie Drive: Bhikkhuni",
@@ -196,7 +214,8 @@
     "igdbId": 11527,
     "gbId": 49223,
     "gbGuid": "3030-49223",
-    "tgdbId": 40129
+    "tgdbId": 40129,
+    "category": "banned"
   },
   {
     "name": "Devotion",
@@ -207,61 +226,80 @@
     "igdbId": 104786,
     "gbId": 69209,
     "gbGuid": "3030-69209",
-    "tgdbId": 64055
+    "tgdbId": 64055,
+    "category": "banned"
   },
   {
     "name": "10,000 Bullets",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi19",
     "igdbId": 14727,
     "gbId": 23711,
     "gbGuid": "3030-23711",
-    "tgdbId": 18703
+    "tgdbId": 18703,
+    "category": "banned"
   },
   {
     "name": "25 To Life",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi20",
     "igdbId": 5714,
     "gbId": 14366,
     "gbGuid": "3030-14366",
-    "tgdbId": 4421
+    "tgdbId": 4421,
+    "category": "banned"
   },
   {
     "name": "50 Cent: Blood on the Sand",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi21",
     "igdbId": 5472,
     "gbId": 20454,
     "gbGuid": "3030-20454",
-    "tgdbId": 12604
+    "tgdbId": 12604,
+    "category": "banned"
   },
   {
     "name": "50 Cent: Bulletproof",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi22",
     "igdbId": 4011,
     "gbId": 16255,
     "gbGuid": "3030-16255",
-    "tgdbId": 5857
+    "tgdbId": 5857,
+    "category": "banned"
   },
   {
     "name": "Afro Samurai",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi23",
     "igdbId": 5478,
     "gbId": 20922,
     "gbGuid": "3030-20922",
-    "tgdbId": 874
+    "tgdbId": 874,
+    "category": "banned"
   },
   {
     "name": "Aliens vs. Predator",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi24",
     "igdbId": 560,
     "gbId": 26532,
     "gbGuid": "3030-26532",
-    "tgdbId": 310
+    "tgdbId": 310,
+    "category": "banned"
   },
   {
     "name": "Area 51",
@@ -272,43 +310,56 @@
     "igdbId": 5729,
     "gbId": 103,
     "gbGuid": "3030-103",
-    "tgdbId": 4256
+    "tgdbId": 4256,
+    "category": "banned"
   },
   {
     "name": "Army of Two",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi26",
     "igdbId": 996,
     "gbId": 20479,
     "gbGuid": "3030-20479",
-    "tgdbId": 11
+    "tgdbId": 11,
+    "category": "banned"
   },
   {
     "name": "Army of Two: The 40th Day",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi27",
     "igdbId": 997,
     "gbId": 25565,
     "gbGuid": "3030-25565",
-    "tgdbId": 13781
+    "tgdbId": 13781,
+    "category": "banned"
   },
   {
     "name": "Army of Two: The Devil's Cartel",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi28",
     "igdbId": 1832,
     "gbId": 39190,
     "gbGuid": "3030-39190",
-    "tgdbId": 10846
+    "tgdbId": 10846,
+    "category": "banned"
   },
   {
     "name": "Beat Down: Fists of Vengeance",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi29",
     "igdbId": 5745,
     "gbId": 11898,
     "gbGuid": "3030-11898",
-    "tgdbId": 17399
+    "tgdbId": 17399,
+    "category": "banned"
   },
   {
     "name": "BloodRayne",
@@ -319,7 +370,8 @@
     "igdbId": 1015,
     "gbId": 16437,
     "gbGuid": "3030-16437",
-    "tgdbId": 4210
+    "tgdbId": 4210,
+    "category": "banned"
   },
   {
     "name": "BloodRayne 2",
@@ -330,7 +382,8 @@
     "igdbId": 1016,
     "gbId": 1636,
     "gbGuid": "3030-1636",
-    "tgdbId": 4939
+    "tgdbId": 4939,
+    "category": "banned"
   },
   {
     "name": "Call of Duty 4: Modern Warfare",
@@ -342,16 +395,20 @@
     "igdbId": 623,
     "gbId": 2133,
     "gbGuid": "3030-2133",
-    "tgdbId": 648
+    "tgdbId": 648,
+    "category": "banned"
   },
   {
     "name": "Call of Duty: Black Ops",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi33",
     "igdbId": 545,
     "gbId": 26423,
     "gbGuid": "3030-26423",
-    "tgdbId": 952
+    "tgdbId": 952,
+    "category": "banned"
   },
   {
     "name": "Call of Duty: Modern Warfare 2",
@@ -363,16 +420,20 @@
     "igdbId": 559,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": 152
+    "tgdbId": 152,
+    "category": "banned"
   },
   {
     "name": "Call of Duty: World at War",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi35",
     "igdbId": 625,
     "gbId": 20777,
     "gbGuid": "3030-20777",
-    "tgdbId": 646
+    "tgdbId": 646,
+    "category": "banned"
   },
   {
     "name": "Carmageddon 2: Carpocalypse Now",
@@ -383,7 +444,8 @@
     "igdbId": 951,
     "gbId": 10553,
     "gbGuid": "3030-10553",
-    "tgdbId": 17372
+    "tgdbId": 17372,
+    "category": "banned"
   },
   {
     "name": "Carmageddon: Max Damage",
@@ -394,7 +456,8 @@
     "igdbId": 18075,
     "gbId": 54462,
     "gbGuid": "3030-54462",
-    "tgdbId": 39246
+    "tgdbId": 39246,
+    "category": "banned"
   },
   {
     "name": "Clive Barker's Jericho",
@@ -405,16 +468,20 @@
     "igdbId": 6939,
     "gbId": 10461,
     "gbGuid": "3030-10461",
-    "tgdbId": 78
+    "tgdbId": 78,
+    "category": "banned"
   },
   {
     "name": "Cold Fear",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi39",
     "igdbId": 5780,
     "gbId": 19631,
     "gbGuid": "3030-19631",
-    "tgdbId": 6023
+    "tgdbId": 6023,
+    "category": "banned"
   },
   {
     "name": "Cold Winter",
@@ -425,25 +492,32 @@
     "igdbId": 8277,
     "gbId": 9491,
     "gbGuid": "3030-9491",
-    "tgdbId": 5933
+    "tgdbId": 5933,
+    "category": "banned"
   },
   {
     "name": "Condemned: Criminal Origins",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi41",
     "igdbId": 6942,
     "gbId": 8804,
     "gbGuid": "3030-8804",
-    "tgdbId": 7166
+    "tgdbId": 7166,
+    "category": "banned"
   },
   {
     "name": "Condemned 2: Bloodshot",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi42",
     "igdbId": 6943,
     "gbId": 20465,
     "gbGuid": "3030-20465",
-    "tgdbId": 6594
+    "tgdbId": 6594,
+    "category": "banned"
   },
   {
     "name": "Conflict: Denied Ops",
@@ -454,7 +528,8 @@
     "igdbId": 5634,
     "gbId": 2106,
     "gbGuid": "3030-2106",
-    "tgdbId": 8453
+    "tgdbId": 8453,
+    "category": "banned"
   },
   {
     "name": "Crackdown",
@@ -465,7 +540,8 @@
     "igdbId": 2896,
     "gbId": 4065,
     "gbGuid": "3030-4065",
-    "tgdbId": 7167
+    "tgdbId": 7167,
+    "category": "banned"
   },
   {
     "name": "Crackdown 2",
@@ -476,7 +552,8 @@
     "igdbId": 2897,
     "gbId": 26790,
     "gbGuid": "3030-26790",
-    "tgdbId": 12062
+    "tgdbId": 12062,
+    "category": "banned"
   },
   {
     "name": "Criminal Girls 2: Party Favors",
@@ -487,7 +564,8 @@
     "igdbId": 24195,
     "gbId": 50357,
     "gbGuid": "3030-50357",
-    "tgdbId": 39827
+    "tgdbId": 39827,
+    "category": "banned"
   },
   {
     "name": "Dark Messiah of Might and Magic",
@@ -498,7 +576,8 @@
     "igdbId": 2369,
     "gbId": 15065,
     "gbGuid": "3030-15065",
-    "tgdbId": 10853
+    "tgdbId": 10853,
+    "category": "banned"
   },
   {
     "name": "Dead Island",
@@ -509,7 +588,8 @@
     "igdbId": 536,
     "gbId": 21534,
     "gbGuid": "3030-21534",
-    "tgdbId": 3596
+    "tgdbId": 3596,
+    "category": "banned"
   },
   {
     "name": "Dead Island: Riptide",
@@ -521,7 +601,8 @@
     "igdbId": 1833,
     "gbId": 38558,
     "gbGuid": "3030-38558",
-    "tgdbId": 11040
+    "tgdbId": 11040,
+    "category": "banned"
   },
   {
     "name": "Dead Rising",
@@ -532,7 +613,8 @@
     "igdbId": 81391,
     "gbId": 8720,
     "gbGuid": "3030-8720",
-    "tgdbId": 7174
+    "tgdbId": 7174,
+    "category": "banned"
   },
   {
     "name": "Dead Rising 2",
@@ -544,34 +626,44 @@
     "igdbId": 496,
     "gbId": 25187,
     "gbGuid": "3030-25187",
-    "tgdbId": 826
+    "tgdbId": 826,
+    "category": "banned"
   },
   {
     "name": "Dead Rising 2: Off The Record",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi52",
     "igdbId": 5924,
     "gbId": 34778,
     "gbGuid": "3030-34778",
-    "tgdbId": 8394
+    "tgdbId": 8394,
+    "category": "banned"
   },
   {
     "name": "Dead Rising 3",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi53",
     "igdbId": 3199,
     "gbId": 42902,
     "gbGuid": "3030-42902",
-    "tgdbId": 17810
+    "tgdbId": 17810,
+    "category": "banned"
   },
   {
     "name": "Dead Rising: Chop Till You Drop",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi54",
     "igdbId": 4798,
     "gbId": 21336,
     "gbGuid": "3030-21336",
-    "tgdbId": 8472
+    "tgdbId": 8472,
+    "category": "banned"
   },
   {
     "name": "Dead Space",
@@ -582,52 +674,68 @@
     "igdbId": 37,
     "gbId": 20800,
     "gbGuid": "3030-20800",
-    "tgdbId": 14
+    "tgdbId": 14,
+    "category": "banned"
   },
   {
     "name": "Dead To Rights",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi56",
     "igdbId": 3872,
     "gbId": 3032,
     "gbGuid": "3030-3032",
-    "tgdbId": 2313
+    "tgdbId": 2313,
+    "category": "banned"
   },
   {
     "name": "Dead to Rights II",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi57",
     "igdbId": 5810,
     "gbId": 18411,
     "gbGuid": "3030-18411",
-    "tgdbId": 6044
+    "tgdbId": 6044,
+    "category": "banned"
   },
   {
     "name": "Dead to Rights: Retribution",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi58",
     "igdbId": 6960,
     "gbId": 25286,
     "gbGuid": "3030-25286",
-    "tgdbId": 892
+    "tgdbId": 892,
+    "category": "banned"
   },
   {
     "name": "Doom 3: Resurrection of Evil",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi59",
     "igdbId": 672,
     "gbId": 7754,
     "gbGuid": "3030-7754",
-    "tgdbId": 4436
+    "tgdbId": 4436,
+    "category": "banned"
   },
   {
     "name": "Dying Light",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi60",
     "igdbId": 3042,
     "gbId": 42712,
     "gbGuid": "3030-42712",
-    "tgdbId": 23349
+    "tgdbId": 23349,
+    "category": "banned"
   },
   {
     "name": "Far Cry",
@@ -638,7 +746,8 @@
     "igdbId": 306,
     "gbId": 14782,
     "gbGuid": "3030-14782",
-    "tgdbId": 769
+    "tgdbId": 769,
+    "category": "banned"
   },
   {
     "name": "Football Manager",
@@ -649,7 +758,8 @@
     "igdbId": 23064,
     "gbId": 13818,
     "gbGuid": "3030-13818",
-    "tgdbId": 31904
+    "tgdbId": 31904,
+    "category": "banned"
   },
   {
     "name": "Gal*Gun 2",
@@ -661,7 +771,8 @@
     "igdbId": 68279,
     "gbId": 61974,
     "gbGuid": "3030-61974",
-    "tgdbId": 54645
+    "tgdbId": 54645,
+    "category": "banned"
   },
   {
     "name": "Gears of War",
@@ -672,7 +783,8 @@
     "igdbId": 547,
     "gbId": 12231,
     "gbGuid": "3030-12231",
-    "tgdbId": 23
+    "tgdbId": 23,
+    "category": "banned"
   },
   {
     "name": "Gears of War 2",
@@ -683,7 +795,8 @@
     "igdbId": 548,
     "gbId": 20662,
     "gbGuid": "3030-20662",
-    "tgdbId": 24
+    "tgdbId": 24,
+    "category": "banned"
   },
   {
     "name": "The Godfather: Blackhand Edition",
@@ -694,7 +807,8 @@
     "igdbId": 20681,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": 7731
+    "tgdbId": 7731,
+    "category": "banned"
   },
   {
     "name": "The Godfather II",
@@ -705,7 +819,8 @@
     "igdbId": 575,
     "gbId": 23346,
     "gbGuid": "3030-23346",
-    "tgdbId": 4205
+    "tgdbId": 4205,
+    "category": "banned"
   },
   {
     "name": "God of War",
@@ -718,16 +833,20 @@
     "igdbId": 19560,
     "gbId": 6959,
     "gbGuid": "3030-6959",
-    "tgdbId": 26
+    "tgdbId": 26,
+    "category": "banned"
   },
   {
     "name": "Golden Axe: Beast Rider",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi69",
     "igdbId": 7001,
     "gbId": 20928,
     "gbGuid": "3030-20928",
-    "tgdbId": 27
+    "tgdbId": 27,
+    "category": "banned"
   },
   {
     "name": "Grand Theft Auto: Liberty City Stories",
@@ -739,7 +858,8 @@
     "igdbId": 3263,
     "gbId": 6731,
     "gbGuid": "3030-6731",
-    "tgdbId": 7085
+    "tgdbId": 7085,
+    "category": "banned"
   },
   {
     "name": "Grand Theft Auto: San Andreas",
@@ -751,7 +871,8 @@
     "igdbId": 732,
     "gbId": 7120,
     "gbGuid": "3030-7120",
-    "tgdbId": 790
+    "tgdbId": 790,
+    "category": "banned"
   },
   {
     "name": "Grand Theft Auto: Vice City",
@@ -763,7 +884,8 @@
     "igdbId": 733,
     "gbId": 17036,
     "gbGuid": "3030-17036",
-    "tgdbId": 789
+    "tgdbId": 789,
+    "category": "banned"
   },
   {
     "name": "Grand Theft Auto: Vice City Stories",
@@ -775,7 +897,8 @@
     "igdbId": 3262,
     "gbId": 10264,
     "gbGuid": "3030-10264",
-    "tgdbId": 7086
+    "tgdbId": 7086,
+    "category": "banned"
   },
   {
     "name": "Gun",
@@ -786,7 +909,8 @@
     "igdbId": 3939,
     "gbId": 8873,
     "gbGuid": "3030-8873",
-    "tgdbId": 2315
+    "tgdbId": 2315,
+    "category": "banned"
   },
   {
     "name": "HellForces",
@@ -797,16 +921,20 @@
     "igdbId": 84469,
     "gbId": 20093,
     "gbGuid": "3030-20093",
-    "tgdbId": 62074
+    "tgdbId": 62074,
+    "category": "banned"
   },
   {
     "name": "Inversion",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi76",
     "igdbId": 7020,
     "gbId": 29087,
     "gbGuid": "3030-29087",
-    "tgdbId": 10822
+    "tgdbId": 10822,
+    "category": "banned"
   },
   {
     "name": "Kane & Lynch 2: Dog Days",
@@ -817,16 +945,20 @@
     "igdbId": 488,
     "gbId": 26394,
     "gbGuid": "3030-26394",
-    "tgdbId": 2090
+    "tgdbId": 2090,
+    "category": "banned"
   },
   {
     "name": "Land of the Dead: Road to Fiddler's Green",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi78",
     "igdbId": 5900,
     "gbId": 18419,
     "gbGuid": "3030-18419",
-    "tgdbId": 13047
+    "tgdbId": 13047,
+    "category": "banned"
   },
   {
     "name": "Left 4 Dead",
@@ -837,7 +969,8 @@
     "igdbId": 122,
     "gbId": 20690,
     "gbGuid": "3030-20690",
-    "tgdbId": 22
+    "tgdbId": 22,
+    "category": "banned"
   },
   {
     "name": "Left 4 Dead 2",
@@ -848,7 +981,8 @@
     "igdbId": 124,
     "gbId": 26782,
     "gbGuid": "3030-26782",
-    "tgdbId": 855
+    "tgdbId": 855,
+    "category": "banned"
   },
   {
     "name": "Little Britain: The Video Game",
@@ -859,16 +993,20 @@
     "igdbId": 8557,
     "gbId": 40715,
     "gbGuid": "3030-40715",
-    "tgdbId": 23283
+    "tgdbId": 23283,
+    "category": "banned"
   },
   {
     "name": "MadWorld",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi82",
     "igdbId": 3214,
     "gbId": 21173,
     "gbGuid": "3030-21173",
-    "tgdbId": 4425
+    "tgdbId": 4425,
+    "category": "banned"
   },
   {
     "name": "Manhunt",
@@ -881,7 +1019,8 @@
     "igdbId": 1971,
     "gbId": 6108,
     "gbGuid": "3030-6108",
-    "tgdbId": 4815
+    "tgdbId": 4815,
+    "category": "banned"
   },
   {
     "name": "Manhunt 2",
@@ -898,7 +1037,8 @@
     "igdbId": 1972,
     "gbId": 21258,
     "gbGuid": "3030-21258",
-    "tgdbId": 2230
+    "tgdbId": 2230,
+    "category": "banned"
   },
   {
     "name": "Medal of Honor Heroes 2",
@@ -909,7 +1049,8 @@
     "igdbId": 1315,
     "gbId": 9967,
     "gbGuid": "3030-9967",
-    "tgdbId": 18118
+    "tgdbId": 18118,
+    "category": "banned"
   },
   {
     "name": "Mortal Kombat",
@@ -921,43 +1062,56 @@
     "igdbId": 119,
     "gbId": 15743,
     "gbGuid": "3030-15743",
-    "tgdbId": 653
+    "tgdbId": 653,
+    "category": "banned"
   },
   {
     "name": "Mortal Kombat (2011 video game)",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi87",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
-    "tgdbId": null
+    "tgdbId": null,
+    "category": "banned"
   },
   {
     "name": "Mortal Kombat II",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi88",
     "igdbId": 1619,
     "gbId": 3571,
     "gbGuid": "3030-3571",
-    "tgdbId": 642
+    "tgdbId": 642,
+    "category": "banned"
   },
   {
     "name": "Mortal Kombat 3",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi89",
     "igdbId": 1620,
     "gbId": 1434,
     "gbGuid": "3030-1434",
-    "tgdbId": 651
+    "tgdbId": 651,
+    "category": "banned"
   },
   {
     "name": "Mortal Kombat: Armageddon",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi90",
     "igdbId": 1616,
     "gbId": 11843,
     "gbGuid": "3030-11843",
-    "tgdbId": 4223
+    "tgdbId": 4223,
+    "category": "banned"
   },
   {
     "name": "Mortal Kombat: Shaolin Monks",
@@ -968,25 +1122,32 @@
     "igdbId": 1614,
     "gbId": 7649,
     "gbGuid": "3030-7649",
-    "tgdbId": 5388
+    "tgdbId": 5388,
+    "category": "banned"
   },
   {
     "name": "NARC",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi92",
     "igdbId": 19933,
     "gbId": 9848,
     "gbGuid": "3030-9848",
-    "tgdbId": 1962
+    "tgdbId": 1962,
+    "category": "banned"
   },
   {
     "name": "Nitro Family",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi93",
     "igdbId": 50248,
     "gbId": 16355,
     "gbGuid": "3030-16355",
-    "tgdbId": 25691
+    "tgdbId": 25691,
+    "category": "banned"
   },
   {
     "name": "Omega Labyrinth Z",
@@ -999,16 +1160,20 @@
     "igdbId": 27512,
     "gbId": 64642,
     "gbGuid": "3030-64642",
-    "tgdbId": null
+    "tgdbId": null,
+    "category": "banned"
   },
   {
     "name": "Postal",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi95",
     "igdbId": 2000,
     "gbId": 15891,
     "gbGuid": "3030-15891",
-    "tgdbId": 17654
+    "tgdbId": 17654,
+    "category": "banned"
   },
   {
     "name": "Postal 2",
@@ -1023,25 +1188,32 @@
     "igdbId": 3109,
     "gbId": 12863,
     "gbGuid": "3030-12863",
-    "tgdbId": 9262
+    "tgdbId": 9262,
+    "category": "banned"
   },
   {
     "name": "Postal III",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi97",
     "igdbId": 3110,
     "gbId": 21155,
     "gbGuid": "3030-21155",
-    "tgdbId": 8428
+    "tgdbId": 8428,
+    "category": "banned"
   },
   {
     "name": "Predator: Concrete Jungle",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi98",
     "igdbId": 5986,
     "gbId": 10661,
     "gbGuid": "3030-10661",
-    "tgdbId": 9774
+    "tgdbId": 9774,
+    "category": "banned"
   },
   {
     "name": "Quake 4",
@@ -1052,7 +1224,8 @@
     "igdbId": 356,
     "gbId": 13683,
     "gbGuid": "3030-13683",
-    "tgdbId": 778
+    "tgdbId": 778,
+    "category": "banned"
   },
   {
     "name": "Red Ninja: End of Honor",
@@ -1063,7 +1236,8 @@
     "igdbId": 6000,
     "gbId": 7345,
     "gbGuid": "3030-7345",
-    "tgdbId": 13941
+    "tgdbId": 13941,
+    "category": "banned"
   },
   {
     "name": "Reservoir Dogs",
@@ -1075,7 +1249,8 @@
     "igdbId": 6003,
     "gbId": 4623,
     "gbGuid": "3030-4623",
-    "tgdbId": 5392
+    "tgdbId": 5392,
+    "category": "banned"
   },
   {
     "name": "Resident Evil 4",
@@ -1086,7 +1261,8 @@
     "igdbId": 974,
     "gbId": 1578,
     "gbGuid": "3030-1578",
-    "tgdbId": 56
+    "tgdbId": 56,
+    "category": "banned"
   },
   {
     "name": "Resident Evil: Operation Raccoon City",
@@ -1097,16 +1273,20 @@
     "igdbId": 977,
     "gbId": 34553,
     "gbGuid": "3030-34553",
-    "tgdbId": 3949
+    "tgdbId": 3949,
+    "category": "banned"
   },
   {
     "name": "Resident Evil: The Umbrella Chronicles",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi104",
     "igdbId": 975,
     "gbId": 11454,
     "gbGuid": "3030-11454",
-    "tgdbId": 5044
+    "tgdbId": 5044,
+    "category": "banned"
   },
   {
     "name": "Return to Castle Wolfenstein",
@@ -1117,7 +1297,8 @@
     "igdbId": 281,
     "gbId": 19181,
     "gbGuid": "3030-19181",
-    "tgdbId": 782
+    "tgdbId": 782,
+    "category": "banned"
   },
   {
     "name": "Saints Row",
@@ -1128,7 +1309,8 @@
     "igdbId": 825,
     "gbId": 5618,
     "gbGuid": "3030-5618",
-    "tgdbId": 7572
+    "tgdbId": 7572,
+    "category": "banned"
   },
   {
     "name": "Saints Row 2",
@@ -1139,7 +1321,8 @@
     "igdbId": 826,
     "gbId": 20679,
     "gbGuid": "3030-20679",
-    "tgdbId": 5293
+    "tgdbId": 5293,
+    "category": "banned"
   },
   {
     "name": "Saints Row: The Third",
@@ -1151,7 +1334,8 @@
     "igdbId": 873,
     "gbId": 25725,
     "gbGuid": "3030-25725",
-    "tgdbId": 2587
+    "tgdbId": 2587,
+    "category": "banned"
   },
   {
     "name": "Scarface: The World Is Yours",
@@ -1162,7 +1346,8 @@
     "igdbId": 5139,
     "gbId": 9966,
     "gbGuid": "3030-9966",
-    "tgdbId": 5279
+    "tgdbId": 5279,
+    "category": "banned"
   },
   {
     "name": "Shellshock: Nam '67",
@@ -1173,16 +1358,20 @@
     "igdbId": 1870,
     "gbId": 15172,
     "gbGuid": "3030-15172",
-    "tgdbId": 999
+    "tgdbId": 999,
+    "category": "banned"
   },
   {
     "name": "Shellshock 2: Blood Trails",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi111",
     "igdbId": 7186,
     "gbId": 23254,
     "gbGuid": "3030-23254",
-    "tgdbId": 13414
+    "tgdbId": 13414,
+    "category": "banned"
   },
   {
     "name": "Sleeping Dogs",
@@ -1193,52 +1382,68 @@
     "igdbId": 1267,
     "gbId": 29441,
     "gbGuid": "3030-29441",
-    "tgdbId": 10386
+    "tgdbId": 10386,
+    "category": "banned"
   },
   {
     "name": "Soldier of Fortune: Payback",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi113",
     "igdbId": 3113,
     "gbId": 8632,
     "gbGuid": "3030-8632",
-    "tgdbId": 5239
+    "tgdbId": 5239,
+    "category": "banned"
   },
   {
     "name": "Splatterhouse",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi114",
     "igdbId": 7191,
     "gbId": 15148,
     "gbGuid": "3030-15148",
-    "tgdbId": 3776
+    "tgdbId": 3776,
+    "category": "banned"
   },
   {
     "name": "Syndicate",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi115",
     "igdbId": 49,
     "gbId": 10865,
     "gbGuid": "3030-10865",
-    "tgdbId": 706
+    "tgdbId": 706,
+    "category": "banned"
   },
   {
     "name": "The Club",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi116",
     "igdbId": 6940,
     "gbId": 18777,
     "gbGuid": "3030-18777",
-    "tgdbId": 6633
+    "tgdbId": 6633,
+    "category": "banned"
   },
   {
     "name": "The House of the Dead: Overkill",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi117",
     "igdbId": 51621,
     "gbId": 23425,
     "gbGuid": "3030-23425",
-    "tgdbId": 4969
+    "tgdbId": 4969,
+    "category": "banned"
   },
   {
     "name": "The Suffering",
@@ -1249,7 +1454,8 @@
     "igdbId": 6180,
     "gbId": 3841,
     "gbGuid": "3030-3841",
-    "tgdbId": 8055
+    "tgdbId": 8055,
+    "category": "banned"
   },
   {
     "name": "The Suffering: Ties That Bind",
@@ -1260,16 +1466,20 @@
     "igdbId": 6181,
     "gbId": 11870,
     "gbGuid": "3030-11870",
-    "tgdbId": 8056
+    "tgdbId": 8056,
+    "category": "banned"
   },
   {
     "name": "The Warriors",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi120",
     "igdbId": 6030,
     "gbId": 16206,
     "gbGuid": "3030-16206",
-    "tgdbId": 12509
+    "tgdbId": 12509,
+    "category": "banned"
   },
   {
     "name": "Tom Clancy's Rainbow Six: Vegas 2",
@@ -1280,7 +1490,8 @@
     "igdbId": 1853,
     "gbId": 1986,
     "gbGuid": "3030-1986",
-    "tgdbId": 106
+    "tgdbId": 106,
+    "category": "banned"
   },
   {
     "name": "Total Overdose: A Gunslinger's Tale in Mexico",
@@ -1291,7 +1502,8 @@
     "igdbId": 6213,
     "gbId": 4241,
     "gbGuid": "3030-4241",
-    "tgdbId": 5349
+    "tgdbId": 5349,
+    "category": "banned"
   },
   {
     "name": "True Crime: New York City",
@@ -1302,7 +1514,8 @@
     "igdbId": 4215,
     "gbId": 3345,
     "gbGuid": "3030-3345",
-    "tgdbId": 5391
+    "tgdbId": 5391,
+    "category": "banned"
   },
   {
     "name": "Unreal Championship 2: The Liandri Conflict",
@@ -1313,7 +1526,8 @@
     "igdbId": 6221,
     "gbId": 14292,
     "gbGuid": "3030-14292",
-    "tgdbId": 14875
+    "tgdbId": 14875,
+    "category": "banned"
   },
   {
     "name": "Unreal Tournament III",
@@ -1324,16 +1538,20 @@
     "igdbId": 928,
     "gbId": 10955,
     "gbGuid": "3030-10955",
-    "tgdbId": 798
+    "tgdbId": 798,
+    "category": "banned"
   },
   {
     "name": "Vivisector: Beast Within",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi126",
     "igdbId": 54638,
     "gbId": 17386,
     "gbGuid": "3030-17386",
-    "tgdbId": 48199
+    "tgdbId": 48199,
+    "category": "banned"
   },
   {
     "name": "Wolfenstein",
@@ -1345,25 +1563,32 @@
     "igdbId": 569,
     "gbId": 21119,
     "gbGuid": "3030-21119",
-    "tgdbId": 817
+    "tgdbId": 817,
+    "category": "banned"
   },
   {
     "name": "Wolfenstein 3D",
-    "details": ["banned in Germany: Banned because of Nazi references."],
+    "details": [
+      "banned in Germany: Banned because of Nazi references."
+    ],
     "id": "bi128",
     "igdbId": 284,
     "gbId": 7694,
     "gbGuid": "3030-7694",
-    "tgdbId": 3990
+    "tgdbId": 3990,
+    "category": "banned"
   },
   {
     "name": "X-Men Origins: Wolverine",
-    "details": ["banned in Germany: Banned because of high-impact gory violence."],
+    "details": [
+      "banned in Germany: Banned because of high-impact gory violence."
+    ],
     "id": "bi129",
     "igdbId": 573,
     "gbId": 24747,
     "gbGuid": "3030-24747",
-    "tgdbId": 4209
+    "tgdbId": 4209,
+    "category": "banned"
   },
   {
     "name": "PlayerUnknown's Battlegrounds",
@@ -1375,7 +1600,8 @@
     "igdbId": 27789,
     "gbId": 54979,
     "gbGuid": "3030-54979",
-    "tgdbId": 48072
+    "tgdbId": 48072,
+    "category": "banned"
   },
   {
     "name": "Criminal Girls: Invite Only",
@@ -1386,7 +1612,8 @@
     "igdbId": 11746,
     "gbId": 43440,
     "gbGuid": "3030-43440",
-    "tgdbId": 24883
+    "tgdbId": 24883,
+    "category": "banned"
   },
   {
     "name": "Gal*Gun: Double Peace",
@@ -1398,7 +1625,8 @@
     "igdbId": 11564,
     "gbId": 49014,
     "gbGuid": "3030-49014",
-    "tgdbId": 39383
+    "tgdbId": 39383,
+    "category": "banned"
   },
   {
     "name": "Three Sisters' Story",
@@ -1409,7 +1637,8 @@
     "igdbId": 71073,
     "gbId": 1740,
     "gbGuid": "3030-1740",
-    "tgdbId": null
+    "tgdbId": null,
+    "category": "banned"
   },
   {
     "name": "Grand Theft Auto V",
@@ -1421,7 +1650,8 @@
     "igdbId": 1020,
     "gbId": 36765,
     "gbGuid": "3030-36765",
-    "tgdbId": 7917
+    "tgdbId": 7917,
+    "category": "banned"
   },
   {
     "name": "Homefront",
@@ -1433,7 +1663,8 @@
     "igdbId": 1885,
     "gbId": 26633,
     "gbGuid": "3030-26633",
-    "tgdbId": 2470
+    "tgdbId": 2470,
+    "category": "banned"
   },
   {
     "name": "Medal of Honor: Warfighter",
@@ -1444,7 +1675,8 @@
     "igdbId": 1306,
     "gbId": 37580,
     "gbGuid": "3030-37580",
-    "tgdbId": 11114
+    "tgdbId": 11114,
+    "category": "banned"
   },
   {
     "name": "Negligee: Love Stories",
@@ -1455,7 +1687,8 @@
     "igdbId": 111743,
     "gbId": 56787,
     "gbGuid": "3030-56787",
-    "tgdbId": null
+    "tgdbId": null,
+    "category": "banned"
   },
   {
     "name": "Assassin's Creed",
@@ -1466,7 +1699,8 @@
     "igdbId": 128,
     "gbId": 2950,
     "gbGuid": "3030-2950",
-    "tgdbId": 12
+    "tgdbId": 12,
+    "category": "banned"
   },
   {
     "name": "Heavy Rain",
@@ -1478,16 +1712,20 @@
     "igdbId": 493,
     "gbId": 21304,
     "gbGuid": "3030-21304",
-    "tgdbId": 319
+    "tgdbId": 319,
+    "category": "banned"
   },
   {
     "name": "L.A. Noire",
-    "details": ["banned in Suadia Arabia: Banned because of extreme impact violence and nudity"],
+    "details": [
+      "banned in Suadia Arabia: Banned because of extreme impact violence and nudity"
+    ],
     "id": "bi144",
     "igdbId": 109,
     "gbId": 21500,
     "gbGuid": "3030-21500",
-    "tgdbId": 6649
+    "tgdbId": 6649,
+    "category": "banned"
   },
   {
     "name": "Red Dead Redemption",
@@ -1499,7 +1737,8 @@
     "igdbId": 434,
     "gbId": 25249,
     "gbGuid": "3030-25249",
-    "tgdbId": 191
+    "tgdbId": 191,
+    "category": "banned"
   },
   {
     "name": "Red Dead Redemption 2",
@@ -1510,34 +1749,44 @@
     "igdbId": 25076,
     "gbId": 56725,
     "gbGuid": "3030-56725",
-    "tgdbId": 55247
+    "tgdbId": 55247,
+    "category": "banned"
   },
   {
     "name": "South Park The Stick Of Truth",
-    "details": ["banned in Suadia Arabia: Banned because of extremely offensive content"],
+    "details": [
+      "banned in Suadia Arabia: Banned because of extremely offensive content"
+    ],
     "id": "bi148",
     "igdbId": 1262,
     "gbId": 36978,
     "gbGuid": "3030-36978",
-    "tgdbId": 53521
+    "tgdbId": 53521,
+    "category": "banned"
   },
   {
     "name": "South Park: The Fractured But Whole",
-    "details": ["banned in Suadia Arabia: Banned because of extremely offensive content"],
+    "details": [
+      "banned in Suadia Arabia: Banned because of extremely offensive content"
+    ],
     "id": "bi172",
     "igdbId": 11161,
     "gbId": 49968,
     "gbGuid": "3030-49968",
-    "tgdbId": 50582
+    "tgdbId": 50582,
+    "category": "banned"
   },
   {
     "name": "Metro",
-    "details": ["banned in Suadia Arabia: Banned due to its use in the Blue Whale Challenge"],
+    "details": [
+      "banned in Suadia Arabia: Banned due to its use in the Blue Whale Challenge"
+    ],
     "id": "bi149",
     "igdbId": 79196,
     "gbId": 28719,
     "gbGuid": "3030-28719",
-    "tgdbId": null
+    "tgdbId": null,
+    "category": "banned"
   },
   {
     "name": "Half-Life",
@@ -1548,7 +1797,8 @@
     "igdbId": 231,
     "gbId": 2980,
     "gbGuid": "3030-2980",
-    "tgdbId": 647
+    "tgdbId": 647,
+    "category": "banned"
   },
   {
     "name": "Mass Effect",
@@ -1559,7 +1809,8 @@
     "igdbId": 73,
     "gbId": 16909,
     "gbGuid": "3030-16909",
-    "tgdbId": 186
+    "tgdbId": 186,
+    "category": "banned"
   },
   {
     "name": "The Darkness",
@@ -1570,7 +1821,8 @@
     "igdbId": null,
     "gbId": 9201,
     "gbGuid": "3030-9201",
-    "tgdbId": 6634
+    "tgdbId": 6634,
+    "category": "banned"
   },
   {
     "name": "Danganronpa V3: Killing Harmony",
@@ -1581,7 +1833,8 @@
     "igdbId": 12579,
     "gbId": 49101,
     "gbGuid": "3030-49101",
-    "tgdbId": 50865
+    "tgdbId": 50865,
+    "category": "banned"
   },
   {
     "name": "BlazBlue: Continuum Shift",
@@ -1592,7 +1845,8 @@
     "igdbId": 6750,
     "gbId": 28321,
     "gbGuid": "3030-28321",
-    "tgdbId": 5931
+    "tgdbId": 5931,
+    "category": "banned"
   },
   {
     "name": "Darksiders",
@@ -1603,7 +1857,8 @@
     "igdbId": 1270,
     "gbId": 20991,
     "gbGuid": "3030-20991",
-    "tgdbId": 880
+    "tgdbId": 880,
+    "category": "banned"
   },
   {
     "name": "Dragon Age: Origins",
@@ -1614,7 +1869,8 @@
     "igdbId": 76,
     "gbId": 20738,
     "gbGuid": "3030-20738",
-    "tgdbId": 867
+    "tgdbId": 867,
+    "category": "banned"
   },
   {
     "name": "Fallout: New Vegas",
@@ -1625,16 +1881,20 @@
     "igdbId": 16,
     "gbId": 25933,
     "gbGuid": "3030-25933",
-    "tgdbId": 311
+    "tgdbId": 311,
+    "category": "banned"
   },
   {
     "name": "The Godfather II",
-    "details": ["banned in UAE: Banned likely due to nudity."],
+    "details": [
+      "banned in UAE: Banned likely due to nudity."
+    ],
     "id": "bi160",
     "igdbId": 575,
     "gbId": 23346,
     "gbGuid": "3030-23346",
-    "tgdbId": 4205
+    "tgdbId": 4205,
+    "category": "banned"
   },
   {
     "name": "Grand Theft Auto",
@@ -1646,7 +1906,8 @@
     "igdbId": 44870,
     "gbId": 13567,
     "gbGuid": "3030-13567",
-    "tgdbId": 2539
+    "tgdbId": 2539,
+    "category": "banned"
   },
   {
     "name": "Injustice: Gods Among Us",
@@ -1657,7 +1918,8 @@
     "igdbId": 77354,
     "gbId": 38480,
     "gbGuid": "3030-38480",
-    "tgdbId": 10391
+    "tgdbId": 10391,
+    "category": "banned"
   },
   {
     "name": "Mafia II",
@@ -1668,7 +1930,8 @@
     "igdbId": 40,
     "gbId": 20538,
     "gbGuid": "3030-20538",
-    "tgdbId": 932
+    "tgdbId": 932,
+    "category": "banned"
   },
   {
     "name": "Mass Effect 2",
@@ -1679,7 +1942,8 @@
     "igdbId": 74,
     "gbId": 21590,
     "gbGuid": "3030-21590",
-    "tgdbId": 187
+    "tgdbId": 187,
+    "category": "banned"
   },
   {
     "name": "Mass Effect 3",
@@ -1690,7 +1954,8 @@
     "igdbId": 75,
     "gbId": 29935,
     "gbGuid": "3030-29935",
-    "tgdbId": 3300
+    "tgdbId": 3300,
+    "category": "banned"
   },
   {
     "name": "Max Payne 3",
@@ -1701,7 +1966,8 @@
     "igdbId": 960,
     "gbId": 23398,
     "gbGuid": "3030-23398",
-    "tgdbId": 2089
+    "tgdbId": 2089,
+    "category": "banned"
   },
   {
     "name": "Roblox",
@@ -1712,7 +1978,8 @@
     "igdbId": 17269,
     "gbId": 25462,
     "gbGuid": "3030-25462",
-    "tgdbId": 23742
+    "tgdbId": 23742,
+    "category": "banned"
   },
   {
     "name": "Saints Row IV",
@@ -1723,7 +1990,8 @@
     "igdbId": 1981,
     "gbId": 36884,
     "gbGuid": "3030-36884",
-    "tgdbId": 17114
+    "tgdbId": 17114,
+    "category": "banned"
   },
   {
     "name": "Spec Ops: The Line",
@@ -1734,7 +2002,8 @@
     "igdbId": 1377,
     "gbId": 29445,
     "gbGuid": "3030-29445",
-    "tgdbId": 9357
+    "tgdbId": 9357,
+    "category": "banned"
   },
   {
     "name": "Watch Dogs",
@@ -1745,7 +2014,8 @@
     "igdbId": 1121,
     "gbId": 38538,
     "gbGuid": "3030-38538",
-    "tgdbId": 10284
+    "tgdbId": 10284,
+    "category": "banned"
   },
   {
     "name": "The Punisher",
@@ -1756,6 +2026,7 @@
     "igdbId": 75883,
     "gbId": 2242,
     "gbGuid": "3030-2242",
-    "tgdbId": 386
+    "tgdbId": 386,
+    "category": "banned"
   }
 ]
