@@ -828,7 +828,7 @@ module.exports.listData = [
     )),
     exclusives: null,
     misprintsAndErrors: null,
-    special: [require(path.resolve(smallFiles, 'backwardCompatibilityLists/ngpcToNgp.json'))],
+    special: [],
     output: path.resolve(consoleLists, 'BandaiWonderSwanColor.json')
   },
   {
