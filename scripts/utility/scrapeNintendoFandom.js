@@ -2,6 +2,7 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
+const { categories } = require('./helpers');
 const whitespaceRemoveBreaks = require('stringman-utils').whitespaceRemoveBreaks;
 
 const siteUrl = 'https://nintendo.fandom.com/wiki/List_of_Famicom-Exclusive_games';
@@ -9,6 +10,7 @@ const filePath = '../../textFilesToBeConverted/platformExclusives/nintendoFamico
 const platform = 'Nintendo Famicom';
 const idPrefix = 'nfcex';
 const digitalText = '';
+const category = categories.exclusive;
 
 function makeRequest(url) {
   return new Promise((resolve, reject) => {
@@ -45,7 +47,8 @@ function makeRequest(url) {
         igdbId: null,
         gbId: null,
         gbGuid: null,
-        tgdbId: null
+        tgdbId: null,
+        category
       });
     });
     fileUtil.writeFile(filePath, data);

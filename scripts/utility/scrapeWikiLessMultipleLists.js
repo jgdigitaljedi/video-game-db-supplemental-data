@@ -3,10 +3,12 @@ const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
 const _flatten = require('lodash/flatten');
+const { categories } = require('./helpers');
 
 const siteUrl = 'https://wikiless.org/wiki/PlayStation_Multitap?lang=en';
 const filePath = '../../textFilesToBeConverted/multiplayer/playstation2multitap.json';
 const platform = 'PlayStation 2';
+const category = categories.multiplayer;
 
 function makeRequest(url) {
   return new Promise((resolve, reject) => {
@@ -59,7 +61,8 @@ function makeRequest(url) {
             details: `${platform} Multitap compatible game ${item.extra}`,
             igdbId: null,
             gbId: null,
-            gbGuid: null
+            gbGuid: null,
+            category
           });
           currentId++;
         });

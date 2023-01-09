@@ -2,6 +2,7 @@ const chalk = require('chalk');
 const cheerio = require('cheerio');
 const request = require('request');
 const fileUtil = require('./fileUtilities');
+const categories = require('./helpers').categories;
 
 /** variables specific to each list */
 const siteUrl = 'https://wikiless.org/wiki/List_of_Xbox_network_games?lang=en';
@@ -9,6 +10,7 @@ const filePath = '../../textFilesToBeConverted/special/microsoftXboxSystemLinkGa
 const idPrefix = 'xbsl';
 const details = 'Microsoft Xbox System Link game';
 const conditional = true;
+const category = categories.multiplayer;
 /** end variables; make sure to set these */
 
 const final = [];
@@ -33,7 +35,8 @@ function makeEntry(gameTitle, idPrefix, index) {
     igdbId: null,
     gbId: null,
     gbGuid: null,
-    tgdbId: null
+    tgdbId: null,
+    category
   };
 }
 

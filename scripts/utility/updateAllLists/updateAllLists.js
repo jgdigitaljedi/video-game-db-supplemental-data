@@ -141,7 +141,8 @@ async function handleSpecialList(list, pData, final) {
           if (existingName > -1) {
             finalClone[existingName].special.push({
               value: Array.isArray(game.details) ? game.details[0] : game.details,
-              forPlatform: pData
+              forPlatform: pData,
+              category: game.category
             });
             const dedpuedSpecial = _uniqBy(finalClone[existingName].special, 'value');
             finalClone[existingName].special = dedpuedSpecial;
@@ -152,7 +153,8 @@ async function handleSpecialList(list, pData, final) {
             const newEntry = getNewEntry(game);
             newEntry.special.push({
               value: Array.isArray(game.details) ? game.details[0] : game.details,
-              forPlatform: pData
+              forPlatform: pData,
+              category: game.category
             });
             newEntry.details = _flatten([game.details]);
             finalClone.push(newEntry);
@@ -161,14 +163,16 @@ async function handleSpecialList(list, pData, final) {
           const newEntry = getNewEntry(game);
           newEntry.special.push({
             value: Array.isArray(game.details) ? game.details[0] : game.details,
-            forPlatform: pData
+            forPlatform: pData,
+            category: game.category
           });
           newEntry.details = _flatten([game.details]);
           finalClone.push(newEntry);
         } else {
           finalClone[existingId].special.push({
             value: Array.isArray(game.details) ? game.details[0] : game.details,
-            forPlatform: pData
+            forPlatform: pData,
+            category: game.category
           });
           const dedpuedSpecial = _uniqBy(finalClone[existingId].special, 'value');
           finalClone[existingId].special = dedpuedSpecial;

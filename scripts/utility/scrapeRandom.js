@@ -2,10 +2,12 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
+const { categories } = require('./helpers');
 
 const siteUrl = 'https://www.nintendo64ever.com/Nintendo-64-3-players-Games.html';
 const filePath = '../../textFilesToBeConverted/multiplayer/n64_3playerGames.json';
-const idPrefix = 'n643p'
+const idPrefix = 'n643p';
+const category = categories.multiplayer;
 
 function makeRequest(url) {
   return new Promise((resolve, reject) => {
@@ -35,8 +37,9 @@ function makeRequest(url) {
         details: 'N64 4 player game',
         igdbId: null,
         gbId: null,
-        tgdbId: null
-      })
+        tgdbId: null,
+        category
+      });
     });
     fileUtil.writeFile(filePath, data);
     console.log(chalk.cyan.bold('Scraping complete and file written!'));
