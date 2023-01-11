@@ -146,6 +146,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 - sps2lgX - Sony PlayStation 2 light gun games (sonyPlaystation2LightGunGames.json) | GAMES LIST
 - sps3lgX - Sony PlayStation 3 light gun games (sonyPlaystation3LightGunGames.json) | GAMES LIST
 - sslgX - Sega Saturn light gun games (segaSaturnLightGunGames.json) | GAMES LIST
+- ssrcX - Sega Saturn RAM and ROM cart games (segaSaturnRamCartGames.json) | GAMES LIST
+- ssvcX - Sega Saturn VCD card games (segaSaturnVcdCardGames.json) | GAMES LIST
 
 ### Platform Exclusives
 

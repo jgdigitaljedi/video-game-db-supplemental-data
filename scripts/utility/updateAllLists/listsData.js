@@ -319,7 +319,9 @@ module.exports.listData = [
     )),
     special: [
       require(path.resolve(smallFiles, 'multiplayer/saturnMultiplayerAdapter.json')),
-      require(path.resolve(smallFiles, 'special/segaSaturnLightGunGames.json'))
+      require(path.resolve(smallFiles, 'special/segaSaturnLightGunGames.json')),
+      require(path.resolve(smallFiles, 'special/segaSaturnRamCartGames.json')),
+      require(path.resolve(smallFiles, 'special/segaSaturnVcdCardGames.json'))
     ],
     output: path.resolve(consoleLists, 'SegaSaturn.json')
   },

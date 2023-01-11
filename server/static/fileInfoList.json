@@ -25,7 +25,7 @@
   },
   {
     "title": "Region Free Consoles",
-    "filePath": "../textFilesToBeConverted/regionLock/regionFreePlatforms.json",
+    "filePath": "../textFilesToBeConverted/platforms/regionFreePlatforms.json",
     "type": "Console",
     "complete": true
   },
@@ -573,7 +573,7 @@
   },
   {
     "title": "Consoles That Play Burned Discs Without Modification",
-    "filePath": "../textFilesToBeConverted/special/platformsThatPlayBurnedDiscs.json",
+    "filePath": "../textFilesToBeConverted/platforms/platformsThatPlayBurnedDiscs.json",
     "type": "Game",
     "complete": true
   },
@@ -585,7 +585,7 @@
   },
   {
     "title": "NES Hang Tab Games",
-    "filePath": "../textFilesToBeConverted/special/NesHangtabGames.json",
+    "filePath": "../textFilesToBeConverted/special/nesHangtabGames.json",
     "type": "Game",
     "complete": true
   },
@@ -1493,13 +1493,13 @@
   },
   {
     "title": "GameCube broadband adapter games",
-    "filePath": "../textFilesToBeConverted/special/gamecubeBroadbandGames.json",
+    "filePath": "../textFilesToBeConverted/multiplayer/gamecubeBroadbandGames.json",
     "type": "Game",
     "complete": true
   },
   {
     "title": "Dreamcast online games",
-    "filePath": "../textFilesToBeConverted/special/dreamcastOnlineGames.json",
+    "filePath": "../textFilesToBeConverted/multiplayer/dreamcastOnlineGames.json",
     "type": "Game",
     "complete": true
   },
@@ -1529,19 +1529,31 @@
   },
   {
     "title": "PlayStation 2 online games",
-    "filePath": "../textFilesToBeConverted/special/playstation2OnlineGames.json",
+    "filePath": "../textFilesToBeConverted/multiplayer/playstation2OnlineGames.json",
     "type": "Game",
     "complete": true
   },
   {
     "title": "Microsoft Xbox online multiplayer games",
-    "filePath": "../textFilesToBeConverted/special/microsoftXboxOnlineGames.json",
+    "filePath": "../textFilesToBeConverted/multiplayer/microsoftXboxOnlineGames.json",
     "type": "Game",
     "complete": true
   },
   {
     "title": "Microsoft Xbox System Link games",
-    "filePath": "../textFilesToBeConverted/special/microsoftXboxSystemLinkGames.json",
+    "filePath": "../textFilesToBeConverted/multiplayer/microsoftXboxSystemLinkGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega Saturn RAM cart games",
+    "filePath": "../textFilesToBeConverted/special/segaSaturnRamCartGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Sega Saturn VCD card games",
+    "filePath": "../textFilesToBeConverted/special/segaSaturnVcdCardGames.json",
     "type": "Game",
     "complete": true
   }
