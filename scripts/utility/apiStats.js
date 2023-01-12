@@ -4,6 +4,7 @@ const fileUtil = require('./fileUtilities');
 const fs = require('fs');
 const path = require('path');
 const platformStats = require('./updateAllLists/platformDataStats.json');
+const generateFilesList = require('./createListOfFileNames');
 
 const masterList = '../../server/static/fileInfoList.json';
 let igdb = 0;
@@ -55,6 +56,8 @@ async function checkFileForApiInfo(file) {
 (async function() {
   const master = await fileUtil.readFile(masterList);
   const pMaster = JSON.parse(master);
+
+  await generateFilesList();
 
   // console data
   const totalPlatDataPoints = Object.values(platformStats).reduce((acc, obj) => {
