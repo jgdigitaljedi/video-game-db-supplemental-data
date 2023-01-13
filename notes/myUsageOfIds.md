@@ -121,6 +121,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - n64rpX - N64 RUMBLE Pak Games (n64RumblePakGames.json) | GAMES LIST
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST
 - pcdilgX - Philips CD-i Peacekeeper Revovler games (philipsCdiPeacekeeperRevolverGames.json) | GAMES LIST
+- pcsgX - PC Engine games enhanced on Supergrafx (pcEngineGamesEnhancedOnSupergrafx.json) | GAMES LIST
 - pbdX - consoles that play bruned discs without modification (platformsThatPlayBurnedDiscs.json) | CONSOLE/PLATFORM LIST
 - ps1lbX - Sony PlayStation long box games (playstationLongboxGames.json) | GAMES LIST
 - neshtgX - NES hang tab games (nesHangtabGames.json) | GAMES LIST

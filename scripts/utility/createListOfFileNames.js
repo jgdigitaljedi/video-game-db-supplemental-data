@@ -2,7 +2,6 @@ const { writeFileSync } = require('fs');
 const path = require('path');
 const { readDir } = require('./fileUtilities');
 
-// const basePath = path.resolve(__dirname, '../../textFilesToBeConverted');
 const dirs = [
   'backwardCompatibility',
   'greatestHits',

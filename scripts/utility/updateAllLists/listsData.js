@@ -589,7 +589,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/turboGrafxMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'multiplayer/tg16Multitap.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'multiplayer/tg16Multitap.json')),
+      require(path.resolve(smallFiles, 'special/pcEngineGamesEnhancedOnSupergrafx.json'))
+    ],
     output: path.resolve(consoleLists, 'TurboGrafx16.json')
   },
   {

@@ -18,5 +18,3 @@
 ## Consoles
 
 ## Misc
-
-- use a category enum for each games list type to make for easy categorization when lists are used
