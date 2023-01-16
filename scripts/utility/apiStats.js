@@ -5,6 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const platformStats = require('./updateAllLists/platformDataStats.json');
 const generateFilesList = require('./createListOfFileNames');
+const createListOfFileNames = require('./createListOfFileNames');
 
 const masterList = '../../server/static/fileInfoList.json';
 let igdb = 0;

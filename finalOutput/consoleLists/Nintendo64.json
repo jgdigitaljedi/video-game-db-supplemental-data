@@ -2334,8 +2334,35 @@
     "misprintsErrors": []
   },
   {
-    "name": "Densha de Go! 2",
+    "name": "Densha de GO! 64",
     "id": "n6466",
+    "igdbId": 3469,
+    "gbId": 22832,
+    "gbGuid": "3030-22832",
+    "details": [
+      "N64 game bundled with train controller"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "N64 game bundled with train controller",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "peripheral"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Densha de Go! 2",
+    "id": "n6467",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2359,7 +2386,7 @@
   },
   {
     "name": "Derby Stallion 64",
-    "id": "n6467",
+    "id": "n6468",
     "igdbId": 47743,
     "gbId": 73673,
     "gbGuid": "3030-73673",
@@ -2386,7 +2413,7 @@
   },
   {
     "name": "Destruction Derby 64",
-    "id": "n6468",
+    "id": "n6469",
     "igdbId": 10686,
     "gbId": 16810,
     "gbGuid": "3030-16810",
@@ -2426,7 +2453,7 @@
   },
   {
     "name": "Diddy Kong Racing",
-    "id": "n6469",
+    "id": "n6470",
     "igdbId": 2723,
     "gbId": 15990,
     "gbGuid": "3030-15990",
@@ -2479,7 +2506,7 @@
   },
   {
     "name": "Dinosaur Planet",
-    "id": "n6470",
+    "id": "n6471",
     "igdbId": 134251,
     "gbId": null,
     "gbGuid": null,
@@ -2506,7 +2533,7 @@
   },
   {
     "name": "Disney's Tarzan",
-    "id": "n6471",
+    "id": "n6472",
     "igdbId": 10662,
     "gbId": 13775,
     "gbGuid": "3030-13775",
@@ -2533,7 +2560,7 @@
   },
   {
     "name": "Disney/Pixar A Bug's Life",
-    "id": "n6472",
+    "id": "n6473",
     "igdbId": 2847,
     "gbId": 16561,
     "gbGuid": "3030-16561",
@@ -2560,7 +2587,7 @@
   },
   {
     "name": "Donald Duck: Goin' Quackers",
-    "id": "n6473",
+    "id": "n6474",
     "igdbId": 360,
     "gbId": 9551,
     "gbGuid": "3030-9551",
@@ -2587,7 +2614,7 @@
   },
   {
     "name": "Donkey Kong 64",
-    "id": "n6474",
+    "id": "n6475",
     "igdbId": 1096,
     "gbId": 15000,
     "gbGuid": "3030-15000",
@@ -2597,7 +2624,8 @@
       "Nintendo 64 Player's Choice",
       "N64 4 player game",
       "N64 Expansion Pak Game: REQUIRED (Does not boot without the expansion pak except the expansion pak warning.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "N64 game bundled with Expansion Pak"
     ],
     "isExclusive": [
       {
@@ -2658,13 +2686,25 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "N64 game bundled with Expansion Pak",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "peripheral"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Doom 64",
-    "id": "n6475",
+    "id": "n6476",
     "igdbId": 3471,
     "gbId": 16788,
     "gbGuid": "3030-16788",
@@ -2688,7 +2728,7 @@
   },
   {
     "name": "Doraemon: Nobita and the Three Fairy Spirit Stones",
-    "id": "n6476",
+    "id": "n6477",
     "igdbId": 3472,
     "gbId": 16699,
     "gbGuid": "3030-16699",
@@ -2711,7 +2751,7 @@
   },
   {
     "name": "Dr. Mario 64",
-    "id": "n6477",
+    "id": "n6478",
     "igdbId": 3475,
     "gbId": 1072,
     "gbGuid": "3030-1072",
@@ -2738,7 +2778,7 @@
   },
   {
     "name": "Dual Heroes",
-    "id": "n6478",
+    "id": "n6479",
     "igdbId": 3477,
     "gbId": 17455,
     "gbGuid": "3030-17455",
@@ -2762,7 +2802,7 @@
   },
   {
     "name": "Duck Dodgers Starring Daffy Duck",
-    "id": "n6479",
+    "id": "n6480",
     "igdbId": 3336,
     "gbId": null,
     "gbGuid": null,
@@ -2800,7 +2840,7 @@
   },
   {
     "name": "Duke Nukem 64",
-    "id": "n6480",
+    "id": "n6481",
     "igdbId": 10680,
     "gbId": 3407,
     "gbGuid": "3030-3407",
@@ -2840,7 +2880,7 @@
   },
   {
     "name": "Duke Nukem: Zero Hour",
-    "id": "n6481",
+    "id": "n6482",
     "igdbId": 8503,
     "gbId": 2711,
     "gbGuid": "3030-2711",
@@ -2904,7 +2944,7 @@
   },
   {
     "name": "ECW Hardcore Revolution",
-    "id": "n6482",
+    "id": "n6483",
     "igdbId": 3483,
     "gbId": 8647,
     "gbGuid": "3030-8647",
@@ -2944,7 +2984,7 @@
   },
   {
     "name": "Excitebike 64",
-    "id": "n6483",
+    "id": "n6484",
     "igdbId": 3337,
     "gbId": 15429,
     "gbGuid": "3030-15429",
@@ -2997,7 +3037,7 @@
   },
   {
     "name": "Extreme-G",
-    "id": "n6484",
+    "id": "n6485",
     "igdbId": 3485,
     "gbId": 2379,
     "gbGuid": "3030-2379",
@@ -3048,7 +3088,7 @@
   },
   {
     "name": "Extreme-G 2",
-    "id": "n6485",
+    "id": "n6486",
     "igdbId": 3486,
     "gbId": 9774,
     "gbGuid": "3030-9774",
@@ -3088,7 +3128,7 @@
   },
   {
     "name": "F-1 World Grand Prix",
-    "id": "n6486",
+    "id": "n6487",
     "igdbId": 3487,
     "gbId": 6455,
     "gbGuid": "3030-6455",
@@ -3128,7 +3168,7 @@
   },
   {
     "name": "F-1 World Grand Prix II",
-    "id": "n6487",
+    "id": "n6488",
     "igdbId": 3488,
     "gbId": 13102,
     "gbGuid": "3030-13102",
@@ -3168,7 +3208,7 @@
   },
   {
     "name": "F-Zero X",
-    "id": "n6488",
+    "id": "n6489",
     "igdbId": 3489,
     "gbId": 18808,
     "gbGuid": "3030-18808",
@@ -3221,7 +3261,7 @@
   },
   {
     "name": "F1 Pole Position 64",
-    "id": "n6489",
+    "id": "n6490",
     "igdbId": 3494,
     "gbId": 3764,
     "gbGuid": "3030-3764",
@@ -3245,7 +3285,7 @@
   },
   {
     "name": "FIFA 99",
-    "id": "n6490",
+    "id": "n6491",
     "igdbId": 699,
     "gbId": 15945,
     "gbGuid": "3030-15945",
@@ -3285,7 +3325,7 @@
   },
   {
     "name": "FIFA Soccer 64",
-    "id": "n6491",
+    "id": "n6492",
     "igdbId": 10682,
     "gbId": 10335,
     "gbGuid": "3030-10335",
@@ -3323,7 +3363,7 @@
   },
   {
     "name": "FIFA: Road to World Cup 98",
-    "id": "n6492",
+    "id": "n6493",
     "igdbId": 705,
     "gbId": 11207,
     "gbGuid": "3030-11207",
@@ -3350,7 +3390,7 @@
   },
   {
     "name": "Famista 64",
-    "id": "n6493",
+    "id": "n6494",
     "igdbId": 80390,
     "gbId": 62169,
     "gbGuid": "3030-62169",
@@ -3374,7 +3414,7 @@
   },
   {
     "name": "Fighter Destiny 2",
-    "id": "n6494",
+    "id": "n6495",
     "igdbId": 10683,
     "gbId": 8673,
     "gbGuid": "3030-8673",
@@ -3414,7 +3454,7 @@
   },
   {
     "name": "Fighters Destiny",
-    "id": "n6495",
+    "id": "n6496",
     "igdbId": 3496,
     "gbId": 13172,
     "gbGuid": "3030-13172",
@@ -3452,7 +3492,7 @@
   },
   {
     "name": "Fighting Force 64",
-    "id": "n6496",
+    "id": "n6497",
     "igdbId": 47683,
     "gbId": 14996,
     "gbGuid": "3030-14996",
@@ -3479,7 +3519,7 @@
   },
   {
     "name": "Flying Dragon",
-    "id": "n6497",
+    "id": "n6498",
     "igdbId": 3497,
     "gbId": 15662,
     "gbGuid": "3030-15662",
@@ -3517,7 +3557,7 @@
   },
   {
     "name": "Forsaken",
-    "id": "n6498",
+    "id": "n6499",
     "igdbId": 718,
     "gbId": 15636,
     "gbGuid": "3030-15636",
@@ -3557,7 +3597,7 @@
   },
   {
     "name": "Fox Sports College Hoops '99",
-    "id": "n6499",
+    "id": "n64100",
     "igdbId": 3498,
     "gbId": 22752,
     "gbGuid": "3030-22752",
@@ -3581,7 +3621,7 @@
   },
   {
     "name": "G.A.S.P!! Fighters' NEXTream",
-    "id": "n64100",
+    "id": "n64101",
     "igdbId": 3500,
     "gbId": null,
     "gbGuid": null,
@@ -3605,7 +3645,7 @@
   },
   {
     "name": "GT 64: Championship Edition",
-    "id": "n64101",
+    "id": "n64102",
     "igdbId": 3375,
     "gbId": 34874,
     "gbGuid": "3030-34874",
@@ -3643,7 +3683,7 @@
   },
   {
     "name": "Gauntlet Legends",
-    "id": "n64102",
+    "id": "n64103",
     "igdbId": 3501,
     "gbId": 12245,
     "gbGuid": "3030-12245",
@@ -3696,7 +3736,7 @@
   },
   {
     "name": "Getter Love!! Cho Renai Party Game",
-    "id": "n64103",
+    "id": "n64104",
     "igdbId": 44052,
     "gbId": 22833,
     "gbGuid": "3030-22833",
@@ -3719,7 +3759,7 @@
   },
   {
     "name": "Getter Love!!: Chou Renai Party Game Tanjou",
-    "id": "n64104",
+    "id": "n64105",
     "igdbId": 3504,
     "gbId": 22833,
     "gbGuid": "3030-22833",
@@ -3746,7 +3786,7 @@
   },
   {
     "name": "Gex 3: Deep Cover Gecko",
-    "id": "n64105",
+    "id": "n64106",
     "igdbId": 210294,
     "gbId": 20330,
     "gbGuid": "3030-20330",
@@ -3773,7 +3813,7 @@
   },
   {
     "name": "Goemon's Great Adventure",
-    "id": "n64106",
+    "id": "n64107",
     "igdbId": 94994,
     "gbId": 14117,
     "gbGuid": "3030-14117",
@@ -3797,7 +3837,7 @@
   },
   {
     "name": "Goemon's Great Adventure",
-    "id": "n64107",
+    "id": "n64108",
     "igdbId": 3508,
     "gbId": 14117,
     "gbGuid": "3030-14117",
@@ -3824,7 +3864,7 @@
   },
   {
     "name": "Goemon: Mononoke Sugoroku",
-    "id": "n64108",
+    "id": "n64109",
     "igdbId": 3507,
     "gbId": null,
     "gbGuid": null,
@@ -3862,7 +3902,7 @@
   },
   {
     "name": "Golden Nugget 64",
-    "id": "n64109",
+    "id": "n64110",
     "igdbId": 3374,
     "gbId": 2215,
     "gbGuid": "3030-2215",
@@ -3886,7 +3926,7 @@
   },
   {
     "name": "GoldenEye 007",
-    "id": "n64110",
+    "id": "n64111",
     "igdbId": 1638,
     "gbId": 3166,
     "gbGuid": "3030-3166",
@@ -3950,7 +3990,7 @@
   },
   {
     "name": "HSV Adventure Racing",
-    "id": "n64111",
+    "id": "n64112",
     "igdbId": 185994,
     "gbId": 10791,
     "gbGuid": "3030-10791",
@@ -3977,7 +4017,7 @@
   },
   {
     "name": "Hamster Monogatari 64",
-    "id": "n64112",
+    "id": "n64113",
     "igdbId": 3509,
     "gbId": 22834,
     "gbGuid": "3030-22834",
@@ -4001,7 +4041,7 @@
   },
   {
     "name": "Heiwa Pachinko World 64",
-    "id": "n64113",
+    "id": "n64114",
     "igdbId": 3510,
     "gbId": 47081,
     "gbGuid": "3030-47081",
@@ -4025,7 +4065,7 @@
   },
   {
     "name": "Hexen",
-    "id": "n64114",
+    "id": "n64115",
     "igdbId": 93641,
     "gbId": 22548,
     "gbGuid": "3030-22548",
@@ -4052,13 +4092,14 @@
   },
   {
     "name": "Hey You, Pikachu!",
-    "id": "n64115",
+    "id": "n64116",
     "igdbId": 2642,
     "gbId": 17113,
     "gbGuid": "3030-17113",
     "tgdbId": 257,
     "details": [
-      "Nintendo 64 exclusive"
+      "Nintendo 64 exclusive",
+      "N64 game bundled with voice recognition unit"
     ],
     "isExclusive": [
       {
@@ -4071,12 +4112,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "N64 game bundled with voice recognition unit",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "peripheral"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Hot Wheels Turbo Racing",
-    "id": "n64116",
+    "id": "n64117",
     "igdbId": 3371,
     "gbId": 4388,
     "gbGuid": "3030-4388",
@@ -4103,7 +4157,7 @@
   },
   {
     "name": "Hybrid Heaven",
-    "id": "n64117",
+    "id": "n64118",
     "igdbId": 3513,
     "gbId": 16990,
     "gbGuid": "3030-16990",
@@ -4154,7 +4208,7 @@
   },
   {
     "name": "Hydro Thunder",
-    "id": "n64118",
+    "id": "n64119",
     "igdbId": 3370,
     "gbId": 13241,
     "gbGuid": "3030-13241",
@@ -4194,7 +4248,7 @@
   },
   {
     "name": "Iggy's Reckin' Balls",
-    "id": "n64119",
+    "id": "n64120",
     "igdbId": 3394,
     "gbId": 2736,
     "gbGuid": "3030-2736",
@@ -4245,7 +4299,7 @@
   },
   {
     "name": "In-Fisherman Bass Hunter 64",
-    "id": "n64120",
+    "id": "n64121",
     "igdbId": 3419,
     "gbId": 22222,
     "gbGuid": "3030-22222",
@@ -4283,7 +4337,7 @@
   },
   {
     "name": "Indiana Jones and the Infernal Machine",
-    "id": "n64121",
+    "id": "n64122",
     "igdbId": 188,
     "gbId": 7284,
     "gbGuid": "3030-7284",
@@ -4323,7 +4377,7 @@
   },
   {
     "name": "Indy Racing 2000",
-    "id": "n64122",
+    "id": "n64123",
     "igdbId": 3395,
     "gbId": 16322,
     "gbGuid": "3030-16322",
@@ -4374,7 +4428,7 @@
   },
   {
     "name": "International Superstar Soccer '98",
-    "id": "n64123",
+    "id": "n64124",
     "igdbId": 3514,
     "gbId": 12841,
     "gbGuid": "3030-12841",
@@ -4412,7 +4466,7 @@
   },
   {
     "name": "International Superstar Soccer 2000",
-    "id": "n64124",
+    "id": "n64125",
     "igdbId": 3515,
     "gbId": 7818,
     "gbGuid": "3030-7818",
@@ -4465,7 +4519,7 @@
   },
   {
     "name": "International Superstar Soccer 64",
-    "id": "n64125",
+    "id": "n64126",
     "igdbId": 3516,
     "gbId": 9790,
     "gbGuid": "3030-9790",
@@ -4503,7 +4557,7 @@
   },
   {
     "name": "International Track & Field 2000",
-    "id": "n64126",
+    "id": "n64127",
     "igdbId": 3517,
     "gbId": 6820,
     "gbGuid": "3030-6820",
@@ -4556,7 +4610,7 @@
   },
   {
     "name": "J-League Dynamite Soccer 64",
-    "id": "n64127",
+    "id": "n64128",
     "igdbId": 3519,
     "gbId": 22754,
     "gbGuid": "3030-22754",
@@ -4594,7 +4648,7 @@
   },
   {
     "name": "J-League Live 64",
-    "id": "n64128",
+    "id": "n64129",
     "igdbId": 3521,
     "gbId": null,
     "gbGuid": null,
@@ -4632,7 +4686,7 @@
   },
   {
     "name": "J-League Tactics Soccer",
-    "id": "n64129",
+    "id": "n64130",
     "igdbId": 3522,
     "gbId": null,
     "gbGuid": null,
@@ -4656,7 +4710,7 @@
   },
   {
     "name": "J.League Eleven Beat 1997",
-    "id": "n64130",
+    "id": "n64131",
     "igdbId": 3520,
     "gbId": 22756,
     "gbGuid": "3030-22756",
@@ -4694,7 +4748,7 @@
   },
   {
     "name": "James Bond 007: The World Is Not Enough",
-    "id": "n64131",
+    "id": "n64132",
     "igdbId": 144507,
     "gbId": 18168,
     "gbGuid": "3030-18168",
@@ -4747,7 +4801,7 @@
   },
   {
     "name": "Japan Pro Golf Tour 64",
-    "id": "n64132",
+    "id": "n64133",
     "igdbId": 65112,
     "gbId": 38402,
     "gbGuid": "3030-38402",
@@ -4774,7 +4828,7 @@
   },
   {
     "name": "Jeopardy!",
-    "id": "n64133",
+    "id": "n64134",
     "igdbId": 3396,
     "gbId": 988,
     "gbGuid": "3030-988",
@@ -4801,7 +4855,7 @@
   },
   {
     "name": "Jeremy McGrath Supercross 2000",
-    "id": "n64134",
+    "id": "n64135",
     "igdbId": 3523,
     "gbId": 4298,
     "gbGuid": "3030-4298",
@@ -4854,7 +4908,7 @@
   },
   {
     "name": "Jet Force Gemini",
-    "id": "n64135",
+    "id": "n64136",
     "igdbId": 1355,
     "gbId": 12696,
     "gbGuid": "3030-12696",
@@ -4894,7 +4948,7 @@
   },
   {
     "name": "Jikkyou G1 Stable",
-    "id": "n64136",
+    "id": "n64137",
     "igdbId": 44045,
     "gbId": null,
     "gbGuid": null,
@@ -4918,7 +4972,7 @@
   },
   {
     "name": "Jikkyou J.League Perfect Striker",
-    "id": "n64137",
+    "id": "n64138",
     "igdbId": 185992,
     "gbId": null,
     "gbGuid": null,
@@ -4945,7 +4999,7 @@
   },
   {
     "name": "Jinsei Game 64",
-    "id": "n64138",
+    "id": "n64139",
     "igdbId": 3530,
     "gbId": 67442,
     "gbGuid": "3030-67442",
@@ -4983,7 +5037,7 @@
   },
   {
     "name": "Ken Griffey Jr.'s Slugfest",
-    "id": "n64139",
+    "id": "n64140",
     "igdbId": 3531,
     "gbId": 11803,
     "gbGuid": "3030-11803",
@@ -5023,7 +5077,7 @@
   },
   {
     "name": "Killer Instinct Gold",
-    "id": "n64140",
+    "id": "n64141",
     "igdbId": 10613,
     "gbId": 10614,
     "gbGuid": "3030-10614",
@@ -5047,7 +5101,7 @@
   },
   {
     "name": "Kiratto Kaiketsu! 64 Tanteidan",
-    "id": "n64141",
+    "id": "n64142",
     "igdbId": 3532,
     "gbId": null,
     "gbGuid": null,
@@ -5085,7 +5139,7 @@
   },
   {
     "name": "Kirby 64: The Crystal Shards",
-    "id": "n64142",
+    "id": "n64143",
     "igdbId": 2713,
     "gbId": 17093,
     "gbGuid": "3030-17093",
@@ -5125,7 +5179,7 @@
   },
   {
     "name": "Knife Edge: Nose Gunner",
-    "id": "n64143",
+    "id": "n64144",
     "igdbId": 3533,
     "gbId": 6007,
     "gbGuid": "3030-6007",
@@ -5176,7 +5230,7 @@
   },
   {
     "name": "Knockout Kings 2000",
-    "id": "n64144",
+    "id": "n64145",
     "igdbId": 10687,
     "gbId": 18207,
     "gbGuid": "3030-18207",
@@ -5203,7 +5257,7 @@
   },
   {
     "name": "Kobe Bryant in NBA Courtside",
-    "id": "n64145",
+    "id": "n64146",
     "igdbId": 3397,
     "gbId": 5012,
     "gbGuid": "3030-5012",
@@ -5267,7 +5321,7 @@
   },
   {
     "name": "LEGO Racers",
-    "id": "n64146",
+    "id": "n64147",
     "igdbId": 422,
     "gbId": 11174,
     "gbGuid": "3030-11174",
@@ -5294,7 +5348,7 @@
   },
   {
     "name": "Lode Runner 3-D",
-    "id": "n64147",
+    "id": "n64148",
     "igdbId": 3372,
     "gbId": 13907,
     "gbGuid": "3030-13907",
@@ -5332,7 +5386,7 @@
   },
   {
     "name": "Looney Tunes: Taz Express",
-    "id": "n64148",
+    "id": "n64149",
     "igdbId": 3345,
     "gbId": 16162,
     "gbGuid": "3030-16162",
@@ -5356,7 +5410,7 @@
   },
   {
     "name": "MRC: Multi-Racing Championship",
-    "id": "n64149",
+    "id": "n64150",
     "igdbId": 3544,
     "gbId": 9826,
     "gbGuid": "3030-9826",
@@ -5394,7 +5448,7 @@
   },
   {
     "name": "Madden Football 64",
-    "id": "n64150",
+    "id": "n64151",
     "igdbId": 3536,
     "gbId": 16446,
     "gbGuid": "3030-16446",
@@ -5445,7 +5499,7 @@
   },
   {
     "name": "Madden NFL 2000",
-    "id": "n64151",
+    "id": "n64152",
     "igdbId": 3537,
     "gbId": 12373,
     "gbGuid": "3030-12373",
@@ -5498,7 +5552,7 @@
   },
   {
     "name": "Madden NFL 2001",
-    "id": "n64152",
+    "id": "n64153",
     "igdbId": 3538,
     "gbId": 8822,
     "gbGuid": "3030-8822",
@@ -5551,7 +5605,7 @@
   },
   {
     "name": "Madden NFL 2002",
-    "id": "n64153",
+    "id": "n64154",
     "igdbId": 3539,
     "gbId": 10845,
     "gbGuid": "3030-10845",
@@ -5604,7 +5658,7 @@
   },
   {
     "name": "Madden NFL 99",
-    "id": "n64154",
+    "id": "n64155",
     "igdbId": 779,
     "gbId": 13996,
     "gbGuid": "3030-13996",
@@ -5644,7 +5698,7 @@
   },
   {
     "name": "Magical Tetris Challenge",
-    "id": "n64155",
+    "id": "n64156",
     "igdbId": 3398,
     "gbId": 10515,
     "gbGuid": "3030-10515",
@@ -5671,7 +5725,7 @@
   },
   {
     "name": "Major League Baseball Featuring Ken Griffey, Jr.",
-    "id": "n64156",
+    "id": "n64157",
     "igdbId": 3540,
     "gbId": 14051,
     "gbGuid": "3030-14051",
@@ -5709,7 +5763,7 @@
   },
   {
     "name": "Mario Artist: Paint Studio",
-    "id": "n64157",
+    "id": "n64158",
     "igdbId": 73026,
     "gbId": 21201,
     "gbGuid": "3030-21201",
@@ -5736,7 +5790,7 @@
   },
   {
     "name": "Mario Artist: Polygon Studio",
-    "id": "n64158",
+    "id": "n64159",
     "igdbId": 73027,
     "gbId": 21204,
     "gbGuid": "3030-21204",
@@ -5763,7 +5817,7 @@
   },
   {
     "name": "Mario Golf",
-    "id": "n64159",
+    "id": "n64160",
     "igdbId": 3401,
     "gbId": 19716,
     "gbGuid": "3030-19716",
@@ -5803,7 +5857,7 @@
   },
   {
     "name": "Mario Kart 64",
-    "id": "n64160",
+    "id": "n64161",
     "igdbId": 2342,
     "gbId": 10084,
     "gbGuid": "3030-10084",
@@ -5843,7 +5897,7 @@
   },
   {
     "name": "Mario Party",
-    "id": "n64161",
+    "id": "n64162",
     "igdbId": 2327,
     "gbId": 6424,
     "gbGuid": "3030-6424",
@@ -5894,7 +5948,7 @@
   },
   {
     "name": "Mario Party 2",
-    "id": "n64162",
+    "id": "n64163",
     "igdbId": 2328,
     "gbId": 12162,
     "gbGuid": "3030-12162",
@@ -5934,7 +5988,7 @@
   },
   {
     "name": "Mario Party 3",
-    "id": "n64163",
+    "id": "n64164",
     "igdbId": 2329,
     "gbId": 12447,
     "gbGuid": "3030-12447",
@@ -5985,7 +6039,7 @@
   },
   {
     "name": "Mario Tennis",
-    "id": "n64164",
+    "id": "n64165",
     "igdbId": 3406,
     "gbId": 6073,
     "gbGuid": "3030-6073",
@@ -6025,7 +6079,7 @@
   },
   {
     "name": "Mario no Photopie",
-    "id": "n64165",
+    "id": "n64166",
     "igdbId": 3541,
     "gbId": 29970,
     "gbGuid": "3030-29970",
@@ -6049,7 +6103,7 @@
   },
   {
     "name": "Masters '98: Harukanaru Augusta",
-    "id": "n64166",
+    "id": "n64167",
     "igdbId": 47744,
     "gbId": 47921,
     "gbGuid": "3030-47921",
@@ -6073,7 +6127,7 @@
   },
   {
     "name": "Mega Man 64",
-    "id": "n64167",
+    "id": "n64168",
     "igdbId": 10614,
     "gbId": 24946,
     "gbGuid": "3030-24946",
@@ -6100,7 +6154,7 @@
   },
   {
     "name": "Mia Hamm Soccer 64",
-    "id": "n64168",
+    "id": "n64169",
     "igdbId": 72829,
     "gbId": 22763,
     "gbGuid": "3030-22763",
@@ -6127,7 +6181,7 @@
   },
   {
     "name": "Michael Owen's WLS 2000",
-    "id": "n64169",
+    "id": "n64170",
     "igdbId": 3407,
     "gbId": null,
     "gbGuid": null,
@@ -6151,7 +6205,7 @@
   },
   {
     "name": "Mickey's Speedway USA",
-    "id": "n64170",
+    "id": "n64171",
     "igdbId": 3408,
     "gbId": 6368,
     "gbGuid": "3030-6368",
@@ -6191,7 +6245,7 @@
   },
   {
     "name": "Micro Machines 64 Turbo",
-    "id": "n64171",
+    "id": "n64172",
     "igdbId": 8497,
     "gbId": 2888,
     "gbGuid": "3030-2888",
@@ -6218,7 +6272,7 @@
   },
   {
     "name": "Mike Piazza's Strike Zone",
-    "id": "n64172",
+    "id": "n64173",
     "igdbId": 3410,
     "gbId": 22760,
     "gbGuid": "3030-22760",
@@ -6256,7 +6310,7 @@
   },
   {
     "name": "Milo's Astro Lanes",
-    "id": "n64173",
+    "id": "n64174",
     "igdbId": 3411,
     "gbId": 3405,
     "gbGuid": "3030-3405",
@@ -6307,7 +6361,7 @@
   },
   {
     "name": "Mischief Makers",
-    "id": "n64174",
+    "id": "n64175",
     "igdbId": 3412,
     "gbId": 3849,
     "gbGuid": "3030-3849",
@@ -6331,7 +6385,7 @@
   },
   {
     "name": "Mission: Impossible",
-    "id": "n64175",
+    "id": "n64176",
     "igdbId": 3123,
     "gbId": 29369,
     "gbGuid": "3030-29369",
@@ -6358,7 +6412,7 @@
   },
   {
     "name": "Monaco Grand Prix",
-    "id": "n64176",
+    "id": "n64177",
     "igdbId": 3413,
     "gbId": 27620,
     "gbGuid": "3030-27620",
@@ -6385,7 +6439,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "n64177",
+    "id": "n64178",
     "igdbId": 122241,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -6409,7 +6463,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "n64178",
+    "id": "n64179",
     "igdbId": 176024,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -6436,7 +6490,7 @@
   },
   {
     "name": "Monster Truck Madness 64",
-    "id": "n64179",
+    "id": "n64180",
     "igdbId": 10615,
     "gbId": 26441,
     "gbGuid": "3030-26441",
@@ -6476,7 +6530,7 @@
   },
   {
     "name": "Morita Shogi 64",
-    "id": "n64180",
+    "id": "n64181",
     "igdbId": 3543,
     "gbId": 68529,
     "gbGuid": "3030-68529",
@@ -6500,7 +6554,7 @@
   },
   {
     "name": "Mortal Kombat 4",
-    "id": "n64181",
+    "id": "n64182",
     "igdbId": 1622,
     "gbId": 6421,
     "gbGuid": "3030-6421",
@@ -6527,7 +6581,7 @@
   },
   {
     "name": "Mortal Kombat Mythologies: Sub-Zero",
-    "id": "n64182",
+    "id": "n64183",
     "igdbId": 1610,
     "gbId": 17295,
     "gbGuid": "3030-17295",
@@ -6554,7 +6608,7 @@
   },
   {
     "name": "Ms. Pac-Man Maze Madness",
-    "id": "n64183",
+    "id": "n64184",
     "igdbId": 3338,
     "gbId": 3903,
     "gbGuid": "3030-3903",
@@ -6594,7 +6648,7 @@
   },
   {
     "name": "Mystical Ninja Starring Goemon",
-    "id": "n64184",
+    "id": "n64185",
     "igdbId": null,
     "gbId": 6243,
     "gbGuid": "3030-6243",
@@ -6618,7 +6672,7 @@
   },
   {
     "name": "NASCAR 2000",
-    "id": "n64185",
+    "id": "n64186",
     "igdbId": 3548,
     "gbId": 15920,
     "gbGuid": "3030-15920",
@@ -6645,7 +6699,7 @@
   },
   {
     "name": "NASCAR 99",
-    "id": "n64186",
+    "id": "n64187",
     "igdbId": 3547,
     "gbId": 18807,
     "gbGuid": "3030-18807",
@@ -6672,7 +6726,7 @@
   },
   {
     "name": "NBA Courtside 2 Featuring Kobe Bryant",
-    "id": "n64187",
+    "id": "n64188",
     "igdbId": 3549,
     "gbId": 18984,
     "gbGuid": "3030-18984",
@@ -6710,7 +6764,7 @@
   },
   {
     "name": "NBA Hangtime",
-    "id": "n64188",
+    "id": "n64189",
     "igdbId": 3550,
     "gbId": 10512,
     "gbGuid": "3030-10512",
@@ -6737,7 +6791,7 @@
   },
   {
     "name": "NBA In The Zone 2000",
-    "id": "n64189",
+    "id": "n64190",
     "igdbId": 43718,
     "gbId": 872,
     "gbGuid": "3030-872",
@@ -6777,7 +6831,7 @@
   },
   {
     "name": "NBA Jam 2000",
-    "id": "n64190",
+    "id": "n64191",
     "igdbId": 3552,
     "gbId": 22242,
     "gbGuid": "3030-22242",
@@ -6841,7 +6895,7 @@
   },
   {
     "name": "NBA Jam 99",
-    "id": "n64191",
+    "id": "n64192",
     "igdbId": 3551,
     "gbId": 20342,
     "gbGuid": "3030-20342",
@@ -6868,7 +6922,7 @@
   },
   {
     "name": "NBA Live 2000",
-    "id": "n64192",
+    "id": "n64193",
     "igdbId": 3553,
     "gbId": 3771,
     "gbGuid": "3030-3771",
@@ -6908,7 +6962,7 @@
   },
   {
     "name": "NBA Live 99",
-    "id": "n64193",
+    "id": "n64194",
     "igdbId": 811,
     "gbId": 2861,
     "gbGuid": "3030-2861",
@@ -6948,7 +7002,7 @@
   },
   {
     "name": "NBA Showtime: NBA on NBC",
-    "id": "n64194",
+    "id": "n64195",
     "igdbId": 3554,
     "gbId": 4632,
     "gbGuid": "3030-4632",
@@ -6975,7 +7029,7 @@
   },
   {
     "name": "NBA in the Zone '98",
-    "id": "n64195",
+    "id": "n64196",
     "igdbId": 43719,
     "gbId": 11866,
     "gbGuid": "3030-11866",
@@ -7015,7 +7069,7 @@
   },
   {
     "name": "NBA in the Zone '99",
-    "id": "n64196",
+    "id": "n64197",
     "igdbId": 72053,
     "gbId": 7202,
     "gbGuid": "3030-7202",
@@ -7055,7 +7109,7 @@
   },
   {
     "name": "NFL Blitz",
-    "id": "n64197",
+    "id": "n64198",
     "igdbId": 812,
     "gbId": 8417,
     "gbGuid": "3030-8417",
@@ -7082,7 +7136,7 @@
   },
   {
     "name": "NFL Blitz 2000",
-    "id": "n64198",
+    "id": "n64199",
     "igdbId": 4366,
     "gbId": 2849,
     "gbGuid": "3030-2849",
@@ -7122,7 +7176,7 @@
   },
   {
     "name": "NFL Blitz 2001",
-    "id": "n64199",
+    "id": "n64200",
     "igdbId": 47752,
     "gbId": 12669,
     "gbGuid": "3030-12669",
@@ -7162,7 +7216,7 @@
   },
   {
     "name": "NFL Blitz: Special Edition",
-    "id": "n64200",
+    "id": "n64201",
     "igdbId": 47757,
     "gbId": 40658,
     "gbGuid": "3030-40658",
@@ -7202,7 +7256,7 @@
   },
   {
     "name": "NFL QB Club 2001",
-    "id": "n64201",
+    "id": "n64202",
     "igdbId": 3560,
     "gbId": 15381,
     "gbGuid": "3030-15381",
@@ -7229,7 +7283,7 @@
   },
   {
     "name": "NFL Quarterback Club '99",
-    "id": "n64202",
+    "id": "n64203",
     "igdbId": 47756,
     "gbId": 18346,
     "gbGuid": "3030-18346",
@@ -7293,7 +7347,7 @@
   },
   {
     "name": "NFL Quarterback Club 2000",
-    "id": "n64203",
+    "id": "n64204",
     "igdbId": 3559,
     "gbId": 7966,
     "gbGuid": "3030-7966",
@@ -7333,7 +7387,7 @@
   },
   {
     "name": "NFL Quarterback Club 98",
-    "id": "n64204",
+    "id": "n64205",
     "igdbId": 3558,
     "gbId": 10536,
     "gbGuid": "3030-10536",
@@ -7384,7 +7438,7 @@
   },
   {
     "name": "NHL 99",
-    "id": "n64205",
+    "id": "n64206",
     "igdbId": 3561,
     "gbId": 7774,
     "gbGuid": "3030-7774",
@@ -7424,7 +7478,7 @@
   },
   {
     "name": "NHL Blades of Steel '99",
-    "id": "n64206",
+    "id": "n64207",
     "igdbId": 3562,
     "gbId": 5337,
     "gbGuid": "3030-5337",
@@ -7464,7 +7518,7 @@
   },
   {
     "name": "NHL Breakaway 98",
-    "id": "n64207",
+    "id": "n64208",
     "igdbId": 3563,
     "gbId": 19417,
     "gbGuid": "3030-19417",
@@ -7504,7 +7558,7 @@
   },
   {
     "name": "NHL Breakaway 99",
-    "id": "n64208",
+    "id": "n64209",
     "igdbId": 3564,
     "gbId": 27596,
     "gbGuid": "3030-27596",
@@ -7555,7 +7609,7 @@
   },
   {
     "name": "Nagano Winter Olympics '98",
-    "id": "n64209",
+    "id": "n64210",
     "igdbId": 3546,
     "gbId": 14096,
     "gbGuid": "3030-14096",
@@ -7582,7 +7636,7 @@
   },
   {
     "name": "Neon Genesis Evangelion",
-    "id": "n64210",
+    "id": "n64211",
     "igdbId": 3555,
     "gbId": 24392,
     "gbGuid": "3030-24392",
@@ -7606,7 +7660,7 @@
   },
   {
     "name": "Nightmare Creatures",
-    "id": "n64211",
+    "id": "n64212",
     "igdbId": 3414,
     "gbId": 584,
     "gbGuid": "3030-584",
@@ -7633,7 +7687,7 @@
   },
   {
     "name": "Nuclear Strike 64",
-    "id": "n64212",
+    "id": "n64213",
     "igdbId": 47755,
     "gbId": 11731,
     "gbGuid": "3030-11731",
@@ -7673,7 +7727,7 @@
   },
   {
     "name": "Nushi Tsuri 64",
-    "id": "n64213",
+    "id": "n64214",
     "igdbId": 3565,
     "gbId": 22788,
     "gbGuid": "3030-22788",
@@ -7697,7 +7751,7 @@
   },
   {
     "name": "Nushi Tsuri 64: Shiokaze ni Notte",
-    "id": "n64214",
+    "id": "n64215",
     "igdbId": 3566,
     "gbId": 22789,
     "gbGuid": "3030-22789",
@@ -7721,7 +7775,7 @@
   },
   {
     "name": "Off Road Challenge",
-    "id": "n64215",
+    "id": "n64216",
     "igdbId": 3567,
     "gbId": 835,
     "gbGuid": "3030-835",
@@ -7748,7 +7802,7 @@
   },
   {
     "name": "Olympic Hockey Nagano '98",
-    "id": "n64216",
+    "id": "n64217",
     "igdbId": 3569,
     "gbId": null,
     "gbGuid": null,
@@ -7785,7 +7839,7 @@
   },
   {
     "name": "PD Ultraman Battle Collection 64",
-    "id": "n64217",
+    "id": "n64218",
     "igdbId": 3572,
     "gbId": null,
     "gbGuid": null,
@@ -7809,7 +7863,7 @@
   },
   {
     "name": "PGA European Tour",
-    "id": "n64218",
+    "id": "n64219",
     "igdbId": 176028,
     "gbId": 47138,
     "gbGuid": "3030-47138",
@@ -7836,7 +7890,7 @@
   },
   {
     "name": "Paper Mario",
-    "id": "n64219",
+    "id": "n64220",
     "igdbId": 3340,
     "gbId": 19929,
     "gbGuid": "3030-19929",
@@ -7863,7 +7917,7 @@
   },
   {
     "name": "Paperboy",
-    "id": "n64220",
+    "id": "n64221",
     "igdbId": 19370,
     "gbId": 60211,
     "gbGuid": "3030-60211",
@@ -7890,7 +7944,7 @@
   },
   {
     "name": "Parlor! Pro 64",
-    "id": "n64221",
+    "id": "n64222",
     "igdbId": 3571,
     "gbId": null,
     "gbGuid": null,
@@ -7914,7 +7968,7 @@
   },
   {
     "name": "Penny Racers",
-    "id": "n64222",
+    "id": "n64223",
     "igdbId": 1292,
     "gbId": 30086,
     "gbGuid": "3030-30086",
@@ -7952,7 +8006,7 @@
   },
   {
     "name": "Perfect Dark",
-    "id": "n64223",
+    "id": "n64224",
     "igdbId": 1463,
     "gbId": 21256,
     "gbGuid": "3030-21256",
@@ -8029,7 +8083,7 @@
   },
   {
     "name": "Pilotwings 64",
-    "id": "n64224",
+    "id": "n64225",
     "igdbId": 3573,
     "gbId": 108,
     "gbGuid": "3030-108",
@@ -8063,7 +8117,7 @@
   },
   {
     "name": "Pokemon Stadium",
-    "id": "n64225",
+    "id": "n64226",
     "igdbId": 2289,
     "gbId": 7270,
     "gbGuid": "3030-7270",
@@ -8071,7 +8125,8 @@
     "details": [
       "Nintendo 64 exclusive",
       "Nintendo 64 Player's Choice",
-      "N64 4 player game"
+      "N64 4 player game",
+      "N64 game bundled with Transfer Pak"
     ],
     "isExclusive": [
       {
@@ -8108,13 +8163,25 @@
           "tgdbId": 3
         },
         "category": "multiplayer"
+      },
+      {
+        "value": "N64 game bundled with Transfer Pak",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "peripheral"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Pokémon Snap",
-    "id": "n64226",
+    "id": "n64227",
     "igdbId": 2324,
     "gbId": 10024,
     "gbGuid": "3030-10024",
@@ -8141,7 +8208,7 @@
   },
   {
     "name": "Pokémon Stadium 2",
-    "id": "n64227",
+    "id": "n64228",
     "igdbId": 2290,
     "gbId": 6132,
     "gbGuid": "3030-6132",
@@ -8192,7 +8259,7 @@
   },
   {
     "name": "Polaris SnoCross",
-    "id": "n64228",
+    "id": "n64229",
     "igdbId": 3575,
     "gbId": 26585,
     "gbGuid": "3030-26585",
@@ -8232,7 +8299,7 @@
   },
   {
     "name": "Power League 64",
-    "id": "n64229",
+    "id": "n64230",
     "igdbId": 3576,
     "gbId": 22791,
     "gbGuid": "3030-22791",
@@ -8256,7 +8323,7 @@
   },
   {
     "name": "Quake",
-    "id": "n64230",
+    "id": "n64231",
     "igdbId": 333,
     "gbId": 8015,
     "gbGuid": "3030-8015",
@@ -8283,7 +8350,7 @@
   },
   {
     "name": "Quake II",
-    "id": "n64231",
+    "id": "n64232",
     "igdbId": 286,
     "gbId": 3207,
     "gbGuid": "3030-3207",
@@ -8336,7 +8403,7 @@
   },
   {
     "name": "Quest 64",
-    "id": "n64232",
+    "id": "n64233",
     "igdbId": 3580,
     "gbId": 4924,
     "gbGuid": "3030-4924",
@@ -8360,7 +8427,7 @@
   },
   {
     "name": "Rakuga Kids",
-    "id": "n64233",
+    "id": "n64234",
     "igdbId": 3581,
     "gbId": 3298,
     "gbGuid": "3030-3298",
@@ -8384,7 +8451,7 @@
   },
   {
     "name": "Rally '99",
-    "id": "n64234",
+    "id": "n64235",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8407,7 +8474,7 @@
   },
   {
     "name": "Rally Challenge 2000",
-    "id": "n64235",
+    "id": "n64236",
     "igdbId": 3582,
     "gbId": 36714,
     "gbGuid": "3030-36714",
@@ -8458,7 +8525,7 @@
   },
   {
     "name": "Rampage 2: Universal Tour",
-    "id": "n64236",
+    "id": "n64237",
     "igdbId": 3583,
     "gbId": 9382,
     "gbGuid": "3030-9382",
@@ -8498,7 +8565,7 @@
   },
   {
     "name": "Rampage World Tour",
-    "id": "n64237",
+    "id": "n64238",
     "igdbId": 3056,
     "gbId": 12331,
     "gbGuid": "3030-12331",
@@ -8538,7 +8605,7 @@
   },
   {
     "name": "Rat Attack!",
-    "id": "n64238",
+    "id": "n64239",
     "igdbId": 3415,
     "gbId": 16953,
     "gbGuid": "3030-16953",
@@ -8565,7 +8632,7 @@
   },
   {
     "name": "Rayman 2: The Great Escape",
-    "id": "n64239",
+    "id": "n64240",
     "igdbId": 843,
     "gbId": 609,
     "gbGuid": "3030-609",
@@ -8592,7 +8659,7 @@
   },
   {
     "name": "Razor Freestyle Scooter",
-    "id": "n64240",
+    "id": "n64241",
     "igdbId": 3584,
     "gbId": 5345,
     "gbGuid": "3030-5345",
@@ -8619,7 +8686,7 @@
   },
   {
     "name": "Re-Volt",
-    "id": "n64241",
+    "id": "n64242",
     "igdbId": 3585,
     "gbId": 5037,
     "gbGuid": "3030-5037",
@@ -8672,7 +8739,7 @@
   },
   {
     "name": "Ready 2 Rumble Boxing",
-    "id": "n64242",
+    "id": "n64243",
     "igdbId": 3586,
     "gbId": 19836,
     "gbGuid": "3030-19836",
@@ -8699,7 +8766,7 @@
   },
   {
     "name": "Ready 2 Rumble Boxing: Round 2",
-    "id": "n64243",
+    "id": "n64244",
     "igdbId": 3587,
     "gbId": 11649,
     "gbGuid": "3030-11649",
@@ -8726,7 +8793,7 @@
   },
   {
     "name": "Resident Evil 2",
-    "id": "n64244",
+    "id": "n64245",
     "igdbId": 880,
     "gbId": 9418,
     "gbGuid": "3030-9418",
@@ -8766,7 +8833,7 @@
   },
   {
     "name": "Ridge Racer 64",
-    "id": "n64245",
+    "id": "n64246",
     "igdbId": 3588,
     "gbId": 1880,
     "gbGuid": "3030-1880",
@@ -8806,7 +8873,7 @@
   },
   {
     "name": "Road Rash 64",
-    "id": "n64246",
+    "id": "n64247",
     "igdbId": 3589,
     "gbId": 18864,
     "gbGuid": "3030-18864",
@@ -8870,7 +8937,7 @@
   },
   {
     "name": "Roadsters",
-    "id": "n64247",
+    "id": "n64248",
     "igdbId": 3590,
     "gbId": 25254,
     "gbGuid": "3030-25254",
@@ -8910,7 +8977,7 @@
   },
   {
     "name": "Robopon 64: Robot Ponkottsu 64",
-    "id": "n64248",
+    "id": "n64249",
     "igdbId": 3591,
     "gbId": null,
     "gbGuid": null,
@@ -8934,7 +9001,7 @@
   },
   {
     "name": "Robotech: Crystal Dreams",
-    "id": "n64249",
+    "id": "n64250",
     "igdbId": 44035,
     "gbId": null,
     "gbGuid": null,
@@ -8958,7 +9025,7 @@
   },
   {
     "name": "Robotron 64",
-    "id": "n64250",
+    "id": "n64251",
     "igdbId": 79669,
     "gbId": 10858,
     "gbGuid": "3030-10858",
@@ -8985,7 +9052,7 @@
   },
   {
     "name": "Rocket: Robot on Wheels",
-    "id": "n64251",
+    "id": "n64252",
     "igdbId": 2644,
     "gbId": 7804,
     "gbGuid": "3030-7804",
@@ -9023,7 +9090,7 @@
   },
   {
     "name": "Rugrats in Paris: The Movie",
-    "id": "n64252",
+    "id": "n64253",
     "igdbId": 2792,
     "gbId": 8046,
     "gbGuid": "3030-8046",
@@ -9050,7 +9117,7 @@
   },
   {
     "name": "Rugrats: Scavenger Hunt",
-    "id": "n64253",
+    "id": "n64254",
     "igdbId": 2786,
     "gbId": 21658,
     "gbGuid": "3030-21658",
@@ -9101,7 +9168,7 @@
   },
   {
     "name": "Rush 2: Extreme Racing USA",
-    "id": "n64254",
+    "id": "n64255",
     "igdbId": 3593,
     "gbId": 1221,
     "gbGuid": "3030-1221",
@@ -9139,7 +9206,7 @@
   },
   {
     "name": "S.C.A.R.S.",
-    "id": "n64255",
+    "id": "n64256",
     "igdbId": 3341,
     "gbId": 7156,
     "gbGuid": "3030-7156",
@@ -9179,7 +9246,7 @@
   },
   {
     "name": "Saikyou Habu Shogi",
-    "id": "n64256",
+    "id": "n64257",
     "igdbId": null,
     "gbId": 33848,
     "gbGuid": "3030-33848",
@@ -9203,7 +9270,7 @@
   },
   {
     "name": "San Francisco Rush 2049",
-    "id": "n64257",
+    "id": "n64258",
     "igdbId": 3596,
     "gbId": 18834,
     "gbGuid": "3030-18834",
@@ -9256,7 +9323,7 @@
   },
   {
     "name": "San Francisco Rush: Extreme Racing",
-    "id": "n64258",
+    "id": "n64259",
     "igdbId": 3595,
     "gbId": 8458,
     "gbGuid": "3030-8458",
@@ -9283,7 +9350,7 @@
   },
   {
     "name": "Shadow Man",
-    "id": "n64259",
+    "id": "n64260",
     "igdbId": 3598,
     "gbId": 10746,
     "gbGuid": "3030-10746",
@@ -9323,7 +9390,7 @@
   },
   {
     "name": "Shadowgate 64: Trials of the Four Towers",
-    "id": "n64260",
+    "id": "n64261",
     "igdbId": 3600,
     "gbId": 1617,
     "gbGuid": "3030-1617",
@@ -9347,7 +9414,7 @@
   },
   {
     "name": "Shiren the Wanderer 2",
-    "id": "n64261",
+    "id": "n64262",
     "igdbId": 67376,
     "gbId": null,
     "gbGuid": null,
@@ -9370,7 +9437,7 @@
   },
   {
     "name": "Snowboard Kids",
-    "id": "n64262",
+    "id": "n64263",
     "igdbId": 3342,
     "gbId": 18062,
     "gbGuid": "3030-18062",
@@ -9423,7 +9490,7 @@
   },
   {
     "name": "Snowboard Kids 2",
-    "id": "n64263",
+    "id": "n64264",
     "igdbId": 3343,
     "gbId": 18426,
     "gbGuid": "3030-18426",
@@ -9474,7 +9541,7 @@
   },
   {
     "name": "South Park",
-    "id": "n64264",
+    "id": "n64265",
     "igdbId": 1257,
     "gbId": 8845,
     "gbGuid": "3030-8845",
@@ -9527,7 +9594,7 @@
   },
   {
     "name": "South Park Rally",
-    "id": "n64265",
+    "id": "n64266",
     "igdbId": 1259,
     "gbId": 10325,
     "gbGuid": "3030-10325",
@@ -9567,7 +9634,7 @@
   },
   {
     "name": "South Park: Chef's Luv Shack",
-    "id": "n64266",
+    "id": "n64267",
     "igdbId": 1258,
     "gbId": 2127,
     "gbGuid": "3030-2127",
@@ -9594,7 +9661,7 @@
   },
   {
     "name": "Space Invaders",
-    "id": "n64267",
+    "id": "n64268",
     "igdbId": 18133,
     "gbId": 5099,
     "gbGuid": "3030-5099",
@@ -9621,7 +9688,7 @@
   },
   {
     "name": "Space Station Silicon Valley",
-    "id": "n64268",
+    "id": "n64269",
     "igdbId": 3602,
     "gbId": 13692,
     "gbGuid": "3030-13692",
@@ -9648,7 +9715,7 @@
   },
   {
     "name": "Spider-Man",
-    "id": "n64269",
+    "id": "n64270",
     "igdbId": 3603,
     "gbId": 21586,
     "gbGuid": "3030-21586",
@@ -9688,7 +9755,7 @@
   },
   {
     "name": "Star Fox 64",
-    "id": "n64270",
+    "id": "n64271",
     "igdbId": 2591,
     "gbId": 19203,
     "gbGuid": "3030-19203",
@@ -9741,7 +9808,7 @@
   },
   {
     "name": "Star Soldier: Vanishing Earth",
-    "id": "n64271",
+    "id": "n64272",
     "igdbId": 3604,
     "gbId": 15248,
     "gbGuid": "3030-15248",
@@ -9768,7 +9835,7 @@
   },
   {
     "name": "Star Wars: Episode I - Battle for Naboo",
-    "id": "n64272",
+    "id": "n64273",
     "igdbId": 156,
     "gbId": 8114,
     "gbGuid": "3030-8114",
@@ -9808,7 +9875,7 @@
   },
   {
     "name": "Star Wars: Episode I - Racer",
-    "id": "n64273",
+    "id": "n64274",
     "igdbId": 154,
     "gbId": 13526,
     "gbGuid": "3030-13526",
@@ -9848,7 +9915,7 @@
   },
   {
     "name": "Star Wars: Rogue Squadron",
-    "id": "n64274",
+    "id": "n64275",
     "igdbId": 163,
     "gbId": 4011,
     "gbGuid": "3030-4011",
@@ -9901,7 +9968,7 @@
   },
   {
     "name": "Star Wars: Shadows of the Empire",
-    "id": "n64275",
+    "id": "n64276",
     "igdbId": 164,
     "gbId": 12139,
     "gbGuid": "3030-12139",
@@ -9928,7 +9995,7 @@
   },
   {
     "name": "StarCraft 64",
-    "id": "n64276",
+    "id": "n64277",
     "igdbId": 9067,
     "gbId": 13062,
     "gbGuid": "3030-13062",
@@ -9968,7 +10035,7 @@
   },
   {
     "name": "Stunt Racer 64",
-    "id": "n64277",
+    "id": "n64278",
     "igdbId": 3606,
     "gbId": 12060,
     "gbGuid": "3030-12060",
@@ -10006,7 +10073,7 @@
   },
   {
     "name": "Super B-Daman Battle Phoenix 64",
-    "id": "n64278",
+    "id": "n64279",
     "igdbId": 3607,
     "gbId": 30959,
     "gbGuid": "3030-30959",
@@ -10030,7 +10097,7 @@
   },
   {
     "name": "Super Bowling",
-    "id": "n64279",
+    "id": "n64280",
     "igdbId": 3344,
     "gbId": 5847,
     "gbGuid": "3030-5847",
@@ -10070,7 +10137,7 @@
   },
   {
     "name": "Super Mario 64",
-    "id": "n64280",
+    "id": "n64281",
     "igdbId": 1074,
     "gbId": 2931,
     "gbGuid": "3030-2931",
@@ -10094,7 +10161,7 @@
   },
   {
     "name": "Super Mario 64",
-    "id": "n64281",
+    "id": "n64282",
     "igdbId": 132642,
     "gbId": 2931,
     "gbGuid": "3030-2931",
@@ -10134,7 +10201,7 @@
   },
   {
     "name": "Super Robot Spirits",
-    "id": "n64282",
+    "id": "n64283",
     "igdbId": 3608,
     "gbId": null,
     "gbGuid": null,
@@ -10158,7 +10225,7 @@
   },
   {
     "name": "Super Robot Wars 64",
-    "id": "n64283",
+    "id": "n64284",
     "igdbId": 3609,
     "gbId": 23088,
     "gbGuid": "3030-23088",
@@ -10181,7 +10248,7 @@
   },
   {
     "name": "Super Smash Bros.",
-    "id": "n64284",
+    "id": "n64285",
     "igdbId": 1626,
     "gbId": 19125,
     "gbGuid": "3030-19125",
@@ -10234,7 +10301,7 @@
   },
   {
     "name": "Supercross 2000",
-    "id": "n64285",
+    "id": "n64286",
     "igdbId": 3610,
     "gbId": 12092,
     "gbGuid": "3030-12092",
@@ -10261,7 +10328,7 @@
   },
   {
     "name": "Superman",
-    "id": "n64286",
+    "id": "n64287",
     "igdbId": 3005,
     "gbId": 20702,
     "gbGuid": "3030-20702",
@@ -10312,7 +10379,7 @@
   },
   {
     "name": "Tetris 64",
-    "id": "n64287",
+    "id": "n64288",
     "igdbId": 3346,
     "gbId": 26861,
     "gbGuid": "3030-26861",
@@ -10336,7 +10403,7 @@
   },
   {
     "name": "Tetrisphere",
-    "id": "n64288",
+    "id": "n64289",
     "igdbId": 3612,
     "gbId": 3049,
     "gbGuid": "3030-3049",
@@ -10360,7 +10427,7 @@
   },
   {
     "name": "The Legend of Zelda: Majora's Mask",
-    "id": "n64289",
+    "id": "n64290",
     "igdbId": 1030,
     "gbId": 13594,
     "gbGuid": "3030-13594",
@@ -10400,7 +10467,7 @@
   },
   {
     "name": "The Legend of Zelda: Ocarina of Time",
-    "id": "n64290",
+    "id": "n64291",
     "igdbId": 1029,
     "gbId": 12572,
     "gbGuid": "3030-12572",
@@ -10440,7 +10507,7 @@
   },
   {
     "name": "The New Tetris",
-    "id": "n64291",
+    "id": "n64292",
     "igdbId": 3339,
     "gbId": 1737,
     "gbGuid": "3030-1737",
@@ -10478,7 +10545,7 @@
   },
   {
     "name": "Tom Clancy's Rainbow Six",
-    "id": "n64292",
+    "id": "n64293",
     "igdbId": 1842,
     "gbId": 7887,
     "gbGuid": "3030-7887",
@@ -10505,7 +10572,7 @@
   },
   {
     "name": "Tom and Jerry in Fists of Furry",
-    "id": "n64293",
+    "id": "n64294",
     "igdbId": 2714,
     "gbId": 8995,
     "gbGuid": "3030-8995",
@@ -10532,7 +10599,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater",
-    "id": "n64294",
+    "id": "n64295",
     "igdbId": 210451,
     "gbId": 7236,
     "gbGuid": "3030-7236",
@@ -10572,7 +10639,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater 2",
-    "id": "n64295",
+    "id": "n64296",
     "igdbId": 913,
     "gbId": 990,
     "gbGuid": "3030-990",
@@ -10612,7 +10679,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater 3",
-    "id": "n64296",
+    "id": "n64297",
     "igdbId": 194213,
     "gbId": 5688,
     "gbGuid": "3030-5688",
@@ -10652,7 +10719,7 @@
   },
   {
     "name": "Top Gear Hyper-Bike",
-    "id": "n64297",
+    "id": "n64298",
     "igdbId": 3615,
     "gbId": 9586,
     "gbGuid": "3030-9586",
@@ -10703,7 +10770,7 @@
   },
   {
     "name": "Top Gear Overdrive",
-    "id": "n64298",
+    "id": "n64299",
     "igdbId": 3616,
     "gbId": 15563,
     "gbGuid": "3030-15563",
@@ -10767,7 +10834,7 @@
   },
   {
     "name": "Top Gear Rally",
-    "id": "n64299",
+    "id": "n64300",
     "igdbId": 3617,
     "gbId": 9838,
     "gbGuid": "3030-9838",
@@ -10794,7 +10861,7 @@
   },
   {
     "name": "Top Gear Rally 2",
-    "id": "n64300",
+    "id": "n64301",
     "igdbId": 3618,
     "gbId": 9706,
     "gbGuid": "3030-9706",
@@ -10858,7 +10925,7 @@
   },
   {
     "name": "Toy Story 2: Buzz Lightyear to the Rescue!",
-    "id": "n64301",
+    "id": "n64302",
     "igdbId": 3619,
     "gbId": 7301,
     "gbGuid": "3030-7301",
@@ -10885,7 +10952,7 @@
   },
   {
     "name": "Transformers: Beast Wars Transmetals",
-    "id": "n64302",
+    "id": "n64303",
     "igdbId": 3620,
     "gbId": 5394,
     "gbGuid": "3030-5394",
@@ -10912,7 +10979,7 @@
   },
   {
     "name": "Triple Play 2000",
-    "id": "n64303",
+    "id": "n64304",
     "igdbId": 3621,
     "gbId": 14025,
     "gbGuid": "3030-14025",
@@ -10939,7 +11006,7 @@
   },
   {
     "name": "True Golf Classics: Waialae Country Club",
-    "id": "n64304",
+    "id": "n64305",
     "igdbId": 3627,
     "gbId": 22798,
     "gbGuid": "3030-22798",
@@ -10977,7 +11044,7 @@
   },
   {
     "name": "Turok 2: Seeds of Evil",
-    "id": "n64305",
+    "id": "n64306",
     "igdbId": 1326,
     "gbId": 7052,
     "gbGuid": "3030-7052",
@@ -11043,7 +11110,7 @@
   },
   {
     "name": "Turok 3: Shadow of Oblivion",
-    "id": "n64306",
+    "id": "n64307",
     "igdbId": 1328,
     "gbId": 10047,
     "gbGuid": "3030-10047",
@@ -11107,7 +11174,7 @@
   },
   {
     "name": "Turok: Dinosaur Hunter",
-    "id": "n64307",
+    "id": "n64308",
     "igdbId": 1321,
     "gbId": 14614,
     "gbGuid": "3030-14614",
@@ -11134,7 +11201,7 @@
   },
   {
     "name": "Turok: Rage Wars",
-    "id": "n64308",
+    "id": "n64309",
     "igdbId": 1327,
     "gbId": 7962,
     "gbGuid": "3030-7962",
@@ -11198,7 +11265,7 @@
   },
   {
     "name": "Twisted Edge Extreme Snowboarding",
-    "id": "n64309",
+    "id": "n64310",
     "igdbId": 3622,
     "gbId": 565,
     "gbGuid": "3030-565",
@@ -11236,7 +11303,7 @@
   },
   {
     "name": "Ucchannanchan no Honō no Challenger: Denryū Iraira Bō",
-    "id": "n64310",
+    "id": "n64311",
     "igdbId": 3623,
     "gbId": 33849,
     "gbGuid": "3030-33849",
@@ -11259,7 +11326,7 @@
   },
   {
     "name": "V-Rally Edition '99",
-    "id": "n64311",
+    "id": "n64312",
     "igdbId": 10621,
     "gbId": null,
     "gbGuid": null,
@@ -11286,7 +11353,7 @@
   },
   {
     "name": "Vigilante 8",
-    "id": "n64312",
+    "id": "n64313",
     "igdbId": 3332,
     "gbId": 13200,
     "gbGuid": "3030-13200",
@@ -11326,7 +11393,7 @@
   },
   {
     "name": "Vigilante 8: 2nd Offense",
-    "id": "n64313",
+    "id": "n64314",
     "igdbId": 3333,
     "gbId": 7468,
     "gbGuid": "3030-7468",
@@ -11366,7 +11433,7 @@
   },
   {
     "name": "Virtual Chess 64",
-    "id": "n64314",
+    "id": "n64315",
     "igdbId": 3334,
     "gbId": 14771,
     "gbGuid": "3030-14771",
@@ -11404,7 +11471,7 @@
   },
   {
     "name": "Virtual Pool 64",
-    "id": "n64315",
+    "id": "n64316",
     "igdbId": 3624,
     "gbId": 22795,
     "gbGuid": "3030-22795",
@@ -11428,7 +11495,7 @@
   },
   {
     "name": "Virtual Pro Wrestling 2: Oudou Keishou",
-    "id": "n64316",
+    "id": "n64317",
     "igdbId": 3625,
     "gbId": 23213,
     "gbGuid": "3030-23213",
@@ -11466,7 +11533,7 @@
   },
   {
     "name": "Virtual Pro Wrestling 64",
-    "id": "n64317",
+    "id": "n64318",
     "igdbId": 3626,
     "gbId": 23212,
     "gbGuid": "3030-23212",
@@ -11504,7 +11571,7 @@
   },
   {
     "name": "WCW Backstage Assault",
-    "id": "n64318",
+    "id": "n64319",
     "igdbId": 3632,
     "gbId": 10286,
     "gbGuid": "3030-10286",
@@ -11531,7 +11598,7 @@
   },
   {
     "name": "WCW Mayhem",
-    "id": "n64319",
+    "id": "n64320",
     "igdbId": 3633,
     "gbId": 1204,
     "gbGuid": "3030-1204",
@@ -11571,7 +11638,7 @@
   },
   {
     "name": "WCW Nitro",
-    "id": "n64320",
+    "id": "n64321",
     "igdbId": 3634,
     "gbId": 7908,
     "gbGuid": "3030-7908",
@@ -11611,7 +11678,7 @@
   },
   {
     "name": "WCW Vs. nWo: World Tour",
-    "id": "n64321",
+    "id": "n64322",
     "igdbId": 3635,
     "gbId": 14786,
     "gbGuid": "3030-14786",
@@ -11675,7 +11742,7 @@
   },
   {
     "name": "WCW/nWo Revenge",
-    "id": "n64322",
+    "id": "n64323",
     "igdbId": 3636,
     "gbId": 18320,
     "gbGuid": "3030-18320",
@@ -11726,7 +11793,7 @@
   },
   {
     "name": "WWF Attitude",
-    "id": "n64323",
+    "id": "n64324",
     "igdbId": 3643,
     "gbId": 16435,
     "gbGuid": "3030-16435",
@@ -11766,7 +11833,7 @@
   },
   {
     "name": "WWF No Mercy",
-    "id": "n64324",
+    "id": "n64325",
     "igdbId": 3644,
     "gbId": 11394,
     "gbGuid": "3030-11394",
@@ -11817,7 +11884,7 @@
   },
   {
     "name": "WWF War Zone",
-    "id": "n64325",
+    "id": "n64326",
     "igdbId": 3645,
     "gbId": 18801,
     "gbGuid": "3030-18801",
@@ -11857,7 +11924,7 @@
   },
   {
     "name": "WWF WrestleMania 2000",
-    "id": "n64326",
+    "id": "n64327",
     "igdbId": 3646,
     "gbId": 3667,
     "gbGuid": "3030-3667",
@@ -11897,7 +11964,7 @@
   },
   {
     "name": "Wave Race 64",
-    "id": "n64327",
+    "id": "n64328",
     "igdbId": 3629,
     "gbId": 11969,
     "gbGuid": "3030-11969",
@@ -11937,7 +12004,7 @@
   },
   {
     "name": "Wayne Gretzky's 3D Hockey",
-    "id": "n64328",
+    "id": "n64329",
     "igdbId": 3630,
     "gbId": 20062,
     "gbGuid": "3030-20062",
@@ -11964,7 +12031,7 @@
   },
   {
     "name": "Wayne Gretzky's 3D Hockey '98",
-    "id": "n64329",
+    "id": "n64330",
     "igdbId": 3631,
     "gbId": 22796,
     "gbGuid": "3030-22796",
@@ -11991,7 +12058,7 @@
   },
   {
     "name": "Wheel of Fortune",
-    "id": "n64330",
+    "id": "n64331",
     "igdbId": 142026,
     "gbId": 25501,
     "gbGuid": "3030-25501",
@@ -12031,7 +12098,7 @@
   },
   {
     "name": "WinBack: Covert Operations",
-    "id": "n64331",
+    "id": "n64332",
     "igdbId": 47680,
     "gbId": 15774,
     "gbGuid": "3030-15774",
@@ -12071,7 +12138,7 @@
   },
   {
     "name": "Wipeout 64",
-    "id": "n64332",
+    "id": "n64333",
     "igdbId": 1539,
     "gbId": 12064,
     "gbGuid": "3030-12064",
@@ -12122,7 +12189,7 @@
   },
   {
     "name": "Wonder Project J2",
-    "id": "n64333",
+    "id": "n64334",
     "igdbId": 47748,
     "gbId": 29874,
     "gbGuid": "3030-29874",
@@ -12146,7 +12213,7 @@
   },
   {
     "name": "World Cup 98",
-    "id": "n64334",
+    "id": "n64335",
     "igdbId": 3641,
     "gbId": 12771,
     "gbGuid": "3030-12771",
@@ -12173,7 +12240,7 @@
   },
   {
     "name": "World Driver Championship",
-    "id": "n64335",
+    "id": "n64336",
     "igdbId": 3642,
     "gbId": 10150,
     "gbGuid": "3030-10150",
@@ -12211,7 +12278,7 @@
   },
   {
     "name": "World League Soccer 2000",
-    "id": "n64336",
+    "id": "n64337",
     "igdbId": 72820,
     "gbId": 22797,
     "gbGuid": "3030-22797",
@@ -12238,7 +12305,7 @@
   },
   {
     "name": "Worms Armageddon",
-    "id": "n64337",
+    "id": "n64338",
     "igdbId": 948,
     "gbId": 17255,
     "gbGuid": "3030-17255",
@@ -12265,7 +12332,7 @@
   },
   {
     "name": "Xena: Warrior Princess - The Talisman of Fate",
-    "id": "n64338",
+    "id": "n64339",
     "igdbId": 3647,
     "gbId": 8939,
     "gbGuid": "3030-8939",
@@ -12329,7 +12396,7 @@
   },
   {
     "name": "Yoshi's Story",
-    "id": "n64339",
+    "id": "n64340",
     "igdbId": 3213,
     "gbId": 15207,
     "gbGuid": "3030-15207",
@@ -12369,7 +12436,7 @@
   },
   {
     "name": "Zoor: Majuu Tsukai Densetsu",
-    "id": "n64340",
+    "id": "n64341",
     "igdbId": 3650,
     "gbId": null,
     "gbGuid": null,

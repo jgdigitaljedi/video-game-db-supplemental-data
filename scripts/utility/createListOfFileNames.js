@@ -12,6 +12,7 @@ const dirs = [
   'regionLock',
   'special',
   'XboxBc',
+  'peripheral',
   'misprintsAndErrors/accessories',
   'misprintsAndErrors/games',
   'misprintsAndErrors/platforms'

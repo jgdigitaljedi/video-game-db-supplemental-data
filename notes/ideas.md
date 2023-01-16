@@ -2,8 +2,7 @@
 
 ## Games
 
-- Xbox Series X|S backward compatibility lists
-- games that come with their own unique controller
+- games that come with their own unique controller or other peripherals
 - Epoch Cassette Vision light gun games
 - V.Smile mic games (https://vtech.fandom.com/wiki/V.Smile#Accessories)
 - V.Smile Art Studio Drawing Pad games (https://vtech.fandom.com/wiki/V.Smile#Accessories)

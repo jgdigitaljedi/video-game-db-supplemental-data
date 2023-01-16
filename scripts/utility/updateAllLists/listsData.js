@@ -91,7 +91,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'multiplayer/n64_3playerGames.json')),
       require(path.resolve(smallFiles, 'multiplayer/n64_4playerGames.json')),
       require(path.resolve(smallFiles, 'special/n64ExpansionPakGames.json')),
-      require(path.resolve(smallFiles, 'special/nintendo64RumblePakGames.json'))
+      require(path.resolve(smallFiles, 'special/nintendo64RumblePakGames.json')),
+      require(path.resolve(smallFiles, 'peripheral/n64GamesThatCameWithPeripherals.json'))
     ],
     output: path.resolve(consoleLists, 'Nintendo64.json')
   },
@@ -321,7 +322,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'multiplayer/saturnMultiplayerAdapter.json')),
       require(path.resolve(smallFiles, 'special/segaSaturnLightGunGames.json')),
       require(path.resolve(smallFiles, 'special/segaSaturnRamCartGames.json')),
-      require(path.resolve(smallFiles, 'special/segaSaturnVcdCardGames.json'))
+      require(path.resolve(smallFiles, 'special/segaSaturnVcdCardGames.json')),
+      require(path.resolve(smallFiles, 'peripheral/segaSaturnGamesThatCameWithPeripherals.json'))
     ],
     output: path.resolve(consoleLists, 'SegaSaturn.json')
   },

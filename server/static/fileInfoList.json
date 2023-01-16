@@ -1562,5 +1562,17 @@
     "filePath": "../textFilesToBeConverted/special/pcEngineGamesEnhancedOnSupergrafx.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Sega Saturn games that came with peripherals",
+    "filePath": "../textFilesToBeConverted/peripheral/segaSaturnGamesThatCameWithPeripherals.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "N64 games that came with peripherals",
+    "filePath": "../textFilesToBeConverted/peripheral/n64GamesThatCameWithPeripherals.json",
+    "type": "Game",
+    "complete": true
   }
 ]

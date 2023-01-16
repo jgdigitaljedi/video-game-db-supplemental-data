@@ -282,3 +282,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 - rs2bi - RCA Studio II built-in games (rcaStudio2BuiltInGames.json | GAMES LIST)
 - smsbi - Sega Master System built-in games (segaMasterSystemBuiltInGames.json | GAMES LIST)
 - tgcbi - Tiger Game.com built-in games (tigerGameComBuiltInGames.json | GAMES LIST)
+
+### Pertaining to peripherals in some way
+
+- n64bpX - N64 games bundled with peripheralss (n64GamesThatCameWithPeripherals.json | GAMES LIST)
+- ssciX - Sega Saturn games bundled with peripheralss (segaSaturnGamesThatCameWithPeripherals.json | GAMES LIST)

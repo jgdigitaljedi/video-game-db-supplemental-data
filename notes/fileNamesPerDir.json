@@ -272,6 +272,12 @@
     ]
   },
   {
+    "peripheral": [
+      "n64GamesThatCameWithPeripherals",
+      "segaSaturnGamesThatCameWithPeripherals"
+    ]
+  },
+  {
     "misprintsAndErrors/accessories": [
       "n64AccMisprintsAndErrors",
       "nesAccMisprintsAndErrors",
@@ -436,6 +442,7 @@
       "multiplayerAdapters",
       "n64AccMisprintsAndErrors",
       "n64ExpansionPakGames",
+      "n64GamesThatCameWithPeripherals",
       "n64LaunchTitles",
       "n64MisprintsAndErrors",
       "n64_3playerGames",
@@ -549,6 +556,7 @@
       "segaMasterSystemPhaserGames",
       "segaMenacerGenesisGames",
       "segaSaturnExclusives",
+      "segaSaturnGamesThatCameWithPeripherals",
       "segaSaturnLaunchTitles",
       "segaSaturnLightGunGames",
       "segaSaturnRamCartGames",

@@ -302,6 +302,11 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sega Master System built-in games
 - Tiger Game.com built-in games
 
+### Games that were bundled with peripherals
+
+- N64 games bundled with peripherals
+- Sega Saturn games bundled with peripherals (exclusing ROM carts as they are in another list)
+
 ### Misc (Special directory)
 
 - games banned in various countries with the reason for the ban
@@ -437,7 +442,7 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan. I think some of this is lost in translation.
 
 There are 918 data points for platforms/consoles.
-Out of 17148 games data points collected so far, the APIs are missing data the following number of games:
+Out of 17153 games data points collected so far, the APIs are missing data the following number of games:
 
 - Missing from all APIs: 1493 (9%)
 - IGDB: 1667 (10%)

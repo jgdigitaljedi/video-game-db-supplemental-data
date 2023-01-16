@@ -20,6 +20,7 @@
     "fix:missing": "node scripts/utility/findEntriesMissingAll.js",
     "fix:numbered": "node scripts/utility/cleanNumberedList.js",
     "fix:dump": "node scripts/utility/formatStringDump.js",
+    "formatMissing": "node scripts/utility/fillMissingData.js",
     "updateAll": "node scripts/utility/updateAllLists/updateAllLists.js",
     "updatePlatforms": "node scripts/utility/updateAllLists/updateConsoleLists.js",
     "platformInfo": "node scripts/utility/getPlatformInfo/getPlatformInfo.js"
