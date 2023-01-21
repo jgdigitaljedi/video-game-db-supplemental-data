@@ -1,7 +1,61 @@
 [
   {
-    "name": "Action Man: Search For Base X",
+    "name": "10-Pin Bowling",
     "id": "ngbc0",
+    "igdbId": 92273,
+    "gbId": 34501,
+    "gbGuid": "3030-34501",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "3-D Ultra Pinball: Thrillride",
+    "id": "ngbc1",
+    "igdbId": 49881,
+    "gbId": 5772,
+    "gbGuid": "3030-5772",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Action Man: Search For Base X",
+    "id": "ngbc2",
     "igdbId": 49868,
     "gbId": 27310,
     "gbGuid": "3030-27310",
@@ -25,7 +79,7 @@
   },
   {
     "name": "Aliens: Thanatos Encounter",
-    "id": "ngbc1",
+    "id": "ngbc3",
     "igdbId": 49863,
     "gbId": 36362,
     "gbGuid": "3030-36362",
@@ -49,7 +103,7 @@
   },
   {
     "name": "Animorphs",
-    "id": "ngbc2",
+    "id": "ngbc4",
     "igdbId": 70497,
     "gbId": 18970,
     "gbGuid": "3030-18970",
@@ -73,7 +127,7 @@
   },
   {
     "name": "Antz",
-    "id": "ngbc3",
+    "id": "ngbc5",
     "igdbId": 94622,
     "gbId": 17388,
     "gbGuid": "3030-17388",
@@ -97,7 +151,7 @@
   },
   {
     "name": "Antz Racing",
-    "id": "ngbc4",
+    "id": "ngbc6",
     "igdbId": 71725,
     "gbId": 4481,
     "gbGuid": "3030-4481",
@@ -121,7 +175,7 @@
   },
   {
     "name": "Austin Powers: Oh, Behave!",
-    "id": "ngbc5",
+    "id": "ngbc7",
     "igdbId": 49890,
     "gbId": 13730,
     "gbGuid": "3030-13730",
@@ -145,7 +199,7 @@
   },
   {
     "name": "Austin Powers: Welcome to my Underground Lair!",
-    "id": "ngbc6",
+    "id": "ngbc8",
     "igdbId": 18385,
     "gbId": 2084,
     "gbGuid": "3030-2084",
@@ -169,7 +223,7 @@
   },
   {
     "name": "Barbie: Magic Genie Adventure",
-    "id": "ngbc7",
+    "id": "ngbc9",
     "igdbId": 45167,
     "gbId": 35326,
     "gbGuid": "3030-35326",
@@ -192,8 +246,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Barcode Taisen Bardigun",
+    "id": "ngbc10",
+    "igdbId": 92607,
+    "gbId": 36468,
+    "gbGuid": "3030-36468",
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Batman: Chaos in Gotham",
-    "id": "ngbc8",
+    "id": "ngbc11",
     "igdbId": 45201,
     "gbId": 14037,
     "gbGuid": "3030-14037",
@@ -217,7 +298,7 @@
   },
   {
     "name": "Blade",
-    "id": "ngbc9",
+    "id": "ngbc12",
     "igdbId": 122191,
     "gbId": 12785,
     "gbGuid": "3030-12785",
@@ -241,7 +322,7 @@
   },
   {
     "name": "Bomberman B-Daman Bakugaiden",
-    "id": "ngbc10",
+    "id": "ngbc13",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -264,7 +345,7 @@
   },
   {
     "name": "Bomberman B-Daman Bakugaiden V",
-    "id": "ngbc11",
+    "id": "ngbc14",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -287,7 +368,7 @@
   },
   {
     "name": "Bomberman Max",
-    "id": "ngbc12",
+    "id": "ngbc15",
     "igdbId": null,
     "gbId": 14198,
     "gbGuid": "3030-14198",
@@ -310,7 +391,7 @@
   },
   {
     "name": "Bomberman Quest",
-    "id": "ngbc13",
+    "id": "ngbc16",
     "igdbId": 49837,
     "gbId": 24675,
     "gbGuid": "3030-24675",
@@ -334,7 +415,7 @@
   },
   {
     "name": "Buffy the Vampire Slayer",
-    "id": "ngbc14",
+    "id": "ngbc17",
     "igdbId": 5760,
     "gbId": 39038,
     "gbGuid": "3030-39038",
@@ -358,7 +439,7 @@
   },
   {
     "name": "Bugs Bunny & Lola Bunny: Operation Carrot Patch",
-    "id": "ngbc15",
+    "id": "ngbc18",
     "igdbId": 50553,
     "gbId": null,
     "gbGuid": null,
@@ -382,7 +463,7 @@
   },
   {
     "name": "Bust-A-Move Millennium",
-    "id": "ngbc16",
+    "id": "ngbc19",
     "igdbId": 49836,
     "gbId": 13468,
     "gbGuid": "3030-13468",
@@ -405,8 +486,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Cardcaptor Sakura: Itsumo Sakura-chan to Issho!",
+    "id": "ngbc20",
+    "igdbId": 65641,
+    "gbId": 36556,
+    "gbGuid": "3030-36556",
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Carmageddon",
-    "id": "ngbc17",
+    "id": "ngbc21",
     "igdbId": 626,
     "gbId": 18394,
     "gbGuid": "3030-18394",
@@ -436,7 +544,7 @@
   },
   {
     "name": "Centipede",
-    "id": "ngbc18",
+    "id": "ngbc22",
     "igdbId": 2235,
     "gbId": 1157,
     "gbGuid": "3030-1157",
@@ -460,12 +568,13 @@
   },
   {
     "name": "Chee-Chai Alien",
-    "id": "ngbc19",
+    "id": "ngbc23",
     "igdbId": 79920,
     "gbId": 36567,
     "gbGuid": "3030-36567",
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
     ],
     "isExclusive": [
       {
@@ -478,12 +587,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Commander Keen",
-    "id": "ngbc20",
+    "id": "ngbc24",
     "igdbId": 2447,
     "gbId": 21209,
     "gbGuid": "3030-21209",
@@ -507,7 +629,7 @@
   },
   {
     "name": "Conker's Pocket Tales",
-    "id": "ngbc21",
+    "id": "ngbc25",
     "igdbId": 1424,
     "gbId": 19873,
     "gbGuid": "3030-19873",
@@ -531,7 +653,7 @@
   },
   {
     "name": "Croc",
-    "id": "ngbc22",
+    "id": "ngbc26",
     "igdbId": 7901,
     "gbId": 9450,
     "gbGuid": "3030-9450",
@@ -555,7 +677,7 @@
   },
   {
     "name": "Daikatana",
-    "id": "ngbc23",
+    "id": "ngbc27",
     "igdbId": 8201,
     "gbId": 20806,
     "gbGuid": "3030-20806",
@@ -579,7 +701,7 @@
   },
   {
     "name": "Dexter's Laboratory: Robot Rampage",
-    "id": "ngbc24",
+    "id": "ngbc28",
     "igdbId": 2815,
     "gbId": 10470,
     "gbGuid": "3030-10470",
@@ -603,7 +725,7 @@
   },
   {
     "name": "Dinosaur'us",
-    "id": "ngbc25",
+    "id": "ngbc29",
     "igdbId": 65584,
     "gbId": 36725,
     "gbGuid": "3030-36725",
@@ -627,7 +749,7 @@
   },
   {
     "name": "Disney's Beauty and the Beast: A Board Game Adventure",
-    "id": "ngbc26",
+    "id": "ngbc30",
     "igdbId": 65583,
     "gbId": 36727,
     "gbGuid": "3030-36727",
@@ -651,7 +773,7 @@
   },
   {
     "name": "Disney's Doug: Doug's Big Game",
-    "id": "ngbc27",
+    "id": "ngbc31",
     "igdbId": 49942,
     "gbId": 36730,
     "gbGuid": "3030-36730",
@@ -675,7 +797,7 @@
   },
   {
     "name": "Disney's The Emperor's New Groove",
-    "id": "ngbc28",
+    "id": "ngbc32",
     "igdbId": 74426,
     "gbId": 22282,
     "gbGuid": "3030-22282",
@@ -699,13 +821,14 @@
   },
   {
     "name": "Disney's The Little Mermaid II: Pinball Frenzy",
-    "id": "ngbc29",
+    "id": "ngbc33",
     "igdbId": 49919,
     "gbId": 6723,
     "gbGuid": "3030-6723",
     "tgdbId": 22016,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
     ],
     "isExclusive": [
       {
@@ -718,12 +841,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Diva Starz: Mall Mania",
-    "id": "ngbc30",
+    "id": "ngbc34",
     "igdbId": 49893,
     "gbId": 7805,
     "gbGuid": "3030-7805",
@@ -747,7 +883,7 @@
   },
   {
     "name": "Dokapon?! Millennium Quest",
-    "id": "ngbc31",
+    "id": "ngbc35",
     "igdbId": 65546,
     "gbId": null,
     "gbGuid": null,
@@ -770,7 +906,7 @@
   },
   {
     "name": "Dragon Ball Z: Legendary Super Warriors",
-    "id": "ngbc32",
+    "id": "ngbc36",
     "igdbId": 49856,
     "gbId": 23426,
     "gbGuid": "3030-23426",
@@ -793,8 +929,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "E.T. The Extra-Terrestrial: Digital Companion",
+    "id": "ngbc37",
+    "igdbId": 49938,
+    "gbId": 21919,
+    "gbGuid": "3030-21919",
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Elevator Action EX",
-    "id": "ngbc33",
+    "id": "ngbc38",
     "igdbId": 50017,
     "gbId": 15009,
     "gbGuid": "3030-15009",
@@ -818,7 +981,7 @@
   },
   {
     "name": "Ferret Monogatari: Watashi no Okini Iri",
-    "id": "ngbc34",
+    "id": "ngbc39",
     "igdbId": 65512,
     "gbId": 36968,
     "gbGuid": "3030-36968",
@@ -841,7 +1004,7 @@
   },
   {
     "name": "Fort Boyard",
-    "id": "ngbc35",
+    "id": "ngbc40",
     "igdbId": 50030,
     "gbId": 8628,
     "gbGuid": "3030-8628",
@@ -865,7 +1028,7 @@
   },
   {
     "name": "Game & Watch Gallery 2",
-    "id": "ngbc36",
+    "id": "ngbc41",
     "igdbId": 74423,
     "gbId": 9957,
     "gbGuid": "3030-9957",
@@ -889,7 +1052,7 @@
   },
   {
     "name": "Game Boy Wars",
-    "id": "ngbc37",
+    "id": "ngbc42",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -913,7 +1076,7 @@
   },
   {
     "name": "Ganbare Goemon: Hoshizorashi Dynamites Arawaru!!",
-    "id": "ngbc38",
+    "id": "ngbc43",
     "igdbId": 50053,
     "gbId": 17712,
     "gbGuid": "3030-17712",
@@ -937,7 +1100,7 @@
   },
   {
     "name": "Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou!",
-    "id": "ngbc39",
+    "id": "ngbc44",
     "igdbId": null,
     "gbId": 9454,
     "gbGuid": "3030-9454",
@@ -960,7 +1123,7 @@
   },
   {
     "name": "Ganbare Goemon: Tengu-to no Gyuakushu!",
-    "id": "ngbc40",
+    "id": "ngbc45",
     "igdbId": null,
     "gbId": 5971,
     "gbGuid": "3030-5971",
@@ -982,8 +1145,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Get Mushi Club: Minna no Konchuu Daizukan",
+    "id": "ngbc46",
+    "igdbId": 153816,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Grandia: Parallel Trippers",
-    "id": "ngbc41",
+    "id": "ngbc47",
     "igdbId": 21659,
     "gbId": 8096,
     "gbGuid": "3030-8096",
@@ -1007,7 +1197,7 @@
   },
   {
     "name": "Hamtaro: Ham-Hams Unite!",
-    "id": "ngbc42",
+    "id": "ngbc48",
     "igdbId": 22228,
     "gbId": 5033,
     "gbGuid": "3030-5033",
@@ -1031,7 +1221,7 @@
   },
   {
     "name": "Heroes of Might and Magic",
-    "id": "ngbc43",
+    "id": "ngbc49",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1055,7 +1245,7 @@
   },
   {
     "name": "Hexcite: The Shapes of Victory (PAL)",
-    "id": "ngbc44",
+    "id": "ngbc50",
     "igdbId": 49925,
     "gbId": 871,
     "gbGuid": "3030-871",
@@ -1072,8 +1262,35 @@
     ]
   },
   {
+    "name": "Hole in One Golf",
+    "id": "ngbc51",
+    "igdbId": 49924,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Hoyle Card Games",
-    "id": "ngbc45",
+    "id": "ngbc52",
     "igdbId": 77395,
     "gbId": 541,
     "gbGuid": "3030-541",
@@ -1097,7 +1314,7 @@
   },
   {
     "name": "Hype: The Time Quest",
-    "id": "ngbc46",
+    "id": "ngbc53",
     "igdbId": 43559,
     "gbId": 29124,
     "gbGuid": "3030-29124",
@@ -1121,7 +1338,7 @@
   },
   {
     "name": "Inspector Gadget: Operation Madkactus",
-    "id": "ngbc47",
+    "id": "ngbc54",
     "igdbId": 4862,
     "gbId": 36316,
     "gbGuid": "3030-36316",
@@ -1145,7 +1362,7 @@
   },
   {
     "name": "Invincible King Tri-Zenon",
-    "id": "ngbc48",
+    "id": "ngbc55",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1167,8 +1384,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Kandume Monsters",
+    "id": "ngbc56",
+    "igdbId": 228571,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Keitai Denjuu Telefang",
-    "id": "ngbc49",
+    "id": "ngbc57",
     "igdbId": null,
     "gbId": 40423,
     "gbGuid": "3030-40423",
@@ -1190,8 +1434,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Keitai Denjuu Telefang: Power",
+    "id": "ngbc58",
+    "igdbId": 27493,
+    "gbId": 40423,
+    "gbGuid": "3030-40423",
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kettō Transformers Beast Wars: Beast Senshi Saikyō Ketteisen",
-    "id": "ngbc50",
+    "id": "ngbc59",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1214,13 +1485,14 @@
   },
   {
     "name": "Kirby Tilt 'n' Tumble",
-    "id": "ngbc51",
+    "id": "ngbc60",
     "igdbId": 3729,
     "gbId": 2297,
     "gbGuid": "3030-2297",
     "tgdbId": 8623,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "Game Boy Color cartridge has built in tilt sensor that is used in the game"
     ],
     "isExclusive": [
       {
@@ -1233,12 +1505,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in tilt sensor that is used in the game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Las Vegas Cool Hand",
-    "id": "ngbc52",
+    "id": "ngbc61",
     "igdbId": 50011,
     "gbId": 36609,
     "gbGuid": "3030-36609",
@@ -1261,8 +1546,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Legend of the River King 2",
+    "id": "ngbc62",
+    "igdbId": 20516,
+    "gbId": 18654,
+    "gbGuid": "3030-18654",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game (Japanese version)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game (Japanese version)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Lil' Monster",
-    "id": "ngbc53",
+    "id": "ngbc63",
     "igdbId": 49920,
     "gbId": 49363,
     "gbGuid": "3030-49363",
@@ -1286,7 +1598,7 @@
   },
   {
     "name": "Little Nicky",
-    "id": "ngbc54",
+    "id": "ngbc64",
     "igdbId": 50010,
     "gbId": 22865,
     "gbGuid": "3030-22865",
@@ -1310,7 +1622,7 @@
   },
   {
     "name": "Looney Tunes Collector: Alert!",
-    "id": "ngbc55",
+    "id": "ngbc65",
     "igdbId": 49882,
     "gbId": 30690,
     "gbGuid": "3030-30690",
@@ -1334,7 +1646,7 @@
   },
   {
     "name": "Lufia: The Legend Returns",
-    "id": "ngbc56",
+    "id": "ngbc66",
     "igdbId": 1179,
     "gbId": 17473,
     "gbGuid": "3030-17473",
@@ -1358,7 +1670,7 @@
   },
   {
     "name": "Marvin Strikes Back!",
-    "id": "ngbc57",
+    "id": "ngbc67",
     "igdbId": 49854,
     "gbId": null,
     "gbGuid": null,
@@ -1382,13 +1694,14 @@
   },
   {
     "name": "Mary-Kate and Ashley: Pocket Planner",
-    "id": "ngbc58",
+    "id": "ngbc68",
     "igdbId": 5918,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 22025,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
     ],
     "isExclusive": [
       {
@@ -1401,12 +1714,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Men in Black 2: The Series",
-    "id": "ngbc59",
+    "id": "ngbc69",
     "igdbId": 49912,
     "gbId": 36935,
     "gbGuid": "3030-36935",
@@ -1430,7 +1756,7 @@
   },
   {
     "name": "Metal Gear Solid",
-    "id": "ngbc60",
+    "id": "ngbc70",
     "igdbId": 77231,
     "gbId": 21227,
     "gbGuid": "3030-21227",
@@ -1454,7 +1780,7 @@
   },
   {
     "name": "Metal Walker",
-    "id": "ngbc61",
+    "id": "ngbc71",
     "igdbId": 49872,
     "gbId": 25437,
     "gbGuid": "3030-25437",
@@ -1478,7 +1804,7 @@
   },
   {
     "name": "Mia Hamm Soccer Shootout",
-    "id": "ngbc62",
+    "id": "ngbc72",
     "igdbId": 98004,
     "gbId": 66833,
     "gbGuid": "3030-66833",
@@ -1496,7 +1822,7 @@
   },
   {
     "name": "Mickey's Racing Adventure",
-    "id": "ngbc63",
+    "id": "ngbc73",
     "igdbId": 8128,
     "gbId": 3125,
     "gbGuid": "3030-3125",
@@ -1519,8 +1845,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Missile Command",
+    "id": "ngbc74",
+    "igdbId": 209503,
+    "gbId": 4062,
+    "gbGuid": "3030-4062",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Mission Impossible",
-    "id": "ngbc64",
+    "id": "ngbc75",
     "igdbId": 118557,
     "gbId": 1622,
     "gbGuid": "3030-1622",
@@ -1544,7 +1897,7 @@
   },
   {
     "name": "Monkey Puncher",
-    "id": "ngbc65",
+    "id": "ngbc76",
     "igdbId": 50026,
     "gbId": 24257,
     "gbGuid": "3030-24257",
@@ -1568,7 +1921,7 @@
   },
   {
     "name": "Monster Rancher Battle Card GB",
-    "id": "ngbc66",
+    "id": "ngbc77",
     "igdbId": 104241,
     "gbId": 19994,
     "gbGuid": "3030-19994",
@@ -1592,7 +1945,7 @@
   },
   {
     "name": "Monster Rancher Explorer",
-    "id": "ngbc67",
+    "id": "ngbc78",
     "igdbId": 49860,
     "gbId": 4272,
     "gbGuid": "3030-4272",
@@ -1615,8 +1968,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "NASCAR Challenge",
+    "id": "ngbc79",
+    "igdbId": 49957,
+    "gbId": 17366,
+    "gbGuid": "3030-17366",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "NBA Jam 2001",
-    "id": "ngbc68",
+    "id": "ngbc80",
     "igdbId": 49903,
     "gbId": null,
     "gbGuid": null,
@@ -1640,7 +2020,7 @@
   },
   {
     "name": "Noddy and the Birthday Party",
-    "id": "ngbc69",
+    "id": "ngbc81",
     "igdbId": 50549,
     "gbId": 65431,
     "gbGuid": "3030-65431",
@@ -1663,8 +2043,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Nushi Tsuri Adventure: Kite no Bouken",
+    "id": "ngbc82",
+    "igdbId": 50560,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "O'Leary Manager 2000",
-    "id": "ngbc70",
+    "id": "ngbc83",
     "igdbId": 50550,
     "gbId": 2035,
     "gbGuid": "3030-2035",
@@ -1688,13 +2095,14 @@
   },
   {
     "name": "Perfect Dark",
-    "id": "ngbc71",
+    "id": "ngbc84",
     "igdbId": 1464,
     "gbId": 2930,
     "gbGuid": "3030-2930",
     "tgdbId": 173,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
     ],
     "isExclusive": [
       {
@@ -1707,12 +2115,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Pitfall 3D: Beyond the Jungle",
-    "id": "ngbc72",
+    "id": "ngbc85",
     "igdbId": 49861,
     "gbId": 29263,
     "gbGuid": "3030-29263",
@@ -1736,7 +2157,7 @@
   },
   {
     "name": "Pocket Bomberman",
-    "id": "ngbc73",
+    "id": "ngbc86",
     "igdbId": 2980,
     "gbId": 23456,
     "gbGuid": "3030-23456",
@@ -1760,14 +2181,29 @@
   },
   {
     "name": "Pokémon Crystal",
-    "id": "ngbc74",
+    "id": "ngbc87",
     "igdbId": 1514,
     "gbId": 15861,
     "gbGuid": "3030-15861",
-    "details": [],
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/gameboy/pokcrystaltypo_zpsqcfnqv92.jpg",
@@ -1788,14 +2224,29 @@
   },
   {
     "name": "Pokémon Gold",
-    "id": "ngbc75",
+    "id": "ngbc88",
     "igdbId": 1558,
     "gbId": 8210,
     "gbGuid": "3030-8210",
-    "details": [],
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/gameboy/pokegold.jpg",
@@ -1811,13 +2262,14 @@
   },
   {
     "name": "Pokémon Pinball",
-    "id": "ngbc76",
+    "id": "ngbc89",
     "igdbId": 4068,
     "gbId": 19154,
     "gbGuid": "3030-19154",
     "tgdbId": 8639,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
     ],
     "isExclusive": [
       {
@@ -1830,12 +2282,79 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pokémon Silver",
+    "id": "ngbc90",
+    "igdbId": 1513,
+    "gbId": 8210,
+    "gbGuid": "3030-8210",
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Polaris SnoCross",
+    "id": "ngbc91",
+    "igdbId": 3575,
+    "gbId": 26585,
+    "gbGuid": "3030-26585",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Power Quest",
-    "id": "ngbc77",
+    "id": "ngbc92",
     "igdbId": 67765,
     "gbId": 27875,
     "gbGuid": "3030-27875",
@@ -1859,7 +2378,7 @@
   },
   {
     "name": "Power Rangers: Time Force",
-    "id": "ngbc78",
+    "id": "ngbc93",
     "igdbId": 3293,
     "gbId": null,
     "gbGuid": null,
@@ -1883,7 +2402,7 @@
   },
   {
     "name": "Project S-11",
-    "id": "ngbc79",
+    "id": "ngbc94",
     "igdbId": 49831,
     "gbId": 36958,
     "gbGuid": "3030-36958",
@@ -1907,7 +2426,7 @@
   },
   {
     "name": "Quest for Camelot",
-    "id": "ngbc80",
+    "id": "ngbc95",
     "igdbId": 49949,
     "gbId": 22909,
     "gbGuid": "3030-22909",
@@ -1931,7 +2450,7 @@
   },
   {
     "name": "Quest: Brian's Journey",
-    "id": "ngbc81",
+    "id": "ngbc96",
     "igdbId": 49892,
     "gbId": 24608,
     "gbGuid": "3030-24608",
@@ -1954,8 +2473,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ready 2 Rumble Boxing",
+    "id": "ngbc97",
+    "igdbId": 209278,
+    "gbId": 19836,
+    "gbGuid": "3030-19836",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Resident Evil Gaiden",
-    "id": "ngbc82",
+    "id": "ngbc98",
     "igdbId": 969,
     "gbId": null,
     "gbGuid": null,
@@ -1979,7 +2525,7 @@
   },
   {
     "name": "Return of the Ninja",
-    "id": "ngbc83",
+    "id": "ngbc99",
     "igdbId": 49858,
     "gbId": 45167,
     "gbGuid": "3030-45167",
@@ -2003,7 +2549,7 @@
   },
   {
     "name": "Robopon Moon",
-    "id": "ngbc84",
+    "id": "ngbc100",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2026,13 +2572,14 @@
   },
   {
     "name": "Robopon: Sun Version",
-    "id": "ngbc85",
+    "id": "ngbc101",
     "igdbId": 50007,
     "gbId": 23128,
     "gbGuid": "3030-23128",
     "tgdbId": 25463,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "Game Boy Color cartridge has built in infra-red sensor that used in the game"
     ],
     "isExclusive": [
       {
@@ -2045,12 +2592,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in infra-red sensor that used in the game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Robot Ponkottsu Star Version",
-    "id": "ngbc86",
+    "id": "ngbc102",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2074,7 +2634,7 @@
   },
   {
     "name": "Robot Wars: Metal Mayhem",
-    "id": "ngbc87",
+    "id": "ngbc103",
     "igdbId": 50022,
     "gbId": null,
     "gbGuid": null,
@@ -2098,7 +2658,7 @@
   },
   {
     "name": "Snoopy Tennis",
-    "id": "ngbc88",
+    "id": "ngbc104",
     "igdbId": 49878,
     "gbId": 32834,
     "gbGuid": "3030-32834",
@@ -2122,7 +2682,7 @@
   },
   {
     "name": "Space Marauder",
-    "id": "ngbc89",
+    "id": "ngbc105",
     "igdbId": 49968,
     "gbId": null,
     "gbGuid": null,
@@ -2146,7 +2706,7 @@
   },
   {
     "name": "Spawn",
-    "id": "ngbc90",
+    "id": "ngbc106",
     "igdbId": 49969,
     "gbId": 8050,
     "gbGuid": "3030-8050",
@@ -2170,7 +2730,7 @@
   },
   {
     "name": "Spider-Man 2: The Sinister Six",
-    "id": "ngbc91",
+    "id": "ngbc107",
     "igdbId": 49971,
     "gbId": 14254,
     "gbGuid": "3030-14254",
@@ -2194,7 +2754,7 @@
   },
   {
     "name": "SpongeBob SquarePants: Legend of the Lost Spatula",
-    "id": "ngbc92",
+    "id": "ngbc108",
     "igdbId": 2760,
     "gbId": 4052,
     "gbGuid": "3030-4052",
@@ -2218,7 +2778,7 @@
   },
   {
     "name": "Star Wars Episode I: Obi-Wan's Adventures",
-    "id": "ngbc93",
+    "id": "ngbc109",
     "igdbId": 18950,
     "gbId": 6181,
     "gbGuid": "3030-6181",
@@ -2242,7 +2802,7 @@
   },
   {
     "name": "Star Wars Episode I: Racer",
-    "id": "ngbc94",
+    "id": "ngbc110",
     "igdbId": 154,
     "gbId": 31227,
     "gbGuid": "3030-31227",
@@ -2265,8 +2825,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Star Wars: Episode I - Racer",
+    "id": "ngbc111",
+    "igdbId": 167641,
+    "gbId": 13526,
+    "gbGuid": "3030-13526",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Black Bass: Real Fight",
+    "id": "ngbc112",
+    "igdbId": 61345,
+    "gbId": 46896,
+    "gbGuid": "3030-46896",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Super Chinese Fighter EX",
-    "id": "ngbc95",
+    "id": "ngbc113",
     "igdbId": 50557,
     "gbId": null,
     "gbGuid": null,
@@ -2289,8 +2903,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Real Fishing",
+    "id": "ngbc114",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sweet Ange",
-    "id": "ngbc96",
+    "id": "ngbc115",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2313,7 +2954,7 @@
   },
   {
     "name": "Tales of Phantasia: Narikiri Dungeon",
-    "id": "ngbc97",
+    "id": "ngbc116",
     "igdbId": 69114,
     "gbId": 25907,
     "gbGuid": "3030-25907",
@@ -2337,7 +2978,7 @@
   },
   {
     "name": "Tazmanian Devil: Munching Madness",
-    "id": "ngbc98",
+    "id": "ngbc117",
     "igdbId": 49967,
     "gbId": 40985,
     "gbGuid": "3030-40985",
@@ -2361,7 +3002,7 @@
   },
   {
     "name": "Test Drive 2001",
-    "id": "ngbc99",
+    "id": "ngbc118",
     "igdbId": 49876,
     "gbId": 706,
     "gbGuid": "3030-706",
@@ -2385,7 +3026,7 @@
   },
   {
     "name": "Test Drive Cycles",
-    "id": "ngbc100",
+    "id": "ngbc119",
     "igdbId": 49906,
     "gbId": null,
     "gbGuid": null,
@@ -2408,8 +3049,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Test Drive Off-Road 3",
+    "id": "ngbc120",
+    "igdbId": 49905,
+    "gbId": 9109,
+    "gbGuid": "3030-9109",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tetris DX",
-    "id": "ngbc101",
+    "id": "ngbc121",
     "igdbId": 49875,
     "gbId": 796,
     "gbGuid": "3030-796",
@@ -2432,8 +3100,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "The Great Battle Pocket",
+    "id": "ngbc122",
+    "igdbId": 228554,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Legend of Zelda: Link's Awakening DX",
-    "id": "ngbc102",
+    "id": "ngbc123",
     "igdbId": 1027,
     "gbId": 8881,
     "gbGuid": "3030-8881",
@@ -2456,7 +3151,7 @@
   },
   {
     "name": "The Legend of Zelda: Oracle of Ages",
-    "id": "ngbc103",
+    "id": "ngbc124",
     "igdbId": 1041,
     "gbId": 8004,
     "gbGuid": "3030-8004",
@@ -2480,7 +3175,7 @@
   },
   {
     "name": "The Legend of Zelda: Oracle of Seasons",
-    "id": "ngbc104",
+    "id": "ngbc125",
     "igdbId": 1032,
     "gbId": 5895,
     "gbGuid": "3030-5895",
@@ -2510,7 +3205,7 @@
   },
   {
     "name": "The Powerpuff Girls: Bad Mojo Jojo",
-    "id": "ngbc105",
+    "id": "ngbc126",
     "igdbId": 3246,
     "gbId": 14137,
     "gbGuid": "3030-14137",
@@ -2534,7 +3229,7 @@
   },
   {
     "name": "The Powerpuff Girls: Paint the Townsville Green",
-    "id": "ngbc106",
+    "id": "ngbc127",
     "igdbId": 5885,
     "gbId": 8470,
     "gbGuid": "3030-8470",
@@ -2558,7 +3253,7 @@
   },
   {
     "name": "The Simpsons: Night of the Living Treehouse of Horror",
-    "id": "ngbc107",
+    "id": "ngbc128",
     "igdbId": 2840,
     "gbId": 21949,
     "gbGuid": "3030-21949",
@@ -2582,7 +3277,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Buster Saves the Day",
-    "id": "ngbc108",
+    "id": "ngbc129",
     "igdbId": 8057,
     "gbId": 5597,
     "gbGuid": "3030-5597",
@@ -2606,7 +3301,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Dizzy's Candy Quest",
-    "id": "ngbc109",
+    "id": "ngbc130",
     "igdbId": 8058,
     "gbId": 3278,
     "gbGuid": "3030-3278",
@@ -2630,7 +3325,7 @@
   },
   {
     "name": "Tomb Raider",
-    "id": "ngbc110",
+    "id": "ngbc131",
     "igdbId": 36878,
     "gbId": 36872,
     "gbGuid": "3030-36872",
@@ -2654,7 +3349,7 @@
   },
   {
     "name": "Tomb Raider: Curse of the Sword",
-    "id": "ngbc111",
+    "id": "ngbc132",
     "igdbId": 49993,
     "gbId": 3237,
     "gbGuid": "3030-3237",
@@ -2677,8 +3372,143 @@
     "misprintsErrors": []
   },
   {
+    "name": "Tonka Raceway",
+    "id": "ngbc133",
+    "igdbId": 7957,
+    "gbId": 45364,
+    "gbGuid": "3030-45364",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Top Gear Pocket",
+    "id": "ngbc134",
+    "igdbId": 93431,
+    "gbId": 2775,
+    "gbGuid": "3030-2775",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Top Gear Pocket 2",
+    "id": "ngbc135",
+    "igdbId": 78875,
+    "gbId": 18131,
+    "gbGuid": "3030-18131",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game (Japan version only)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game (Japan version only)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tottoko Hamtaro: Tomodachi Daisaku Ikusa Dechu",
+    "id": "ngbc136",
+    "igdbId": 63222,
+    "gbId": 43087,
+    "gbGuid": "3030-43087",
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Trade & Battle: Card Hero",
+    "id": "ngbc137",
+    "igdbId": 67836,
+    "gbId": 27552,
+    "gbGuid": "3030-27552",
+    "details": [
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Turok 2: Seeds of Evil",
-    "id": "ngbc112",
+    "id": "ngbc138",
     "igdbId": 1326,
     "gbId": 7052,
     "gbGuid": "3030-7052",
@@ -2702,7 +3532,7 @@
   },
   {
     "name": "Turok 3: Shadow of Oblivion",
-    "id": "ngbc113",
+    "id": "ngbc139",
     "igdbId": 1328,
     "gbId": 10047,
     "gbGuid": "3030-10047",
@@ -2726,7 +3556,7 @@
   },
   {
     "name": "Turok: Rage Wars",
-    "id": "ngbc114",
+    "id": "ngbc140",
     "igdbId": 1327,
     "gbId": 7962,
     "gbGuid": "3030-7962",
@@ -2750,7 +3580,7 @@
   },
   {
     "name": "Turok: Rage Wars",
-    "id": "ngbc115",
+    "id": "ngbc141",
     "igdbId": 146987,
     "gbId": 7962,
     "gbGuid": "3030-7962",
@@ -2768,7 +3598,7 @@
   },
   {
     "name": "Tweenies: Doodles' Bones",
-    "id": "ngbc116",
+    "id": "ngbc142",
     "igdbId": 50058,
     "gbId": 55835,
     "gbGuid": "3030-55835",
@@ -2792,7 +3622,7 @@
   },
   {
     "name": "Uno",
-    "id": "ngbc117",
+    "id": "ngbc143",
     "igdbId": 86361,
     "gbId": 35570,
     "gbGuid": "3030-35570",
@@ -2815,8 +3645,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Vigilante 8",
+    "id": "ngbc144",
+    "igdbId": 75423,
+    "gbId": 13200,
+    "gbGuid": "3030-13200",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "WWF Betrayal",
-    "id": "ngbc118",
+    "id": "ngbc145",
     "igdbId": 49981,
     "gbId": 24982,
     "gbGuid": "3030-24982",
@@ -2840,7 +3697,7 @@
   },
   {
     "name": "Walt Disney's Alice in Wonderland",
-    "id": "ngbc119",
+    "id": "ngbc146",
     "igdbId": 50016,
     "gbId": 8337,
     "gbGuid": "3030-8337",
@@ -2864,7 +3721,7 @@
   },
   {
     "name": "Warlocked",
-    "id": "ngbc120",
+    "id": "ngbc147",
     "igdbId": 49874,
     "gbId": 11740,
     "gbGuid": "3030-11740",
@@ -2888,7 +3745,7 @@
   },
   {
     "name": "Wendy: Every Witch Way",
-    "id": "ngbc121",
+    "id": "ngbc148",
     "igdbId": 49855,
     "gbId": 19779,
     "gbGuid": "3030-19779",
@@ -2912,7 +3769,7 @@
   },
   {
     "name": "Winnie the Pooh: Adventures in the 100 Acre Wood",
-    "id": "ngbc122",
+    "id": "ngbc149",
     "igdbId": 49982,
     "gbId": 65453,
     "gbGuid": "3030-65453",
@@ -2936,7 +3793,7 @@
   },
   {
     "name": "Woody Woodpecker: Escape From Buzz Buzzard Park",
-    "id": "ngbc123",
+    "id": "ngbc150",
     "igdbId": 43561,
     "gbId": 20246,
     "gbGuid": "3030-20246",
@@ -2960,7 +3817,7 @@
   },
   {
     "name": "X-Men: Mutant Wars",
-    "id": "ngbc124",
+    "id": "ngbc151",
     "igdbId": 49887,
     "gbId": 12288,
     "gbGuid": "3030-12288",
@@ -2984,7 +3841,7 @@
   },
   {
     "name": "X-Men: Wolverine's Rage",
-    "id": "ngbc125",
+    "id": "ngbc152",
     "igdbId": 49899,
     "gbId": 458,
     "gbGuid": "3030-458",
@@ -3004,6 +3861,33 @@
     ],
     "isLaunchTitle": false,
     "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Zebco Fishing",
+    "id": "ngbc153",
+    "igdbId": 49979,
+    "gbId": 38333,
+    "gbGuid": "3030-38333",
+    "details": [
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   }
 ]

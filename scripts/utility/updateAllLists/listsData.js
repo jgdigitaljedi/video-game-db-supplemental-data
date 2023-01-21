@@ -165,7 +165,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/gbMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/gameBoyCartsWithBuiltInDevices.json'))],
     output: path.resolve(consoleLists, 'NintendoGameBoy.json')
   },
   {
@@ -181,7 +181,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/gbcMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/gbcCartsWithBuiltInDevices.json'))],
     output: path.resolve(consoleLists, 'NintendoGameBoyColor.json')
   },
   {
@@ -197,7 +197,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/gbaMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'greatestHits/gbaPlayersChoice.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'greatestHits/gbaPlayersChoice.json')),
+      require(path.resolve(smallFiles, 'special/gbaCartsWithBuiltInDevices.json'))
+    ],
     output: path.resolve(consoleLists, 'NintendoGameBoyAdvance.json')
   },
   {
@@ -213,7 +216,8 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'special/nintendoDsGamesDsiEnhanced.json')),
       require(path.resolve(smallFiles, 'special/nintendoDsGamesDsiEnhancedJapan.json')),
-      require(path.resolve(smallFiles, 'special/nintendoDsRumblePakGames.json'))
+      require(path.resolve(smallFiles, 'special/nintendoDsRumblePakGames.json')),
+      require(path.resolve(smallFiles, 'special/gbaCartsWithBuiltInDevices.json'))
     ],
     output: path.resolve(consoleLists, 'NintendoDS.json')
   },

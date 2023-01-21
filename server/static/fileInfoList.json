@@ -1574,5 +1574,29 @@
     "filePath": "../textFilesToBeConverted/peripheral/n64GamesThatCameWithPeripherals.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Nintendo DS games with built in devices",
+    "filePath": "../textFilesToBeConverted/special/nintendoDsCartsWithBuiltInDevices.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Game Boy games with built in devices",
+    "filePath": "../textFilesToBeConverted/special/gameBoyCartsWithBuiltInDevices.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Game Boy Advance games with built in devices",
+    "filePath": "../textFilesToBeConverted/special/gbaCartsWithBuiltInDevices.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Game Boy Color games with built in devices",
+    "filePath": "../textFilesToBeConverted/special/gbcCartsWithBuiltInDevices.json",
+    "type": "Game",
+    "complete": true
   }
 ]

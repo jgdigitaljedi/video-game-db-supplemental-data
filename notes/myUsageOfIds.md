@@ -113,6 +113,9 @@ I simply chose a prefix for each list then slap a number on the end to different
 - dsijpX - Nintendo DS games with enhanced features on DSi (Japan) (nintendoDsGameDsiEnhancedJapan.json) | GAMES LIST
 - dsrpX - Nintendo DS Rumble Pak games (nintendoDsRumblePakGames.json) | GAMES LIST
 - gbbgX - Genesis black box grid games (blackBoxGridGenesisGames.json) | GAMES LIST
+- gbabiX - Nintendo Game Boy Advance cartridges with built in devices (gbaCartsWithBuiltInDevices.json) | GAMES LIST
+- gbbiX - Nintendo Game Boy cartridges with built in devices (gameBoyCartsWithBuiltInDevices.json) | GAMES LIST
+- gbcbiX - Nintendo Game Boy Color cartridges with built in devices (gbcCartsWithBuiltInDevices.json) | GAMES LIST
 - gcbbaX - GameCube braodband adapter games (gamecubeBroadbandGames.json) | GAMES LIST
 - molgX - Magnavox Odyssey light gun games (magnavoxOdysseyLightGunGamesGames.json) | GAMES LIST
 - mxb360lgX - Microsoft Xbox 360 light gun games (microsoftXbox360LightGunGames.json) | GAMES LIST
@@ -120,6 +123,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - n64epX - N64 Expansion Pak Games (n64ExpansionPakGames.json) | GAMES LIST
 - n64rpX - N64 RUMBLE Pak Games (n64RumblePakGames.json) | GAMES LIST
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST
+- ndsbiX - Nintendo DS cartridges with built in devices (nintendoDsCartsWithBuiltInDevices.json) | GAMES LIST
 - pcdilgX - Philips CD-i Peacekeeper Revovler games (philipsCdiPeacekeeperRevolverGames.json) | GAMES LIST
 - pcsgX - PC Engine games enhanced on Supergrafx (pcEngineGamesEnhancedOnSupergrafx.json) | GAMES LIST
 - pbdX - consoles that play bruned discs without modification (platformsThatPlayBurnedDiscs.json) | CONSOLE/PLATFORM LIST

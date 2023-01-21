@@ -310,11 +310,15 @@ I've been scouring the web for unique data points and will continue to do so. He
 ### Misc (Special directory)
 
 - games banned in various countries with the reason for the ban
+- Game Boy Advance cartridges with built in devices
+- Game Boy cartridges with built in devices
+- Game Boy Color cartridges with built in devices
 - GameCube broadband adapter compatible games
 - N64 Expansion Pak games
 - N64 Rumble Pak games
 - NES Black Box games
 - NES hang tab games
+- Nintendo DS cartridges with built in devices
 - Nintendo DS Rumble Pak games
 - PC Engine/TurboGrafx-16 games that are enhanced on the SuperGrafx
 - platforms/consoles that play burned disks without modification
@@ -442,8 +446,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan. I think some of this is lost in translation.
 
 There are 918 data points for platforms/consoles.
-Out of 17153 games data points collected so far, the APIs are missing data the following number of games:
+Out of 17209 games data points collected so far, the APIs are missing data the following number of games:
 
-- Missing from all APIs: 1493 (9%)
-- IGDB: 1667 (10%)
-- Giantbomb: 2670 (16%)
+- Missing from all APIs: 1497 (9%)
+- IGDB: 1671 (10%)
+- Giantbomb: 2686 (16%)

@@ -3,10 +3,10 @@ const fileUtil = require('./fileUtilities');
 const { categories } = require('./helpers');
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/peripheral/n64GamesThatCameWithPeripherals.json';
+const relativePath = '../../textFilesToBeConverted/special/nintendoDsCartsWithBuiltInDevices.json';
 const detailsFix = null;
-const category = categories.peripheral;
-const idPrefix = 'n64bp';
+const category = categories.other;
+const idPrefix = 'ndsbi';
 /** end file variables section */
 
 (async function() {
