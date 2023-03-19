@@ -153,6 +153,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - sslgX - Sega Saturn light gun games (segaSaturnLightGunGames.json) | GAMES LIST
 - ssrcX - Sega Saturn RAM and ROM cart games (segaSaturnRamCartGames.json) | GAMES LIST
 - ssvcX - Sega Saturn VCD card games (segaSaturnVcdCardGames.json) | GAMES LIST
+- x360tmX - Microsoft Xbox 360 games with tate mode support (microsoftXbox360TateModeGames.json) | GAMES LIST
 - xbtmX - Microsoft Xbox games with tate mode support (microsoftXboxTateModeGames.json) | GAMES LIST
 
 ### Platform Exclusives

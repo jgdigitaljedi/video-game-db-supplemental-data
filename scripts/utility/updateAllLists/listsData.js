@@ -504,7 +504,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'greatestHits/xbox360ClassicsPal.json')),
       require(path.resolve(smallFiles, 'greatestHits/xbox360PlatinumCollectionJP.json')),
       require(path.resolve(smallFiles, 'greatestHits/xbox360PlatinumHits.json')),
-      require(path.resolve(smallFiles, 'special/microsoftXbox360LightGunGames.json'))
+      require(path.resolve(smallFiles, 'special/microsoftXbox360LightGunGames.json')),
+      require(path.resolve(smallFiles, 'special/microsoftXbox360TateModeGames.json'))
     ],
     output: path.resolve(consoleLists, 'MicrosoftXbox360.json')
   },

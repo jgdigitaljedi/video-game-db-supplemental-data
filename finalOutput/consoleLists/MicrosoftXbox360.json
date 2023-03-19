@@ -4365,7 +4365,8 @@
     "tgdbId": 23932,
     "details": [
       "Microsoft Xbox 360 console exclusive",
-      "Xbox 360 game backward compatible with Xbox One"
+      "Xbox 360 game backward compatible with Xbox One",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -4390,6 +4391,17 @@
           "tgdbId": 15
         },
         "category": "backwardsCompatibility"
+      },
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
       }
     ],
     "misprintsErrors": []
@@ -4403,7 +4415,8 @@
     "tgdbId": 23708,
     "details": [
       "Microsoft Xbox 360 full exclusive",
-      "Xbox 360 game backward compatible with Xbox One"
+      "Xbox 360 game backward compatible with Xbox One",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -4428,6 +4441,17 @@
           "tgdbId": 15
         },
         "category": "backwardsCompatibility"
+      },
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
       }
     ],
     "misprintsErrors": []
@@ -5941,8 +5965,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "CastleStorm",
+    "name": "Castle of Shikigami III",
     "id": "x360167",
+    "igdbId": 4751,
+    "gbId": 20868,
+    "gbGuid": "3030-20868",
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "CastleStorm",
+    "id": "x360168",
     "igdbId": 19136,
     "gbId": 38498,
     "gbGuid": "3030-38498",
@@ -5970,7 +6020,7 @@
   },
   {
     "name": "Castlevania: Harmony of Despair",
-    "id": "x360168",
+    "id": "x360169",
     "igdbId": 1147,
     "gbId": 31137,
     "gbGuid": "3030-31137",
@@ -5998,7 +6048,7 @@
   },
   {
     "name": "Castlevania: Lords of Shadow",
-    "id": "x360169",
+    "id": "x360170",
     "igdbId": 491,
     "gbId": 23704,
     "gbGuid": "3030-23704",
@@ -6026,7 +6076,7 @@
   },
   {
     "name": "Castlevania: Lords of Shadow - Mirror of Fate HD",
-    "id": "x360170",
+    "id": "x360171",
     "igdbId": 9715,
     "gbId": null,
     "gbGuid": null,
@@ -6054,7 +6104,7 @@
   },
   {
     "name": "Castlevania: Lords of Shadow 2",
-    "id": "x360171",
+    "id": "x360172",
     "igdbId": 1182,
     "gbId": 38438,
     "gbGuid": "3030-38438",
@@ -6082,7 +6132,7 @@
   },
   {
     "name": "Castlevania: Symphony of the Night",
-    "id": "x360172",
+    "id": "x360173",
     "igdbId": 1128,
     "gbId": 14216,
     "gbGuid": "3030-14216",
@@ -6110,7 +6160,7 @@
   },
   {
     "name": "Catan",
-    "id": "x360173",
+    "id": "x360174",
     "igdbId": 21830,
     "gbId": 21010,
     "gbGuid": "3030-21010",
@@ -6134,7 +6184,7 @@
   },
   {
     "name": "Catherine",
-    "id": "x360174",
+    "id": "x360175",
     "igdbId": 2151,
     "gbId": 32367,
     "gbGuid": "3030-32367",
@@ -6162,7 +6212,7 @@
   },
   {
     "name": "Centipede & Millipede",
-    "id": "x360175",
+    "id": "x360176",
     "igdbId": 74408,
     "gbId": 25795,
     "gbGuid": "3030-25795",
@@ -6200,7 +6250,7 @@
   },
   {
     "name": "Chaos;Head Love Chu Chu!",
-    "id": "x360176",
+    "id": "x360177",
     "igdbId": 6935,
     "gbId": 30548,
     "gbGuid": "3030-30548",
@@ -6227,7 +6277,7 @@
   },
   {
     "name": "Chaos;Head Noah",
-    "id": "x360177",
+    "id": "x360178",
     "igdbId": 43953,
     "gbId": 58568,
     "gbGuid": "3030-58568",
@@ -6254,7 +6304,7 @@
   },
   {
     "name": "Charlie Murder",
-    "id": "x360178",
+    "id": "x360179",
     "igdbId": 19914,
     "gbId": 30494,
     "gbGuid": "3030-30494",
@@ -6278,7 +6328,7 @@
   },
   {
     "name": "Chessmaster LIVE",
-    "id": "x360179",
+    "id": "x360180",
     "igdbId": 21814,
     "gbId": 20770,
     "gbGuid": "3030-20770",
@@ -6301,7 +6351,7 @@
   },
   {
     "name": "Child of Eden",
-    "id": "x360180",
+    "id": "x360181",
     "igdbId": 6936,
     "gbId": 31716,
     "gbGuid": "3030-31716",
@@ -6329,7 +6379,7 @@
   },
   {
     "name": "Chromehounds",
-    "id": "x360181",
+    "id": "x360182",
     "igdbId": 6937,
     "gbId": 19719,
     "gbGuid": "3030-19719",
@@ -6367,7 +6417,7 @@
   },
   {
     "name": "Clannad",
-    "id": "x360182",
+    "id": "x360183",
     "igdbId": 9607,
     "gbId": 23249,
     "gbGuid": "3030-23249",
@@ -6395,7 +6445,7 @@
   },
   {
     "name": "Clive Barker's Jericho",
-    "id": "x360183",
+    "id": "x360184",
     "igdbId": 6939,
     "gbId": 10461,
     "gbGuid": "3030-10461",
@@ -6423,7 +6473,7 @@
   },
   {
     "name": "Cloning Clyde",
-    "id": "x360184",
+    "id": "x360185",
     "igdbId": 15083,
     "gbId": null,
     "gbGuid": null,
@@ -6447,7 +6497,7 @@
   },
   {
     "name": "Cobalt",
-    "id": "x360185",
+    "id": "x360186",
     "igdbId": 2999,
     "gbId": 36256,
     "gbGuid": "3030-36256",
@@ -6471,7 +6521,7 @@
   },
   {
     "name": "Coffeetime Crosswords",
-    "id": "x360186",
+    "id": "x360187",
     "igdbId": 74409,
     "gbId": null,
     "gbGuid": null,
@@ -6494,7 +6544,7 @@
   },
   {
     "name": "Cold Fear",
-    "id": "x360187",
+    "id": "x360188",
     "igdbId": 5780,
     "gbId": 19631,
     "gbGuid": "3030-19631",
@@ -6522,7 +6572,7 @@
   },
   {
     "name": "Cold Winter",
-    "id": "x360188",
+    "id": "x360189",
     "igdbId": 8277,
     "gbId": 9491,
     "gbGuid": "3030-9491",
@@ -6550,7 +6600,7 @@
   },
   {
     "name": "Colin McRae: Dirt",
-    "id": "x360189",
+    "id": "x360190",
     "igdbId": 943,
     "gbId": 3916,
     "gbGuid": "3030-3916",
@@ -6577,7 +6627,7 @@
   },
   {
     "name": "Comic Jumper: The Adventures of Captain Smiley",
-    "id": "x360190",
+    "id": "x360191",
     "igdbId": 21094,
     "gbId": 28047,
     "gbGuid": "3030-28047",
@@ -6615,7 +6665,7 @@
   },
   {
     "name": "Comix Zone",
-    "id": "x360191",
+    "id": "x360192",
     "igdbId": 3071,
     "gbId": 1416,
     "gbGuid": "3030-1416",
@@ -6643,7 +6693,7 @@
   },
   {
     "name": "Command & Conquer 3: Kane's Wrath",
-    "id": "x360192",
+    "id": "x360193",
     "igdbId": 707,
     "gbId": 20494,
     "gbGuid": "3030-20494",
@@ -6681,7 +6731,7 @@
   },
   {
     "name": "Command & Conquer 3: Tiberium Wars",
-    "id": "x360193",
+    "id": "x360194",
     "igdbId": 321,
     "gbId": 17551,
     "gbGuid": "3030-17551",
@@ -6732,7 +6782,7 @@
   },
   {
     "name": "Command & Conquer Red Alert 3: Commander's Challenge",
-    "id": "x360194",
+    "id": "x360195",
     "igdbId": 833,
     "gbId": 27377,
     "gbGuid": "3030-27377",
@@ -6759,7 +6809,7 @@
   },
   {
     "name": "Command & Conquer: Generals",
-    "id": "x360195",
+    "id": "x360196",
     "igdbId": 649,
     "gbId": 10973,
     "gbGuid": "3030-10973",
@@ -6787,7 +6837,7 @@
   },
   {
     "name": "Command & Conquer: Red Alert 3",
-    "id": "x360196",
+    "id": "x360197",
     "igdbId": 959,
     "gbId": 20660,
     "gbGuid": "3030-20660",
@@ -6814,7 +6864,7 @@
   },
   {
     "name": "Commanders: Attack of the Genos",
-    "id": "x360197",
+    "id": "x360198",
     "igdbId": 20775,
     "gbId": 21011,
     "gbGuid": "3030-21011",
@@ -6852,7 +6902,7 @@
   },
   {
     "name": "Condemned 2: Bloodshot",
-    "id": "x360198",
+    "id": "x360199",
     "igdbId": 6943,
     "gbId": 20465,
     "gbGuid": "3030-20465",
@@ -6880,7 +6930,7 @@
   },
   {
     "name": "Condemned: Criminal Origins",
-    "id": "x360199",
+    "id": "x360200",
     "igdbId": 6942,
     "gbId": 8804,
     "gbGuid": "3030-8804",
@@ -6973,7 +7023,7 @@
   },
   {
     "name": "Conflict: Denied Ops",
-    "id": "x360200",
+    "id": "x360201",
     "igdbId": 5634,
     "gbId": 2106,
     "gbGuid": "3030-2106",
@@ -7001,7 +7051,7 @@
   },
   {
     "name": "Contra",
-    "id": "x360201",
+    "id": "x360202",
     "igdbId": 4598,
     "gbId": 4350,
     "gbGuid": "3030-4350",
@@ -7029,7 +7079,7 @@
   },
   {
     "name": "Costume Quest",
-    "id": "x360202",
+    "id": "x360203",
     "igdbId": 5637,
     "gbId": 32304,
     "gbGuid": "3030-32304",
@@ -7057,7 +7107,7 @@
   },
   {
     "name": "Costume Quest 2",
-    "id": "x360203",
+    "id": "x360204",
     "igdbId": 5638,
     "gbId": 45634,
     "gbGuid": "3030-45634",
@@ -7085,7 +7135,7 @@
   },
   {
     "name": "Counter-Strike",
-    "id": "x360204",
+    "id": "x360205",
     "igdbId": 241,
     "gbId": 11663,
     "gbGuid": "3030-11663",
@@ -7113,7 +7163,7 @@
   },
   {
     "name": "Counter-Strike: Global Offensive",
-    "id": "x360205",
+    "id": "x360206",
     "igdbId": 1372,
     "gbId": 36113,
     "gbGuid": "3030-36113",
@@ -7141,7 +7191,7 @@
   },
   {
     "name": "Crackdown",
-    "id": "x360206",
+    "id": "x360207",
     "igdbId": 2896,
     "gbId": 4065,
     "gbGuid": "3030-4065",
@@ -7231,7 +7281,7 @@
   },
   {
     "name": "Crackdown 2",
-    "id": "x360207",
+    "id": "x360208",
     "igdbId": 2897,
     "gbId": 26790,
     "gbGuid": "3030-26790",
@@ -7295,7 +7345,7 @@
   },
   {
     "name": "Crash Time: Autobahn Pursuit",
-    "id": "x360208",
+    "id": "x360209",
     "igdbId": null,
     "gbId": 21606,
     "gbGuid": "3030-21606",
@@ -7319,7 +7369,7 @@
   },
   {
     "name": "Crash of the Titans",
-    "id": "x360209",
+    "id": "x360210",
     "igdbId": 1190,
     "gbId": 7670,
     "gbGuid": "3030-7670",
@@ -7346,7 +7396,7 @@
   },
   {
     "name": "Crazy Mouse",
-    "id": "x360210",
+    "id": "x360211",
     "igdbId": 74410,
     "gbId": 24839,
     "gbGuid": "3030-24839",
@@ -7369,7 +7419,7 @@
   },
   {
     "name": "Crazy Taxi",
-    "id": "x360211",
+    "id": "x360212",
     "igdbId": 1805,
     "gbId": 9112,
     "gbGuid": "3030-9112",
@@ -7397,7 +7447,7 @@
   },
   {
     "name": "Criminal Girls 2: Party Favors",
-    "id": "x360212",
+    "id": "x360213",
     "igdbId": 24195,
     "gbId": 50357,
     "gbGuid": "3030-50357",
@@ -7425,7 +7475,7 @@
   },
   {
     "name": "Criminal Girls: Invite Only",
-    "id": "x360213",
+    "id": "x360214",
     "igdbId": 11746,
     "gbId": 43440,
     "gbGuid": "3030-43440",
@@ -7453,7 +7503,7 @@
   },
   {
     "name": "Crimson Alliance",
-    "id": "x360214",
+    "id": "x360215",
     "igdbId": 21147,
     "gbId": 35468,
     "gbGuid": "3030-35468",
@@ -7477,7 +7527,7 @@
   },
   {
     "name": "Crysis",
-    "id": "x360215",
+    "id": "x360216",
     "igdbId": 296,
     "gbId": 11757,
     "gbGuid": "3030-11757",
@@ -7505,7 +7555,7 @@
   },
   {
     "name": "Crysis 2",
-    "id": "x360216",
+    "id": "x360217",
     "igdbId": 471,
     "gbId": 26754,
     "gbGuid": "3030-26754",
@@ -7559,7 +7609,7 @@
   },
   {
     "name": "Crysis 3",
-    "id": "x360217",
+    "id": "x360218",
     "igdbId": 1268,
     "gbId": 37957,
     "gbGuid": "3030-37957",
@@ -7600,7 +7650,7 @@
   },
   {
     "name": "Crystal Defenders",
-    "id": "x360218",
+    "id": "x360219",
     "igdbId": 21207,
     "gbId": 25000,
     "gbGuid": "3030-25000",
@@ -7628,7 +7678,7 @@
   },
   {
     "name": "Crystal Quest",
-    "id": "x360219",
+    "id": "x360220",
     "igdbId": 7827,
     "gbId": 2027,
     "gbGuid": "3030-2027",
@@ -7666,7 +7716,7 @@
   },
   {
     "name": "Culdcept Saga",
-    "id": "x360220",
+    "id": "x360221",
     "igdbId": 6949,
     "gbId": 20786,
     "gbGuid": "3030-20786",
@@ -7696,7 +7746,7 @@
   },
   {
     "name": "Cyber Troopers Virtual-On",
-    "id": "x360221",
+    "id": "x360222",
     "igdbId": 70734,
     "gbId": 24125,
     "gbGuid": "3030-24125",
@@ -7723,7 +7773,7 @@
   },
   {
     "name": "Cyber Troopers Virtual-On Force",
-    "id": "x360222",
+    "id": "x360223",
     "igdbId": 6951,
     "gbId": 24125,
     "gbGuid": "3030-24125",
@@ -7773,7 +7823,7 @@
   },
   {
     "name": "Cyber Troopers Virtual-On: Oratorio Tangram",
-    "id": "x360223",
+    "id": "x360224",
     "igdbId": 9190,
     "gbId": 4819,
     "gbGuid": "3030-4819",
@@ -7797,7 +7847,7 @@
   },
   {
     "name": "Dance Central",
-    "id": "x360224",
+    "id": "x360225",
     "igdbId": 18953,
     "gbId": 31705,
     "gbGuid": "3030-31705",
@@ -7824,7 +7874,7 @@
   },
   {
     "name": "Dance Central 2",
-    "id": "x360225",
+    "id": "x360226",
     "igdbId": 20091,
     "gbId": 35532,
     "gbGuid": "3030-35532",
@@ -7851,7 +7901,7 @@
   },
   {
     "name": "Dance Dance Revolution Universe",
-    "id": "x360226",
+    "id": "x360227",
     "igdbId": 6953,
     "gbId": 22356,
     "gbGuid": "3030-22356",
@@ -7875,7 +7925,7 @@
   },
   {
     "name": "Dance Dance Revolution Universe 2",
-    "id": "x360227",
+    "id": "x360228",
     "igdbId": 6954,
     "gbId": 22411,
     "gbGuid": "3030-22411",
@@ -7899,7 +7949,7 @@
   },
   {
     "name": "Dance Dance Revolution Universe 3",
-    "id": "x360228",
+    "id": "x360229",
     "igdbId": 6955,
     "gbId": 20629,
     "gbGuid": "3030-20629",
@@ -7923,7 +7973,7 @@
   },
   {
     "name": "DanceMasters",
-    "id": "x360229",
+    "id": "x360230",
     "igdbId": 20121,
     "gbId": 31801,
     "gbGuid": "3030-31801",
@@ -7950,7 +8000,7 @@
   },
   {
     "name": "Danganronpa V3: Killing Harmony",
-    "id": "x360230",
+    "id": "x360231",
     "igdbId": 12579,
     "gbId": 49101,
     "gbGuid": "3030-49101",
@@ -7978,7 +8028,7 @@
   },
   {
     "name": "Dante's Inferno",
-    "id": "x360231",
+    "id": "x360232",
     "igdbId": 6958,
     "gbId": 8828,
     "gbGuid": "3030-8828",
@@ -8032,7 +8082,7 @@
   },
   {
     "name": "Dante's Inferno",
-    "id": "x360232",
+    "id": "x360233",
     "igdbId": 28854,
     "gbId": 8828,
     "gbGuid": "3030-8828",
@@ -8060,7 +8110,7 @@
   },
   {
     "name": "Dark",
-    "id": "x360233",
+    "id": "x360234",
     "igdbId": 2111,
     "gbId": 38219,
     "gbGuid": "3030-38219",
@@ -8084,7 +8134,7 @@
   },
   {
     "name": "Dark Messiah of Might and Magic",
-    "id": "x360234",
+    "id": "x360235",
     "igdbId": 2369,
     "gbId": 15065,
     "gbGuid": "3030-15065",
@@ -8112,7 +8162,7 @@
   },
   {
     "name": "Dark Messiah: Might and Magic Elements",
-    "id": "x360235",
+    "id": "x360236",
     "igdbId": 78210,
     "gbId": 14344,
     "gbGuid": "3030-14344",
@@ -8136,7 +8186,7 @@
   },
   {
     "name": "Dark Souls",
-    "id": "x360236",
+    "id": "x360237",
     "igdbId": 2155,
     "gbId": 32697,
     "gbGuid": "3030-32697",
@@ -8177,7 +8227,7 @@
   },
   {
     "name": "Dark Void",
-    "id": "x360237",
+    "id": "x360238",
     "igdbId": 4220,
     "gbId": 20703,
     "gbGuid": "3030-20703",
@@ -8205,7 +8255,7 @@
   },
   {
     "name": "Darkest of Days",
-    "id": "x360238",
+    "id": "x360239",
     "igdbId": 4219,
     "gbId": 24858,
     "gbGuid": "3030-24858",
@@ -8229,7 +8279,7 @@
   },
   {
     "name": "Darksiders",
-    "id": "x360239",
+    "id": "x360240",
     "igdbId": 1270,
     "gbId": 20991,
     "gbGuid": "3030-20991",
@@ -8283,7 +8333,7 @@
   },
   {
     "name": "Darksiders II",
-    "id": "x360240",
+    "id": "x360241",
     "igdbId": 1269,
     "gbId": 29941,
     "gbGuid": "3030-29941",
@@ -8334,7 +8384,7 @@
   },
   {
     "name": "Darwinia+",
-    "id": "x360241",
+    "id": "x360242",
     "igdbId": 20975,
     "gbId": 29894,
     "gbGuid": "3030-29894",
@@ -8357,7 +8407,7 @@
   },
   {
     "name": "Daytona USA",
-    "id": "x360242",
+    "id": "x360243",
     "igdbId": 17245,
     "gbId": 225,
     "gbGuid": "3030-225",
@@ -8385,7 +8435,7 @@
   },
   {
     "name": "Dead Island",
-    "id": "x360243",
+    "id": "x360244",
     "igdbId": 536,
     "gbId": 21534,
     "gbGuid": "3030-21534",
@@ -8413,7 +8463,7 @@
   },
   {
     "name": "Dead Island",
-    "id": "x360244",
+    "id": "x360245",
     "igdbId": 47400,
     "gbId": 21534,
     "gbGuid": "3030-21534",
@@ -8453,7 +8503,7 @@
   },
   {
     "name": "Dead Island: Riptide",
-    "id": "x360245",
+    "id": "x360246",
     "igdbId": 1833,
     "gbId": 38558,
     "gbGuid": "3030-38558",
@@ -8482,7 +8532,7 @@
   },
   {
     "name": "Dead Rising",
-    "id": "x360246",
+    "id": "x360247",
     "igdbId": 81391,
     "gbId": 8720,
     "gbGuid": "3030-8720",
@@ -8510,7 +8560,7 @@
   },
   {
     "name": "Dead Rising (Platinum Hits)",
-    "id": "x360247",
+    "id": "x360248",
     "igdbId": 4797,
     "gbId": 8720,
     "gbGuid": "3030-8720",
@@ -8569,7 +8619,7 @@
   },
   {
     "name": "Dead Rising 2",
-    "id": "x360248",
+    "id": "x360249",
     "igdbId": 496,
     "gbId": 25187,
     "gbGuid": "3030-25187",
@@ -8637,7 +8687,7 @@
   },
   {
     "name": "Dead Rising 2: Case West",
-    "id": "x360249",
+    "id": "x360250",
     "igdbId": 21764,
     "gbId": 32685,
     "gbGuid": "3030-32685",
@@ -8665,7 +8715,7 @@
   },
   {
     "name": "Dead Rising 2: Case Zero",
-    "id": "x360250",
+    "id": "x360251",
     "igdbId": 20409,
     "gbId": 30018,
     "gbGuid": "3030-30018",
@@ -8703,7 +8753,7 @@
   },
   {
     "name": "Dead Rising 2: Off The Record",
-    "id": "x360251",
+    "id": "x360252",
     "igdbId": 5924,
     "gbId": 34778,
     "gbGuid": "3030-34778",
@@ -8731,7 +8781,7 @@
   },
   {
     "name": "Dead Rising 3",
-    "id": "x360252",
+    "id": "x360253",
     "igdbId": 3199,
     "gbId": 42902,
     "gbGuid": "3030-42902",
@@ -8759,7 +8809,7 @@
   },
   {
     "name": "Dead Rising: Chop Till You Drop",
-    "id": "x360253",
+    "id": "x360254",
     "igdbId": 4798,
     "gbId": 21336,
     "gbGuid": "3030-21336",
@@ -8787,7 +8837,7 @@
   },
   {
     "name": "Dead Space",
-    "id": "x360254",
+    "id": "x360255",
     "igdbId": 37,
     "gbId": 20800,
     "gbGuid": "3030-20800",
@@ -8854,7 +8904,7 @@
   },
   {
     "name": "Dead Space 2",
-    "id": "x360255",
+    "id": "x360256",
     "igdbId": 38,
     "gbId": 25444,
     "gbGuid": "3030-25444",
@@ -8908,7 +8958,7 @@
   },
   {
     "name": "Dead Space 3",
-    "id": "x360256",
+    "id": "x360257",
     "igdbId": 1216,
     "gbId": 38270,
     "gbGuid": "3030-38270",
@@ -8949,7 +8999,7 @@
   },
   {
     "name": "Dead Space Ignition",
-    "id": "x360257",
+    "id": "x360258",
     "igdbId": 20450,
     "gbId": 32039,
     "gbGuid": "3030-32039",
@@ -8977,7 +9027,7 @@
   },
   {
     "name": "Dead To Rights",
-    "id": "x360258",
+    "id": "x360259",
     "igdbId": 3872,
     "gbId": 3032,
     "gbGuid": "3030-3032",
@@ -9005,7 +9055,7 @@
   },
   {
     "name": "Dead or Alive 4",
-    "id": "x360259",
+    "id": "x360260",
     "igdbId": 1392,
     "gbId": 7792,
     "gbGuid": "3030-7792",
@@ -9069,7 +9119,7 @@
   },
   {
     "name": "Dead or Alive Xtreme 2",
-    "id": "x360260",
+    "id": "x360261",
     "igdbId": 1393,
     "gbId": 16202,
     "gbGuid": "3030-16202",
@@ -9107,7 +9157,7 @@
   },
   {
     "name": "Dead to Rights II",
-    "id": "x360261",
+    "id": "x360262",
     "igdbId": 5810,
     "gbId": 18411,
     "gbGuid": "3030-18411",
@@ -9135,7 +9185,7 @@
   },
   {
     "name": "Dead to Rights: Retribution",
-    "id": "x360262",
+    "id": "x360263",
     "igdbId": 6960,
     "gbId": 25286,
     "gbGuid": "3030-25286",
@@ -9163,7 +9213,7 @@
   },
   {
     "name": "Deadfall Adventures",
-    "id": "x360263",
+    "id": "x360264",
     "igdbId": 6961,
     "gbId": 41794,
     "gbGuid": "3030-41794",
@@ -9191,7 +9241,7 @@
   },
   {
     "name": "Deadliest Catch: Alaskan Storm",
-    "id": "x360264",
+    "id": "x360265",
     "igdbId": 6962,
     "gbId": 20740,
     "gbGuid": "3030-20740",
@@ -9215,7 +9265,7 @@
   },
   {
     "name": "Deadliest Warrior: Legends",
-    "id": "x360265",
+    "id": "x360266",
     "igdbId": 21080,
     "gbId": 35844,
     "gbGuid": "3030-35844",
@@ -9243,7 +9293,7 @@
   },
   {
     "name": "Deadliest Warrior: The Game",
-    "id": "x360266",
+    "id": "x360267",
     "igdbId": 67092,
     "gbId": 29790,
     "gbGuid": "3030-29790",
@@ -9271,7 +9321,7 @@
   },
   {
     "name": "Deadlight",
-    "id": "x360267",
+    "id": "x360268",
     "igdbId": 2354,
     "gbId": 37262,
     "gbGuid": "3030-37262",
@@ -9295,7 +9345,7 @@
   },
   {
     "name": "Deadly Premonition (PAL)",
-    "id": "x360268",
+    "id": "x360269",
     "igdbId": 1276,
     "gbId": 29212,
     "gbGuid": "3030-29212",
@@ -9328,7 +9378,7 @@
   },
   {
     "name": "Death Tank",
-    "id": "x360269",
+    "id": "x360270",
     "igdbId": 21259,
     "gbId": null,
     "gbGuid": null,
@@ -9352,7 +9402,7 @@
   },
   {
     "name": "DeathSpank",
-    "id": "x360270",
+    "id": "x360271",
     "igdbId": 2249,
     "gbId": 21733,
     "gbGuid": "3030-21733",
@@ -9380,7 +9430,7 @@
   },
   {
     "name": "Deathsmiles",
-    "id": "x360271",
+    "id": "x360272",
     "igdbId": 6963,
     "gbId": 24144,
     "gbGuid": "3030-24144",
@@ -9407,7 +9457,7 @@
   },
   {
     "name": "Deathsmiles I & II",
-    "id": "x360272",
+    "id": "x360273",
     "igdbId": 139183,
     "gbId": 80781,
     "gbGuid": "3030-80781",
@@ -9434,7 +9484,7 @@
   },
   {
     "name": "Deathsmiles II",
-    "id": "x360273",
+    "id": "x360274",
     "igdbId": 68011,
     "gbId": 27064,
     "gbGuid": "3030-27064",
@@ -9458,7 +9508,7 @@
   },
   {
     "name": "Defense Grid: The Awakening",
-    "id": "x360274",
+    "id": "x360275",
     "igdbId": 8190,
     "gbId": 23311,
     "gbGuid": "3030-23311",
@@ -9496,7 +9546,7 @@
   },
   {
     "name": "Destroy All Humans! Path Of The Furon",
-    "id": "x360275",
+    "id": "x360276",
     "igdbId": 2717,
     "gbId": 20820,
     "gbGuid": "3030-20820",
@@ -9520,7 +9570,7 @@
   },
   {
     "name": "Deus Ex: Human Revolution",
-    "id": "x360276",
+    "id": "x360277",
     "igdbId": 43,
     "gbId": 21358,
     "gbGuid": "3030-21358",
@@ -9561,7 +9611,7 @@
   },
   {
     "name": "Deus Ex: Human Revolution - Director's Cut",
-    "id": "x360277",
+    "id": "x360278",
     "igdbId": 9740,
     "gbId": 42021,
     "gbGuid": "3030-42021",
@@ -9589,7 +9639,7 @@
   },
   {
     "name": "Devil May Cry 4",
-    "id": "x360278",
+    "id": "x360279",
     "igdbId": 112,
     "gbId": 6681,
     "gbGuid": "3030-6681",
@@ -9629,7 +9679,7 @@
   },
   {
     "name": "Devotion",
-    "id": "x360279",
+    "id": "x360280",
     "igdbId": 104786,
     "gbId": 69209,
     "gbGuid": "3030-69209",
@@ -9657,7 +9707,7 @@
   },
   {
     "name": "DiRT 3",
-    "id": "x360280",
+    "id": "x360281",
     "igdbId": 524,
     "gbId": 30383,
     "gbGuid": "3030-30383",
@@ -9698,7 +9748,7 @@
   },
   {
     "name": "Dig Dug",
-    "id": "x360281",
+    "id": "x360282",
     "igdbId": 2636,
     "gbId": 2587,
     "gbGuid": "3030-2587",
@@ -9726,7 +9776,7 @@
   },
   {
     "name": "Dirt: Showdown",
-    "id": "x360282",
+    "id": "x360283",
     "igdbId": 7966,
     "gbId": 37034,
     "gbGuid": "3030-37034",
@@ -9754,7 +9804,7 @@
   },
   {
     "name": "Discs of Tron",
-    "id": "x360283",
+    "id": "x360284",
     "igdbId": 21817,
     "gbId": 21018,
     "gbGuid": "3030-21018",
@@ -9782,7 +9832,7 @@
   },
   {
     "name": "Dishonored",
-    "id": "x360284",
+    "id": "x360285",
     "igdbId": 533,
     "gbId": 35850,
     "gbGuid": "3030-35850",
@@ -9809,7 +9859,7 @@
   },
   {
     "name": "Dishwasher: Vampire Smile",
-    "id": "x360285",
+    "id": "x360286",
     "igdbId": 20582,
     "gbId": 30144,
     "gbGuid": "3030-30144",
@@ -9833,7 +9883,7 @@
   },
   {
     "name": "Disney Epic Mickey 2: The Power of Two",
-    "id": "x360286",
+    "id": "x360287",
     "igdbId": 1510,
     "gbId": 37164,
     "gbGuid": "3030-37164",
@@ -9861,7 +9911,7 @@
   },
   {
     "name": "Disney's Meet the Robinsons",
-    "id": "x360287",
+    "id": "x360288",
     "igdbId": 3884,
     "gbId": 22246,
     "gbGuid": "3030-22246",
@@ -9889,7 +9939,7 @@
   },
   {
     "name": "Disneyland Adventures",
-    "id": "x360288",
+    "id": "x360289",
     "igdbId": 108251,
     "gbId": 35541,
     "gbGuid": "3030-35541",
@@ -9916,7 +9966,7 @@
   },
   {
     "name": "Divinity II: Ego Draconis",
-    "id": "x360289",
+    "id": "x360290",
     "igdbId": 6358,
     "gbId": null,
     "gbGuid": null,
@@ -9940,7 +9990,7 @@
   },
   {
     "name": "Divinity II: The Dragon Knight Saga",
-    "id": "x360290",
+    "id": "x360291",
     "igdbId": 13178,
     "gbId": 33129,
     "gbGuid": "3030-33129",
@@ -9967,8 +10017,60 @@
     "misprintsErrors": []
   },
   {
+    "name": "DoDonPachi DaiFukkatsu Ver 1.5",
+    "id": "x360292",
+    "igdbId": 84160,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "DoDonPachi Daifukkatsu Black Label",
+    "id": "x360293",
+    "igdbId": 77997,
+    "gbId": 33917,
+    "gbGuid": "3030-33917",
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "DoDonPachi Daifukkatsu Ver 1.5",
-    "id": "x360291",
+    "id": "x360294",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -9994,15 +10096,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "DoDonPachi Resurrection",
+    "id": "x360295",
+    "igdbId": 1676,
+    "gbId": 32344,
+    "gbGuid": "3030-32344",
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "DoDonPachi Saidaioujou",
-    "id": "x360292",
+    "id": "x360296",
     "igdbId": 1673,
     "gbId": 37361,
     "gbGuid": "3030-37361",
     "tgdbId": 23728,
     "details": [
       "Microsoft Xbox 360 full exclusive",
-      "Microsoft Xbox 360 Platinum Collection (Japan)"
+      "Microsoft Xbox 360 Platinum Collection (Japan)",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -10027,13 +10156,50 @@
           "tgdbId": 15
         },
         "category": "hits"
+      },
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dodonpachi DaiOuJou Black Label EXTRA",
+    "id": "x360297",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Domino Master",
-    "id": "x360293",
+    "id": "x360298",
     "igdbId": 21794,
     "gbId": 23813,
     "gbGuid": "3030-23813",
@@ -10071,7 +10237,7 @@
   },
   {
     "name": "Doom",
-    "id": "x360294",
+    "id": "x360299",
     "igdbId": 673,
     "gbId": 7326,
     "gbGuid": "3030-7326",
@@ -10099,7 +10265,7 @@
   },
   {
     "name": "Doom 3: BFG Edition",
-    "id": "x360295",
+    "id": "x360300",
     "igdbId": 6968,
     "gbId": null,
     "gbGuid": null,
@@ -10127,7 +10293,7 @@
   },
   {
     "name": "Doom 3: Resurrection of Evil",
-    "id": "x360296",
+    "id": "x360301",
     "igdbId": 672,
     "gbId": 7754,
     "gbGuid": "3030-7754",
@@ -10155,7 +10321,7 @@
   },
   {
     "name": "Doom II",
-    "id": "x360297",
+    "id": "x360302",
     "igdbId": 312,
     "gbId": 621,
     "gbGuid": "3030-621",
@@ -10183,7 +10349,7 @@
   },
   {
     "name": "Doritos Crash Course",
-    "id": "x360298",
+    "id": "x360303",
     "igdbId": 18041,
     "gbId": 33114,
     "gbGuid": "3030-33114",
@@ -10211,7 +10377,7 @@
   },
   {
     "name": "Double D Dodgeball",
-    "id": "x360299",
+    "id": "x360304",
     "igdbId": 23043,
     "gbId": 20724,
     "gbGuid": "3030-20724",
@@ -10234,7 +10400,7 @@
   },
   {
     "name": "Double Dragon II: Wander of the Dragons",
-    "id": "x360300",
+    "id": "x360305",
     "igdbId": 21001,
     "gbId": 39858,
     "gbGuid": "3030-39858",
@@ -10257,7 +10423,7 @@
   },
   {
     "name": "Double Dragon Neon",
-    "id": "x360301",
+    "id": "x360306",
     "igdbId": 5968,
     "gbId": 37884,
     "gbGuid": "3030-37884",
@@ -10284,7 +10450,7 @@
   },
   {
     "name": "Dragon Age II",
-    "id": "x360302",
+    "id": "x360307",
     "igdbId": 78,
     "gbId": 30995,
     "gbGuid": "3030-30995",
@@ -10312,7 +10478,7 @@
   },
   {
     "name": "Dragon Age: Origins",
-    "id": "x360303",
+    "id": "x360308",
     "igdbId": 76,
     "gbId": 20738,
     "gbGuid": "3030-20738",
@@ -10366,7 +10532,7 @@
   },
   {
     "name": "Dragon Ball Z: Burst Limit",
-    "id": "x360304",
+    "id": "x360309",
     "igdbId": 2569,
     "gbId": 20500,
     "gbGuid": "3030-20500",
@@ -10393,7 +10559,7 @@
   },
   {
     "name": "Dragon Ball: Raging Blast",
-    "id": "x360305",
+    "id": "x360310",
     "igdbId": 19310,
     "gbId": 26565,
     "gbGuid": "3030-26565",
@@ -10420,7 +10586,7 @@
   },
   {
     "name": "Dragon Ball: Raging Blast 2",
-    "id": "x360306",
+    "id": "x360311",
     "igdbId": 19311,
     "gbId": 31233,
     "gbGuid": "3030-31233",
@@ -10447,7 +10613,7 @@
   },
   {
     "name": "Dragon's Dogma",
-    "id": "x360307",
+    "id": "x360312",
     "igdbId": 3968,
     "gbId": 34776,
     "gbGuid": "3030-34776",
@@ -10474,7 +10640,7 @@
   },
   {
     "name": "Dragon's Lair",
-    "id": "x360308",
+    "id": "x360313",
     "igdbId": 77154,
     "gbId": 23,
     "gbGuid": "3030-23",
@@ -10502,7 +10668,7 @@
   },
   {
     "name": "Dream Club",
-    "id": "x360309",
+    "id": "x360314",
     "igdbId": 6971,
     "gbId": null,
     "gbGuid": null,
@@ -10529,7 +10695,7 @@
   },
   {
     "name": "Dream Club Zero",
-    "id": "x360310",
+    "id": "x360315",
     "igdbId": 6972,
     "gbId": null,
     "gbGuid": null,
@@ -10556,7 +10722,7 @@
   },
   {
     "name": "Driver: San Francisco",
-    "id": "x360311",
+    "id": "x360316",
     "igdbId": 554,
     "gbId": 31634,
     "gbGuid": "3030-31634",
@@ -10597,7 +10763,7 @@
   },
   {
     "name": "DuckTales Remastered",
-    "id": "x360312",
+    "id": "x360317",
     "igdbId": 2904,
     "gbId": 42035,
     "gbGuid": "3030-42035",
@@ -10625,7 +10791,7 @@
   },
   {
     "name": "Duke Nukem Forever",
-    "id": "x360313",
+    "id": "x360318",
     "igdbId": 490,
     "gbId": 20721,
     "gbGuid": "3030-20721",
@@ -10653,7 +10819,7 @@
   },
   {
     "name": "Duke Nukem: Manhattan Project",
-    "id": "x360314",
+    "id": "x360319",
     "igdbId": 8505,
     "gbId": 7042,
     "gbGuid": "3030-7042",
@@ -10681,7 +10847,7 @@
   },
   {
     "name": "Dungeon Fighter Live: Fall of Hendon Myre",
-    "id": "x360315",
+    "id": "x360320",
     "igdbId": 65266,
     "gbId": 37988,
     "gbGuid": "3030-37988",
@@ -10704,7 +10870,7 @@
   },
   {
     "name": "Dungeon Siege III",
-    "id": "x360316",
+    "id": "x360321",
     "igdbId": 5988,
     "gbId": 20718,
     "gbGuid": "3030-20718",
@@ -10732,7 +10898,7 @@
   },
   {
     "name": "Dungeons & Dragons: Chronicles of Mystara",
-    "id": "x360317",
+    "id": "x360322",
     "igdbId": 21567,
     "gbId": 42036,
     "gbGuid": "3030-42036",
@@ -10760,7 +10926,7 @@
   },
   {
     "name": "Dust: An Elysian Tail",
-    "id": "x360318",
+    "id": "x360323",
     "igdbId": 2130,
     "gbId": 27691,
     "gbGuid": "3030-27691",
@@ -10784,7 +10950,7 @@
   },
   {
     "name": "Dying Light",
-    "id": "x360319",
+    "id": "x360324",
     "igdbId": 3042,
     "gbId": 42712,
     "gbGuid": "3030-42712",
@@ -10812,7 +10978,7 @@
   },
   {
     "name": "Dynasty Warriors 6",
-    "id": "x360320",
+    "id": "x360325",
     "igdbId": 6975,
     "gbId": 20816,
     "gbGuid": "3030-20816",
@@ -10839,7 +11005,7 @@
   },
   {
     "name": "Dynasty Warriors: Gundam 2",
-    "id": "x360321",
+    "id": "x360326",
     "igdbId": 6978,
     "gbId": 23619,
     "gbGuid": "3030-23619",
@@ -10866,7 +11032,7 @@
   },
   {
     "name": "Dynasty Warriors: Gundam 3",
-    "id": "x360322",
+    "id": "x360327",
     "igdbId": 6982,
     "gbId": 32839,
     "gbGuid": "3030-32839",
@@ -10893,7 +11059,7 @@
   },
   {
     "name": "EA Sports MMA",
-    "id": "x360323",
+    "id": "x360328",
     "igdbId": 6984,
     "gbId": 26815,
     "gbGuid": "3030-26815",
@@ -10921,7 +11087,7 @@
   },
   {
     "name": "Earth Defense Force 2017",
-    "id": "x360324",
+    "id": "x360329",
     "igdbId": 5583,
     "gbId": 7338,
     "gbGuid": "3030-7338",
@@ -10972,7 +11138,7 @@
   },
   {
     "name": "Earth Defense Force 2025",
-    "id": "x360325",
+    "id": "x360330",
     "igdbId": 5585,
     "gbId": 33539,
     "gbGuid": "3030-33539",
@@ -11000,7 +11166,7 @@
   },
   {
     "name": "Earth Defense Force: Insect Armageddon",
-    "id": "x360326",
+    "id": "x360331",
     "igdbId": 5584,
     "gbId": 32573,
     "gbGuid": "3030-32573",
@@ -11041,7 +11207,7 @@
   },
   {
     "name": "Earthworm Jim HD",
-    "id": "x360327",
+    "id": "x360332",
     "igdbId": 20420,
     "gbId": null,
     "gbGuid": null,
@@ -11069,7 +11235,7 @@
   },
   {
     "name": "Eat Lead: The Return of Matt Hazard",
-    "id": "x360328",
+    "id": "x360333",
     "igdbId": 574,
     "gbId": 23974,
     "gbGuid": "3030-23974",
@@ -11097,7 +11263,7 @@
   },
   {
     "name": "Eets: Chowdown",
-    "id": "x360329",
+    "id": "x360334",
     "igdbId": 21946,
     "gbId": 7115,
     "gbGuid": "3030-7115",
@@ -11120,7 +11286,7 @@
   },
   {
     "name": "Elements of Destruction",
-    "id": "x360330",
+    "id": "x360335",
     "igdbId": 21517,
     "gbId": 21028,
     "gbGuid": "3030-21028",
@@ -11144,7 +11310,7 @@
   },
   {
     "name": "Encleverment Experiment",
-    "id": "x360331",
+    "id": "x360336",
     "igdbId": 67956,
     "gbId": 27216,
     "gbGuid": "3030-27216",
@@ -11172,7 +11338,7 @@
   },
   {
     "name": "Enslaved: Odyssey to the West (Press Kit)",
-    "id": "x360332",
+    "id": "x360337",
     "igdbId": 2538,
     "gbId": 28080,
     "gbGuid": "3030-28080",
@@ -11190,7 +11356,7 @@
   },
   {
     "name": "Escape Dead Island",
-    "id": "x360333",
+    "id": "x360338",
     "igdbId": 7499,
     "gbId": 46863,
     "gbGuid": "3030-46863",
@@ -11218,13 +11384,14 @@
   },
   {
     "name": "Eschatos",
-    "id": "x360334",
+    "id": "x360339",
     "igdbId": 35021,
     "gbId": 33946,
     "gbGuid": "3030-33946",
     "tgdbId": 23727,
     "details": [
-      "Microsoft Xbox 360 full exclusive"
+      "Microsoft Xbox 360 full exclusive",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -11237,17 +11404,30 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Espgaluda II: Black Label",
-    "id": "x360335",
+    "id": "x360340",
     "igdbId": 80457,
     "gbId": 30001,
     "gbGuid": "3030-30001",
     "details": [
-      "Microsoft Xbox 360 Platinum Collection (Japan)"
+      "Microsoft Xbox 360 Platinum Collection (Japan)",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -11263,13 +11443,24 @@
           "tgdbId": 15
         },
         "category": "hits"
+      },
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Eternal Sonata",
-    "id": "x360336",
+    "id": "x360341",
     "igdbId": 6990,
     "gbId": 10518,
     "gbGuid": "3030-10518",
@@ -11296,7 +11487,7 @@
   },
   {
     "name": "EverQuest",
-    "id": "x360337",
+    "id": "x360342",
     "igdbId": 282,
     "gbId": 10796,
     "gbGuid": "3030-10796",
@@ -11324,7 +11515,7 @@
   },
   {
     "name": "Every Extend Extra Extreme",
-    "id": "x360338",
+    "id": "x360343",
     "igdbId": 21835,
     "gbId": 2320,
     "gbGuid": "3030-2320",
@@ -11362,7 +11553,7 @@
   },
   {
     "name": "Every Party",
-    "id": "x360339",
+    "id": "x360344",
     "igdbId": 70529,
     "gbId": 24844,
     "gbGuid": "3030-24844",
@@ -11399,7 +11590,7 @@
   },
   {
     "name": "Exit 2",
-    "id": "x360340",
+    "id": "x360345",
     "igdbId": 28961,
     "gbId": 23189,
     "gbGuid": "3030-23189",
@@ -11423,7 +11614,7 @@
   },
   {
     "name": "F.E.A.R.",
-    "id": "x360341",
+    "id": "x360346",
     "igdbId": 517,
     "gbId": 4800,
     "gbGuid": "3030-4800",
@@ -11450,7 +11641,7 @@
   },
   {
     "name": "F.E.A.R. Files",
-    "id": "x360342",
+    "id": "x360347",
     "igdbId": 5640,
     "gbId": 3980,
     "gbGuid": "3030-3980",
@@ -11474,7 +11665,7 @@
   },
   {
     "name": "F1 2012",
-    "id": "x360343",
+    "id": "x360348",
     "igdbId": 1373,
     "gbId": 37743,
     "gbGuid": "3030-37743",
@@ -11501,7 +11692,7 @@
   },
   {
     "name": "F1 2014",
-    "id": "x360344",
+    "id": "x360349",
     "igdbId": 7866,
     "gbId": 47233,
     "gbGuid": "3030-47233",
@@ -11529,7 +11720,7 @@
   },
   {
     "name": "FIFA 06: Road to FIFA World Cup",
-    "id": "x360345",
+    "id": "x360350",
     "igdbId": 22342,
     "gbId": 27038,
     "gbGuid": "3030-27038",
@@ -11553,7 +11744,7 @@
   },
   {
     "name": "FIFA 07",
-    "id": "x360346",
+    "id": "x360351",
     "igdbId": 696,
     "gbId": 37,
     "gbGuid": "3030-37",
@@ -11580,7 +11771,7 @@
   },
   {
     "name": "FIFA 08",
-    "id": "x360347",
+    "id": "x360352",
     "igdbId": 3135,
     "gbId": 19350,
     "gbGuid": "3030-19350",
@@ -11607,7 +11798,7 @@
   },
   {
     "name": "FIFA 09",
-    "id": "x360348",
+    "id": "x360353",
     "igdbId": 3134,
     "gbId": 21030,
     "gbGuid": "3030-21030",
@@ -11634,7 +11825,7 @@
   },
   {
     "name": "FIFA 10",
-    "id": "x360349",
+    "id": "x360354",
     "igdbId": 3133,
     "gbId": 26702,
     "gbGuid": "3030-26702",
@@ -11661,7 +11852,7 @@
   },
   {
     "name": "FIFA 11",
-    "id": "x360350",
+    "id": "x360355",
     "igdbId": 503,
     "gbId": 31651,
     "gbGuid": "3030-31651",
@@ -11688,7 +11879,7 @@
   },
   {
     "name": "FIFA 12",
-    "id": "x360351",
+    "id": "x360356",
     "igdbId": 2946,
     "gbId": 34856,
     "gbGuid": "3030-34856",
@@ -11715,7 +11906,7 @@
   },
   {
     "name": "FIFA Street",
-    "id": "x360352",
+    "id": "x360357",
     "igdbId": 5575,
     "gbId": 36150,
     "gbGuid": "3030-36150",
@@ -11742,7 +11933,7 @@
   },
   {
     "name": "FIFA Street 3",
-    "id": "x360353",
+    "id": "x360358",
     "igdbId": 7304,
     "gbId": 20785,
     "gbGuid": "3030-20785",
@@ -11769,7 +11960,7 @@
   },
   {
     "name": "FUEL",
-    "id": "x360354",
+    "id": "x360359",
     "igdbId": 567,
     "gbId": 23461,
     "gbGuid": "3030-23461",
@@ -11797,7 +11988,7 @@
   },
   {
     "name": "Fable Anniversary",
-    "id": "x360355",
+    "id": "x360360",
     "igdbId": 7658,
     "gbId": 42844,
     "gbGuid": "3030-42844",
@@ -11835,7 +12026,7 @@
   },
   {
     "name": "Fable Heroes",
-    "id": "x360356",
+    "id": "x360361",
     "igdbId": 19906,
     "gbId": 37653,
     "gbGuid": "3030-37653",
@@ -11873,7 +12064,7 @@
   },
   {
     "name": "Fable II",
-    "id": "x360357",
+    "id": "x360362",
     "igdbId": 522,
     "gbId": 20514,
     "gbGuid": "3030-20514",
@@ -11950,7 +12141,7 @@
   },
   {
     "name": "Fable II Pub Games",
-    "id": "x360358",
+    "id": "x360363",
     "igdbId": 21328,
     "gbId": 22987,
     "gbGuid": "3030-22987",
@@ -11988,7 +12179,7 @@
   },
   {
     "name": "Fable III",
-    "id": "x360359",
+    "id": "x360364",
     "igdbId": 504,
     "gbId": 27878,
     "gbGuid": "3030-27878",
@@ -12039,7 +12230,7 @@
   },
   {
     "name": "Faery: Legends of Avalon",
-    "id": "x360360",
+    "id": "x360365",
     "igdbId": 10295,
     "gbId": 32108,
     "gbGuid": "3030-32108",
@@ -12067,7 +12258,7 @@
   },
   {
     "name": "Fallout 3",
-    "id": "x360361",
+    "id": "x360366",
     "igdbId": 15,
     "gbId": 20504,
     "gbGuid": "3030-20504",
@@ -12121,7 +12312,7 @@
   },
   {
     "name": "Fallout 3: Game of the Year Edition",
-    "id": "x360362",
+    "id": "x360367",
     "igdbId": 21892,
     "gbId": 20504,
     "gbGuid": "3030-20504",
@@ -12148,7 +12339,7 @@
   },
   {
     "name": "Fallout: New Vegas",
-    "id": "x360363",
+    "id": "x360368",
     "igdbId": 16,
     "gbId": 25933,
     "gbGuid": "3030-25933",
@@ -12202,7 +12393,7 @@
   },
   {
     "name": "Fallout: New Vegas - Ultimate Edition",
-    "id": "x360364",
+    "id": "x360369",
     "igdbId": 25532,
     "gbId": null,
     "gbGuid": null,
@@ -12229,7 +12420,7 @@
   },
   {
     "name": "Fantasia: Music Evolved",
-    "id": "x360365",
+    "id": "x360370",
     "igdbId": 4785,
     "gbId": 42842,
     "gbGuid": "3030-42842",
@@ -12253,7 +12444,7 @@
   },
   {
     "name": "Far Cry",
-    "id": "x360366",
+    "id": "x360371",
     "igdbId": 306,
     "gbId": 14782,
     "gbGuid": "3030-14782",
@@ -12281,7 +12472,7 @@
   },
   {
     "name": "Far Cry 2",
-    "id": "x360367",
+    "id": "x360372",
     "igdbId": 361,
     "gbId": 20665,
     "gbGuid": "3030-20665",
@@ -12335,7 +12526,7 @@
   },
   {
     "name": "Far Cry 3",
-    "id": "x360368",
+    "id": "x360373",
     "igdbId": 529,
     "gbId": 32933,
     "gbGuid": "3030-32933",
@@ -12389,7 +12580,7 @@
   },
   {
     "name": "Far Cry 3: Blood Dragon",
-    "id": "x360369",
+    "id": "x360374",
     "igdbId": 2001,
     "gbId": 42241,
     "gbGuid": "3030-42241",
@@ -12417,7 +12608,7 @@
   },
   {
     "name": "Far Cry 4",
-    "id": "x360370",
+    "id": "x360375",
     "igdbId": 6801,
     "gbId": 46310,
     "gbGuid": "3030-46310",
@@ -12444,7 +12635,7 @@
   },
   {
     "name": "Far Cry Instincts",
-    "id": "x360371",
+    "id": "x360376",
     "igdbId": 5831,
     "gbId": 13290,
     "gbGuid": "3030-13290",
@@ -12468,7 +12659,7 @@
   },
   {
     "name": "Fatal Fury Special",
-    "id": "x360372",
+    "id": "x360377",
     "igdbId": 5385,
     "gbId": 19200,
     "gbGuid": "3030-19200",
@@ -12492,7 +12683,7 @@
   },
   {
     "name": "Feeding Frenzy",
-    "id": "x360373",
+    "id": "x360378",
     "igdbId": 3759,
     "gbId": 18440,
     "gbGuid": "3030-18440",
@@ -12530,7 +12721,7 @@
   },
   {
     "name": "Feeding Frenzy 2: Shipwreck Showdown",
-    "id": "x360374",
+    "id": "x360379",
     "igdbId": 8321,
     "gbId": 2334,
     "gbGuid": "3030-2334",
@@ -12568,7 +12759,7 @@
   },
   {
     "name": "Fez",
-    "id": "x360375",
+    "id": "x360380",
     "igdbId": 1991,
     "gbId": 24768,
     "gbGuid": "3030-24768",
@@ -12592,7 +12783,7 @@
   },
   {
     "name": "Fight Night Champion",
-    "id": "x360376",
+    "id": "x360381",
     "igdbId": 6356,
     "gbId": 32128,
     "gbGuid": "3030-32128",
@@ -12620,7 +12811,7 @@
   },
   {
     "name": "Fight Night Round 3",
-    "id": "x360377",
+    "id": "x360382",
     "igdbId": 5836,
     "gbId": 8095,
     "gbGuid": "3030-8095",
@@ -12673,7 +12864,7 @@
   },
   {
     "name": "Fight Night Round 4",
-    "id": "x360378",
+    "id": "x360383",
     "igdbId": 6993,
     "gbId": 20452,
     "gbGuid": "3030-20452",
@@ -12713,7 +12904,7 @@
   },
   {
     "name": "Fighting Vipers",
-    "id": "x360379",
+    "id": "x360384",
     "igdbId": 39471,
     "gbId": 5662,
     "gbGuid": "3030-5662",
@@ -12741,7 +12932,7 @@
   },
   {
     "name": "Final Fantasy XIII",
-    "id": "x360380",
+    "id": "x360385",
     "igdbId": 389,
     "gbId": 20664,
     "gbGuid": "3030-20664",
@@ -12795,7 +12986,7 @@
   },
   {
     "name": "Final Fantasy XIII-2",
-    "id": "x360381",
+    "id": "x360386",
     "igdbId": 384,
     "gbId": 33883,
     "gbGuid": "3030-33883",
@@ -12836,7 +13027,7 @@
   },
   {
     "name": "Final Fight: Double Impact",
-    "id": "x360382",
+    "id": "x360387",
     "igdbId": 21098,
     "gbId": 29287,
     "gbGuid": "3030-29287",
@@ -12864,7 +13055,7 @@
   },
   {
     "name": "Fist of the North Star: Ken's Rage",
-    "id": "x360383",
+    "id": "x360388",
     "igdbId": 6995,
     "gbId": 29036,
     "gbGuid": "3030-29036",
@@ -12891,7 +13082,7 @@
   },
   {
     "name": "Flashback",
-    "id": "x360384",
+    "id": "x360389",
     "igdbId": 19833,
     "gbId": 42895,
     "gbGuid": "3030-42895",
@@ -12919,7 +13110,7 @@
   },
   {
     "name": "FlatOut: Ultimate Carnage",
-    "id": "x360385",
+    "id": "x360390",
     "igdbId": 3777,
     "gbId": 6836,
     "gbGuid": "3030-6836",
@@ -12943,7 +13134,7 @@
   },
   {
     "name": "Flock!",
-    "id": "x360386",
+    "id": "x360391",
     "igdbId": 14929,
     "gbId": 21142,
     "gbGuid": "3030-21142",
@@ -12971,7 +13162,7 @@
   },
   {
     "name": "Football Manager",
-    "id": "x360387",
+    "id": "x360392",
     "igdbId": 23064,
     "gbId": 13818,
     "gbGuid": "3030-13818",
@@ -12999,7 +13190,7 @@
   },
   {
     "name": "Football Manager 2005",
-    "id": "x360388",
+    "id": "x360393",
     "igdbId": 944,
     "gbId": null,
     "gbGuid": null,
@@ -13027,7 +13218,7 @@
   },
   {
     "name": "Forza Horizon",
-    "id": "x360389",
+    "id": "x360394",
     "igdbId": 3047,
     "gbId": 37648,
     "gbGuid": "3030-37648",
@@ -13078,7 +13269,7 @@
   },
   {
     "name": "Forza Horizon 2",
-    "id": "x360390",
+    "id": "x360395",
     "igdbId": 7326,
     "gbId": 46474,
     "gbGuid": "3030-46474",
@@ -13102,7 +13293,7 @@
   },
   {
     "name": "Forza Motorsport 2",
-    "id": "x360391",
+    "id": "x360396",
     "igdbId": 3072,
     "gbId": 5881,
     "gbGuid": "3030-5881",
@@ -13166,7 +13357,7 @@
   },
   {
     "name": "Forza Motorsport 3",
-    "id": "x360392",
+    "id": "x360397",
     "igdbId": 3069,
     "gbId": 24995,
     "gbGuid": "3030-24995",
@@ -13217,7 +13408,7 @@
   },
   {
     "name": "Forza Motorsport 4",
-    "id": "x360393",
+    "id": "x360398",
     "igdbId": 3068,
     "gbId": 33400,
     "gbGuid": "3030-33400",
@@ -13268,7 +13459,7 @@
   },
   {
     "name": "Foul Play",
-    "id": "x360394",
+    "id": "x360399",
     "igdbId": 5895,
     "gbId": 39282,
     "gbGuid": "3030-39282",
@@ -13306,7 +13497,7 @@
   },
   {
     "name": "Fret Nice",
-    "id": "x360395",
+    "id": "x360400",
     "igdbId": 52230,
     "gbId": 26828,
     "gbGuid": "3030-26828",
@@ -13334,7 +13525,7 @@
   },
   {
     "name": "Frogger",
-    "id": "x360396",
+    "id": "x360401",
     "igdbId": 11465,
     "gbId": 11903,
     "gbGuid": "3030-11903",
@@ -13372,7 +13563,7 @@
   },
   {
     "name": "Frogger 2",
-    "id": "x360397",
+    "id": "x360402",
     "igdbId": 111559,
     "gbId": 8515,
     "gbGuid": "3030-8515",
@@ -13410,7 +13601,7 @@
   },
   {
     "name": "From Dust",
-    "id": "x360398",
+    "id": "x360403",
     "igdbId": 3160,
     "gbId": 31722,
     "gbGuid": "3030-31722",
@@ -13438,7 +13629,7 @@
   },
   {
     "name": "Frontlines: Fuel of War",
-    "id": "x360399",
+    "id": "x360404",
     "igdbId": 6997,
     "gbId": 19654,
     "gbGuid": "3030-19654",
@@ -13476,7 +13667,7 @@
   },
   {
     "name": "Fruit Ninja Kinect",
-    "id": "x360400",
+    "id": "x360405",
     "igdbId": 65910,
     "gbId": 35537,
     "gbGuid": "3030-35537",
@@ -13500,7 +13691,7 @@
   },
   {
     "name": "Full Auto",
-    "id": "x360401",
+    "id": "x360406",
     "igdbId": 6998,
     "gbId": 11473,
     "gbGuid": "3030-11473",
@@ -13524,7 +13715,7 @@
   },
   {
     "name": "Full House Poker",
-    "id": "x360402",
+    "id": "x360407",
     "igdbId": 17472,
     "gbId": 33732,
     "gbGuid": "3030-33732",
@@ -13548,7 +13739,7 @@
   },
   {
     "name": "FunTown Mahjong",
-    "id": "x360403",
+    "id": "x360408",
     "igdbId": 77280,
     "gbId": 25190,
     "gbGuid": "3030-25190",
@@ -13586,7 +13777,7 @@
   },
   {
     "name": "Fusion: Genesis",
-    "id": "x360404",
+    "id": "x360409",
     "igdbId": 22935,
     "gbId": 36681,
     "gbGuid": "3030-36681",
@@ -13609,7 +13800,7 @@
   },
   {
     "name": "Fuzion Frenzy 2",
-    "id": "x360405",
+    "id": "x360410",
     "igdbId": 6999,
     "gbId": 10366,
     "gbGuid": "3030-10366",
@@ -13633,7 +13824,7 @@
   },
   {
     "name": "GRID 2",
-    "id": "x360406",
+    "id": "x360411",
     "igdbId": 2138,
     "gbId": 33118,
     "gbGuid": "3030-33118",
@@ -13661,7 +13852,7 @@
   },
   {
     "name": "GRID Autosport",
-    "id": "x360407",
+    "id": "x360412",
     "igdbId": 6415,
     "gbId": 46078,
     "gbGuid": "3030-46078",
@@ -13689,7 +13880,7 @@
   },
   {
     "name": "Ga-Sen Love Plus Pengo!",
-    "id": "x360408",
+    "id": "x360413",
     "igdbId": 61571,
     "gbId": 46365,
     "gbGuid": "3030-46365",
@@ -13712,7 +13903,7 @@
   },
   {
     "name": "Gal*Gun 2",
-    "id": "x360409",
+    "id": "x360414",
     "igdbId": 68279,
     "gbId": 61974,
     "gbGuid": "3030-61974",
@@ -13741,7 +13932,7 @@
   },
   {
     "name": "Gal*Gun: Double Peace",
-    "id": "x360410",
+    "id": "x360415",
     "igdbId": 11564,
     "gbId": 49014,
     "gbGuid": "3030-49014",
@@ -13770,7 +13961,7 @@
   },
   {
     "name": "Galaga",
-    "id": "x360411",
+    "id": "x360416",
     "igdbId": 2751,
     "gbId": 15784,
     "gbGuid": "3030-15784",
@@ -13808,7 +13999,7 @@
   },
   {
     "name": "Galaga Legions",
-    "id": "x360412",
+    "id": "x360417",
     "igdbId": 21347,
     "gbId": 21093,
     "gbGuid": "3030-21093",
@@ -13846,7 +14037,7 @@
   },
   {
     "name": "Galaga Legions DX",
-    "id": "x360413",
+    "id": "x360418",
     "igdbId": 10762,
     "gbId": 35732,
     "gbGuid": "3030-35732",
@@ -13874,7 +14065,7 @@
   },
   {
     "name": "Game Party: In Motion",
-    "id": "x360414",
+    "id": "x360419",
     "igdbId": 2659,
     "gbId": 32661,
     "gbGuid": "3030-32661",
@@ -13901,7 +14092,7 @@
   },
   {
     "name": "Game Room ",
-    "id": "x360415",
+    "id": "x360420",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -13924,7 +14115,7 @@
   },
   {
     "name": "Garou: Mark of the Wolves",
-    "id": "x360416",
+    "id": "x360421",
     "igdbId": 10605,
     "gbId": 10674,
     "gbGuid": "3030-10674",
@@ -13962,7 +14153,7 @@
   },
   {
     "name": "Gatling Gears",
-    "id": "x360417",
+    "id": "x360422",
     "igdbId": 15134,
     "gbId": 34423,
     "gbGuid": "3030-34423",
@@ -13990,7 +14181,7 @@
   },
   {
     "name": "Gears of War",
-    "id": "x360418",
+    "id": "x360423",
     "igdbId": 547,
     "gbId": 12231,
     "gbGuid": "3030-12231",
@@ -14080,7 +14271,7 @@
   },
   {
     "name": "Gears of War 2",
-    "id": "x360419",
+    "id": "x360424",
     "igdbId": 548,
     "gbId": 20662,
     "gbGuid": "3030-20662",
@@ -14170,7 +14361,7 @@
   },
   {
     "name": "Gears of War 3",
-    "id": "x360420",
+    "id": "x360425",
     "igdbId": 492,
     "gbId": 30615,
     "gbGuid": "3030-30615",
@@ -14221,7 +14412,7 @@
   },
   {
     "name": "Gears of War: Judgment",
-    "id": "x360421",
+    "id": "x360426",
     "igdbId": 1319,
     "gbId": 38481,
     "gbGuid": "3030-38481",
@@ -14272,7 +14463,7 @@
   },
   {
     "name": "Gel: Set & Match",
-    "id": "x360422",
+    "id": "x360427",
     "igdbId": 93921,
     "gbId": 25418,
     "gbGuid": "3030-25418",
@@ -14295,7 +14486,7 @@
   },
   {
     "name": "Geometry Wars 3: Dimensions",
-    "id": "x360423",
+    "id": "x360428",
     "igdbId": 7705,
     "gbId": 47352,
     "gbGuid": "3030-47352",
@@ -14323,7 +14514,7 @@
   },
   {
     "name": "Geometry Wars: Retro Evolved",
-    "id": "x360424",
+    "id": "x360429",
     "igdbId": 15756,
     "gbId": 11099,
     "gbGuid": "3030-11099",
@@ -14361,7 +14552,7 @@
   },
   {
     "name": "Geometry Wars: Retro Evolved 2",
-    "id": "x360425",
+    "id": "x360430",
     "igdbId": 4887,
     "gbId": 21167,
     "gbGuid": "3030-21167",
@@ -14399,7 +14590,7 @@
   },
   {
     "name": "Geon: Emotions",
-    "id": "x360426",
+    "id": "x360431",
     "igdbId": 20376,
     "gbId": 20518,
     "gbGuid": "3030-20518",
@@ -14422,7 +14613,7 @@
   },
   {
     "name": "Ghostbusters: Sanctum of Slime",
-    "id": "x360427",
+    "id": "x360432",
     "igdbId": 14849,
     "gbId": 33320,
     "gbGuid": "3030-33320",
@@ -14450,7 +14641,7 @@
   },
   {
     "name": "Ghostbusters: The Video Game",
-    "id": "x360428",
+    "id": "x360433",
     "igdbId": 566,
     "gbId": 20688,
     "gbGuid": "3030-20688",
@@ -14478,7 +14669,7 @@
   },
   {
     "name": "Gin Rummy",
-    "id": "x360429",
+    "id": "x360434",
     "igdbId": 62392,
     "gbId": 22973,
     "gbGuid": "3030-22973",
@@ -14516,7 +14707,7 @@
   },
   {
     "name": "Ginga Force",
-    "id": "x360430",
+    "id": "x360435",
     "igdbId": 7810,
     "gbId": 38615,
     "gbGuid": "3030-38615",
@@ -14540,7 +14731,7 @@
   },
   {
     "name": "Girl Fight",
-    "id": "x360431",
+    "id": "x360436",
     "igdbId": 19971,
     "gbId": 37482,
     "gbGuid": "3030-37482",
@@ -14568,7 +14759,7 @@
   },
   {
     "name": "Go! Go! Break Steady",
-    "id": "x360432",
+    "id": "x360437",
     "igdbId": 23031,
     "gbId": 21601,
     "gbGuid": "3030-21601",
@@ -14606,7 +14797,7 @@
   },
   {
     "name": "Goat Simulator",
-    "id": "x360433",
+    "id": "x360438",
     "igdbId": 5335,
     "gbId": 45405,
     "gbGuid": "3030-45405",
@@ -14634,7 +14825,7 @@
   },
   {
     "name": "God of War",
-    "id": "x360434",
+    "id": "x360439",
     "igdbId": 19560,
     "gbId": 6959,
     "gbGuid": "3030-6959",
@@ -14664,7 +14855,7 @@
   },
   {
     "name": "Golden Axe",
-    "id": "x360435",
+    "id": "x360440",
     "igdbId": 5565,
     "gbId": 14351,
     "gbGuid": "3030-14351",
@@ -14692,7 +14883,7 @@
   },
   {
     "name": "Golden Axe: Beast Rider",
-    "id": "x360436",
+    "id": "x360441",
     "igdbId": 7001,
     "gbId": 20928,
     "gbGuid": "3030-20928",
@@ -14720,7 +14911,7 @@
   },
   {
     "name": "GoldenEye 007: Reloaded",
-    "id": "x360437",
+    "id": "x360442",
     "igdbId": 1651,
     "gbId": 35939,
     "gbGuid": "3030-35939",
@@ -14738,7 +14929,7 @@
   },
   {
     "name": "Golf: Tee It Up!",
-    "id": "x360438",
+    "id": "x360443",
     "igdbId": 20794,
     "gbId": 21364,
     "gbGuid": "3030-21364",
@@ -14776,7 +14967,7 @@
   },
   {
     "name": "Grand Theft Auto",
-    "id": "x360439",
+    "id": "x360444",
     "igdbId": 44870,
     "gbId": 13567,
     "gbGuid": "3030-13567",
@@ -14805,7 +14996,7 @@
   },
   {
     "name": "Grand Theft Auto IV",
-    "id": "x360440",
+    "id": "x360445",
     "igdbId": 731,
     "gbId": 20457,
     "gbGuid": "3030-20457",
@@ -14872,7 +15063,7 @@
   },
   {
     "name": "Grand Theft Auto V",
-    "id": "x360441",
+    "id": "x360446",
     "igdbId": 1020,
     "gbId": 36765,
     "gbGuid": "3030-36765",
@@ -14914,7 +15105,7 @@
   },
   {
     "name": "Grand Theft Auto: Episodes from Liberty City",
-    "id": "x360442",
+    "id": "x360447",
     "igdbId": 7003,
     "gbId": 26616,
     "gbGuid": "3030-26616",
@@ -14956,7 +15147,7 @@
   },
   {
     "name": "Grand Theft Auto: Liberty City Stories",
-    "id": "x360443",
+    "id": "x360448",
     "igdbId": 3263,
     "gbId": 6731,
     "gbGuid": "3030-6731",
@@ -14985,7 +15176,7 @@
   },
   {
     "name": "Grand Theft Auto: San Andreas",
-    "id": "x360444",
+    "id": "x360449",
     "igdbId": 732,
     "gbId": 7120,
     "gbGuid": "3030-7120",
@@ -15053,7 +15244,7 @@
   },
   {
     "name": "Grand Theft Auto: Vice City",
-    "id": "x360445",
+    "id": "x360450",
     "igdbId": 733,
     "gbId": 17036,
     "gbGuid": "3030-17036",
@@ -15082,7 +15273,7 @@
   },
   {
     "name": "Grand Theft Auto: Vice City Stories",
-    "id": "x360446",
+    "id": "x360451",
     "igdbId": 3262,
     "gbId": 10264,
     "gbGuid": "3030-10264",
@@ -15111,7 +15302,7 @@
   },
   {
     "name": "Greg Hastings Paintball 2",
-    "id": "x360447",
+    "id": "x360452",
     "igdbId": 24317,
     "gbId": 27531,
     "gbGuid": "3030-27531",
@@ -15139,7 +15330,7 @@
   },
   {
     "name": "GripShift",
-    "id": "x360448",
+    "id": "x360453",
     "igdbId": 21810,
     "gbId": 3113,
     "gbGuid": "3030-3113",
@@ -15167,7 +15358,7 @@
   },
   {
     "name": "Guardian Heroes",
-    "id": "x360449",
+    "id": "x360454",
     "igdbId": 51635,
     "gbId": null,
     "gbGuid": null,
@@ -15195,7 +15386,7 @@
   },
   {
     "name": "Guilty Gear 2: Overture",
-    "id": "x360450",
+    "id": "x360455",
     "igdbId": 7004,
     "gbId": 22188,
     "gbGuid": "3030-22188",
@@ -15219,7 +15410,7 @@
   },
   {
     "name": "Guitar Hero III: Legends of Rock",
-    "id": "x360451",
+    "id": "x360456",
     "igdbId": 2671,
     "gbId": 4031,
     "gbGuid": "3030-4031",
@@ -15246,7 +15437,7 @@
   },
   {
     "name": "Guitar Hero: Aerosmith",
-    "id": "x360452",
+    "id": "x360457",
     "igdbId": 2673,
     "gbId": 20684,
     "gbGuid": "3030-20684",
@@ -15273,7 +15464,7 @@
   },
   {
     "name": "Guitar Hero: Metallica",
-    "id": "x360453",
+    "id": "x360458",
     "igdbId": 2674,
     "gbId": 22562,
     "gbGuid": "3030-22562",
@@ -15291,7 +15482,7 @@
   },
   {
     "name": "Gun",
-    "id": "x360454",
+    "id": "x360459",
     "igdbId": 3939,
     "gbId": 8873,
     "gbGuid": "3030-8873",
@@ -15329,7 +15520,7 @@
   },
   {
     "name": "Gunstar Heroes",
-    "id": "x360455",
+    "id": "x360460",
     "igdbId": 6405,
     "gbId": 2190,
     "gbGuid": "3030-2190",
@@ -15357,14 +15548,15 @@
   },
   {
     "name": "Guwange",
-    "id": "x360456",
+    "id": "x360461",
     "igdbId": 21162,
     "gbId": 30553,
     "gbGuid": "3030-30553",
     "tgdbId": 12268,
     "details": [
       "Microsoft Xbox 360 full exclusive (Xbox LIVE Arcade)",
-      "Xbox 360 game backward compatible with Xbox One"
+      "Xbox 360 game backward compatible with Xbox One",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -15389,13 +15581,24 @@
           "tgdbId": 15
         },
         "category": "backwardsCompatibility"
+      },
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Gyromancer",
-    "id": "x360457",
+    "id": "x360462",
     "igdbId": 10385,
     "gbId": 28329,
     "gbGuid": "3030-28329",
@@ -15433,7 +15636,7 @@
   },
   {
     "name": "Gyruss",
-    "id": "x360458",
+    "id": "x360463",
     "igdbId": 12308,
     "gbId": 18885,
     "gbGuid": "3030-18885",
@@ -15461,7 +15664,7 @@
   },
   {
     "name": "Half-Life",
-    "id": "x360459",
+    "id": "x360464",
     "igdbId": 231,
     "gbId": 2980,
     "gbGuid": "3030-2980",
@@ -15489,7 +15692,7 @@
   },
   {
     "name": "Half-Minute Hero: Super Mega Neo Climax",
-    "id": "x360460",
+    "id": "x360465",
     "igdbId": 78458,
     "gbId": 35325,
     "gbGuid": "3030-35325",
@@ -15527,7 +15730,7 @@
   },
   {
     "name": "Halo 3",
-    "id": "x360461",
+    "id": "x360466",
     "igdbId": 987,
     "gbId": 9993,
     "gbGuid": "3030-9993",
@@ -15604,7 +15807,7 @@
   },
   {
     "name": "Halo 3: ODST",
-    "id": "x360462",
+    "id": "x360467",
     "igdbId": 989,
     "gbId": 24035,
     "gbGuid": "3030-24035",
@@ -15681,7 +15884,7 @@
   },
   {
     "name": "Halo 4",
-    "id": "x360463",
+    "id": "x360468",
     "igdbId": 991,
     "gbId": 35533,
     "gbGuid": "3030-35533",
@@ -15719,7 +15922,7 @@
   },
   {
     "name": "Halo Wars",
-    "id": "x360464",
+    "id": "x360469",
     "igdbId": 988,
     "gbId": 20521,
     "gbGuid": "3030-20521",
@@ -15796,7 +15999,7 @@
   },
   {
     "name": "Halo: Combat Evolved Anniversary",
-    "id": "x360465",
+    "id": "x360470",
     "igdbId": 2640,
     "gbId": null,
     "gbGuid": null,
@@ -15847,7 +16050,7 @@
   },
   {
     "name": "Halo: Reach",
-    "id": "x360466",
+    "id": "x360471",
     "igdbId": 990,
     "gbId": 26786,
     "gbGuid": "3030-26786",
@@ -15930,7 +16133,7 @@
   },
   {
     "name": "Halo: Spartan Assault",
-    "id": "x360467",
+    "id": "x360472",
     "igdbId": 4839,
     "gbId": 42843,
     "gbGuid": "3030-42843",
@@ -15958,7 +16161,7 @@
   },
   {
     "name": "Happy Tree Friends: False Alarm",
-    "id": "x360468",
+    "id": "x360473",
     "igdbId": 5942,
     "gbId": 21393,
     "gbGuid": "3030-21393",
@@ -15981,7 +16184,7 @@
   },
   {
     "name": "Happy Wars",
-    "id": "x360469",
+    "id": "x360474",
     "igdbId": 8410,
     "gbId": 37989,
     "gbGuid": "3030-37989",
@@ -16005,7 +16208,7 @@
   },
   {
     "name": "Hard Corps: Uprising",
-    "id": "x360470",
+    "id": "x360475",
     "igdbId": 21174,
     "gbId": 31561,
     "gbGuid": "3030-31561",
@@ -16033,7 +16236,7 @@
   },
   {
     "name": "Hardwood Backgammon",
-    "id": "x360471",
+    "id": "x360476",
     "igdbId": 20501,
     "gbId": 20769,
     "gbGuid": "3030-20769",
@@ -16071,7 +16274,7 @@
   },
   {
     "name": "Hardwood Hearts",
-    "id": "x360472",
+    "id": "x360477",
     "igdbId": 20507,
     "gbId": 20768,
     "gbGuid": "3030-20768",
@@ -16109,7 +16312,7 @@
   },
   {
     "name": "Hardwood Spades",
-    "id": "x360473",
+    "id": "x360478",
     "igdbId": 80107,
     "gbId": 20766,
     "gbGuid": "3030-20766",
@@ -16147,7 +16350,7 @@
   },
   {
     "name": "Harms Way",
-    "id": "x360474",
+    "id": "x360479",
     "igdbId": 47443,
     "gbId": 33354,
     "gbGuid": "3030-33354",
@@ -16175,7 +16378,7 @@
   },
   {
     "name": "Haunted House",
-    "id": "x360475",
+    "id": "x360480",
     "igdbId": 25196,
     "gbId": 4502,
     "gbGuid": "3030-4502",
@@ -16203,7 +16406,7 @@
   },
   {
     "name": "Heavy Rain",
-    "id": "x360476",
+    "id": "x360481",
     "igdbId": 493,
     "gbId": 21304,
     "gbGuid": "3030-21304",
@@ -16232,7 +16435,7 @@
   },
   {
     "name": "Heavy Weapon",
-    "id": "x360477",
+    "id": "x360482",
     "igdbId": 20397,
     "gbId": null,
     "gbGuid": null,
@@ -16260,7 +16463,7 @@
   },
   {
     "name": "HellForces",
-    "id": "x360478",
+    "id": "x360483",
     "igdbId": 84469,
     "gbId": 20093,
     "gbGuid": "3030-20093",
@@ -16288,7 +16491,7 @@
   },
   {
     "name": "Hexic 2",
-    "id": "x360479",
+    "id": "x360484",
     "igdbId": 21834,
     "gbId": 20751,
     "gbGuid": "3030-20751",
@@ -16326,7 +16529,7 @@
   },
   {
     "name": "Hexic HD",
-    "id": "x360480",
+    "id": "x360485",
     "igdbId": 2732,
     "gbId": null,
     "gbGuid": null,
@@ -16364,7 +16567,7 @@
   },
   {
     "name": "Hexodius",
-    "id": "x360481",
+    "id": "x360486",
     "igdbId": 16517,
     "gbId": 43494,
     "gbGuid": "3030-43494",
@@ -16388,7 +16591,7 @@
   },
   {
     "name": "Hitman HD Trilogy",
-    "id": "x360482",
+    "id": "x360487",
     "igdbId": 20749,
     "gbId": 40084,
     "gbGuid": "3030-40084",
@@ -16416,7 +16619,7 @@
   },
   {
     "name": "Hitman: Absolution",
-    "id": "x360483",
+    "id": "x360488",
     "igdbId": 530,
     "gbId": 26417,
     "gbGuid": "3030-26417",
@@ -16444,7 +16647,7 @@
   },
   {
     "name": "Hitman: Blood Money",
-    "id": "x360484",
+    "id": "x360489",
     "igdbId": 1048,
     "gbId": 11004,
     "gbGuid": "3030-11004",
@@ -16485,7 +16688,7 @@
   },
   {
     "name": "Homefront",
-    "id": "x360485",
+    "id": "x360490",
     "igdbId": 1885,
     "gbId": 26633,
     "gbGuid": "3030-26633",
@@ -16532,7 +16735,7 @@
   },
   {
     "name": "Hour of Victory",
-    "id": "x360486",
+    "id": "x360491",
     "igdbId": 7011,
     "gbId": 15195,
     "gbGuid": "3030-15195",
@@ -16556,7 +16759,7 @@
   },
   {
     "name": "Hybrid",
-    "id": "x360487",
+    "id": "x360492",
     "igdbId": 21069,
     "gbId": 33020,
     "gbGuid": "3030-33020",
@@ -16580,7 +16783,7 @@
   },
   {
     "name": "Hydro Thunder Hurricane",
-    "id": "x360488",
+    "id": "x360493",
     "igdbId": 3704,
     "gbId": 30492,
     "gbGuid": "3030-30492",
@@ -16618,7 +16821,7 @@
   },
   {
     "name": "Hydrophobia",
-    "id": "x360489",
+    "id": "x360494",
     "igdbId": 7691,
     "gbId": 21151,
     "gbGuid": "3030-21151",
@@ -16645,7 +16848,7 @@
   },
   {
     "name": "I Am Alive",
-    "id": "x360490",
+    "id": "x360495",
     "igdbId": 507,
     "gbId": 21107,
     "gbGuid": "3030-21107",
@@ -16673,7 +16876,7 @@
   },
   {
     "name": "IGI 2: Covert Strike",
-    "id": "x360491",
+    "id": "x360496",
     "igdbId": 8559,
     "gbId": 11364,
     "gbGuid": "3030-11364",
@@ -16701,7 +16904,7 @@
   },
   {
     "name": "Ikaruga",
-    "id": "x360492",
+    "id": "x360497",
     "igdbId": 3953,
     "gbId": 12069,
     "gbGuid": "3030-12069",
@@ -16738,8 +16941,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ikaruga",
+    "id": "x360498",
+    "igdbId": 200996,
+    "gbId": 12069,
+    "gbGuid": "3030-12069",
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Import Tuner Challenge",
-    "id": "x360493",
+    "id": "x360499",
     "igdbId": 7017,
     "gbId": 14975,
     "gbGuid": "3030-14975",
@@ -16763,7 +16992,7 @@
   },
   {
     "name": "Infinite Undiscovery",
-    "id": "x360494",
+    "id": "x360500",
     "igdbId": 7019,
     "gbId": 20818,
     "gbGuid": "3030-20818",
@@ -16801,7 +17030,7 @@
   },
   {
     "name": "Injustice: Gods Among Us",
-    "id": "x360495",
+    "id": "x360501",
     "igdbId": 1918,
     "gbId": 38480,
     "gbGuid": "3030-38480",
@@ -16842,7 +17071,7 @@
   },
   {
     "name": "Injustice: Gods Among Us",
-    "id": "x360496",
+    "id": "x360502",
     "igdbId": 77354,
     "gbId": 38480,
     "gbGuid": "3030-38480",
@@ -16870,7 +17099,7 @@
   },
   {
     "name": "Insanely Twisted Shadow Planet",
-    "id": "x360497",
+    "id": "x360503",
     "igdbId": 6168,
     "gbId": 27375,
     "gbGuid": "3030-27375",
@@ -16908,7 +17137,7 @@
   },
   {
     "name": "Interpol: The Trail of Dr. Chaos",
-    "id": "x360498",
+    "id": "x360504",
     "igdbId": 22551,
     "gbId": 713,
     "gbGuid": "3030-713",
@@ -16936,7 +17165,7 @@
   },
   {
     "name": "Inversion",
-    "id": "x360499",
+    "id": "x360505",
     "igdbId": 7020,
     "gbId": 29087,
     "gbGuid": "3030-29087",
@@ -16964,7 +17193,7 @@
   },
   {
     "name": "Iron Brigade",
-    "id": "x360500",
+    "id": "x360506",
     "igdbId": 7668,
     "gbId": 34304,
     "gbGuid": "3030-34304",
@@ -17002,7 +17231,7 @@
   },
   {
     "name": "Islands of Wakfu",
-    "id": "x360501",
+    "id": "x360507",
     "igdbId": 22947,
     "gbId": 24867,
     "gbGuid": "3030-24867",
@@ -17026,7 +17255,7 @@
   },
   {
     "name": "JUJU",
-    "id": "x360502",
+    "id": "x360508",
     "igdbId": 17393,
     "gbId": 46375,
     "gbGuid": "3030-46375",
@@ -17054,7 +17283,7 @@
   },
   {
     "name": "Jeremy McGrath's Offroad",
-    "id": "x360503",
+    "id": "x360509",
     "igdbId": 20828,
     "gbId": 36219,
     "gbGuid": "3030-36219",
@@ -17082,7 +17311,7 @@
   },
   {
     "name": "Jet Set Radio",
-    "id": "x360504",
+    "id": "x360510",
     "igdbId": 21004,
     "gbId": null,
     "gbGuid": null,
@@ -17110,7 +17339,7 @@
   },
   {
     "name": "Jetpac Refuelled",
-    "id": "x360505",
+    "id": "x360511",
     "igdbId": 7854,
     "gbId": 5934,
     "gbGuid": "3030-5934",
@@ -17148,7 +17377,7 @@
   },
   {
     "name": "Jewel Quest",
-    "id": "x360506",
+    "id": "x360512",
     "igdbId": 20500,
     "gbId": 17772,
     "gbGuid": "3030-17772",
@@ -17176,7 +17405,7 @@
   },
   {
     "name": "Joe Danger 2: The Movie",
-    "id": "x360507",
+    "id": "x360513",
     "igdbId": 11241,
     "gbId": 36129,
     "gbGuid": "3030-36129",
@@ -17204,7 +17433,7 @@
   },
   {
     "name": "Joe Danger: Special Edition",
-    "id": "x360508",
+    "id": "x360514",
     "igdbId": 24235,
     "gbId": null,
     "gbGuid": null,
@@ -17232,7 +17461,7 @@
   },
   {
     "name": "Joust",
-    "id": "x360509",
+    "id": "x360515",
     "igdbId": 3659,
     "gbId": 11689,
     "gbGuid": "3030-11689",
@@ -17260,7 +17489,7 @@
   },
   {
     "name": "Joy Ride Turbo",
-    "id": "x360510",
+    "id": "x360516",
     "igdbId": 15859,
     "gbId": 38336,
     "gbGuid": "3030-38336",
@@ -17298,7 +17527,7 @@
   },
   {
     "name": "Jurassic Park: The Game",
-    "id": "x360511",
+    "id": "x360517",
     "igdbId": 7025,
     "gbId": 33851,
     "gbGuid": "3030-33851",
@@ -17331,7 +17560,7 @@
   },
   {
     "name": "Just Cause",
-    "id": "x360512",
+    "id": "x360518",
     "igdbId": 1042,
     "gbId": 18163,
     "gbGuid": "3030-18163",
@@ -17372,7 +17601,7 @@
   },
   {
     "name": "Just Cause 2",
-    "id": "x360513",
+    "id": "x360519",
     "igdbId": 558,
     "gbId": 20742,
     "gbGuid": "3030-20742",
@@ -17413,7 +17642,7 @@
   },
   {
     "name": "Just Dance 2015",
-    "id": "x360514",
+    "id": "x360520",
     "igdbId": 15559,
     "gbId": 46561,
     "gbGuid": "3030-46561",
@@ -17440,7 +17669,7 @@
   },
   {
     "name": "Just Dance 3",
-    "id": "x360515",
+    "id": "x360521",
     "igdbId": 2705,
     "gbId": 35553,
     "gbGuid": "3030-35553",
@@ -17467,7 +17696,7 @@
   },
   {
     "name": "Just Dance 4",
-    "id": "x360516",
+    "id": "x360522",
     "igdbId": 3255,
     "gbId": 38543,
     "gbGuid": "3030-38543",
@@ -17494,7 +17723,7 @@
   },
   {
     "name": "Kameo: Elements of Power",
-    "id": "x360517",
+    "id": "x360523",
     "igdbId": 7029,
     "gbId": 19228,
     "gbGuid": "3030-19228",
@@ -17568,7 +17797,7 @@
   },
   {
     "name": "Kane & Lynch 2: Dog Days",
-    "id": "x360518",
+    "id": "x360524",
     "igdbId": 488,
     "gbId": 26394,
     "gbGuid": "3030-26394",
@@ -17622,7 +17851,7 @@
   },
   {
     "name": "Kane & Lynch: Dead Men",
-    "id": "x360519",
+    "id": "x360525",
     "igdbId": 7032,
     "gbId": 19874,
     "gbGuid": "3030-19874",
@@ -17649,7 +17878,7 @@
   },
   {
     "name": "Kengo: Legend of the 9",
-    "id": "x360520",
+    "id": "x360526",
     "igdbId": 1423,
     "gbId": 26431,
     "gbGuid": "3030-26431",
@@ -17672,8 +17901,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ketsui: Kizuna Jigoku Tachi Extra",
+    "id": "x360527",
+    "igdbId": 79853,
+    "gbId": 30997,
+    "gbGuid": "3030-30997",
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Killer Is Dead",
-    "id": "x360521",
+    "id": "x360528",
     "igdbId": 2940,
     "gbId": 37881,
     "gbGuid": "3030-37881",
@@ -17701,7 +17956,7 @@
   },
   {
     "name": "Kinect Sports",
-    "id": "x360522",
+    "id": "x360529",
     "igdbId": 17478,
     "gbId": 31703,
     "gbGuid": "3030-31703",
@@ -17728,7 +17983,7 @@
   },
   {
     "name": "Kinect Sports: Season Two",
-    "id": "x360523",
+    "id": "x360530",
     "igdbId": 18026,
     "gbId": 35531,
     "gbGuid": "3030-35531",
@@ -17755,7 +18010,7 @@
   },
   {
     "name": "Kinect Star Wars",
-    "id": "x360524",
+    "id": "x360531",
     "igdbId": 8560,
     "gbId": 31714,
     "gbGuid": "3030-31714",
@@ -17782,7 +18037,7 @@
   },
   {
     "name": "Kingdom Under Fire: Circle of Doom",
-    "id": "x360525",
+    "id": "x360532",
     "igdbId": 18108,
     "gbId": 20531,
     "gbGuid": "3030-20531",
@@ -17820,7 +18075,7 @@
   },
   {
     "name": "Kingdoms of Amalur: Reckoning",
-    "id": "x360526",
+    "id": "x360533",
     "igdbId": 1059,
     "gbId": 30330,
     "gbGuid": "3030-30330",
@@ -17853,7 +18108,7 @@
   },
   {
     "name": "KrissX",
-    "id": "x360527",
+    "id": "x360534",
     "igdbId": 67327,
     "gbId": 29174,
     "gbGuid": "3030-29174",
@@ -17876,7 +18131,7 @@
   },
   {
     "name": "L.A. Noire",
-    "id": "x360528",
+    "id": "x360535",
     "igdbId": 109,
     "gbId": 21500,
     "gbGuid": "3030-21500",
@@ -17917,7 +18172,7 @@
   },
   {
     "name": "LEGO Batman 2: DC Super Heroes",
-    "id": "x360529",
+    "id": "x360536",
     "igdbId": 6836,
     "gbId": 36898,
     "gbGuid": "3030-36898",
@@ -17971,7 +18226,7 @@
   },
   {
     "name": "LEGO Batman: The Videogame",
-    "id": "x360530",
+    "id": "x360537",
     "igdbId": 2738,
     "gbId": 20822,
     "gbGuid": "3030-20822",
@@ -18025,7 +18280,7 @@
   },
   {
     "name": "LEGO Harry Potter: Years 1-4",
-    "id": "x360531",
+    "id": "x360538",
     "igdbId": 3149,
     "gbId": 26753,
     "gbGuid": "3030-26753",
@@ -18065,7 +18320,7 @@
   },
   {
     "name": "LEGO Harry Potter: Years 5-7",
-    "id": "x360532",
+    "id": "x360539",
     "igdbId": 3150,
     "gbId": 35388,
     "gbGuid": "3030-35388",
@@ -18092,7 +18347,7 @@
   },
   {
     "name": "LEGO Indiana Jones 2: The Adventure Continues",
-    "id": "x360533",
+    "id": "x360540",
     "igdbId": 138,
     "gbId": 26699,
     "gbGuid": "3030-26699",
@@ -18133,7 +18388,7 @@
   },
   {
     "name": "LEGO Indiana Jones: The Original Adventures",
-    "id": "x360534",
+    "id": "x360541",
     "igdbId": 189,
     "gbId": 20534,
     "gbGuid": "3030-20534",
@@ -18187,7 +18442,7 @@
   },
   {
     "name": "LEGO Marvel Super Heroes",
-    "id": "x360535",
+    "id": "x360542",
     "igdbId": 2050,
     "gbId": 41090,
     "gbGuid": "3030-41090",
@@ -18227,7 +18482,7 @@
   },
   {
     "name": "LEGO Pirates of the Caribbean: The Video Game",
-    "id": "x360536",
+    "id": "x360543",
     "igdbId": 542,
     "gbId": 33207,
     "gbGuid": "3030-33207",
@@ -18281,7 +18536,7 @@
   },
   {
     "name": "LEGO Star Wars II: The Original Trilogy",
-    "id": "x360537",
+    "id": "x360544",
     "igdbId": 190,
     "gbId": 9631,
     "gbGuid": "3030-9631",
@@ -18335,7 +18590,7 @@
   },
   {
     "name": "LEGO Star Wars III: The Clone Wars",
-    "id": "x360538",
+    "id": "x360545",
     "igdbId": 6844,
     "gbId": 29992,
     "gbGuid": "3030-29992",
@@ -18389,7 +18644,7 @@
   },
   {
     "name": "LEGO Star Wars: The Complete Saga",
-    "id": "x360539",
+    "id": "x360546",
     "igdbId": 2682,
     "gbId": 11120,
     "gbGuid": "3030-11120",
@@ -18443,7 +18698,7 @@
   },
   {
     "name": "LEGO The Lord of the Rings",
-    "id": "x360540",
+    "id": "x360547",
     "igdbId": 4969,
     "gbId": 38282,
     "gbGuid": "3030-38282",
@@ -18476,7 +18731,7 @@
   },
   {
     "name": "Land of the Dead: Road to Fiddler's Green",
-    "id": "x360541",
+    "id": "x360548",
     "igdbId": 5900,
     "gbId": 18419,
     "gbGuid": "3030-18419",
@@ -18504,7 +18759,7 @@
   },
   {
     "name": "Lara Croft and the Guardian of Light",
-    "id": "x360542",
+    "id": "x360549",
     "igdbId": 769,
     "gbId": 30191,
     "gbGuid": "3030-30191",
@@ -18532,7 +18787,7 @@
   },
   {
     "name": "Lazy Raiders",
-    "id": "x360543",
+    "id": "x360550",
     "igdbId": 67049,
     "gbId": 29906,
     "gbGuid": "3030-29906",
@@ -18560,7 +18815,7 @@
   },
   {
     "name": "Left 4 Dead",
-    "id": "x360544",
+    "id": "x360551",
     "igdbId": 122,
     "gbId": 20690,
     "gbGuid": "3030-20690",
@@ -18650,7 +18905,7 @@
   },
   {
     "name": "Left 4 Dead 2",
-    "id": "x360545",
+    "id": "x360552",
     "igdbId": 124,
     "gbId": 26782,
     "gbGuid": "3030-26782",
@@ -18740,7 +18995,7 @@
   },
   {
     "name": "Lightning Returns: Final Fantasy XIII",
-    "id": "x360546",
+    "id": "x360553",
     "igdbId": 2449,
     "gbId": 39185,
     "gbGuid": "3030-39185",
@@ -18768,7 +19023,7 @@
   },
   {
     "name": "Limbo",
-    "id": "x360547",
+    "id": "x360554",
     "igdbId": 1331,
     "gbId": 30380,
     "gbGuid": "3030-30380",
@@ -18796,7 +19051,7 @@
   },
   {
     "name": "Lips",
-    "id": "x360548",
+    "id": "x360555",
     "igdbId": 7050,
     "gbId": 21171,
     "gbGuid": "3030-21171",
@@ -18820,7 +19075,7 @@
   },
   {
     "name": "Little Britain: The Video Game",
-    "id": "x360549",
+    "id": "x360556",
     "igdbId": 8557,
     "gbId": 40715,
     "gbGuid": "3030-40715",
@@ -18848,7 +19103,7 @@
   },
   {
     "name": "Lode Runner",
-    "id": "x360550",
+    "id": "x360557",
     "igdbId": 69179,
     "gbId": 636,
     "gbGuid": "3030-636",
@@ -18886,7 +19141,7 @@
   },
   {
     "name": "Lollipop Chainsaw",
-    "id": "x360551",
+    "id": "x360558",
     "igdbId": 1284,
     "gbId": 35948,
     "gbGuid": "3030-35948",
@@ -18913,7 +19168,7 @@
   },
   {
     "name": "Lost Cities",
-    "id": "x360552",
+    "id": "x360559",
     "igdbId": 37376,
     "gbId": 20764,
     "gbGuid": "3030-20764",
@@ -18937,7 +19192,7 @@
   },
   {
     "name": "Lost Odyssey",
-    "id": "x360553",
+    "id": "x360560",
     "igdbId": 7057,
     "gbId": 2719,
     "gbGuid": "3030-2719",
@@ -18988,7 +19243,7 @@
   },
   {
     "name": "Lost Planet 2",
-    "id": "x360554",
+    "id": "x360561",
     "igdbId": 1915,
     "gbId": 25413,
     "gbGuid": "3030-25413",
@@ -19029,7 +19284,7 @@
   },
   {
     "name": "Lost Planet 3",
-    "id": "x360555",
+    "id": "x360562",
     "igdbId": 1916,
     "gbId": 37937,
     "gbGuid": "3030-37937",
@@ -19057,7 +19312,7 @@
   },
   {
     "name": "Lost Planet: Extreme Condition",
-    "id": "x360556",
+    "id": "x360563",
     "igdbId": 1913,
     "gbId": 17762,
     "gbGuid": "3030-17762",
@@ -19111,7 +19366,7 @@
   },
   {
     "name": "Lost Planet: Extreme Condition - Colonies Edition",
-    "id": "x360557",
+    "id": "x360564",
     "igdbId": 27861,
     "gbId": 20537,
     "gbGuid": "3030-20537",
@@ -19161,7 +19416,7 @@
   },
   {
     "name": "Lucidity",
-    "id": "x360558",
+    "id": "x360565",
     "igdbId": 15101,
     "gbId": 27573,
     "gbGuid": "3030-27573",
@@ -19185,7 +19440,7 @@
   },
   {
     "name": "Lumines Live",
-    "id": "x360559",
+    "id": "x360566",
     "igdbId": 4691,
     "gbId": 13570,
     "gbGuid": "3030-13570",
@@ -19223,7 +19478,7 @@
   },
   {
     "name": "Luxor 2",
-    "id": "x360560",
+    "id": "x360567",
     "igdbId": 7535,
     "gbId": 12020,
     "gbGuid": "3030-12020",
@@ -19251,7 +19506,7 @@
   },
   {
     "name": "METAL SLUG 3",
-    "id": "x360561",
+    "id": "x360568",
     "igdbId": 1408,
     "gbId": 1063,
     "gbGuid": "3030-1063",
@@ -19279,7 +19534,7 @@
   },
   {
     "name": "MLB Stickball",
-    "id": "x360562",
+    "id": "x360569",
     "igdbId": 71888,
     "gbId": 24029,
     "gbGuid": "3030-24029",
@@ -19302,7 +19557,7 @@
   },
   {
     "name": "MX vs. ATV Alive",
-    "id": "x360563",
+    "id": "x360570",
     "igdbId": 18266,
     "gbId": 32674,
     "gbGuid": "3030-32674",
@@ -19329,7 +19584,7 @@
   },
   {
     "name": "MX vs. ATV Reflex",
-    "id": "x360564",
+    "id": "x360571",
     "igdbId": 7091,
     "gbId": null,
     "gbGuid": null,
@@ -19370,7 +19625,7 @@
   },
   {
     "name": "Mad Tracks",
-    "id": "x360565",
+    "id": "x360572",
     "igdbId": 4982,
     "gbId": 13131,
     "gbGuid": "3030-13131",
@@ -19408,7 +19663,7 @@
   },
   {
     "name": "MadWorld",
-    "id": "x360566",
+    "id": "x360573",
     "igdbId": 3214,
     "gbId": 21173,
     "gbGuid": "3030-21173",
@@ -19436,7 +19691,7 @@
   },
   {
     "name": "Madballs in Babo: Invasion",
-    "id": "x360567",
+    "id": "x360574",
     "igdbId": 8385,
     "gbId": null,
     "gbGuid": null,
@@ -19474,7 +19729,7 @@
   },
   {
     "name": "Madden NFL 06",
-    "id": "x360568",
+    "id": "x360575",
     "igdbId": 5906,
     "gbId": 6648,
     "gbGuid": "3030-6648",
@@ -19498,7 +19753,7 @@
   },
   {
     "name": "Mafia II",
-    "id": "x360569",
+    "id": "x360576",
     "igdbId": 40,
     "gbId": 20538,
     "gbGuid": "3030-20538",
@@ -19565,7 +19820,7 @@
   },
   {
     "name": "Magic 2015",
-    "id": "x360570",
+    "id": "x360577",
     "igdbId": null,
     "gbId": 45981,
     "gbGuid": "3030-45981",
@@ -19589,7 +19844,7 @@
   },
   {
     "name": "Magic: Duels of the Planeswalkers 2014",
-    "id": "x360571",
+    "id": "x360578",
     "igdbId": 2188,
     "gbId": 42624,
     "gbGuid": "3030-42624",
@@ -19617,7 +19872,7 @@
   },
   {
     "name": "Magic: The Gathering - Duels of the Planeswalkers",
-    "id": "x360572",
+    "id": "x360579",
     "igdbId": 81444,
     "gbId": 2532,
     "gbGuid": "3030-2532",
@@ -19645,7 +19900,7 @@
   },
   {
     "name": "Magic: The Gathering - Duels of the Planeswalkers 2012",
-    "id": "x360573",
+    "id": "x360580",
     "igdbId": 16173,
     "gbId": 34411,
     "gbGuid": "3030-34411",
@@ -19673,7 +19928,7 @@
   },
   {
     "name": "Magic: The Gathering - Duels of the Planeswalkers 2013",
-    "id": "x360574",
+    "id": "x360581",
     "igdbId": 1891,
     "gbId": 37907,
     "gbGuid": "3030-37907",
@@ -19701,7 +19956,7 @@
   },
   {
     "name": "Magna Carta 2",
-    "id": "x360575",
+    "id": "x360582",
     "igdbId": 7061,
     "gbId": 25942,
     "gbGuid": "3030-25942",
@@ -19738,8 +19993,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mamorukun Curse!",
+    "id": "x360583",
+    "igdbId": 7065,
+    "gbId": 25629,
+    "gbGuid": "3030-25629",
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Manhunt",
-    "id": "x360576",
+    "id": "x360584",
     "igdbId": 1971,
     "gbId": 6108,
     "gbGuid": "3030-6108",
@@ -19769,7 +20050,7 @@
   },
   {
     "name": "Manhunt 2",
-    "id": "x360577",
+    "id": "x360585",
     "igdbId": 1972,
     "gbId": 21258,
     "gbGuid": "3030-21258",
@@ -19803,7 +20084,7 @@
   },
   {
     "name": "Marathon 2: Durandal",
-    "id": "x360578",
+    "id": "x360586",
     "igdbId": 8710,
     "gbId": 1921,
     "gbGuid": "3030-1921",
@@ -19841,7 +20122,7 @@
   },
   {
     "name": "Marble Blast Ultra",
-    "id": "x360579",
+    "id": "x360587",
     "igdbId": 20503,
     "gbId": 8047,
     "gbGuid": "3030-8047",
@@ -19865,7 +20146,7 @@
   },
   {
     "name": "Mark of the Ninja",
-    "id": "x360580",
+    "id": "x360588",
     "igdbId": 2129,
     "gbId": 37615,
     "gbGuid": "3030-37615",
@@ -19889,7 +20170,7 @@
   },
   {
     "name": "Marlow Briggs and the Mask of Death",
-    "id": "x360581",
+    "id": "x360589",
     "igdbId": 8006,
     "gbId": 42989,
     "gbGuid": "3030-42989",
@@ -19927,7 +20208,7 @@
   },
   {
     "name": "Mars: War Logs",
-    "id": "x360582",
+    "id": "x360590",
     "igdbId": 1830,
     "gbId": 25556,
     "gbGuid": "3030-25556",
@@ -19955,7 +20236,7 @@
   },
   {
     "name": "Marvel: Ultimate Alliance",
-    "id": "x360583",
+    "id": "x360591",
     "igdbId": 4999,
     "gbId": 7527,
     "gbGuid": "3030-7527",
@@ -19982,7 +20263,7 @@
   },
   {
     "name": "Mass Effect",
-    "id": "x360584",
+    "id": "x360592",
     "igdbId": 73,
     "gbId": 16909,
     "gbGuid": "3030-16909",
@@ -20062,7 +20343,7 @@
   },
   {
     "name": "Mass Effect 2",
-    "id": "x360585",
+    "id": "x360593",
     "igdbId": 74,
     "gbId": 21590,
     "gbGuid": "3030-21590",
@@ -20142,7 +20423,7 @@
   },
   {
     "name": "Mass Effect 3",
-    "id": "x360586",
+    "id": "x360594",
     "igdbId": 75,
     "gbId": 29935,
     "gbGuid": "3030-29935",
@@ -20201,7 +20482,7 @@
   },
   {
     "name": "Matt Hazard: Blood Bath and Beyond",
-    "id": "x360587",
+    "id": "x360595",
     "igdbId": 47430,
     "gbId": 28508,
     "gbGuid": "3030-28508",
@@ -20229,7 +20510,7 @@
   },
   {
     "name": "Max Payne 3",
-    "id": "x360588",
+    "id": "x360596",
     "igdbId": 960,
     "gbId": 23398,
     "gbGuid": "3030-23398",
@@ -20257,7 +20538,7 @@
   },
   {
     "name": "Max: The Curse of Brotherhood",
-    "id": "x360589",
+    "id": "x360597",
     "igdbId": 4848,
     "gbId": 41940,
     "gbGuid": "3030-41940",
@@ -20281,7 +20562,7 @@
   },
   {
     "name": "Medal of Honor",
-    "id": "x360590",
+    "id": "x360598",
     "igdbId": 556,
     "gbId": 29336,
     "gbGuid": "3030-29336",
@@ -20321,7 +20602,7 @@
   },
   {
     "name": "Medal of Honor Heroes 2",
-    "id": "x360591",
+    "id": "x360599",
     "igdbId": 1315,
     "gbId": 9967,
     "gbGuid": "3030-9967",
@@ -20349,7 +20630,7 @@
   },
   {
     "name": "Medal of Honor: Airborne",
-    "id": "x360592",
+    "id": "x360600",
     "igdbId": 1314,
     "gbId": 6026,
     "gbGuid": "3030-6026",
@@ -20390,7 +20671,7 @@
   },
   {
     "name": "Medal of Honor: Warfighter",
-    "id": "x360593",
+    "id": "x360601",
     "igdbId": 1306,
     "gbId": 37580,
     "gbGuid": "3030-37580",
@@ -20418,7 +20699,7 @@
   },
   {
     "name": "Mega Man 10",
-    "id": "x360594",
+    "id": "x360602",
     "igdbId": 1723,
     "gbId": 29413,
     "gbGuid": "3030-29413",
@@ -20446,7 +20727,7 @@
   },
   {
     "name": "Mega Man 9",
-    "id": "x360595",
+    "id": "x360603",
     "igdbId": 1722,
     "gbId": 20975,
     "gbGuid": "3030-20975",
@@ -20474,7 +20755,7 @@
   },
   {
     "name": "Metal Gear Rising: Revengeance",
-    "id": "x360596",
+    "id": "x360604",
     "igdbId": 378,
     "gbId": 26801,
     "gbGuid": "3030-26801",
@@ -20502,7 +20783,7 @@
   },
   {
     "name": "Metal Gear Solid HD Collection",
-    "id": "x360597",
+    "id": "x360605",
     "igdbId": 20741,
     "gbId": 35508,
     "gbGuid": "3030-35508",
@@ -20530,7 +20811,7 @@
   },
   {
     "name": "Metal Gear Solid: Peace Walker",
-    "id": "x360598",
+    "id": "x360606",
     "igdbId": 382,
     "gbId": 26817,
     "gbGuid": "3030-26817",
@@ -20558,7 +20839,7 @@
   },
   {
     "name": "Metal Slug XX",
-    "id": "x360599",
+    "id": "x360607",
     "igdbId": 21760,
     "gbId": 28918,
     "gbGuid": "3030-28918",
@@ -20586,7 +20867,7 @@
   },
   {
     "name": "Meteos Wars",
-    "id": "x360600",
+    "id": "x360608",
     "igdbId": 22539,
     "gbId": 23617,
     "gbGuid": "3030-23617",
@@ -20609,7 +20890,7 @@
   },
   {
     "name": "Metro",
-    "id": "x360601",
+    "id": "x360609",
     "igdbId": 79196,
     "gbId": 28719,
     "gbGuid": "3030-28719",
@@ -20636,7 +20917,7 @@
   },
   {
     "name": "Metro 2033",
-    "id": "x360602",
+    "id": "x360610",
     "igdbId": 495,
     "gbId": 20964,
     "gbGuid": "3030-20964",
@@ -20674,7 +20955,7 @@
   },
   {
     "name": "Michael Jackson: The Experience",
-    "id": "x360603",
+    "id": "x360611",
     "igdbId": 5006,
     "gbId": 31724,
     "gbGuid": "3030-31724",
@@ -20701,7 +20982,7 @@
   },
   {
     "name": "Midnight Club: Los Angeles",
-    "id": "x360604",
+    "id": "x360612",
     "igdbId": 7071,
     "gbId": 20927,
     "gbGuid": "3030-20927",
@@ -20755,7 +21036,7 @@
   },
   {
     "name": "Midway Arcade Origins",
-    "id": "x360605",
+    "id": "x360613",
     "igdbId": 7070,
     "gbId": 39812,
     "gbGuid": "3030-39812",
@@ -20783,7 +21064,7 @@
   },
   {
     "name": "Might & Magic: Clash of Heroes",
-    "id": "x360606",
+    "id": "x360614",
     "igdbId": 1889,
     "gbId": 26436,
     "gbGuid": "3030-26436",
@@ -20811,7 +21092,7 @@
   },
   {
     "name": "Military Madness: Nectaris",
-    "id": "x360607",
+    "id": "x360615",
     "igdbId": 20505,
     "gbId": 25656,
     "gbGuid": "3030-25656",
@@ -20839,7 +21120,7 @@
   },
   {
     "name": "Minecraft: Xbox 360 Edition",
-    "id": "x360608",
+    "id": "x360616",
     "igdbId": 94029,
     "gbId": null,
     "gbGuid": null,
@@ -20863,7 +21144,7 @@
   },
   {
     "name": "Minesweeper Flags",
-    "id": "x360609",
+    "id": "x360617",
     "igdbId": 74419,
     "gbId": 25085,
     "gbGuid": "3030-25085",
@@ -20886,7 +21167,7 @@
   },
   {
     "name": "Mirror's Edge",
-    "id": "x360610",
+    "id": "x360618",
     "igdbId": 1051,
     "gbId": 21213,
     "gbGuid": "3030-21213",
@@ -20927,7 +21208,7 @@
   },
   {
     "name": "Missile Command",
-    "id": "x360611",
+    "id": "x360619",
     "igdbId": 12313,
     "gbId": 4062,
     "gbGuid": "3030-4062",
@@ -20965,7 +21246,7 @@
   },
   {
     "name": "Monaco: What's Yours Is Mine",
-    "id": "x360612",
+    "id": "x360620",
     "igdbId": 8739,
     "gbId": 30093,
     "gbGuid": "3030-30093",
@@ -21003,7 +21284,7 @@
   },
   {
     "name": "Monday Night Combat",
-    "id": "x360613",
+    "id": "x360621",
     "igdbId": 9660,
     "gbId": 29806,
     "gbGuid": "3030-29806",
@@ -21041,7 +21322,7 @@
   },
   {
     "name": "Monkey Island 2 Special Edition: LeChuck's Revenge",
-    "id": "x360614",
+    "id": "x360622",
     "igdbId": 66,
     "gbId": 10528,
     "gbGuid": "3030-10528",
@@ -21069,7 +21350,7 @@
   },
   {
     "name": "Monopoly Deal",
-    "id": "x360615",
+    "id": "x360623",
     "igdbId": 69346,
     "gbId": 61379,
     "gbGuid": "3030-61379",
@@ -21097,7 +21378,7 @@
   },
   {
     "name": "Monopoly Plus",
-    "id": "x360616",
+    "id": "x360624",
     "igdbId": 20313,
     "gbId": 55408,
     "gbGuid": "3030-55408",
@@ -21125,7 +21406,7 @@
   },
   {
     "name": "Monopoly Streets",
-    "id": "x360617",
+    "id": "x360625",
     "igdbId": 21574,
     "gbId": 31205,
     "gbGuid": "3030-31205",
@@ -21152,7 +21433,7 @@
   },
   {
     "name": "Moon Diver",
-    "id": "x360618",
+    "id": "x360626",
     "igdbId": 20543,
     "gbId": 31659,
     "gbGuid": "3030-31659",
@@ -21180,7 +21461,7 @@
   },
   {
     "name": "Mortal Kombat",
-    "id": "x360619",
+    "id": "x360627",
     "igdbId": 119,
     "gbId": 15743,
     "gbGuid": "3030-15743",
@@ -21222,7 +21503,7 @@
   },
   {
     "name": "Mortal Kombat (2011 video game)",
-    "id": "x360620",
+    "id": "x360628",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -21249,7 +21530,7 @@
   },
   {
     "name": "Mortal Kombat 3",
-    "id": "x360621",
+    "id": "x360629",
     "igdbId": 1620,
     "gbId": 1434,
     "gbGuid": "3030-1434",
@@ -21277,7 +21558,7 @@
   },
   {
     "name": "Mortal Kombat : Komplete Edition",
-    "id": "x360622",
+    "id": "x360630",
     "igdbId": 2977,
     "gbId": null,
     "gbGuid": null,
@@ -21304,7 +21585,7 @@
   },
   {
     "name": "Mortal Kombat II",
-    "id": "x360623",
+    "id": "x360631",
     "igdbId": 1619,
     "gbId": 3571,
     "gbGuid": "3030-3571",
@@ -21332,7 +21613,7 @@
   },
   {
     "name": "Mortal Kombat vs. DC Universe",
-    "id": "x360624",
+    "id": "x360632",
     "igdbId": 1617,
     "gbId": 20449,
     "gbGuid": "3030-20449",
@@ -21365,7 +21646,7 @@
   },
   {
     "name": "Mortal Kombat: Armageddon",
-    "id": "x360625",
+    "id": "x360633",
     "igdbId": 1616,
     "gbId": 11843,
     "gbGuid": "3030-11843",
@@ -21393,7 +21674,7 @@
   },
   {
     "name": "Mortal Kombat: Shaolin Monks",
-    "id": "x360626",
+    "id": "x360634",
     "igdbId": 1614,
     "gbId": 7649,
     "gbGuid": "3030-7649",
@@ -21421,7 +21702,7 @@
   },
   {
     "name": "MotionSports: Adrenaline",
-    "id": "x360627",
+    "id": "x360635",
     "igdbId": 20215,
     "gbId": 35577,
     "gbGuid": "3030-35577",
@@ -21448,7 +21729,7 @@
   },
   {
     "name": "MotoGP '06",
-    "id": "x360628",
+    "id": "x360636",
     "igdbId": 7078,
     "gbId": 17274,
     "gbGuid": "3030-17274",
@@ -21472,7 +21753,7 @@
   },
   {
     "name": "Motocross Madness",
-    "id": "x360629",
+    "id": "x360637",
     "igdbId": 10261,
     "gbId": 4603,
     "gbGuid": "3030-4603",
@@ -21510,7 +21791,7 @@
   },
   {
     "name": "Mr. Driller Online",
-    "id": "x360630",
+    "id": "x360638",
     "igdbId": 21356,
     "gbId": 20624,
     "gbGuid": "3030-20624",
@@ -21548,7 +21829,7 @@
   },
   {
     "name": "Ms. Pac-Man",
-    "id": "x360631",
+    "id": "x360639",
     "igdbId": 7452,
     "gbId": 6332,
     "gbGuid": "3030-6332",
@@ -21576,7 +21857,7 @@
   },
   {
     "name": "Ms. Splosion Man",
-    "id": "x360632",
+    "id": "x360640",
     "igdbId": 15140,
     "gbId": 33330,
     "gbGuid": "3030-33330",
@@ -21614,13 +21895,14 @@
   },
   {
     "name": "Muchi Muchi Pork! & Pink Sweets",
-    "id": "x360633",
+    "id": "x360641",
     "igdbId": 92171,
     "gbId": 33886,
     "gbGuid": "3030-33886",
     "tgdbId": 23724,
     "details": [
-      "Microsoft Xbox 360 full exclusive"
+      "Microsoft Xbox 360 full exclusive",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -21633,12 +21915,24 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Mushihimesama Futari",
-    "id": "x360634",
+    "id": "x360642",
     "igdbId": 27626,
     "gbId": null,
     "gbGuid": null,
@@ -21664,8 +21958,60 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mushihimesama Futari Version 1.5",
+    "id": "x360643",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mushihimesama HD",
+    "id": "x360644",
+    "igdbId": 47442,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Mutant Storm Empire",
-    "id": "x360635",
+    "id": "x360645",
     "igdbId": 21914,
     "gbId": 20775,
     "gbGuid": "3030-20775",
@@ -21703,7 +22049,7 @@
   },
   {
     "name": "Mutant Storm Reloaded",
-    "id": "x360636",
+    "id": "x360646",
     "igdbId": 16266,
     "gbId": 20774,
     "gbGuid": "3030-20774",
@@ -21741,7 +22087,7 @@
   },
   {
     "name": "N+",
-    "id": "x360637",
+    "id": "x360647",
     "igdbId": 8749,
     "gbId": null,
     "gbGuid": null,
@@ -21769,7 +22115,7 @@
   },
   {
     "name": "N3II: Ninety-Nine Nights",
-    "id": "x360638",
+    "id": "x360648",
     "igdbId": 7095,
     "gbId": 24042,
     "gbGuid": "3030-24042",
@@ -21793,7 +22139,7 @@
   },
   {
     "name": "NARC",
-    "id": "x360639",
+    "id": "x360649",
     "igdbId": 19933,
     "gbId": 9848,
     "gbGuid": "3030-9848",
@@ -21821,7 +22167,7 @@
   },
   {
     "name": "NBA 2K6",
-    "id": "x360640",
+    "id": "x360650",
     "igdbId": 8835,
     "gbId": 21363,
     "gbGuid": "3030-21363",
@@ -21845,7 +22191,7 @@
   },
   {
     "name": "NBA Jam: On Fire Edition",
-    "id": "x360641",
+    "id": "x360651",
     "igdbId": 21076,
     "gbId": 34710,
     "gbGuid": "3030-34710",
@@ -21873,7 +22219,7 @@
   },
   {
     "name": "NBA Live 06",
-    "id": "x360642",
+    "id": "x360652",
     "igdbId": 4034,
     "gbId": 7206,
     "gbGuid": "3030-7206",
@@ -21897,7 +22243,7 @@
   },
   {
     "name": "NCAA College Hoops 2K8",
-    "id": "x360643",
+    "id": "x360653",
     "igdbId": 43552,
     "gbId": 21317,
     "gbGuid": "3030-21317",
@@ -21915,7 +22261,7 @@
   },
   {
     "name": "NCAA Football 11",
-    "id": "x360644",
+    "id": "x360654",
     "igdbId": 7112,
     "gbId": 30003,
     "gbGuid": "3030-30003",
@@ -21933,7 +22279,7 @@
   },
   {
     "name": "NHL 2K6",
-    "id": "x360645",
+    "id": "x360655",
     "igdbId": 5965,
     "gbId": 9031,
     "gbGuid": "3030-9031",
@@ -21957,7 +22303,7 @@
   },
   {
     "name": "Naruto Shippuden: Ultimate Ninja Storm 2",
-    "id": "x360646",
+    "id": "x360656",
     "igdbId": 7098,
     "gbId": 30539,
     "gbGuid": "3030-30539",
@@ -21984,7 +22330,7 @@
   },
   {
     "name": "Naruto Shippuden: Ultimate Ninja Storm 3",
-    "id": "x360647",
+    "id": "x360657",
     "igdbId": 7099,
     "gbId": 38786,
     "gbGuid": "3030-38786",
@@ -22011,7 +22357,7 @@
   },
   {
     "name": "Naruto: Rise of a Ninja",
-    "id": "x360648",
+    "id": "x360658",
     "igdbId": 7101,
     "gbId": 15928,
     "gbGuid": "3030-15928",
@@ -22049,7 +22395,7 @@
   },
   {
     "name": "Naruto: The Broken Bond",
-    "id": "x360649",
+    "id": "x360659",
     "igdbId": 7102,
     "gbId": 21425,
     "gbGuid": "3030-21425",
@@ -22073,7 +22419,7 @@
   },
   {
     "name": "Need For Speed: Most Wanted",
-    "id": "x360650",
+    "id": "x360660",
     "igdbId": 3193,
     "gbId": 12976,
     "gbGuid": "3030-12976",
@@ -22137,7 +22483,7 @@
   },
   {
     "name": "Need for Speed Rivals",
-    "id": "x360651",
+    "id": "x360661",
     "igdbId": 2074,
     "gbId": 42584,
     "gbGuid": "3030-42584",
@@ -22164,7 +22510,7 @@
   },
   {
     "name": "Need for Speed: Carbon",
-    "id": "x360652",
+    "id": "x360662",
     "igdbId": 99,
     "gbId": 8844,
     "gbGuid": "3030-8844",
@@ -22191,7 +22537,7 @@
   },
   {
     "name": "Need for Speed: Hot Pursuit",
-    "id": "x360653",
+    "id": "x360663",
     "igdbId": 105,
     "gbId": 31698,
     "gbGuid": "3030-31698",
@@ -22218,7 +22564,7 @@
   },
   {
     "name": "Need for Speed: ProStreet",
-    "id": "x360654",
+    "id": "x360664",
     "igdbId": 100,
     "gbId": 18095,
     "gbGuid": "3030-18095",
@@ -22258,7 +22604,7 @@
   },
   {
     "name": "Need for Speed: Shift",
-    "id": "x360655",
+    "id": "x360665",
     "igdbId": 102,
     "gbId": 25225,
     "gbGuid": "3030-25225",
@@ -22298,7 +22644,7 @@
   },
   {
     "name": "Need for Speed: The Run",
-    "id": "x360656",
+    "id": "x360666",
     "igdbId": 526,
     "gbId": 34943,
     "gbGuid": "3030-34943",
@@ -22325,7 +22671,7 @@
   },
   {
     "name": "Need for Speed: Undercover",
-    "id": "x360657",
+    "id": "x360667",
     "igdbId": 101,
     "gbId": 20741,
     "gbGuid": "3030-20741",
@@ -22365,7 +22711,7 @@
   },
   {
     "name": "Negligee: Love Stories",
-    "id": "x360658",
+    "id": "x360668",
     "igdbId": 111743,
     "gbId": 56787,
     "gbGuid": "3030-56787",
@@ -22392,7 +22738,7 @@
   },
   {
     "name": "NeoGeo Battle Coliseum",
-    "id": "x360659",
+    "id": "x360669",
     "igdbId": 21518,
     "gbId": 617,
     "gbGuid": "3030-617",
@@ -22420,7 +22766,7 @@
   },
   {
     "name": "New Rally-X",
-    "id": "x360660",
+    "id": "x360670",
     "igdbId": 18621,
     "gbId": 16629,
     "gbGuid": "3030-16629",
@@ -22458,7 +22804,7 @@
   },
   {
     "name": "NiGHTS into Dreams...",
-    "id": "x360661",
+    "id": "x360671",
     "igdbId": 5075,
     "gbId": 9676,
     "gbGuid": "3030-9676",
@@ -22486,7 +22832,7 @@
   },
   {
     "name": "NieR",
-    "id": "x360662",
+    "id": "x360672",
     "igdbId": 7120,
     "gbId": 26596,
     "gbGuid": "3030-26596",
@@ -22513,7 +22859,7 @@
   },
   {
     "name": "Nin2-Jump",
-    "id": "x360663",
+    "id": "x360673",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -22551,7 +22897,7 @@
   },
   {
     "name": "Ninety-Nine Nights",
-    "id": "x360664",
+    "id": "x360674",
     "igdbId": 7094,
     "gbId": 10040,
     "gbGuid": "3030-10040",
@@ -22589,7 +22935,7 @@
   },
   {
     "name": "Ninja Blade",
-    "id": "x360665",
+    "id": "x360675",
     "igdbId": 7121,
     "gbId": 23661,
     "gbGuid": "3030-23661",
@@ -22627,7 +22973,7 @@
   },
   {
     "name": "Ninja Gaiden 3",
-    "id": "x360666",
+    "id": "x360676",
     "igdbId": 7122,
     "gbId": 32687,
     "gbGuid": "3030-32687",
@@ -22655,7 +23001,7 @@
   },
   {
     "name": "Ninja Gaiden II",
-    "id": "x360667",
+    "id": "x360677",
     "igdbId": 6782,
     "gbId": 20553,
     "gbGuid": "3030-20553",
@@ -22719,7 +23065,7 @@
   },
   {
     "name": "Nitro Family",
-    "id": "x360668",
+    "id": "x360678",
     "igdbId": 50248,
     "gbId": 16355,
     "gbGuid": "3030-16355",
@@ -22747,7 +23093,7 @@
   },
   {
     "name": "Novadrome",
-    "id": "x360669",
+    "id": "x360679",
     "igdbId": 21941,
     "gbId": 11944,
     "gbGuid": "3030-11944",
@@ -22770,7 +23116,7 @@
   },
   {
     "name": "Of Orcs and Men",
-    "id": "x360670",
+    "id": "x360680",
     "igdbId": 516,
     "gbId": 35668,
     "gbGuid": "3030-35668",
@@ -22798,7 +23144,7 @@
   },
   {
     "name": "Omega Five",
-    "id": "x360671",
+    "id": "x360681",
     "igdbId": 21811,
     "gbId": 20772,
     "gbGuid": "3030-20772",
@@ -22836,7 +23182,7 @@
   },
   {
     "name": "Omega Labyrinth Z",
-    "id": "x360672",
+    "id": "x360682",
     "igdbId": 27512,
     "gbId": 64642,
     "gbGuid": "3030-64642",
@@ -22865,7 +23211,7 @@
   },
   {
     "name": "Omerta: City of Gangsters",
-    "id": "x360673",
+    "id": "x360683",
     "igdbId": 6330,
     "gbId": 37676,
     "gbGuid": "3030-37676",
@@ -22889,7 +23235,7 @@
   },
   {
     "name": "Onechanbara: Bikini Samurai Squad",
-    "id": "x360674",
+    "id": "x360684",
     "igdbId": 5086,
     "gbId": 22999,
     "gbGuid": "3030-22999",
@@ -22916,7 +23262,7 @@
   },
   {
     "name": "Operation Darkness",
-    "id": "x360675",
+    "id": "x360685",
     "igdbId": 7125,
     "gbId": 20557,
     "gbGuid": "3030-20557",
@@ -22940,7 +23286,7 @@
   },
   {
     "name": "Operation Flashpoint: Dragon Rising",
-    "id": "x360676",
+    "id": "x360686",
     "igdbId": 451,
     "gbId": 21665,
     "gbGuid": "3030-21665",
@@ -22968,7 +23314,7 @@
   },
   {
     "name": "Operation Flashpoint: Red River",
-    "id": "x360677",
+    "id": "x360687",
     "igdbId": 450,
     "gbId": 32243,
     "gbGuid": "3030-32243",
@@ -22996,7 +23342,7 @@
   },
   {
     "name": "Orcs Must Die!",
-    "id": "x360678",
+    "id": "x360688",
     "igdbId": 2355,
     "gbId": 34265,
     "gbGuid": "3030-34265",
@@ -23034,7 +23380,7 @@
   },
   {
     "name": "Otomedius Excellent",
-    "id": "x360679",
+    "id": "x360689",
     "igdbId": 1695,
     "gbId": 31800,
     "gbGuid": "3030-31800",
@@ -23058,7 +23404,7 @@
   },
   {
     "name": "Otomedius G",
-    "id": "x360680",
+    "id": "x360690",
     "igdbId": 1686,
     "gbId": 24046,
     "gbGuid": "3030-24046",
@@ -23085,7 +23431,7 @@
   },
   {
     "name": "Otomedius Gorgeous!",
-    "id": "x360681",
+    "id": "x360691",
     "igdbId": 23037,
     "gbId": 24046,
     "gbGuid": "3030-24046",
@@ -23108,7 +23454,7 @@
   },
   {
     "name": "Outland",
-    "id": "x360682",
+    "id": "x360692",
     "igdbId": 8371,
     "gbId": 32552,
     "gbGuid": "3030-32552",
@@ -23136,7 +23482,7 @@
   },
   {
     "name": "Outlast 2",
-    "id": "x360683",
+    "id": "x360693",
     "igdbId": 14390,
     "gbId": 48099,
     "gbGuid": "3030-48099",
@@ -23164,7 +23510,7 @@
   },
   {
     "name": "Outpost Kaloki X",
-    "id": "x360684",
+    "id": "x360694",
     "igdbId": 20508,
     "gbId": 4135,
     "gbGuid": "3030-4135",
@@ -23188,7 +23534,7 @@
   },
   {
     "name": "Outrun Online Arcade",
-    "id": "x360685",
+    "id": "x360695",
     "igdbId": 21204,
     "gbId": 24866,
     "gbGuid": "3030-24866",
@@ -23211,7 +23557,7 @@
   },
   {
     "name": "Overlord",
-    "id": "x360686",
+    "id": "x360696",
     "igdbId": 44,
     "gbId": 15674,
     "gbGuid": "3030-15674",
@@ -23239,7 +23585,7 @@
   },
   {
     "name": "Overlord II",
-    "id": "x360687",
+    "id": "x360697",
     "igdbId": 46,
     "gbId": 23317,
     "gbGuid": "3030-23317",
@@ -23267,7 +23613,7 @@
   },
   {
     "name": "PAC-MAN Museum",
-    "id": "x360688",
+    "id": "x360698",
     "igdbId": 25074,
     "gbId": 43368,
     "gbGuid": "3030-43368",
@@ -23295,7 +23641,7 @@
   },
   {
     "name": "PAYDAY 2",
-    "id": "x360689",
+    "id": "x360699",
     "igdbId": 2058,
     "gbId": 38596,
     "gbGuid": "3030-38596",
@@ -23322,7 +23668,7 @@
   },
   {
     "name": "Pac-Man",
-    "id": "x360690",
+    "id": "x360700",
     "igdbId": 2750,
     "gbId": 7624,
     "gbGuid": "3030-7624",
@@ -23350,7 +23696,7 @@
   },
   {
     "name": "Pac-Man Championship Edition",
-    "id": "x360691",
+    "id": "x360701",
     "igdbId": 20900,
     "gbId": 19552,
     "gbGuid": "3030-19552",
@@ -23388,7 +23734,7 @@
   },
   {
     "name": "Pac-Man Championship Edition DX",
-    "id": "x360692",
+    "id": "x360702",
     "igdbId": 21737,
     "gbId": 32607,
     "gbGuid": "3030-32607",
@@ -23416,7 +23762,7 @@
   },
   {
     "name": "Pacific Rim: The Video Game",
-    "id": "x360693",
+    "id": "x360703",
     "igdbId": 63420,
     "gbId": 42573,
     "gbGuid": "3030-42573",
@@ -23439,7 +23785,7 @@
   },
   {
     "name": "Panzer General",
-    "id": "x360694",
+    "id": "x360704",
     "igdbId": 22879,
     "gbId": 29046,
     "gbGuid": "3030-29046",
@@ -23463,7 +23809,7 @@
   },
   {
     "name": "Peggle",
-    "id": "x360695",
+    "id": "x360705",
     "igdbId": 3751,
     "gbId": 21963,
     "gbGuid": "3030-21963",
@@ -23491,7 +23837,7 @@
   },
   {
     "name": "Peggle 2",
-    "id": "x360696",
+    "id": "x360706",
     "igdbId": 3752,
     "gbId": 42911,
     "gbGuid": "3030-42911",
@@ -23519,7 +23865,7 @@
   },
   {
     "name": "Perfect Dark",
-    "id": "x360697",
+    "id": "x360707",
     "igdbId": 1466,
     "gbId": 2930,
     "gbGuid": "3030-2930",
@@ -23557,7 +23903,7 @@
   },
   {
     "name": "Perfect Dark Zero",
-    "id": "x360698",
+    "id": "x360708",
     "igdbId": 1465,
     "gbId": 14558,
     "gbGuid": "3030-14558",
@@ -23644,7 +23990,7 @@
   },
   {
     "name": "Persona 4 Arena",
-    "id": "x360699",
+    "id": "x360709",
     "igdbId": 5650,
     "gbId": 36274,
     "gbGuid": "3030-36274",
@@ -23672,7 +24018,7 @@
   },
   {
     "name": "Peter Jackson's King Kong: The Official Game of the Movie",
-    "id": "x360700",
+    "id": "x360710",
     "igdbId": 4065,
     "gbId": 9458,
     "gbGuid": "3030-9458",
@@ -23716,7 +24062,7 @@
   },
   {
     "name": "Phantasy Star II",
-    "id": "x360701",
+    "id": "x360711",
     "igdbId": 1232,
     "gbId": 4492,
     "gbGuid": "3030-4492",
@@ -23744,7 +24090,7 @@
   },
   {
     "name": "Phantom Breaker",
-    "id": "x360702",
+    "id": "x360712",
     "igdbId": 7130,
     "gbId": 35513,
     "gbGuid": "3030-35513",
@@ -23781,7 +24127,7 @@
   },
   {
     "name": "Phantom Breaker: Battle Grounds",
-    "id": "x360703",
+    "id": "x360713",
     "igdbId": 11324,
     "gbId": 40416,
     "gbGuid": "3030-40416",
@@ -23805,7 +24151,7 @@
   },
   {
     "name": "Pinball FX",
-    "id": "x360704",
+    "id": "x360714",
     "igdbId": 21915,
     "gbId": 12059,
     "gbGuid": "3030-12059",
@@ -23843,7 +24189,7 @@
   },
   {
     "name": "Pinball FX 2",
-    "id": "x360705",
+    "id": "x360715",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -23867,7 +24213,7 @@
   },
   {
     "name": "Pirates vs Ninjas Dodgeball",
-    "id": "x360706",
+    "id": "x360716",
     "igdbId": 5102,
     "gbId": 20563,
     "gbGuid": "3030-20563",
@@ -23891,7 +24237,7 @@
   },
   {
     "name": "Planets Under Attack",
-    "id": "x360707",
+    "id": "x360717",
     "igdbId": 16408,
     "gbId": 39117,
     "gbGuid": "3030-39117",
@@ -23919,7 +24265,7 @@
   },
   {
     "name": "Plants vs. Zombies",
-    "id": "x360708",
+    "id": "x360718",
     "igdbId": 1277,
     "gbId": 25709,
     "gbGuid": "3030-25709",
@@ -23946,7 +24292,7 @@
   },
   {
     "name": "Plants vs. Zombies: Garden Warfare",
-    "id": "x360709",
+    "id": "x360719",
     "igdbId": 3146,
     "gbId": 42887,
     "gbGuid": "3030-42887",
@@ -23987,7 +24333,7 @@
   },
   {
     "name": "PlayerUnknown's Battlegrounds",
-    "id": "x360710",
+    "id": "x360720",
     "igdbId": 27789,
     "gbId": 54979,
     "gbGuid": "3030-54979",
@@ -24016,7 +24362,7 @@
   },
   {
     "name": "PocketBike Racer",
-    "id": "x360711",
+    "id": "x360721",
     "igdbId": 2729,
     "gbId": 4622,
     "gbGuid": "3030-4622",
@@ -24040,7 +24386,7 @@
   },
   {
     "name": "Poker Smash",
-    "id": "x360712",
+    "id": "x360722",
     "igdbId": 21351,
     "gbId": 20681,
     "gbGuid": "3030-20681",
@@ -24063,7 +24409,7 @@
   },
   {
     "name": "Pokémon GO",
-    "id": "x360713",
+    "id": "x360723",
     "igdbId": 12515,
     "gbId": 50840,
     "gbGuid": "3030-50840",
@@ -24092,7 +24438,7 @@
   },
   {
     "name": "Pool Nation",
-    "id": "x360714",
+    "id": "x360724",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -24116,7 +24462,7 @@
   },
   {
     "name": "Port Royale 3: Pirates and Merchants",
-    "id": "x360715",
+    "id": "x360725",
     "igdbId": 7134,
     "gbId": 36058,
     "gbGuid": "3030-36058",
@@ -24144,7 +24490,7 @@
   },
   {
     "name": "Portal 2",
-    "id": "x360716",
+    "id": "x360726",
     "igdbId": 72,
     "gbId": 21662,
     "gbGuid": "3030-21662",
@@ -24185,7 +24531,7 @@
   },
   {
     "name": "Portal: Still Alive",
-    "id": "x360717",
+    "id": "x360727",
     "igdbId": 21798,
     "gbId": 21169,
     "gbGuid": "3030-21169",
@@ -24223,7 +24569,7 @@
   },
   {
     "name": "Postal",
-    "id": "x360718",
+    "id": "x360728",
     "igdbId": 2000,
     "gbId": 15891,
     "gbGuid": "3030-15891",
@@ -24251,7 +24597,7 @@
   },
   {
     "name": "Postal 2",
-    "id": "x360719",
+    "id": "x360729",
     "igdbId": 3109,
     "gbId": 12863,
     "gbGuid": "3030-12863",
@@ -24283,7 +24629,7 @@
   },
   {
     "name": "Postal III",
-    "id": "x360720",
+    "id": "x360730",
     "igdbId": 3110,
     "gbId": 21155,
     "gbGuid": "3030-21155",
@@ -24311,7 +24657,7 @@
   },
   {
     "name": "Predator: Concrete Jungle",
-    "id": "x360721",
+    "id": "x360731",
     "igdbId": 5986,
     "gbId": 10661,
     "gbGuid": "3030-10661",
@@ -24339,7 +24685,7 @@
   },
   {
     "name": "Prey",
-    "id": "x360722",
+    "id": "x360732",
     "igdbId": 546,
     "gbId": 16372,
     "gbGuid": "3030-16372",
@@ -24390,7 +24736,7 @@
   },
   {
     "name": "Prince of Persia",
-    "id": "x360723",
+    "id": "x360733",
     "igdbId": 2438,
     "gbId": 2561,
     "gbGuid": "3030-2561",
@@ -24431,7 +24777,7 @@
   },
   {
     "name": "Prince of Persia Classic",
-    "id": "x360724",
+    "id": "x360734",
     "igdbId": 21797,
     "gbId": 18940,
     "gbGuid": "3030-18940",
@@ -24459,7 +24805,7 @@
   },
   {
     "name": "Pro Evolution Soccer 2008",
-    "id": "x360725",
+    "id": "x360735",
     "igdbId": 4647,
     "gbId": 13165,
     "gbGuid": "3030-13165",
@@ -24486,7 +24832,7 @@
   },
   {
     "name": "Pro Evolution Soccer 2009",
-    "id": "x360726",
+    "id": "x360736",
     "igdbId": 4648,
     "gbId": 20959,
     "gbGuid": "3030-20959",
@@ -24513,7 +24859,7 @@
   },
   {
     "name": "Pro Evolution Soccer 2010",
-    "id": "x360727",
+    "id": "x360737",
     "igdbId": 4649,
     "gbId": 25791,
     "gbGuid": "3030-25791",
@@ -24540,7 +24886,7 @@
   },
   {
     "name": "Pro Evolution Soccer 2011",
-    "id": "x360728",
+    "id": "x360738",
     "igdbId": 4650,
     "gbId": 31217,
     "gbGuid": "3030-31217",
@@ -24567,7 +24913,7 @@
   },
   {
     "name": "Pro Evolution Soccer 2012",
-    "id": "x360729",
+    "id": "x360739",
     "igdbId": 4651,
     "gbId": 35305,
     "gbGuid": "3030-35305",
@@ -24594,7 +24940,7 @@
   },
   {
     "name": "Pro Evolution Soccer 6",
-    "id": "x360730",
+    "id": "x360740",
     "igdbId": 2484,
     "gbId": 67768,
     "gbGuid": "3030-67768",
@@ -24621,7 +24967,7 @@
   },
   {
     "name": "Project Gotham Racing 3",
-    "id": "x360731",
+    "id": "x360741",
     "igdbId": 3322,
     "gbId": 19809,
     "gbGuid": "3030-19809",
@@ -24695,7 +25041,7 @@
   },
   {
     "name": "Project Gotham Racing 4",
-    "id": "x360732",
+    "id": "x360742",
     "igdbId": 2540,
     "gbId": 5607,
     "gbGuid": "3030-5607",
@@ -24746,7 +25092,7 @@
   },
   {
     "name": "Project Sylpheed",
-    "id": "x360733",
+    "id": "x360743",
     "igdbId": 7136,
     "gbId": null,
     "gbGuid": null,
@@ -24783,7 +25129,7 @@
   },
   {
     "name": "Prototype",
-    "id": "x360734",
+    "id": "x360744",
     "igdbId": 570,
     "gbId": 4209,
     "gbGuid": "3030-4209",
@@ -24823,7 +25169,7 @@
   },
   {
     "name": "Pure",
-    "id": "x360735",
+    "id": "x360745",
     "igdbId": 7137,
     "gbId": 20957,
     "gbGuid": "3030-20957",
@@ -24851,7 +25197,7 @@
   },
   {
     "name": "Putty Squad",
-    "id": "x360736",
+    "id": "x360746",
     "igdbId": 85584,
     "gbId": 6587,
     "gbGuid": "3030-6587",
@@ -24879,7 +25225,7 @@
   },
   {
     "name": "Puzzle Arcade",
-    "id": "x360737",
+    "id": "x360747",
     "igdbId": 74420,
     "gbId": 24900,
     "gbGuid": "3030-24900",
@@ -24903,7 +25249,7 @@
   },
   {
     "name": "Puzzle Quest 2",
-    "id": "x360738",
+    "id": "x360748",
     "igdbId": 8979,
     "gbId": 29289,
     "gbGuid": "3030-29289",
@@ -24931,7 +25277,7 @@
   },
   {
     "name": "Puzzle Quest: Challenge of the Warlords",
-    "id": "x360739",
+    "id": "x360749",
     "igdbId": 2370,
     "gbId": 16014,
     "gbGuid": "3030-16014",
@@ -24959,7 +25305,7 @@
   },
   {
     "name": "Puzzle Quest: Galactrix",
-    "id": "x360740",
+    "id": "x360750",
     "igdbId": 8980,
     "gbId": 20567,
     "gbGuid": "3030-20567",
@@ -24987,7 +25333,7 @@
   },
   {
     "name": "Puzzlegeddon",
-    "id": "x360741",
+    "id": "x360751",
     "igdbId": 21139,
     "gbId": 26918,
     "gbGuid": "3030-26918",
@@ -25015,7 +25361,7 @@
   },
   {
     "name": "Qix++",
-    "id": "x360742",
+    "id": "x360752",
     "igdbId": 67255,
     "gbId": 29395,
     "gbGuid": "3030-29395",
@@ -25053,7 +25399,7 @@
   },
   {
     "name": "Quake 4",
-    "id": "x360743",
+    "id": "x360753",
     "igdbId": 356,
     "gbId": 13683,
     "gbGuid": "3030-13683",
@@ -25101,7 +25447,7 @@
   },
   {
     "name": "Quake Arena Arcade",
-    "id": "x360744",
+    "id": "x360754",
     "igdbId": 20441,
     "gbId": 22807,
     "gbGuid": "3030-22807",
@@ -25125,7 +25471,7 @@
   },
   {
     "name": "Quantum Conundrum",
-    "id": "x360745",
+    "id": "x360755",
     "igdbId": 2448,
     "gbId": 36234,
     "gbGuid": "3030-36234",
@@ -25153,7 +25499,7 @@
   },
   {
     "name": "Quarrel",
-    "id": "x360746",
+    "id": "x360756",
     "igdbId": 20659,
     "gbId": 35715,
     "gbGuid": "3030-35715",
@@ -25176,7 +25522,7 @@
   },
   {
     "name": "R-Type Dimensions",
-    "id": "x360747",
+    "id": "x360757",
     "igdbId": 21250,
     "gbId": 22998,
     "gbGuid": "3030-22998",
@@ -25214,7 +25560,7 @@
   },
   {
     "name": "R.U.S.E.",
-    "id": "x360748",
+    "id": "x360758",
     "igdbId": 1378,
     "gbId": 25651,
     "gbGuid": "3030-25651",
@@ -25242,7 +25588,7 @@
   },
   {
     "name": "Race Driver: Grid - Reloaded",
-    "id": "x360749",
+    "id": "x360759",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -25269,7 +25615,7 @@
   },
   {
     "name": "Radiant Silvergun",
-    "id": "x360750",
+    "id": "x360760",
     "igdbId": 51624,
     "gbId": 16952,
     "gbGuid": "3030-16952",
@@ -25307,7 +25653,7 @@
   },
   {
     "name": "Rage",
-    "id": "x360751",
+    "id": "x360761",
     "igdbId": 509,
     "gbId": 20672,
     "gbGuid": "3030-20672",
@@ -25348,13 +25694,14 @@
   },
   {
     "name": "Raiden Fighters Aces",
-    "id": "x360752",
+    "id": "x360762",
     "igdbId": 7153,
     "gbId": 21341,
     "gbGuid": "3030-21341",
     "tgdbId": 14759,
     "details": [
-      "Microsoft Xbox 360 full exclusive"
+      "Microsoft Xbox 360 full exclusive",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -25367,19 +25714,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Raiden IV",
-    "id": "x360753",
+    "id": "x360763",
     "igdbId": 7154,
     "gbId": 24002,
     "gbGuid": "3030-24002",
     "tgdbId": 16710,
     "details": [
       "Microsoft Xbox 360 full exclusive",
-      "Xbox 360 game backward compatible with Xbox One"
+      "Xbox 360 game backward compatible with Xbox One",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -25404,13 +25764,24 @@
           "tgdbId": 15
         },
         "category": "backwardsCompatibility"
+      },
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "RapeLay",
-    "id": "x360754",
+    "id": "x360764",
     "igdbId": 22426,
     "gbId": 16696,
     "gbGuid": "3030-16696",
@@ -25440,7 +25811,7 @@
   },
   {
     "name": "Raskulls",
-    "id": "x360755",
+    "id": "x360765",
     "igdbId": 21168,
     "gbId": 25874,
     "gbGuid": "3030-25874",
@@ -25478,7 +25849,7 @@
   },
   {
     "name": "Ratatouille",
-    "id": "x360756",
+    "id": "x360766",
     "igdbId": 4081,
     "gbId": 20327,
     "gbGuid": "3030-20327",
@@ -25518,7 +25889,7 @@
   },
   {
     "name": "Raven Squad: Operation Hidden Dagger",
-    "id": "x360757",
+    "id": "x360767",
     "igdbId": 7156,
     "gbId": 22720,
     "gbGuid": "3030-22720",
@@ -25542,7 +25913,7 @@
   },
   {
     "name": "Raving Rabbids: Alive and Kicking",
-    "id": "x360758",
+    "id": "x360768",
     "igdbId": 20221,
     "gbId": 35552,
     "gbGuid": "3030-35552",
@@ -25569,7 +25940,7 @@
   },
   {
     "name": "Rayman 3: Hoodlum Havoc",
-    "id": "x360759",
+    "id": "x360769",
     "igdbId": 1966,
     "gbId": 5821,
     "gbGuid": "3030-5821",
@@ -25597,7 +25968,7 @@
   },
   {
     "name": "Rayman Legends",
-    "id": "x360760",
+    "id": "x360770",
     "igdbId": 1968,
     "gbId": 38141,
     "gbGuid": "3030-38141",
@@ -25638,7 +26009,7 @@
   },
   {
     "name": "Rayman Origins",
-    "id": "x360761",
+    "id": "x360771",
     "igdbId": 981,
     "gbId": 31721,
     "gbGuid": "3030-31721",
@@ -25679,7 +26050,7 @@
   },
   {
     "name": "Rayman Raving Rabbids",
-    "id": "x360762",
+    "id": "x360772",
     "igdbId": 2277,
     "gbId": 21617,
     "gbGuid": "3030-21617",
@@ -25707,7 +26078,7 @@
   },
   {
     "name": "Red Bull X-Fighters World Tour",
-    "id": "x360763",
+    "id": "x360773",
     "igdbId": 65909,
     "gbId": 35603,
     "gbGuid": "3030-35603",
@@ -25730,7 +26101,7 @@
   },
   {
     "name": "Red Dead Redemption",
-    "id": "x360764",
+    "id": "x360774",
     "igdbId": 434,
     "gbId": 25249,
     "gbGuid": "3030-25249",
@@ -25798,7 +26169,7 @@
   },
   {
     "name": "Red Dead Redemption 2",
-    "id": "x360765",
+    "id": "x360775",
     "igdbId": 25076,
     "gbId": 56725,
     "gbGuid": "3030-56725",
@@ -25826,7 +26197,7 @@
   },
   {
     "name": "Red Faction: Armageddon",
-    "id": "x360766",
+    "id": "x360776",
     "igdbId": 528,
     "gbId": 25726,
     "gbGuid": "3030-25726",
@@ -25854,7 +26225,7 @@
   },
   {
     "name": "Red Faction: Battlegrounds",
-    "id": "x360767",
+    "id": "x360777",
     "igdbId": 20447,
     "gbId": 32360,
     "gbGuid": "3030-32360",
@@ -25882,7 +26253,7 @@
   },
   {
     "name": "Red Ninja: End of Honor",
-    "id": "x360768",
+    "id": "x360778",
     "igdbId": 6000,
     "gbId": 7345,
     "gbGuid": "3030-7345",
@@ -25910,7 +26281,7 @@
   },
   {
     "name": "Rekoil: Liberator",
-    "id": "x360769",
+    "id": "x360779",
     "igdbId": 20867,
     "gbId": 40406,
     "gbGuid": "3030-40406",
@@ -25933,7 +26304,7 @@
   },
   {
     "name": "Reservoir Dogs",
-    "id": "x360770",
+    "id": "x360780",
     "igdbId": 6003,
     "gbId": 4623,
     "gbGuid": "3030-4623",
@@ -25962,7 +26333,7 @@
   },
   {
     "name": "Resident Evil 4",
-    "id": "x360771",
+    "id": "x360781",
     "igdbId": 974,
     "gbId": 1578,
     "gbGuid": "3030-1578",
@@ -25990,7 +26361,7 @@
   },
   {
     "name": "Resident Evil 5",
-    "id": "x360772",
+    "id": "x360782",
     "igdbId": 847,
     "gbId": 20569,
     "gbGuid": "3030-20569",
@@ -26043,7 +26414,7 @@
   },
   {
     "name": "Resident Evil 6",
-    "id": "x360773",
+    "id": "x360783",
     "igdbId": 1082,
     "gbId": 37273,
     "gbGuid": "3030-37273",
@@ -26083,7 +26454,7 @@
   },
   {
     "name": "Resident Evil Code: Veronica X",
-    "id": "x360774",
+    "id": "x360784",
     "igdbId": 24369,
     "gbId": null,
     "gbGuid": null,
@@ -26111,7 +26482,7 @@
   },
   {
     "name": "Resident Evil: Operation Raccoon City",
-    "id": "x360775",
+    "id": "x360785",
     "igdbId": 977,
     "gbId": 34553,
     "gbGuid": "3030-34553",
@@ -26139,7 +26510,7 @@
   },
   {
     "name": "Resident Evil: The Umbrella Chronicles",
-    "id": "x360776",
+    "id": "x360786",
     "igdbId": 975,
     "gbId": 11454,
     "gbGuid": "3030-11454",
@@ -26167,7 +26538,7 @@
   },
   {
     "name": "Resonance of Fate",
-    "id": "x360777",
+    "id": "x360787",
     "igdbId": 7159,
     "gbId": 25787,
     "gbGuid": "3030-25787",
@@ -26194,7 +26565,7 @@
   },
   {
     "name": "Return to Castle Wolfenstein",
-    "id": "x360778",
+    "id": "x360788",
     "igdbId": 281,
     "gbId": 19181,
     "gbGuid": "3030-19181",
@@ -26222,7 +26593,7 @@
   },
   {
     "name": "Rez HD",
-    "id": "x360779",
+    "id": "x360789",
     "igdbId": 84308,
     "gbId": 22034,
     "gbGuid": "3030-22034",
@@ -26246,7 +26617,7 @@
   },
   {
     "name": "Ridge Racer 6",
-    "id": "x360780",
+    "id": "x360790",
     "igdbId": 7160,
     "gbId": 2324,
     "gbGuid": "3030-2324",
@@ -26280,7 +26651,7 @@
   },
   {
     "name": "Roblox",
-    "id": "x360781",
+    "id": "x360791",
     "igdbId": 17269,
     "gbId": 25462,
     "gbGuid": "3030-25462",
@@ -26308,7 +26679,7 @@
   },
   {
     "name": "RoboBlitz",
-    "id": "x360782",
+    "id": "x360792",
     "igdbId": 14822,
     "gbId": 9738,
     "gbGuid": "3030-9738",
@@ -26346,7 +26717,7 @@
   },
   {
     "name": "Rock Band",
-    "id": "x360783",
+    "id": "x360793",
     "igdbId": 2685,
     "gbId": 9860,
     "gbGuid": "3030-9860",
@@ -26373,7 +26744,7 @@
   },
   {
     "name": "Rock Band 2",
-    "id": "x360784",
+    "id": "x360794",
     "igdbId": 2692,
     "gbId": 20714,
     "gbGuid": "3030-20714",
@@ -26400,7 +26771,7 @@
   },
   {
     "name": "Rock Band 3",
-    "id": "x360785",
+    "id": "x360795",
     "igdbId": 2691,
     "gbId": 27919,
     "gbGuid": "3030-27919",
@@ -26427,7 +26798,7 @@
   },
   {
     "name": "Rocket Knight",
-    "id": "x360786",
+    "id": "x360796",
     "igdbId": 10782,
     "gbId": 28906,
     "gbGuid": "3030-28906",
@@ -26455,7 +26826,7 @@
   },
   {
     "name": "Rocketball",
-    "id": "x360787",
+    "id": "x360797",
     "igdbId": 70227,
     "gbId": 15186,
     "gbGuid": "3030-15186",
@@ -26479,7 +26850,7 @@
   },
   {
     "name": "Rockstar Games presents Table Tennis",
-    "id": "x360788",
+    "id": "x360798",
     "igdbId": 2541,
     "gbId": 16770,
     "gbGuid": "3030-16770",
@@ -26546,7 +26917,7 @@
   },
   {
     "name": "Roogoo",
-    "id": "x360789",
+    "id": "x360799",
     "igdbId": 5128,
     "gbId": 21776,
     "gbGuid": "3030-21776",
@@ -26570,7 +26941,7 @@
   },
   {
     "name": "Rumble Roses XX",
-    "id": "x360790",
+    "id": "x360800",
     "igdbId": 7167,
     "gbId": 12635,
     "gbGuid": "3030-12635",
@@ -26621,7 +26992,7 @@
   },
   {
     "name": "Rush: A Disney Pixar Adventure",
-    "id": "x360791",
+    "id": "x360801",
     "igdbId": 55072,
     "gbId": 36720,
     "gbGuid": "3030-36720",
@@ -26648,7 +27019,7 @@
   },
   {
     "name": "SSX",
-    "id": "x360792",
+    "id": "x360802",
     "igdbId": 4179,
     "gbId": 1932,
     "gbGuid": "3030-1932",
@@ -26676,7 +27047,7 @@
   },
   {
     "name": "Sacred 2: Fallen Angel",
-    "id": "x360793",
+    "id": "x360803",
     "igdbId": 1043,
     "gbId": 20901,
     "gbGuid": "3030-20901",
@@ -26703,7 +27074,7 @@
   },
   {
     "name": "Sacred 3",
-    "id": "x360794",
+    "id": "x360804",
     "igdbId": 5615,
     "gbId": 39513,
     "gbGuid": "3030-39513",
@@ -26731,7 +27102,7 @@
   },
   {
     "name": "Sacred Citadel",
-    "id": "x360795",
+    "id": "x360805",
     "igdbId": 15290,
     "gbId": 39269,
     "gbGuid": "3030-39269",
@@ -26759,7 +27130,7 @@
   },
   {
     "name": "Saints Row",
-    "id": "x360796",
+    "id": "x360806",
     "igdbId": 825,
     "gbId": 5618,
     "gbGuid": "3030-5618",
@@ -26849,7 +27220,7 @@
   },
   {
     "name": "Saints Row 2",
-    "id": "x360797",
+    "id": "x360807",
     "igdbId": 826,
     "gbId": 20679,
     "gbGuid": "3030-20679",
@@ -26929,7 +27300,7 @@
   },
   {
     "name": "Saints Row IV",
-    "id": "x360798",
+    "id": "x360808",
     "igdbId": 1981,
     "gbId": 36884,
     "gbGuid": "3030-36884",
@@ -26970,7 +27341,7 @@
   },
   {
     "name": "Saints Row IV: National Treasure Edition",
-    "id": "x360799",
+    "id": "x360809",
     "igdbId": 53573,
     "gbId": 36884,
     "gbGuid": "3030-36884",
@@ -26997,7 +27368,7 @@
   },
   {
     "name": "Saints Row: Gat Out of Hell",
-    "id": "x360800",
+    "id": "x360810",
     "igdbId": 7708,
     "gbId": 47679,
     "gbGuid": "3030-47679",
@@ -27025,7 +27396,7 @@
   },
   {
     "name": "Saints Row: The Third",
-    "id": "x360801",
+    "id": "x360811",
     "igdbId": 873,
     "gbId": 25725,
     "gbGuid": "3030-25725",
@@ -27093,7 +27464,7 @@
   },
   {
     "name": "Saints Row: The Third - The Full Package",
-    "id": "x360802",
+    "id": "x360812",
     "igdbId": 25268,
     "gbId": 25725,
     "gbGuid": "3030-25725",
@@ -27120,7 +27491,7 @@
   },
   {
     "name": "Sam & Max: Beyond Time and Space",
-    "id": "x360803",
+    "id": "x360813",
     "igdbId": 854,
     "gbId": 24684,
     "gbGuid": "3030-24684",
@@ -27148,7 +27519,7 @@
   },
   {
     "name": "Sam & Max: Save the World",
-    "id": "x360804",
+    "id": "x360814",
     "igdbId": 862,
     "gbId": null,
     "gbGuid": null,
@@ -27176,7 +27547,7 @@
   },
   {
     "name": "Samurai Shodown II",
-    "id": "x360805",
+    "id": "x360815",
     "igdbId": 19986,
     "gbId": 16407,
     "gbGuid": "3030-16407",
@@ -27204,7 +27575,7 @@
   },
   {
     "name": "Scarface: The World Is Yours",
-    "id": "x360806",
+    "id": "x360816",
     "igdbId": 5139,
     "gbId": 9966,
     "gbGuid": "3030-9966",
@@ -27232,7 +27603,7 @@
   },
   {
     "name": "Scarygirl",
-    "id": "x360807",
+    "id": "x360817",
     "igdbId": null,
     "gbId": 25891,
     "gbGuid": "3030-25891",
@@ -27260,7 +27631,7 @@
   },
   {
     "name": "Scene It? Lights, Camera, Action",
-    "id": "x360808",
+    "id": "x360818",
     "igdbId": 7182,
     "gbId": 3069,
     "gbGuid": "3030-3069",
@@ -27284,7 +27655,7 @@
   },
   {
     "name": "Scene It? Movie Night",
-    "id": "x360809",
+    "id": "x360819",
     "igdbId": 41581,
     "gbId": null,
     "gbGuid": null,
@@ -27308,7 +27679,7 @@
   },
   {
     "name": "Schizoid",
-    "id": "x360810",
+    "id": "x360820",
     "igdbId": 21809,
     "gbId": 21224,
     "gbGuid": "3030-21224",
@@ -27331,7 +27702,7 @@
   },
   {
     "name": "Scourge: Outbreak",
-    "id": "x360811",
+    "id": "x360821",
     "igdbId": 9018,
     "gbId": 40144,
     "gbGuid": "3030-40144",
@@ -27355,7 +27726,7 @@
   },
   {
     "name": "Scrap Metal",
-    "id": "x360812",
+    "id": "x360822",
     "igdbId": 22978,
     "gbId": 28127,
     "gbGuid": "3030-28127",
@@ -27393,7 +27764,7 @@
   },
   {
     "name": "ScreamRide",
-    "id": "x360813",
+    "id": "x360823",
     "igdbId": 8730,
     "gbId": 47351,
     "gbGuid": "3030-47351",
@@ -27431,7 +27802,7 @@
   },
   {
     "name": "Screwjumper!",
-    "id": "x360814",
+    "id": "x360824",
     "igdbId": 21884,
     "gbId": 20771,
     "gbGuid": "3030-20771",
@@ -27454,7 +27825,7 @@
   },
   {
     "name": "Sea Life Safari",
-    "id": "x360815",
+    "id": "x360825",
     "igdbId": 21829,
     "gbId": null,
     "gbGuid": null,
@@ -27477,7 +27848,7 @@
   },
   {
     "name": "Sega Bass Fishing",
-    "id": "x360816",
+    "id": "x360826",
     "igdbId": 5147,
     "gbId": 10998,
     "gbGuid": "3030-10998",
@@ -27505,7 +27876,7 @@
   },
   {
     "name": "Sega Superstars Tennis",
-    "id": "x360817",
+    "id": "x360827",
     "igdbId": 47367,
     "gbId": 20578,
     "gbGuid": "3030-20578",
@@ -27532,7 +27903,7 @@
   },
   {
     "name": "Sega Vintage Collection: Alex Kidd & Co.",
-    "id": "x360818",
+    "id": "x360828",
     "igdbId": 79259,
     "gbId": 38379,
     "gbGuid": "3030-38379",
@@ -27560,7 +27931,7 @@
   },
   {
     "name": "Sega Vintage Collection: Golden Axe",
-    "id": "x360819",
+    "id": "x360829",
     "igdbId": 80698,
     "gbId": 38380,
     "gbGuid": "3030-38380",
@@ -27588,7 +27959,7 @@
   },
   {
     "name": "Sega Vintage Collection: Monster World",
-    "id": "x360820",
+    "id": "x360830",
     "igdbId": 80699,
     "gbId": 38191,
     "gbGuid": "3030-38191",
@@ -27616,7 +27987,7 @@
   },
   {
     "name": "Sega Vintage Collection: Streets of Rage",
-    "id": "x360821",
+    "id": "x360831",
     "igdbId": 80697,
     "gbId": 38381,
     "gbGuid": "3030-38381",
@@ -27644,7 +28015,7 @@
   },
   {
     "name": "Sega Vintage Collection: ToeJam & Earl",
-    "id": "x360822",
+    "id": "x360832",
     "igdbId": 85812,
     "gbId": 39509,
     "gbGuid": "3030-39509",
@@ -27672,7 +28043,7 @@
   },
   {
     "name": "Senko No Ronde Rev.X",
-    "id": "x360823",
+    "id": "x360833",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -27699,7 +28070,7 @@
   },
   {
     "name": "Senko no Ronde: Dis-United Order",
-    "id": "x360824",
+    "id": "x360834",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -27722,7 +28093,7 @@
   },
   {
     "name": "Sensible World of Soccer",
-    "id": "x360825",
+    "id": "x360835",
     "igdbId": 10121,
     "gbId": 19165,
     "gbGuid": "3030-19165",
@@ -27760,7 +28131,7 @@
   },
   {
     "name": "Serious Sam Double D XXL",
-    "id": "x360826",
+    "id": "x360836",
     "igdbId": 20086,
     "gbId": null,
     "gbGuid": null,
@@ -27784,7 +28155,7 @@
   },
   {
     "name": "Serious Sam HD: The First Encounter",
-    "id": "x360827",
+    "id": "x360837",
     "igdbId": 13180,
     "gbId": null,
     "gbGuid": null,
@@ -27808,7 +28179,7 @@
   },
   {
     "name": "Serious Sam HD: The Second Encounter",
-    "id": "x360828",
+    "id": "x360838",
     "igdbId": 13181,
     "gbId": null,
     "gbGuid": null,
@@ -27832,7 +28203,7 @@
   },
   {
     "name": "Shadow Assault -Tenchu-",
-    "id": "x360829",
+    "id": "x360839",
     "igdbId": 79709,
     "gbId": 24097,
     "gbGuid": "3030-24097",
@@ -27870,7 +28241,7 @@
   },
   {
     "name": "Shadow Complex",
-    "id": "x360830",
+    "id": "x360840",
     "igdbId": 11328,
     "gbId": 26706,
     "gbGuid": "3030-26706",
@@ -27908,7 +28279,7 @@
   },
   {
     "name": "Shadowrun",
-    "id": "x360831",
+    "id": "x360841",
     "igdbId": 7643,
     "gbId": 593,
     "gbGuid": "3030-593",
@@ -27946,7 +28317,7 @@
   },
   {
     "name": "Shadows of the Damned",
-    "id": "x360832",
+    "id": "x360842",
     "igdbId": 5971,
     "gbId": 32684,
     "gbGuid": "3030-32684",
@@ -27974,7 +28345,7 @@
   },
   {
     "name": "Shank 2",
-    "id": "x360833",
+    "id": "x360843",
     "igdbId": 9623,
     "gbId": 36561,
     "gbGuid": "3030-36561",
@@ -28002,7 +28373,7 @@
   },
   {
     "name": "Shellshock 2: Blood Trails",
-    "id": "x360834",
+    "id": "x360844",
     "igdbId": 7186,
     "gbId": 23254,
     "gbGuid": "3030-23254",
@@ -28030,7 +28401,7 @@
   },
   {
     "name": "Shellshock: Nam '67",
-    "id": "x360835",
+    "id": "x360845",
     "igdbId": 1870,
     "gbId": 15172,
     "gbGuid": "3030-15172",
@@ -28058,7 +28429,7 @@
   },
   {
     "name": "Shinobi",
-    "id": "x360836",
+    "id": "x360846",
     "igdbId": 86252,
     "gbId": 3482,
     "gbGuid": "3030-3482",
@@ -28086,12 +28457,13 @@
   },
   {
     "name": "Shooting Love 10th Anniversary",
-    "id": "x360837",
+    "id": "x360847",
     "igdbId": 63471,
     "gbId": 42469,
     "gbGuid": "3030-42469",
     "details": [
-      "Microsoft Xbox 360 full exclusive"
+      "Microsoft Xbox 360 full exclusive",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -28104,17 +28476,30 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Shooting Love, 200X",
-    "id": "x360838",
+    "id": "x360848",
     "igdbId": 7187,
     "gbId": 25243,
     "gbGuid": "3030-25243",
     "details": [
-      "Microsoft Xbox 360 full exclusive (Xbox LIVE Arcade)"
+      "Microsoft Xbox 360 full exclusive (Xbox LIVE Arcade)",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -28127,12 +28512,24 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Shotest Shogi",
-    "id": "x360839",
+    "id": "x360849",
     "igdbId": 21803,
     "gbId": 21852,
     "gbGuid": "3030-21852",
@@ -28170,7 +28567,7 @@
   },
   {
     "name": "Shred Nebula",
-    "id": "x360840",
+    "id": "x360850",
     "igdbId": 73038,
     "gbId": 20833,
     "gbGuid": "3030-20833",
@@ -28208,7 +28605,7 @@
   },
   {
     "name": "Shrek the Third",
-    "id": "x360841",
+    "id": "x360851",
     "igdbId": 3669,
     "gbId": 3655,
     "gbGuid": "3030-3655",
@@ -28235,7 +28632,7 @@
   },
   {
     "name": "Shrek-N-Roll",
-    "id": "x360842",
+    "id": "x360852",
     "igdbId": 21885,
     "gbId": 26430,
     "gbGuid": "3030-26430",
@@ -28258,7 +28655,7 @@
   },
   {
     "name": "Sid Meier's Civilization Revolution",
-    "id": "x360843",
+    "id": "x360853",
     "igdbId": 2152,
     "gbId": 20580,
     "gbGuid": "3030-20580",
@@ -28286,7 +28683,7 @@
   },
   {
     "name": "Silent Hill HD Collection",
-    "id": "x360844",
+    "id": "x360854",
     "igdbId": 21600,
     "gbId": 35510,
     "gbGuid": "3030-35510",
@@ -28314,7 +28711,7 @@
   },
   {
     "name": "Silent Hill: Downpour",
-    "id": "x360845",
+    "id": "x360855",
     "igdbId": 487,
     "gbId": 30645,
     "gbGuid": "3030-30645",
@@ -28347,7 +28744,7 @@
   },
   {
     "name": "Silent Hill: Homecoming",
-    "id": "x360846",
+    "id": "x360856",
     "igdbId": 485,
     "gbId": 20636,
     "gbGuid": "3030-20636",
@@ -28375,7 +28772,7 @@
   },
   {
     "name": "Sine Mora",
-    "id": "x360847",
+    "id": "x360857",
     "igdbId": 10832,
     "gbId": 32370,
     "gbGuid": "3030-32370",
@@ -28403,7 +28800,7 @@
   },
   {
     "name": "Skate",
-    "id": "x360848",
+    "id": "x360858",
     "igdbId": 2585,
     "gbId": 5228,
     "gbGuid": "3030-5228",
@@ -28430,7 +28827,7 @@
   },
   {
     "name": "Skate 2",
-    "id": "x360849",
+    "id": "x360859",
     "igdbId": 2586,
     "gbId": 20661,
     "gbGuid": "3030-20661",
@@ -28457,7 +28854,7 @@
   },
   {
     "name": "Skate 3",
-    "id": "x360850",
+    "id": "x360860",
     "igdbId": 2587,
     "gbId": 28135,
     "gbGuid": "3030-28135",
@@ -28511,7 +28908,7 @@
   },
   {
     "name": "Skullgirls Encore",
-    "id": "x360851",
+    "id": "x360861",
     "igdbId": 85703,
     "gbId": null,
     "gbGuid": null,
@@ -28538,7 +28935,7 @@
   },
   {
     "name": "Skulls of the Shogun",
-    "id": "x360852",
+    "id": "x360862",
     "igdbId": 9023,
     "gbId": 31582,
     "gbGuid": "3030-31582",
@@ -28562,7 +28959,7 @@
   },
   {
     "name": "Skydive: Proximity Flight",
-    "id": "x360853",
+    "id": "x360863",
     "igdbId": 52819,
     "gbId": 43447,
     "gbGuid": "3030-43447",
@@ -28590,7 +28987,7 @@
   },
   {
     "name": "Sledge Hammer",
-    "id": "x360854",
+    "id": "x360864",
     "igdbId": 65622,
     "gbId": 36618,
     "gbGuid": "3030-36618",
@@ -28613,7 +29010,7 @@
   },
   {
     "name": "Sleeping Dogs",
-    "id": "x360855",
+    "id": "x360865",
     "igdbId": 1267,
     "gbId": 29441,
     "gbGuid": "3030-29441",
@@ -28654,7 +29051,7 @@
   },
   {
     "name": "Slender: The Arrival",
-    "id": "x360856",
+    "id": "x360866",
     "igdbId": 2049,
     "gbId": 39825,
     "gbGuid": "3030-39825",
@@ -28682,7 +29079,7 @@
   },
   {
     "name": "Small Arms",
-    "id": "x360857",
+    "id": "x360867",
     "igdbId": 18039,
     "gbId": 16794,
     "gbGuid": "3030-16794",
@@ -28720,7 +29117,7 @@
   },
   {
     "name": "Sneak King",
-    "id": "x360858",
+    "id": "x360868",
     "igdbId": 2730,
     "gbId": 20670,
     "gbGuid": "3030-20670",
@@ -28744,7 +29141,7 @@
   },
   {
     "name": "Sniper Elite V2",
-    "id": "x360859",
+    "id": "x360869",
     "igdbId": 3078,
     "gbId": 34715,
     "gbGuid": "3030-34715",
@@ -28785,7 +29182,7 @@
   },
   {
     "name": "Sniper: Ghost Warrior",
-    "id": "x360860",
+    "id": "x360870",
     "igdbId": 1367,
     "gbId": 30566,
     "gbGuid": "3030-30566",
@@ -28825,7 +29222,7 @@
   },
   {
     "name": "Snoopy Flying Ace",
-    "id": "x360861",
+    "id": "x360871",
     "igdbId": 21887,
     "gbId": 24417,
     "gbGuid": "3030-24417",
@@ -28849,7 +29246,7 @@
   },
   {
     "name": "Soldier of Fortune: Payback",
-    "id": "x360862",
+    "id": "x360872",
     "igdbId": 3113,
     "gbId": 8632,
     "gbGuid": "3030-8632",
@@ -28877,7 +29274,7 @@
   },
   {
     "name": "Soltrio Solitaire",
-    "id": "x360863",
+    "id": "x360873",
     "igdbId": 21831,
     "gbId": 624,
     "gbGuid": "3030-624",
@@ -28915,7 +29312,7 @@
   },
   {
     "name": "Sonic & All-Stars Racing Transformed",
-    "id": "x360864",
+    "id": "x360874",
     "igdbId": 2174,
     "gbId": 38173,
     "gbGuid": "3030-38173",
@@ -28956,7 +29353,7 @@
   },
   {
     "name": "Sonic & Knuckles",
-    "id": "x360865",
+    "id": "x360875",
     "igdbId": 9475,
     "gbId": 18115,
     "gbGuid": "3030-18115",
@@ -28984,7 +29381,7 @@
   },
   {
     "name": "Sonic & Sega All-Stars Racing",
-    "id": "x360866",
+    "id": "x360876",
     "igdbId": 5165,
     "gbId": 26657,
     "gbGuid": "3030-26657",
@@ -29011,7 +29408,7 @@
   },
   {
     "name": "Sonic Adventure",
-    "id": "x360867",
+    "id": "x360877",
     "igdbId": 7860,
     "gbId": 7852,
     "gbGuid": "3030-7852",
@@ -29039,7 +29436,7 @@
   },
   {
     "name": "Sonic Adventure 2",
-    "id": "x360868",
+    "id": "x360878",
     "igdbId": 7858,
     "gbId": 19060,
     "gbGuid": "3030-19060",
@@ -29067,7 +29464,7 @@
   },
   {
     "name": "Sonic CD Classic",
-    "id": "x360869",
+    "id": "x360879",
     "igdbId": 86807,
     "gbId": null,
     "gbGuid": null,
@@ -29094,7 +29491,7 @@
   },
   {
     "name": "Sonic Free Riders",
-    "id": "x360870",
+    "id": "x360880",
     "igdbId": 20118,
     "gbId": 31719,
     "gbGuid": "3030-31719",
@@ -29134,7 +29531,7 @@
   },
   {
     "name": "Sonic Generations",
-    "id": "x360871",
+    "id": "x360881",
     "igdbId": 506,
     "gbId": 34833,
     "gbGuid": "3030-34833",
@@ -29188,7 +29585,7 @@
   },
   {
     "name": "Sonic The Hedgehog",
-    "id": "x360872",
+    "id": "x360882",
     "igdbId": 6231,
     "gbId": 2465,
     "gbGuid": "3030-2465",
@@ -29216,7 +29613,7 @@
   },
   {
     "name": "Sonic Unleashed",
-    "id": "x360873",
+    "id": "x360883",
     "igdbId": 5169,
     "gbId": 20953,
     "gbGuid": "3030-20953",
@@ -29270,7 +29667,7 @@
   },
   {
     "name": "Sonic the Fighters",
-    "id": "x360874",
+    "id": "x360884",
     "igdbId": 7728,
     "gbId": 21013,
     "gbGuid": "3030-21013",
@@ -29298,7 +29695,7 @@
   },
   {
     "name": "Sonic the Hedgehog",
-    "id": "x360875",
+    "id": "x360885",
     "igdbId": 3192,
     "gbId": 20584,
     "gbGuid": "3030-20584",
@@ -29325,7 +29722,7 @@
   },
   {
     "name": "Sonic the Hedgehog 2",
-    "id": "x360876",
+    "id": "x360886",
     "igdbId": 4438,
     "gbId": 1662,
     "gbGuid": "3030-1662",
@@ -29353,7 +29750,7 @@
   },
   {
     "name": "Sonic the Hedgehog 3",
-    "id": "x360877",
+    "id": "x360887",
     "igdbId": 6797,
     "gbId": 4628,
     "gbGuid": "3030-4628",
@@ -29381,7 +29778,7 @@
   },
   {
     "name": "Sonic the Hedgehog 4: Episode I",
-    "id": "x360878",
+    "id": "x360888",
     "igdbId": 9473,
     "gbId": 28078,
     "gbGuid": "3030-28078",
@@ -29409,7 +29806,7 @@
   },
   {
     "name": "Sonic the Hedgehog 4: Episode II",
-    "id": "x360879",
+    "id": "x360889",
     "igdbId": 9474,
     "gbId": 37124,
     "gbGuid": "3030-37124",
@@ -29437,7 +29834,7 @@
   },
   {
     "name": "Sonic's Ultimate Genesis Collection",
-    "id": "x360880",
+    "id": "x360890",
     "igdbId": 7189,
     "gbId": 24218,
     "gbGuid": "3030-24218",
@@ -29477,7 +29874,7 @@
   },
   {
     "name": "SoulCalibur",
-    "id": "x360881",
+    "id": "x360891",
     "igdbId": 1564,
     "gbId": 12411,
     "gbGuid": "3030-12411",
@@ -29515,7 +29912,7 @@
   },
   {
     "name": "SoulCalibur II HD Online",
-    "id": "x360882",
+    "id": "x360892",
     "igdbId": 20970,
     "gbId": 43286,
     "gbGuid": "3030-43286",
@@ -29543,7 +29940,7 @@
   },
   {
     "name": "SoulCalibur IV",
-    "id": "x360883",
+    "id": "x360893",
     "igdbId": 1567,
     "gbId": 20678,
     "gbGuid": "3030-20678",
@@ -29596,7 +29993,7 @@
   },
   {
     "name": "South Park Let's Go Tower Defense Play!",
-    "id": "x360884",
+    "id": "x360894",
     "igdbId": 1260,
     "gbId": 23102,
     "gbGuid": "3030-23102",
@@ -29620,7 +30017,7 @@
   },
   {
     "name": "South Park: The Fractured But Whole",
-    "id": "x360885",
+    "id": "x360895",
     "igdbId": 11161,
     "gbId": 49968,
     "gbGuid": "3030-49968",
@@ -29648,7 +30045,7 @@
   },
   {
     "name": "South Park: The Stick of Truth",
-    "id": "x360886",
+    "id": "x360896",
     "igdbId": 1262,
     "gbId": 36978,
     "gbGuid": "3030-36978",
@@ -29715,7 +30112,7 @@
   },
   {
     "name": "Space Ark",
-    "id": "x360887",
+    "id": "x360897",
     "igdbId": 14921,
     "gbId": 26724,
     "gbGuid": "3030-26724",
@@ -29743,7 +30140,7 @@
   },
   {
     "name": "Space Giraffe",
-    "id": "x360888",
+    "id": "x360898",
     "igdbId": 15991,
     "gbId": 7271,
     "gbGuid": "3030-7271",
@@ -29781,7 +30178,7 @@
   },
   {
     "name": "Space Invaders Extreme",
-    "id": "x360889",
+    "id": "x360899",
     "igdbId": 8198,
     "gbId": 20501,
     "gbGuid": "3030-20501",
@@ -29805,7 +30202,7 @@
   },
   {
     "name": "Space Invaders Infinity Gene",
-    "id": "x360890",
+    "id": "x360900",
     "igdbId": 22988,
     "gbId": 27556,
     "gbGuid": "3030-27556",
@@ -29833,7 +30230,7 @@
   },
   {
     "name": "Spec Ops: The Line",
-    "id": "x360891",
+    "id": "x360901",
     "igdbId": 1377,
     "gbId": 29445,
     "gbGuid": "3030-29445",
@@ -29874,7 +30271,7 @@
   },
   {
     "name": "Special Forces: Team X",
-    "id": "x360892",
+    "id": "x360902",
     "igdbId": 16403,
     "gbId": 39497,
     "gbGuid": "3030-39497",
@@ -29898,7 +30295,7 @@
   },
   {
     "name": "Spectral Force 3",
-    "id": "x360893",
+    "id": "x360903",
     "igdbId": 21339,
     "gbId": 20613,
     "gbGuid": "3030-20613",
@@ -29922,7 +30319,7 @@
   },
   {
     "name": "Spelunky",
-    "id": "x360894",
+    "id": "x360904",
     "igdbId": 3029,
     "gbId": 24999,
     "gbGuid": "3030-24999",
@@ -29950,7 +30347,7 @@
   },
   {
     "name": "Spider-Man 3",
-    "id": "x360895",
+    "id": "x360905",
     "igdbId": 5178,
     "gbId": 5614,
     "gbGuid": "3030-5614",
@@ -29977,7 +30374,7 @@
   },
   {
     "name": "Spider-Man: Friend or Foe",
-    "id": "x360896",
+    "id": "x360906",
     "igdbId": 5180,
     "gbId": 20258,
     "gbGuid": "3030-20258",
@@ -30004,7 +30401,7 @@
   },
   {
     "name": "Splatterhouse",
-    "id": "x360897",
+    "id": "x360907",
     "igdbId": 7191,
     "gbId": 15148,
     "gbGuid": "3030-15148",
@@ -30032,7 +30429,7 @@
   },
   {
     "name": "Split/Second",
-    "id": "x360898",
+    "id": "x360908",
     "igdbId": 2150,
     "gbId": 25523,
     "gbGuid": "3030-25523",
@@ -30060,7 +30457,7 @@
   },
   {
     "name": "Stacking",
-    "id": "x360899",
+    "id": "x360909",
     "igdbId": 4851,
     "gbId": 33251,
     "gbGuid": "3030-33251",
@@ -30088,7 +30485,7 @@
   },
   {
     "name": "Star Trek: Legacy",
-    "id": "x360900",
+    "id": "x360910",
     "igdbId": 7193,
     "gbId": 7690,
     "gbGuid": "3030-7690",
@@ -30112,7 +30509,7 @@
   },
   {
     "name": "Star Wars: The Force Unleashed",
-    "id": "x360901",
+    "id": "x360911",
     "igdbId": 475,
     "gbId": 20626,
     "gbGuid": "3030-20626",
@@ -30166,7 +30563,7 @@
   },
   {
     "name": "Star Wars: The Force Unleashed II",
-    "id": "x360902",
+    "id": "x360912",
     "igdbId": 137,
     "gbId": 29438,
     "gbGuid": "3030-29438",
@@ -30220,7 +30617,7 @@
   },
   {
     "name": "State of Decay",
-    "id": "x360903",
+    "id": "x360913",
     "igdbId": 3049,
     "gbId": 34088,
     "gbGuid": "3030-34088",
@@ -30244,7 +30641,7 @@
   },
   {
     "name": "Steins;Gate",
-    "id": "x360904",
+    "id": "x360914",
     "igdbId": 7194,
     "gbId": 28224,
     "gbGuid": "3030-28224",
@@ -30285,7 +30682,7 @@
   },
   {
     "name": "Steins;Gate: Hiyoku Renri no Darling",
-    "id": "x360905",
+    "id": "x360915",
     "igdbId": 22357,
     "gbId": 35761,
     "gbGuid": "3030-35761",
@@ -30325,7 +30722,7 @@
   },
   {
     "name": "Steins;Gate: Linear Bounded Phenogram",
-    "id": "x360906",
+    "id": "x360916",
     "igdbId": 65504,
     "gbId": 41356,
     "gbGuid": "3030-41356",
@@ -30352,7 +30749,7 @@
   },
   {
     "name": "Stoked",
-    "id": "x360907",
+    "id": "x360917",
     "igdbId": 7195,
     "gbId": 23479,
     "gbGuid": "3030-23479",
@@ -30376,7 +30773,7 @@
   },
   {
     "name": "Stoked: Big Air Edition",
-    "id": "x360908",
+    "id": "x360918",
     "igdbId": 21107,
     "gbId": 28475,
     "gbGuid": "3030-28475",
@@ -30400,7 +30797,7 @@
   },
   {
     "name": "Strania - The Stella Machina",
-    "id": "x360909",
+    "id": "x360919",
     "igdbId": 34342,
     "gbId": null,
     "gbGuid": null,
@@ -30438,7 +30835,7 @@
   },
   {
     "name": "Street Trace NYC",
-    "id": "x360910",
+    "id": "x360920",
     "igdbId": 21306,
     "gbId": 22986,
     "gbGuid": "3030-22986",
@@ -30461,7 +30858,7 @@
   },
   {
     "name": "Stuntman: Ignition",
-    "id": "x360911",
+    "id": "x360921",
     "igdbId": 2783,
     "gbId": 12167,
     "gbGuid": "3030-12167",
@@ -30489,7 +30886,7 @@
   },
   {
     "name": "Super Contra",
-    "id": "x360912",
+    "id": "x360922",
     "igdbId": 4622,
     "gbId": null,
     "gbGuid": null,
@@ -30517,7 +30914,7 @@
   },
   {
     "name": "Super Meat Boy",
-    "id": "x360913",
+    "id": "x360923",
     "igdbId": 885,
     "gbId": 25114,
     "gbGuid": "3030-25114",
@@ -30545,7 +30942,7 @@
   },
   {
     "name": "Super Robot Wars GC",
-    "id": "x360914",
+    "id": "x360924",
     "igdbId": 4189,
     "gbId": null,
     "gbGuid": null,
@@ -30572,7 +30969,7 @@
   },
   {
     "name": "Super Street Fighter IV",
-    "id": "x360915",
+    "id": "x360925",
     "igdbId": 884,
     "gbId": 20456,
     "gbGuid": "3030-20456",
@@ -30626,7 +31023,7 @@
   },
   {
     "name": "Super Street Fighter IV: Arcade Edition",
-    "id": "x360916",
+    "id": "x360926",
     "igdbId": 20586,
     "gbId": 28437,
     "gbGuid": "3030-28437",
@@ -30672,7 +31069,7 @@
   },
   {
     "name": "Super Time Force",
-    "id": "x360917",
+    "id": "x360927",
     "igdbId": 5336,
     "gbId": 37419,
     "gbGuid": "3030-37419",
@@ -30696,7 +31093,7 @@
   },
   {
     "name": "Supreme Commander",
-    "id": "x360918",
+    "id": "x360928",
     "igdbId": 276,
     "gbId": 1901,
     "gbGuid": "3030-1901",
@@ -30720,7 +31117,7 @@
   },
   {
     "name": "Supreme Commander 2",
-    "id": "x360919",
+    "id": "x360929",
     "igdbId": 7201,
     "gbId": 24445,
     "gbGuid": "3030-24445",
@@ -30758,7 +31155,7 @@
   },
   {
     "name": "Syberia",
-    "id": "x360920",
+    "id": "x360930",
     "igdbId": 890,
     "gbId": 16965,
     "gbGuid": "3030-16965",
@@ -30786,7 +31183,7 @@
   },
   {
     "name": "Syndicate",
-    "id": "x360921",
+    "id": "x360931",
     "igdbId": 49,
     "gbId": 10865,
     "gbGuid": "3030-10865",
@@ -30814,7 +31211,7 @@
   },
   {
     "name": "THE iDOLM@STER",
-    "id": "x360922",
+    "id": "x360932",
     "igdbId": 7013,
     "gbId": 21598,
     "gbGuid": "3030-21598",
@@ -30851,7 +31248,7 @@
   },
   {
     "name": "THE iDOLM@STER Live For You!",
-    "id": "x360923",
+    "id": "x360933",
     "igdbId": 7015,
     "gbId": 20781,
     "gbGuid": "3030-20781",
@@ -30888,7 +31285,7 @@
   },
   {
     "name": "Tales From Space: Mutant Blobs Attack",
-    "id": "x360924",
+    "id": "x360934",
     "igdbId": 5893,
     "gbId": 36298,
     "gbGuid": "3030-36298",
@@ -30916,7 +31313,7 @@
   },
   {
     "name": "Tales of Vesperia",
-    "id": "x360925",
+    "id": "x360935",
     "igdbId": 1209,
     "gbId": 20836,
     "gbGuid": "3030-20836",
@@ -30954,7 +31351,7 @@
   },
   {
     "name": "Tecmo Bowl Throwback",
-    "id": "x360926",
+    "id": "x360936",
     "igdbId": 52906,
     "gbId": 30177,
     "gbGuid": "3030-30177",
@@ -30982,7 +31379,7 @@
   },
   {
     "name": "Tekken 6",
-    "id": "x360927",
+    "id": "x360937",
     "igdbId": 1247,
     "gbId": 20689,
     "gbGuid": "3030-20689",
@@ -31049,7 +31446,7 @@
   },
   {
     "name": "Tekken Tag Tournament 2",
-    "id": "x360928",
+    "id": "x360938",
     "igdbId": 1238,
     "gbId": 32716,
     "gbGuid": "3030-32716",
@@ -31090,7 +31487,7 @@
   },
   {
     "name": "Tenchu Z",
-    "id": "x360929",
+    "id": "x360939",
     "igdbId": 7213,
     "gbId": 21331,
     "gbGuid": "3030-21331",
@@ -31128,7 +31525,7 @@
   },
   {
     "name": "Terraria",
-    "id": "x360930",
+    "id": "x360940",
     "igdbId": 1879,
     "gbId": 34940,
     "gbGuid": "3030-34940",
@@ -31155,7 +31552,7 @@
   },
   {
     "name": "Test Drive Unlimited",
-    "id": "x360931",
+    "id": "x360941",
     "igdbId": 7215,
     "gbId": 6582,
     "gbGuid": "3030-6582",
@@ -31195,7 +31592,7 @@
   },
   {
     "name": "Tetris Splash",
-    "id": "x360932",
+    "id": "x360942",
     "igdbId": 20766,
     "gbId": 21539,
     "gbGuid": "3030-21539",
@@ -31219,7 +31616,7 @@
   },
   {
     "name": "Texas Hold 'Em",
-    "id": "x360933",
+    "id": "x360943",
     "igdbId": 81524,
     "gbId": 22714,
     "gbGuid": "3030-22714",
@@ -31257,7 +31654,7 @@
   },
   {
     "name": "The Adventures of Shuggy",
-    "id": "x360934",
+    "id": "x360944",
     "igdbId": 11084,
     "gbId": 33157,
     "gbGuid": "3030-33157",
@@ -31281,7 +31678,7 @@
   },
   {
     "name": "The Biggest Loser: Ultimate Workout",
-    "id": "x360935",
+    "id": "x360945",
     "igdbId": 20168,
     "gbId": 32650,
     "gbGuid": "3030-32650",
@@ -31308,7 +31705,7 @@
   },
   {
     "name": "The Bridge",
-    "id": "x360936",
+    "id": "x360946",
     "igdbId": 8440,
     "gbId": 39011,
     "gbGuid": "3030-39011",
@@ -31332,7 +31729,7 @@
   },
   {
     "name": "The Bureau: XCOM Declassified",
-    "id": "x360937",
+    "id": "x360947",
     "igdbId": 244,
     "gbId": 30813,
     "gbGuid": "3030-30813",
@@ -31360,7 +31757,7 @@
   },
   {
     "name": "The Cave",
-    "id": "x360938",
+    "id": "x360948",
     "igdbId": 2175,
     "gbId": 38390,
     "gbGuid": "3030-38390",
@@ -31388,7 +31785,7 @@
   },
   {
     "name": "The Club",
-    "id": "x360939",
+    "id": "x360949",
     "igdbId": 6940,
     "gbId": 18777,
     "gbGuid": "3030-18777",
@@ -31416,7 +31813,7 @@
   },
   {
     "name": "The Darkness",
-    "id": "x360940",
+    "id": "x360950",
     "igdbId": 1347,
     "gbId": 9201,
     "gbGuid": "3030-9201",
@@ -31457,7 +31854,7 @@
   },
   {
     "name": "The Darkness II",
-    "id": "x360941",
+    "id": "x360951",
     "igdbId": 544,
     "gbId": 22425,
     "gbGuid": "3030-22425",
@@ -31485,7 +31882,7 @@
   },
   {
     "name": "The Dishwasher: Dead Samurai",
-    "id": "x360942",
+    "id": "x360952",
     "igdbId": 21178,
     "gbId": 22696,
     "gbGuid": "3030-22696",
@@ -31509,7 +31906,7 @@
   },
   {
     "name": "The Elder Scrolls IV: Oblivion (Canadian)",
-    "id": "x360943",
+    "id": "x360953",
     "igdbId": 59,
     "gbId": 20238,
     "gbGuid": "3030-20238",
@@ -31573,7 +31970,7 @@
   },
   {
     "name": "The Elder Scrolls IV: Oblivion - Game of the Year Edition",
-    "id": "x360944",
+    "id": "x360954",
     "igdbId": 27845,
     "gbId": 20238,
     "gbGuid": "3030-20238",
@@ -31600,7 +31997,7 @@
   },
   {
     "name": "The Elder Scrolls V: Skyrim",
-    "id": "x360945",
+    "id": "x360955",
     "igdbId": 472,
     "gbId": 33394,
     "gbGuid": "3030-33394",
@@ -31640,7 +32037,7 @@
   },
   {
     "name": "The Elder Scrolls V: Skyrim Legendary Edition",
-    "id": "x360946",
+    "id": "x360956",
     "igdbId": 47445,
     "gbId": 33394,
     "gbGuid": "3030-33394",
@@ -31667,7 +32064,7 @@
   },
   {
     "name": "The First Templar",
-    "id": "x360947",
+    "id": "x360957",
     "igdbId": 6994,
     "gbId": 31525,
     "gbGuid": "3030-31525",
@@ -31691,7 +32088,7 @@
   },
   {
     "name": "The Godfather II",
-    "id": "x360948",
+    "id": "x360958",
     "igdbId": 575,
     "gbId": 23346,
     "gbGuid": "3030-23346",
@@ -31732,7 +32129,7 @@
   },
   {
     "name": "The Godfather: Blackhand Edition",
-    "id": "x360949",
+    "id": "x360959",
     "igdbId": 20681,
     "gbId": null,
     "gbGuid": null,
@@ -31760,7 +32157,7 @@
   },
   {
     "name": "The House of the Dead: Overkill",
-    "id": "x360950",
+    "id": "x360960",
     "igdbId": 51621,
     "gbId": 23425,
     "gbGuid": "3030-23425",
@@ -31788,7 +32185,7 @@
   },
   {
     "name": "The Idolmaster 2",
-    "id": "x360951",
+    "id": "x360961",
     "igdbId": 7014,
     "gbId": 32031,
     "gbGuid": "3030-32031",
@@ -31815,7 +32212,7 @@
   },
   {
     "name": "The King of Fighters '98 Ultimate Match",
-    "id": "x360952",
+    "id": "x360962",
     "igdbId": 43643,
     "gbId": 59641,
     "gbGuid": "3030-59641",
@@ -31853,7 +32250,7 @@
   },
   {
     "name": "The King of Fighters 2002 Unlimited Match",
-    "id": "x360953",
+    "id": "x360963",
     "igdbId": 22952,
     "gbId": 25902,
     "gbGuid": "3030-25902",
@@ -31881,7 +32278,7 @@
   },
   {
     "name": "The King of Fighters XIII",
-    "id": "x360954",
+    "id": "x360964",
     "igdbId": 7038,
     "gbId": 30142,
     "gbGuid": "3030-30142",
@@ -31909,12 +32306,13 @@
   },
   {
     "name": "The King of Fighters: Sky Stage",
-    "id": "x360955",
+    "id": "x360965",
     "igdbId": 79083,
     "gbId": 25949,
     "gbGuid": "3030-25949",
     "details": [
-      "Xbox 360 game backward compatible with Xbox One"
+      "Xbox 360 game backward compatible with Xbox One",
+      "Microsoft Xbox 360 game supports tate mode"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -31930,13 +32328,24 @@
           "tgdbId": 15
         },
         "category": "backwardsCompatibility"
+      },
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "The Last Remnant",
-    "id": "x360956",
+    "id": "x360966",
     "igdbId": 7047,
     "gbId": 21095,
     "gbGuid": "3030-21095",
@@ -31974,7 +32383,7 @@
   },
   {
     "name": "The Lego Movie Videogame",
-    "id": "x360957",
+    "id": "x360967",
     "igdbId": 4845,
     "gbId": 43263,
     "gbGuid": "3030-43263",
@@ -32001,7 +32410,7 @@
   },
   {
     "name": "The Lord of the Rings: The Battle for Middle-earth II",
-    "id": "x360958",
+    "id": "x360968",
     "igdbId": 3155,
     "gbId": null,
     "gbGuid": null,
@@ -32024,7 +32433,7 @@
   },
   {
     "name": "The Maw",
-    "id": "x360959",
+    "id": "x360969",
     "igdbId": 3976,
     "gbId": 23112,
     "gbGuid": "3030-23112",
@@ -32062,7 +32471,7 @@
   },
   {
     "name": "The Misadventures of P.B. Winterbottom",
-    "id": "x360960",
+    "id": "x360970",
     "igdbId": 13179,
     "gbId": 21868,
     "gbGuid": "3030-21868",
@@ -32100,7 +32509,7 @@
   },
   {
     "name": "The Orange Box",
-    "id": "x360961",
+    "id": "x360971",
     "igdbId": 339,
     "gbId": 17729,
     "gbGuid": "3030-17729",
@@ -32141,7 +32550,7 @@
   },
   {
     "name": "The Outfit",
-    "id": "x360962",
+    "id": "x360972",
     "igdbId": 7126,
     "gbId": 15503,
     "gbGuid": "3030-15503",
@@ -32165,7 +32574,7 @@
   },
   {
     "name": "The Path of Go",
-    "id": "x360963",
+    "id": "x360973",
     "igdbId": 66225,
     "gbId": 33410,
     "gbGuid": "3030-33410",
@@ -32188,7 +32597,7 @@
   },
   {
     "name": "The Punisher",
-    "id": "x360964",
+    "id": "x360974",
     "igdbId": 75883,
     "gbId": 2242,
     "gbGuid": "3030-2242",
@@ -32216,7 +32625,7 @@
   },
   {
     "name": "The Secret of Monkey Island: Special Edition",
-    "id": "x360965",
+    "id": "x360975",
     "igdbId": 65,
     "gbId": null,
     "gbGuid": null,
@@ -32254,7 +32663,7 @@
   },
   {
     "name": "The Serious Sam Collection",
-    "id": "x360966",
+    "id": "x360976",
     "igdbId": 23414,
     "gbId": 68726,
     "gbGuid": "3030-68726",
@@ -32278,7 +32687,7 @@
   },
   {
     "name": "The Simpsons Game",
-    "id": "x360967",
+    "id": "x360977",
     "igdbId": 2656,
     "gbId": 6781,
     "gbGuid": "3030-6781",
@@ -32305,7 +32714,7 @@
   },
   {
     "name": "The Sims 3",
-    "id": "x360968",
+    "id": "x360978",
     "igdbId": 260,
     "gbId": 20581,
     "gbGuid": "3030-20581",
@@ -32345,7 +32754,7 @@
   },
   {
     "name": "The Splatters",
-    "id": "x360969",
+    "id": "x360979",
     "igdbId": 21145,
     "gbId": 35903,
     "gbGuid": "3030-35903",
@@ -32383,7 +32792,7 @@
   },
   {
     "name": "The Suffering",
-    "id": "x360970",
+    "id": "x360980",
     "igdbId": 6180,
     "gbId": 3841,
     "gbGuid": "3030-3841",
@@ -32411,7 +32820,7 @@
   },
   {
     "name": "The Suffering: Ties That Bind",
-    "id": "x360971",
+    "id": "x360981",
     "igdbId": 6181,
     "gbId": 11870,
     "gbGuid": "3030-11870",
@@ -32439,7 +32848,7 @@
   },
   {
     "name": "The Walking Dead: A Telltale Games Series",
-    "id": "x360972",
+    "id": "x360982",
     "igdbId": 117514,
     "gbId": 62464,
     "gbGuid": "3030-62464",
@@ -32467,7 +32876,7 @@
   },
   {
     "name": "The Walking Dead: Michonne - A Telltale Miniseries",
-    "id": "x360973",
+    "id": "x360983",
     "igdbId": 11204,
     "gbId": 50180,
     "gbGuid": "3030-50180",
@@ -32495,7 +32904,7 @@
   },
   {
     "name": "The Walking Dead: Season Two - A Telltale Games Series",
-    "id": "x360974",
+    "id": "x360984",
     "igdbId": 3097,
     "gbId": 39042,
     "gbGuid": "3030-39042",
@@ -32523,7 +32932,7 @@
   },
   {
     "name": "The Warriors",
-    "id": "x360975",
+    "id": "x360985",
     "igdbId": 6030,
     "gbId": 16206,
     "gbGuid": "3030-16206",
@@ -32551,7 +32960,7 @@
   },
   {
     "name": "The Witcher 2: Assassins of Kings",
-    "id": "x360976",
+    "id": "x360986",
     "igdbId": 478,
     "gbId": 28178,
     "gbGuid": "3030-28178",
@@ -32602,7 +33011,7 @@
   },
   {
     "name": "Things on Wheels",
-    "id": "x360977",
+    "id": "x360987",
     "igdbId": 72727,
     "gbId": 23263,
     "gbGuid": "3030-23263",
@@ -32625,7 +33034,7 @@
   },
   {
     "name": "Three Sisters' Story",
-    "id": "x360978",
+    "id": "x360988",
     "igdbId": 71073,
     "gbId": 1740,
     "gbGuid": "3030-1740",
@@ -32652,7 +33061,7 @@
   },
   {
     "name": "TiQal",
-    "id": "x360979",
+    "id": "x360989",
     "igdbId": 21354,
     "gbId": 20623,
     "gbGuid": "3030-20623",
@@ -32675,7 +33084,7 @@
   },
   {
     "name": "Ticket to Ride",
-    "id": "x360980",
+    "id": "x360990",
     "igdbId": 103405,
     "gbId": 9423,
     "gbGuid": "3030-9423",
@@ -32713,7 +33122,7 @@
   },
   {
     "name": "Tiger Woods PGA Tour 06",
-    "id": "x360981",
+    "id": "x360991",
     "igdbId": 903,
     "gbId": 3650,
     "gbGuid": "3030-3650",
@@ -32737,7 +33146,7 @@
   },
   {
     "name": "TimeShift",
-    "id": "x360982",
+    "id": "x360992",
     "igdbId": 2030,
     "gbId": 6338,
     "gbGuid": "3030-6338",
@@ -32765,7 +33174,7 @@
   },
   {
     "name": "Titanfall",
-    "id": "x360983",
+    "id": "x360993",
     "igdbId": 2115,
     "gbId": 42860,
     "gbGuid": "3030-42860",
@@ -32789,7 +33198,7 @@
   },
   {
     "name": "Tom Clancy's EndWar",
-    "id": "x360984",
+    "id": "x360994",
     "igdbId": 7468,
     "gbId": 20739,
     "gbGuid": "3030-20739",
@@ -32830,7 +33239,7 @@
   },
   {
     "name": "Tom Clancy's Ghost Recon Advanced Warfighter",
-    "id": "x360985",
+    "id": "x360995",
     "igdbId": 1300,
     "gbId": null,
     "gbGuid": null,
@@ -32897,7 +33306,7 @@
   },
   {
     "name": "Tom Clancy's Ghost Recon Advanced Warfighter 2",
-    "id": "x360986",
+    "id": "x360996",
     "igdbId": 1301,
     "gbId": null,
     "gbGuid": null,
@@ -32951,7 +33360,7 @@
   },
   {
     "name": "Tom Clancy's Ghost Recon: Future Soldier",
-    "id": "x360987",
+    "id": "x360997",
     "igdbId": 1293,
     "gbId": 26095,
     "gbGuid": "3030-26095",
@@ -32992,7 +33401,7 @@
   },
   {
     "name": "Tom Clancy's H.A.W.X",
-    "id": "x360988",
+    "id": "x360998",
     "igdbId": 983,
     "gbId": 20671,
     "gbGuid": "3030-20671",
@@ -33033,7 +33442,7 @@
   },
   {
     "name": "Tom Clancy's Rainbow Six Vegas",
-    "id": "x360989",
+    "id": "x360999",
     "igdbId": 909,
     "gbId": 3550,
     "gbGuid": "3030-3550",
@@ -33100,7 +33509,7 @@
   },
   {
     "name": "Tom Clancy's Rainbow Six: Vegas 2",
-    "id": "x360990",
+    "id": "x3601000",
     "igdbId": 1853,
     "gbId": 1986,
     "gbGuid": "3030-1986",
@@ -33185,7 +33594,7 @@
   },
   {
     "name": "Tom Clancy's Splinter Cell: Blacklist",
-    "id": "x360991",
+    "id": "x3601001",
     "igdbId": 1305,
     "gbId": 31463,
     "gbGuid": "3030-31463",
@@ -33213,7 +33622,7 @@
   },
   {
     "name": "Tom Clancy's Splinter Cell: Conviction",
-    "id": "x360992",
+    "id": "x3601002",
     "igdbId": 562,
     "gbId": 20464,
     "gbGuid": "3030-20464",
@@ -33290,7 +33699,7 @@
   },
   {
     "name": "Tom Clancy's Splinter Cell: Double Agent",
-    "id": "x360993",
+    "id": "x3601003",
     "igdbId": 7469,
     "gbId": 457,
     "gbGuid": "3030-457",
@@ -33331,7 +33740,7 @@
   },
   {
     "name": "Tomb Raider",
-    "id": "x360994",
+    "id": "x3601004",
     "igdbId": 1164,
     "gbId": 27312,
     "gbGuid": "3030-27312",
@@ -33371,7 +33780,7 @@
   },
   {
     "name": "Tomb Raider: Anniversary",
-    "id": "x360995",
+    "id": "x3601005",
     "igdbId": 1162,
     "gbId": 8201,
     "gbGuid": "3030-8201",
@@ -33412,7 +33821,7 @@
   },
   {
     "name": "Tomb Raider: Legend",
-    "id": "x360996",
+    "id": "x3601006",
     "igdbId": 1161,
     "gbId": 8554,
     "gbGuid": "3030-8554",
@@ -33453,7 +33862,7 @@
   },
   {
     "name": "Tomb Raider: Underworld",
-    "id": "x360997",
+    "id": "x3601007",
     "igdbId": 1163,
     "gbId": 20694,
     "gbGuid": "3030-20694",
@@ -33494,7 +33903,7 @@
   },
   {
     "name": "Tony Hawk's American Wasteland",
-    "id": "x360998",
+    "id": "x3601008",
     "igdbId": 7219,
     "gbId": 7222,
     "gbGuid": "3030-7222",
@@ -33518,7 +33927,7 @@
   },
   {
     "name": "Tony Hawk's Project 8",
-    "id": "x360999",
+    "id": "x3601009",
     "igdbId": 6204,
     "gbId": 12077,
     "gbGuid": "3030-12077",
@@ -33545,7 +33954,7 @@
   },
   {
     "name": "Too Human",
-    "id": "x3601000",
+    "id": "x3601010",
     "igdbId": 5648,
     "gbId": 20499,
     "gbGuid": "3030-20499",
@@ -33569,7 +33978,7 @@
   },
   {
     "name": "Top Spin 2",
-    "id": "x3601001",
+    "id": "x3601011",
     "igdbId": 5235,
     "gbId": 17111,
     "gbGuid": "3030-17111",
@@ -33596,7 +34005,7 @@
   },
   {
     "name": "Torchlight",
-    "id": "x3601002",
+    "id": "x3601012",
     "igdbId": 2480,
     "gbId": 25983,
     "gbGuid": "3030-25983",
@@ -33634,7 +34043,7 @@
   },
   {
     "name": "Total Overdose: A Gunslinger's Tale in Mexico",
-    "id": "x3601003",
+    "id": "x3601013",
     "igdbId": 6213,
     "gbId": 4241,
     "gbGuid": "3030-4241",
@@ -33662,7 +34071,7 @@
   },
   {
     "name": "TotemBall",
-    "id": "x3601004",
+    "id": "x3601014",
     "igdbId": 79930,
     "gbId": 3951,
     "gbGuid": "3030-3951",
@@ -33686,7 +34095,7 @@
   },
   {
     "name": "Tour de France 2009",
-    "id": "x3601005",
+    "id": "x3601015",
     "igdbId": 21247,
     "gbId": 27095,
     "gbGuid": "3030-27095",
@@ -33724,7 +34133,7 @@
   },
   {
     "name": "Tour de France 2011",
-    "id": "x3601006",
+    "id": "x3601016",
     "igdbId": 92464,
     "gbId": 35683,
     "gbGuid": "3030-35683",
@@ -33751,7 +34160,7 @@
   },
   {
     "name": "Tower Bloxx Deluxe",
-    "id": "x3601007",
+    "id": "x3601017",
     "igdbId": 9453,
     "gbId": 29095,
     "gbGuid": "3030-29095",
@@ -33789,7 +34198,7 @@
   },
   {
     "name": "Toy Soldiers",
-    "id": "x3601008",
+    "id": "x3601018",
     "igdbId": 9450,
     "gbId": 28325,
     "gbGuid": "3030-28325",
@@ -33827,7 +34236,7 @@
   },
   {
     "name": "Toy Soldiers: Cold War",
-    "id": "x3601009",
+    "id": "x3601019",
     "igdbId": 9485,
     "gbId": 34419,
     "gbGuid": "3030-34419",
@@ -33865,7 +34274,7 @@
   },
   {
     "name": "Toy Story 3",
-    "id": "x3601010",
+    "id": "x3601020",
     "igdbId": 5240,
     "gbId": 30039,
     "gbGuid": "3030-30039",
@@ -33893,7 +34302,7 @@
   },
   {
     "name": "Toybox Turbos",
-    "id": "x3601011",
+    "id": "x3601021",
     "igdbId": 17179,
     "gbId": 48100,
     "gbGuid": "3030-48100",
@@ -33921,7 +34330,7 @@
   },
   {
     "name": "Transformers: The Game",
-    "id": "x3601012",
+    "id": "x3601022",
     "igdbId": 5244,
     "gbId": 16624,
     "gbGuid": "3030-16624",
@@ -33948,7 +34357,7 @@
   },
   {
     "name": "Trials Evolution",
-    "id": "x3601013",
+    "id": "x3601023",
     "igdbId": 2149,
     "gbId": 35566,
     "gbGuid": "3030-35566",
@@ -33986,7 +34395,7 @@
   },
   {
     "name": "Trials HD",
-    "id": "x3601014",
+    "id": "x3601024",
     "igdbId": 2145,
     "gbId": 26923,
     "gbGuid": "3030-26923",
@@ -34023,8 +34432,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Trigger Heart Exelica Enhanced",
+    "id": "x3601025",
+    "igdbId": 43476,
+    "gbId": 1462,
+    "gbGuid": "3030-1462",
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Triggerheart Exelica",
-    "id": "x3601015",
+    "id": "x3601026",
     "igdbId": 21850,
     "gbId": null,
     "gbGuid": null,
@@ -34062,7 +34497,7 @@
   },
   {
     "name": "Trine 2",
-    "id": "x3601016",
+    "id": "x3601027",
     "igdbId": 6250,
     "gbId": 31661,
     "gbGuid": "3030-31661",
@@ -34090,7 +34525,7 @@
   },
   {
     "name": "Tron: Evolution",
-    "id": "x3601017",
+    "id": "x3601028",
     "igdbId": 7220,
     "gbId": 29284,
     "gbGuid": "3030-29284",
@@ -34118,7 +34553,7 @@
   },
   {
     "name": "Tropico 3",
-    "id": "x3601018",
+    "id": "x3601029",
     "igdbId": 2594,
     "gbId": 24458,
     "gbGuid": "3030-24458",
@@ -34156,7 +34591,7 @@
   },
   {
     "name": "Tropico 4",
-    "id": "x3601019",
+    "id": "x3601030",
     "igdbId": 2595,
     "gbId": 32326,
     "gbGuid": "3030-32326",
@@ -34194,7 +34629,7 @@
   },
   {
     "name": "Tropico 5",
-    "id": "x3601020",
+    "id": "x3601031",
     "igdbId": 3211,
     "gbId": 43535,
     "gbGuid": "3030-43535",
@@ -34232,7 +34667,7 @@
   },
   {
     "name": "Trouble Witches Neo",
-    "id": "x3601021",
+    "id": "x3601032",
     "igdbId": 51636,
     "gbId": 33976,
     "gbGuid": "3030-33976",
@@ -34255,7 +34690,7 @@
   },
   {
     "name": "True Crime: New York City",
-    "id": "x3601022",
+    "id": "x3601033",
     "igdbId": 4215,
     "gbId": 3345,
     "gbGuid": "3030-3345",
@@ -34283,7 +34718,7 @@
   },
   {
     "name": "UFC 2009 Undisputed",
-    "id": "x3601023",
+    "id": "x3601034",
     "igdbId": 7227,
     "gbId": 20747,
     "gbGuid": "3030-20747",
@@ -34323,7 +34758,7 @@
   },
   {
     "name": "UFC Undisputed 2010",
-    "id": "x3601024",
+    "id": "x3601035",
     "igdbId": 7228,
     "gbId": 29376,
     "gbGuid": "3030-29376",
@@ -34350,7 +34785,7 @@
   },
   {
     "name": "UFC Undisputed 3",
-    "id": "x3601025",
+    "id": "x3601036",
     "igdbId": 7229,
     "gbId": 35495,
     "gbGuid": "3030-35495",
@@ -34377,7 +34812,7 @@
   },
   {
     "name": "Ugly Americans: Apocalypsegeddon",
-    "id": "x3601026",
+    "id": "x3601037",
     "igdbId": 20618,
     "gbId": 35556,
     "gbGuid": "3030-35556",
@@ -34405,7 +34840,7 @@
   },
   {
     "name": "Unbound Saga",
-    "id": "x3601027",
+    "id": "x3601038",
     "igdbId": 21101,
     "gbId": 25281,
     "gbGuid": "3030-25281",
@@ -34432,8 +34867,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Under Defeat HD",
+    "id": "x3601039",
+    "igdbId": 43951,
+    "gbId": 37647,
+    "gbGuid": "3030-37647",
+    "details": [
+      "Microsoft Xbox 360 game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Microsoft Xbox 360 game supports tate mode",
+        "forPlatform": {
+          "name": "Microsoft Xbox 360",
+          "id": "ccl26",
+          "igdbId": 12,
+          "gbId": 20,
+          "gbGuid": "3045-20",
+          "tgdbId": 15
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Undertow",
-    "id": "x3601028",
+    "id": "x3601040",
     "igdbId": 20898,
     "gbId": 19512,
     "gbGuid": "3030-19512",
@@ -34471,7 +34932,7 @@
   },
   {
     "name": "Universe at War: Earth Assault",
-    "id": "x3601029",
+    "id": "x3601041",
     "igdbId": 7230,
     "gbId": 9326,
     "gbGuid": "3030-9326",
@@ -34495,7 +34956,7 @@
   },
   {
     "name": "Uno",
-    "id": "x3601030",
+    "id": "x3601042",
     "igdbId": 86361,
     "gbId": 12083,
     "gbGuid": "3030-12083",
@@ -34519,7 +34980,7 @@
   },
   {
     "name": "Uno Rush",
-    "id": "x3601031",
+    "id": "x3601043",
     "igdbId": 22534,
     "gbId": 21172,
     "gbGuid": "3030-21172",
@@ -34542,7 +35003,7 @@
   },
   {
     "name": "Unreal Championship 2: The Liandri Conflict",
-    "id": "x3601032",
+    "id": "x3601044",
     "igdbId": 6221,
     "gbId": 14292,
     "gbGuid": "3030-14292",
@@ -34570,7 +35031,7 @@
   },
   {
     "name": "Unreal Tournament III",
-    "id": "x3601033",
+    "id": "x3601045",
     "igdbId": 928,
     "gbId": 10955,
     "gbGuid": "3030-10955",
@@ -34598,7 +35059,7 @@
   },
   {
     "name": "Valkyrie Drive: Bhikkhuni",
-    "id": "x3601034",
+    "id": "x3601046",
     "igdbId": 11527,
     "gbId": 49223,
     "gbGuid": "3030-49223",
@@ -34633,7 +35094,7 @@
   },
   {
     "name": "Vanquish",
-    "id": "x3601035",
+    "id": "x3601047",
     "igdbId": 3218,
     "gbId": 29903,
     "gbGuid": "3030-29903",
@@ -34661,7 +35122,7 @@
   },
   {
     "name": "Velvet Assassin",
-    "id": "x3601036",
+    "id": "x3601048",
     "igdbId": 7232,
     "gbId": 20573,
     "gbGuid": "3030-20573",
@@ -34685,7 +35146,7 @@
   },
   {
     "name": "Vigilante 8: Arcade",
-    "id": "x3601037",
+    "id": "x3601049",
     "igdbId": 23035,
     "gbId": 23277,
     "gbGuid": "3030-23277",
@@ -34708,7 +35169,7 @@
   },
   {
     "name": "Virtua Fighter 2",
-    "id": "x3601038",
+    "id": "x3601050",
     "igdbId": 1547,
     "gbId": 41,
     "gbGuid": "3030-41",
@@ -34736,7 +35197,7 @@
   },
   {
     "name": "Virtua Fighter 5",
-    "id": "x3601039",
+    "id": "x3601051",
     "igdbId": 1555,
     "gbId": 707,
     "gbGuid": "3030-707",
@@ -34777,7 +35238,7 @@
   },
   {
     "name": "Viva Pinata",
-    "id": "x3601040",
+    "id": "x3601052",
     "igdbId": 7236,
     "gbId": 2168,
     "gbGuid": "3030-2168",
@@ -34841,7 +35302,7 @@
   },
   {
     "name": "Viva Pinata: Trouble in Paradise",
-    "id": "x3601041",
+    "id": "x3601053",
     "igdbId": 7238,
     "gbId": 20682,
     "gbGuid": "3030-20682",
@@ -34879,7 +35340,7 @@
   },
   {
     "name": "Vivisector: Beast Within",
-    "id": "x3601042",
+    "id": "x3601054",
     "igdbId": 54638,
     "gbId": 17386,
     "gbGuid": "3030-17386",
@@ -34907,7 +35368,7 @@
   },
   {
     "name": "WALL-E",
-    "id": "x3601043",
+    "id": "x3601055",
     "igdbId": 5261,
     "gbId": 20794,
     "gbGuid": "3030-20794",
@@ -34934,7 +35395,7 @@
   },
   {
     "name": "WWE SmackDown vs. Raw 2007",
-    "id": "x3601044",
+    "id": "x3601056",
     "igdbId": 7252,
     "gbId": 6,
     "gbGuid": "3030-6",
@@ -34974,7 +35435,7 @@
   },
   {
     "name": "WWE SmackDown vs. Raw 2008",
-    "id": "x3601045",
+    "id": "x3601057",
     "igdbId": 5298,
     "gbId": 12592,
     "gbGuid": "3030-12592",
@@ -35014,7 +35475,7 @@
   },
   {
     "name": "WWE SmackDown vs. Raw 2009",
-    "id": "x3601046",
+    "id": "x3601058",
     "igdbId": 5299,
     "gbId": 20680,
     "gbGuid": "3030-20680",
@@ -35054,7 +35515,7 @@
   },
   {
     "name": "WWE SmackDown vs. Raw 2010",
-    "id": "x3601047",
+    "id": "x3601059",
     "igdbId": 5300,
     "gbId": 26888,
     "gbGuid": "3030-26888",
@@ -35094,7 +35555,7 @@
   },
   {
     "name": "WWE SmackDown vs. Raw 2011",
-    "id": "x3601048",
+    "id": "x3601060",
     "igdbId": 2265,
     "gbId": 31640,
     "gbGuid": "3030-31640",
@@ -35121,7 +35582,7 @@
   },
   {
     "name": "Wallace & Gromit's Grand Adventures, Episode 1: Fright of the Bumblebees",
-    "id": "x3601049",
+    "id": "x3601061",
     "igdbId": 115575,
     "gbId": 21670,
     "gbGuid": "3030-21670",
@@ -35145,7 +35606,7 @@
   },
   {
     "name": "War World: Tactical Combat",
-    "id": "x3601050",
+    "id": "x3601062",
     "igdbId": null,
     "gbId": 17302,
     "gbGuid": "3030-17302",
@@ -35168,7 +35629,7 @@
   },
   {
     "name": "WarTech: Senko No Ronde",
-    "id": "x3601051",
+    "id": "x3601063",
     "igdbId": 7245,
     "gbId": 1497,
     "gbGuid": "3030-1497",
@@ -35192,7 +35653,7 @@
   },
   {
     "name": "Warface: Xbox 360 Edition",
-    "id": "x3601052",
+    "id": "x3601064",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -35215,7 +35676,7 @@
   },
   {
     "name": "Warhammer: Battle March",
-    "id": "x3601053",
+    "id": "x3601065",
     "igdbId": 20786,
     "gbId": 20793,
     "gbGuid": "3030-20793",
@@ -35239,7 +35700,7 @@
   },
   {
     "name": "Watch Dogs",
-    "id": "x3601054",
+    "id": "x3601066",
     "igdbId": 1121,
     "gbId": 38538,
     "gbGuid": "3030-38538",
@@ -35293,7 +35754,7 @@
   },
   {
     "name": "Wik & the Fable of Souls",
-    "id": "x3601055",
+    "id": "x3601067",
     "igdbId": 933,
     "gbId": 20290,
     "gbGuid": "3030-20290",
@@ -35316,7 +35777,7 @@
   },
   {
     "name": "Wing Commander Arena",
-    "id": "x3601056",
+    "id": "x3601068",
     "igdbId": 23131,
     "gbId": 8151,
     "gbGuid": "3030-8151",
@@ -35339,7 +35800,7 @@
   },
   {
     "name": "Wits & Wagers",
-    "id": "x3601057",
+    "id": "x3601069",
     "igdbId": 21819,
     "gbId": 23407,
     "gbGuid": "3030-23407",
@@ -35362,7 +35823,7 @@
   },
   {
     "name": "Wolf of the Battlefield: Commando 3",
-    "id": "x3601058",
+    "id": "x3601070",
     "igdbId": 21342,
     "gbId": 20467,
     "gbGuid": "3030-20467",
@@ -35390,7 +35851,7 @@
   },
   {
     "name": "Wolfenstein",
-    "id": "x3601059",
+    "id": "x3601071",
     "igdbId": 569,
     "gbId": 21119,
     "gbGuid": "3030-21119",
@@ -35419,7 +35880,7 @@
   },
   {
     "name": "Wolfenstein 3D",
-    "id": "x3601060",
+    "id": "x3601072",
     "igdbId": 284,
     "gbId": 7694,
     "gbGuid": "3030-7694",
@@ -35460,7 +35921,7 @@
   },
   {
     "name": "Word Puzzle",
-    "id": "x3601061",
+    "id": "x3601073",
     "igdbId": 21913,
     "gbId": 26434,
     "gbGuid": "3030-26434",
@@ -35498,7 +35959,7 @@
   },
   {
     "name": "World Series of Poker: Full House Pro",
-    "id": "x3601062",
+    "id": "x3601074",
     "igdbId": 19970,
     "gbId": 41227,
     "gbGuid": "3030-41227",
@@ -35522,7 +35983,7 @@
   },
   {
     "name": "World of Tanks: Xbox 360 Edition",
-    "id": "x3601063",
+    "id": "x3601075",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -35546,7 +36007,7 @@
   },
   {
     "name": "X-Men Origins: Wolverine",
-    "id": "x3601064",
+    "id": "x3601076",
     "igdbId": 573,
     "gbId": 24747,
     "gbGuid": "3030-24747",
@@ -35574,7 +36035,7 @@
   },
   {
     "name": "XCOM: Enemy Unknown",
-    "id": "x3601065",
+    "id": "x3601077",
     "igdbId": 1318,
     "gbId": 37152,
     "gbGuid": "3030-37152",
@@ -35602,7 +36063,7 @@
   },
   {
     "name": "XCOM: Enemy Within",
-    "id": "x3601066",
+    "id": "x3601078",
     "igdbId": 5894,
     "gbId": 43648,
     "gbGuid": "3030-43648",
@@ -35630,7 +36091,7 @@
   },
   {
     "name": "Xotic",
-    "id": "x3601067",
+    "id": "x3601079",
     "igdbId": 15085,
     "gbId": 36441,
     "gbGuid": "3030-36441",
@@ -35654,7 +36115,7 @@
   },
   {
     "name": "Yaris",
-    "id": "x3601068",
+    "id": "x3601080",
     "igdbId": 21883,
     "gbId": 2549,
     "gbGuid": "3030-2549",
@@ -35678,7 +36139,7 @@
   },
   {
     "name": "Yo-Ho Kablammo",
-    "id": "x3601069",
+    "id": "x3601081",
     "igdbId": 67690,
     "gbId": 28023,
     "gbGuid": "3030-28023",
@@ -35701,7 +36162,7 @@
   },
   {
     "name": "Yosumin!",
-    "id": "x3601070",
+    "id": "x3601082",
     "igdbId": 9309,
     "gbId": 25947,
     "gbGuid": "3030-25947",
@@ -35729,7 +36190,7 @@
   },
   {
     "name": "Yosumin! LIVE",
-    "id": "x3601071",
+    "id": "x3601083",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -35753,7 +36214,7 @@
   },
   {
     "name": "You're In The Movies",
-    "id": "x3601072",
+    "id": "x3601084",
     "igdbId": 7258,
     "gbId": 21168,
     "gbGuid": "3030-21168",
@@ -35777,7 +36238,7 @@
   },
   {
     "name": "Yu-Gi-Oh! 5D's Decade Duels",
-    "id": "x3601073",
+    "id": "x3601085",
     "igdbId": 66774,
     "gbId": null,
     "gbGuid": null,
@@ -35800,7 +36261,7 @@
   },
   {
     "name": "Zoids Assault",
-    "id": "x3601074",
+    "id": "x3601086",
     "igdbId": 47418,
     "gbId": 20830,
     "gbGuid": "3030-20830",
@@ -35824,7 +36285,7 @@
   },
   {
     "name": "Zone of the Enders HD Collection",
-    "id": "x3601075",
+    "id": "x3601087",
     "igdbId": 24230,
     "gbId": 35511,
     "gbGuid": "3030-35511",
@@ -35852,7 +36313,7 @@
   },
   {
     "name": "Zoo Tycoon",
-    "id": "x3601076",
+    "id": "x3601088",
     "igdbId": 18538,
     "gbId": 42908,
     "gbGuid": "3030-42908",
@@ -35876,7 +36337,7 @@
   },
   {
     "name": "Zuma",
-    "id": "x3601077",
+    "id": "x3601089",
     "igdbId": 3753,
     "gbId": 17012,
     "gbGuid": "3030-17012",
@@ -35904,7 +36365,7 @@
   },
   {
     "name": "Zuma's Revenge",
-    "id": "x3601078",
+    "id": "x3601090",
     "igdbId": 8322,
     "gbId": 27874,
     "gbGuid": "3030-27874",
@@ -35941,7 +36402,7 @@
   },
   {
     "name": "de Blob 2",
-    "id": "x3601079",
+    "id": "x3601091",
     "igdbId": 4796,
     "gbId": 29940,
     "gbGuid": "3030-29940",
@@ -35969,7 +36430,7 @@
   },
   {
     "name": "ilomilo",
-    "id": "x3601080",
+    "id": "x3601092",
     "igdbId": 7086,
     "gbId": 31090,
     "gbGuid": "3030-31090",
