@@ -519,7 +519,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/xboxOneMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'greatestHits/xboxOneGreatestHits.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'greatestHits/xboxOneGreatestHits.json')),
+      require(path.resolve(smallFiles, 'special/microsoftXboxOneTateModeGames.json'))
+    ],
     output: path.resolve(consoleLists, 'MicrosoftXboxOne.json')
   },
   {

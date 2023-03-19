@@ -2,8 +2,8 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/microsoftXbox360TateModeGames.json';
-const idPrefix = 'x360tm';
+const relativePath = '../../textFilesToBeConverted/special/microsoftXboxOneTateModeGames.json';
+const idPrefix = 'xbonetm';
 const parensToDetails = false;
 
 (async function() {
@@ -11,7 +11,7 @@ const parensToDetails = false;
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Microsoft Xbox 360 game supports tate mode',
+    'Microsoft Xbox One game supports tate mode',
     idPrefix,
     parensToDetails
   );
