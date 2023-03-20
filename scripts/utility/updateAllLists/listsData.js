@@ -75,7 +75,8 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'multiplayer/snesSuperMultitap.json')),
       require(path.resolve(smallFiles, 'greatestHits/snesPlayersChoice.json')),
-      require(path.resolve(smallFiles, 'special/snesSuperScopeGames.json'))
+      require(path.resolve(smallFiles, 'special/snesSuperScopeGames.json')),
+      require(path.resolve(smallFiles, 'special/snesTateModeGames.json'))
     ],
     output: path.resolve(consoleLists, 'SuperNintendoEntertainmentSystem.json')
   },
@@ -109,7 +110,8 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'greatestHits/gamecubeEuropePlayersChoice.json')),
       require(path.resolve(smallFiles, 'greatestHits/gamecubePlayersChoice.json')),
-      require(path.resolve(smallFiles, 'multiplayer/gamecubeBroadbandGames.json'))
+      require(path.resolve(smallFiles, 'multiplayer/gamecubeBroadbandGames.json')),
+      require(path.resolve(smallFiles, 'special/nintendoGamecubeTateModeGames.json'))
     ],
     output: path.resolve(consoleLists, 'NintendoGameCube.json')
   },
@@ -123,7 +125,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/wiiMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'greatestHits/wiiNintendoSelects.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'greatestHits/wiiNintendoSelects.json')),
+      require(path.resolve(smallFiles, 'special/nintendoWiiTateModeGames.json'))
+    ],
     output: path.resolve(consoleLists, 'NintendoWii.json')
   },
   {
@@ -136,7 +141,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/wiiUMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'greatestHits/wiiUNintendoSelects.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'greatestHits/wiiUNintendoSelects.json')),
+      require(path.resolve(smallFiles, 'special/nintendoWiiUTateModeGames.json'))
+    ],
     output: path.resolve(consoleLists, 'NintendoWiiU.json')
   },
   {
@@ -199,7 +207,8 @@ module.exports.listData = [
     )),
     special: [
       require(path.resolve(smallFiles, 'greatestHits/gbaPlayersChoice.json')),
-      require(path.resolve(smallFiles, 'special/gbaCartsWithBuiltInDevices.json'))
+      require(path.resolve(smallFiles, 'special/gbaCartsWithBuiltInDevices.json')),
+      require(path.resolve(smallFiles, 'special/nintendoGbaTateModeGames.json'))
     ],
     output: path.resolve(consoleLists, 'NintendoGameBoyAdvance.json')
   },
@@ -327,7 +336,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'special/segaSaturnLightGunGames.json')),
       require(path.resolve(smallFiles, 'special/segaSaturnRamCartGames.json')),
       require(path.resolve(smallFiles, 'special/segaSaturnVcdCardGames.json')),
-      require(path.resolve(smallFiles, 'peripheral/segaSaturnGamesThatCameWithPeripherals.json'))
+      require(path.resolve(smallFiles, 'peripheral/segaSaturnGamesThatCameWithPeripherals.json')),
+      require(path.resolve(smallFiles, 'special/segaSaturnTateModeGames.json'))
     ],
     output: path.resolve(consoleLists, 'SegaSaturn.json')
   },

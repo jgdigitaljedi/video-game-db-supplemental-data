@@ -1616,5 +1616,41 @@
     "filePath": "../textFilesToBeConverted/special/microsoftXboxOneTateModeGames.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "SNES games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/snesTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "GameCube games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/nintendoGamecubeTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Wii games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/nintendoWiiTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Wii U games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/nintendoWiiUTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "GBA games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/nintendoGbaTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Saturn games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/segaSaturnTateModeGames.json",
+    "type": "Game",
+    "complete": true
   }
 ]

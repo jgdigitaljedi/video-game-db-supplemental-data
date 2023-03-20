@@ -114,9 +114,11 @@ I simply chose a prefix for each list then slap a number on the end to different
 - dsrpX - Nintendo DS Rumble Pak games (nintendoDsRumblePakGames.json) | GAMES LIST
 - gbbgX - Genesis black box grid games (blackBoxGridGenesisGames.json) | GAMES LIST
 - gbabiX - Nintendo Game Boy Advance cartridges with built in devices (gbaCartsWithBuiltInDevices.json) | GAMES LIST
+- gbatmX - GBA games with tate mode support (nintendoGbaTateModeGames.json) | GAMES LIST
 - gbbiX - Nintendo Game Boy cartridges with built in devices (gameBoyCartsWithBuiltInDevices.json) | GAMES LIST
 - gbcbiX - Nintendo Game Boy Color cartridges with built in devices (gbcCartsWithBuiltInDevices.json) | GAMES LIST
-- gcbbaX - GameCube braodband adapter games (gamecubeBroadbandGames.json) | GAMES LIST
+- gcbbaX - GameCube broadband adapter games (gamecubeBroadbandGames.json) | GAMES LIST
+- gctmX - GameCube games with tate mode support (nintendoGamecubeTateModeGames.json) | GAMES LIST
 - molgX - Magnavox Odyssey light gun games (magnavoxOdysseyLightGunGamesGames.json) | GAMES LIST
 - mxb360lgX - Microsoft Xbox 360 light gun games (microsoftXbox360LightGunGames.json) | GAMES LIST
 - mxblgX - Microsoft Xbox light gun games (microsoftXboxLightGunGames.json) | GAMES LIST
@@ -147,13 +149,18 @@ I simply chose a prefix for each list then slap a number on the end to different
 - sms3dX - Sega Master System 3D games (segaMasterSystem3dGames.json) | GAMES LIST
 - smspX - Sega Master System Phaser games (segaMasterSystemPhaserGames.json) | GAMES LIST
 - snesssX - SNES Super Scope games (snesSuperScopeGames.json) | GAMES LIST
+- snestmX - SNES games with tate mode support (snesTateModeGames.json) | GAMES LIST
 - spslgX - Sony PlayStation light gun games (sonyPlaystationLightGunGames.json) | GAMES LIST
 - sps2lgX - Sony PlayStation 2 light gun games (sonyPlaystation2LightGunGames.json) | GAMES LIST
 - sps3lgX - Sony PlayStation 3 light gun games (sonyPlaystation3LightGunGames.json) | GAMES LIST
 - sslgX - Sega Saturn light gun games (segaSaturnLightGunGames.json) | GAMES LIST
 - ssrcX - Sega Saturn RAM and ROM cart games (segaSaturnRamCartGames.json) | GAMES LIST
+- sstmX - Sega Saturn games with tate mode support (segaSaturnTateModeGames.json) | GAMES LIST
 - ssvcX - Sega Saturn VCD card games (segaSaturnVcdCardGames.json) | GAMES LIST
+- wiitmX - Wii games with tate mode support (nintendoWiiTateModeGames.json) | GAMES LIST
+- wiiutmX - Wii U games with tate mode support (nintendoWiiUTateModeGames.json) | GAMES LIST
 - x360tmX - Microsoft Xbox 360 games with tate mode support (microsoftXbox360TateModeGames.json) | GAMES LIST
+- xbonetmX - Microsoft Xbox One games with tate mode support (microsoftXboxOneTateModeGames.json) | GAMES LIST
 - xbtmX - Microsoft Xbox games with tate mode support (microsoftXboxTateModeGames.json) | GAMES LIST
 
 ### Platform Exclusives
