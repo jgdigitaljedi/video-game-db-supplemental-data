@@ -141,6 +141,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - scd6bmX - Sega CD 6 button MODE extra functionality (segaCd6ButuonMode.json) | GAMES LIST
 - scd6pX - Sega CD 6 button problem games (segaCd6ButtonGames.json) | GAMES LIST
 - scdlgX - Sega Dreamcast light gun games (segaDreamcastLightGunGames.json) | GAMES LIST
+- sdtmX - Sega Dreamcast games with tate mode support (segaDreamcastTateModeGames.json) | GAMES LIST
 - sg6bX - Sega Genesis 6 button compatible games (segaGenesis6ButtonGames.json) | GAMES LIST
 - sg6bhX - Sega Genesis 6 button hidden functionality (segaGenesis6ButtonHidden.json) | GAMES LIST
 - sg6bpX - Sega Genesis 6 button problem games (segaGenesis6ButtonProblems.json) | GAMES LIST
@@ -150,9 +151,11 @@ I simply chose a prefix for each list then slap a number on the end to different
 - smspX - Sega Master System Phaser games (segaMasterSystemPhaserGames.json) | GAMES LIST
 - snesssX - SNES Super Scope games (snesSuperScopeGames.json) | GAMES LIST
 - snestmX - SNES games with tate mode support (snesTateModeGames.json) | GAMES LIST
+- sp2tmX - Sony PlayStation 2 tate mode games (sonyPlaystation2TateModeGames.json) | GAMES LIST
 - spslgX - Sony PlayStation light gun games (sonyPlaystationLightGunGames.json) | GAMES LIST
 - sps2lgX - Sony PlayStation 2 light gun games (sonyPlaystation2LightGunGames.json) | GAMES LIST
 - sps3lgX - Sony PlayStation 3 light gun games (sonyPlaystation3LightGunGames.json) | GAMES LIST
+- sptmX - Sony PlaySatation games with tate mode support (sonyPlaystationTateModeGames.json) | GAMES LIST
 - sslgX - Sega Saturn light gun games (segaSaturnLightGunGames.json) | GAMES LIST
 - ssrcX - Sega Saturn RAM and ROM cart games (segaSaturnRamCartGames.json) | GAMES LIST
 - sstmX - Sega Saturn games with tate mode support (segaSaturnTateModeGames.json) | GAMES LIST

@@ -358,7 +358,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'greatestHits/dreamcastJPAllStars.json')),
       require(path.resolve(smallFiles, 'greatestHits/dreamcastNAAllStars.json')),
       require(path.resolve(smallFiles, 'special/segaDreamcastLightGunGames.json')),
-      require(path.resolve(smallFiles, 'multiplayer/dreamcastOnlineGames.json'))
+      require(path.resolve(smallFiles, 'multiplayer/dreamcastOnlineGames.json')),
+      require(path.resolve(smallFiles, 'special/segaDreamcastTateModeGames.json'))
     ],
     output: path.resolve(consoleLists, 'SegaDreamcast.json')
   },
@@ -393,7 +394,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'greatestHits/sonyPlayStationGreatestHits.json')),
       require(path.resolve(smallFiles, 'special/playstationLongboxGames.json')),
       require(path.resolve(smallFiles, 'backwardCompatibilityLists/ps1ToPs2Bc.json')),
-      require(path.resolve(smallFiles, 'special/sonyPlaystationLightGunGames.json'))
+      require(path.resolve(smallFiles, 'special/sonyPlaystationLightGunGames.json')),
+      require(path.resolve(smallFiles, 'special/sonyPlaystationTateModeGames.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlaystation.json')
   },
@@ -415,7 +417,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'special/bannedInternationally.json')),
       require(path.resolve(smallFiles, 'multiplayer/playstation2multitap.json')),
       require(path.resolve(smallFiles, 'special/sonyPlaystation2LightGunGames.json')),
-      require(path.resolve(smallFiles, 'multiplayer/playstation2OnlineGames.json'))
+      require(path.resolve(smallFiles, 'multiplayer/playstation2OnlineGames.json')),
+      require(path.resolve(smallFiles, 'special/sonyPlaystation2TateModeGames.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlaystation2.json')
   },

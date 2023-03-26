@@ -52,7 +52,7 @@ function moveTextInParens(text) {
   return { name: text, detailsExtra: null };
 }
 
-module.exports.stringArrToObjectArr = function(data, details, prefix, parensToDetails) {
+module.exports.stringArrToObjectArr = function(data, details, prefix, parensToDetails, category) {
   return data.map((d, index) => {
     const parens = parensToDetails ? moveTextInParens(d) : { name: d, detailsExtra: null };
     return {
@@ -62,7 +62,8 @@ module.exports.stringArrToObjectArr = function(data, details, prefix, parensToDe
       igdbId: null,
       gbId: null,
       gbGuid: null,
-      tgdbId: null
+      tgdbId: null,
+      category
     };
   });
 };

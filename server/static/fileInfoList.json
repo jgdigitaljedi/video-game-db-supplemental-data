@@ -1652,5 +1652,23 @@
     "filePath": "../textFilesToBeConverted/special/segaSaturnTateModeGames.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Dreamcast games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/segaDreamcastTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "PlayStation games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/sonyPlaystationTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "PlayStation 2 games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/sonyPlaystation2TateModeGames.json",
+    "type": "Game",
+    "complete": true
   }
 ]

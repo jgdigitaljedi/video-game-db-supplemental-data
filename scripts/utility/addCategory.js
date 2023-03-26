@@ -24,9 +24,9 @@ const categories = require('./helpers.js').categories;
  */
 
 /** list specific vars */
-const listPath = path.join(basePath, 'XboxBc/XboxToXboxOne.json');
+const listPath = path.join(basePath, 'special/nintendoWiiUTateModeGames.json');
 const list = require(listPath);
-const listCategory = categories.backwardsCompatibility;
+const listCategory = categories.other;
 /** end list specific vars */
 
 (async function() {

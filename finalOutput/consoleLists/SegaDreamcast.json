@@ -571,8 +571,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "ChuChu Rocket!",
+    "name": "Castle Shikigami 2",
     "id": "sdc20",
+    "igdbId": 4149,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Dreamcast game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Dreamcast game supports tate mode",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "ChuChu Rocket!",
+    "id": "sdc21",
     "igdbId": 6347,
     "gbId": 13715,
     "gbGuid": "3030-13715",
@@ -599,7 +625,7 @@
   },
   {
     "name": "Close to: Inori no Oka",
-    "id": "sdc21",
+    "id": "sdc22",
     "igdbId": 196027,
     "gbId": null,
     "gbGuid": null,
@@ -626,7 +652,7 @@
   },
   {
     "name": "Coaster Works",
-    "id": "sdc22",
+    "id": "sdc23",
     "igdbId": 6725,
     "gbId": 38082,
     "gbGuid": "3030-38082",
@@ -650,7 +676,7 @@
   },
   {
     "name": "Comic Party",
-    "id": "sdc23",
+    "id": "sdc24",
     "igdbId": 80719,
     "gbId": 23687,
     "gbGuid": "3030-23687",
@@ -677,7 +703,7 @@
   },
   {
     "name": "Confidential Mission",
-    "id": "sdc24",
+    "id": "sdc25",
     "igdbId": 6726,
     "gbId": 15008,
     "gbGuid": "3030-15008",
@@ -717,7 +743,7 @@
   },
   {
     "name": "Cool Boarders Burrrn!",
-    "id": "sdc25",
+    "id": "sdc26",
     "igdbId": 45784,
     "gbId": null,
     "gbGuid": null,
@@ -744,7 +770,7 @@
   },
   {
     "name": "Cool Cool Toon",
-    "id": "sdc26",
+    "id": "sdc27",
     "igdbId": 6728,
     "gbId": 21422,
     "gbGuid": "3030-21422",
@@ -768,7 +794,7 @@
   },
   {
     "name": "Crazy Taxi (Sega All-Stars)",
-    "id": "sdc27",
+    "id": "sdc28",
     "igdbId": 1805,
     "gbId": 9112,
     "gbGuid": "3030-9112",
@@ -801,7 +827,7 @@
   },
   {
     "name": "Crazy Taxi 2",
-    "id": "sdc28",
+    "id": "sdc29",
     "igdbId": 1806,
     "gbId": 18195,
     "gbGuid": "3030-18195",
@@ -828,7 +854,7 @@
   },
   {
     "name": "Culdcept II",
-    "id": "sdc29",
+    "id": "sdc30",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -852,7 +878,7 @@
   },
   {
     "name": "Culdcept II",
-    "id": "sdc30",
+    "id": "sdc31",
     "igdbId": 137524,
     "gbId": null,
     "gbGuid": null,
@@ -879,7 +905,7 @@
   },
   {
     "name": "Cyber Troopers Virtual-On Oratorio Tangram",
-    "id": "sdc31",
+    "id": "sdc32",
     "igdbId": 9190,
     "gbId": 4819,
     "gbGuid": "3030-4819",
@@ -906,7 +932,7 @@
   },
   {
     "name": "D+Vine [Luv]",
-    "id": "sdc32",
+    "id": "sdc33",
     "igdbId": null,
     "gbId": 85882,
     "gbGuid": "3030-85882",
@@ -933,7 +959,7 @@
   },
   {
     "name": "D2",
-    "id": "sdc33",
+    "id": "sdc34",
     "igdbId": 36736,
     "gbId": 18898,
     "gbGuid": "3030-18898",
@@ -957,7 +983,7 @@
   },
   {
     "name": "Daytona USA 2001",
-    "id": "sdc34",
+    "id": "sdc35",
     "igdbId": 22007,
     "gbId": null,
     "gbGuid": null,
@@ -994,7 +1020,7 @@
   },
   {
     "name": "De La Jet Set Radio",
-    "id": "sdc35",
+    "id": "sdc36",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1021,7 +1047,7 @@
   },
   {
     "name": "Death Crimson 2",
-    "id": "sdc36",
+    "id": "sdc37",
     "igdbId": 45785,
     "gbId": 49144,
     "gbGuid": "3030-49144",
@@ -1048,7 +1074,7 @@
   },
   {
     "name": "Death Crimson OX",
-    "id": "sdc37",
+    "id": "sdc38",
     "igdbId": 40106,
     "gbId": 23185,
     "gbGuid": "3030-23185",
@@ -1075,7 +1101,7 @@
   },
   {
     "name": "Demolition Racer: No Exit",
-    "id": "sdc38",
+    "id": "sdc39",
     "igdbId": 46376,
     "gbId": 11909,
     "gbGuid": "3030-11909",
@@ -1102,7 +1128,7 @@
   },
   {
     "name": "Dousoukai 2 Again & Refrain",
-    "id": "sdc39",
+    "id": "sdc40",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1129,7 +1155,7 @@
   },
   {
     "name": "Draconus: Cult of the Wyrm",
-    "id": "sdc40",
+    "id": "sdc41",
     "igdbId": 9189,
     "gbId": 7960,
     "gbGuid": "3030-7960",
@@ -1153,7 +1179,7 @@
   },
   {
     "name": "Dux",
-    "id": "sdc41",
+    "id": "sdc42",
     "igdbId": 68409,
     "gbId": 26362,
     "gbGuid": "3030-26362",
@@ -1177,7 +1203,7 @@
   },
   {
     "name": "El Dorado Gate",
-    "id": "sdc42",
+    "id": "sdc43",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1200,7 +1226,7 @@
   },
   {
     "name": "Elemental Gimmick Gear",
-    "id": "sdc43",
+    "id": "sdc44",
     "igdbId": 45862,
     "gbId": 4499,
     "gbGuid": "3030-4499",
@@ -1224,7 +1250,7 @@
   },
   {
     "name": "Ever17: The Out of Infinity",
-    "id": "sdc44",
+    "id": "sdc45",
     "igdbId": 18037,
     "gbId": null,
     "gbGuid": null,
@@ -1251,7 +1277,7 @@
   },
   {
     "name": "Evolution",
-    "id": "sdc45",
+    "id": "sdc46",
     "igdbId": 23132,
     "gbId": 4202,
     "gbGuid": "3030-4202",
@@ -1275,7 +1301,7 @@
   },
   {
     "name": "Evolution 2",
-    "id": "sdc46",
+    "id": "sdc47",
     "igdbId": 45858,
     "gbId": 10842,
     "gbGuid": "3030-10842",
@@ -1299,7 +1325,7 @@
   },
   {
     "name": "Fighting Force 2",
-    "id": "sdc47",
+    "id": "sdc48",
     "igdbId": 11615,
     "gbId": 18715,
     "gbGuid": "3030-18715",
@@ -1317,7 +1343,7 @@
   },
   {
     "name": "Fighting Vipers 2",
-    "id": "sdc48",
+    "id": "sdc49",
     "igdbId": 39447,
     "gbId": 13923,
     "gbGuid": "3030-13923",
@@ -1344,7 +1370,7 @@
   },
   {
     "name": "Floigan Bros.: Episode 1",
-    "id": "sdc49",
+    "id": "sdc50",
     "igdbId": 22050,
     "gbId": null,
     "gbGuid": null,
@@ -1368,7 +1394,7 @@
   },
   {
     "name": "Frame Gride",
-    "id": "sdc50",
+    "id": "sdc51",
     "igdbId": 10908,
     "gbId": 29057,
     "gbGuid": "3030-29057",
@@ -1391,7 +1417,7 @@
   },
   {
     "name": "Gaia Master Kessen! Seikiou Densetsu",
-    "id": "sdc51",
+    "id": "sdc52",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1417,8 +1443,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ghost Blade",
+    "id": "sdc53",
+    "igdbId": 23442,
+    "gbId": 47999,
+    "gbGuid": "3030-47999",
+    "details": [
+      "Sega Dreamcast game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Dreamcast game supports tate mode",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Giant Killers",
-    "id": "sdc52",
+    "id": "sdc54",
     "igdbId": 4354,
     "gbId": 8649,
     "gbGuid": "3030-8649",
@@ -1442,7 +1494,7 @@
   },
   {
     "name": "Godzilla Generations",
-    "id": "sdc53",
+    "id": "sdc55",
     "igdbId": 45824,
     "gbId": 22855,
     "gbGuid": "3030-22855",
@@ -1466,7 +1518,7 @@
   },
   {
     "name": "Grand Theft Auto 2",
-    "id": "sdc54",
+    "id": "sdc56",
     "igdbId": 819,
     "gbId": 10593,
     "gbGuid": "3030-10593",
@@ -1484,7 +1536,7 @@
   },
   {
     "name": "Grandia II",
-    "id": "sdc55",
+    "id": "sdc57",
     "igdbId": 9580,
     "gbId": 10129,
     "gbGuid": "3030-10129",
@@ -1511,7 +1563,7 @@
   },
   {
     "name": "Guilty Gear X",
-    "id": "sdc56",
+    "id": "sdc58",
     "igdbId": 9141,
     "gbId": 3978,
     "gbGuid": "3030-3978",
@@ -1537,8 +1589,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Gunbird 2",
+    "id": "sdc59",
+    "igdbId": 40150,
+    "gbId": 19931,
+    "gbGuid": "3030-19931",
+    "details": [
+      "Sega Dreamcast game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Dreamcast game supports tate mode",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Gundam Side Story 0079: Rise From the Ashes",
-    "id": "sdc57",
+    "id": "sdc60",
     "igdbId": 45859,
     "gbId": 21439,
     "gbGuid": "3030-21439",
@@ -1562,7 +1640,7 @@
   },
   {
     "name": "Hanagumi Taisen Columns 2",
-    "id": "sdc58",
+    "id": "sdc61",
     "igdbId": 81567,
     "gbId": 35912,
     "gbGuid": "3030-35912",
@@ -1589,7 +1667,7 @@
   },
   {
     "name": "Happy Lesson",
-    "id": "sdc59",
+    "id": "sdc62",
     "igdbId": 78643,
     "gbId": 25182,
     "gbGuid": "3030-25182",
@@ -1616,7 +1694,7 @@
   },
   {
     "name": "Hydro Thunder",
-    "id": "sdc60",
+    "id": "sdc63",
     "igdbId": 3370,
     "gbId": 13241,
     "gbGuid": "3030-13241",
@@ -1653,8 +1731,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ikaruga",
+    "id": "sdc64",
+    "igdbId": 200996,
+    "gbId": 12069,
+    "gbGuid": "3030-12069",
+    "details": [
+      "Sega Dreamcast game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Dreamcast game supports tate mode",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Illbleed",
-    "id": "sdc61",
+    "id": "sdc65",
     "igdbId": 26450,
     "gbId": 126,
     "gbGuid": "3030-126",
@@ -1678,7 +1782,7 @@
   },
   {
     "name": "Inoue Ryouko: Roommate",
-    "id": "sdc62",
+    "id": "sdc66",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1705,7 +1809,7 @@
   },
   {
     "name": "Interlude",
-    "id": "sdc63",
+    "id": "sdc67",
     "igdbId": 139421,
     "gbId": 39326,
     "gbGuid": "3030-39326",
@@ -1732,7 +1836,7 @@
   },
   {
     "name": "Iron Aces",
-    "id": "sdc64",
+    "id": "sdc68",
     "igdbId": 45853,
     "gbId": 13397,
     "gbGuid": "3030-13397",
@@ -1756,7 +1860,7 @@
   },
   {
     "name": "Jeremy McGrath Supercross 2000",
-    "id": "sdc65",
+    "id": "sdc69",
     "igdbId": 3523,
     "gbId": 4298,
     "gbGuid": "3030-4298",
@@ -1774,7 +1878,7 @@
   },
   {
     "name": "Jet Grind Radio",
-    "id": "sdc66",
+    "id": "sdc70",
     "igdbId": 1569,
     "gbId": 20096,
     "gbGuid": "3030-20096",
@@ -1800,8 +1904,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Karous",
+    "id": "sdc71",
+    "igdbId": 45818,
+    "gbId": 3359,
+    "gbGuid": "3030-3359",
+    "details": [
+      "Sega Dreamcast game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Dreamcast game supports tate mode",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "L.O.L.: Lack of Love",
-    "id": "sdc67",
+    "id": "sdc72",
     "igdbId": 45799,
     "gbId": 27575,
     "gbGuid": "3030-27575",
@@ -1825,7 +1955,7 @@
   },
   {
     "name": "Martian Successor Nadesico: Nadesico the Mission",
-    "id": "sdc68",
+    "id": "sdc73",
     "igdbId": 125366,
     "gbId": 75963,
     "gbGuid": "3030-75963",
@@ -1852,7 +1982,7 @@
   },
   {
     "name": "Marvel vs. Capcom: Clash of Super Heroes",
-    "id": "sdc69",
+    "id": "sdc74",
     "igdbId": 8246,
     "gbId": 8605,
     "gbGuid": "3030-8605",
@@ -1885,7 +2015,7 @@
   },
   {
     "name": "Max Steel: Covert Missions",
-    "id": "sdc70",
+    "id": "sdc75",
     "igdbId": 4352,
     "gbId": 17376,
     "gbGuid": "3030-17376",
@@ -1908,7 +2038,7 @@
   },
   {
     "name": "Maximum Pool",
-    "id": "sdc71",
+    "id": "sdc76",
     "igdbId": 45815,
     "gbId": 9501,
     "gbGuid": "3030-9501",
@@ -1935,7 +2065,7 @@
   },
   {
     "name": "Memories Off 2nd",
-    "id": "sdc72",
+    "id": "sdc77",
     "igdbId": 78209,
     "gbId": 26570,
     "gbGuid": "3030-26570",
@@ -1962,126 +2092,6 @@
   },
   {
     "name": "Memories Off Complete",
-    "id": "sdc73",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sega All-Stars game (JP)"
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false,
-    "special": [
-      {
-        "value": "Sega All-Stars game (JP)",
-        "forPlatform": {
-          "name": "Sega Dreamcast",
-          "id": "ccl18",
-          "igdbId": 23,
-          "gbId": 37,
-          "gbGuid": "3045-37",
-          "tgdbId": 16
-        },
-        "category": "hits"
-      }
-    ],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Mercurius Pretty: End of the Century",
-    "id": "sdc74",
-    "igdbId": 66277,
-    "gbId": 33176,
-    "gbGuid": "3030-33176",
-    "details": [
-      "Sega All-Stars game (JP)"
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": false,
-    "special": [
-      {
-        "value": "Sega All-Stars game (JP)",
-        "forPlatform": {
-          "name": "Sega Dreamcast",
-          "id": "ccl18",
-          "igdbId": 23,
-          "gbId": 37,
-          "gbGuid": "3045-37",
-          "tgdbId": 16
-        },
-        "category": "hits"
-      }
-    ],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Metropolis Street Racer",
-    "id": "sdc75",
-    "igdbId": 3319,
-    "gbId": 3027,
-    "gbGuid": "3030-3027",
-    "tgdbId": 10589,
-    "details": [
-      "Sega Dreamcast exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sega Dreamcast",
-        "id": "ccl18",
-        "igdbId": 23,
-        "gbId": 37,
-        "gbGuid": "3045-37",
-        "tgdbId": 16
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Midway's Greatest Arcade Hits: Volume 1",
-    "id": "sdc76",
-    "igdbId": 47679,
-    "gbId": 1661,
-    "gbGuid": "3030-1661",
-    "details": [],
-    "isExclusive": false,
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": [
-      {
-        "image": "https://iamerror.gamehacking.org/Sega/Dreamcast/mvsc2_zpseaad9361.jpg",
-        "details": "Plays Marvel Vs Capcom 2\nlook for data code\nT-1212N ",
-        "type": "Data"
-      }
-    ]
-  },
-  {
-    "name": "Millennium Soldier Expendable",
-    "id": "sdc77",
-    "igdbId": 45816,
-    "gbId": 16472,
-    "gbGuid": "3030-16472",
-    "tgdbId": 52720,
-    "details": [
-      "Sega Dreamcast launch title"
-    ],
-    "isExclusive": false,
-    "isLaunchTitle": [
-      {
-        "name": "Sega Dreamcast",
-        "id": "ccl18",
-        "igdbId": 23,
-        "gbId": 37,
-        "gbGuid": "3045-37",
-        "tgdbId": 16
-      }
-    ],
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Miss Moonlight",
     "id": "sdc78",
     "igdbId": null,
     "gbId": null,
@@ -2108,8 +2118,128 @@
     "misprintsErrors": []
   },
   {
-    "name": "Monaco Grand Prix",
+    "name": "Mercurius Pretty: End of the Century",
     "id": "sdc79",
+    "igdbId": 66277,
+    "gbId": 33176,
+    "gbGuid": "3030-33176",
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        },
+        "category": "hits"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Metropolis Street Racer",
+    "id": "sdc80",
+    "igdbId": 3319,
+    "gbId": 3027,
+    "gbGuid": "3030-3027",
+    "tgdbId": 10589,
+    "details": [
+      "Sega Dreamcast exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sega Dreamcast",
+        "id": "ccl18",
+        "igdbId": 23,
+        "gbId": 37,
+        "gbGuid": "3045-37",
+        "tgdbId": 16
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Midway's Greatest Arcade Hits: Volume 1",
+    "id": "sdc81",
+    "igdbId": 47679,
+    "gbId": 1661,
+    "gbGuid": "3030-1661",
+    "details": [],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": [
+      {
+        "image": "https://iamerror.gamehacking.org/Sega/Dreamcast/mvsc2_zpseaad9361.jpg",
+        "details": "Plays Marvel Vs Capcom 2\nlook for data code\nT-1212N ",
+        "type": "Data"
+      }
+    ]
+  },
+  {
+    "name": "Millennium Soldier Expendable",
+    "id": "sdc82",
+    "igdbId": 45816,
+    "gbId": 16472,
+    "gbGuid": "3030-16472",
+    "tgdbId": 52720,
+    "details": [
+      "Sega Dreamcast launch title"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": [
+      {
+        "name": "Sega Dreamcast",
+        "id": "ccl18",
+        "igdbId": 23,
+        "gbId": 37,
+        "gbGuid": "3045-37",
+        "tgdbId": 16
+      }
+    ],
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Miss Moonlight",
+    "id": "sdc83",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega All-Stars game (JP)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega All-Stars game (JP)",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        },
+        "category": "hits"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Monaco Grand Prix",
+    "id": "sdc84",
     "igdbId": 3413,
     "gbId": 27620,
     "gbGuid": "3030-27620",
@@ -2133,7 +2263,7 @@
   },
   {
     "name": "Mortal Kombat Gold",
-    "id": "sdc80",
+    "id": "sdc85",
     "igdbId": 45155,
     "gbId": 4652,
     "gbGuid": "3030-4652",
@@ -2167,7 +2297,7 @@
   },
   {
     "name": "Ms. Pac-Man Maze Madness",
-    "id": "sdc81",
+    "id": "sdc86",
     "igdbId": 3338,
     "gbId": 3903,
     "gbGuid": "3030-3903",
@@ -2185,7 +2315,7 @@
   },
   {
     "name": "NBA 2K",
-    "id": "sdc82",
+    "id": "sdc87",
     "igdbId": 8832,
     "gbId": 6839,
     "gbGuid": "3030-6839",
@@ -2223,7 +2353,7 @@
   },
   {
     "name": "NBA 2K1",
-    "id": "sdc83",
+    "id": "sdc88",
     "igdbId": 28836,
     "gbId": 16896,
     "gbGuid": "3030-16896",
@@ -2280,7 +2410,7 @@
   },
   {
     "name": "NBA 2K2",
-    "id": "sdc84",
+    "id": "sdc89",
     "igdbId": 4029,
     "gbId": 756,
     "gbGuid": "3030-756",
@@ -2307,7 +2437,7 @@
   },
   {
     "name": "NCAA College Football 2K2",
-    "id": "sdc85",
+    "id": "sdc90",
     "igdbId": 46380,
     "gbId": 7532,
     "gbGuid": "3030-7532",
@@ -2345,7 +2475,7 @@
   },
   {
     "name": "NFL 2K",
-    "id": "sdc86",
+    "id": "sdc91",
     "igdbId": 8842,
     "gbId": 4659,
     "gbGuid": "3030-4659",
@@ -2406,7 +2536,7 @@
   },
   {
     "name": "NFL 2K1",
-    "id": "sdc87",
+    "id": "sdc92",
     "igdbId": 8843,
     "gbId": 805,
     "gbGuid": "3030-805",
@@ -2457,7 +2587,7 @@
   },
   {
     "name": "NFL 2K2",
-    "id": "sdc88",
+    "id": "sdc93",
     "igdbId": 8845,
     "gbId": 14001,
     "gbGuid": "3030-14001",
@@ -2484,7 +2614,7 @@
   },
   {
     "name": "NFL Blitz 2000",
-    "id": "sdc89",
+    "id": "sdc94",
     "igdbId": 4366,
     "gbId": 2849,
     "gbGuid": "3030-2849",
@@ -2528,7 +2658,7 @@
   },
   {
     "name": "NHL 2K",
-    "id": "sdc90",
+    "id": "sdc95",
     "igdbId": 8839,
     "gbId": 16447,
     "gbGuid": "3030-16447",
@@ -2566,7 +2696,7 @@
   },
   {
     "name": "NHL 2K2",
-    "id": "sdc91",
+    "id": "sdc96",
     "igdbId": 8840,
     "gbId": 21789,
     "gbGuid": "3030-21789",
@@ -2610,7 +2740,7 @@
   },
   {
     "name": "Nanatsu no Hikan: Senritsu no Bishou",
-    "id": "sdc92",
+    "id": "sdc97",
     "igdbId": 108772,
     "gbId": 69415,
     "gbGuid": "3030-69415",
@@ -2633,7 +2763,7 @@
   },
   {
     "name": "Napple Tale: Arsia in Daydream",
-    "id": "sdc93",
+    "id": "sdc98",
     "igdbId": 28152,
     "gbId": 19006,
     "gbGuid": "3030-19006",
@@ -2671,7 +2801,7 @@
   },
   {
     "name": "Never 7: The End of Infinity",
-    "id": "sdc94",
+    "id": "sdc99",
     "igdbId": 18018,
     "gbId": null,
     "gbGuid": null,
@@ -2698,7 +2828,7 @@
   },
   {
     "name": "Ooga Booga",
-    "id": "sdc95",
+    "id": "sdc100",
     "igdbId": 10961,
     "gbId": 13790,
     "gbGuid": "3030-13790",
@@ -2736,7 +2866,7 @@
   },
   {
     "name": "Outtrigger",
-    "id": "sdc96",
+    "id": "sdc101",
     "igdbId": 39605,
     "gbId": 15175,
     "gbGuid": "3030-15175",
@@ -2763,7 +2893,7 @@
   },
   {
     "name": "POD 2",
-    "id": "sdc97",
+    "id": "sdc102",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2786,7 +2916,7 @@
   },
   {
     "name": "POD SpeedZone",
-    "id": "sdc98",
+    "id": "sdc103",
     "igdbId": 84320,
     "gbId": 20135,
     "gbGuid": "3030-20135",
@@ -2813,7 +2943,7 @@
   },
   {
     "name": "Pandora no Yume",
-    "id": "sdc99",
+    "id": "sdc104",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2840,7 +2970,7 @@
   },
   {
     "name": "Pen Pen TriIcelon",
-    "id": "sdc100",
+    "id": "sdc105",
     "igdbId": 46361,
     "gbId": null,
     "gbGuid": null,
@@ -2874,7 +3004,7 @@
   },
   {
     "name": "Phantasy Star Online",
-    "id": "sdc101",
+    "id": "sdc106",
     "igdbId": 21968,
     "gbId": 20252,
     "gbGuid": "3030-20252",
@@ -2907,7 +3037,7 @@
   },
   {
     "name": "Phantasy Star Online Ver. 2",
-    "id": "sdc102",
+    "id": "sdc107",
     "igdbId": 45812,
     "gbId": 7929,
     "gbGuid": "3030-7929",
@@ -2934,7 +3064,7 @@
   },
   {
     "name": "Planet Ring",
-    "id": "sdc103",
+    "id": "sdc108",
     "igdbId": 45805,
     "gbId": 5916,
     "gbGuid": "3030-5916",
@@ -2961,7 +3091,7 @@
   },
   {
     "name": "Power Stone",
-    "id": "sdc104",
+    "id": "sdc109",
     "igdbId": 4355,
     "gbId": 20100,
     "gbGuid": "3030-20100",
@@ -2999,7 +3129,7 @@
   },
   {
     "name": "Power Stone 2",
-    "id": "sdc105",
+    "id": "sdc110",
     "igdbId": 13106,
     "gbId": 3712,
     "gbGuid": "3030-3712",
@@ -3026,7 +3156,7 @@
   },
   {
     "name": "Princess Maker Collection",
-    "id": "sdc106",
+    "id": "sdc111",
     "igdbId": 78302,
     "gbId": 39219,
     "gbGuid": "3030-39219",
@@ -3053,7 +3183,7 @@
   },
   {
     "name": "Project Justice",
-    "id": "sdc107",
+    "id": "sdc112",
     "igdbId": 13096,
     "gbId": 4348,
     "gbGuid": "3030-4348",
@@ -3080,7 +3210,7 @@
   },
   {
     "name": "Propeller Arena",
-    "id": "sdc108",
+    "id": "sdc113",
     "igdbId": 46555,
     "gbId": 24986,
     "gbGuid": "3030-24986",
@@ -3103,8 +3233,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Psyvariar 2: The Will to Fabricate",
+    "id": "sdc114",
+    "igdbId": 5993,
+    "gbId": 6596,
+    "gbGuid": "3030-6596",
+    "details": [
+      "Sega Dreamcast game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Dreamcast game supports tate mode",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Puyo Pop Fever",
-    "id": "sdc109",
+    "id": "sdc115",
     "igdbId": 4075,
     "gbId": 7226,
     "gbGuid": "3030-7226",
@@ -3131,7 +3287,7 @@
   },
   {
     "name": "Quake III Arena",
-    "id": "sdc110",
+    "id": "sdc116",
     "igdbId": 355,
     "gbId": 3874,
     "gbGuid": "3030-3874",
@@ -3157,8 +3313,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Radirgy",
+    "id": "sdc117",
+    "igdbId": 4077,
+    "gbId": 9682,
+    "gbGuid": "3030-9682",
+    "details": [
+      "Sega Dreamcast game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Dreamcast game supports tate mode",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ready 2 Rumble Boxing",
-    "id": "sdc111",
+    "id": "sdc118",
     "igdbId": 3586,
     "gbId": 19836,
     "gbGuid": "3030-19836",
@@ -3196,7 +3378,7 @@
   },
   {
     "name": "Record of Lodoss War",
-    "id": "sdc112",
+    "id": "sdc119",
     "igdbId": 69656,
     "gbId": 11521,
     "gbGuid": "3030-11521",
@@ -3234,7 +3416,7 @@
   },
   {
     "name": "Red Dog: Superior Firepower",
-    "id": "sdc113",
+    "id": "sdc120",
     "igdbId": 45835,
     "gbId": 5326,
     "gbGuid": "3030-5326",
@@ -3258,7 +3440,7 @@
   },
   {
     "name": "Renai Chu! Happy Perfect",
-    "id": "sdc114",
+    "id": "sdc121",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3285,7 +3467,7 @@
   },
   {
     "name": "Resident Evil CODE: Veronica",
-    "id": "sdc115",
+    "id": "sdc122",
     "igdbId": 968,
     "gbId": 8402,
     "gbGuid": "3030-8402",
@@ -3303,7 +3485,7 @@
   },
   {
     "name": "Rippin' Riders Snowboarding",
-    "id": "sdc116",
+    "id": "sdc123",
     "igdbId": 26132,
     "gbId": null,
     "gbGuid": null,
@@ -3326,7 +3508,7 @@
   },
   {
     "name": "Roommate Asami: Okusama ha Joshikousei - Director's Edition",
-    "id": "sdc117",
+    "id": "sdc124",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3353,7 +3535,7 @@
   },
   {
     "name": "Roommate Novel: Satou Yuka",
-    "id": "sdc118",
+    "id": "sdc125",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3380,7 +3562,7 @@
   },
   {
     "name": "Runabout 2",
-    "id": "sdc119",
+    "id": "sdc126",
     "igdbId": 44900,
     "gbId": 39126,
     "gbGuid": "3030-39126",
@@ -3404,7 +3586,7 @@
   },
   {
     "name": "Runabout 3: Neo Age",
-    "id": "sdc120",
+    "id": "sdc127",
     "igdbId": 43599,
     "gbId": 39127,
     "gbGuid": "3030-39127",
@@ -3428,7 +3610,7 @@
   },
   {
     "name": "San Francisco Rush 2049",
-    "id": "sdc121",
+    "id": "sdc128",
     "igdbId": 3596,
     "gbId": 18834,
     "gbGuid": "3030-18834",
@@ -3455,7 +3637,7 @@
   },
   {
     "name": "Sega Bass Fishing",
-    "id": "sdc122",
+    "id": "sdc129",
     "igdbId": 5147,
     "gbId": 10998,
     "gbGuid": "3030-10998",
@@ -3482,7 +3664,7 @@
   },
   {
     "name": "Sega Dreamcast Web Browser",
-    "id": "sdc123",
+    "id": "sdc130",
     "igdbId": 131499,
     "gbId": 27233,
     "gbGuid": "3030-27233",
@@ -3500,7 +3682,7 @@
   },
   {
     "name": "Sega Swirl",
-    "id": "sdc124",
+    "id": "sdc131",
     "igdbId": 46374,
     "gbId": 3722,
     "gbGuid": "3030-3722",
@@ -3527,7 +3709,7 @@
   },
   {
     "name": "Segagaga",
-    "id": "sdc125",
+    "id": "sdc132",
     "igdbId": 28151,
     "gbId": 2259,
     "gbGuid": "3030-2259",
@@ -3565,7 +3747,7 @@
   },
   {
     "name": "Seventh Cross Evolution",
-    "id": "sdc126",
+    "id": "sdc133",
     "igdbId": 45788,
     "gbId": 4047,
     "gbGuid": "3030-4047",
@@ -3589,7 +3771,7 @@
   },
   {
     "name": "Shenmue (PAL)",
-    "id": "sdc127",
+    "id": "sdc134",
     "igdbId": 1217,
     "gbId": 7812,
     "gbGuid": "3030-7812",
@@ -3607,7 +3789,7 @@
   },
   {
     "name": "Shenmue II",
-    "id": "sdc128",
+    "id": "sdc135",
     "igdbId": 1218,
     "gbId": 1187,
     "gbGuid": "3030-1187",
@@ -3634,7 +3816,7 @@
   },
   {
     "name": "Sonic Adventure",
-    "id": "sdc129",
+    "id": "sdc136",
     "igdbId": 7860,
     "gbId": 7852,
     "gbGuid": "3030-7852",
@@ -3683,7 +3865,7 @@
   },
   {
     "name": "Sonic Adventure 2",
-    "id": "sdc130",
+    "id": "sdc137",
     "igdbId": 7858,
     "gbId": 19060,
     "gbGuid": "3030-19060",
@@ -3701,7 +3883,7 @@
   },
   {
     "name": "Sonic Shuffle",
-    "id": "sdc131",
+    "id": "sdc138",
     "igdbId": 21969,
     "gbId": 2819,
     "gbGuid": "3030-2819",
@@ -3725,7 +3907,7 @@
   },
   {
     "name": "Soul Fighter",
-    "id": "sdc132",
+    "id": "sdc139",
     "igdbId": 45840,
     "gbId": 11592,
     "gbGuid": "3030-11592",
@@ -3749,7 +3931,7 @@
   },
   {
     "name": "SoulCalibur",
-    "id": "sdc133",
+    "id": "sdc140",
     "igdbId": 1564,
     "gbId": 12411,
     "gbGuid": "3030-12411",
@@ -3773,7 +3955,7 @@
   },
   {
     "name": "Space Channel 5",
-    "id": "sdc134",
+    "id": "sdc141",
     "igdbId": 6602,
     "gbId": 7466,
     "gbGuid": "3030-7466",
@@ -3800,7 +3982,7 @@
   },
   {
     "name": "Speed Devils: Online Racing",
-    "id": "sdc135",
+    "id": "sdc142",
     "igdbId": 46371,
     "gbId": 40852,
     "gbGuid": "3030-40852",
@@ -3827,7 +4009,7 @@
   },
   {
     "name": "StarLancer",
-    "id": "sdc136",
+    "id": "sdc143",
     "igdbId": 11230,
     "gbId": 5584,
     "gbGuid": "3030-5584",
@@ -3854,7 +4036,7 @@
   },
   {
     "name": "Street Fighter III: Double Impact",
-    "id": "sdc137",
+    "id": "sdc144",
     "igdbId": 45194,
     "gbId": 28446,
     "gbGuid": "3030-28446",
@@ -3878,7 +4060,7 @@
   },
   {
     "name": "Sturmwind",
-    "id": "sdc138",
+    "id": "sdc145",
     "igdbId": 9126,
     "gbId": 36873,
     "gbGuid": "3030-36873",
@@ -3902,7 +4084,7 @@
   },
   {
     "name": "Super Magnetic Neo",
-    "id": "sdc139",
+    "id": "sdc146",
     "igdbId": 45863,
     "gbId": 20208,
     "gbGuid": "3030-20208",
@@ -3926,7 +4108,7 @@
   },
   {
     "name": "Super Runabout: San Francisco Edition",
-    "id": "sdc140",
+    "id": "sdc147",
     "igdbId": 45804,
     "gbId": 19097,
     "gbGuid": "3030-19097",
@@ -3950,7 +4132,7 @@
   },
   {
     "name": "Sword of the Berserk: Guts' Rage",
-    "id": "sdc141",
+    "id": "sdc148",
     "igdbId": 28840,
     "gbId": 5405,
     "gbGuid": "3030-5405",
@@ -3974,7 +4156,7 @@
   },
   {
     "name": "TNN Motorsports Hardcore Heat",
-    "id": "sdc142",
+    "id": "sdc149",
     "igdbId": 45845,
     "gbId": 10015,
     "gbGuid": "3030-10015",
@@ -4008,7 +4190,7 @@
   },
   {
     "name": "Tako no Marine",
-    "id": "sdc143",
+    "id": "sdc150",
     "igdbId": 107647,
     "gbId": 69456,
     "gbGuid": "3030-69456",
@@ -4035,7 +4217,7 @@
   },
   {
     "name": "Tennis 2K2",
-    "id": "sdc144",
+    "id": "sdc151",
     "igdbId": 45843,
     "gbId": 14977,
     "gbGuid": "3030-14977",
@@ -4053,7 +4235,7 @@
   },
   {
     "name": "Tentama: 1st Sunny Side",
-    "id": "sdc145",
+    "id": "sdc152",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4080,7 +4262,7 @@
   },
   {
     "name": "Test Drive 6",
-    "id": "sdc146",
+    "id": "sdc153",
     "igdbId": 4111,
     "gbId": 6628,
     "gbGuid": "3030-6628",
@@ -4098,7 +4280,7 @@
   },
   {
     "name": "The House of the Dead 2",
-    "id": "sdc147",
+    "id": "sdc154",
     "igdbId": 13777,
     "gbId": 422,
     "gbGuid": "3030-422",
@@ -4149,7 +4331,7 @@
   },
   {
     "name": "The King of Fighters 2000",
-    "id": "sdc148",
+    "id": "sdc155",
     "igdbId": 15431,
     "gbId": 15728,
     "gbGuid": "3030-15728",
@@ -4176,7 +4358,7 @@
   },
   {
     "name": "The King of Fighters 2001",
-    "id": "sdc149",
+    "id": "sdc156",
     "igdbId": 15432,
     "gbId": 449,
     "gbGuid": "3030-449",
@@ -4203,7 +4385,7 @@
   },
   {
     "name": "The King of Fighters 2002",
-    "id": "sdc150",
+    "id": "sdc157",
     "igdbId": 5884,
     "gbId": 7581,
     "gbGuid": "3030-7581",
@@ -4230,7 +4412,7 @@
   },
   {
     "name": "The King of Fighters: Dream Match 1999",
-    "id": "sdc151",
+    "id": "sdc158",
     "igdbId": 45861,
     "gbId": 6452,
     "gbGuid": "3030-6452",
@@ -4257,7 +4439,7 @@
   },
   {
     "name": "The Lost Golem",
-    "id": "sdc152",
+    "id": "sdc159",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4281,7 +4463,7 @@
   },
   {
     "name": "The Next Tetris On-Line Edition",
-    "id": "sdc153",
+    "id": "sdc160",
     "igdbId": 45789,
     "gbId": 20446,
     "gbGuid": "3030-20446",
@@ -4308,7 +4490,7 @@
   },
   {
     "name": "The Ring: Terror's Realm",
-    "id": "sdc154",
+    "id": "sdc161",
     "igdbId": 45832,
     "gbId": 22224,
     "gbGuid": "3030-22224",
@@ -4332,7 +4514,7 @@
   },
   {
     "name": "Time Stalkers",
-    "id": "sdc155",
+    "id": "sdc162",
     "igdbId": 45846,
     "gbId": 3784,
     "gbGuid": "3030-3784",
@@ -4356,7 +4538,7 @@
   },
   {
     "name": "Tokyo Xtreme Racer",
-    "id": "sdc156",
+    "id": "sdc163",
     "igdbId": 20710,
     "gbId": 7007,
     "gbGuid": "3030-7007",
@@ -4380,7 +4562,7 @@
   },
   {
     "name": "Tokyo Xtreme Racer 2",
-    "id": "sdc157",
+    "id": "sdc164",
     "igdbId": 4359,
     "gbId": 5397,
     "gbGuid": "3030-5397",
@@ -4404,7 +4586,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater",
-    "id": "sdc158",
+    "id": "sdc165",
     "igdbId": 6692,
     "gbId": 7236,
     "gbGuid": "3030-7236",
@@ -4431,7 +4613,7 @@
   },
   {
     "name": "Toy Commander",
-    "id": "sdc159",
+    "id": "sdc166",
     "igdbId": 10125,
     "gbId": 3544,
     "gbGuid": "3030-3544",
@@ -4461,7 +4643,7 @@
   },
   {
     "name": "Toy Racer",
-    "id": "sdc160",
+    "id": "sdc167",
     "igdbId": 46369,
     "gbId": 15326,
     "gbGuid": "3030-15326",
@@ -4488,7 +4670,7 @@
   },
   {
     "name": "TrickStyle",
-    "id": "sdc161",
+    "id": "sdc168",
     "igdbId": 8229,
     "gbId": 5290,
     "gbGuid": "3030-5290",
@@ -4511,8 +4693,86 @@
     "misprintsErrors": []
   },
   {
+    "name": "Trigger Heart Exelica",
+    "id": "sdc169",
+    "igdbId": null,
+    "gbId": 1462,
+    "gbGuid": "3030-1462",
+    "details": [
+      "Sega Dreamcast game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Dreamcast game supports tate mode",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Trizeal",
+    "id": "sdc170",
+    "igdbId": 93063,
+    "gbId": 12960,
+    "gbGuid": "3030-12960",
+    "details": [
+      "Sega Dreamcast game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Dreamcast game supports tate mode",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Under Defeat",
+    "id": "sdc171",
+    "igdbId": 21015,
+    "gbId": 6200,
+    "gbGuid": "3030-6200",
+    "details": [
+      "Sega Dreamcast game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Dreamcast game supports tate mode",
+        "forPlatform": {
+          "name": "Sega Dreamcast",
+          "id": "ccl18",
+          "igdbId": 23,
+          "gbId": 37,
+          "gbGuid": "3045-37",
+          "tgdbId": 16
+        }
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Undercover AD2025 Kei",
-    "id": "sdc162",
+    "id": "sdc172",
     "igdbId": 86084,
     "gbId": 19118,
     "gbGuid": "3030-19118",
@@ -4535,7 +4795,7 @@
   },
   {
     "name": "Unreal Tournament",
-    "id": "sdc163",
+    "id": "sdc173",
     "igdbId": 272,
     "gbId": 17448,
     "gbGuid": "3030-17448",
@@ -4562,7 +4822,7 @@
   },
   {
     "name": "Virtua Cop 2",
-    "id": "sdc164",
+    "id": "sdc174",
     "igdbId": 2470,
     "gbId": 9341,
     "gbGuid": "3030-9341",
@@ -4589,7 +4849,7 @@
   },
   {
     "name": "Virtua Tennis",
-    "id": "sdc165",
+    "id": "sdc175",
     "igdbId": 6291,
     "gbId": 10676,
     "gbGuid": "3030-10676",
@@ -4616,7 +4876,7 @@
   },
   {
     "name": "Virtua Tennis 2",
-    "id": "sdc166",
+    "id": "sdc176",
     "igdbId": 22048,
     "gbId": null,
     "gbGuid": null,
@@ -4643,7 +4903,7 @@
   },
   {
     "name": "World Series Baseball 2K1",
-    "id": "sdc167",
+    "id": "sdc177",
     "igdbId": 45849,
     "gbId": 15930,
     "gbGuid": "3030-15930",
@@ -4681,7 +4941,7 @@
   },
   {
     "name": "World Series Baseball 2K2",
-    "id": "sdc168",
+    "id": "sdc178",
     "igdbId": 6240,
     "gbId": 17823,
     "gbGuid": "3030-17823",
@@ -4708,7 +4968,7 @@
   },
   {
     "name": "Worms World Party",
-    "id": "sdc169",
+    "id": "sdc179",
     "igdbId": 6294,
     "gbId": 18822,
     "gbGuid": "3030-18822",
@@ -4735,7 +4995,7 @@
   },
   {
     "name": "Yoshia no Oka de Nekoronde...",
-    "id": "sdc170",
+    "id": "sdc180",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4762,7 +5022,7 @@
   },
   {
     "name": "Yume no Tsubasa",
-    "id": "sdc171",
+    "id": "sdc181",
     "igdbId": 166390,
     "gbId": null,
     "gbGuid": null,
@@ -4789,7 +5049,7 @@
   },
   {
     "name": "Zero Gunner 2",
-    "id": "sdc172",
+    "id": "sdc182",
     "igdbId": 21014,
     "gbId": 15418,
     "gbGuid": "3030-15418",
@@ -4816,7 +5076,7 @@
   },
   {
     "name": "Zusar Vasar",
-    "id": "sdc173",
+    "id": "sdc183",
     "igdbId": 58167,
     "gbId": 54592,
     "gbGuid": "3030-54592",
