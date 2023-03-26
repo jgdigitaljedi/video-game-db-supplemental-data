@@ -218,6 +218,7 @@
       "astrocadeBuiltInGames",
       "atari2600LightGunGames",
       "atari7800LightGunGames",
+      "atariLynxTateModeGames",
       "bannedInternationally",
       "blackBoxGridGenesisGames",
       "blackBoxGridGenesisGames",
@@ -279,7 +280,11 @@
       "sonyPlaystation4TateModeGames",
       "sonyPlaystationLightGunGames",
       "sonyPlaystationTateModeGames",
-      "tigerGameComBuiltInGames"
+      "sonyPspTateModeGames",
+      "sonyPsVitaTateModeGames",
+      "tigerGameComBuiltInGames",
+      "wonderswanColorTateModeGames",
+      "wonderswanTateModeGames"
     ]
   },
   {
@@ -390,6 +395,7 @@
       "atariLynxExclusives",
       "atariLynxLaunchTitles",
       "atariLynxMisprintsAndErrors",
+      "atariLynxTateModeGames",
       "backwardCompatibleConsoles",
       "bandaiPlaydiaExclusives",
       "bandaiPlaydiaLaunchTitles",
@@ -616,7 +622,9 @@
       "sonyPlaystationLightGunGames",
       "sonyPlaystationTateModeGames",
       "sonyPlaystationVitaExclusives",
+      "sonyPsVitaTateModeGames",
       "sonyPspExclusives",
+      "sonyPspTateModeGames",
       "specialVideoOutputAdapters",
       "superGrafxLaunchTitles",
       "switchAccMisprintsAndErrors",
@@ -641,7 +649,9 @@
       "wiiUMisprintsAndErrors",
       "wiiUNintendoSelects",
       "wonderswanColorLaunchTitles",
+      "wonderswanColorTateModeGames",
       "wonderswanLaunchTitles",
+      "wonderswanTateModeGames",
       "xavixPortLaunchTitles",
       "xbox360AccMisprintsAndErrors",
       "xbox360ClassicsPal",

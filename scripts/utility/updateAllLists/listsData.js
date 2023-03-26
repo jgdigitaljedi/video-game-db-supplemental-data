@@ -474,7 +474,8 @@ module.exports.listData = [
       'misprintsAndErrors/pspMisprintsAndErrors.json'
     )),
     special: [
-      require(path.resolve(smallFiles, 'greatestHits/sonyPlayStationPortableGreatestHits.json'))
+      require(path.resolve(smallFiles, 'greatestHits/sonyPlayStationPortableGreatestHits.json')),
+      require(path.resolve(smallFiles, 'special/sonyPspTateModeGames.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlayStationPortable.json')
   },
@@ -604,7 +605,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/atariLynxMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/atariLynxTateModeGames.json'))],
     output: path.resolve(consoleLists, 'AtariLynx.json')
   },
   {
@@ -763,7 +764,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/vitaMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/sonyPsVitaTateModeGames.json'))],
     output: path.resolve(consoleLists, 'SonyPlaystationVita.json')
   },
   {
@@ -861,7 +862,7 @@ module.exports.listData = [
     )),
     exclusives: null,
     misprintsAndErrors: null,
-    special: [],
+    special: [require(path.resolve(smallFiles, 'special/wonderswanColorTateModeGames.json'))],
     output: path.resolve(consoleLists, 'BandaiWonderSwanColor.json')
   },
   {
@@ -871,7 +872,7 @@ module.exports.listData = [
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/wonderswanLaunchTitles.json')),
     exclusives: null,
     misprintsAndErrors: null,
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/wonderswanTateModeGames.json'))],
     output: path.resolve(consoleLists, 'BandaiWonderSwan.json')
   },
   {

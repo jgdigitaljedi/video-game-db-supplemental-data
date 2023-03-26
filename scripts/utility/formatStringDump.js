@@ -22,8 +22,8 @@ const fileUtil = require('./fileUtilities');
  */
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/sonyPlaystation4TateModeGames.json';
-const idPrefix = 'sp4tm';
+const relativePath = '../../textFilesToBeConverted/special/wonderswanTateModeGames.json';
+const idPrefix = 'wstm';
 const parensToDetails = false;
 const category = 'other';
 
@@ -32,7 +32,7 @@ const category = 'other';
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Sony PlayStation 4 game supports tate mode',
+    'Wonderswan game supports tate mode',
     idPrefix,
     parensToDetails,
     category

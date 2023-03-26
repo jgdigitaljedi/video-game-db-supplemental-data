@@ -1682,5 +1682,35 @@
     "filePath": "../textFilesToBeConverted/special/sonyPlaystation4TateModeGames.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "PSP games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/sonyPspTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "PS Vita games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/sonyPsVitaTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Atari Lynx games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/atariLynxTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Wonderswan games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/wonderswanTateModeGames.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Wonderswan Color games with tate mode support",
+    "filePath": "../textFilesToBeConverted/special/wonderswanColorTateModeGames.json",
+    "type": "Game",
+    "complete": true
   }
 ]

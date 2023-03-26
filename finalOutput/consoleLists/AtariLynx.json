@@ -301,7 +301,8 @@
     "gbGuid": "3030-13636",
     "tgdbId": 22418,
     "details": [
-      "Atari Lynx exclusive"
+      "Atari Lynx exclusive",
+      "Atari Lynx game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -314,7 +315,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Atari Lynx game supports tate mode",
+        "forPlatform": {
+          "name": "Atari Lynx",
+          "id": "ccl32",
+          "igdbId": 61,
+          "gbId": 7,
+          "gbGuid": "3045-7",
+          "tgdbId": 4924
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -366,8 +380,35 @@
     "misprintsErrors": []
   },
   {
-    "name": "Kung Food",
+    "name": "Klax",
     "id": "alnx14",
+    "igdbId": 4484,
+    "gbId": 16455,
+    "gbGuid": "3030-16455",
+    "details": [
+      "Atari Lynx game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari Lynx game supports tate mode",
+        "forPlatform": {
+          "name": "Atari Lynx",
+          "id": "ccl32",
+          "igdbId": 61,
+          "gbId": 7,
+          "gbGuid": "3045-7",
+          "tgdbId": 4924
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kung Food",
+    "id": "alnx15",
     "igdbId": 12365,
     "gbId": 1030,
     "gbGuid": "3030-1030",
@@ -391,7 +432,7 @@
   },
   {
     "name": "Lynx Casino",
-    "id": "alnx15",
+    "id": "alnx16",
     "igdbId": 40857,
     "gbId": 8529,
     "gbGuid": "3030-8529",
@@ -415,7 +456,7 @@
   },
   {
     "name": "Malibu Bikini Volleyball",
-    "id": "alnx16",
+    "id": "alnx17",
     "igdbId": 40856,
     "gbId": null,
     "gbGuid": null,
@@ -439,7 +480,7 @@
   },
   {
     "name": "NFL Football",
-    "id": "alnx17",
+    "id": "alnx18",
     "igdbId": 64743,
     "gbId": 15289,
     "gbGuid": "3030-15289",
@@ -463,7 +504,7 @@
   },
   {
     "name": "Police Force",
-    "id": "alnx18",
+    "id": "alnx19",
     "igdbId": 10709,
     "gbId": 35209,
     "gbGuid": "3030-35209",
@@ -487,7 +528,7 @@
   },
   {
     "name": "Power Factor",
-    "id": "alnx19",
+    "id": "alnx20",
     "igdbId": 62298,
     "gbId": 45163,
     "gbGuid": "3030-45163",
@@ -510,8 +551,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Raiden",
+    "id": "alnx21",
+    "igdbId": 6841,
+    "gbId": 16693,
+    "gbGuid": "3030-16693",
+    "details": [
+      "Atari Lynx game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari Lynx game supports tate mode",
+        "forPlatform": {
+          "name": "Atari Lynx",
+          "id": "ccl32",
+          "igdbId": 61,
+          "gbId": 7,
+          "gbGuid": "3045-7",
+          "tgdbId": 4924
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Robo-Squash",
-    "id": "alnx20",
+    "id": "alnx22",
     "igdbId": 40833,
     "gbId": 22147,
     "gbGuid": "3030-22147",
@@ -535,7 +603,7 @@
   },
   {
     "name": "Super Asteroids & Missile Command",
-    "id": "alnx21",
+    "id": "alnx23",
     "igdbId": 40863,
     "gbId": 34026,
     "gbGuid": "3030-34026",
@@ -559,7 +627,7 @@
   },
   {
     "name": "The Fidelity Ultimate Chess Challenge",
-    "id": "alnx22",
+    "id": "alnx24",
     "igdbId": 40838,
     "gbId": 16214,
     "gbGuid": "3030-16214",
@@ -583,7 +651,7 @@
   },
   {
     "name": "Warbirds",
-    "id": "alnx23",
+    "id": "alnx25",
     "igdbId": 121927,
     "gbId": 3001,
     "gbGuid": "3030-3001",
@@ -607,7 +675,7 @@
   },
   {
     "name": "World Class Soccer",
-    "id": "alnx24",
+    "id": "alnx26",
     "igdbId": 40864,
     "gbId": 13458,
     "gbGuid": "3030-13458",
@@ -631,7 +699,7 @@
   },
   {
     "name": "Zaku",
-    "id": "alnx25",
+    "id": "alnx27",
     "igdbId": 62001,
     "gbId": 45684,
     "gbGuid": "3030-45684",
@@ -654,7 +722,7 @@
   },
   {
     "name": "Zarlor Mercenary",
-    "id": "alnx26",
+    "id": "alnx28",
     "igdbId": 12371,
     "gbId": 22557,
     "gbGuid": "3030-22557",

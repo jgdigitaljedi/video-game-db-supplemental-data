@@ -50,7 +50,8 @@
     "gbId": 66605,
     "gbGuid": "3030-66605",
     "details": [
-      "Bandai WonderSwan Color launch title"
+      "Bandai WonderSwan Color launch title",
+      "Wonderswan Color game supports tate mode"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -62,12 +63,50 @@
         "gbGuid": "3045-54"
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Wonderswan Color game supports tate mode",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Judgement Silversword: Rebirth Edition",
+    "id": "bwsc3",
+    "igdbId": 37699,
+    "gbId": 9541,
+    "gbGuid": "3030-9541",
+    "details": [
+      "Wonderswan Color game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Wonderswan Color game supports tate mode",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Rhyme Rider Kerorican",
-    "id": "bwsc3",
+    "id": "bwsc4",
     "igdbId": 37355,
     "gbId": 18629,
     "gbGuid": "3030-18629",
@@ -89,12 +128,13 @@
   },
   {
     "name": "Soroban Gu",
-    "id": "bwsc4",
+    "id": "bwsc5",
     "igdbId": 37318,
     "gbId": null,
     "gbGuid": null,
     "details": [
-      "Bandai WonderSwan Color launch title"
+      "Bandai WonderSwan Color launch title",
+      "Wonderswan Color game supports tate mode"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -106,7 +146,45 @@
         "gbGuid": "3045-54"
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Wonderswan Color game supports tate mode",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tetris",
+    "id": "bwsc6",
+    "igdbId": 185669,
+    "gbId": 1896,
+    "gbGuid": "3030-1896",
+    "details": [
+      "Wonderswan Color game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Wonderswan Color game supports tate mode",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   }
 ]

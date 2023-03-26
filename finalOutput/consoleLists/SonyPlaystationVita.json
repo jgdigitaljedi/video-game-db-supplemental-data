@@ -4158,7 +4158,8 @@
     "gbId": 48935,
     "gbGuid": "3030-48935",
     "details": [
-      "Sony PlayStation Vita console exclusive (PlayStation Network)"
+      "Sony PlayStation Vita console exclusive (PlayStation Network)",
+      "Sony PlayStation Vita game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -4171,7 +4172,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation Vita game supports tate mode",
+        "forPlatform": {
+          "name": "Sony Playstation Vita",
+          "id": "ccl45",
+          "igdbId": 46,
+          "gbId": 129,
+          "gbGuid": "3045-129",
+          "tgdbId": 39
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -10300,7 +10314,8 @@
     "tgdbId": 9238,
     "details": [
       "Sony PlayStation Vita launch title",
-      "Sony PlayStation Vita full exclusive"
+      "Sony PlayStation Vita full exclusive",
+      "Sony PlayStation Vita game supports tate mode (Some minigames only)"
     ],
     "isExclusive": [
       {
@@ -10322,7 +10337,20 @@
         "tgdbId": 39
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation Vita game supports tate mode (Some minigames only)",
+        "forPlatform": {
+          "name": "Sony Playstation Vita",
+          "id": "ccl45",
+          "igdbId": 46,
+          "gbId": 129,
+          "gbGuid": "3045-129",
+          "tgdbId": 39
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -13796,8 +13824,62 @@
     "misprintsErrors": []
   },
   {
-    "name": "Pinball Heroes: Complete",
+    "name": "Pinball Dreams",
     "id": "psv589",
+    "igdbId": 194279,
+    "gbId": 6981,
+    "gbGuid": "3030-6981",
+    "details": [
+      "Sony PlayStation Vita game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation Vita game supports tate mode",
+        "forPlatform": {
+          "name": "Sony Playstation Vita",
+          "id": "ccl45",
+          "igdbId": 46,
+          "gbId": 129,
+          "gbGuid": "3045-129",
+          "tgdbId": 39
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pinball Fantasies",
+    "id": "psv590",
+    "igdbId": 6023,
+    "gbId": 12347,
+    "gbGuid": "3030-12347",
+    "details": [
+      "Sony PlayStation Vita game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation Vita game supports tate mode",
+        "forPlatform": {
+          "name": "Sony Playstation Vita",
+          "id": "ccl45",
+          "igdbId": 46,
+          "gbId": 129,
+          "gbGuid": "3045-129",
+          "tgdbId": 39
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pinball Heroes: Complete",
+    "id": "psv591",
     "igdbId": 52665,
     "gbId": null,
     "gbGuid": null,
@@ -13820,7 +13902,7 @@
   },
   {
     "name": "PixelJunk Monsters Ultimate HD",
-    "id": "psv590",
+    "id": "psv592",
     "igdbId": 20856,
     "gbId": null,
     "gbGuid": null,
@@ -13843,7 +13925,7 @@
   },
   {
     "name": "PixelJunk Shooter Ultimate",
-    "id": "psv591",
+    "id": "psv593",
     "igdbId": 23431,
     "gbId": 45585,
     "gbGuid": "3030-45585",
@@ -13866,7 +13948,7 @@
   },
   {
     "name": "Plants vs. Zombies",
-    "id": "psv592",
+    "id": "psv594",
     "igdbId": 1277,
     "gbId": 25709,
     "gbGuid": "3030-25709",
@@ -13890,7 +13972,7 @@
   },
   {
     "name": "Plastic Memories",
-    "id": "psv593",
+    "id": "psv595",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -13913,7 +13995,7 @@
   },
   {
     "name": "PlayStation All-Stars Battle Royale",
-    "id": "psv594",
+    "id": "psv596",
     "igdbId": 7390,
     "gbId": 38140,
     "gbGuid": "3030-38140",
@@ -13936,7 +14018,7 @@
   },
   {
     "name": "PlayStation Vita Pets",
-    "id": "psv595",
+    "id": "psv597",
     "igdbId": 63011,
     "gbId": 43529,
     "gbGuid": "3030-43529",
@@ -13959,7 +14041,7 @@
   },
   {
     "name": "Pocket RPG",
-    "id": "psv596",
+    "id": "psv598",
     "igdbId": 61075,
     "gbId": 47630,
     "gbGuid": "3030-47630",
@@ -13982,7 +14064,7 @@
   },
   {
     "name": "Poltergeist: A Pixelated Horror",
-    "id": "psv597",
+    "id": "psv599",
     "igdbId": 17855,
     "gbId": 47870,
     "gbGuid": "3030-47870",
@@ -14005,7 +14087,7 @@
   },
   {
     "name": "Possession Magenta",
-    "id": "psv598",
+    "id": "psv600",
     "igdbId": 60955,
     "gbId": 47877,
     "gbGuid": "3030-47877",
@@ -14028,7 +14110,7 @@
   },
   {
     "name": "Pox Nora",
-    "id": "psv599",
+    "id": "psv601",
     "igdbId": 9595,
     "gbId": null,
     "gbGuid": null,
@@ -14051,7 +14133,7 @@
   },
   {
     "name": "Present For You",
-    "id": "psv600",
+    "id": "psv602",
     "igdbId": 64374,
     "gbId": 40294,
     "gbGuid": "3030-40294",
@@ -14074,7 +14156,7 @@
   },
   {
     "name": "PriministAr",
-    "id": "psv601",
+    "id": "psv603",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -14097,7 +14179,7 @@
   },
   {
     "name": "Prince of Stride",
-    "id": "psv602",
+    "id": "psv604",
     "igdbId": 60332,
     "gbId": 49555,
     "gbGuid": "3030-49555",
@@ -14120,7 +14202,7 @@
   },
   {
     "name": "Princess Strike!",
-    "id": "psv603",
+    "id": "psv605",
     "igdbId": 63347,
     "gbId": 42756,
     "gbGuid": "3030-42756",
@@ -14143,7 +14225,7 @@
   },
   {
     "name": "Pro Yakyuu Spirits 2012",
-    "id": "psv604",
+    "id": "psv606",
     "igdbId": 44575,
     "gbId": 37801,
     "gbGuid": "3030-37801",
@@ -14166,7 +14248,7 @@
   },
   {
     "name": "Pro Yakyuu Spirits 2013",
-    "id": "psv605",
+    "id": "psv607",
     "igdbId": 63903,
     "gbId": 41398,
     "gbGuid": "3030-41398",
@@ -14189,7 +14271,7 @@
   },
   {
     "name": "Pro Yakyuu Spirits 2014",
-    "id": "psv606",
+    "id": "psv608",
     "igdbId": 79483,
     "gbId": 45111,
     "gbGuid": "3030-45111",
@@ -14212,7 +14294,7 @@
   },
   {
     "name": "Pro Yakyuu Spirits 2015",
-    "id": "psv607",
+    "id": "psv609",
     "igdbId": 60625,
     "gbId": 48758,
     "gbGuid": "3030-48758",
@@ -14235,7 +14317,7 @@
   },
   {
     "name": "Pro Yakyuu Spirts 2019",
-    "id": "psv608",
+    "id": "psv610",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -14258,7 +14340,7 @@
   },
   {
     "name": "Proteus",
-    "id": "psv609",
+    "id": "psv611",
     "igdbId": 2163,
     "gbId": 37608,
     "gbGuid": "3030-37608",
@@ -14281,7 +14363,7 @@
   },
   {
     "name": "Psychedelica of the Ashen Hawk",
-    "id": "psv610",
+    "id": "psv612",
     "igdbId": 41824,
     "gbId": 60276,
     "gbGuid": "3030-60276",
@@ -14304,7 +14386,7 @@
   },
   {
     "name": "Psychedelica of the Black Butterfly",
-    "id": "psv611",
+    "id": "psv613",
     "igdbId": 41823,
     "gbId": 47879,
     "gbGuid": "3030-47879",
@@ -14327,7 +14409,7 @@
   },
   {
     "name": "PsychicEmotion6",
-    "id": "psv612",
+    "id": "psv614",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -14350,7 +14432,7 @@
   },
   {
     "name": "Psycho-Pass: Mandatory Happiness",
-    "id": "psv613",
+    "id": "psv615",
     "igdbId": 23849,
     "gbId": 46461,
     "gbGuid": "3030-46461",
@@ -14373,7 +14455,7 @@
   },
   {
     "name": "Punch Line",
-    "id": "psv614",
+    "id": "psv616",
     "igdbId": 11775,
     "gbId": 50213,
     "gbGuid": "3030-50213",
@@ -14396,7 +14478,7 @@
   },
   {
     "name": "Puramai Wars",
-    "id": "psv615",
+    "id": "psv617",
     "igdbId": 60174,
     "gbId": 49957,
     "gbGuid": "3030-49957",
@@ -14419,7 +14501,7 @@
   },
   {
     "name": "Pure Chess",
-    "id": "psv616",
+    "id": "psv618",
     "igdbId": 85585,
     "gbId": 37999,
     "gbGuid": "3030-37999",
@@ -14442,7 +14524,7 @@
   },
   {
     "name": "Puzzle by Nikoli V: Sudoku",
-    "id": "psv617",
+    "id": "psv619",
     "igdbId": 64936,
     "gbId": 38951,
     "gbGuid": "3030-38951",
@@ -14465,7 +14547,7 @@
   },
   {
     "name": "Q*bert: Rebooted",
-    "id": "psv618",
+    "id": "psv620",
     "igdbId": 17158,
     "gbId": 46990,
     "gbGuid": "3030-46990",
@@ -14488,7 +14570,7 @@
   },
   {
     "name": "RE:VICE[D]",
-    "id": "psv619",
+    "id": "psv621",
     "igdbId": 61945,
     "gbId": 45784,
     "gbGuid": "3030-45784",
@@ -14511,7 +14593,7 @@
   },
   {
     "name": "RESOGUN",
-    "id": "psv620",
+    "id": "psv622",
     "igdbId": 6007,
     "gbId": 43628,
     "gbGuid": "3030-43628",
@@ -14534,7 +14616,7 @@
   },
   {
     "name": "Rabi Laby: Puzzle Out Stories",
-    "id": "psv621",
+    "id": "psv623",
     "igdbId": 28356,
     "gbId": null,
     "gbGuid": null,
@@ -14557,7 +14639,7 @@
   },
   {
     "name": "Race The Sun",
-    "id": "psv622",
+    "id": "psv624",
     "igdbId": 7876,
     "gbId": 42239,
     "gbGuid": "3030-42239",
@@ -14580,7 +14662,7 @@
   },
   {
     "name": "Ragnarok Odyssey",
-    "id": "psv623",
+    "id": "psv625",
     "igdbId": 21008,
     "gbId": 36422,
     "gbGuid": "3030-36422",
@@ -14603,7 +14685,7 @@
   },
   {
     "name": "Ragnarok Odyssey ACE",
-    "id": "psv624",
+    "id": "psv626",
     "igdbId": 20067,
     "gbId": 42715,
     "gbGuid": "3030-42715",
@@ -14626,7 +14708,7 @@
   },
   {
     "name": "Rainbow Moon",
-    "id": "psv625",
+    "id": "psv627",
     "igdbId": 5026,
     "gbId": 35687,
     "gbGuid": "3030-35687",
@@ -14649,7 +14731,7 @@
   },
   {
     "name": "Rainbow Skies",
-    "id": "psv626",
+    "id": "psv628",
     "igdbId": 52676,
     "gbId": 41716,
     "gbGuid": "3030-41716",
@@ -14672,7 +14754,7 @@
   },
   {
     "name": "Rally Copters",
-    "id": "psv627",
+    "id": "psv629",
     "igdbId": 33424,
     "gbId": 51023,
     "gbGuid": "3030-51023",
@@ -14695,7 +14777,7 @@
   },
   {
     "name": "Ratchet & Clank Collection",
-    "id": "psv628",
+    "id": "psv630",
     "igdbId": 19994,
     "gbId": 37715,
     "gbGuid": "3030-37715",
@@ -14718,7 +14800,7 @@
   },
   {
     "name": "Ratchet & Clank: Full Frontal Assault",
-    "id": "psv629",
+    "id": "psv631",
     "igdbId": 1797,
     "gbId": 38458,
     "gbGuid": "3030-38458",
@@ -14741,7 +14823,7 @@
   },
   {
     "name": "Ray Gigant",
-    "id": "psv630",
+    "id": "psv632",
     "igdbId": 11743,
     "gbId": 48963,
     "gbGuid": "3030-48963",
@@ -14764,7 +14846,7 @@
   },
   {
     "name": "Rayman Origins",
-    "id": "psv631",
+    "id": "psv633",
     "igdbId": 981,
     "gbId": 31721,
     "gbGuid": "3030-31721",
@@ -14788,7 +14870,7 @@
   },
   {
     "name": "Re:Birthday Song ~Koi wo Utau Shinigami~",
-    "id": "psv632",
+    "id": "psv634",
     "igdbId": 54920,
     "gbId": 60541,
     "gbGuid": "3030-60541",
@@ -14811,7 +14893,7 @@
   },
   {
     "name": "Re:Zero -Starting Life in Another World- Death or Kiss",
-    "id": "psv633",
+    "id": "psv635",
     "igdbId": 26668,
     "gbId": 59643,
     "gbGuid": "3030-59643",
@@ -14834,7 +14916,7 @@
   },
   {
     "name": "Reality Fighters",
-    "id": "psv634",
+    "id": "psv636",
     "igdbId": 20732,
     "gbId": 35445,
     "gbGuid": "3030-35445",
@@ -14857,7 +14939,7 @@
   },
   {
     "name": "RearPheles: Red of Another",
-    "id": "psv635",
+    "id": "psv637",
     "igdbId": 59446,
     "gbId": 51695,
     "gbGuid": "3030-51695",
@@ -14880,7 +14962,7 @@
   },
   {
     "name": "Reco Love: Blue Ocean/Gold Beach",
-    "id": "psv636",
+    "id": "psv638",
     "igdbId": 77423,
     "gbId": 62398,
     "gbGuid": "3030-62398",
@@ -14903,7 +14985,7 @@
   },
   {
     "name": "Reel Fishing: Master's Challenge",
-    "id": "psv637",
+    "id": "psv639",
     "igdbId": null,
     "gbId": 48690,
     "gbGuid": "3030-48690",
@@ -14926,7 +15008,7 @@
   },
   {
     "name": "Reine des Fleurs",
-    "id": "psv638",
+    "id": "psv640",
     "igdbId": 86190,
     "gbId": 45791,
     "gbGuid": "3030-45791",
@@ -14949,7 +15031,7 @@
   },
   {
     "name": "Ren'ai 0 Kilometer",
-    "id": "psv639",
+    "id": "psv641",
     "igdbId": 61552,
     "gbId": 46410,
     "gbGuid": "3030-46410",
@@ -14972,7 +15054,7 @@
   },
   {
     "name": "Rep Kiss",
-    "id": "psv640",
+    "id": "psv642",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -14995,7 +15077,7 @@
   },
   {
     "name": "Resistance: Burning Skies",
-    "id": "psv641",
+    "id": "psv643",
     "igdbId": 19907,
     "gbId": 34018,
     "gbGuid": "3030-34018",
@@ -15018,7 +15100,7 @@
   },
   {
     "name": "Rewrite",
-    "id": "psv642",
+    "id": "psv644",
     "igdbId": 6193,
     "gbId": 23253,
     "gbGuid": "3030-23253",
@@ -15041,7 +15123,7 @@
   },
   {
     "name": "Rewrite: Harvest Festa",
-    "id": "psv643",
+    "id": "psv645",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -15064,7 +15146,7 @@
   },
   {
     "name": "Ridge Racer",
-    "id": "psv644",
+    "id": "psv646",
     "igdbId": 8546,
     "gbId": 35647,
     "gbGuid": "3030-35647",
@@ -15087,7 +15169,7 @@
   },
   {
     "name": "Ring Run Circus",
-    "id": "psv645",
+    "id": "psv647",
     "igdbId": 52705,
     "gbId": 48197,
     "gbGuid": "3030-48197",
@@ -15110,7 +15192,7 @@
   },
   {
     "name": "Risk of Rain",
-    "id": "psv646",
+    "id": "psv648",
     "igdbId": 3173,
     "gbId": 42529,
     "gbGuid": "3030-42529",
@@ -15133,7 +15215,7 @@
   },
   {
     "name": "Ro-Kyu-Bu! Naisho no Shutter Chance",
-    "id": "psv647",
+    "id": "psv649",
     "igdbId": 63026,
     "gbId": 43502,
     "gbGuid": "3030-43502",
@@ -15156,7 +15238,7 @@
   },
   {
     "name": "Robotics;Notes Elite",
-    "id": "psv648",
+    "id": "psv650",
     "igdbId": 103406,
     "gbId": null,
     "gbGuid": null,
@@ -15179,7 +15261,7 @@
   },
   {
     "name": "Rogue Legacy",
-    "id": "psv649",
+    "id": "psv651",
     "igdbId": 3221,
     "gbId": 42828,
     "gbGuid": "3030-42828",
@@ -15202,7 +15284,7 @@
   },
   {
     "name": "Rollers of the Realm",
-    "id": "psv650",
+    "id": "psv652",
     "igdbId": 16823,
     "gbId": 45601,
     "gbGuid": "3030-45601",
@@ -15225,7 +15307,7 @@
   },
   {
     "name": "Romeo VS Juliet All Series Pack",
-    "id": "psv651",
+    "id": "psv653",
     "igdbId": 59447,
     "gbId": 51694,
     "gbGuid": "3030-51694",
@@ -15248,7 +15330,7 @@
   },
   {
     "name": "Root Double -Before Crime * After Days- Xtend Edition",
-    "id": "psv652",
+    "id": "psv654",
     "igdbId": 33617,
     "gbId": null,
     "gbGuid": null,
@@ -15271,7 +15353,7 @@
   },
   {
     "name": "Root Letter",
-    "id": "psv653",
+    "id": "psv655",
     "igdbId": 19798,
     "gbId": 51470,
     "gbGuid": "3030-51470",
@@ -15294,7 +15376,7 @@
   },
   {
     "name": "Root Rexx",
-    "id": "psv654",
+    "id": "psv656",
     "igdbId": 61660,
     "gbId": 47336,
     "gbGuid": "3030-47336",
@@ -15317,7 +15399,7 @@
   },
   {
     "name": "Rozen Maiden: Wechseln Sie Welt ab",
-    "id": "psv655",
+    "id": "psv657",
     "igdbId": 86091,
     "gbId": 43470,
     "gbGuid": "3030-43470",
@@ -15340,7 +15422,7 @@
   },
   {
     "name": "Rui wa Tomo o Yobu",
-    "id": "psv656",
+    "id": "psv658",
     "igdbId": 79650,
     "gbId": 43113,
     "gbGuid": "3030-43113",
@@ -15363,7 +15445,7 @@
   },
   {
     "name": "Run Like Hell",
-    "id": "psv657",
+    "id": "psv659",
     "igdbId": 80393,
     "gbId": 6297,
     "gbGuid": "3030-6297",
@@ -15386,7 +15468,7 @@
   },
   {
     "name": "Run, Sackboy! Run!",
-    "id": "psv658",
+    "id": "psv660",
     "igdbId": 22153,
     "gbId": 47781,
     "gbGuid": "3030-47781",
@@ -15409,7 +15491,7 @@
   },
   {
     "name": "Ryuuyoku no Melodia: Diva with the Blessed Dragonol",
-    "id": "psv659",
+    "id": "psv661",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -15432,7 +15514,7 @@
   },
   {
     "name": "SA7",
-    "id": "psv660",
+    "id": "psv662",
     "igdbId": 60824,
     "gbId": 48214,
     "gbGuid": "3030-48214",
@@ -15455,52 +15537,6 @@
   },
   {
     "name": "Saekano: How to Raise a Boring Girlfriend - Blessing Flowers",
-    "id": "psv661",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita full exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Sakaagari Hurricane Portable",
-    "id": "psv662",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita console exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Saki: Zenkoku-hen",
     "id": "psv663",
     "igdbId": null,
     "gbId": null,
@@ -15523,8 +15559,54 @@
     "misprintsErrors": []
   },
   {
-    "name": "Saki: Zenkoku-hen Plus",
+    "name": "Sakaagari Hurricane Portable",
     "id": "psv664",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Saki: Zenkoku-hen",
+    "id": "psv665",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita full exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Saki: Zenkoku-hen Plus",
+    "id": "psv666",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -15547,7 +15629,7 @@
   },
   {
     "name": "Sakura Sakura",
-    "id": "psv665",
+    "id": "psv667",
     "igdbId": 69053,
     "gbId": 26049,
     "gbGuid": "3030-26049",
@@ -15570,52 +15652,6 @@
   },
   {
     "name": "Sakura-sou no Pet na Kanojo",
-    "id": "psv666",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita platform exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Samurai Shodown V Special",
-    "id": "psv667",
-    "igdbId": 39566,
-    "gbId": 6538,
-    "gbGuid": "3030-6538",
-    "details": [
-      "Sony PlayStation Vita platform exclusive (PlayStation Network)"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Samurai Warriors 2 with Xtreme Legends & Empires HD Version",
     "id": "psv668",
     "igdbId": null,
     "gbId": null,
@@ -15638,8 +15674,54 @@
     "misprintsErrors": []
   },
   {
-    "name": "Samurai Warriors 4",
+    "name": "Samurai Shodown V Special",
     "id": "psv669",
+    "igdbId": 39566,
+    "gbId": 6538,
+    "gbGuid": "3030-6538",
+    "details": [
+      "Sony PlayStation Vita platform exclusive (PlayStation Network)"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Samurai Warriors 2 with Xtreme Legends & Empires HD Version",
+    "id": "psv670",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita platform exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Samurai Warriors 4",
+    "id": "psv671",
     "igdbId": 7290,
     "gbId": 39123,
     "gbGuid": "3030-39123",
@@ -15662,7 +15744,7 @@
   },
   {
     "name": "Samurai Warriors 4-II",
-    "id": "psv670",
+    "id": "psv672",
     "igdbId": 12279,
     "gbId": 48243,
     "gbGuid": "3030-48243",
@@ -15685,7 +15767,7 @@
   },
   {
     "name": "Samurai Warriors 4: Empires",
-    "id": "psv671",
+    "id": "psv673",
     "igdbId": 12280,
     "gbId": 49826,
     "gbGuid": "3030-49826",
@@ -15708,7 +15790,7 @@
   },
   {
     "name": "Samurai Warriors: Spirit of Sanada",
-    "id": "psv672",
+    "id": "psv674",
     "igdbId": null,
     "gbId": 58387,
     "gbGuid": "3030-58387",
@@ -15731,7 +15813,7 @@
   },
   {
     "name": "Sangoku Hime 2",
-    "id": "psv673",
+    "id": "psv675",
     "igdbId": 63301,
     "gbId": 42884,
     "gbGuid": "3030-42884",
@@ -15754,7 +15836,7 @@
   },
   {
     "name": "Sangoku Hime 4: Tenka Ryouran Tenmei no Koi Emaki",
-    "id": "psv674",
+    "id": "psv676",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -15777,7 +15859,7 @@
   },
   {
     "name": "Sangoku Rensenki: Otome no Heihou!",
-    "id": "psv675",
+    "id": "psv677",
     "igdbId": 63603,
     "gbId": 42141,
     "gbGuid": "3030-42141",
@@ -15800,7 +15882,7 @@
   },
   {
     "name": "Sanzen Sekai Yuugi ~Re Multi Universe Myself~",
-    "id": "psv676",
+    "id": "psv678",
     "igdbId": 103175,
     "gbId": null,
     "gbGuid": null,
@@ -15823,7 +15905,7 @@
   },
   {
     "name": "Saturday Morning RPG",
-    "id": "psv677",
+    "id": "psv679",
     "igdbId": 16840,
     "gbId": 41394,
     "gbGuid": "3030-41394",
@@ -15846,7 +15928,7 @@
   },
   {
     "name": "Sayonara UmiharaKawase ++",
-    "id": "psv678",
+    "id": "psv680",
     "igdbId": 110017,
     "gbId": null,
     "gbGuid": null,
@@ -15869,7 +15951,7 @@
   },
   {
     "name": "Scared Rider Xechs Rev.",
-    "id": "psv679",
+    "id": "psv681",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -15892,7 +15974,7 @@
   },
   {
     "name": "School Wars: Zenkan Pack Honpen & Sotsugyou Sensen",
-    "id": "psv680",
+    "id": "psv682",
     "igdbId": 60154,
     "gbId": 50077,
     "gbGuid": "3030-50077",
@@ -15915,7 +15997,7 @@
   },
   {
     "name": "Secret of Mana",
-    "id": "psv681",
+    "id": "psv683",
     "igdbId": 55092,
     "gbId": 19507,
     "gbGuid": "3030-19507",
@@ -15938,7 +16020,7 @@
   },
   {
     "name": "Sekai Seifuku: Costume Fes.",
-    "id": "psv682",
+    "id": "psv684",
     "igdbId": 61846,
     "gbId": 45954,
     "gbGuid": "3030-45954",
@@ -15961,7 +16043,7 @@
   },
   {
     "name": "Sen no Hatou, Tsukisome no Kouki",
-    "id": "psv683",
+    "id": "psv685",
     "igdbId": 54909,
     "gbId": 60581,
     "gbGuid": "3030-60581",
@@ -15984,7 +16066,7 @@
   },
   {
     "name": "Sengo Muramasa DX: Guren no Kettou",
-    "id": "psv684",
+    "id": "psv686",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -16007,7 +16089,7 @@
   },
   {
     "name": "Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage",
-    "id": "psv685",
+    "id": "psv687",
     "igdbId": 50871,
     "gbId": 40708,
     "gbGuid": "3030-40708",
@@ -16030,7 +16112,7 @@
   },
   {
     "name": "Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai",
-    "id": "psv686",
+    "id": "psv688",
     "igdbId": 62133,
     "gbId": 43941,
     "gbGuid": "3030-43941",
@@ -16053,7 +16135,7 @@
   },
   {
     "name": "Sengoku Hime 5: Senka Tatsu Haou no Keifu",
-    "id": "psv687",
+    "id": "psv689",
     "igdbId": 60969,
     "gbId": 47839,
     "gbGuid": "3030-47839",
@@ -16076,7 +16158,7 @@
   },
   {
     "name": "Sengoku Hime 7: Senun Tsuranuku Guren no Ishi",
-    "id": "psv688",
+    "id": "psv690",
     "igdbId": 111154,
     "gbId": null,
     "gbGuid": null,
@@ -16099,7 +16181,7 @@
   },
   {
     "name": "Sengoku Otome: Legend Battle",
-    "id": "psv689",
+    "id": "psv691",
     "igdbId": 58465,
     "gbId": 53927,
     "gbGuid": "3030-53927",
@@ -16122,7 +16204,7 @@
   },
   {
     "name": "Sengoku Shura Soul",
-    "id": "psv690",
+    "id": "psv692",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -16145,7 +16227,7 @@
   },
   {
     "name": "Senjou no Waltz",
-    "id": "psv691",
+    "id": "psv693",
     "igdbId": 61940,
     "gbId": 45790,
     "gbGuid": "3030-45790",
@@ -16168,7 +16250,7 @@
   },
   {
     "name": "Senran Kagura: Bon Appetit!",
-    "id": "psv692",
+    "id": "psv694",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -16191,7 +16273,7 @@
   },
   {
     "name": "Senran Kagura: Estival Versus",
-    "id": "psv693",
+    "id": "psv695",
     "igdbId": 11006,
     "gbId": 47725,
     "gbGuid": "3030-47725",
@@ -16214,7 +16296,7 @@
   },
   {
     "name": "Senran Kagura: Shinovi Versus",
-    "id": "psv694",
+    "id": "psv696",
     "igdbId": 11536,
     "gbId": 39884,
     "gbGuid": "3030-39884",
@@ -16237,7 +16319,7 @@
   },
   {
     "name": "Seraph of the End: The Origin of Fate",
-    "id": "psv695",
+    "id": "psv697",
     "igdbId": 13638,
     "gbId": null,
     "gbGuid": null,
@@ -16260,7 +16342,7 @@
   },
   {
     "name": "Severed",
-    "id": "psv696",
+    "id": "psv698",
     "igdbId": 6066,
     "gbId": 46014,
     "gbGuid": "3030-46014",
@@ -16283,7 +16365,7 @@
   },
   {
     "name": "Shake Spears!",
-    "id": "psv697",
+    "id": "psv699",
     "igdbId": 52795,
     "gbId": 48213,
     "gbGuid": "3030-48213",
@@ -16306,7 +16388,7 @@
   },
   {
     "name": "Shikihime no Hiwa",
-    "id": "psv698",
+    "id": "psv700",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -16329,7 +16411,7 @@
   },
   {
     "name": "Shin Hayarigami",
-    "id": "psv699",
+    "id": "psv701",
     "igdbId": 79331,
     "gbId": 46097,
     "gbGuid": "3030-46097",
@@ -16352,7 +16434,7 @@
   },
   {
     "name": "Shin Hayarigami 2",
-    "id": "psv700",
+    "id": "psv702",
     "igdbId": 26148,
     "gbId": 53260,
     "gbGuid": "3030-53260",
@@ -16375,7 +16457,7 @@
   },
   {
     "name": "Shin Kamaitachi no Yoru: 11 Hitome no Suspect",
-    "id": "psv701",
+    "id": "psv703",
     "igdbId": 43051,
     "gbId": 37410,
     "gbGuid": "3030-37410",
@@ -16398,7 +16480,7 @@
   },
   {
     "name": "Shinobi, Koi Utsutsu: Kanmitsu Hana Emaki",
-    "id": "psv702",
+    "id": "psv704",
     "igdbId": 83669,
     "gbId": 65123,
     "gbGuid": "3030-65123",
@@ -16421,7 +16503,7 @@
   },
   {
     "name": "Shinobido 2: Revenge of Zen",
-    "id": "psv703",
+    "id": "psv705",
     "igdbId": 10900,
     "gbId": 35565,
     "gbGuid": "3030-35565",
@@ -16455,7 +16537,7 @@
   },
   {
     "name": "Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master",
-    "id": "psv704",
+    "id": "psv706",
     "igdbId": 60251,
     "gbId": 49754,
     "gbGuid": "3030-49754",
@@ -16478,7 +16560,7 @@
   },
   {
     "name": "Shiren the Wanderer: The Tower of Fortune and the Dice of Fate",
-    "id": "psv705",
+    "id": "psv707",
     "igdbId": null,
     "gbId": 43115,
     "gbGuid": "3030-43115",
@@ -16501,7 +16583,7 @@
   },
   {
     "name": "Shiro to Kuro no Alice",
-    "id": "psv706",
+    "id": "psv708",
     "igdbId": 70889,
     "gbId": 61686,
     "gbGuid": "3030-61686",
@@ -16524,7 +16606,7 @@
   },
   {
     "name": "Shirogane x Spirits!",
-    "id": "psv707",
+    "id": "psv709",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -16547,7 +16629,7 @@
   },
   {
     "name": "Shitsuji ga Aruji o Erabu Toki",
-    "id": "psv708",
+    "id": "psv710",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -16570,7 +16652,7 @@
   },
   {
     "name": "Side Kicks!",
-    "id": "psv709",
+    "id": "psv711",
     "igdbId": 69322,
     "gbId": 61372,
     "gbGuid": "3030-61372",
@@ -16593,7 +16675,7 @@
   },
   {
     "name": "Silent Hill: Book Of Memories",
-    "id": "psv710",
+    "id": "psv712",
     "igdbId": 9714,
     "gbId": 35509,
     "gbGuid": "3030-35509",
@@ -16616,7 +16698,7 @@
   },
   {
     "name": "Silverio Trinity: Beyond the Horizon",
-    "id": "psv711",
+    "id": "psv713",
     "igdbId": 113206,
     "gbId": null,
     "gbGuid": null,
@@ -16639,7 +16721,7 @@
   },
   {
     "name": "Silverio Vendetta: Verse of Orpheus",
-    "id": "psv712",
+    "id": "psv714",
     "igdbId": 113203,
     "gbId": null,
     "gbGuid": null,
@@ -16662,7 +16744,7 @@
   },
   {
     "name": "Sir Eatsalot",
-    "id": "psv713",
+    "id": "psv715",
     "igdbId": 69340,
     "gbId": 61392,
     "gbGuid": "3030-61392",
@@ -16685,7 +16767,7 @@
   },
   {
     "name": "Siralim",
-    "id": "psv714",
+    "id": "psv716",
     "igdbId": 35454,
     "gbId": 49560,
     "gbGuid": "3030-49560",
@@ -16708,7 +16790,7 @@
   },
   {
     "name": "Siralim 2",
-    "id": "psv715",
+    "id": "psv717",
     "igdbId": 22692,
     "gbId": 54450,
     "gbGuid": "3030-54450",
@@ -16731,7 +16813,7 @@
   },
   {
     "name": "Sketchcross",
-    "id": "psv716",
+    "id": "psv718",
     "igdbId": 52824,
     "gbId": 48210,
     "gbGuid": "3030-48210",
@@ -16754,7 +16836,7 @@
   },
   {
     "name": "Skylight Freerange",
-    "id": "psv717",
+    "id": "psv719",
     "igdbId": 99506,
     "gbId": null,
     "gbGuid": null,
@@ -16777,7 +16859,7 @@
   },
   {
     "name": "Skylight Freerange 2: Gachduine",
-    "id": "psv718",
+    "id": "psv720",
     "igdbId": 99522,
     "gbId": null,
     "gbGuid": null,
@@ -16800,7 +16882,7 @@
   },
   {
     "name": "Slotter Mania V: Black Lagoon",
-    "id": "psv719",
+    "id": "psv721",
     "igdbId": 65318,
     "gbId": 37814,
     "gbGuid": "3030-37814",
@@ -16823,7 +16905,7 @@
   },
   {
     "name": "Slotter Mania V: Gakuen Mokushiroku Highschool of the Dead",
-    "id": "psv720",
+    "id": "psv722",
     "igdbId": 63076,
     "gbId": 43379,
     "gbGuid": "3030-43379",
@@ -16846,7 +16928,7 @@
   },
   {
     "name": "Slotter Mania V: Zettai Shougeki II",
-    "id": "psv721",
+    "id": "psv723",
     "igdbId": 63764,
     "gbId": 41802,
     "gbGuid": "3030-41802",
@@ -16869,7 +16951,7 @@
   },
   {
     "name": "Sly Cooper: Thieves in Time",
-    "id": "psv722",
+    "id": "psv724",
     "igdbId": 1801,
     "gbId": 35559,
     "gbGuid": "3030-35559",
@@ -16892,7 +16974,7 @@
   },
   {
     "name": "Smart As...",
-    "id": "psv723",
+    "id": "psv725",
     "igdbId": 92456,
     "gbId": 35446,
     "gbGuid": "3030-35446",
@@ -16915,7 +16997,7 @@
   },
   {
     "name": "Son of Scoregasm",
-    "id": "psv724",
+    "id": "psv726",
     "igdbId": 61689,
     "gbId": 46308,
     "gbGuid": "3030-46308",
@@ -16938,7 +17020,7 @@
   },
   {
     "name": "Sorayume",
-    "id": "psv725",
+    "id": "psv727",
     "igdbId": 61273,
     "gbId": 47059,
     "gbGuid": "3030-47059",
@@ -16961,7 +17043,7 @@
   },
   {
     "name": "Sorcery Saga: Curse of the Great Curry God",
-    "id": "psv726",
+    "id": "psv728",
     "igdbId": 19915,
     "gbId": 40755,
     "gbGuid": "3030-40755",
@@ -16984,7 +17066,7 @@
   },
   {
     "name": "Soukai Buccaneers!",
-    "id": "psv727",
+    "id": "psv729",
     "igdbId": 61275,
     "gbId": 47057,
     "gbGuid": "3030-47057",
@@ -17007,7 +17089,7 @@
   },
   {
     "name": "Soul Sacrifice",
-    "id": "psv728",
+    "id": "psv730",
     "igdbId": 19912,
     "gbId": 38047,
     "gbGuid": "3030-38047",
@@ -17030,7 +17112,7 @@
   },
   {
     "name": "Soul Sacrifice Delta",
-    "id": "psv729",
+    "id": "psv731",
     "igdbId": 6061,
     "gbId": 43871,
     "gbGuid": "3030-43871",
@@ -17053,7 +17135,7 @@
   },
   {
     "name": "Sound Shapes",
-    "id": "psv730",
+    "id": "psv732",
     "igdbId": 7729,
     "gbId": 35505,
     "gbGuid": "3030-35505",
@@ -17076,7 +17158,7 @@
   },
   {
     "name": "Soushuu Senshinkan Gakuen Hachimyoujin",
-    "id": "psv731",
+    "id": "psv733",
     "igdbId": 61685,
     "gbId": 46314,
     "gbGuid": "3030-46314",
@@ -17099,7 +17181,7 @@
   },
   {
     "name": "Space Overlords",
-    "id": "psv732",
+    "id": "psv734",
     "igdbId": 25547,
     "gbId": 69843,
     "gbGuid": "3030-69843",
@@ -17122,7 +17204,7 @@
   },
   {
     "name": "Spacejacked",
-    "id": "psv733",
+    "id": "psv735",
     "igdbId": 24046,
     "gbId": 65395,
     "gbGuid": "3030-65395",
@@ -17145,7 +17227,7 @@
   },
   {
     "name": "Spelunky",
-    "id": "psv734",
+    "id": "psv736",
     "igdbId": 3029,
     "gbId": 24999,
     "gbGuid": "3030-24999",
@@ -17168,7 +17250,7 @@
   },
   {
     "name": "Star Ocean: Second Evolution",
-    "id": "psv735",
+    "id": "psv737",
     "igdbId": 80504,
     "gbId": 21464,
     "gbGuid": "3030-21464",
@@ -17191,7 +17273,7 @@
   },
   {
     "name": "Starlight Inception",
-    "id": "psv736",
+    "id": "psv738",
     "igdbId": 16662,
     "gbId": 40688,
     "gbGuid": "3030-40688",
@@ -17214,52 +17296,6 @@
   },
   {
     "name": "Starry Sky: Autumn Stories",
-    "id": "psv737",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita console exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Starry Sky: Summer Stories",
-    "id": "psv738",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita console exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Starry Sky: Winter Stories",
     "id": "psv739",
     "igdbId": null,
     "gbId": null,
@@ -17282,8 +17318,54 @@
     "misprintsErrors": []
   },
   {
-    "name": "Stealth Inc.: A Clone in the Dark",
+    "name": "Starry Sky: Summer Stories",
     "id": "psv740",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Starry Sky: Winter Stories",
+    "id": "psv741",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Stealth Inc.: A Clone in the Dark",
+    "id": "psv742",
     "igdbId": 20016,
     "gbId": null,
     "gbGuid": null,
@@ -17306,7 +17388,7 @@
   },
   {
     "name": "Steam Prison",
-    "id": "psv741",
+    "id": "psv743",
     "igdbId": 82804,
     "gbId": 63508,
     "gbGuid": "3030-63508",
@@ -17329,7 +17411,7 @@
   },
   {
     "name": "SteamWorld Dig",
-    "id": "psv742",
+    "id": "psv744",
     "igdbId": 5772,
     "gbId": 43416,
     "gbGuid": "3030-43416",
@@ -17347,7 +17429,7 @@
   },
   {
     "name": "SteamWorld Heist",
-    "id": "psv743",
+    "id": "psv745",
     "igdbId": 15167,
     "gbId": 47844,
     "gbGuid": "3030-47844",
@@ -17365,7 +17447,7 @@
   },
   {
     "name": "Steins;Gate",
-    "id": "psv744",
+    "id": "psv746",
     "igdbId": 7194,
     "gbId": 28224,
     "gbGuid": "3030-28224",
@@ -17388,7 +17470,7 @@
   },
   {
     "name": "Steins;Gate 0",
-    "id": "psv745",
+    "id": "psv747",
     "igdbId": 11394,
     "gbId": 49281,
     "gbGuid": "3030-49281",
@@ -17411,7 +17493,7 @@
   },
   {
     "name": "Stellar Theater",
-    "id": "psv746",
+    "id": "psv748",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -17434,7 +17516,7 @@
   },
   {
     "name": "Storm Lover 2nd V",
-    "id": "psv747",
+    "id": "psv749",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -17457,7 +17539,7 @@
   },
   {
     "name": "Storm Lover V",
-    "id": "psv748",
+    "id": "psv750",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -17480,7 +17562,7 @@
   },
   {
     "name": "Stranded: A Mars Adventure",
-    "id": "psv749",
+    "id": "psv751",
     "igdbId": 99532,
     "gbId": null,
     "gbGuid": null,
@@ -17503,7 +17585,7 @@
   },
   {
     "name": "Stranger of Sword City Revisited",
-    "id": "psv750",
+    "id": "psv752",
     "igdbId": 27303,
     "gbId": null,
     "gbGuid": null,
@@ -17526,52 +17608,6 @@
   },
   {
     "name": "Strawberry Nauts",
-    "id": "psv751",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita console exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Suki to Suki to de Sankaku Ren'ai",
-    "id": "psv752",
-    "igdbId": 110870,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita console exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Sumika Mikagami’s Uniform Activity",
     "id": "psv753",
     "igdbId": null,
     "gbId": null,
@@ -17594,8 +17630,54 @@
     "misprintsErrors": []
   },
   {
-    "name": "Sumioni: Demon Arts",
+    "name": "Suki to Suki to de Sankaku Ren'ai",
     "id": "psv754",
+    "igdbId": 110870,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sumika Mikagami’s Uniform Activity",
+    "id": "psv755",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sumioni: Demon Arts",
+    "id": "psv756",
     "igdbId": 21852,
     "gbId": 36346,
     "gbGuid": "3030-36346",
@@ -17618,7 +17700,7 @@
   },
   {
     "name": "Summon Night 6: Lost Borders",
-    "id": "psv755",
+    "id": "psv757",
     "igdbId": 13111,
     "gbId": 50616,
     "gbGuid": "3030-50616",
@@ -17641,12 +17723,13 @@
   },
   {
     "name": "SunFlowers",
-    "id": "psv756",
+    "id": "psv758",
     "igdbId": 52861,
     "gbId": 39873,
     "gbGuid": "3030-39873",
     "details": [
-      "Sony PlayStation Vita full exclusive (PlayStation Network)"
+      "Sony PlayStation Vita full exclusive (PlayStation Network)",
+      "Sony PlayStation Vita game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -17659,12 +17742,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation Vita game supports tate mode",
+        "forPlatform": {
+          "name": "Sony Playstation Vita",
+          "id": "ccl45",
+          "igdbId": 46,
+          "gbId": 129,
+          "gbGuid": "3045-129",
+          "tgdbId": 39
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Super Blackout",
-    "id": "psv757",
+    "id": "psv759",
     "igdbId": 59595,
     "gbId": 51396,
     "gbGuid": "3030-51396",
@@ -17687,7 +17783,7 @@
   },
   {
     "name": "Super Blast Deluxe",
-    "id": "psv758",
+    "id": "psv760",
     "igdbId": 58915,
     "gbId": 52646,
     "gbGuid": "3030-52646",
@@ -17710,7 +17806,7 @@
   },
   {
     "name": "Super Hero Generation",
-    "id": "psv759",
+    "id": "psv761",
     "igdbId": 80615,
     "gbId": 46957,
     "gbGuid": "3030-46957",
@@ -17733,12 +17829,13 @@
   },
   {
     "name": "Super Monkey Ball: Banana Splitz",
-    "id": "psv760",
+    "id": "psv762",
     "igdbId": 42709,
     "gbId": 37269,
     "gbGuid": "3030-37269",
     "details": [
-      "Sony PlayStation Vita full exclusive"
+      "Sony PlayStation Vita full exclusive",
+      "Sony PlayStation Vita game supports tate mode (Some minigames only)"
     ],
     "isExclusive": [
       {
@@ -17751,12 +17848,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation Vita game supports tate mode (Some minigames only)",
+        "forPlatform": {
+          "name": "Sony Playstation Vita",
+          "id": "ccl45",
+          "igdbId": 46,
+          "gbId": 129,
+          "gbGuid": "3045-129",
+          "tgdbId": 39
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Super Robot Taisen OG Saga: Masou Kishin III: Pride of Justice",
-    "id": "psv761",
+    "id": "psv763",
     "igdbId": 63363,
     "gbId": 42730,
     "gbGuid": "3030-42730",
@@ -17779,7 +17889,7 @@
   },
   {
     "name": "Super Skull Smash GO! 2 Turbo",
-    "id": "psv762",
+    "id": "psv764",
     "igdbId": 90127,
     "gbId": 66997,
     "gbGuid": "3030-66997",
@@ -17802,7 +17912,7 @@
   },
   {
     "name": "Super Star Wars",
-    "id": "psv763",
+    "id": "psv765",
     "igdbId": 20031,
     "gbId": 14450,
     "gbGuid": "3030-14450",
@@ -17825,7 +17935,7 @@
   },
   {
     "name": "Super Stardust Delta",
-    "id": "psv764",
+    "id": "psv766",
     "igdbId": 42694,
     "gbId": 35502,
     "gbGuid": "3030-35502",
@@ -17859,7 +17969,7 @@
   },
   {
     "name": "Super exploding zoo",
-    "id": "psv765",
+    "id": "psv767",
     "igdbId": 22775,
     "gbId": 44020,
     "gbGuid": "3030-44020",
@@ -17882,7 +17992,7 @@
   },
   {
     "name": "Superdimension Neptune vs Sega Hard Girls",
-    "id": "psv766",
+    "id": "psv768",
     "igdbId": 11366,
     "gbId": 49161,
     "gbGuid": "3030-49161",
@@ -17905,7 +18015,7 @@
   },
   {
     "name": "Superfrog HD",
-    "id": "psv767",
+    "id": "psv769",
     "igdbId": 8873,
     "gbId": 41547,
     "gbGuid": "3030-41547",
@@ -17928,7 +18038,7 @@
   },
   {
     "name": "Supermagical",
-    "id": "psv768",
+    "id": "psv770",
     "igdbId": 14714,
     "gbId": 43672,
     "gbGuid": "3030-43672",
@@ -17951,7 +18061,7 @@
   },
   {
     "name": "Surge Deluxe",
-    "id": "psv769",
+    "id": "psv771",
     "igdbId": 20062,
     "gbId": 44201,
     "gbGuid": "3030-44201",
@@ -17974,7 +18084,7 @@
   },
   {
     "name": "Suuran Digit",
-    "id": "psv770",
+    "id": "psv772",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -17997,7 +18107,7 @@
   },
   {
     "name": "SwapQuest",
-    "id": "psv771",
+    "id": "psv773",
     "igdbId": 23483,
     "gbId": 52709,
     "gbGuid": "3030-52709",
@@ -18020,7 +18130,7 @@
   },
   {
     "name": "Sweet Clown: Gozen San-ji no Okashi na Doukeshi",
-    "id": "psv772",
+    "id": "psv774",
     "igdbId": 59989,
     "gbId": 50390,
     "gbGuid": "3030-50390",
@@ -18043,7 +18153,7 @@
   },
   {
     "name": "Sweet Pool",
-    "id": "psv773",
+    "id": "psv775",
     "igdbId": 86674,
     "gbId": null,
     "gbGuid": null,
@@ -18066,7 +18176,7 @@
   },
   {
     "name": "Switch Galaxy Ultra",
-    "id": "psv774",
+    "id": "psv776",
     "igdbId": 35517,
     "gbId": 43675,
     "gbGuid": "3030-43675",
@@ -18089,7 +18199,7 @@
   },
   {
     "name": "Sword Art Online: Hollow Fragment",
-    "id": "psv775",
+    "id": "psv777",
     "igdbId": 9618,
     "gbId": 44155,
     "gbGuid": "3030-44155",
@@ -18112,7 +18222,7 @@
   },
   {
     "name": "Sword Art Online: Lost Song",
-    "id": "psv776",
+    "id": "psv778",
     "igdbId": 11842,
     "gbId": 47862,
     "gbGuid": "3030-47862",
@@ -18135,7 +18245,7 @@
   },
   {
     "name": "SÖLDNER-X 2: Final Prototype",
-    "id": "psv777",
+    "id": "psv779",
     "igdbId": 26937,
     "gbId": 28120,
     "gbGuid": "3030-28120",
@@ -18158,7 +18268,7 @@
   },
   {
     "name": "TOUHOU SKY ARENA MATSURI CLIMAX",
-    "id": "psv778",
+    "id": "psv780",
     "igdbId": 106777,
     "gbId": null,
     "gbGuid": null,
@@ -18181,7 +18291,7 @@
   },
   {
     "name": "Table Soccer",
-    "id": "psv779",
+    "id": "psv781",
     "igdbId": 94130,
     "gbId": 40349,
     "gbGuid": "3030-40349",
@@ -18204,7 +18314,7 @@
   },
   {
     "name": "Table Top Racing",
-    "id": "psv780",
+    "id": "psv782",
     "igdbId": 8350,
     "gbId": 43705,
     "gbGuid": "3030-43705",
@@ -18227,7 +18337,7 @@
   },
   {
     "name": "Taco Master",
-    "id": "psv781",
+    "id": "psv783",
     "igdbId": 52909,
     "gbId": 51752,
     "gbGuid": "3030-51752",
@@ -18250,7 +18360,7 @@
   },
   {
     "name": "Taiheiyou no Arashi: Koukoku no Kouhai Kokoniari, 1942 Senkan Yamato Hankou no Goujuu",
-    "id": "psv782",
+    "id": "psv784",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -18273,52 +18383,6 @@
   },
   {
     "name": "Taiheiyou no Arashi: Shijousaidai no Gekisen Normandy Goubousen!",
-    "id": "psv783",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita console exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Taiko Drum Master: V Version",
-    "id": "psv784",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita full exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Taishou Mebiusline: Hitotsumi",
     "id": "psv785",
     "igdbId": null,
     "gbId": null,
@@ -18341,13 +18405,13 @@
     "misprintsErrors": []
   },
   {
-    "name": "Taishou Mebiusline: Teito Bibouroku",
+    "name": "Taiko Drum Master: V Version",
     "id": "psv786",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
     "details": [
-      "Sony PlayStation Vita console exclusive"
+      "Sony PlayStation Vita full exclusive"
     ],
     "isExclusive": [
       {
@@ -18364,7 +18428,7 @@
     "misprintsErrors": []
   },
   {
-    "name": "Taishou Mebiusline: Vitable",
+    "name": "Taishou Mebiusline: Hitotsumi",
     "id": "psv787",
     "igdbId": null,
     "gbId": null,
@@ -18387,9 +18451,9 @@
     "misprintsErrors": []
   },
   {
-    "name": "Taishou x Alice: All in One",
+    "name": "Taishou Mebiusline: Teito Bibouroku",
     "id": "psv788",
-    "igdbId": 114762,
+    "igdbId": null,
     "gbId": null,
     "gbGuid": null,
     "details": [
@@ -18410,7 +18474,7 @@
     "misprintsErrors": []
   },
   {
-    "name": "Taishou x Alice: Heads & Tails",
+    "name": "Taishou Mebiusline: Vitable",
     "id": "psv789",
     "igdbId": null,
     "gbId": null,
@@ -18433,8 +18497,54 @@
     "misprintsErrors": []
   },
   {
-    "name": "Tales from Space: Mutant Blobs Attack",
+    "name": "Taishou x Alice: All in One",
     "id": "psv790",
+    "igdbId": 114762,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Taishou x Alice: Heads & Tails",
+    "id": "psv791",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita console exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tales from Space: Mutant Blobs Attack",
+    "id": "psv792",
     "igdbId": 5893,
     "gbId": 36298,
     "gbGuid": "3030-36298",
@@ -18458,7 +18568,7 @@
   },
   {
     "name": "Tales of Hearts R",
-    "id": "psv791",
+    "id": "psv793",
     "igdbId": 19797,
     "gbId": 40249,
     "gbGuid": "3030-40249",
@@ -18481,7 +18591,7 @@
   },
   {
     "name": "Tales of Innocence R",
-    "id": "psv792",
+    "id": "psv794",
     "igdbId": 42673,
     "gbId": 36411,
     "gbGuid": "3030-36411",
@@ -18504,7 +18614,7 @@
   },
   {
     "name": "Talisman: Digital Edition",
-    "id": "psv793",
+    "id": "psv795",
     "igdbId": 10952,
     "gbId": 43768,
     "gbGuid": "3030-43768",
@@ -18527,7 +18637,7 @@
   },
   {
     "name": "Tearaway",
-    "id": "psv794",
+    "id": "psv796",
     "igdbId": 6363,
     "gbId": 39356,
     "gbGuid": "3030-39356",
@@ -18550,7 +18660,7 @@
   },
   {
     "name": "Teikoku Kaigun Koi Bojou: Meiji Yokosuka Koushinkyoku",
-    "id": "psv795",
+    "id": "psv797",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -18573,7 +18683,7 @@
   },
   {
     "name": "Teikoku Kaleido: Kakumei no Rondo",
-    "id": "psv796",
+    "id": "psv798",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -18596,7 +18706,7 @@
   },
   {
     "name": "Tengai ni Mau, Iki na Hana",
-    "id": "psv797",
+    "id": "psv799",
     "igdbId": 75225,
     "gbId": 62211,
     "gbGuid": "3030-62211",
@@ -18619,7 +18729,7 @@
   },
   {
     "name": "Tenshitsuki no Shoujo",
-    "id": "psv798",
+    "id": "psv800",
     "igdbId": 80471,
     "gbId": 41466,
     "gbGuid": "3030-41466",
@@ -18642,7 +18752,7 @@
   },
   {
     "name": "The Binding of Isaac: Rebirth",
-    "id": "psv799",
+    "id": "psv801",
     "igdbId": 7789,
     "gbId": 40865,
     "gbGuid": "3030-40865",
@@ -18665,7 +18775,7 @@
   },
   {
     "name": "The Bit.Trip",
-    "id": "psv800",
+    "id": "psv802",
     "igdbId": 20152,
     "gbId": 51760,
     "gbGuid": "3030-51760",
@@ -18688,7 +18798,7 @@
   },
   {
     "name": "The Caligula Effect",
-    "id": "psv801",
+    "id": "psv803",
     "igdbId": 24954,
     "gbId": 52726,
     "gbGuid": "3030-52726",
@@ -18711,7 +18821,7 @@
   },
   {
     "name": "The Charming Empire",
-    "id": "psv802",
+    "id": "psv804",
     "igdbId": 31976,
     "gbId": 60281,
     "gbGuid": "3030-60281",
@@ -18734,7 +18844,7 @@
   },
   {
     "name": "The Dreamlands: Aisling's Quest",
-    "id": "psv803",
+    "id": "psv805",
     "igdbId": 93762,
     "gbId": null,
     "gbGuid": null,
@@ -18757,7 +18867,7 @@
   },
   {
     "name": "The Eden of Grisaia",
-    "id": "psv804",
+    "id": "psv806",
     "igdbId": 11458,
     "gbId": 45823,
     "gbGuid": "3030-45823",
@@ -18780,7 +18890,7 @@
   },
   {
     "name": "The Fruit of Grisaia",
-    "id": "psv805",
+    "id": "psv807",
     "igdbId": 11456,
     "gbId": 42758,
     "gbGuid": "3030-42758",
@@ -18804,7 +18914,7 @@
   },
   {
     "name": "The Fruit of Grisaia: Side Episode",
-    "id": "psv806",
+    "id": "psv808",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -18827,7 +18937,7 @@
   },
   {
     "name": "The House in Fata Morgana: Collected Edition",
-    "id": "psv807",
+    "id": "psv809",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -18850,7 +18960,7 @@
   },
   {
     "name": "The Hungry Horde",
-    "id": "psv808",
+    "id": "psv810",
     "igdbId": 52911,
     "gbId": 47343,
     "gbGuid": "3030-47343",
@@ -18873,7 +18983,7 @@
   },
   {
     "name": "The Idolmaster: Must Songs Red Board/ Blue Board (Presented by Taiko Drum Master)",
-    "id": "psv809",
+    "id": "psv811",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -18896,7 +19006,7 @@
   },
   {
     "name": "The Irregular at Magic High School: Out of Order",
-    "id": "psv810",
+    "id": "psv812",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -18919,7 +19029,7 @@
   },
   {
     "name": "The King of Fighters '97 Global Match",
-    "id": "psv811",
+    "id": "psv813",
     "igdbId": 83931,
     "gbId": null,
     "gbGuid": null,
@@ -18942,7 +19052,7 @@
   },
   {
     "name": "The Labyrinth of Grisaia",
-    "id": "psv812",
+    "id": "psv814",
     "igdbId": 11457,
     "gbId": 45822,
     "gbGuid": "3030-45822",
@@ -18965,7 +19075,7 @@
   },
   {
     "name": "The Legend of Heroes: Ao no Kiseki",
-    "id": "psv813",
+    "id": "psv815",
     "igdbId": 23323,
     "gbId": null,
     "gbGuid": null,
@@ -18997,7 +19107,7 @@
   },
   {
     "name": "The Legend of Heroes: Trails in the Sky",
-    "id": "psv814",
+    "id": "psv816",
     "igdbId": 8986,
     "gbId": 5104,
     "gbGuid": "3030-5104",
@@ -19021,7 +19131,7 @@
   },
   {
     "name": "The Legend of Heroes: Trails in the Sky SC",
-    "id": "psv815",
+    "id": "psv817",
     "igdbId": 16665,
     "gbId": 35530,
     "gbGuid": "3030-35530",
@@ -19045,7 +19155,7 @@
   },
   {
     "name": "The Legend of Heroes: Trails in the Sky the 3rd",
-    "id": "psv816",
+    "id": "psv818",
     "igdbId": 28101,
     "gbId": 35455,
     "gbGuid": "3030-35455",
@@ -19069,7 +19179,7 @@
   },
   {
     "name": "The Legend of Heroes: Trails of Cold Steel",
-    "id": "psv817",
+    "id": "psv819",
     "igdbId": 13557,
     "gbId": 40878,
     "gbGuid": "3030-40878",
@@ -19093,7 +19203,7 @@
   },
   {
     "name": "The Legend of Heroes: Trails of Cold Steel II",
-    "id": "psv818",
+    "id": "psv820",
     "igdbId": 13558,
     "gbId": 45228,
     "gbGuid": "3030-45228",
@@ -19117,7 +19227,7 @@
   },
   {
     "name": "The Legend of Heroes: Zero no Kiseki",
-    "id": "psv819",
+    "id": "psv821",
     "igdbId": 23322,
     "gbId": null,
     "gbGuid": null,
@@ -19140,7 +19250,7 @@
   },
   {
     "name": "The Muppets Movie Adventures",
-    "id": "psv820",
+    "id": "psv822",
     "igdbId": 52939,
     "gbId": 47397,
     "gbGuid": "3030-47397",
@@ -19163,7 +19273,7 @@
   },
   {
     "name": "The Organ Trail Complete Edition",
-    "id": "psv821",
+    "id": "psv823",
     "igdbId": 99765,
     "gbId": null,
     "gbGuid": null,
@@ -19185,8 +19295,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "The Pinball Arcade",
+    "id": "psv824",
+    "igdbId": 196847,
+    "gbId": 36777,
+    "gbGuid": "3030-36777",
+    "details": [
+      "Sony PlayStation Vita game supports tate mode (Tilt the screen prior to starting a new game)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation Vita game supports tate mode (Tilt the screen prior to starting a new game)",
+        "forPlatform": {
+          "name": "Sony Playstation Vita",
+          "id": "ccl45",
+          "igdbId": 46,
+          "gbId": 129,
+          "gbGuid": "3045-129",
+          "tgdbId": 39
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Sly Collection",
-    "id": "psv822",
+    "id": "psv825",
     "igdbId": 7458,
     "gbId": 31788,
     "gbGuid": "3030-31788",
@@ -19209,7 +19346,7 @@
   },
   {
     "name": "The Sun and Moon",
-    "id": "psv823",
+    "id": "psv826",
     "igdbId": 17811,
     "gbId": null,
     "gbGuid": null,
@@ -19232,7 +19369,7 @@
   },
   {
     "name": "The Unfinished Swan",
-    "id": "psv824",
+    "id": "psv827",
     "igdbId": 8352,
     "gbId": 24301,
     "gbGuid": "3030-24301",
@@ -19255,7 +19392,7 @@
   },
   {
     "name": "Timepiece Ensemble",
-    "id": "psv825",
+    "id": "psv828",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -19278,7 +19415,7 @@
   },
   {
     "name": "Timespinner",
-    "id": "psv826",
+    "id": "psv829",
     "igdbId": 28952,
     "gbId": 47154,
     "gbGuid": "3030-47154",
@@ -19301,7 +19438,7 @@
   },
   {
     "name": "Tiny Troopers: Joint Ops",
-    "id": "psv827",
+    "id": "psv830",
     "igdbId": 21320,
     "gbId": 45646,
     "gbGuid": "3030-45646",
@@ -19324,7 +19461,7 @@
   },
   {
     "name": "Titan Invasion",
-    "id": "psv828",
+    "id": "psv831",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -19347,7 +19484,7 @@
   },
   {
     "name": "Titan Souls",
-    "id": "psv829",
+    "id": "psv832",
     "igdbId": 9559,
     "gbId": 46622,
     "gbGuid": "3030-46622",
@@ -19370,7 +19507,7 @@
   },
   {
     "name": "To Heart 2: Dungeon Travelers",
-    "id": "psv830",
+    "id": "psv833",
     "igdbId": 64235,
     "gbId": 40683,
     "gbGuid": "3030-40683",
@@ -19393,7 +19530,7 @@
   },
   {
     "name": "To Love-Ru -Trouble- Darkness: True Princess",
-    "id": "psv831",
+    "id": "psv834",
     "igdbId": 13553,
     "gbId": null,
     "gbGuid": null,
@@ -19416,7 +19553,7 @@
   },
   {
     "name": "To Love-Ru Darkness: Battle Ecstasy",
-    "id": "psv832",
+    "id": "psv835",
     "igdbId": 62587,
     "gbId": 44606,
     "gbGuid": "3030-44606",
@@ -19439,7 +19576,7 @@
   },
   {
     "name": "Tokeijikake no Ley Line -Asagiri ni Chiru Hana-",
-    "id": "psv833",
+    "id": "psv836",
     "igdbId": 54772,
     "gbId": 60681,
     "gbGuid": "3030-60681",
@@ -19462,7 +19599,7 @@
   },
   {
     "name": "Tokeijikake no Ley Line -Tasogaredoki no Kyoukaisen-",
-    "id": "psv834",
+    "id": "psv837",
     "igdbId": 54754,
     "gbId": 60679,
     "gbGuid": "3030-60679",
@@ -19485,7 +19622,7 @@
   },
   {
     "name": "Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki-",
-    "id": "psv835",
+    "id": "psv838",
     "igdbId": 54750,
     "gbId": 60680,
     "gbGuid": "3030-60680",
@@ -19508,7 +19645,7 @@
   },
   {
     "name": "Tokimeki Restaurant: Project Tristars",
-    "id": "psv836",
+    "id": "psv839",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -19531,7 +19668,7 @@
   },
   {
     "name": "Tokyo Clanpool",
-    "id": "psv837",
+    "id": "psv840",
     "igdbId": 36931,
     "gbId": 61145,
     "gbGuid": "3030-61145",
@@ -19554,7 +19691,7 @@
   },
   {
     "name": "Tokyo Ghoul: Jail",
-    "id": "psv838",
+    "id": "psv841",
     "igdbId": 13195,
     "gbId": 49269,
     "gbGuid": "3030-49269",
@@ -19577,7 +19714,7 @@
   },
   {
     "name": "Tokyo Onmyouji: Tengenjibashi Rei no Baai V Edition",
-    "id": "psv839",
+    "id": "psv842",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -19600,7 +19737,7 @@
   },
   {
     "name": "Tokyo Tattoo Girls",
-    "id": "psv840",
+    "id": "psv843",
     "igdbId": 27260,
     "gbId": 58407,
     "gbGuid": "3030-58407",
@@ -19623,7 +19760,7 @@
   },
   {
     "name": "Tokyo Twilight Ghost Hunters",
-    "id": "psv841",
+    "id": "psv844",
     "igdbId": 12195,
     "gbId": 43822,
     "gbGuid": "3030-43822",
@@ -19646,7 +19783,7 @@
   },
   {
     "name": "Tokyo Twilight Ghost Hunters: Daybreak Special Gigs",
-    "id": "psv842",
+    "id": "psv845",
     "igdbId": 12209,
     "gbId": null,
     "gbGuid": null,
@@ -19669,7 +19806,7 @@
   },
   {
     "name": "Tokyo Xanadu",
-    "id": "psv843",
+    "id": "psv846",
     "igdbId": 11455,
     "gbId": 48436,
     "gbGuid": "3030-48436",
@@ -19692,7 +19829,7 @@
   },
   {
     "name": "Tokyo Yamanote Boys for V Fan Disc",
-    "id": "psv844",
+    "id": "psv847",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -19715,7 +19852,7 @@
   },
   {
     "name": "Tokyo Yamanote Boys for V Main Disc",
-    "id": "psv845",
+    "id": "psv848",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -19738,7 +19875,7 @@
   },
   {
     "name": "Tonari ni Kanojo no Iru Shiawase: Two Farce",
-    "id": "psv846",
+    "id": "psv849",
     "igdbId": 70892,
     "gbId": 61678,
     "gbGuid": "3030-61678",
@@ -19761,7 +19898,7 @@
   },
   {
     "name": "Tonari ni Kanojo no Iru Shiawase: Winter Guest",
-    "id": "psv847",
+    "id": "psv850",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -19784,7 +19921,7 @@
   },
   {
     "name": "Top Darts",
-    "id": "psv848",
+    "id": "psv851",
     "igdbId": 91918,
     "gbId": 33321,
     "gbGuid": "3030-33321",
@@ -19807,7 +19944,7 @@
   },
   {
     "name": "Torikago no Marriage: Hatsukoi no Tsubasa",
-    "id": "psv849",
+    "id": "psv852",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -19830,7 +19967,7 @@
   },
   {
     "name": "TorqueL",
-    "id": "psv850",
+    "id": "psv853",
     "igdbId": 16654,
     "gbId": 48621,
     "gbGuid": "3030-48621",
@@ -19853,7 +19990,7 @@
   },
   {
     "name": "Touch My Katamari",
-    "id": "psv851",
+    "id": "psv854",
     "igdbId": 6462,
     "gbId": 36424,
     "gbGuid": "3030-36424",
@@ -19887,7 +20024,7 @@
   },
   {
     "name": "Touhou Double Focus",
-    "id": "psv852",
+    "id": "psv855",
     "igdbId": 26568,
     "gbId": null,
     "gbGuid": null,
@@ -19910,7 +20047,7 @@
   },
   {
     "name": "Touhou Genso Maroku W: The Devil of Decline",
-    "id": "psv853",
+    "id": "psv856",
     "igdbId": 114022,
     "gbId": null,
     "gbGuid": null,
@@ -19933,7 +20070,7 @@
   },
   {
     "name": "Touhou Genso Wanderer",
-    "id": "psv854",
+    "id": "psv857",
     "igdbId": 26567,
     "gbId": 47866,
     "gbGuid": "3030-47866",
@@ -19956,7 +20093,7 @@
   },
   {
     "name": "Toukiden 2",
-    "id": "psv855",
+    "id": "psv858",
     "igdbId": 26500,
     "gbId": 51339,
     "gbGuid": "3030-51339",
@@ -19979,7 +20116,7 @@
   },
   {
     "name": "Toukiden: Kiwami",
-    "id": "psv856",
+    "id": "psv859",
     "igdbId": 8657,
     "gbId": 45912,
     "gbGuid": "3030-45912",
@@ -20002,7 +20139,7 @@
   },
   {
     "name": "Toukiden: The Age of Demons",
-    "id": "psv857",
+    "id": "psv860",
     "igdbId": 8658,
     "gbId": 39809,
     "gbGuid": "3030-39809",
@@ -20025,7 +20162,7 @@
   },
   {
     "name": "Traveling Stars",
-    "id": "psv858",
+    "id": "psv861",
     "igdbId": 26007,
     "gbId": null,
     "gbGuid": null,
@@ -20048,7 +20185,7 @@
   },
   {
     "name": "Treasures of Montezuma Blitz",
-    "id": "psv859",
+    "id": "psv862",
     "igdbId": 65272,
     "gbId": 37962,
     "gbGuid": "3030-37962",
@@ -20071,7 +20208,7 @@
   },
   {
     "name": "Treasures of Montezuma: Arena",
-    "id": "psv860",
+    "id": "psv863",
     "igdbId": 61539,
     "gbId": 46441,
     "gbGuid": "3030-46441",
@@ -20094,7 +20231,7 @@
   },
   {
     "name": "Trillion: God of Destruction",
-    "id": "psv861",
+    "id": "psv864",
     "igdbId": 19445,
     "gbId": 45384,
     "gbGuid": "3030-45384",
@@ -20117,7 +20254,7 @@
   },
   {
     "name": "Tsuki ni Yorisou Otome no Sahou: Hidamari no Hibi",
-    "id": "psv862",
+    "id": "psv865",
     "igdbId": 43368,
     "gbId": null,
     "gbGuid": null,
@@ -20140,7 +20277,7 @@
   },
   {
     "name": "Tsukitomo. -Tsukiuta 12 Memories-",
-    "id": "psv863",
+    "id": "psv866",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -20163,7 +20300,7 @@
   },
   {
     "name": "Tsumikui: Sen no Noroi, Sen no Inori",
-    "id": "psv864",
+    "id": "psv867",
     "igdbId": 74795,
     "gbId": 62017,
     "gbGuid": "3030-62017",
@@ -20186,7 +20323,7 @@
   },
   {
     "name": "Twin Star Exorcists",
-    "id": "psv865",
+    "id": "psv868",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -20209,7 +20346,7 @@
   },
   {
     "name": "TxK",
-    "id": "psv866",
+    "id": "psv869",
     "igdbId": 10061,
     "gbId": 42308,
     "gbGuid": "3030-42308",
@@ -20232,7 +20369,7 @@
   },
   {
     "name": "Ukiyo no Roushi",
-    "id": "psv867",
+    "id": "psv870",
     "igdbId": 60932,
     "gbId": 47949,
     "gbGuid": "3030-47949",
@@ -20255,7 +20392,7 @@
   },
   {
     "name": "Ultimate Marvel Vs. Capcom 3",
-    "id": "psv868",
+    "id": "psv871",
     "igdbId": 2066,
     "gbId": 35938,
     "gbGuid": "3030-35938",
@@ -20279,7 +20416,7 @@
   },
   {
     "name": "Un:Birthday Song ~Ai wo Utau Shinigami~",
-    "id": "psv869",
+    "id": "psv872",
     "igdbId": 54919,
     "gbId": 60542,
     "gbGuid": "3030-60542",
@@ -20302,7 +20439,7 @@
   },
   {
     "name": "Uncharted: Golden Abyss",
-    "id": "psv870",
+    "id": "psv873",
     "igdbId": 998,
     "gbId": 34017,
     "gbGuid": "3030-34017",
@@ -20336,7 +20473,7 @@
   },
   {
     "name": "Under Night In-Birth Exe:Late[st]",
-    "id": "psv871",
+    "id": "psv874",
     "igdbId": 41819,
     "gbId": 50323,
     "gbGuid": "3030-50323",
@@ -20359,7 +20496,7 @@
   },
   {
     "name": "Unit 13",
-    "id": "psv872",
+    "id": "psv875",
     "igdbId": 19251,
     "gbId": 36939,
     "gbGuid": "3030-36939",
@@ -20382,7 +20519,7 @@
   },
   {
     "name": "Uppers",
-    "id": "psv873",
+    "id": "psv876",
     "igdbId": 53029,
     "gbId": 51299,
     "gbGuid": "3030-51299",
@@ -20405,7 +20542,7 @@
   },
   {
     "name": "Usotsuki Shangri-La",
-    "id": "psv874",
+    "id": "psv877",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -20428,7 +20565,7 @@
   },
   {
     "name": "Uta no Prince-sama",
-    "id": "psv875",
+    "id": "psv878",
     "igdbId": 63412,
     "gbId": 42592,
     "gbGuid": "3030-42592",
@@ -20451,7 +20588,7 @@
   },
   {
     "name": "Uta no Prince-sama MUSIC3",
-    "id": "psv876",
+    "id": "psv879",
     "igdbId": 56318,
     "gbId": 58919,
     "gbGuid": "3030-58919",
@@ -20474,7 +20611,7 @@
   },
   {
     "name": "Uta no Prince-sama: Amazing Aria",
-    "id": "psv877",
+    "id": "psv880",
     "igdbId": 56298,
     "gbId": 58960,
     "gbGuid": "3030-58960",
@@ -20497,7 +20634,7 @@
   },
   {
     "name": "Utawarerumono: Mask of Deception",
-    "id": "psv878",
+    "id": "psv881",
     "igdbId": 13548,
     "gbId": 49369,
     "gbGuid": "3030-49369",
@@ -20520,7 +20657,7 @@
   },
   {
     "name": "Utawarerumono: Mask of Truth",
-    "id": "psv879",
+    "id": "psv882",
     "igdbId": 26834,
     "gbId": 51676,
     "gbGuid": "3030-51676",
@@ -20543,7 +20680,7 @@
   },
   {
     "name": "Utsusemi no Meguri",
-    "id": "psv880",
+    "id": "psv883",
     "igdbId": 69323,
     "gbId": 61373,
     "gbGuid": "3030-61373",
@@ -20566,7 +20703,7 @@
   },
   {
     "name": "Valhalla Knights 3",
-    "id": "psv881",
+    "id": "psv884",
     "igdbId": 20072,
     "gbId": 39807,
     "gbGuid": "3030-39807",
@@ -20589,7 +20726,7 @@
   },
   {
     "name": "Valhalla Knights 3 Gold",
-    "id": "psv882",
+    "id": "psv885",
     "igdbId": 53026,
     "gbId": 44433,
     "gbGuid": "3030-44433",
@@ -20612,7 +20749,7 @@
   },
   {
     "name": "Valkyrie Drive: Bhikkhuni",
-    "id": "psv883",
+    "id": "psv886",
     "igdbId": 11527,
     "gbId": 49223,
     "gbGuid": "3030-49223",
@@ -20635,7 +20772,7 @@
   },
   {
     "name": "Vamwolf Cross",
-    "id": "psv884",
+    "id": "psv887",
     "igdbId": 60333,
     "gbId": 49551,
     "gbGuid": "3030-49551",
@@ -20658,7 +20795,7 @@
   },
   {
     "name": "Variable Barricade",
-    "id": "psv885",
+    "id": "psv888",
     "igdbId": 69345,
     "gbId": 61383,
     "gbGuid": "3030-61383",
@@ -20680,8 +20817,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Vasara Collection",
+    "id": "psv889",
+    "igdbId": 114765,
+    "gbId": 67742,
+    "gbGuid": "3030-67742",
+    "details": [
+      "Sony PlayStation Vita game supports tate mode"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation Vita game supports tate mode",
+        "forPlatform": {
+          "name": "Sony Playstation Vita",
+          "id": "ccl45",
+          "igdbId": 46,
+          "gbId": 129,
+          "gbGuid": "3045-129",
+          "tgdbId": 39
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Velocibox",
-    "id": "psv886",
+    "id": "psv890",
     "igdbId": 15548,
     "gbId": 48999,
     "gbGuid": "3030-48999",
@@ -20704,7 +20868,7 @@
   },
   {
     "name": "Velocity 2X",
-    "id": "psv887",
+    "id": "psv891",
     "igdbId": 8467,
     "gbId": 43634,
     "gbGuid": "3030-43634",
@@ -20722,7 +20886,7 @@
   },
   {
     "name": "Velocity Ultra",
-    "id": "psv888",
+    "id": "psv892",
     "igdbId": 23429,
     "gbId": null,
     "gbGuid": null,
@@ -20745,7 +20909,7 @@
   },
   {
     "name": "Venus Project",
-    "id": "psv889",
+    "id": "psv893",
     "igdbId": 60430,
     "gbId": 49325,
     "gbGuid": "3030-49325",
@@ -20768,7 +20932,7 @@
   },
   {
     "name": "Virtua Tennis 4: World Tour Edition",
-    "id": "psv890",
+    "id": "psv894",
     "igdbId": 42707,
     "gbId": 32369,
     "gbGuid": "3030-32369",
@@ -20792,7 +20956,7 @@
   },
   {
     "name": "Vitamin X Destination: Super Supplement Boys will be together from now on",
-    "id": "psv891",
+    "id": "psv895",
     "igdbId": 98664,
     "gbId": 65243,
     "gbGuid": "3030-65243",
@@ -20815,7 +20979,7 @@
   },
   {
     "name": "Vitamin Z",
-    "id": "psv892",
+    "id": "psv896",
     "igdbId": 60250,
     "gbId": 49752,
     "gbGuid": "3030-49752",
@@ -20838,7 +21002,7 @@
   },
   {
     "name": "Volume",
-    "id": "psv893",
+    "id": "psv897",
     "igdbId": 9647,
     "gbId": 43501,
     "gbGuid": "3030-43501",
@@ -20867,7 +21031,7 @@
   },
   {
     "name": "WAGAMAMA HIGH SPEC",
-    "id": "psv894",
+    "id": "psv898",
     "igdbId": 36727,
     "gbId": null,
     "gbGuid": null,
@@ -20890,7 +21054,7 @@
   },
   {
     "name": "Walpurgis no Uta: Walpurgisgedichte",
-    "id": "psv895",
+    "id": "psv899",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -20913,7 +21077,7 @@
   },
   {
     "name": "Wand of Fortune R",
-    "id": "psv896",
+    "id": "psv900",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -20936,7 +21100,7 @@
   },
   {
     "name": "Wand of Fortune R2: Jikuu ni Shizumu Mokushiroku",
-    "id": "psv897",
+    "id": "psv901",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -20959,7 +21123,7 @@
   },
   {
     "name": "Warriors All-Stars",
-    "id": "psv898",
+    "id": "psv902",
     "igdbId": 26180,
     "gbId": 55468,
     "gbGuid": "3030-55468",
@@ -20982,7 +21146,7 @@
   },
   {
     "name": "We Without Wings",
-    "id": "psv899",
+    "id": "psv903",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -21005,7 +21169,7 @@
   },
   {
     "name": "When Vikings Attack!",
-    "id": "psv900",
+    "id": "psv904",
     "igdbId": 9123,
     "gbId": 38462,
     "gbGuid": "3030-38462",
@@ -21028,7 +21192,7 @@
   },
   {
     "name": "White Album 2: Shiawase no Mukougawa",
-    "id": "psv901",
+    "id": "psv905",
     "igdbId": 79871,
     "gbId": 43524,
     "gbGuid": "3030-43524",
@@ -21051,7 +21215,7 @@
   },
   {
     "name": "Winning Post 7 2013",
-    "id": "psv902",
+    "id": "psv906",
     "igdbId": 63604,
     "gbId": 42140,
     "gbGuid": "3030-42140",
@@ -21074,7 +21238,7 @@
   },
   {
     "name": "Winning Post 8",
-    "id": "psv903",
+    "id": "psv907",
     "igdbId": 80664,
     "gbId": 44596,
     "gbGuid": "3030-44596",
@@ -21097,7 +21261,7 @@
   },
   {
     "name": "Winning Post 8 2016",
-    "id": "psv904",
+    "id": "psv908",
     "igdbId": 59618,
     "gbId": 51340,
     "gbGuid": "3030-51340",
@@ -21120,7 +21284,7 @@
   },
   {
     "name": "Wipeout 2048",
-    "id": "psv905",
+    "id": "psv909",
     "igdbId": 1545,
     "gbId": 35496,
     "gbGuid": "3030-35496",
@@ -21154,7 +21318,7 @@
   },
   {
     "name": "Wizardry: Labyrinth of Lost Souls",
-    "id": "psv906",
+    "id": "psv910",
     "igdbId": 21083,
     "gbId": 28429,
     "gbGuid": "3030-28429",
@@ -21177,7 +21341,7 @@
   },
   {
     "name": "Wizardry: Torawareshi Bourei no Gai",
-    "id": "psv907",
+    "id": "psv911",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -21200,7 +21364,7 @@
   },
   {
     "name": "World Election",
-    "id": "psv908",
+    "id": "psv912",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -21223,7 +21387,7 @@
   },
   {
     "name": "World Trigger: Borderless Mission",
-    "id": "psv909",
+    "id": "psv913",
     "igdbId": 12892,
     "gbId": 48359,
     "gbGuid": "3030-48359",
@@ -21246,7 +21410,7 @@
   },
   {
     "name": "World Trigger: Smash Borders",
-    "id": "psv910",
+    "id": "psv914",
     "igdbId": 27029,
     "gbId": null,
     "gbGuid": null,
@@ -21269,7 +21433,7 @@
   },
   {
     "name": "XBlaze Code: Embryo",
-    "id": "psv911",
+    "id": "psv915",
     "igdbId": 11636,
     "gbId": 42398,
     "gbGuid": "3030-42398",
@@ -21292,7 +21456,7 @@
   },
   {
     "name": "XBlaze Lost: Memories",
-    "id": "psv912",
+    "id": "psv916",
     "igdbId": 11637,
     "gbId": 47297,
     "gbGuid": "3030-47297",
@@ -21315,7 +21479,7 @@
   },
   {
     "name": "XCOM: Enemy Unknown Plus",
-    "id": "psv913",
+    "id": "psv917",
     "igdbId": 95365,
     "gbId": 37152,
     "gbGuid": "3030-37152",
@@ -21338,7 +21502,7 @@
   },
   {
     "name": "Xenon Valkyrie+",
-    "id": "psv914",
+    "id": "psv918",
     "igdbId": 77957,
     "gbId": null,
     "gbGuid": null,
@@ -21361,7 +21525,7 @@
   },
   {
     "name": "Yahari Game demo Ore no Seishun Love Come wa Machigatteiru.",
-    "id": "psv915",
+    "id": "psv919",
     "igdbId": 11741,
     "gbId": null,
     "gbGuid": null,
@@ -21384,7 +21548,7 @@
   },
   {
     "name": "Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku",
-    "id": "psv916",
+    "id": "psv920",
     "igdbId": 11752,
     "gbId": 60256,
     "gbGuid": "3030-60256",
@@ -21407,7 +21571,7 @@
   },
   {
     "name": "Yomawari: Midnight Shadows",
-    "id": "psv917",
+    "id": "psv921",
     "igdbId": 28289,
     "gbId": 60224,
     "gbGuid": "3030-60224",
@@ -21430,7 +21594,7 @@
   },
   {
     "name": "Yomawari: Night Alone",
-    "id": "psv918",
+    "id": "psv922",
     "igdbId": 11589,
     "gbId": 50153,
     "gbGuid": "3030-50153",
@@ -21453,7 +21617,7 @@
   },
   {
     "name": "Ys Origin",
-    "id": "psv919",
+    "id": "psv923",
     "igdbId": 10949,
     "gbId": 17885,
     "gbGuid": "3030-17885",
@@ -21476,7 +21640,7 @@
   },
   {
     "name": "Ys VIII: Lacrimosa of Dana",
-    "id": "psv920",
+    "id": "psv924",
     "igdbId": 27304,
     "gbId": 47723,
     "gbGuid": "3030-47723",
@@ -21494,7 +21658,7 @@
   },
   {
     "name": "Ys: Memories of Celceta",
-    "id": "psv921",
+    "id": "psv925",
     "igdbId": 15457,
     "gbId": 36409,
     "gbGuid": "3030-36409",
@@ -21517,98 +21681,6 @@
   },
   {
     "name": "Yuki Yuna is a Hero: Memory of the Forest",
-    "id": "psv922",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita full exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Yunohana Spring!",
-    "id": "psv923",
-    "igdbId": 13019,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita full exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Yunohana Spring! Cherishing Time",
-    "id": "psv924",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita full exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Yuukyuu no Tier Blade: Fragments of Memory",
-    "id": "psv925",
-    "igdbId": null,
-    "gbId": null,
-    "gbGuid": null,
-    "details": [
-      "Sony PlayStation Vita full exclusive"
-    ],
-    "isExclusive": [
-      {
-        "name": "Sony Playstation Vita",
-        "id": "ccl45",
-        "igdbId": 46,
-        "gbId": 129,
-        "gbGuid": "3045-129",
-        "tgdbId": 39
-      }
-    ],
-    "isLaunchTitle": false,
-    "special": [],
-    "misprintsErrors": []
-  },
-  {
-    "name": "Yuukyuu no Tier Blade: Lost Chronicle",
     "id": "psv926",
     "igdbId": null,
     "gbId": null,
@@ -21631,8 +21703,100 @@
     "misprintsErrors": []
   },
   {
-    "name": "Z-Run",
+    "name": "Yunohana Spring!",
     "id": "psv927",
+    "igdbId": 13019,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita full exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Yunohana Spring! Cherishing Time",
+    "id": "psv928",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita full exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Yuukyuu no Tier Blade: Fragments of Memory",
+    "id": "psv929",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita full exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Yuukyuu no Tier Blade: Lost Chronicle",
+    "id": "psv930",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation Vita full exclusive"
+    ],
+    "isExclusive": [
+      {
+        "name": "Sony Playstation Vita",
+        "id": "ccl45",
+        "igdbId": 46,
+        "gbId": 129,
+        "gbGuid": "3045-129",
+        "tgdbId": 39
+      }
+    ],
+    "isLaunchTitle": false,
+    "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Z-Run",
+    "id": "psv931",
     "igdbId": 63309,
     "gbId": 42861,
     "gbGuid": "3030-42861",
@@ -21655,7 +21819,7 @@
   },
   {
     "name": "Zanki Zero: Last Beginning",
-    "id": "psv928",
+    "id": "psv932",
     "igdbId": 28245,
     "gbId": 61491,
     "gbGuid": "3030-61491",
@@ -21678,12 +21842,13 @@
   },
   {
     "name": "Zen Pinball 2",
-    "id": "psv929",
+    "id": "psv933",
     "igdbId": 6008,
     "gbId": 37942,
     "gbGuid": "3030-37942",
     "details": [
-      "Sony PlayStation Vita platform exclusive (PlayStation Network)"
+      "Sony PlayStation Vita platform exclusive (PlayStation Network)",
+      "Sony PlayStation Vita game supports tate mode"
     ],
     "isExclusive": [
       {
@@ -21696,12 +21861,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation Vita game supports tate mode",
+        "forPlatform": {
+          "name": "Sony Playstation Vita",
+          "id": "ccl45",
+          "igdbId": 46,
+          "gbId": 129,
+          "gbGuid": "3045-129",
+          "tgdbId": 39
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Zero Escape: The Nonary Games",
-    "id": "psv930",
+    "id": "psv934",
     "igdbId": 25343,
     "gbId": 56860,
     "gbGuid": "3030-56860",
@@ -21724,7 +21902,7 @@
   },
   {
     "name": "Zettai Kaikyuu Gakuen: Eden with Roses and Phantasm",
-    "id": "psv931",
+    "id": "psv935",
     "igdbId": 110334,
     "gbId": null,
     "gbGuid": null,
@@ -21747,7 +21925,7 @@
   },
   {
     "name": "Zettai Meikyuu Himitsu no Oyayubi-hime",
-    "id": "psv932",
+    "id": "psv936",
     "igdbId": 59959,
     "gbId": 50488,
     "gbGuid": "3030-50488",
@@ -21770,7 +21948,7 @@
   },
   {
     "name": "Zombie Tycoon 2: Brainhov's Revenge",
-    "id": "psv933",
+    "id": "psv937",
     "igdbId": 9296,
     "gbId": 40960,
     "gbGuid": "3030-40960",
@@ -21793,7 +21971,7 @@
   },
   {
     "name": "Zombies: The Last Survivor",
-    "id": "psv934",
+    "id": "psv938",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -21816,7 +21994,7 @@
   },
   {
     "name": "flOw",
-    "id": "psv935",
+    "id": "psv939",
     "igdbId": 1353,
     "gbId": 15849,
     "gbGuid": "3030-15849",
@@ -21839,7 +22017,7 @@
   },
   {
     "name": "hToL#NiQ: The Firefly Diary",
-    "id": "psv936",
+    "id": "psv940",
     "igdbId": 20055,
     "gbId": 45663,
     "gbGuid": "3030-45663",
@@ -21863,7 +22041,7 @@
   },
   {
     "name": "id: Rebirth",
-    "id": "psv937",
+    "id": "psv941",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -21886,7 +22064,7 @@
   },
   {
     "name": "tayutama 2 -you're the only one-",
-    "id": "psv938",
+    "id": "psv942",
     "igdbId": 30612,
     "gbId": 64229,
     "gbGuid": "3030-64229",

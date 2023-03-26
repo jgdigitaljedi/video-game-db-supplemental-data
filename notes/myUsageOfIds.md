@@ -108,6 +108,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 - a2600lgX - Atari 2600 light gun games (atari2600LightGunGames.json) | GAMES LIST
 - a7800lgX - Atari 7800 light gun games (atari7800LightGunGames.json) | GAMES LIST
+- altmX - Atari Lynx tate mode games (atariLynxTateModeGames.json) | GAMES LIST
 - biX - games banned in various countries (bannedInternationally.json) | GAMES LIST
 - dsienX - Nintendo DS games with enhanced features on DSi (nintendoDsGameDsiEnhanced.json) | GAMES LIST
 - dsijpX - Nintendo DS games with enhanced features on DSi (Japan) (nintendoDsGameDsiEnhancedJapan.json) | GAMES LIST
@@ -157,6 +158,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 - spslgX - Sony PlayStation light gun games (sonyPlaystationLightGunGames.json) | GAMES LIST
 - sps2lgX - Sony PlayStation 2 light gun games (sonyPlaystation2LightGunGames.json) | GAMES LIST
 - sps3lgX - Sony PlayStation 3 light gun games (sonyPlaystation3LightGunGames.json) | GAMES LIST
+- spsptmX - Sony PlayStation Portable tate mode games (sonyPspTateModeGames.json) | GAMES LIST
+- spsvtmX - Sony PlayStation Vita tate mode games (sonyPsVitaTateModeGames.json) | GAMES LIST
 - sptmX - Sony PlaySatation games with tate mode support (sonyPlaystationTateModeGames.json) | GAMES LIST
 - sslgX - Sega Saturn light gun games (segaSaturnLightGunGames.json) | GAMES LIST
 - ssrcX - Sega Saturn RAM and ROM cart games (segaSaturnRamCartGames.json) | GAMES LIST
@@ -164,6 +167,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ssvcX - Sega Saturn VCD card games (segaSaturnVcdCardGames.json) | GAMES LIST
 - wiitmX - Wii games with tate mode support (nintendoWiiTateModeGames.json) | GAMES LIST
 - wiiutmX - Wii U games with tate mode support (nintendoWiiUTateModeGames.json) | GAMES LIST
+- wsctmX - Bandai Wonderswan Color tate mode games (wonderswanColorTateModeGames.json) | GAMES LIST
+- wstmX - Bandai Wonderswan tate mode games (wonderswanTateModeGames.json) | GAMES LIST
 - x360tmX - Microsoft Xbox 360 games with tate mode support (microsoftXbox360TateModeGames.json) | GAMES LIST
 - xbonetmX - Microsoft Xbox One games with tate mode support (microsoftXboxOneTateModeGames.json) | GAMES LIST
 - xbtmX - Microsoft Xbox games with tate mode support (microsoftXboxTateModeGames.json) | GAMES LIST
