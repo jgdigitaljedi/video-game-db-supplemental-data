@@ -152,6 +152,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 - snesssX - SNES Super Scope games (snesSuperScopeGames.json) | GAMES LIST
 - snestmX - SNES games with tate mode support (snesTateModeGames.json) | GAMES LIST
 - sp2tmX - Sony PlayStation 2 tate mode games (sonyPlaystation2TateModeGames.json) | GAMES LIST
+- sp3tmX - Sony PlayStation 3 tate mode games (sonyPlaystation3TateModeGames.json) | GAMES LIST
+- sp4tmX - Sony PlayStation 4 tate mode games (sonyPlaystation4TateModeGames.json) | GAMES LIST
 - spslgX - Sony PlayStation light gun games (sonyPlaystationLightGunGames.json) | GAMES LIST
 - sps2lgX - Sony PlayStation 2 light gun games (sonyPlaystation2LightGunGames.json) | GAMES LIST
 - sps3lgX - Sony PlayStation 3 light gun games (sonyPlaystation3LightGunGames.json) | GAMES LIST

@@ -340,6 +340,8 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sony PlayStation games with tate mode
 - Sony PlayStation 2 Online games
 - Sony PlayStation 2 games with tate mode
+- Sony PlayStation 3 games with tate mode
+- Sony PlayStation 4 games with tate mode
 
 ### Backward Compatibility
 
@@ -458,8 +460,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan. I think some of this is lost in translation.
 
 There are 918 data points for platforms/consoles.
-Out of 17328 games data points collected so far, the APIs are missing data the following number of games:
+Out of 17339 games data points collected so far, the APIs are missing data the following number of games:
 
-- Missing from all APIs: 1502 (9%)
-- IGDB: 1677 (10%)
-- Giantbomb: 2701 (16%)
+- Missing from all APIs: 1503 (9%)
+- IGDB: 1678 (10%)
+- Giantbomb: 2702 (16%)
