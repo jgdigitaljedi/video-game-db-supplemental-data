@@ -110,6 +110,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - a7800lgX - Atari 7800 light gun games (atari7800LightGunGames.json) | GAMES LIST
 - altmX - Atari Lynx tate mode games (atariLynxTateModeGames.json) | GAMES LIST
 - biX - games banned in various countries (bannedInternationally.json) | GAMES LIST
+- dcvgaX - Dreamcast games without native VGA support (dreamcastGamesWithoutVga.json) | GAMES LIST
 - dsienX - Nintendo DS games with enhanced features on DSi (nintendoDsGameDsiEnhanced.json) | GAMES LIST
 - dsijpX - Nintendo DS games with enhanced features on DSi (Japan) (nintendoDsGameDsiEnhancedJapan.json) | GAMES LIST
 - dsrpX - Nintendo DS Rumble Pak games (nintendoDsRumblePakGames.json) | GAMES LIST

@@ -22,9 +22,9 @@ const fileUtil = require('./fileUtilities');
  */
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/wonderswanTateModeGames.json';
-const idPrefix = 'wstm';
-const parensToDetails = false;
+const relativePath = '../../textFilesToBeConverted/special/dreamcastGamesWithoutVga.json';
+const idPrefix = 'dcvga';
+const parensToDetails = true;
 const category = 'other';
 
 (async function() {
@@ -32,7 +32,7 @@ const category = 'other';
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Wonderswan game supports tate mode',
+    'Dreamcast game lacks native VGA support',
     idPrefix,
     parensToDetails,
     category
