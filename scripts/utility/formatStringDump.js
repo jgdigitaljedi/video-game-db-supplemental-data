@@ -22,9 +22,9 @@ const fileUtil = require('./fileUtilities');
  */
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/dreamcastGamesWithoutVga.json';
-const idPrefix = 'dcvga';
-const parensToDetails = true;
+const relativePath = '../../textFilesToBeConverted/special/xboxGamesWithNonRoamableSaves.json';
+const idPrefix = 'xbnrs';
+const parensToDetails = false;
 const category = 'other';
 
 (async function() {
@@ -32,7 +32,7 @@ const category = 'other';
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Dreamcast game lacks native VGA support',
+    'Microsoft Xbox game has non-raomable (EEEPROM locked) saves',
     idPrefix,
     parensToDetails,
     category

@@ -504,7 +504,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'multiplayer/microsoftXboxSystemLinkGames.json')),
       require(path.resolve(smallFiles, 'multiplayer/microsoftXboxOnlineGames.json')),
       require(path.resolve(smallFiles, 'special/microsoftXboxTateModeGames.json')),
-      require(path.resolve(smallFiles, 'special/microsoftXboxGamesWithAltDisplayModes.json'))
+      require(path.resolve(smallFiles, 'special/microsoftXboxGamesWithAltDisplayModes.json')),
+      require(path.resolve(smallFiles, 'special/xboxGamesWithNonRoamableSaves.json'))
     ],
     output: path.resolve(consoleLists, 'MicrosoftXbox.json')
   },

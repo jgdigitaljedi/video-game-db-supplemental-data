@@ -1724,5 +1724,11 @@
     "filePath": "../textFilesToBeConverted/special/microsoftXboxGamesWithAltDisplayModes.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Microsoft Xbox games with non-raomable saves",
+    "filePath": "../textFilesToBeConverted/special/xboxGamesWithNonRoamableSaves.json",
+    "type": "Game",
+    "complete": true
   }
 ]
