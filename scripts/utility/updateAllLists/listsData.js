@@ -259,7 +259,8 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'special/segaMasterSystemPhaserGames.json')),
       require(path.resolve(smallFiles, 'special/segaMasterSystemBuiltInGames.json')),
-      require(path.resolve(smallFiles, 'special/segaMasterSystem3dGames.json'))
+      require(path.resolve(smallFiles, 'special/segaMasterSystem3dGames.json')),
+      require(path.resolve(smallFiles, 'special/masterSystemGamesWithSaveBatteries.json'))
     ],
     output: path.resolve(consoleLists, 'SegaMasterSystem.json')
   },

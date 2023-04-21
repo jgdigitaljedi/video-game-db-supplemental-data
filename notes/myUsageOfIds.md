@@ -122,6 +122,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - gcbbaX - GameCube broadband adapter games (gamecubeBroadbandGames.json) | GAMES LIST
 - gctmX - GameCube games with tate mode support (nintendoGamecubeTateModeGames.json) | GAMES LIST
 - molgX - Magnavox Odyssey light gun games (magnavoxOdysseyLightGunGamesGames.json) | GAMES LIST
+- mssbX - Master System games with save battery (masterSystemGamesWithSaveBatteries.json) | GAMES LIST
 - mxb360lgX - Microsoft Xbox 360 light gun games (microsoftXbox360LightGunGames.json) | GAMES LIST
 - mxblgX - Microsoft Xbox light gun games (microsoftXboxLightGunGames.json) | GAMES LIST
 - n64epX - N64 Expansion Pak Games (n64ExpansionPakGames.json) | GAMES LIST

@@ -1730,5 +1730,11 @@
     "filePath": "../textFilesToBeConverted/special/xboxGamesWithNonRoamableSaves.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Master System games with save battery",
+    "filePath": "../textFilesToBeConverted/special/masterSystemGamesWithSaveBatteries.json",
+    "type": "Game",
+    "complete": true
   }
 ]

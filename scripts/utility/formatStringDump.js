@@ -22,8 +22,8 @@ const fileUtil = require('./fileUtilities');
  */
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/xboxGamesWithNonRoamableSaves.json';
-const idPrefix = 'xbnrs';
+const relativePath = '../../textFilesToBeConverted/special/masterSystemGamesWithSaveBatteries.json';
+const idPrefix = 'mssb';
 const parensToDetails = false;
 const category = 'other';
 
@@ -32,7 +32,7 @@ const category = 'other';
   const parsed = JSON.parse(contents);
   const newData = fileUtil.stringArrToObjectArr(
     parsed,
-    'Microsoft Xbox game has non-raomable (EEEPROM locked) saves',
+    'Sega Master System game has save battery',
     idPrefix,
     parensToDetails,
     category
