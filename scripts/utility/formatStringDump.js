@@ -1,5 +1,6 @@
 const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
+const _uniq = require('lodash/uniq');
 
 /** categories
  * [
@@ -22,17 +23,18 @@ const fileUtil = require('./fileUtilities');
  */
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/masterSystemGamesWithSaveBatteries.json';
-const idPrefix = 'mssb';
+const relativePath = '../../textFilesToBeConverted/special/masterSystemGamesIncompatibilities.json';
+const idPrefix = 'msgi';
 const parensToDetails = false;
 const category = 'other';
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
+  const fixed = _uniq(parsed.sort());
   const newData = fileUtil.stringArrToObjectArr(
-    parsed,
-    'Sega Master System game has save battery',
+    fixed,
+    'Sega Master System has compatibility issues with: ',
     idPrefix,
     parensToDetails,
     category

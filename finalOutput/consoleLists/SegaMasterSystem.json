@@ -24,8 +24,35 @@
     "misprintsErrors": []
   },
   {
-    "name": "ALF",
+    "name": "4 Pak All Action",
     "id": "sms1",
+    "igdbId": 80748,
+    "gbId": 56991,
+    "gbGuid": "3030-56991",
+    "details": [
+      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "ALF",
+    "id": "sms2",
     "igdbId": 65580,
     "gbId": 5142,
     "gbGuid": "3030-5142",
@@ -48,8 +75,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "After Burner",
+    "id": "sms3",
+    "igdbId": 5468,
+    "gbId": 3629,
+    "gbGuid": "3030-3629",
+    "details": [
+      "Sega Master System has compatibility issues with: HES Converter"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: HES Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Alex Kidd in Miracle World",
-    "id": "sms2",
+    "id": "sms4",
     "igdbId": 26778,
     "gbId": 9101,
     "gbGuid": "3030-9101",
@@ -76,7 +130,7 @@
   },
   {
     "name": "Alex Kidd: BMX Trial",
-    "id": "sms3",
+    "id": "sms5",
     "igdbId": 37174,
     "gbId": 4553,
     "gbGuid": "3030-4553",
@@ -100,7 +154,7 @@
   },
   {
     "name": "Alex Kidd: High-Tech World",
-    "id": "sms4",
+    "id": "sms6",
     "igdbId": 46112,
     "gbId": 7108,
     "gbGuid": "3030-7108",
@@ -123,8 +177,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Alex Kidd: The Lost Stars",
+    "id": "sms7",
+    "igdbId": 13678,
+    "gbId": 16061,
+    "gbGuid": "3030-16061",
+    "details": [
+      "Sega Master System has compatibility issues with: HES Converter"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: HES Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alien 3",
+    "id": "sms8",
+    "igdbId": 8908,
+    "gbId": 14356,
+    "gbGuid": "3030-14356",
+    "details": [
+      "Sega Master System has compatibility issues with: Power Base Converter"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Power Base Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alien Syndrome",
+    "id": "sms9",
+    "igdbId": 4478,
+    "gbId": 22009,
+    "gbGuid": "3030-22009",
+    "details": [
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Arcade Smash Hits",
-    "id": "sms5",
+    "id": "sms10",
     "igdbId": 46151,
     "gbId": 6044,
     "gbGuid": "3030-6044",
@@ -148,14 +283,15 @@
   },
   {
     "name": "Assault City",
-    "id": "sms6",
+    "id": "sms11",
     "igdbId": 46117,
     "gbId": 312,
     "gbGuid": "3030-312",
     "tgdbId": 11521,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System Phaser game"
+      "Sega Master System Phaser game",
+      "Sega Master System has compatibility issues with: HES Converter"
     ],
     "isExclusive": [
       {
@@ -180,13 +316,25 @@
           "tgdbId": 35
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Sega Master System has compatibility issues with: HES Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Asterix",
-    "id": "sms7",
+    "id": "sms12",
     "igdbId": 19486,
     "gbId": 9018,
     "gbGuid": "3030-9018",
@@ -209,7 +357,7 @@
   },
   {
     "name": "Astro Warrior",
-    "id": "sms8",
+    "id": "sms13",
     "igdbId": 37176,
     "gbId": 14539,
     "gbGuid": "3030-14539",
@@ -233,13 +381,14 @@
   },
   {
     "name": "Aztec Adventure",
-    "id": "sms9",
+    "id": "sms14",
     "igdbId": 45668,
     "gbId": 6159,
     "gbGuid": "3030-6159",
     "tgdbId": 2698,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System has compatibility issues with: HES Converter"
     ],
     "isExclusive": [
       {
@@ -252,12 +401,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: HES Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Basketball Nightmare",
-    "id": "sms10",
+    "id": "sms15",
     "igdbId": 45667,
     "gbId": 40805,
     "gbGuid": "3030-40805",
@@ -281,7 +443,7 @@
   },
   {
     "name": "Battle OutRun",
-    "id": "sms11",
+    "id": "sms16",
     "igdbId": 2056,
     "gbId": 407,
     "gbGuid": "3030-407",
@@ -305,7 +467,7 @@
   },
   {
     "name": "Black Belt",
-    "id": "sms12",
+    "id": "sms17",
     "igdbId": 29134,
     "gbId": 16176,
     "gbGuid": "3030-16176",
@@ -323,7 +485,7 @@
   },
   {
     "name": "Blade Eagle 3-D",
-    "id": "sms13",
+    "id": "sms18",
     "igdbId": 45663,
     "gbId": 18151,
     "gbGuid": "3030-18151",
@@ -361,13 +523,14 @@
   },
   {
     "name": "Bomber Raid",
-    "id": "sms14",
+    "id": "sms19",
     "igdbId": 45662,
     "gbId": 6869,
     "gbGuid": "3030-6869",
     "tgdbId": 2708,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
     ],
     "isExclusive": [
       {
@@ -380,12 +543,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Buggy Run",
-    "id": "sms15",
+    "id": "sms20",
     "igdbId": 45657,
     "gbId": null,
     "gbGuid": null,
@@ -409,7 +585,7 @@
   },
   {
     "name": "Casino Games",
-    "id": "sms16",
+    "id": "sms21",
     "igdbId": 45656,
     "gbId": 32028,
     "gbGuid": "3030-32028",
@@ -433,7 +609,7 @@
   },
   {
     "name": "Champions of Europe",
-    "id": "sms17",
+    "id": "sms22",
     "igdbId": 45655,
     "gbId": 73315,
     "gbGuid": "3030-73315",
@@ -457,7 +633,7 @@
   },
   {
     "name": "Cloud Master (PAL)",
-    "id": "sms18",
+    "id": "sms23",
     "igdbId": 45654,
     "gbId": 11352,
     "gbGuid": "3030-11352",
@@ -474,8 +650,35 @@
     ]
   },
   {
+    "name": "Cosmic Spacehead",
+    "id": "sms24",
+    "igdbId": 12013,
+    "gbId": 4664,
+    "gbGuid": "3030-4664",
+    "details": [
+      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Cyborg Hunter",
-    "id": "sms19",
+    "id": "sms25",
     "igdbId": 45653,
     "gbId": 20088,
     "gbGuid": "3030-20088",
@@ -499,7 +702,7 @@
   },
   {
     "name": "Danan: The Jungle Fighter",
-    "id": "sms20",
+    "id": "sms26",
     "igdbId": 45664,
     "gbId": 3139,
     "gbGuid": "3030-3139",
@@ -523,7 +726,7 @@
   },
   {
     "name": "Double Hawk",
-    "id": "sms21",
+    "id": "sms27",
     "igdbId": 45659,
     "gbId": 15311,
     "gbGuid": "3030-15311",
@@ -546,8 +749,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "F-16 Fighting Falcon",
+    "id": "sms28",
+    "igdbId": 36679,
+    "gbId": 11146,
+    "gbGuid": "3030-11146",
+    "details": [
+      "Sega Master System has compatibility issues with: Power Base Converter"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Power Base Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fantastic Dizzy",
+    "id": "sms29",
+    "igdbId": 12089,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Fushigi no Oshiro Pit Pot",
-    "id": "sms22",
+    "id": "sms30",
     "igdbId": 36678,
     "gbId": 18268,
     "gbGuid": "3030-18268",
@@ -570,8 +827,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "GP Rider",
+    "id": "sms31",
+    "igdbId": 39904,
+    "gbId": 30727,
+    "gbGuid": "3030-30727",
+    "details": [
+      "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Gangster Town",
-    "id": "sms23",
+    "id": "sms32",
     "igdbId": 45650,
     "gbId": 20354,
     "gbGuid": "3030-20354",
@@ -598,7 +882,7 @@
   },
   {
     "name": "Ghost House",
-    "id": "sms24",
+    "id": "sms33",
     "igdbId": 45649,
     "gbId": 9862,
     "gbGuid": "3030-9862",
@@ -622,7 +906,7 @@
   },
   {
     "name": "Golden Axe Warrior",
-    "id": "sms25",
+    "id": "sms34",
     "igdbId": 46147,
     "gbId": 10657,
     "gbGuid": "3030-10657",
@@ -649,14 +933,15 @@
   },
   {
     "name": "Golfamania",
-    "id": "sms26",
+    "id": "sms35",
     "igdbId": 45673,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 2801,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System game has save battery"
+      "Sega Master System game has save battery",
+      "Sega Master System has compatibility issues with: HES Converter"
     ],
     "isExclusive": [
       {
@@ -681,13 +966,52 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System has compatibility issues with: HES Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Golvellius: Valley of Doom",
+    "id": "sms36",
+    "igdbId": 46146,
+    "gbId": 8536,
+    "gbGuid": "3030-8536",
+    "details": [
+      "Sega Master System has compatibility issues with: HES Converter"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: HES Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Great Baseball",
-    "id": "sms27",
+    "id": "sms37",
     "igdbId": 46145,
     "gbId": 12789,
     "gbGuid": "3030-12789",
@@ -711,7 +1035,7 @@
   },
   {
     "name": "Great Football",
-    "id": "sms28",
+    "id": "sms38",
     "igdbId": 46144,
     "gbId": 14056,
     "gbGuid": "3030-14056",
@@ -729,7 +1053,7 @@
   },
   {
     "name": "Great Ice Hockey",
-    "id": "sms29",
+    "id": "sms39",
     "igdbId": 46142,
     "gbId": 37110,
     "gbGuid": "3030-37110",
@@ -752,8 +1076,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Great Volleyball",
+    "id": "sms40",
+    "igdbId": 46150,
+    "gbId": 19590,
+    "gbGuid": "3030-19590",
+    "details": [
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Hang On/Astro Warrio",
-    "id": "sms30",
+    "id": "sms41",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -771,7 +1122,7 @@
   },
   {
     "name": "Hang on/Safari Hunt",
-    "id": "sms31",
+    "id": "sms42",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -789,7 +1140,7 @@
   },
   {
     "name": "Hang-On",
-    "id": "sms32",
+    "id": "sms43",
     "igdbId": 6110,
     "gbId": 11570,
     "gbGuid": "3030-11570",
@@ -816,7 +1167,7 @@
   },
   {
     "name": "Hang-On & Safari Hunt",
-    "id": "sms33",
+    "id": "sms44",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -840,7 +1191,7 @@
   },
   {
     "name": "Hoshi wo Sagashite...",
-    "id": "sms34",
+    "id": "sms45",
     "igdbId": 46149,
     "gbId": 17444,
     "gbGuid": "3030-17444",
@@ -864,7 +1215,7 @@
   },
   {
     "name": "Kenseiden",
-    "id": "sms35",
+    "id": "sms46",
     "igdbId": 65579,
     "gbId": 20283,
     "gbGuid": "3030-20283",
@@ -888,7 +1239,7 @@
   },
   {
     "name": "Kung Fu Kid",
-    "id": "sms36",
+    "id": "sms47",
     "igdbId": 36898,
     "gbId": 12779,
     "gbGuid": "3030-12779",
@@ -912,7 +1263,7 @@
   },
   {
     "name": "Laser Ghost",
-    "id": "sms37",
+    "id": "sms48",
     "igdbId": 36901,
     "gbId": 14213,
     "gbGuid": "3030-14213",
@@ -939,7 +1290,7 @@
   },
   {
     "name": "Line of Fire",
-    "id": "sms38",
+    "id": "sms49",
     "igdbId": 19487,
     "gbId": 3688,
     "gbGuid": "3030-3688",
@@ -966,7 +1317,7 @@
   },
   {
     "name": "Lord of the Sword",
-    "id": "sms39",
+    "id": "sms50",
     "igdbId": 46671,
     "gbId": 10880,
     "gbGuid": "3030-10880",
@@ -990,7 +1341,7 @@
   },
   {
     "name": "Marksman Shooting & Trap Shooting",
-    "id": "sms40",
+    "id": "sms51",
     "igdbId": 78779,
     "gbId": 4368,
     "gbGuid": "3030-4368",
@@ -1028,7 +1379,7 @@
   },
   {
     "name": "Maze Hunter 3-D",
-    "id": "sms41",
+    "id": "sms52",
     "igdbId": 45674,
     "gbId": 11858,
     "gbGuid": "3030-11858",
@@ -1054,8 +1405,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Micro Machines",
+    "id": "sms53",
+    "igdbId": 2703,
+    "gbId": 2140,
+    "gbGuid": "3030-2140",
+    "details": [
+      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Miracle Warriors: Seal of the Dark Lord",
-    "id": "sms42",
+    "id": "sms54",
     "igdbId": 47526,
     "gbId": 14722,
     "gbGuid": "3030-14722",
@@ -1082,13 +1460,14 @@
   },
   {
     "name": "Missile Defense 3-D",
-    "id": "sms43",
+    "id": "sms55",
     "igdbId": 45672,
     "gbId": 19870,
     "gbGuid": "3030-19870",
     "details": [
       "Sega Master System Phaser game",
-      "Sega Master System 3D game (3-D Glasses)"
+      "Sega Master System 3D game (3-D Glasses)",
+      "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1116,13 +1495,25 @@
           "tgdbId": 35
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Monopoly",
-    "id": "sms44",
+    "id": "sms56",
     "igdbId": 122241,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -1146,7 +1537,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "sms45",
+    "id": "sms57",
     "igdbId": 131548,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -1178,8 +1569,35 @@
     ]
   },
   {
+    "name": "Montezuma's Revenge",
+    "id": "sms58",
+    "igdbId": 12297,
+    "gbId": 4619,
+    "gbGuid": "3030-4619",
+    "details": [
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ninja Gaiden",
-    "id": "sms46",
+    "id": "sms59",
     "igdbId": 7558,
     "gbId": 1653,
     "gbGuid": "3030-1653",
@@ -1203,7 +1621,7 @@
   },
   {
     "name": "Operation Wolf",
-    "id": "sms47",
+    "id": "sms60",
     "igdbId": 12190,
     "gbId": 14869,
     "gbGuid": "3030-14869",
@@ -1230,7 +1648,7 @@
   },
   {
     "name": "OutRun 3-D",
-    "id": "sms48",
+    "id": "sms61",
     "igdbId": 46136,
     "gbId": null,
     "gbGuid": null,
@@ -1267,15 +1685,43 @@
     "misprintsErrors": []
   },
   {
+    "name": "Parlour Games",
+    "id": "sms62",
+    "igdbId": 46135,
+    "gbId": 18521,
+    "gbGuid": "3030-18521",
+    "details": [
+      "Sega Master System has compatibility issues with: HES Converter"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: HES Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Penguin Land",
-    "id": "sms49",
+    "id": "sms63",
     "igdbId": 49152,
     "gbId": 15446,
     "gbGuid": "3030-15446",
     "tgdbId": 2962,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System game has save battery"
+      "Sega Master System game has save battery",
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
     ],
     "isExclusive": [
       {
@@ -1300,13 +1746,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Phantasy Star",
-    "id": "sms50",
+    "id": "sms64",
     "igdbId": 1233,
     "gbId": 7400,
     "gbGuid": "3030-7400",
@@ -1333,7 +1791,7 @@
   },
   {
     "name": "Poseidon Wars 3-D",
-    "id": "sms51",
+    "id": "sms65",
     "igdbId": 46134,
     "gbId": 20312,
     "gbGuid": "3030-20312",
@@ -1371,7 +1829,7 @@
   },
   {
     "name": "Power Strike",
-    "id": "sms52",
+    "id": "sms66",
     "igdbId": 46132,
     "gbId": 3130,
     "gbGuid": "3030-3130",
@@ -1395,7 +1853,7 @@
   },
   {
     "name": "Pro Wrestling",
-    "id": "sms53",
+    "id": "sms67",
     "igdbId": 18143,
     "gbId": 4962,
     "gbGuid": "3030-4962",
@@ -1419,7 +1877,7 @@
   },
   {
     "name": "Psycho Fox",
-    "id": "sms54",
+    "id": "sms68",
     "igdbId": 46131,
     "gbId": 18090,
     "gbGuid": "3030-18090",
@@ -1449,7 +1907,7 @@
   },
   {
     "name": "R.C. Grand Prix",
-    "id": "sms55",
+    "id": "sms69",
     "igdbId": 46336,
     "gbId": 6208,
     "gbGuid": "3030-6208",
@@ -1473,7 +1931,7 @@
   },
   {
     "name": "Rambo III",
-    "id": "sms56",
+    "id": "sms70",
     "igdbId": 18145,
     "gbId": 1172,
     "gbGuid": "3030-1172",
@@ -1511,12 +1969,13 @@
   },
   {
     "name": "Rescue Mission",
-    "id": "sms57",
+    "id": "sms71",
     "igdbId": 18140,
     "gbId": 4358,
     "gbGuid": "3030-4358",
     "details": [
-      "Sega Master System Phaser game"
+      "Sega Master System Phaser game",
+      "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1532,13 +1991,25 @@
           "tgdbId": 35
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Rocky",
-    "id": "sms58",
+    "id": "sms72",
     "igdbId": 37175,
     "gbId": 26048,
     "gbGuid": "3030-26048",
@@ -1562,7 +2033,7 @@
   },
   {
     "name": "Running Battle",
-    "id": "sms59",
+    "id": "sms73",
     "igdbId": 19511,
     "gbId": 45429,
     "gbGuid": "3030-45429",
@@ -1586,7 +2057,7 @@
   },
   {
     "name": "Safari Hunt",
-    "id": "sms60",
+    "id": "sms74",
     "igdbId": 94935,
     "gbId": 13798,
     "gbGuid": "3030-13798",
@@ -1613,7 +2084,7 @@
   },
   {
     "name": "Sega World Tournament Golf",
-    "id": "sms61",
+    "id": "sms75",
     "igdbId": 46128,
     "gbId": null,
     "gbGuid": null,
@@ -1636,8 +2107,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Shanghai",
+    "id": "sms76",
+    "igdbId": 12765,
+    "gbId": 1655,
+    "gbGuid": "3030-1655",
+    "details": [
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shinobi",
+    "id": "sms77",
+    "igdbId": 6899,
+    "gbId": 3482,
+    "gbGuid": "3030-3482",
+    "details": [
+      "Sega Master System has compatibility issues with: HES Converter"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: HES Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Shooting Gallery",
-    "id": "sms62",
+    "id": "sms78",
     "igdbId": 79985,
     "gbId": 39454,
     "gbGuid": "3030-39454",
@@ -1664,7 +2189,7 @@
   },
   {
     "name": "Sitio do Picapau Amarelo",
-    "id": "sms63",
+    "id": "sms79",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1688,7 +2213,7 @@
   },
   {
     "name": "Slap Shot",
-    "id": "sms64",
+    "id": "sms80",
     "igdbId": 81281,
     "gbId": 40439,
     "gbGuid": "3030-40439",
@@ -1712,7 +2237,7 @@
   },
   {
     "name": "Snail Maze",
-    "id": "sms65",
+    "id": "sms81",
     "igdbId": 46118,
     "gbId": 21555,
     "gbGuid": "3030-21555",
@@ -1750,7 +2275,7 @@
   },
   {
     "name": "Sonic the Hedgehog",
-    "id": "sms66",
+    "id": "sms82",
     "igdbId": 106274,
     "gbId": 2465,
     "gbGuid": "3030-2465",
@@ -1777,7 +2302,7 @@
   },
   {
     "name": "Space Gun",
-    "id": "sms67",
+    "id": "sms83",
     "igdbId": 12856,
     "gbId": 15378,
     "gbGuid": "3030-15378",
@@ -1804,7 +2329,7 @@
   },
   {
     "name": "Space Harrier 3-D",
-    "id": "sms68",
+    "id": "sms84",
     "igdbId": 46126,
     "gbId": 10291,
     "gbGuid": "3030-10291",
@@ -1842,7 +2367,7 @@
   },
   {
     "name": "SpellCaster",
-    "id": "sms69",
+    "id": "sms85",
     "igdbId": 46124,
     "gbId": 10557,
     "gbGuid": "3030-10557",
@@ -1865,8 +2390,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Street Fighter II",
+    "id": "sms86",
+    "igdbId": 231006,
+    "gbId": 1096,
+    "gbGuid": "3030-1096",
+    "details": [
+      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Taz-Mania",
-    "id": "sms70",
+    "id": "sms87",
     "igdbId": 8066,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -1890,7 +2442,7 @@
   },
   {
     "name": "Tecmo World Cup '93",
-    "id": "sms71",
+    "id": "sms88",
     "igdbId": 46101,
     "gbId": 23136,
     "gbGuid": "3030-23136",
@@ -1913,8 +2465,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Tennis Ace",
+    "id": "sms89",
+    "igdbId": 46111,
+    "gbId": 19900,
+    "gbGuid": "3030-19900",
+    "details": [
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Cyber Shinobi",
-    "id": "sms72",
+    "id": "sms90",
     "igdbId": 10218,
     "gbId": null,
     "gbGuid": null,
@@ -1937,8 +2516,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "The Incredible Hulk",
+    "id": "sms91",
+    "igdbId": 94829,
+    "gbId": 10622,
+    "gbGuid": "3030-10622",
+    "details": [
+      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "TransBot",
-    "id": "sms73",
+    "id": "sms92",
     "igdbId": 29136,
     "gbId": 15686,
     "gbGuid": "3030-15686",
@@ -1962,7 +2568,7 @@
   },
   {
     "name": "Ultima IV: Quest of the Avatar",
-    "id": "sms74",
+    "id": "sms93",
     "igdbId": 2878,
     "gbId": 14381,
     "gbGuid": "3030-14381",
@@ -1988,15 +2594,43 @@
     "misprintsErrors": []
   },
   {
+    "name": "Virtua Fighter Animation",
+    "id": "sms94",
+    "igdbId": 1548,
+    "gbId": 14669,
+    "gbGuid": "3030-14669",
+    "details": [
+      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Wanted",
-    "id": "sms75",
+    "id": "sms95",
     "igdbId": 75090,
     "gbId": 15956,
     "gbGuid": "3030-15956",
     "tgdbId": 3098,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System Phaser game"
+      "Sega Master System Phaser game",
+      "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter"
     ],
     "isExclusive": [
       {
@@ -2021,6 +2655,18 @@
           "tgdbId": 35
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": [
@@ -2032,8 +2678,62 @@
     ]
   },
   {
+    "name": "Where in the World Is Carmen Sandiego?",
+    "id": "sms96",
+    "igdbId": 251,
+    "gbId": 658,
+    "gbGuid": "3030-658",
+    "details": [
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wonder Boy III: The Dragon's Trap",
+    "id": "sms97",
+    "igdbId": 18277,
+    "gbId": 2192,
+    "gbGuid": "3030-2192",
+    "details": [
+      "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Wonder Boy in Monster Land",
-    "id": "sms76",
+    "id": "sms98",
     "igdbId": 39335,
     "gbId": 6949,
     "gbGuid": "3030-6949",
@@ -2055,8 +2755,35 @@
     ]
   },
   {
+    "name": "Wonder Boy in Monster Land",
+    "id": "sms99",
+    "igdbId": 212868,
+    "gbId": 6949,
+    "gbGuid": "3030-6949",
+    "details": [
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "World Grand Prix",
-    "id": "sms77",
+    "id": "sms100",
     "igdbId": 29132,
     "gbId": 20203,
     "gbGuid": "3030-20203",
@@ -2080,7 +2807,7 @@
   },
   {
     "name": "Ys: The Vanished Omens",
-    "id": "sms78",
+    "id": "sms101",
     "igdbId": 206129,
     "gbId": 14318,
     "gbGuid": "3030-14318",
@@ -2107,7 +2834,7 @@
   },
   {
     "name": "Zaxxon 3-D",
-    "id": "sms79",
+    "id": "sms102",
     "igdbId": 46104,
     "gbId": 1728,
     "gbGuid": "3030-1728",
@@ -2134,7 +2861,7 @@
   },
   {
     "name": "Zillion",
-    "id": "sms80",
+    "id": "sms103",
     "igdbId": 18141,
     "gbId": 8152,
     "gbGuid": "3030-8152",
@@ -2158,7 +2885,7 @@
   },
   {
     "name": "Zillion II: The Tri Formation",
-    "id": "sms81",
+    "id": "sms104",
     "igdbId": 46114,
     "gbId": 19742,
     "gbGuid": "3030-19742",

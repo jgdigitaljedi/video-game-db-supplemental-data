@@ -1726,7 +1726,7 @@
     "complete": true
   },
   {
-    "title": "Microsoft Xbox games with non-raomable saves",
+    "title": "Microsoft Xbox games with non-roamable saves",
     "filePath": "../textFilesToBeConverted/special/xboxGamesWithNonRoamableSaves.json",
     "type": "Game",
     "complete": true
@@ -1734,6 +1734,12 @@
   {
     "title": "Master System games with save battery",
     "filePath": "../textFilesToBeConverted/special/masterSystemGamesWithSaveBatteries.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Master System games with hardware incompatibilities",
+    "filePath": "../textFilesToBeConverted/special/masterSystemGamesIncompatibilities.json",
     "type": "Game",
     "complete": true
   }
