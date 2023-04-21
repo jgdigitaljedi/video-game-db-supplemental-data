@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const glob = require('glob');
+const { default: chalk } = require('chalk');
 const parensRemove = require('stringman-utils').parensRemove;
 const parensRetrieve = require('stringman-utils').parensRetrieve;
 
@@ -8,6 +9,7 @@ module.exports.writeFile = function(filePath, data) {
   return new Promise((resolve, reject) => {
     fs.writeFile(path.join(__dirname, filePath), JSON.stringify(data, null, 2), error => {
       if (error) {
+        console.log(chalk.red.bold('Write file error', error));
         reject(false);
       } else {
         resolve(true);

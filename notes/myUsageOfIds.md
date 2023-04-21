@@ -171,6 +171,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - wsctmX - Bandai Wonderswan Color tate mode games (wonderswanColorTateModeGames.json) | GAMES LIST
 - wstmX - Bandai Wonderswan tate mode games (wonderswanTateModeGames.json) | GAMES LIST
 - x360tmX - Microsoft Xbox 360 games with tate mode support (microsoftXbox360TateModeGames.json) | GAMES LIST
+- xbadmmX - Microsoft Xbox games with alternate display modes (microsoftXboxGamesWithAltDisplayModes.json) | GAMES LIST
 - xbonetmX - Microsoft Xbox One games with tate mode support (microsoftXboxOneTateModeGames.json) | GAMES LIST
 - xbtmX - Microsoft Xbox games with tate mode support (microsoftXboxTateModeGames.json) | GAMES LIST
 
