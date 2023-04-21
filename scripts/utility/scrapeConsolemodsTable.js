@@ -3,8 +3,8 @@ const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
 
-const siteUrl = 'https://consolemods.org/wiki/Xbox:Games_with_Alternate_Display_Modes';
-const filePath = '../../textFilesToBeConverted/special/microsoftXboxGamesWithAltDisplayModes.json';
+const siteUrl = 'https://consolemods.org/wiki/Master_System:Game_Incompatibilites';
+const filePath = '../../textFilesToBeConverted/special/masterSystemPalGamesWithProblemsOnNtsc.json';
 
 function makeRequest(url) {
   return new Promise((resolve, reject) => {
@@ -40,38 +40,25 @@ function getDisplayModes(ws, p480, p720, i1080) {
     .then(html => {
       try {
         const $ = cheerio.load(html);
-        const rows = Array.from($('table.colortable > tbody > tr'));
+        const rows = Array.from($('table.wikitable > tbody > tr'));
         const data = rows
           .map((row, index) => {
             const cells = Array.from($(row).find('td'));
             const name = $(cells[0])
               .text()
               .trim();
-            const widescreen = $(cells[1])
+            const issue = $(cells[1])
               .first('a')
               .text()
               .trim();
-            const prog480 = $(cells[2])
+            const severity = $(cells[2])
               .first('a')
               .text()
               .trim();
-            const prog720 = $(cells[3])
-              .first('a')
-              .text()
-              .trim();
-            const int1080 = $(cells[4])
-              .first('a')
-              .text()
-              .trim();
-            const details = `Microsoft Xbox game has alternate display mode(s): ${getDisplayModes(
-              widescreen,
-              prog480,
-              prog720,
-              int1080
-            )}`;
+            const details = `Sega Master System PAL game has issues on NTSC Master System: (${severity}: ${issue})`;
             return {
               name,
-              id: `xbadm${index + 1}`,
+              id: `mspn${index + 1}`,
               details,
               igdbId: null,
               gbId: null,

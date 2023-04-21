@@ -210,13 +210,26 @@
     "gbId": 14356,
     "gbGuid": "3030-14356",
     "details": [
-      "Sega Master System has compatibility issues with: Power Base Converter"
+      "Sega Master System has compatibility issues with: Power Base Converter",
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Minor graphical glitching when in air vents)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Master System has compatibility issues with: Power Base Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      },
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Minor graphical glitching when in air vents)",
         "forPlatform": {
           "name": "Sega Master System",
           "id": "ccl13",
@@ -258,8 +271,35 @@
     "misprintsErrors": []
   },
   {
-    "name": "Arcade Smash Hits",
+    "name": "Andre Agassi Tennis",
     "id": "sms10",
+    "igdbId": 4525,
+    "gbId": 19171,
+    "gbGuid": "3030-19171",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Arcade Smash Hits",
+    "id": "sms11",
     "igdbId": 46151,
     "gbId": 6044,
     "gbGuid": "3030-6044",
@@ -283,7 +323,7 @@
   },
   {
     "name": "Assault City",
-    "id": "sms11",
+    "id": "sms12",
     "igdbId": 46117,
     "gbId": 312,
     "gbGuid": "3030-312",
@@ -334,7 +374,7 @@
   },
   {
     "name": "Asterix",
-    "id": "sms12",
+    "id": "sms13",
     "igdbId": 19486,
     "gbId": 9018,
     "gbGuid": "3030-9018",
@@ -357,7 +397,7 @@
   },
   {
     "name": "Astro Warrior",
-    "id": "sms13",
+    "id": "sms14",
     "igdbId": 37176,
     "gbId": 14539,
     "gbGuid": "3030-14539",
@@ -381,7 +421,7 @@
   },
   {
     "name": "Aztec Adventure",
-    "id": "sms14",
+    "id": "sms15",
     "igdbId": 45668,
     "gbId": 6159,
     "gbGuid": "3030-6159",
@@ -418,8 +458,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Back to the Future Part III",
+    "id": "sms16",
+    "igdbId": 8519,
+    "gbId": 12919,
+    "gbGuid": "3030-12919",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Displays a yellow screen, does not boot)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Displays a yellow screen, does not boot)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Basketball Nightmare",
-    "id": "sms15",
+    "id": "sms17",
     "igdbId": 45667,
     "gbId": 40805,
     "gbGuid": "3030-40805",
@@ -443,7 +510,7 @@
   },
   {
     "name": "Battle OutRun",
-    "id": "sms16",
+    "id": "sms18",
     "igdbId": 2056,
     "gbId": 407,
     "gbGuid": "3030-407",
@@ -466,8 +533,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Battletoads In Battlemaniacs",
+    "id": "sms19",
+    "igdbId": 18577,
+    "gbId": 19860,
+    "gbGuid": "3030-19860",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Minor graphical glitching at top of screen)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Minor graphical glitching at top of screen)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Black Belt",
-    "id": "sms17",
+    "id": "sms20",
     "igdbId": 29134,
     "gbId": 16176,
     "gbGuid": "3030-16176",
@@ -485,7 +579,7 @@
   },
   {
     "name": "Blade Eagle 3-D",
-    "id": "sms18",
+    "id": "sms21",
     "igdbId": 45663,
     "gbId": 18151,
     "gbGuid": "3030-18151",
@@ -523,7 +617,7 @@
   },
   {
     "name": "Bomber Raid",
-    "id": "sms19",
+    "id": "sms22",
     "igdbId": 45662,
     "gbId": 6869,
     "gbGuid": "3030-6869",
@@ -560,8 +654,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Bram Stoker's Dracula",
+    "id": "sms23",
+    "igdbId": 14340,
+    "gbId": 1792,
+    "gbGuid": "3030-1792",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast, occasional glitched graphics)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast, occasional glitched graphics)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Buggy Run",
-    "id": "sms20",
+    "id": "sms24",
     "igdbId": 45657,
     "gbId": null,
     "gbGuid": null,
@@ -584,8 +705,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "California Games II",
+    "id": "sms25",
+    "igdbId": 11985,
+    "gbId": 11315,
+    "gbGuid": "3030-11315",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Boots to a black screen)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Boots to a black screen)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Casino Games",
-    "id": "sms21",
+    "id": "sms26",
     "igdbId": 45656,
     "gbId": 32028,
     "gbGuid": "3030-32028",
@@ -609,7 +757,7 @@
   },
   {
     "name": "Champions of Europe",
-    "id": "sms22",
+    "id": "sms27",
     "igdbId": 45655,
     "gbId": 73315,
     "gbGuid": "3030-73315",
@@ -632,8 +780,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Chase H.Q.",
+    "id": "sms28",
+    "igdbId": 6802,
+    "gbId": 13281,
+    "gbGuid": "3030-13281",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Severe: Plays too fast, glitched road graphics on turns)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Severe: Plays too fast, glitched road graphics on turns)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Cloud Master (PAL)",
-    "id": "sms23",
+    "id": "sms29",
     "igdbId": 45654,
     "gbId": 11352,
     "gbGuid": "3030-11352",
@@ -651,12 +826,13 @@
   },
   {
     "name": "Cosmic Spacehead",
-    "id": "sms24",
+    "id": "sms30",
     "igdbId": 12013,
     "gbId": 4664,
     "gbGuid": "3030-4664",
     "details": [
-      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3"
+      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3",
+      "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Game just displays garbled screens after Codemasters logo)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -672,13 +848,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Game just displays garbled screens after Codemasters logo)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Cyborg Hunter",
-    "id": "sms25",
+    "id": "sms31",
     "igdbId": 45653,
     "gbId": 20088,
     "gbGuid": "3030-20088",
@@ -702,7 +890,7 @@
   },
   {
     "name": "Danan: The Jungle Fighter",
-    "id": "sms26",
+    "id": "sms32",
     "igdbId": 45664,
     "gbId": 3139,
     "gbGuid": "3030-3139",
@@ -725,8 +913,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Desert Strike: Return to the Gulf",
+    "id": "sms33",
+    "igdbId": 19852,
+    "gbId": 1,
+    "gbGuid": "3030-1",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Severe: Plays too fast, major graphical glitching)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Severe: Plays too fast, major graphical glitching)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Double Hawk",
-    "id": "sms27",
+    "id": "sms34",
     "igdbId": 45659,
     "gbId": 15311,
     "gbGuid": "3030-15311",
@@ -750,7 +965,7 @@
   },
   {
     "name": "F-16 Fighting Falcon",
-    "id": "sms28",
+    "id": "sms35",
     "igdbId": 36679,
     "gbId": 11146,
     "gbGuid": "3030-11146",
@@ -777,12 +992,13 @@
   },
   {
     "name": "Fantastic Dizzy",
-    "id": "sms29",
+    "id": "sms36",
     "igdbId": 12089,
     "gbId": null,
     "gbGuid": null,
     "details": [
-      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3"
+      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3",
+      "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Boots to a scrambled Codemasters logo then a black screen followed by a blue screen, crashes after a minute)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -798,13 +1014,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Boots to a scrambled Codemasters logo then a black screen followed by a blue screen, crashes after a minute)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Fushigi no Oshiro Pit Pot",
-    "id": "sms30",
+    "id": "sms37",
     "igdbId": 36678,
     "gbId": 18268,
     "gbGuid": "3030-18268",
@@ -828,7 +1056,7 @@
   },
   {
     "name": "GP Rider",
-    "id": "sms31",
+    "id": "sms38",
     "igdbId": 39904,
     "gbId": 30727,
     "gbGuid": "3030-30727",
@@ -855,7 +1083,7 @@
   },
   {
     "name": "Gangster Town",
-    "id": "sms32",
+    "id": "sms39",
     "igdbId": 45650,
     "gbId": 20354,
     "gbGuid": "3030-20354",
@@ -882,7 +1110,7 @@
   },
   {
     "name": "Ghost House",
-    "id": "sms33",
+    "id": "sms40",
     "igdbId": 45649,
     "gbId": 9862,
     "gbGuid": "3030-9862",
@@ -905,8 +1133,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Global Gladiators",
+    "id": "sms41",
+    "igdbId": 6828,
+    "gbId": 3421,
+    "gbGuid": "3030-3421",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Minor graphical glitching at the bottom of the screen)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Minor graphical glitching at the bottom of the screen)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Golden Axe Warrior",
-    "id": "sms34",
+    "id": "sms42",
     "igdbId": 46147,
     "gbId": 10657,
     "gbGuid": "3030-10657",
@@ -933,7 +1188,7 @@
   },
   {
     "name": "Golfamania",
-    "id": "sms35",
+    "id": "sms43",
     "igdbId": 45673,
     "gbId": null,
     "gbGuid": null,
@@ -984,7 +1239,7 @@
   },
   {
     "name": "Golvellius: Valley of Doom",
-    "id": "sms36",
+    "id": "sms44",
     "igdbId": 46146,
     "gbId": 8536,
     "gbGuid": "3030-8536",
@@ -1011,7 +1266,7 @@
   },
   {
     "name": "Great Baseball",
-    "id": "sms37",
+    "id": "sms45",
     "igdbId": 46145,
     "gbId": 12789,
     "gbGuid": "3030-12789",
@@ -1035,7 +1290,7 @@
   },
   {
     "name": "Great Football",
-    "id": "sms38",
+    "id": "sms46",
     "igdbId": 46144,
     "gbId": 14056,
     "gbGuid": "3030-14056",
@@ -1053,7 +1308,7 @@
   },
   {
     "name": "Great Ice Hockey",
-    "id": "sms39",
+    "id": "sms47",
     "igdbId": 46142,
     "gbId": 37110,
     "gbGuid": "3030-37110",
@@ -1077,7 +1332,7 @@
   },
   {
     "name": "Great Volleyball",
-    "id": "sms40",
+    "id": "sms48",
     "igdbId": 46150,
     "gbId": 19590,
     "gbGuid": "3030-19590",
@@ -1104,7 +1359,7 @@
   },
   {
     "name": "Hang On/Astro Warrio",
-    "id": "sms41",
+    "id": "sms49",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1122,7 +1377,7 @@
   },
   {
     "name": "Hang on/Safari Hunt",
-    "id": "sms42",
+    "id": "sms50",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1140,7 +1395,7 @@
   },
   {
     "name": "Hang-On",
-    "id": "sms43",
+    "id": "sms51",
     "igdbId": 6110,
     "gbId": 11570,
     "gbGuid": "3030-11570",
@@ -1167,7 +1422,7 @@
   },
   {
     "name": "Hang-On & Safari Hunt",
-    "id": "sms44",
+    "id": "sms52",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1190,8 +1445,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Home Alone",
+    "id": "sms53",
+    "igdbId": 78599,
+    "gbId": 50880,
+    "gbGuid": "3030-50880",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Plays too fast, major graphical glitching, Kevin can fall through the floor, Harry and Marv sometimes stop moving)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Plays too fast, major graphical glitching, Kevin can fall through the floor, Harry and Marv sometimes stop moving)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Hoshi wo Sagashite...",
-    "id": "sms45",
+    "id": "sms54",
     "igdbId": 46149,
     "gbId": 17444,
     "gbGuid": "3030-17444",
@@ -1215,7 +1497,7 @@
   },
   {
     "name": "Kenseiden",
-    "id": "sms46",
+    "id": "sms55",
     "igdbId": 65579,
     "gbId": 20283,
     "gbGuid": "3030-20283",
@@ -1239,7 +1521,7 @@
   },
   {
     "name": "Kung Fu Kid",
-    "id": "sms47",
+    "id": "sms56",
     "igdbId": 36898,
     "gbId": 12779,
     "gbGuid": "3030-12779",
@@ -1263,7 +1545,7 @@
   },
   {
     "name": "Laser Ghost",
-    "id": "sms48",
+    "id": "sms57",
     "igdbId": 36901,
     "gbId": 14213,
     "gbGuid": "3030-14213",
@@ -1290,7 +1572,7 @@
   },
   {
     "name": "Line of Fire",
-    "id": "sms49",
+    "id": "sms58",
     "igdbId": 19487,
     "gbId": 3688,
     "gbGuid": "3030-3688",
@@ -1317,7 +1599,7 @@
   },
   {
     "name": "Lord of the Sword",
-    "id": "sms50",
+    "id": "sms59",
     "igdbId": 46671,
     "gbId": 10880,
     "gbGuid": "3030-10880",
@@ -1341,7 +1623,7 @@
   },
   {
     "name": "Marksman Shooting & Trap Shooting",
-    "id": "sms51",
+    "id": "sms60",
     "igdbId": 78779,
     "gbId": 4368,
     "gbGuid": "3030-4368",
@@ -1379,7 +1661,7 @@
   },
   {
     "name": "Maze Hunter 3-D",
-    "id": "sms52",
+    "id": "sms61",
     "igdbId": 45674,
     "gbId": 11858,
     "gbGuid": "3030-11858",
@@ -1406,12 +1688,13 @@
   },
   {
     "name": "Micro Machines",
-    "id": "sms53",
+    "id": "sms62",
     "igdbId": 2703,
     "gbId": 2140,
     "gbGuid": "3030-2140",
     "details": [
-      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3"
+      "Sega Master System has compatibility issues with: SMS Model 1 BIOS Version 1.3",
+      "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Just displays a purple screen after the Codemasters logo)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1427,13 +1710,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Just displays a purple screen after the Codemasters logo)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Miracle Warriors: Seal of the Dark Lord",
-    "id": "sms54",
+    "id": "sms63",
     "igdbId": 47526,
     "gbId": 14722,
     "gbGuid": "3030-14722",
@@ -1460,7 +1755,7 @@
   },
   {
     "name": "Missile Defense 3-D",
-    "id": "sms55",
+    "id": "sms64",
     "igdbId": 45672,
     "gbId": 19870,
     "gbGuid": "3030-19870",
@@ -1513,7 +1808,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "sms56",
+    "id": "sms65",
     "igdbId": 122241,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -1537,7 +1832,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "sms57",
+    "id": "sms66",
     "igdbId": 131548,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -1570,7 +1865,7 @@
   },
   {
     "name": "Montezuma's Revenge",
-    "id": "sms58",
+    "id": "sms67",
     "igdbId": 12297,
     "gbId": 4619,
     "gbGuid": "3030-4619",
@@ -1596,8 +1891,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "NBA Jam",
+    "id": "sms68",
+    "igdbId": 198835,
+    "gbId": 16928,
+    "gbGuid": "3030-16928",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Plays too fast, graphical glitching)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Plays too fast, graphical glitching)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ninja Gaiden",
-    "id": "sms59",
+    "id": "sms69",
     "igdbId": 7558,
     "gbId": 1653,
     "gbGuid": "3030-1653",
@@ -1621,12 +1943,13 @@
   },
   {
     "name": "Operation Wolf",
-    "id": "sms60",
+    "id": "sms70",
     "igdbId": 12190,
     "gbId": 14869,
     "gbGuid": "3030-14869",
     "details": [
-      "Sega Master System Phaser game"
+      "Sega Master System Phaser game",
+      "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Cannot shoot at enemies)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1642,13 +1965,25 @@
           "tgdbId": 35
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Unplayable: Cannot shoot at enemies)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "OutRun 3-D",
-    "id": "sms61",
+    "id": "sms71",
     "igdbId": 46136,
     "gbId": null,
     "gbGuid": null,
@@ -1686,7 +2021,7 @@
   },
   {
     "name": "Parlour Games",
-    "id": "sms62",
+    "id": "sms72",
     "igdbId": 46135,
     "gbId": 18521,
     "gbGuid": "3030-18521",
@@ -1713,7 +2048,7 @@
   },
   {
     "name": "Penguin Land",
-    "id": "sms63",
+    "id": "sms73",
     "igdbId": 49152,
     "gbId": 15446,
     "gbGuid": "3030-15446",
@@ -1764,7 +2099,7 @@
   },
   {
     "name": "Phantasy Star",
-    "id": "sms64",
+    "id": "sms74",
     "igdbId": 1233,
     "gbId": 7400,
     "gbGuid": "3030-7400",
@@ -1791,7 +2126,7 @@
   },
   {
     "name": "Poseidon Wars 3-D",
-    "id": "sms65",
+    "id": "sms75",
     "igdbId": 46134,
     "gbId": 20312,
     "gbGuid": "3030-20312",
@@ -1829,7 +2164,7 @@
   },
   {
     "name": "Power Strike",
-    "id": "sms66",
+    "id": "sms76",
     "igdbId": 46132,
     "gbId": 3130,
     "gbGuid": "3030-3130",
@@ -1852,8 +2187,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Power Strike II",
+    "id": "sms77",
+    "igdbId": 46337,
+    "gbId": 14734,
+    "gbGuid": "3030-14734",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast[1])"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast[1])",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Predator 2",
+    "id": "sms78",
+    "igdbId": 19693,
+    "gbId": 10343,
+    "gbGuid": "3030-10343",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Plays too fast, graphical glitching when scrolling)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Plays too fast, graphical glitching when scrolling)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Pro Wrestling",
-    "id": "sms67",
+    "id": "sms79",
     "igdbId": 18143,
     "gbId": 4962,
     "gbGuid": "3030-4962",
@@ -1877,7 +2266,7 @@
   },
   {
     "name": "Psycho Fox",
-    "id": "sms68",
+    "id": "sms80",
     "igdbId": 46131,
     "gbId": 18090,
     "gbGuid": "3030-18090",
@@ -1907,7 +2296,7 @@
   },
   {
     "name": "R.C. Grand Prix",
-    "id": "sms69",
+    "id": "sms81",
     "igdbId": 46336,
     "gbId": 6208,
     "gbGuid": "3030-6208",
@@ -1931,7 +2320,7 @@
   },
   {
     "name": "Rambo III",
-    "id": "sms70",
+    "id": "sms82",
     "igdbId": 18145,
     "gbId": 1172,
     "gbGuid": "3030-1172",
@@ -1969,7 +2358,7 @@
   },
   {
     "name": "Rescue Mission",
-    "id": "sms71",
+    "id": "sms83",
     "igdbId": 18140,
     "gbId": 4358,
     "gbGuid": "3030-4358",
@@ -2008,8 +2397,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "RoboCop 3",
+    "id": "sms84",
+    "igdbId": 19695,
+    "gbId": 3173,
+    "gbGuid": "3030-3173",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Plays too fast)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Plays too fast)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "RoboCop Versus the Terminator",
+    "id": "sms85",
+    "igdbId": 228782,
+    "gbId": 12494,
+    "gbGuid": "3030-12494",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Rocky",
-    "id": "sms72",
+    "id": "sms86",
     "igdbId": 37175,
     "gbId": 26048,
     "gbGuid": "3030-26048",
@@ -2033,7 +2476,7 @@
   },
   {
     "name": "Running Battle",
-    "id": "sms73",
+    "id": "sms87",
     "igdbId": 19511,
     "gbId": 45429,
     "gbGuid": "3030-45429",
@@ -2057,7 +2500,7 @@
   },
   {
     "name": "Safari Hunt",
-    "id": "sms74",
+    "id": "sms88",
     "igdbId": 94935,
     "gbId": 13798,
     "gbGuid": "3030-13798",
@@ -2084,7 +2527,7 @@
   },
   {
     "name": "Sega World Tournament Golf",
-    "id": "sms75",
+    "id": "sms89",
     "igdbId": 46128,
     "gbId": null,
     "gbGuid": null,
@@ -2107,8 +2550,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Sensible Soccer: European Champions",
+    "id": "sms90",
+    "igdbId": 80677,
+    "gbId": 13969,
+    "gbGuid": "3030-13969",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shadow of the Beast",
+    "id": "sms91",
+    "igdbId": 5434,
+    "gbId": 7681,
+    "gbGuid": "3030-7681",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Plays too fast)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Plays too fast)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Shanghai",
-    "id": "sms76",
+    "id": "sms92",
     "igdbId": 12765,
     "gbId": 1655,
     "gbGuid": "3030-1655",
@@ -2135,7 +2632,7 @@
   },
   {
     "name": "Shinobi",
-    "id": "sms77",
+    "id": "sms93",
     "igdbId": 6899,
     "gbId": 3482,
     "gbGuid": "3030-3482",
@@ -2162,7 +2659,7 @@
   },
   {
     "name": "Shooting Gallery",
-    "id": "sms78",
+    "id": "sms94",
     "igdbId": 79985,
     "gbId": 39454,
     "gbGuid": "3030-39454",
@@ -2189,7 +2686,7 @@
   },
   {
     "name": "Sitio do Picapau Amarelo",
-    "id": "sms79",
+    "id": "sms95",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2213,7 +2710,7 @@
   },
   {
     "name": "Slap Shot",
-    "id": "sms80",
+    "id": "sms96",
     "igdbId": 81281,
     "gbId": 40439,
     "gbGuid": "3030-40439",
@@ -2237,7 +2734,7 @@
   },
   {
     "name": "Snail Maze",
-    "id": "sms81",
+    "id": "sms97",
     "igdbId": 46118,
     "gbId": 21555,
     "gbGuid": "3030-21555",
@@ -2274,8 +2771,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Sonic Blast",
+    "id": "sms98",
+    "igdbId": 19538,
+    "gbId": 18676,
+    "gbGuid": "3030-18676",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Occasional glitched graphics, likely due to it being a Game Gear conversion)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Occasional glitched graphics, likely due to it being a Game Gear conversion)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sonic the Hedgehog",
-    "id": "sms82",
+    "id": "sms99",
     "igdbId": 106274,
     "gbId": 2465,
     "gbGuid": "3030-2465",
@@ -2301,8 +2825,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Sonic the Hedgehog 2",
+    "id": "sms100",
+    "igdbId": 112884,
+    "gbId": 1662,
+    "gbGuid": "3030-1662",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Occasional glitched graphics)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Occasional glitched graphics)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Space Gun",
-    "id": "sms83",
+    "id": "sms101",
     "igdbId": 12856,
     "gbId": 15378,
     "gbGuid": "3030-15378",
@@ -2328,8 +2879,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Space Harrier",
+    "id": "sms102",
+    "igdbId": 12857,
+    "gbId": 6036,
+    "gbGuid": "3030-6036",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Space Harrier's legs are glitched, flickering transparencies on large sprites)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Space Harrier's legs are glitched, flickering transparencies on large sprites)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Space Harrier 3-D",
-    "id": "sms84",
+    "id": "sms103",
     "igdbId": 46126,
     "gbId": 10291,
     "gbGuid": "3030-10291",
@@ -2367,7 +2945,7 @@
   },
   {
     "name": "SpellCaster",
-    "id": "sms85",
+    "id": "sms104",
     "igdbId": 46124,
     "gbId": 10557,
     "gbGuid": "3030-10557",
@@ -2391,7 +2969,7 @@
   },
   {
     "name": "Street Fighter II",
-    "id": "sms86",
+    "id": "sms105",
     "igdbId": 231006,
     "gbId": 1096,
     "gbGuid": "3030-1096",
@@ -2417,8 +2995,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Smash T.V.",
+    "id": "sms106",
+    "igdbId": 218747,
+    "gbId": 16194,
+    "gbGuid": "3030-16194",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Plays too fast)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Plays too fast)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Taz-Mania",
-    "id": "sms87",
+    "id": "sms107",
     "igdbId": 8066,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -2442,7 +3047,7 @@
   },
   {
     "name": "Tecmo World Cup '93",
-    "id": "sms88",
+    "id": "sms108",
     "igdbId": 46101,
     "gbId": 23136,
     "gbGuid": "3030-23136",
@@ -2466,7 +3071,7 @@
   },
   {
     "name": "Tennis Ace",
-    "id": "sms89",
+    "id": "sms109",
     "igdbId": 46111,
     "gbId": 19900,
     "gbGuid": "3030-19900",
@@ -2492,8 +3097,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "The Addams Family",
+    "id": "sms110",
+    "igdbId": 14207,
+    "gbId": 2865,
+    "gbGuid": "3030-2865",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Graphical glitching at top of screen)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Moderate: Graphical glitching at top of screen)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Cyber Shinobi",
-    "id": "sms90",
+    "id": "sms111",
     "igdbId": 10218,
     "gbId": null,
     "gbGuid": null,
@@ -2517,7 +3149,7 @@
   },
   {
     "name": "The Incredible Hulk",
-    "id": "sms91",
+    "id": "sms112",
     "igdbId": 94829,
     "gbId": 10622,
     "gbGuid": "3030-10622",
@@ -2543,8 +3175,143 @@
     "misprintsErrors": []
   },
   {
+    "name": "The NewZealand Story",
+    "id": "sms113",
+    "igdbId": 7628,
+    "gbId": 20020,
+    "gbGuid": "3030-20020",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Severe: Plays too fast, severe graphical glitching and flickering sprites)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Severe: Plays too fast, severe graphical glitching and flickering sprites)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Ottifants",
+    "id": "sms114",
+    "igdbId": 46355,
+    "gbId": 29290,
+    "gbGuid": "3030-29290",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Simpsons: Bart vs. The Space Mutants",
+    "id": "sms115",
+    "igdbId": 2827,
+    "gbId": 16832,
+    "gbGuid": "3030-16832",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast, Bart's legs are glitched)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast, Bart's legs are glitched)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Simpsons: Bart vs. the World",
+    "id": "sms116",
+    "igdbId": 2830,
+    "gbId": 11108,
+    "gbGuid": "3030-11108",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Terminator",
+    "id": "sms117",
+    "igdbId": 4372,
+    "gbId": 10713,
+    "gbGuid": "3030-10713",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "TransBot",
-    "id": "sms92",
+    "id": "sms118",
     "igdbId": 29136,
     "gbId": 15686,
     "gbGuid": "3030-15686",
@@ -2568,7 +3335,7 @@
   },
   {
     "name": "Ultima IV: Quest of the Avatar",
-    "id": "sms93",
+    "id": "sms119",
     "igdbId": 2878,
     "gbId": 14381,
     "gbGuid": "3030-14381",
@@ -2595,7 +3362,7 @@
   },
   {
     "name": "Virtua Fighter Animation",
-    "id": "sms94",
+    "id": "sms120",
     "igdbId": 1548,
     "gbId": 14669,
     "gbGuid": "3030-14669",
@@ -2621,8 +3388,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Walt Disney's The Jungle Book",
+    "id": "sms121",
+    "igdbId": 123599,
+    "gbId": 19067,
+    "gbGuid": "3030-19067",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast, minor graphical glitching)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast, minor graphical glitching)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Wanted",
-    "id": "sms95",
+    "id": "sms122",
     "igdbId": 75090,
     "gbId": 15956,
     "gbGuid": "3030-15956",
@@ -2679,7 +3473,7 @@
   },
   {
     "name": "Where in the World Is Carmen Sandiego?",
-    "id": "sms96",
+    "id": "sms123",
     "igdbId": 251,
     "gbId": 658,
     "gbGuid": "3030-658",
@@ -2705,8 +3499,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Winter Olympics: Lillehammer '94",
+    "id": "sms124",
+    "igdbId": 4507,
+    "gbId": 8749,
+    "gbGuid": "3030-8749",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast, minor graphical glitching)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast, minor graphical glitching)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Wonder Boy III: The Dragon's Trap",
-    "id": "sms97",
+    "id": "sms125",
     "igdbId": 18277,
     "gbId": 2192,
     "gbGuid": "3030-2192",
@@ -2733,7 +3554,7 @@
   },
   {
     "name": "Wonder Boy in Monster Land",
-    "id": "sms98",
+    "id": "sms126",
     "igdbId": 39335,
     "gbId": 6949,
     "gbGuid": "3030-6949",
@@ -2756,7 +3577,7 @@
   },
   {
     "name": "Wonder Boy in Monster Land",
-    "id": "sms99",
+    "id": "sms127",
     "igdbId": 212868,
     "gbId": 6949,
     "gbGuid": "3030-6949",
@@ -2782,8 +3603,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "World Cup USA '94",
+    "id": "sms128",
+    "igdbId": 5464,
+    "gbId": 5498,
+    "gbGuid": "3030-5498",
+    "details": [
+      "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System PAL game has issues on NTSC Master System: (Minor: Plays too fast)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "World Grand Prix",
-    "id": "sms100",
+    "id": "sms129",
     "igdbId": 29132,
     "gbId": 20203,
     "gbGuid": "3030-20203",
@@ -2807,7 +3655,7 @@
   },
   {
     "name": "Ys: The Vanished Omens",
-    "id": "sms101",
+    "id": "sms130",
     "igdbId": 206129,
     "gbId": 14318,
     "gbGuid": "3030-14318",
@@ -2834,7 +3682,7 @@
   },
   {
     "name": "Zaxxon 3-D",
-    "id": "sms102",
+    "id": "sms131",
     "igdbId": 46104,
     "gbId": 1728,
     "gbGuid": "3030-1728",
@@ -2861,7 +3709,7 @@
   },
   {
     "name": "Zillion",
-    "id": "sms103",
+    "id": "sms132",
     "igdbId": 18141,
     "gbId": 8152,
     "gbGuid": "3030-8152",
@@ -2885,7 +3733,7 @@
   },
   {
     "name": "Zillion II: The Tri Formation",
-    "id": "sms104",
+    "id": "sms133",
     "igdbId": 46114,
     "gbId": 19742,
     "gbGuid": "3030-19742",

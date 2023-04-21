@@ -1742,5 +1742,11 @@
     "filePath": "../textFilesToBeConverted/special/masterSystemGamesIncompatibilities.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "Master System PAL games with issues on NTSC MS",
+    "filePath": "../textFilesToBeConverted/special/masterSystemPalGamesWithProblemsOnNtsc.json",
+    "type": "Game",
+    "complete": true
   }
 ]
