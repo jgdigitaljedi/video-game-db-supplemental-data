@@ -151,6 +151,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - sg6bhX - Sega Genesis 6 button hidden functionality (segaGenesis6ButtonHidden.json) | GAMES LIST
 - sg6bpX - Sega Genesis 6 button problem games (segaGenesis6ButtonProblems.json) | GAMES LIST
 - sg6pmX - Sega Genesis 6 button MODE button extra functionality (segaGenesis6ButtonMode.json) | GAMES LIST
+- sgsbX - Sega Genesis games with save battery (genesisGamesWithSaveBattery.json) | GAMES LIST
 - sgsmX - Sega Genesis Menacer games (segaMenacerGenesisGames.json) | GAMES LIST
 - sms3dX - Sega Master System 3D games (segaMasterSystem3dGames.json) | GAMES LIST
 - smspX - Sega Master System Phaser games (segaMasterSystemPhaserGames.json) | GAMES LIST

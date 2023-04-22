@@ -23,8 +23,8 @@ const _uniq = require('lodash/uniq');
  */
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/masterSystemGamesIncompatibilities.json';
-const idPrefix = 'msgi';
+const relativePath = '../../textFilesToBeConverted/special/genesisGamesWithSaveBattery.json';
+const idPrefix = 'sgsb';
 const parensToDetails = false;
 const category = 'other';
 
@@ -34,7 +34,7 @@ const category = 'other';
   const fixed = _uniq(parsed.sort());
   const newData = fileUtil.stringArrToObjectArr(
     fixed,
-    'Sega Master System has compatibility issues with: ',
+    'Sega Genesis game has save battery',
     idPrefix,
     parensToDetails,
     category

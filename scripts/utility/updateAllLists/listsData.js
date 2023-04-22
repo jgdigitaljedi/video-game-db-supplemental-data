@@ -283,7 +283,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'special/segaGenesis6ButtonGames.json')),
       require(path.resolve(smallFiles, 'special/segaGenesis6ButtonProblems.json')),
       require(path.resolve(smallFiles, 'special/segaGenesis6ButtonMode.json')),
-      require(path.resolve(smallFiles, 'special/segaGenesis6ButtonHidden.json'))
+      require(path.resolve(smallFiles, 'special/segaGenesis6ButtonHidden.json')),
+      require(path.resolve(smallFiles, 'special/genesisGamesWithSaveBattery.json'))
     ],
     output: path.resolve(consoleLists, 'SegaGenesis.json')
   },
