@@ -141,6 +141,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - s326bX - Sega 32X 6 button games (sega32x6ButtonGames.json) | GAMES LIST
 - s326bhX - Sega 32X 6 button hidden functionality (sega32x6ButtonHidden.json) | GAMES LIST
 - s326pmX - Sega 32X 6 button MODE button extra functionality (sega32x6ButtonMode.json) | GAMES LIST
+- s32sbX - Sega 32X games with save battery (sega32xGamesWithSaveBattery.json) | GAMES LIST
 - scdmX - Sega CD Menacer games (segaCDMenacerGames.json) | GAMES LIST
 - scd6bX - Sega CD 6 button compatible games (segaCd6ButtonGames.json) | GAMES LIST
 - scd6bmX - Sega CD 6 button MODE extra functionality (segaCd6ButuonMode.json) | GAMES LIST

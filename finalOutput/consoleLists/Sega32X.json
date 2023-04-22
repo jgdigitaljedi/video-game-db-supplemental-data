@@ -187,7 +187,8 @@
     "details": [
       "Sega 32x exclusive",
       "Sega 32X Team Player compatible title",
-      "Sega 32X 6 button compatible game"
+      "Sega 32X 6 button compatible game",
+      "Sega 32X game has save battery"
     ],
     "isExclusive": [
       {
@@ -224,6 +225,18 @@
           "tgdbId": 33
         },
         "category": "controller"
+      },
+      {
+        "value": "Sega 32X game has save battery",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -237,7 +250,8 @@
     "tgdbId": 2290,
     "details": [
       "Sega 32x exclusive",
-      "Sega 32X 6 button controller hidden functionality (Extra sound test controls)"
+      "Sega 32X 6 button controller hidden functionality (Extra sound test controls)",
+      "Sega 32X game has save battery"
     ],
     "isExclusive": [
       {
@@ -262,6 +276,18 @@
           "tgdbId": 33
         },
         "category": "controller"
+      },
+      {
+        "value": "Sega 32X game has save battery",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -399,7 +425,8 @@
     "gbId": 14792,
     "gbGuid": "3030-14792",
     "details": [
-      "Sega 32X Team Player compatible title"
+      "Sega 32X Team Player compatible title",
+      "Sega 32X game has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -415,6 +442,18 @@
           "tgdbId": 33
         },
         "category": "multiplayer"
+      },
+      {
+        "value": "Sega 32X game has save battery",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -426,7 +465,8 @@
     "gbId": 22136,
     "gbGuid": "3030-22136",
     "details": [
-      "Sega 32X Team Player compatible title"
+      "Sega 32X Team Player compatible title",
+      "Sega 32X game has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -442,13 +482,52 @@
           "tgdbId": 33
         },
         "category": "multiplayer"
+      },
+      {
+        "value": "Sega 32X game has save battery",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Night Trap",
+    "id": "s32x13",
+    "igdbId": 2486,
+    "gbId": 18648,
+    "gbGuid": "3030-18648",
+    "details": [
+      "Sega 32X game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega 32X game has save battery",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Pitfall: The Mayan Adventure",
-    "id": "s32x13",
+    "id": "s32x14",
     "igdbId": 5410,
     "gbId": 9331,
     "gbGuid": "3030-9331",
@@ -475,7 +554,7 @@
   },
   {
     "name": "Primal Rage",
-    "id": "s32x14",
+    "id": "s32x15",
     "igdbId": 4271,
     "gbId": 14078,
     "gbGuid": "3030-14078",
@@ -502,7 +581,7 @@
   },
   {
     "name": "RBI Baseball '95",
-    "id": "s32x15",
+    "id": "s32x16",
     "igdbId": 45876,
     "gbId": null,
     "gbGuid": null,
@@ -526,7 +605,7 @@
   },
   {
     "name": "Romance of the Three Kingdoms IV: Wall of Fire",
-    "id": "s32x16",
+    "id": "s32x17",
     "igdbId": 7040,
     "gbId": 6057,
     "gbGuid": "3030-6057",
@@ -553,7 +632,7 @@
   },
   {
     "name": "Shadow Squadron",
-    "id": "s32x17",
+    "id": "s32x18",
     "igdbId": 19763,
     "gbId": 11386,
     "gbGuid": "3030-11386",
@@ -591,7 +670,7 @@
   },
   {
     "name": "Space Harrier",
-    "id": "s32x18",
+    "id": "s32x19",
     "igdbId": 12857,
     "gbId": 6036,
     "gbGuid": "3030-6036",
@@ -609,7 +688,7 @@
   },
   {
     "name": "Star Wars Arcade",
-    "id": "s32x19",
+    "id": "s32x20",
     "igdbId": 39822,
     "gbId": 10715,
     "gbGuid": "3030-10715",
@@ -671,7 +750,7 @@
   },
   {
     "name": "Tempo",
-    "id": "s32x20",
+    "id": "s32x21",
     "igdbId": 45881,
     "gbId": 3595,
     "gbGuid": "3030-3595",
@@ -695,7 +774,7 @@
   },
   {
     "name": "The Amazing Spider-Man: Web of Fire",
-    "id": "s32x21",
+    "id": "s32x22",
     "igdbId": 45882,
     "gbId": 4219,
     "gbGuid": "3030-4219",
@@ -733,7 +812,7 @@
   },
   {
     "name": "Virtua Fighter",
-    "id": "s32x22",
+    "id": "s32x23",
     "igdbId": 19734,
     "gbId": 15584,
     "gbGuid": "3030-15584",
@@ -760,14 +839,15 @@
   },
   {
     "name": "Virtua Racing Deluxe",
-    "id": "s32x23",
+    "id": "s32x24",
     "igdbId": 45880,
     "gbId": 11455,
     "gbGuid": "3030-11455",
     "tgdbId": 4929,
     "details": [
       "Sega 32X launch title",
-      "Sega 32X 6 button compatible game"
+      "Sega 32X 6 button compatible game",
+      "Sega 32X game has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -792,6 +872,18 @@
           "tgdbId": 33
         },
         "category": "controller"
+      },
+      {
+        "value": "Sega 32X game has save battery",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": [
@@ -809,7 +901,7 @@
   },
   {
     "name": "WWF Raw",
-    "id": "s32x24",
+    "id": "s32x25",
     "igdbId": 19771,
     "gbId": 4155,
     "gbGuid": "3030-4155",
@@ -836,7 +928,7 @@
   },
   {
     "name": "WWF WrestleMania: The Arcade Game",
-    "id": "s32x25",
+    "id": "s32x26",
     "igdbId": 4546,
     "gbId": 8027,
     "gbGuid": "3030-8027",
@@ -863,13 +955,14 @@
   },
   {
     "name": "World Series Baseball Starring Deion Sanders",
-    "id": "s32x26",
+    "id": "s32x27",
     "igdbId": 46428,
     "gbId": 17117,
     "gbGuid": "3030-17117",
     "tgdbId": 20521,
     "details": [
-      "Sega 32x exclusive"
+      "Sega 32x exclusive",
+      "Sega 32X game has save battery"
     ],
     "isExclusive": [
       {
@@ -882,12 +975,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega 32X game has save battery",
+        "forPlatform": {
+          "name": "Sega 32X",
+          "id": "ccl16",
+          "igdbId": 30,
+          "gbId": 31,
+          "gbGuid": "3045-31",
+          "tgdbId": 33
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Zaxxon's Motherbase 2000",
-    "id": "s32x27",
+    "id": "s32x28",
     "igdbId": 19764,
     "gbId": 7390,
     "gbGuid": "3030-7390",

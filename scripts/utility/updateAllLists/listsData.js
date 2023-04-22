@@ -321,7 +321,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'multiplayer/sega32xTeamPlayer.json')),
       require(path.resolve(smallFiles, 'special/sega32x6ButtonGames.json')),
       require(path.resolve(smallFiles, 'special/sega32x6ButtonMode.json')),
-      require(path.resolve(smallFiles, 'special/sega32x6ButtonHidden.json'))
+      require(path.resolve(smallFiles, 'special/sega32x6ButtonHidden.json')),
+      require(path.resolve(smallFiles, 'special/sega32xGamesWithSaveBattery.json'))
     ],
     output: path.resolve(consoleLists, 'Sega32X.json')
   },
