@@ -1766,5 +1766,17 @@
     "filePath": "../textFilesToBeConverted/special/dreamcastGamesWithVmuFeatures.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "NES games with save battery",
+    "filePath": "../textFilesToBeConverted/special/nesGamesWithSaveBattery.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Famicom games with save battery",
+    "filePath": "../textFilesToBeConverted/special/famicomGamesWithSaveBattery.json",
+    "type": "Game",
+    "complete": true
   }
 ]

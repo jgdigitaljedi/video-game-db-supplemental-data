@@ -23,8 +23,8 @@ const _uniq = require('lodash/uniq');
  */
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/sega32xGamesWithSaveBattery.json';
-const idPrefix = 's32sb';
+const relativePath = '../../textFilesToBeConverted/special/nesGamesWithSaveBattery.json';
+const idPrefix = 'nessb';
 const parensToDetails = false;
 const category = 'other';
 
@@ -34,7 +34,7 @@ const category = 'other';
   const fixed = _uniq(parsed.sort());
   const newData = fileUtil.stringArrToObjectArr(
     fixed,
-    'Sega 32X game has save battery',
+    'NES game has save battery',
     idPrefix,
     parensToDetails,
     category

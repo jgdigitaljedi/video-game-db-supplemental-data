@@ -115,6 +115,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - dsienX - Nintendo DS games with enhanced features on DSi (nintendoDsGameDsiEnhanced.json) | GAMES LIST
 - dsijpX - Nintendo DS games with enhanced features on DSi (Japan) (nintendoDsGameDsiEnhancedJapan.json) | GAMES LIST
 - dsrpX - Nintendo DS Rumble Pak games (nintendoDsRumblePakGames.json) | GAMES LIST
+- famsbX - Famicom games with save battery (famicomGamesWithSaveBattery.json) | GAMES LIST
 - gbbgX - Genesis black box grid games (blackBoxGridGenesisGames.json) | GAMES LIST
 - gbabiX - Nintendo Game Boy Advance cartridges with built in devices (gbaCartsWithBuiltInDevices.json) | GAMES LIST
 - gbatmX - GBA games with tate mode support (nintendoGbaTateModeGames.json) | GAMES LIST
@@ -132,6 +133,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - n64rpX - N64 RUMBLE Pak Games (n64RumblePakGames.json) | GAMES LIST
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST
 - ndsbiX - Nintendo DS cartridges with built in devices (nintendoDsCartsWithBuiltInDevices.json) | GAMES LIST
+- nessbX - NES games with save battery (nesGamesWithSaveBattery.json) | GAMES LIST
 - pcdilgX - Philips CD-i Peacekeeper Revovler games (philipsCdiPeacekeeperRevolverGames.json) | GAMES LIST
 - pcsgX - PC Engine games enhanced on Supergrafx (pcEngineGamesEnhancedOnSupergrafx.json) | GAMES LIST
 - pbdX - consoles that play bruned discs without modification (platformsThatPlayBurnedDiscs.json) | CONSOLE/PLATFORM LIST

@@ -58,7 +58,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'multiplayer/nesFourScore.json')),
       require(path.resolve(smallFiles, 'special/nesBlackBoxTitles.json')),
       require(path.resolve(smallFiles, 'special/nesHangtabGames.json')),
-      require(path.resolve(smallFiles, 'special/nesLightGunGames.json'))
+      require(path.resolve(smallFiles, 'special/nesLightGunGames.json')),
+      require(path.resolve(smallFiles, 'special/nesGamesWithSaveBattery.json'))
     ],
     output: path.resolve(consoleLists, 'NintendoEntertainmentSystem.json')
   },
@@ -848,7 +849,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/famicomMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/famicomGamesWithSaveBattery.json'))],
     output: path.resolve(consoleLists, 'NintendoFamicom.json')
   },
   {

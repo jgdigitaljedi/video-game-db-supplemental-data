@@ -160,7 +160,8 @@
     "gbId": 9814,
     "gbGuid": "3030-9814",
     "details": [
-      "Nintendo Famicom exclusive game"
+      "Nintendo Famicom exclusive game",
+      "Famicom game has save battery"
     ],
     "isExclusive": [
       {
@@ -172,7 +173,19 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -836,8 +849,164 @@
     "misprintsErrors": []
   },
   {
-    "name": "Donkey Kong",
+    "name": "Bikkuriman World: Gekitou Sei Senshi",
     "id": "nfam38",
+    "igdbId": 48544,
+    "gbId": 19977,
+    "gbGuid": "3030-19977",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bloody Warriors: Shango no Gyakushuu",
+    "id": "nfam39",
+    "igdbId": 48541,
+    "gbId": 14595,
+    "gbGuid": "3030-14595",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Chaos World",
+    "id": "nfam40",
+    "igdbId": 7904,
+    "gbId": 8123,
+    "gbGuid": "3030-8123",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cosmic Wars",
+    "id": "nfam41",
+    "igdbId": 48646,
+    "gbId": 33551,
+    "gbGuid": "3030-33551",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dai-2-ji Super Robot Taisen",
+    "id": "nfam42",
+    "igdbId": 48636,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dezaemon",
+    "id": "nfam43",
+    "igdbId": 56533,
+    "gbId": 58437,
+    "gbGuid": "3030-58437",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong",
+    "id": "nfam44",
     "igdbId": 141959,
     "gbId": 311,
     "gbGuid": "3030-311",
@@ -859,7 +1028,7 @@
   },
   {
     "name": "Donkey Kong Jr.",
-    "id": "nfam39",
+    "id": "nfam45",
     "igdbId": 178166,
     "gbId": 19416,
     "gbGuid": "3030-19416",
@@ -880,8 +1049,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Downtown Special Kunio-kun's Historical Period Drama!",
+    "id": "nfam46",
+    "igdbId": 48631,
+    "gbId": 19674,
+    "gbGuid": "3030-19674",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dragon Buster",
-    "id": "nfam40",
+    "id": "nfam47",
     "igdbId": 38035,
     "gbId": 12337,
     "gbGuid": "3030-12337",
@@ -898,8 +1093,112 @@
     ]
   },
   {
+    "name": "Dungeon Kid",
+    "id": "nfam48",
+    "igdbId": 48511,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Esper Dream 2: Aratanaru Tatakai",
+    "id": "nfam49",
+    "igdbId": 48505,
+    "gbId": 23110,
+    "gbGuid": "3030-23110",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Famicom Wars",
+    "id": "nfam50",
+    "igdbId": 72131,
+    "gbId": 2177,
+    "gbGuid": "3030-2177",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Family Circuit '91",
+    "id": "nfam51",
+    "igdbId": 48497,
+    "gbId": 12126,
+    "gbGuid": "3030-12126",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Faxanadu",
-    "id": "nfam41",
+    "id": "nfam52",
     "igdbId": 1974,
     "gbId": 7851,
     "gbGuid": "3030-7851",
@@ -916,8 +1215,112 @@
     ]
   },
   {
+    "name": "Final Fantasy I & II",
+    "id": "nfam53",
+    "igdbId": 41835,
+    "gbId": 17928,
+    "gbGuid": "3030-17928",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Final Fantasy II",
+    "id": "nfam54",
+    "igdbId": 16474,
+    "gbId": 2094,
+    "gbGuid": "3030-2094",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Final Fantasy III",
+    "id": "nfam55",
+    "igdbId": 77234,
+    "gbId": 21463,
+    "gbGuid": "3030-21463",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fire Emblem Gaiden",
+    "id": "nfam56",
+    "igdbId": 1434,
+    "gbId": 14915,
+    "gbGuid": "3030-14915",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "From the Legend of Balubalouk: Aigiina no Yogen",
-    "id": "nfam42",
+    "id": "nfam57",
     "igdbId": 73806,
     "gbId": 10038,
     "gbGuid": "3030-10038",
@@ -939,7 +1342,7 @@
   },
   {
     "name": "Galaxian",
-    "id": "nfam43",
+    "id": "nfam58",
     "igdbId": 143370,
     "gbId": 2445,
     "gbGuid": "3030-2445",
@@ -961,7 +1364,7 @@
   },
   {
     "name": "Garfield no Isshukan: A Week of Garfield",
-    "id": "nfam44",
+    "id": "nfam59",
     "igdbId": 48486,
     "gbId": 26118,
     "gbGuid": "3030-26118",
@@ -983,7 +1386,7 @@
   },
   {
     "name": "GeGeGe no Kitaro - Yokai Daimakyo",
-    "id": "nfam45",
+    "id": "nfam60",
     "igdbId": 48317,
     "gbId": 40977,
     "gbGuid": "3030-40977",
@@ -1001,7 +1404,7 @@
   },
   {
     "name": "Genghis Khan II: Clan of the Gray Wolf",
-    "id": "nfam46",
+    "id": "nfam61",
     "igdbId": 5389,
     "gbId": 5679,
     "gbGuid": "3030-5679",
@@ -1023,7 +1426,7 @@
   },
   {
     "name": "Gomoku Narabe Renju",
-    "id": "nfam47",
+    "id": "nfam62",
     "igdbId": 16609,
     "gbId": 41170,
     "gbGuid": "3030-41170",
@@ -1044,8 +1447,60 @@
     "misprintsErrors": []
   },
   {
+    "name": "Joy Mech Fight",
+    "id": "nfam63",
+    "igdbId": 48123,
+    "gbId": 5867,
+    "gbGuid": "3030-5867",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Juvei Quest",
+    "id": "nfam64",
+    "igdbId": 48449,
+    "gbId": 44967,
+    "gbGuid": "3030-44967",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kid Dracula",
-    "id": "nfam48",
+    "id": "nfam65",
     "igdbId": 1120,
     "gbId": 6851,
     "gbGuid": "3030-6851",
@@ -1066,8 +1521,138 @@
     "misprintsErrors": []
   },
   {
+    "name": "Metal Max",
+    "id": "nfam66",
+    "igdbId": 48428,
+    "gbId": 17831,
+    "gbGuid": "3030-17831",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mother",
+    "id": "nfam67",
+    "igdbId": 238665,
+    "gbId": 77924,
+    "gbGuid": "3030-77924",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Niji no Silkroad",
+    "id": "nfam68",
+    "igdbId": 48409,
+    "gbId": 8310,
+    "gbGuid": "3030-8310",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nobunaga's Ambition",
+    "id": "nfam69",
+    "igdbId": 4369,
+    "gbId": 14028,
+    "gbGuid": "3030-14028",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nobunaga's Ambition II",
+    "id": "nfam70",
+    "igdbId": 48287,
+    "gbId": 10606,
+    "gbGuid": "3030-10606",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Nuts & Milk",
-    "id": "nfam49",
+    "id": "nfam71",
     "igdbId": 4617,
     "gbId": 3415,
     "gbGuid": "3030-3415",
@@ -1089,7 +1674,7 @@
   },
   {
     "name": "Popeye no Eigo Asobi",
-    "id": "nfam50",
+    "id": "nfam72",
     "igdbId": 48641,
     "gbId": 35883,
     "gbGuid": "3030-35883",
@@ -1119,8 +1704,60 @@
     "misprintsErrors": []
   },
   {
+    "name": "SD Gundam World: Gachapon Sensei 5 - Battle of Universal Century",
+    "id": "nfam73",
+    "igdbId": 48855,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sanada Juu Yuushi",
+    "id": "nfam74",
+    "igdbId": 48862,
+    "gbId": 40055,
+    "gbGuid": "3030-40055",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sasa",
-    "id": "nfam51",
+    "id": "nfam75",
     "igdbId": 48602,
     "gbId": 1486,
     "gbGuid": "3030-1486",
@@ -1141,8 +1778,60 @@
     "misprintsErrors": []
   },
   {
+    "name": "Square's Tom Sawyer",
+    "id": "nfam76",
+    "igdbId": 73518,
+    "gbId": 17014,
+    "gbGuid": "3030-17014",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sweet Home",
+    "id": "nfam77",
+    "igdbId": 9426,
+    "gbId": 15120,
+    "gbGuid": "3030-15120",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tecmo World Wrestling",
-    "id": "nfam52",
+    "id": "nfam78",
     "igdbId": 48083,
     "gbId": 12836,
     "gbGuid": "3030-12836",
@@ -1159,8 +1848,60 @@
     ]
   },
   {
+    "name": "Tenchi wo Kurau II: Shokatsu Koumei-den",
+    "id": "nfam79",
+    "igdbId": 48346,
+    "gbId": 15618,
+    "gbGuid": "3030-15618",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tetris 2 + BomBliss",
+    "id": "nfam80",
+    "igdbId": 78699,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Bard's Tale II: The Destiny Knight",
-    "id": "nfam53",
+    "id": "nfam81",
     "igdbId": 2430,
     "gbId": 794,
     "gbGuid": "3030-794",
@@ -1182,7 +1923,7 @@
   },
   {
     "name": "The Tower of Druaga",
-    "id": "nfam54",
+    "id": "nfam82",
     "igdbId": 4207,
     "gbId": 4567,
     "gbGuid": "3030-4567",
@@ -1199,15 +1940,55 @@
     ]
   },
   {
+    "name": "Ys II",
+    "id": "nfam83",
+    "igdbId": 206537,
+    "gbId": 4773,
+    "gbGuid": "3030-4773",
+    "details": [
+      "Famicom game has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ys III: Wanderers from Ys",
-    "id": "nfam55",
+    "id": "nfam84",
     "igdbId": 15450,
     "gbId": 4208,
     "gbGuid": "3030-4208",
-    "details": [],
+    "details": [
+      "Famicom game has save battery"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Famicom game has save battery",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/nes/ys3_zpsfkcqlpfg.jpg",
@@ -1223,7 +2004,7 @@
   },
   {
     "name": "Zunou Senkan Galg",
-    "id": "nfam56",
+    "id": "nfam85",
     "igdbId": 48488,
     "gbId": 37088,
     "gbGuid": "3030-37088",
