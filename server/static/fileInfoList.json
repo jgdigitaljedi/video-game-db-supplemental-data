@@ -1778,5 +1778,17 @@
     "filePath": "../textFilesToBeConverted/special/famicomGamesWithSaveBattery.json",
     "type": "Game",
     "complete": true
+  },
+  {
+    "title": "SNES games with save battery",
+    "filePath": "../textFilesToBeConverted/special/snesGamesWithSaveBatteries.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "Super Famicom exclusive games with save battery",
+    "filePath": "../textFilesToBeConverted/special/superFamicomGamesWithSaveBattery.json",
+    "type": "Game",
+    "complete": false
   }
 ]

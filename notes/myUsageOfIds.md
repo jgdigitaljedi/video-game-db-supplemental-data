@@ -151,6 +151,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - scd6pX - Sega CD 6 button problem games (segaCd6ButtonGames.json) | GAMES LIST
 - scdlgX - Sega Dreamcast light gun games (segaDreamcastLightGunGames.json) | GAMES LIST
 - sdtmX - Sega Dreamcast games with tate mode support (segaDreamcastTateModeGames.json) | GAMES LIST
+- sfsbX - Super Famicom games with save battery (Japan only) (superFamicomGamesWithSaveBattery.json) | GAMES LIST
 - sg6bX - Sega Genesis 6 button compatible games (segaGenesis6ButtonGames.json) | GAMES LIST
 - sg6bhX - Sega Genesis 6 button hidden functionality (segaGenesis6ButtonHidden.json) | GAMES LIST
 - sg6bpX - Sega Genesis 6 button problem games (segaGenesis6ButtonProblems.json) | GAMES LIST
@@ -159,6 +160,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - sgsmX - Sega Genesis Menacer games (segaMenacerGenesisGames.json) | GAMES LIST
 - sms3dX - Sega Master System 3D games (segaMasterSystem3dGames.json) | GAMES LIST
 - smspX - Sega Master System Phaser games (segaMasterSystemPhaserGames.json) | GAMES LIST
+- snessbX - SNES games with save battery (snesGamesWithSaveBatteries.json) | GAMES LIST
 - snesssX - SNES Super Scope games (snesSuperScopeGames.json) | GAMES LIST
 - snestmX - SNES games with tate mode support (snesTateModeGames.json) | GAMES LIST
 - sp2tmX - Sony PlayStation 2 tate mode games (sonyPlaystation2TateModeGames.json) | GAMES LIST

@@ -77,7 +77,9 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'multiplayer/snesSuperMultitap.json')),
       require(path.resolve(smallFiles, 'greatestHits/snesPlayersChoice.json')),
       require(path.resolve(smallFiles, 'special/snesSuperScopeGames.json')),
-      require(path.resolve(smallFiles, 'special/snesTateModeGames.json'))
+      require(path.resolve(smallFiles, 'special/snesTateModeGames.json')),
+      require(path.resolve(smallFiles, 'special/snesGamesWithSaveBatteries.json')),
+      require(path.resolve(smallFiles, 'special/superFamicomGamesWithSaveBattery.json'))
     ],
     output: path.resolve(consoleLists, 'SuperNintendoEntertainmentSystem.json')
   },
