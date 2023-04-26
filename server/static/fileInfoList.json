@@ -1789,6 +1789,12 @@
     "title": "Super Famicom exclusive games with save battery",
     "filePath": "../textFilesToBeConverted/special/superFamicomGamesWithSaveBattery.json",
     "type": "Game",
-    "complete": false
+    "complete": true
+  },
+  {
+    "title": "N64 games with save battery",
+    "filePath": "../textFilesToBeConverted/special/n64GamesWithSaveBattery.json",
+    "type": "Game",
+    "complete": true
   }
 ]

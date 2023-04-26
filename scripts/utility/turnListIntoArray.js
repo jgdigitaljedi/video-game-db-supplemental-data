@@ -1,8 +1,8 @@
 const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
-const inFilePath = '../../textFilesToBeConverted/special/snesGamesWithSaveBatteries.txt';
-const outFilePath = '../../textFilesToBeConverted/special/snesGamesWithSaveBatteries.json';
+const inFilePath = '../../textFilesToBeConverted/special/n64GamesWithSaveBattery.txt';
+const outFilePath = '../../textFilesToBeConverted/special/n64GamesWithSaveBattery.json';
 
 (function() {
   try {
