@@ -23,10 +23,10 @@ const _uniq = require('lodash/uniq');
  */
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/n64GamesWithSaveBattery.json';
-const idPrefix = 'n64sb';
-const parensToDetails = false;
-const category = 'other';
+const relativePath = '../../textFilesToBeConverted/multiplayer/sonyPlaystationLinkCableGames.json';
+const idPrefix = 'pslc';
+const parensToDetails = true;
+const category = 'multiplayer';
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
@@ -34,7 +34,7 @@ const category = 'other';
   const fixed = _uniq(parsed.sort());
   const newData = fileUtil.stringArrToObjectArr(
     fixed,
-    'N64 game has save battery',
+    'Sony PlayStation game Link Cable compatible',
     idPrefix,
     parensToDetails,
     category

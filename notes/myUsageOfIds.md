@@ -94,6 +94,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - n644pX - N64 4-Player Games (n64_4playerGames.json) | GAMES LIST
 - nesfsX - NES Four Score compatible games (nesFourScore.json) | GAMES LIST
 - ngaluX - Neo Geo AES 4 player Link-Up games (neoGeoAesLinkUp.json) | GAMES LIST
+- pslcX - Sony PlayStation Link Cable compatible games (sonyPlaystationLinkCableGames.json) | GAMES LIST
 - spmtX - Sony PlayStation multitap compatible games (playStationMultitap.json) | GAMES LIST
 - s32tpX - Sega 32X Team Player compatible games (sega32xTeamPlayer.json) | GAMES LIST
 - scdtpX - Sega CD Team Player compatible games (segaCdTeamPlayer.json) | GAMES LIST

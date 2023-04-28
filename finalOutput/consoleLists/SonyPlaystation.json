@@ -682,7 +682,8 @@
     "gbGuid": "3030-13338",
     "details": [
       "Sony PlayStation multitap compatible title - 4 players",
-      "Sony PlayStation Greatest Hits"
+      "Sony PlayStation Greatest Hits",
+      "Sony PlayStation game Link Cable compatible (2 to 4 players)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -710,6 +711,18 @@
           "tgdbId": 10
         },
         "category": "hits"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible (2 to 4 players)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
@@ -1097,8 +1110,89 @@
     "misprintsErrors": []
   },
   {
-    "name": "Army Men 3D",
+    "name": "Armored Core",
     "id": "psx38",
+    "igdbId": 4144,
+    "gbId": 16656,
+    "gbGuid": "3030-16656",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Armored Core: Master of Arena",
+    "id": "psx39",
+    "igdbId": 19424,
+    "gbId": 16367,
+    "gbGuid": "3030-16367",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Armored Core: Project Phantasma",
+    "id": "psx40",
+    "igdbId": 19428,
+    "gbId": 15689,
+    "gbGuid": "3030-15689",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Army Men 3D",
+    "id": "psx41",
     "igdbId": 22833,
     "gbId": 1282,
     "gbGuid": "3030-1282",
@@ -1142,7 +1236,7 @@
   },
   {
     "name": "Army Men World War: Final Front",
-    "id": "psx39",
+    "id": "psx42",
     "igdbId": 43948,
     "gbId": 5365,
     "gbGuid": "3030-5365",
@@ -1166,7 +1260,7 @@
   },
   {
     "name": "Army Men World War: Team Assault",
-    "id": "psx40",
+    "id": "psx43",
     "igdbId": 43947,
     "gbId": 22435,
     "gbGuid": "3030-22435",
@@ -1189,7 +1283,7 @@
   },
   {
     "name": "Army Men: Air Attack",
-    "id": "psx41",
+    "id": "psx44",
     "igdbId": 3417,
     "gbId": 13316,
     "gbGuid": "3030-13316",
@@ -1216,7 +1310,7 @@
   },
   {
     "name": "Army Men: World War - Land, Sea, Air",
-    "id": "psx42",
+    "id": "psx45",
     "igdbId": 75693,
     "gbId": 9895,
     "gbGuid": "3030-9895",
@@ -1240,7 +1334,7 @@
   },
   {
     "name": "Arthur! Ready to Race",
-    "id": "psx43",
+    "id": "psx46",
     "igdbId": 56050,
     "gbId": 59686,
     "gbGuid": "3030-59686",
@@ -1264,13 +1358,14 @@
   },
   {
     "name": "Assault Rigs",
-    "id": "psx44",
+    "id": "psx47",
     "igdbId": 15476,
     "gbId": 7387,
     "gbGuid": "3030-7387",
     "tgdbId": 12201,
     "details": [
-      "PlayStation Long Box Game"
+      "PlayStation Long Box Game",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1286,13 +1381,25 @@
           "tgdbId": 10
         },
         "category": "series"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Assault: Retribution",
-    "id": "psx45",
+    "id": "psx48",
     "igdbId": 77050,
     "gbId": 30928,
     "gbGuid": "3030-30928",
@@ -1316,7 +1423,7 @@
   },
   {
     "name": "Asteroids",
-    "id": "psx46",
+    "id": "psx49",
     "igdbId": 80932,
     "gbId": 40238,
     "gbGuid": "3030-40238",
@@ -1343,7 +1450,7 @@
   },
   {
     "name": "Atlantis The Lost Empire",
-    "id": "psx47",
+    "id": "psx50",
     "igdbId": 9056,
     "gbId": 14352,
     "gbGuid": "3030-14352",
@@ -1361,7 +1468,7 @@
   },
   {
     "name": "Aura Battler Dunbine: Seisenshi Densetsu",
-    "id": "psx48",
+    "id": "psx51",
     "igdbId": 64754,
     "gbId": 39341,
     "gbGuid": "3030-39341",
@@ -1384,7 +1491,7 @@
   },
   {
     "name": "Auto Destruct",
-    "id": "psx49",
+    "id": "psx52",
     "igdbId": 45084,
     "gbId": 13885,
     "gbGuid": "3030-13885",
@@ -1407,8 +1514,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ayrton Senna Kart Duel",
+    "id": "psx53",
+    "igdbId": 84386,
+    "gbId": 31946,
+    "gbGuid": "3030-31946",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (EU/JPN)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (EU/JPN)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "B-Movie (video game)",
-    "id": "psx50",
+    "id": "psx54",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1431,7 +1565,7 @@
   },
   {
     "name": "Ballblazer Champions",
-    "id": "psx51",
+    "id": "psx55",
     "igdbId": 177,
     "gbId": 11990,
     "gbGuid": "3030-11990",
@@ -1455,7 +1589,7 @@
   },
   {
     "name": "Barbie: Explorer",
-    "id": "psx52",
+    "id": "psx56",
     "igdbId": 3314,
     "gbId": 13288,
     "gbGuid": "3030-13288",
@@ -1485,7 +1619,7 @@
   },
   {
     "name": "Barbie: Race & Ride",
-    "id": "psx53",
+    "id": "psx57",
     "igdbId": 3312,
     "gbId": 15682,
     "gbGuid": "3030-15682",
@@ -1522,7 +1656,7 @@
   },
   {
     "name": "Bases Loaded '96: Double Header",
-    "id": "psx54",
+    "id": "psx58",
     "igdbId": 46099,
     "gbId": 45331,
     "gbGuid": "3030-45331",
@@ -1550,7 +1684,7 @@
   },
   {
     "name": "Bass Landing",
-    "id": "psx55",
+    "id": "psx59",
     "igdbId": 43922,
     "gbId": 34533,
     "gbGuid": "3030-34533",
@@ -1568,7 +1702,7 @@
   },
   {
     "name": "Bastard!! Utsuro Naru Kamigami no Utsuwa",
-    "id": "psx56",
+    "id": "psx60",
     "igdbId": 44806,
     "gbId": 37511,
     "gbGuid": "3030-37511",
@@ -1592,7 +1726,7 @@
   },
   {
     "name": "Batman & Robin",
-    "id": "psx57",
+    "id": "psx61",
     "igdbId": 79820,
     "gbId": 13568,
     "gbGuid": "3030-13568",
@@ -1616,7 +1750,7 @@
   },
   {
     "name": "Batman Beyond: Return of the Joker",
-    "id": "psx58",
+    "id": "psx62",
     "igdbId": 3444,
     "gbId": 1238,
     "gbGuid": "3030-1238",
@@ -1634,7 +1768,7 @@
   },
   {
     "name": "Batman: Gotham City Racer",
-    "id": "psx59",
+    "id": "psx63",
     "igdbId": 44992,
     "gbId": 5234,
     "gbGuid": "3030-5234",
@@ -1658,7 +1792,7 @@
   },
   {
     "name": "Battle Arena Nitoushinden",
-    "id": "psx60",
+    "id": "psx64",
     "igdbId": 1417,
     "gbId": 25850,
     "gbGuid": "3030-25850",
@@ -1696,7 +1830,7 @@
   },
   {
     "name": "Battle Arena Toshinden",
-    "id": "psx61",
+    "id": "psx65",
     "igdbId": 1413,
     "gbId": 5238,
     "gbGuid": "3030-5238",
@@ -1740,7 +1874,7 @@
   },
   {
     "name": "Battle Arena Toshinden 2",
-    "id": "psx62",
+    "id": "psx66",
     "igdbId": 1414,
     "gbId": 3323,
     "gbGuid": "3030-3323",
@@ -1768,7 +1902,7 @@
   },
   {
     "name": "Battle Arena Toshinden 3",
-    "id": "psx63",
+    "id": "psx67",
     "igdbId": 1415,
     "gbId": 2895,
     "gbGuid": "3030-2895",
@@ -1792,7 +1926,7 @@
   },
   {
     "name": "Battle Hunter",
-    "id": "psx64",
+    "id": "psx68",
     "igdbId": 3190,
     "gbId": 10258,
     "gbGuid": "3030-10258",
@@ -1819,7 +1953,7 @@
   },
   {
     "name": "Battle Stations",
-    "id": "psx65",
+    "id": "psx69",
     "igdbId": 136864,
     "gbId": 7243,
     "gbGuid": "3030-7243",
@@ -1837,7 +1971,7 @@
   },
   {
     "name": "Beatmania",
-    "id": "psx66",
+    "id": "psx70",
     "igdbId": 20498,
     "gbId": 24384,
     "gbGuid": "3030-24384",
@@ -1861,7 +1995,7 @@
   },
   {
     "name": "Beyond the Beyond",
-    "id": "psx67",
+    "id": "psx71",
     "igdbId": 20303,
     "gbId": 9896,
     "gbGuid": "3030-9896",
@@ -1885,7 +2019,7 @@
   },
   {
     "name": "Big Air",
-    "id": "psx68",
+    "id": "psx72",
     "igdbId": 22826,
     "gbId": 12546,
     "gbGuid": "3030-12546",
@@ -1909,7 +2043,7 @@
   },
   {
     "name": "Big Strike Bowling",
-    "id": "psx69",
+    "id": "psx73",
     "igdbId": 43892,
     "gbId": 17339,
     "gbGuid": "3030-17339",
@@ -1927,7 +2061,7 @@
   },
   {
     "name": "Bishi Bashi Special",
-    "id": "psx70",
+    "id": "psx74",
     "igdbId": 45047,
     "gbId": 11271,
     "gbGuid": "3030-11271",
@@ -1954,7 +2088,7 @@
   },
   {
     "name": "Blade",
-    "id": "psx71",
+    "id": "psx75",
     "igdbId": 8719,
     "gbId": 12785,
     "gbGuid": "3030-12785",
@@ -1978,7 +2112,7 @@
   },
   {
     "name": "Blast Chamber",
-    "id": "psx72",
+    "id": "psx76",
     "igdbId": 47014,
     "gbId": 15493,
     "gbGuid": "3030-15493",
@@ -2011,7 +2145,7 @@
   },
   {
     "name": "Blast Lacrosse",
-    "id": "psx73",
+    "id": "psx77",
     "igdbId": 44876,
     "gbId": 24082,
     "gbGuid": "3030-24082",
@@ -2035,13 +2169,14 @@
   },
   {
     "name": "Blast Radius",
-    "id": "psx74",
+    "id": "psx78",
     "igdbId": 22829,
     "gbId": 22876,
     "gbGuid": "3030-22876",
     "tgdbId": 12448,
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": [
       {
@@ -2054,12 +2189,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Blaster Master: Blasting Again",
-    "id": "psx75",
+    "id": "psx79",
     "igdbId": 45096,
     "gbId": 16758,
     "gbGuid": "3030-16758",
@@ -2083,7 +2231,7 @@
   },
   {
     "name": "Blasto",
-    "id": "psx76",
+    "id": "psx80",
     "igdbId": 86213,
     "gbId": 16048,
     "gbGuid": "3030-16048",
@@ -2107,7 +2255,7 @@
   },
   {
     "name": "Blaze and Blade Busters",
-    "id": "psx77",
+    "id": "psx81",
     "igdbId": 43787,
     "gbId": null,
     "gbGuid": null,
@@ -2134,7 +2282,7 @@
   },
   {
     "name": "Blaze and Blade: Eternal Quest",
-    "id": "psx78",
+    "id": "psx82",
     "igdbId": 18249,
     "gbId": 13452,
     "gbGuid": "3030-13452",
@@ -2161,7 +2309,7 @@
   },
   {
     "name": "Bleach: Blade Battlers 2nd",
-    "id": "psx79",
+    "id": "psx83",
     "igdbId": 75997,
     "gbId": 22231,
     "gbGuid": "3030-22231",
@@ -2188,7 +2336,7 @@
   },
   {
     "name": "Blood Lines",
-    "id": "psx80",
+    "id": "psx84",
     "igdbId": 45056,
     "gbId": null,
     "gbGuid": null,
@@ -2215,13 +2363,14 @@
   },
   {
     "name": "Bogey: Dead 6",
-    "id": "psx81",
+    "id": "psx85",
     "igdbId": 20590,
     "gbId": 21283,
     "gbGuid": "3030-21283",
     "tgdbId": 32990,
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation game Link Cable compatible (Raging Skies in Europe and Sidewinder in Japan)"
     ],
     "isExclusive": [
       {
@@ -2234,12 +2383,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (Raging Skies in Europe and Sidewinder in Japan)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Bomberman World",
-    "id": "psx82",
+    "id": "psx86",
     "igdbId": 27255,
     "gbId": 16879,
     "gbGuid": "3030-16879",
@@ -2277,7 +2439,7 @@
   },
   {
     "name": "Bomberman: Party Edition",
-    "id": "psx83",
+    "id": "psx87",
     "igdbId": 18786,
     "gbId": 7430,
     "gbGuid": "3030-7430",
@@ -2304,7 +2466,7 @@
   },
   {
     "name": "BoomBots",
-    "id": "psx84",
+    "id": "psx88",
     "igdbId": 10918,
     "gbId": 11259,
     "gbGuid": "3030-11259",
@@ -2328,7 +2490,7 @@
   },
   {
     "name": "Bottom of the Ninth",
-    "id": "psx85",
+    "id": "psx89",
     "igdbId": 39483,
     "gbId": 23036,
     "gbGuid": "3030-23036",
@@ -2356,7 +2518,7 @@
   },
   {
     "name": "Brain Dead 13",
-    "id": "psx86",
+    "id": "psx90",
     "igdbId": 9258,
     "gbId": 737,
     "gbGuid": "3030-737",
@@ -2384,7 +2546,7 @@
   },
   {
     "name": "Brave Prove",
-    "id": "psx87",
+    "id": "psx91",
     "igdbId": 91891,
     "gbId": 32942,
     "gbGuid": "3030-32942",
@@ -2408,7 +2570,7 @@
   },
   {
     "name": "Brian Lara Cricket",
-    "id": "psx88",
+    "id": "psx92",
     "igdbId": 94848,
     "gbId": 5810,
     "gbGuid": "3030-5810",
@@ -2435,7 +2597,7 @@
   },
   {
     "name": "Broken Helix",
-    "id": "psx89",
+    "id": "psx93",
     "igdbId": 19996,
     "gbId": 13879,
     "gbGuid": "3030-13879",
@@ -2473,7 +2635,7 @@
   },
   {
     "name": "Broken Sword II: The Smoking Mirror (PAL)(FR)",
-    "id": "psx90",
+    "id": "psx94",
     "igdbId": 1150,
     "gbId": 4084,
     "gbGuid": "3030-4084",
@@ -2491,7 +2653,7 @@
   },
   {
     "name": "Bubsy 3D",
-    "id": "psx91",
+    "id": "psx95",
     "igdbId": 7806,
     "gbId": 15580,
     "gbGuid": "3030-15580",
@@ -2515,13 +2677,14 @@
   },
   {
     "name": "Burning Road",
-    "id": "psx92",
+    "id": "psx96",
     "igdbId": 44857,
     "gbId": 24318,
     "gbGuid": "3030-24318",
     "tgdbId": 19194,
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": [
       {
@@ -2534,19 +2697,47 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Bushido Blade",
-    "id": "psx93",
+    "id": "psx97",
     "igdbId": 1418,
     "gbId": 6399,
     "gbGuid": "3030-6399",
-    "details": [],
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Sony/ps1/buishidoblade_zpsr76rlljh.jpg",
@@ -2556,8 +2747,35 @@
     ]
   },
   {
+    "name": "Bushido Blade 2",
+    "id": "psx98",
+    "igdbId": 1419,
+    "gbId": 6226,
+    "gbGuid": "3030-6226",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Bust A Groove 2",
-    "id": "psx94",
+    "id": "psx99",
     "igdbId": 4139,
     "gbId": 2873,
     "gbGuid": "3030-2873",
@@ -2581,7 +2799,7 @@
   },
   {
     "name": "Bust-A-Move 2: Arcade Edition",
-    "id": "psx95",
+    "id": "psx100",
     "igdbId": 3455,
     "gbId": 2285,
     "gbGuid": "3030-2285",
@@ -2609,7 +2827,7 @@
   },
   {
     "name": "Buster Bros. Collection",
-    "id": "psx96",
+    "id": "psx101",
     "igdbId": 20137,
     "gbId": 6211,
     "gbGuid": "3030-6211",
@@ -2633,7 +2851,7 @@
   },
   {
     "name": "C-12: Final Resistance",
-    "id": "psx97",
+    "id": "psx102",
     "igdbId": 26753,
     "gbId": 2714,
     "gbGuid": "3030-2714",
@@ -2657,7 +2875,7 @@
   },
   {
     "name": "C3 Racing",
-    "id": "psx98",
+    "id": "psx103",
     "igdbId": 45104,
     "gbId": 31943,
     "gbGuid": "3030-31943",
@@ -2680,7 +2898,7 @@
   },
   {
     "name": "C: The Contra Adventure",
-    "id": "psx99",
+    "id": "psx104",
     "igdbId": 45010,
     "gbId": 7454,
     "gbGuid": "3030-7454",
@@ -2704,14 +2922,15 @@
   },
   {
     "name": "CART World Series",
-    "id": "psx100",
+    "id": "psx105",
     "igdbId": 43834,
     "gbId": 11706,
     "gbGuid": "3030-11706",
     "tgdbId": 38882,
     "details": [
       "Sony PlayStation exclusive",
-      "Sony PlayStation multitap compatible title - 4 players"
+      "Sony PlayStation multitap compatible title - 4 players",
+      "Sony PlayStation game Link Cable compatible (2 to 4 players)"
     ],
     "isExclusive": [
       {
@@ -2736,13 +2955,25 @@
           "tgdbId": 10
         },
         "category": "multiplayer"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible (2 to 4 players)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Cabela's Big Game Hunter: Ultimate Challenge",
-    "id": "psx101",
+    "id": "psx106",
     "igdbId": 45298,
     "gbId": 50594,
     "gbGuid": "3030-50594",
@@ -2766,7 +2997,7 @@
   },
   {
     "name": "Capcom Generations 1: Wings of Destiny",
-    "id": "psx102",
+    "id": "psx107",
     "igdbId": 66122,
     "gbId": 33831,
     "gbGuid": "3030-33831",
@@ -2793,7 +3024,7 @@
   },
   {
     "name": "Capcom Generations 3: The First Generation",
-    "id": "psx103",
+    "id": "psx108",
     "igdbId": 66121,
     "gbId": 33833,
     "gbGuid": "3030-33833",
@@ -2820,7 +3051,7 @@
   },
   {
     "name": "Capcom Generations 4: Blazing Guns",
-    "id": "psx104",
+    "id": "psx109",
     "igdbId": 80862,
     "gbId": 33834,
     "gbGuid": "3030-33834",
@@ -2860,7 +3091,7 @@
   },
   {
     "name": "Captain Commando",
-    "id": "psx105",
+    "id": "psx110",
     "igdbId": 19821,
     "gbId": 9663,
     "gbGuid": "3030-9663",
@@ -2887,7 +3118,7 @@
   },
   {
     "name": "Captain Tsubasa J: Get In The Tomorrow",
-    "id": "psx106",
+    "id": "psx111",
     "igdbId": 45320,
     "gbId": 38262,
     "gbGuid": "3030-38262",
@@ -2910,8 +3141,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Car & Driver Presents: Grand Tour Racing '98",
+    "id": "psx112",
+    "igdbId": null,
+    "gbId": 23259,
+    "gbGuid": "3030-23259",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (2 to 4 players,Total Drivin in Europe)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (2 to 4 players,Total Drivin in Europe)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Cardinal Syn",
-    "id": "psx107",
+    "id": "psx113",
     "igdbId": 26657,
     "gbId": 132,
     "gbGuid": "3030-132",
@@ -2935,7 +3193,7 @@
   },
   {
     "name": "Casper",
-    "id": "psx108",
+    "id": "psx114",
     "igdbId": 6345,
     "gbId": 14860,
     "gbGuid": "3030-14860",
@@ -2962,7 +3220,7 @@
   },
   {
     "name": "Castlevania Chronicles",
-    "id": "psx109",
+    "id": "psx115",
     "igdbId": 19468,
     "gbId": 15819,
     "gbGuid": "3030-15819",
@@ -2980,7 +3238,7 @@
   },
   {
     "name": "Castlevania: Symphony of the Night",
-    "id": "psx110",
+    "id": "psx116",
     "igdbId": 1128,
     "gbId": 14216,
     "gbGuid": "3030-14216",
@@ -3018,7 +3276,7 @@
   },
   {
     "name": "Castrol Honda Superbike Racing",
-    "id": "psx111",
+    "id": "psx117",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3042,7 +3300,7 @@
   },
   {
     "name": "Castrol Honda VTR",
-    "id": "psx112",
+    "id": "psx118",
     "igdbId": 60974,
     "gbId": 47831,
     "gbGuid": "3030-47831",
@@ -3066,7 +3324,7 @@
   },
   {
     "name": "Championship Motocross featuring Ricky Carmichael",
-    "id": "psx113",
+    "id": "psx119",
     "igdbId": 44830,
     "gbId": 16874,
     "gbGuid": "3030-16874",
@@ -3096,7 +3354,7 @@
   },
   {
     "name": "Chaos Break",
-    "id": "psx114",
+    "id": "psx120",
     "igdbId": 46084,
     "gbId": 26144,
     "gbGuid": "3030-26144",
@@ -3120,7 +3378,7 @@
   },
   {
     "name": "Cheesy",
-    "id": "psx115",
+    "id": "psx121",
     "igdbId": 92889,
     "gbId": 16646,
     "gbGuid": "3030-16646",
@@ -3144,7 +3402,7 @@
   },
   {
     "name": "Chill",
-    "id": "psx116",
+    "id": "psx122",
     "igdbId": 79608,
     "gbId": 32024,
     "gbGuid": "3030-32024",
@@ -3168,7 +3426,7 @@
   },
   {
     "name": "Chocobo's Dungeon 2 (PAL)",
-    "id": "psx117",
+    "id": "psx123",
     "igdbId": 22894,
     "gbId": 7679,
     "gbGuid": "3030-7679",
@@ -3186,7 +3444,7 @@
   },
   {
     "name": "Chris Kamara's Street Soccer",
-    "id": "psx118",
+    "id": "psx124",
     "igdbId": 43747,
     "gbId": 31554,
     "gbGuid": "3030-31554",
@@ -3210,7 +3468,7 @@
   },
   {
     "name": "Chrono Cross",
-    "id": "psx119",
+    "id": "psx125",
     "igdbId": 1804,
     "gbId": 4328,
     "gbGuid": "3030-4328",
@@ -3258,7 +3516,7 @@
   },
   {
     "name": "Circuit Breakers",
-    "id": "psx120",
+    "id": "psx126",
     "igdbId": 34753,
     "gbId": 21415,
     "gbGuid": "3030-21415",
@@ -3296,7 +3554,7 @@
   },
   {
     "name": "College Slam",
-    "id": "psx121",
+    "id": "psx127",
     "igdbId": 4541,
     "gbId": 125,
     "gbGuid": "3030-125",
@@ -3336,7 +3594,7 @@
   },
   {
     "name": "Colony Wars",
-    "id": "psx122",
+    "id": "psx128",
     "igdbId": 8280,
     "gbId": 4830,
     "gbGuid": "3030-4830",
@@ -3360,7 +3618,7 @@
   },
   {
     "name": "Colony Wars III: Red Sun",
-    "id": "psx123",
+    "id": "psx129",
     "igdbId": 8282,
     "gbId": 6907,
     "gbGuid": "3030-6907",
@@ -3384,7 +3642,7 @@
   },
   {
     "name": "Colony Wars: Vengeance",
-    "id": "psx124",
+    "id": "psx130",
     "igdbId": 8281,
     "gbId": 4544,
     "gbGuid": "3030-4544",
@@ -3408,7 +3666,7 @@
   },
   {
     "name": "Combination Pro Soccer",
-    "id": "psx125",
+    "id": "psx131",
     "igdbId": 64877,
     "gbId": 39059,
     "gbGuid": "3030-39059",
@@ -3430,8 +3688,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Command & Conquer: Red Alert",
+    "id": "psx132",
+    "igdbId": 295,
+    "gbId": 249,
+    "gbGuid": "3030-249",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Command & Conquer: Red Alert - Retaliation",
+    "id": "psx133",
+    "igdbId": 18785,
+    "gbId": 166,
+    "gbGuid": "3030-166",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Contender",
-    "id": "psx126",
+    "id": "psx134",
     "igdbId": 44853,
     "gbId": 22894,
     "gbGuid": "3030-22894",
@@ -3455,7 +3767,7 @@
   },
   {
     "name": "Cool Boarders",
-    "id": "psx127",
+    "id": "psx135",
     "igdbId": 20728,
     "gbId": 12112,
     "gbGuid": "3030-12112",
@@ -3479,14 +3791,15 @@
   },
   {
     "name": "Cool Boarders 2",
-    "id": "psx128",
+    "id": "psx136",
     "igdbId": 26115,
     "gbId": 15024,
     "gbGuid": "3030-15024",
     "tgdbId": 514,
     "details": [
       "Sony PlayStation exclusive",
-      "Sony PlayStation Greatest Hits"
+      "Sony PlayStation Greatest Hits",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": [
       {
@@ -3511,13 +3824,25 @@
           "tgdbId": 10
         },
         "category": "hits"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Cool Boarders 3 (GH)",
-    "id": "psx129",
+    "id": "psx137",
     "igdbId": 26130,
     "gbId": 6828,
     "gbGuid": "3030-6828",
@@ -3550,7 +3875,7 @@
   },
   {
     "name": "Cool Boarders 4",
-    "id": "psx130",
+    "id": "psx138",
     "igdbId": 26131,
     "gbId": 17935,
     "gbGuid": "3030-17935",
@@ -3588,7 +3913,7 @@
   },
   {
     "name": "Cosmic Race",
-    "id": "psx131",
+    "id": "psx139",
     "igdbId": 78852,
     "gbId": 21288,
     "gbGuid": "3030-21288",
@@ -3612,7 +3937,7 @@
   },
   {
     "name": "Countdown Vampires",
-    "id": "psx132",
+    "id": "psx140",
     "igdbId": 28055,
     "gbId": 37681,
     "gbGuid": "3030-37681",
@@ -3636,7 +3961,7 @@
   },
   {
     "name": "Covert Ops: Nuclear Dawn",
-    "id": "psx133",
+    "id": "psx141",
     "igdbId": 4137,
     "gbId": 18354,
     "gbGuid": "3030-18354",
@@ -3660,7 +3985,7 @@
   },
   {
     "name": "Cowboy Bebop",
-    "id": "psx134",
+    "id": "psx142",
     "igdbId": 45027,
     "gbId": 4824,
     "gbGuid": "3030-4824",
@@ -3684,7 +4009,7 @@
   },
   {
     "name": "Crash Bandicoot",
-    "id": "psx135",
+    "id": "psx143",
     "igdbId": 1185,
     "gbId": 7380,
     "gbGuid": "3030-7380",
@@ -3733,7 +4058,7 @@
   },
   {
     "name": "Crash Bandicoot 2: Cortex Strikes Back",
-    "id": "psx136",
+    "id": "psx144",
     "igdbId": 1186,
     "gbId": 8660,
     "gbGuid": "3030-8660",
@@ -3771,7 +4096,7 @@
   },
   {
     "name": "Crash Bandicoot 3: Warped",
-    "id": "psx137",
+    "id": "psx145",
     "igdbId": 1187,
     "gbId": 12909,
     "gbGuid": "3030-12909",
@@ -3815,7 +4140,7 @@
   },
   {
     "name": "Crash Bash",
-    "id": "psx138",
+    "id": "psx146",
     "igdbId": 1195,
     "gbId": 15952,
     "gbGuid": "3030-15952",
@@ -3855,7 +4180,7 @@
   },
   {
     "name": "Crash Team Racing",
-    "id": "psx139",
+    "id": "psx147",
     "igdbId": 1192,
     "gbId": 6196,
     "gbGuid": "3030-6196",
@@ -3922,7 +4247,7 @@
   },
   {
     "name": "Creatures",
-    "id": "psx140",
+    "id": "psx148",
     "igdbId": 11374,
     "gbId": 6899,
     "gbGuid": "3030-6899",
@@ -3940,7 +4265,7 @@
   },
   {
     "name": "Crime Killer",
-    "id": "psx141",
+    "id": "psx149",
     "igdbId": 45101,
     "gbId": 11777,
     "gbGuid": "3030-11777",
@@ -3958,7 +4283,7 @@
   },
   {
     "name": "Critical Blow",
-    "id": "psx142",
+    "id": "psx150",
     "igdbId": 44797,
     "gbId": 28087,
     "gbGuid": "3030-28087",
@@ -3982,7 +4307,7 @@
   },
   {
     "name": "Criticom (Japan)",
-    "id": "psx143",
+    "id": "psx151",
     "igdbId": 19165,
     "gbId": 6800,
     "gbGuid": "3030-6800",
@@ -4015,7 +4340,7 @@
   },
   {
     "name": "Croc 2",
-    "id": "psx144",
+    "id": "psx152",
     "igdbId": 7902,
     "gbId": 6301,
     "gbGuid": "3030-6301",
@@ -4033,7 +4358,7 @@
   },
   {
     "name": "Croc: Legend of the Gobbos",
-    "id": "psx145",
+    "id": "psx153",
     "igdbId": 7901,
     "gbId": 9450,
     "gbGuid": "3030-9450",
@@ -4060,7 +4385,7 @@
   },
   {
     "name": "Crypt Killer",
-    "id": "psx146",
+    "id": "psx154",
     "igdbId": 20737,
     "gbId": 550,
     "gbGuid": "3030-550",
@@ -4087,7 +4412,7 @@
   },
   {
     "name": "Cyber Org",
-    "id": "psx147",
+    "id": "psx155",
     "igdbId": 72900,
     "gbId": 22405,
     "gbGuid": "3030-22405",
@@ -4111,7 +4436,7 @@
   },
   {
     "name": "Cyber Sled",
-    "id": "psx148",
+    "id": "psx156",
     "igdbId": 20626,
     "gbId": 5917,
     "gbGuid": "3030-5917",
@@ -4139,7 +4464,7 @@
   },
   {
     "name": "CyberSpeed",
-    "id": "psx149",
+    "id": "psx157",
     "igdbId": 20268,
     "gbId": 20348,
     "gbGuid": "3030-20348",
@@ -4167,7 +4492,7 @@
   },
   {
     "name": "Cyberia",
-    "id": "psx150",
+    "id": "psx158",
     "igdbId": 4331,
     "gbId": 18074,
     "gbGuid": "3030-18074",
@@ -4195,7 +4520,7 @@
   },
   {
     "name": "D",
-    "id": "psx151",
+    "id": "psx159",
     "igdbId": 4319,
     "gbId": null,
     "gbGuid": null,
@@ -4223,7 +4548,7 @@
   },
   {
     "name": "DOOM",
-    "id": "psx152",
+    "id": "psx160",
     "igdbId": 673,
     "gbId": 7326,
     "gbGuid": "3030-7326",
@@ -4263,7 +4588,7 @@
   },
   {
     "name": "Dance Dance Revolution KONAMIX",
-    "id": "psx153",
+    "id": "psx161",
     "igdbId": 23794,
     "gbId": 20189,
     "gbGuid": "3030-20189",
@@ -4290,7 +4615,7 @@
   },
   {
     "name": "Danger Girl",
-    "id": "psx154",
+    "id": "psx162",
     "igdbId": 45226,
     "gbId": 5756,
     "gbGuid": "3030-5756",
@@ -4314,7 +4639,7 @@
   },
   {
     "name": "Dare Devil Derby 3D",
-    "id": "psx155",
+    "id": "psx163",
     "igdbId": 43916,
     "gbId": 48819,
     "gbGuid": "3030-48819",
@@ -4342,7 +4667,7 @@
   },
   {
     "name": "Darkstalkers",
-    "id": "psx156",
+    "id": "psx164",
     "igdbId": 20009,
     "gbId": 16793,
     "gbGuid": "3030-16793",
@@ -4370,7 +4695,7 @@
   },
   {
     "name": "Dave Mirra Freestyle BMX",
-    "id": "psx157",
+    "id": "psx165",
     "igdbId": 26012,
     "gbId": 9243,
     "gbGuid": "3030-9243",
@@ -4396,8 +4721,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Dead in the Water",
+    "id": "psx166",
+    "igdbId": 22846,
+    "gbId": 1508,
+    "gbGuid": "3030-1508",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Deathtrap Dungeon",
-    "id": "psx158",
+    "id": "psx167",
     "igdbId": 8470,
     "gbId": 2870,
     "gbGuid": "3030-2870",
@@ -4420,7 +4772,7 @@
   },
   {
     "name": "Deep Freeze",
-    "id": "psx159",
+    "id": "psx168",
     "igdbId": 44757,
     "gbId": 34450,
     "gbGuid": "3030-34450",
@@ -4444,7 +4796,7 @@
   },
   {
     "name": "Defcon 5",
-    "id": "psx160",
+    "id": "psx169",
     "igdbId": 2505,
     "gbId": 14703,
     "gbGuid": "3030-14703",
@@ -4472,13 +4824,14 @@
   },
   {
     "name": "Descent",
-    "id": "psx161",
+    "id": "psx170",
     "igdbId": 1872,
     "gbId": 17071,
     "gbGuid": "3030-17071",
     "tgdbId": 2299,
     "details": [
-      "PlayStation Long Box Game"
+      "PlayStation Long Box Game",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -4494,20 +4847,60 @@
           "tgdbId": 10
         },
         "category": "series"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Descent Maximum",
+    "id": "psx171",
+    "igdbId": 20130,
+    "gbId": 15187,
+    "gbGuid": "3030-15187",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Destruction Derby (GH)",
-    "id": "psx162",
+    "id": "psx172",
     "igdbId": 1168,
     "gbId": 786,
     "gbGuid": "3030-786",
     "details": [
       "Sony PlayStation Greatest Hits",
       "PlayStation Long Box Game",
-      "PlayStation 2 backward compatibility issue: APPLIES ONLY TO SCPH-3000X PS2 MODELS: Game does not recognize memory card."
+      "PlayStation 2 backward compatibility issue: APPLIES ONLY TO SCPH-3000X PS2 MODELS: Game does not recognize memory card.",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -4547,6 +4940,18 @@
           "tgdbId": 10
         },
         "category": "backwardsCompatibility"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": [
@@ -4559,7 +4964,7 @@
   },
   {
     "name": "Destruction Derby 2",
-    "id": "psx163",
+    "id": "psx173",
     "igdbId": 1170,
     "gbId": 13776,
     "gbGuid": "3030-13776",
@@ -4599,7 +5004,7 @@
   },
   {
     "name": "Destruction Derby RAW",
-    "id": "psx164",
+    "id": "psx174",
     "igdbId": 1169,
     "gbId": 10337,
     "gbGuid": "3030-10337",
@@ -4650,7 +5055,7 @@
   },
   {
     "name": "Devil Dice",
-    "id": "psx165",
+    "id": "psx175",
     "igdbId": 28400,
     "gbId": 16824,
     "gbGuid": "3030-16824",
@@ -4690,7 +5095,7 @@
   },
   {
     "name": "Dexter's Laboratory: Mandark's Lab?",
-    "id": "psx166",
+    "id": "psx176",
     "igdbId": 2814,
     "gbId": 16536,
     "gbGuid": "3030-16536",
@@ -4714,7 +5119,7 @@
   },
   {
     "name": "Die Hard Trilogy (PAL)(GH)",
-    "id": "psx167",
+    "id": "psx177",
     "igdbId": 8234,
     "gbId": 19345,
     "gbGuid": "3030-19345",
@@ -4760,7 +5165,7 @@
   },
   {
     "name": "Die Hard Trilogy 2: Viva Las Vegas",
-    "id": "psx168",
+    "id": "psx178",
     "igdbId": 44952,
     "gbId": 8941,
     "gbGuid": "3030-8941",
@@ -4787,7 +5192,7 @@
   },
   {
     "name": "Digimon Digital Card Battle",
-    "id": "psx169",
+    "id": "psx179",
     "igdbId": 44819,
     "gbId": 12071,
     "gbGuid": "3030-12071",
@@ -4825,7 +5230,7 @@
   },
   {
     "name": "Digimon Rumble Arena",
-    "id": "psx170",
+    "id": "psx180",
     "igdbId": 4133,
     "gbId": 18389,
     "gbGuid": "3030-18389",
@@ -4863,7 +5268,7 @@
   },
   {
     "name": "Digimon World",
-    "id": "psx171",
+    "id": "psx181",
     "igdbId": 8614,
     "gbId": 3899,
     "gbGuid": "3030-3899",
@@ -4890,7 +5295,7 @@
   },
   {
     "name": "Digimon World 2",
-    "id": "psx172",
+    "id": "psx182",
     "igdbId": 36508,
     "gbId": 17979,
     "gbGuid": "3030-17979",
@@ -4928,7 +5333,7 @@
   },
   {
     "name": "Digimon World 3",
-    "id": "psx173",
+    "id": "psx183",
     "igdbId": 19678,
     "gbId": 3879,
     "gbGuid": "3030-3879",
@@ -4966,7 +5371,7 @@
   },
   {
     "name": "Dino Crisis",
-    "id": "psx174",
+    "id": "psx184",
     "igdbId": 3027,
     "gbId": 11917,
     "gbGuid": "3030-11917",
@@ -4993,7 +5398,7 @@
   },
   {
     "name": "Dino Crisis 2 (PAL)",
-    "id": "psx175",
+    "id": "psx185",
     "igdbId": 4132,
     "gbId": 4035,
     "gbGuid": "3030-4035",
@@ -5011,7 +5416,7 @@
   },
   {
     "name": "Discworld",
-    "id": "psx176",
+    "id": "psx186",
     "igdbId": 8291,
     "gbId": 3460,
     "gbGuid": "3030-3460",
@@ -5039,7 +5444,7 @@
   },
   {
     "name": "Disney's 102 Dalmatians: Puppies to the Rescue",
-    "id": "psx177",
+    "id": "psx187",
     "igdbId": 2361,
     "gbId": 9637,
     "gbGuid": "3030-9637",
@@ -5067,7 +5472,7 @@
   },
   {
     "name": "Disney's Goofy's Fun House",
-    "id": "psx178",
+    "id": "psx188",
     "igdbId": 43895,
     "gbId": 34227,
     "gbGuid": "3030-34227",
@@ -5091,7 +5496,7 @@
   },
   {
     "name": "Disney's Lilo & Stitch: Trouble in Paradise (PAL)(FR)(Controller bundle)",
-    "id": "psx179",
+    "id": "psx189",
     "igdbId": 23792,
     "gbId": 49920,
     "gbGuid": "3030-49920",
@@ -5109,7 +5514,7 @@
   },
   {
     "name": "Disney's Tarzan",
-    "id": "psx180",
+    "id": "psx190",
     "igdbId": 10662,
     "gbId": 13775,
     "gbGuid": "3030-13775",
@@ -5136,7 +5541,7 @@
   },
   {
     "name": "Disney/Pixar A Bug's Life",
-    "id": "psx181",
+    "id": "psx191",
     "igdbId": 2847,
     "gbId": 16561,
     "gbGuid": "3030-16561",
@@ -5163,7 +5568,7 @@
   },
   {
     "name": "Disruptor",
-    "id": "psx182",
+    "id": "psx192",
     "igdbId": 20654,
     "gbId": 16971,
     "gbGuid": "3030-16971",
@@ -5187,7 +5592,7 @@
   },
   {
     "name": "DoDonPachi",
-    "id": "psx183",
+    "id": "psx193",
     "igdbId": 1666,
     "gbId": 21705,
     "gbGuid": "3030-21705",
@@ -5213,8 +5618,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Dodgem Arena",
+    "id": "psx194",
+    "igdbId": 43693,
+    "gbId": 30788,
+    "gbGuid": "3030-30788",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (EU exclusive)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (EU exclusive)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "DonPachi",
-    "id": "psx184",
+    "id": "psx195",
     "igdbId": 1665,
     "gbId": 22550,
     "gbGuid": "3030-22550",
@@ -5241,7 +5673,7 @@
   },
   {
     "name": "Donald Duck: Goin' Quackers",
-    "id": "psx185",
+    "id": "psx196",
     "igdbId": 10610,
     "gbId": 9551,
     "gbGuid": "3030-9551",
@@ -5258,8 +5690,35 @@
     ]
   },
   {
+    "name": "Doom",
+    "id": "psx197",
+    "igdbId": 170995,
+    "gbId": 7326,
+    "gbGuid": "3030-7326",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Doraemon 2: SOS! Otogi no Kuni",
-    "id": "psx186",
+    "id": "psx198",
     "igdbId": 78579,
     "gbId": 33935,
     "gbGuid": "3030-33935",
@@ -5282,7 +5741,7 @@
   },
   {
     "name": "Dragon Ball GT: Final Bout",
-    "id": "psx187",
+    "id": "psx199",
     "igdbId": 2558,
     "gbId": 18645,
     "gbGuid": "3030-18645",
@@ -5306,7 +5765,7 @@
   },
   {
     "name": "Dragon Ball Z: Ultimate Battle 22",
-    "id": "psx188",
+    "id": "psx200",
     "igdbId": 2543,
     "gbId": 1490,
     "gbGuid": "3030-1490",
@@ -5344,7 +5803,7 @@
   },
   {
     "name": "Dragon Quest VII",
-    "id": "psx189",
+    "id": "psx201",
     "igdbId": 1818,
     "gbId": 2254,
     "gbGuid": "3030-2254",
@@ -5362,7 +5821,7 @@
   },
   {
     "name": "Driver",
-    "id": "psx190",
+    "id": "psx202",
     "igdbId": 675,
     "gbId": 7020,
     "gbGuid": "3030-7020",
@@ -5389,7 +5848,7 @@
   },
   {
     "name": "Driver 2: Back on the Streets",
-    "id": "psx191",
+    "id": "psx203",
     "igdbId": 6391,
     "gbId": 10953,
     "gbGuid": "3030-10953",
@@ -5422,7 +5881,7 @@
   },
   {
     "name": "Duke Nukem 3D (PAL)",
-    "id": "psx192",
+    "id": "psx204",
     "igdbId": 342,
     "gbId": 3407,
     "gbGuid": "3030-3407",
@@ -5440,7 +5899,7 @@
   },
   {
     "name": "Duke Nukem: Land of the Babes",
-    "id": "psx193",
+    "id": "psx205",
     "igdbId": 8504,
     "gbId": 6614,
     "gbGuid": "3030-6614",
@@ -5464,7 +5923,7 @@
   },
   {
     "name": "Duke Nukem: Time to Kill",
-    "id": "psx194",
+    "id": "psx206",
     "igdbId": 4130,
     "gbId": 6654,
     "gbGuid": "3030-6654",
@@ -5501,8 +5960,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Duke Nukem: Total Meltdown",
+    "id": "psx207",
+    "igdbId": 44885,
+    "gbId": 3407,
+    "gbGuid": "3030-3407",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dukes of Hazzard: Racing for Home",
-    "id": "psx195",
+    "id": "psx208",
     "igdbId": 144950,
     "gbId": 12090,
     "gbGuid": "3030-12090",
@@ -5528,8 +6014,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Dune 2000",
+    "id": "psx209",
+    "igdbId": 87,
+    "gbId": 1552,
+    "gbGuid": "3030-1552",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dynasty Warriors",
-    "id": "psx196",
+    "id": "psx210",
     "igdbId": 2982,
     "gbId": 9658,
     "gbGuid": "3030-9658",
@@ -5553,7 +6066,7 @@
   },
   {
     "name": "E.T. Interplanetary Mission",
-    "id": "psx197",
+    "id": "psx211",
     "igdbId": 44985,
     "gbId": 35757,
     "gbGuid": "3030-35757",
@@ -5577,7 +6090,7 @@
   },
   {
     "name": "ESPN Extreme Games",
-    "id": "psx198",
+    "id": "psx212",
     "igdbId": 20587,
     "gbId": 1870,
     "gbGuid": "3030-1870",
@@ -5639,7 +6152,7 @@
   },
   {
     "name": "ESPN MLS GameNight",
-    "id": "psx199",
+    "id": "psx213",
     "igdbId": 93462,
     "gbId": 1988,
     "gbGuid": "3030-1988",
@@ -5663,7 +6176,7 @@
   },
   {
     "name": "Eagle One: Harrier Attack",
-    "id": "psx200",
+    "id": "psx214",
     "igdbId": 44948,
     "gbId": 3302,
     "gbGuid": "3030-3302",
@@ -5687,7 +6200,7 @@
   },
   {
     "name": "Einhänder",
-    "id": "psx201",
+    "id": "psx215",
     "igdbId": null,
     "gbId": 16495,
     "gbGuid": "3030-16495",
@@ -5705,7 +6218,7 @@
   },
   {
     "name": "Elemental Gearbolt",
-    "id": "psx202",
+    "id": "psx216",
     "igdbId": 9137,
     "gbId": 11912,
     "gbGuid": "3030-11912",
@@ -5743,7 +6256,7 @@
   },
   {
     "name": "Enigma",
-    "id": "psx203",
+    "id": "psx217",
     "igdbId": 78144,
     "gbId": 63052,
     "gbGuid": "3030-63052",
@@ -5767,7 +6280,7 @@
   },
   {
     "name": "Eternal Eyes",
-    "id": "psx204",
+    "id": "psx218",
     "igdbId": 69684,
     "gbId": 12050,
     "gbGuid": "3030-12050",
@@ -5785,7 +6298,7 @@
   },
   {
     "name": "Everybody's Golf",
-    "id": "psx205",
+    "id": "psx219",
     "igdbId": 36665,
     "gbId": 47827,
     "gbGuid": "3030-47827",
@@ -5809,7 +6322,7 @@
   },
   {
     "name": "Everybody's Golf",
-    "id": "psx206",
+    "id": "psx220",
     "igdbId": 28187,
     "gbId": null,
     "gbGuid": null,
@@ -5836,7 +6349,7 @@
   },
   {
     "name": "Everybody's Golf 2",
-    "id": "psx207",
+    "id": "psx221",
     "igdbId": 36558,
     "gbId": null,
     "gbGuid": null,
@@ -5874,7 +6387,7 @@
   },
   {
     "name": "Evil Zone",
-    "id": "psx208",
+    "id": "psx222",
     "igdbId": 4129,
     "gbId": 12014,
     "gbGuid": "3030-12014",
@@ -5903,8 +6416,35 @@
     ]
   },
   {
+    "name": "Explosive Racing",
+    "id": "psx223",
+    "igdbId": 44854,
+    "gbId": 24330,
+    "gbGuid": "3030-24330",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (X-Racing in Japan)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (X-Racing in Japan)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Extreme Ghostbusters: The Ultimate Invasion",
-    "id": "psx209",
+    "id": "psx224",
     "igdbId": 8162,
     "gbId": 31975,
     "gbGuid": "3030-31975",
@@ -5931,7 +6471,7 @@
   },
   {
     "name": "Extreme Pinball",
-    "id": "psx210",
+    "id": "psx225",
     "igdbId": 50462,
     "gbId": 14033,
     "gbGuid": "3030-14033",
@@ -5949,7 +6489,7 @@
   },
   {
     "name": "FIFA 97",
-    "id": "psx211",
+    "id": "psx226",
     "igdbId": 45582,
     "gbId": null,
     "gbGuid": null,
@@ -5976,7 +6516,7 @@
   },
   {
     "name": "FIFA 99",
-    "id": "psx212",
+    "id": "psx227",
     "igdbId": 699,
     "gbId": 15945,
     "gbGuid": "3030-15945",
@@ -6003,7 +6543,7 @@
   },
   {
     "name": "FIFA Soccer 96",
-    "id": "psx213",
+    "id": "psx228",
     "igdbId": 704,
     "gbId": 14524,
     "gbGuid": "3030-14524",
@@ -6031,7 +6571,7 @@
   },
   {
     "name": "FIFA Soccer 97",
-    "id": "psx214",
+    "id": "psx229",
     "igdbId": 71398,
     "gbId": 3383,
     "gbGuid": "3030-3383",
@@ -6059,7 +6599,7 @@
   },
   {
     "name": "FIFA: Road to World Cup 98",
-    "id": "psx215",
+    "id": "psx230",
     "igdbId": 705,
     "gbId": 11207,
     "gbGuid": "3030-11207",
@@ -6086,7 +6626,7 @@
   },
   {
     "name": "Fade to Black",
-    "id": "psx216",
+    "id": "psx231",
     "igdbId": 12427,
     "gbId": 15844,
     "gbGuid": "3030-15844",
@@ -6114,7 +6654,7 @@
   },
   {
     "name": "Fantastic Four",
-    "id": "psx217",
+    "id": "psx232",
     "igdbId": 3914,
     "gbId": 2660,
     "gbGuid": "3030-2660",
@@ -6138,7 +6678,7 @@
   },
   {
     "name": "Fear Effect",
-    "id": "psx218",
+    "id": "psx233",
     "igdbId": 8600,
     "gbId": 7360,
     "gbGuid": "3030-7360",
@@ -6168,7 +6708,7 @@
   },
   {
     "name": "Fear Effect 2: Retro Helix",
-    "id": "psx219",
+    "id": "psx234",
     "igdbId": 8601,
     "gbId": 17000,
     "gbGuid": "3030-17000",
@@ -6192,7 +6732,7 @@
   },
   {
     "name": "Felony 11-79",
-    "id": "psx220",
+    "id": "psx235",
     "igdbId": 45078,
     "gbId": 32645,
     "gbGuid": "3030-32645",
@@ -6216,7 +6756,7 @@
   },
   {
     "name": "Fighter Maker",
-    "id": "psx221",
+    "id": "psx236",
     "igdbId": 4636,
     "gbId": 25377,
     "gbGuid": "3030-25377",
@@ -6244,7 +6784,7 @@
   },
   {
     "name": "Fighting Force",
-    "id": "psx222",
+    "id": "psx237",
     "igdbId": 2542,
     "gbId": 14996,
     "gbGuid": "3030-14996",
@@ -6270,8 +6810,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Final DOOM",
+    "id": "psx238",
+    "igdbId": 8191,
+    "gbId": 750,
+    "gbGuid": "3030-750",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Final Fantasy Anthology",
-    "id": "psx223",
+    "id": "psx239",
     "igdbId": 146214,
     "gbId": 4338,
     "gbGuid": "3030-4338",
@@ -6298,7 +6865,7 @@
   },
   {
     "name": "Final Fantasy Anthology",
-    "id": "psx224",
+    "id": "psx240",
     "igdbId": 423,
     "gbId": 4338,
     "gbGuid": "3030-4338",
@@ -6326,7 +6893,7 @@
   },
   {
     "name": "Final Fantasy Chronicles",
-    "id": "psx225",
+    "id": "psx241",
     "igdbId": 420,
     "gbId": 14455,
     "gbGuid": "3030-14455",
@@ -6370,7 +6937,7 @@
   },
   {
     "name": "Final Fantasy IX",
-    "id": "psx226",
+    "id": "psx242",
     "igdbId": 421,
     "gbId": 8825,
     "gbGuid": "3030-8825",
@@ -6418,7 +6985,7 @@
   },
   {
     "name": "Final Fantasy Origins",
-    "id": "psx227",
+    "id": "psx243",
     "igdbId": 417,
     "gbId": 7866,
     "gbGuid": "3030-7866",
@@ -6445,7 +7012,7 @@
   },
   {
     "name": "Final Fantasy Tactics",
-    "id": "psx228",
+    "id": "psx244",
     "igdbId": 428,
     "gbId": 19864,
     "gbGuid": "3030-19864",
@@ -6496,7 +7063,7 @@
   },
   {
     "name": "Final Fantasy VII",
-    "id": "psx229",
+    "id": "psx245",
     "igdbId": 427,
     "gbId": 13053,
     "gbGuid": "3030-13053",
@@ -6589,7 +7156,7 @@
   },
   {
     "name": "Final Fantasy VIII",
-    "id": "psx230",
+    "id": "psx246",
     "igdbId": 425,
     "gbId": 12277,
     "gbGuid": "3030-12277",
@@ -6647,7 +7214,7 @@
   },
   {
     "name": "Firebugs",
-    "id": "psx231",
+    "id": "psx247",
     "igdbId": 43859,
     "gbId": 9133,
     "gbGuid": "3030-9133",
@@ -6671,7 +7238,7 @@
   },
   {
     "name": "Floating Runner: Quest for the 7 Crystals",
-    "id": "psx232",
+    "id": "psx248",
     "igdbId": 44943,
     "gbId": 32062,
     "gbGuid": "3030-32062",
@@ -6695,7 +7262,7 @@
   },
   {
     "name": "Football Madness",
-    "id": "psx233",
+    "id": "psx249",
     "igdbId": 43805,
     "gbId": null,
     "gbGuid": null,
@@ -6719,12 +7286,13 @@
   },
   {
     "name": "Formula 1",
-    "id": "psx234",
+    "id": "psx250",
     "igdbId": 8294,
     "gbId": 8595,
     "gbGuid": "3030-8595",
     "details": [
-      "Sony PlayStation Greatest Hits"
+      "Sony PlayStation Greatest Hits",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -6740,19 +7308,32 @@
           "tgdbId": 10
         },
         "category": "hits"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Formula 1 98",
-    "id": "psx235",
+    "id": "psx251",
     "igdbId": 8296,
     "gbId": 8792,
     "gbGuid": "3030-8792",
     "tgdbId": 13020,
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation game Link Cable compatible (2 to 4 players)"
     ],
     "isExclusive": [
       {
@@ -6765,12 +7346,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (2 to 4 players)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Formula One 2000",
-    "id": "psx236",
+    "id": "psx252",
     "igdbId": 8298,
     "gbId": 20248,
     "gbGuid": "3030-20248",
@@ -6788,7 +7382,7 @@
   },
   {
     "name": "Formula One Arcade",
-    "id": "psx237",
+    "id": "psx253",
     "igdbId": 66335,
     "gbId": 32948,
     "gbGuid": "3030-32948",
@@ -6812,7 +7406,7 @@
   },
   {
     "name": "Fox Hunt",
-    "id": "psx238",
+    "id": "psx254",
     "igdbId": 44984,
     "gbId": 13291,
     "gbGuid": "3030-13291",
@@ -6830,7 +7424,7 @@
   },
   {
     "name": "Frank Thomas Big Hurt Baseball",
-    "id": "psx239",
+    "id": "psx255",
     "igdbId": 20405,
     "gbId": 6736,
     "gbGuid": "3030-6736",
@@ -6858,7 +7452,7 @@
   },
   {
     "name": "Frogger",
-    "id": "psx240",
+    "id": "psx256",
     "igdbId": 11465,
     "gbId": 24704,
     "gbGuid": "3030-24704",
@@ -6898,7 +7492,7 @@
   },
   {
     "name": "Frogger 2: Swampy's Revenge",
-    "id": "psx241",
+    "id": "psx257",
     "igdbId": 11466,
     "gbId": 9752,
     "gbGuid": "3030-9752",
@@ -6925,7 +7519,7 @@
   },
   {
     "name": "From TV Animation: One Piece Grand Battle!",
-    "id": "psx242",
+    "id": "psx258",
     "igdbId": 75738,
     "gbId": 36329,
     "gbGuid": "3030-36329",
@@ -6949,7 +7543,7 @@
   },
   {
     "name": "From TV Animation: One Piece Grand Battle! 2",
-    "id": "psx243",
+    "id": "psx259",
     "igdbId": 75743,
     "gbId": 36328,
     "gbGuid": "3030-36328",
@@ -6973,7 +7567,7 @@
   },
   {
     "name": "G-Police: Weapons of Justice",
-    "id": "psx244",
+    "id": "psx260",
     "igdbId": 8306,
     "gbId": 3386,
     "gbGuid": "3030-3386",
@@ -6997,7 +7591,7 @@
   },
   {
     "name": "GP Challenge",
-    "id": "psx245",
+    "id": "psx261",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -7020,7 +7614,7 @@
   },
   {
     "name": "Galerians",
-    "id": "psx246",
+    "id": "psx262",
     "igdbId": 54552,
     "gbId": 11126,
     "gbGuid": "3030-11126",
@@ -7044,7 +7638,7 @@
   },
   {
     "name": "Gamera 2000",
-    "id": "psx247",
+    "id": "psx263",
     "igdbId": 44865,
     "gbId": 5082,
     "gbGuid": "3030-5082",
@@ -7068,7 +7662,7 @@
   },
   {
     "name": "Ganbare Goemon: Kuru Nara Koi! Ayashi Geikka no Kuroi Kage",
-    "id": "psx248",
+    "id": "psx264",
     "igdbId": 68750,
     "gbId": 13034,
     "gbGuid": "3030-13034",
@@ -7091,7 +7685,7 @@
   },
   {
     "name": "Ganbare Goemon: Ooedo Daikaiten",
-    "id": "psx249",
+    "id": "psx265",
     "igdbId": 44794,
     "gbId": 17001,
     "gbGuid": "3030-17001",
@@ -7115,7 +7709,7 @@
   },
   {
     "name": "Gekido",
-    "id": "psx250",
+    "id": "psx266",
     "igdbId": 4128,
     "gbId": 905,
     "gbGuid": "3030-905",
@@ -7139,7 +7733,7 @@
   },
   {
     "name": "Gekitotsu Toma L'Arc: Tomarunner vs L'Arc-en-Ciel",
-    "id": "psx251",
+    "id": "psx267",
     "igdbId": 44761,
     "gbId": 38253,
     "gbGuid": "3030-38253",
@@ -7163,7 +7757,7 @@
   },
   {
     "name": "Genei Tougi: Shadow Struggle",
-    "id": "psx252",
+    "id": "psx268",
     "igdbId": 43815,
     "gbId": 28088,
     "gbGuid": "3030-28088",
@@ -7187,7 +7781,7 @@
   },
   {
     "name": "Genso Suikogaiden Volume 1: Swordsman of Harmonia",
-    "id": "psx253",
+    "id": "psx269",
     "igdbId": 1455,
     "gbId": null,
     "gbGuid": null,
@@ -7210,7 +7804,7 @@
   },
   {
     "name": "Geom Cube",
-    "id": "psx254",
+    "id": "psx270",
     "igdbId": 44758,
     "gbId": 5182,
     "gbGuid": "3030-5182",
@@ -7238,7 +7832,7 @@
   },
   {
     "name": "Gex",
-    "id": "psx255",
+    "id": "psx271",
     "igdbId": 4309,
     "gbId": 1798,
     "gbGuid": "3030-1798",
@@ -7271,7 +7865,7 @@
   },
   {
     "name": "Ghost in the Shell",
-    "id": "psx256",
+    "id": "psx272",
     "igdbId": 8336,
     "gbId": 14899,
     "gbGuid": "3030-14899",
@@ -7295,7 +7889,7 @@
   },
   {
     "name": "Ghoul Panic",
-    "id": "psx257",
+    "id": "psx273",
     "igdbId": 14392,
     "gbId": 1538,
     "gbGuid": "3030-1538",
@@ -7322,7 +7916,7 @@
   },
   {
     "name": "Giant Gram: All Japan Pro Wrestling 2",
-    "id": "psx258",
+    "id": "psx274",
     "igdbId": 45828,
     "gbId": 68541,
     "gbGuid": "3030-68541",
@@ -7349,7 +7943,7 @@
   },
   {
     "name": "Goal Storm",
-    "id": "psx259",
+    "id": "psx275",
     "igdbId": 20315,
     "gbId": 31422,
     "gbGuid": "3030-31422",
@@ -7387,7 +7981,7 @@
   },
   {
     "name": "Godzilla Trading Battle",
-    "id": "psx260",
+    "id": "psx276",
     "igdbId": 72806,
     "gbId": 22891,
     "gbGuid": "3030-22891",
@@ -7410,7 +8004,7 @@
   },
   {
     "name": "Golden Nugget",
-    "id": "psx261",
+    "id": "psx277",
     "igdbId": 43751,
     "gbId": 14269,
     "gbGuid": "3030-14269",
@@ -7428,7 +8022,7 @@
   },
   {
     "name": "Gran Turismo",
-    "id": "psx262",
+    "id": "psx278",
     "igdbId": 1594,
     "gbId": 2416,
     "gbGuid": "3030-2416",
@@ -7477,7 +8071,7 @@
   },
   {
     "name": "Gran Turismo 2",
-    "id": "psx263",
+    "id": "psx279",
     "igdbId": 1597,
     "gbId": 8100,
     "gbGuid": "3030-8100",
@@ -7526,7 +8120,7 @@
   },
   {
     "name": "Gran Turismo 2 Demo",
-    "id": "psx264",
+    "id": "psx280",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -7553,7 +8147,7 @@
   },
   {
     "name": "Grand Theft Auto",
-    "id": "psx265",
+    "id": "psx281",
     "igdbId": 980,
     "gbId": 13567,
     "gbGuid": "3030-13567",
@@ -7591,7 +8185,7 @@
   },
   {
     "name": "Grand Theft Auto 2",
-    "id": "psx266",
+    "id": "psx282",
     "igdbId": 819,
     "gbId": 10593,
     "gbGuid": "3030-10593",
@@ -7618,7 +8212,7 @@
   },
   {
     "name": "Grand Theft Auto 2 (GH)",
-    "id": "psx267",
+    "id": "psx283",
     "igdbId": 200403,
     "gbId": 10593,
     "gbGuid": "3030-10593",
@@ -7636,7 +8230,7 @@
   },
   {
     "name": "Grand Theft Auto: Collector's Edition (PAL)",
-    "id": "psx268",
+    "id": "psx284",
     "igdbId": 43853,
     "gbId": 13567,
     "gbGuid": "3030-13567",
@@ -7654,7 +8248,7 @@
   },
   {
     "name": "Grandia",
-    "id": "psx269",
+    "id": "psx285",
     "igdbId": 4127,
     "gbId": 17659,
     "gbGuid": "3030-17659",
@@ -7672,7 +8266,7 @@
   },
   {
     "name": "Grind Session",
-    "id": "psx270",
+    "id": "psx286",
     "igdbId": 45018,
     "gbId": 5464,
     "gbGuid": "3030-5464",
@@ -7696,7 +8290,7 @@
   },
   {
     "name": "Grudge Warriors",
-    "id": "psx271",
+    "id": "psx287",
     "igdbId": 19269,
     "gbId": 22941,
     "gbGuid": "3030-22941",
@@ -7720,7 +8314,7 @@
   },
   {
     "name": "Gunbare! Game Tengoku: The Game Paradise 2",
-    "id": "psx272",
+    "id": "psx288",
     "igdbId": 56031,
     "gbId": 59733,
     "gbGuid": "3030-59733",
@@ -7747,7 +8341,7 @@
   },
   {
     "name": "Gundam Battle Assault 2",
-    "id": "psx273",
+    "id": "psx289",
     "igdbId": 45007,
     "gbId": 1647,
     "gbGuid": "3030-1647",
@@ -7765,7 +8359,7 @@
   },
   {
     "name": "Gundam: Battle Assault",
-    "id": "psx274",
+    "id": "psx290",
     "igdbId": 45006,
     "gbId": 22634,
     "gbGuid": "3030-22634",
@@ -7803,7 +8397,7 @@
   },
   {
     "name": "Gunfighter II: Revenge of Jesse James",
-    "id": "psx275",
+    "id": "psx291",
     "igdbId": 44936,
     "gbId": 12852,
     "gbGuid": "3030-12852",
@@ -7841,7 +8435,7 @@
   },
   {
     "name": "Gungage",
-    "id": "psx276",
+    "id": "psx292",
     "igdbId": 44863,
     "gbId": 24319,
     "gbGuid": "3030-24319",
@@ -7865,7 +8459,7 @@
   },
   {
     "name": "Gunnm: Martian Memory",
-    "id": "psx277",
+    "id": "psx293",
     "igdbId": 23152,
     "gbId": 45257,
     "gbGuid": "3030-45257",
@@ -7889,7 +8483,7 @@
   },
   {
     "name": "Gunship",
-    "id": "psx278",
+    "id": "psx294",
     "igdbId": 20295,
     "gbId": 39743,
     "gbGuid": "3030-39743",
@@ -7917,7 +8511,7 @@
   },
   {
     "name": "Guntu Western Front June, 1944",
-    "id": "psx279",
+    "id": "psx295",
     "igdbId": 62288,
     "gbId": 45176,
     "gbGuid": "3030-45176",
@@ -7944,7 +8538,7 @@
   },
   {
     "name": "HardBall 5",
-    "id": "psx280",
+    "id": "psx296",
     "igdbId": 4467,
     "gbId": 13851,
     "gbGuid": "3030-13851",
@@ -7972,7 +8566,7 @@
   },
   {
     "name": "Harry Potter and the Sorcerer's Stone (GH)",
-    "id": "psx281",
+    "id": "psx297",
     "igdbId": 341,
     "gbId": 577,
     "gbGuid": "3030-577",
@@ -8005,7 +8599,7 @@
   },
   {
     "name": "Haunted Junction",
-    "id": "psx282",
+    "id": "psx298",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8028,7 +8622,7 @@
   },
   {
     "name": "Hellnight",
-    "id": "psx283",
+    "id": "psx299",
     "igdbId": 14160,
     "gbId": 10568,
     "gbGuid": "3030-10568",
@@ -8052,7 +8646,7 @@
   },
   {
     "name": "Hello Kitty's Cube Frenzy",
-    "id": "psx284",
+    "id": "psx300",
     "igdbId": 3687,
     "gbId": 32678,
     "gbGuid": "3030-32678",
@@ -8070,7 +8664,7 @@
   },
   {
     "name": "Hermie Hopperhead: Scrap Panic",
-    "id": "psx285",
+    "id": "psx301",
     "igdbId": 44800,
     "gbId": 31022,
     "gbGuid": "3030-31022",
@@ -8094,7 +8688,7 @@
   },
   {
     "name": "Hi-Octane",
-    "id": "psx286",
+    "id": "psx302",
     "igdbId": 12434,
     "gbId": 16730,
     "gbGuid": "3030-16730",
@@ -8122,7 +8716,7 @@
   },
   {
     "name": "Hogs of War",
-    "id": "psx287",
+    "id": "psx303",
     "igdbId": 8877,
     "gbId": 16885,
     "gbGuid": "3030-16885",
@@ -8149,7 +8743,7 @@
   },
   {
     "name": "Honoo no Ryourijin: Cooking Fighter Hao",
-    "id": "psx288",
+    "id": "psx304",
     "igdbId": null,
     "gbId": 17138,
     "gbGuid": "3030-17138",
@@ -8172,7 +8766,7 @@
   },
   {
     "name": "Hooters Road Trip",
-    "id": "psx289",
+    "id": "psx305",
     "igdbId": 44934,
     "gbId": 23182,
     "gbGuid": "3030-23182",
@@ -8200,7 +8794,7 @@
   },
   {
     "name": "Hoshigami: Ruining Blue Earth",
-    "id": "psx290",
+    "id": "psx306",
     "igdbId": 45223,
     "gbId": 14011,
     "gbGuid": "3030-14011",
@@ -8224,7 +8818,7 @@
   },
   {
     "name": "Hot Wheels Extreme Racing",
-    "id": "psx291",
+    "id": "psx307",
     "igdbId": 45058,
     "gbId": 7582,
     "gbGuid": "3030-7582",
@@ -8248,7 +8842,7 @@
   },
   {
     "name": "Hot Wheels Turbo Racing",
-    "id": "psx292",
+    "id": "psx308",
     "igdbId": 3371,
     "gbId": 4388,
     "gbGuid": "3030-4388",
@@ -8275,7 +8869,7 @@
   },
   {
     "name": "Hunter X Hunter: Maboroshi no Greed Island",
-    "id": "psx293",
+    "id": "psx309",
     "igdbId": null,
     "gbId": 48794,
     "gbGuid": "3030-48794",
@@ -8302,7 +8896,7 @@
   },
   {
     "name": "IS: internal section",
-    "id": "psx294",
+    "id": "psx310",
     "igdbId": 25094,
     "gbId": 8840,
     "gbGuid": "3030-8840",
@@ -8326,7 +8920,7 @@
   },
   {
     "name": "ISS Pro Evolution",
-    "id": "psx295",
+    "id": "psx311",
     "igdbId": 28403,
     "gbId": 10340,
     "gbGuid": "3030-10340",
@@ -8350,7 +8944,7 @@
   },
   {
     "name": "ISS Pro Evolution 2",
-    "id": "psx296",
+    "id": "psx312",
     "igdbId": null,
     "gbId": 8000,
     "gbGuid": "3030-8000",
@@ -8374,7 +8968,7 @@
   },
   {
     "name": "ISS Pro Evolution Soccer 2",
-    "id": "psx297",
+    "id": "psx313",
     "igdbId": 18681,
     "gbId": 8000,
     "gbGuid": "3030-8000",
@@ -8401,7 +8995,7 @@
   },
   {
     "name": "Imadoki no Vampire: Bloody Bride",
-    "id": "psx298",
+    "id": "psx314",
     "igdbId": 43778,
     "gbId": 11748,
     "gbGuid": "3030-11748",
@@ -8425,7 +9019,7 @@
   },
   {
     "name": "In Cold Blood",
-    "id": "psx299",
+    "id": "psx315",
     "igdbId": 9680,
     "gbId": 10905,
     "gbGuid": "3030-10905",
@@ -8453,7 +9047,7 @@
   },
   {
     "name": "In the Hunt",
-    "id": "psx300",
+    "id": "psx316",
     "igdbId": 10456,
     "gbId": 5178,
     "gbGuid": "3030-5178",
@@ -8480,8 +9074,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Independence Day",
+    "id": "psx317",
+    "igdbId": 19789,
+    "gbId": 4589,
+    "gbGuid": "3030-4589",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Inspector Gadget: Gadget's Crazy Maze",
-    "id": "psx301",
+    "id": "psx318",
     "igdbId": 4863,
     "gbId": 19902,
     "gbGuid": "3030-19902",
@@ -8505,7 +9126,7 @@
   },
   {
     "name": "International Superstar Soccer Pro",
-    "id": "psx302",
+    "id": "psx319",
     "igdbId": 20141,
     "gbId": null,
     "gbGuid": null,
@@ -8529,7 +9150,7 @@
   },
   {
     "name": "International Superstar Soccer Pro '98",
-    "id": "psx303",
+    "id": "psx320",
     "igdbId": 44932,
     "gbId": null,
     "gbGuid": null,
@@ -8567,7 +9188,7 @@
   },
   {
     "name": "International Track & Field",
-    "id": "psx304",
+    "id": "psx321",
     "igdbId": 20406,
     "gbId": 22209,
     "gbGuid": "3030-22209",
@@ -8607,7 +9228,7 @@
   },
   {
     "name": "International Track & Field 2000",
-    "id": "psx305",
+    "id": "psx322",
     "igdbId": 3517,
     "gbId": 6820,
     "gbGuid": "3030-6820",
@@ -8634,7 +9255,7 @@
   },
   {
     "name": "Inuyasha",
-    "id": "psx306",
+    "id": "psx323",
     "igdbId": 100268,
     "gbId": 37429,
     "gbGuid": "3030-37429",
@@ -8658,7 +9279,7 @@
   },
   {
     "name": "Inuyasha: A Feudal Fairy Tale",
-    "id": "psx307",
+    "id": "psx324",
     "igdbId": 45004,
     "gbId": 16165,
     "gbGuid": "3030-16165",
@@ -8682,7 +9303,7 @@
   },
   {
     "name": "Irem Arcade Classics",
-    "id": "psx308",
+    "id": "psx325",
     "igdbId": 92368,
     "gbId": 34884,
     "gbGuid": "3030-34884",
@@ -8709,7 +9330,7 @@
   },
   {
     "name": "Irritating Stick",
-    "id": "psx309",
+    "id": "psx326",
     "igdbId": 92863,
     "gbId": 17253,
     "gbGuid": "3030-17253",
@@ -8733,7 +9354,7 @@
   },
   {
     "name": "Iwatobi Penguin",
-    "id": "psx310",
+    "id": "psx327",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8760,7 +9381,7 @@
   },
   {
     "name": "Iwatobi Penguin 2",
-    "id": "psx311",
+    "id": "psx328",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8787,7 +9408,7 @@
   },
   {
     "name": "J-League Jikkyou Winning Eleven",
-    "id": "psx312",
+    "id": "psx329",
     "igdbId": null,
     "gbId": 39174,
     "gbGuid": "3030-39174",
@@ -8810,7 +9431,7 @@
   },
   {
     "name": "J.League Jikkyou Winning Eleven '97",
-    "id": "psx313",
+    "id": "psx330",
     "igdbId": 44793,
     "gbId": 37613,
     "gbGuid": "3030-37613",
@@ -8834,7 +9455,7 @@
   },
   {
     "name": "J.League Jikkyō Winning Eleven 2001",
-    "id": "psx314",
+    "id": "psx331",
     "igdbId": null,
     "gbId": 73310,
     "gbGuid": "3030-73310",
@@ -8857,7 +9478,7 @@
   },
   {
     "name": "Jackie Chan: Stuntmaster",
-    "id": "psx315",
+    "id": "psx332",
     "igdbId": 18943,
     "gbId": 17277,
     "gbGuid": "3030-17277",
@@ -8881,7 +9502,7 @@
   },
   {
     "name": "James Bond 007: Nightfire",
-    "id": "psx316",
+    "id": "psx333",
     "igdbId": 1631,
     "gbId": 6647,
     "gbGuid": "3030-6647",
@@ -8908,7 +9529,7 @@
   },
   {
     "name": "James Bond 007: The World Is Not Enough",
-    "id": "psx317",
+    "id": "psx334",
     "igdbId": 158962,
     "gbId": 18168,
     "gbGuid": "3030-18168",
@@ -8935,7 +9556,7 @@
   },
   {
     "name": "Jampack Vol. 2",
-    "id": "psx318",
+    "id": "psx335",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8963,7 +9584,7 @@
   },
   {
     "name": "Jeff Wayne's The War of the Worlds",
-    "id": "psx319",
+    "id": "psx336",
     "igdbId": 25730,
     "gbId": 38080,
     "gbGuid": "3030-38080",
@@ -8987,7 +9608,7 @@
   },
   {
     "name": "Jeremy McGrath Supercross 98",
-    "id": "psx320",
+    "id": "psx337",
     "igdbId": 4125,
     "gbId": null,
     "gbGuid": null,
@@ -9025,7 +9646,7 @@
   },
   {
     "name": "Jet Moto",
-    "id": "psx321",
+    "id": "psx338",
     "igdbId": 20717,
     "gbId": 7880,
     "gbGuid": "3030-7880",
@@ -9052,7 +9673,7 @@
   },
   {
     "name": "Jet Moto 2 (GH)",
-    "id": "psx322",
+    "id": "psx339",
     "igdbId": 45214,
     "gbId": 13787,
     "gbGuid": "3030-13787",
@@ -9085,7 +9706,7 @@
   },
   {
     "name": "Jet Moto 3",
-    "id": "psx323",
+    "id": "psx340",
     "igdbId": 45040,
     "gbId": 2264,
     "gbGuid": "3030-2264",
@@ -9103,7 +9724,7 @@
   },
   {
     "name": "Jinx",
-    "id": "psx324",
+    "id": "psx341",
     "igdbId": 22223,
     "gbId": 57710,
     "gbGuid": "3030-57710",
@@ -9127,7 +9748,7 @@
   },
   {
     "name": "Johnny Bazookatone",
-    "id": "psx325",
+    "id": "psx342",
     "igdbId": 4256,
     "gbId": 8695,
     "gbGuid": "3030-8695",
@@ -9155,7 +9776,7 @@
   },
   {
     "name": "Jonah Lomu Rugby",
-    "id": "psx326",
+    "id": "psx343",
     "igdbId": 2401,
     "gbId": 4264,
     "gbGuid": "3030-4264",
@@ -9182,7 +9803,7 @@
   },
   {
     "name": "Judge Dredd",
-    "id": "psx327",
+    "id": "psx344",
     "igdbId": 36742,
     "gbId": 24280,
     "gbGuid": "3030-24280",
@@ -9209,7 +9830,7 @@
   },
   {
     "name": "Juggernaut",
-    "id": "psx328",
+    "id": "psx345",
     "igdbId": 25249,
     "gbId": 29476,
     "gbGuid": "3030-29476",
@@ -9233,7 +9854,7 @@
   },
   {
     "name": "Jumping Flash!",
-    "id": "psx329",
+    "id": "psx346",
     "igdbId": 7432,
     "gbId": 3989,
     "gbGuid": "3030-3989",
@@ -9261,7 +9882,7 @@
   },
   {
     "name": "Jupiter Strike",
-    "id": "psx330",
+    "id": "psx347",
     "igdbId": 20251,
     "gbId": 37294,
     "gbGuid": "3030-37294",
@@ -9289,7 +9910,7 @@
   },
   {
     "name": "K-1 The Arena Fighters",
-    "id": "psx331",
+    "id": "psx348",
     "igdbId": 43723,
     "gbId": 22851,
     "gbGuid": "3030-22851",
@@ -9313,7 +9934,7 @@
   },
   {
     "name": "Kensei: Sacred Fist",
-    "id": "psx332",
+    "id": "psx349",
     "igdbId": 36746,
     "gbId": 6409,
     "gbGuid": "3030-6409",
@@ -9343,7 +9964,7 @@
   },
   {
     "name": "Kileak: The DNA Imperative",
-    "id": "psx333",
+    "id": "psx350",
     "igdbId": 20255,
     "gbId": 14799,
     "gbGuid": "3030-14799",
@@ -9381,7 +10002,7 @@
   },
   {
     "name": "Killing Zone",
-    "id": "psx334",
+    "id": "psx351",
     "igdbId": 20596,
     "gbId": 41034,
     "gbGuid": "3030-41034",
@@ -9405,7 +10026,7 @@
   },
   {
     "name": "King's Field",
-    "id": "psx335",
+    "id": "psx352",
     "igdbId": 7422,
     "gbId": 619,
     "gbGuid": "3030-619",
@@ -9433,7 +10054,7 @@
   },
   {
     "name": "Kingsley's Adventure",
-    "id": "psx336",
+    "id": "psx353",
     "igdbId": 8308,
     "gbId": 22439,
     "gbGuid": "3030-22439",
@@ -9457,7 +10078,7 @@
   },
   {
     "name": "Kiss Pinball",
-    "id": "psx337",
+    "id": "psx354",
     "igdbId": 43917,
     "gbId": 17172,
     "gbGuid": "3030-17172",
@@ -9475,7 +10096,7 @@
   },
   {
     "name": "Klonoa Beach Volleyball",
-    "id": "psx338",
+    "id": "psx355",
     "igdbId": 22702,
     "gbId": 18909,
     "gbGuid": "3030-18909",
@@ -9513,7 +10134,7 @@
   },
   {
     "name": "Knockout Kings",
-    "id": "psx339",
+    "id": "psx356",
     "igdbId": 71110,
     "gbId": 2039,
     "gbGuid": "3030-2039",
@@ -9537,7 +10158,7 @@
   },
   {
     "name": "Koudelka",
-    "id": "psx340",
+    "id": "psx357",
     "igdbId": 4169,
     "gbId": 5223,
     "gbGuid": "3030-5223",
@@ -9567,14 +10188,15 @@
   },
   {
     "name": "Krazy Ivan",
-    "id": "psx341",
+    "id": "psx358",
     "igdbId": 20604,
     "gbId": 15264,
     "gbGuid": "3030-15264",
     "tgdbId": 11286,
     "details": [
       "PlayStation Long Box Game",
-      "PlayStation 2 backward compatibility issue: APPLIES ONLY TO SCPH-3000X PS2 MODELS: Game does not recognize memory card."
+      "PlayStation 2 backward compatibility issue: APPLIES ONLY TO SCPH-3000X PS2 MODELS: Game does not recognize memory card.",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -9602,13 +10224,25 @@
           "tgdbId": 10
         },
         "category": "backwardsCompatibility"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Kurt Warner's Arena Football Unleashed",
-    "id": "psx342",
+    "id": "psx359",
     "igdbId": 43721,
     "gbId": 4950,
     "gbGuid": "3030-4950",
@@ -9632,7 +10266,7 @@
   },
   {
     "name": "LMA Manager",
-    "id": "psx343",
+    "id": "psx360",
     "igdbId": 22541,
     "gbId": 17090,
     "gbGuid": "3030-17090",
@@ -9662,7 +10296,7 @@
   },
   {
     "name": "Legacy of Kain: Soul Reaver",
-    "id": "psx344",
+    "id": "psx361",
     "igdbId": 4122,
     "gbId": 6249,
     "gbGuid": "3030-6249",
@@ -9689,7 +10323,7 @@
   },
   {
     "name": "Legend of Legaia",
-    "id": "psx345",
+    "id": "psx362",
     "igdbId": 13676,
     "gbId": 16716,
     "gbGuid": "3030-16716",
@@ -9713,7 +10347,7 @@
   },
   {
     "name": "Legend of Mana",
-    "id": "psx346",
+    "id": "psx363",
     "igdbId": 14986,
     "gbId": 15900,
     "gbGuid": "3030-15900",
@@ -9731,7 +10365,7 @@
   },
   {
     "name": "Lemmings 3D",
-    "id": "psx347",
+    "id": "psx364",
     "igdbId": 13779,
     "gbId": 7673,
     "gbGuid": "3030-7673",
@@ -9758,7 +10392,7 @@
   },
   {
     "name": "Lethal Enforcers I & II",
-    "id": "psx348",
+    "id": "psx365",
     "igdbId": 77250,
     "gbId": 29501,
     "gbGuid": "3030-29501",
@@ -9785,7 +10419,7 @@
   },
   {
     "name": "Lightning Legend: Daigo no Daibouken",
-    "id": "psx349",
+    "id": "psx366",
     "igdbId": 44772,
     "gbId": 61157,
     "gbGuid": "3030-61157",
@@ -9809,7 +10443,7 @@
   },
   {
     "name": "Loaded",
-    "id": "psx350",
+    "id": "psx367",
     "igdbId": 18682,
     "gbId": 7382,
     "gbGuid": "3030-7382",
@@ -9849,7 +10483,7 @@
   },
   {
     "name": "Lone Soldier",
-    "id": "psx351",
+    "id": "psx368",
     "igdbId": 44753,
     "gbId": 29231,
     "gbGuid": "3030-29231",
@@ -9873,7 +10507,7 @@
   },
   {
     "name": "Looney Tunes: Sheep Raider",
-    "id": "psx352",
+    "id": "psx369",
     "igdbId": 44884,
     "gbId": 21739,
     "gbGuid": "3030-21739",
@@ -9901,7 +10535,7 @@
   },
   {
     "name": "Love & Destroy",
-    "id": "psx353",
+    "id": "psx370",
     "igdbId": 63368,
     "gbId": 42711,
     "gbGuid": "3030-42711",
@@ -9925,7 +10559,7 @@
   },
   {
     "name": "MLB 2000",
-    "id": "psx354",
+    "id": "psx371",
     "igdbId": 22772,
     "gbId": 22874,
     "gbGuid": "3030-22874",
@@ -9949,7 +10583,7 @@
   },
   {
     "name": "MLB 99",
-    "id": "psx355",
+    "id": "psx372",
     "igdbId": 28191,
     "gbId": 5123,
     "gbGuid": "3030-5123",
@@ -9973,7 +10607,7 @@
   },
   {
     "name": "MLB Pennant Race",
-    "id": "psx356",
+    "id": "psx373",
     "igdbId": 20724,
     "gbId": 25439,
     "gbGuid": "3030-25439",
@@ -10003,7 +10637,7 @@
   },
   {
     "name": "Madden NFL 2000",
-    "id": "psx357",
+    "id": "psx374",
     "igdbId": 3537,
     "gbId": 12373,
     "gbGuid": "3030-12373",
@@ -10030,7 +10664,7 @@
   },
   {
     "name": "Madden NFL 98",
-    "id": "psx358",
+    "id": "psx375",
     "igdbId": 4590,
     "gbId": 8679,
     "gbGuid": "3030-8679",
@@ -10057,7 +10691,7 @@
   },
   {
     "name": "Madden NFL 99",
-    "id": "psx359",
+    "id": "psx376",
     "igdbId": 779,
     "gbId": 13996,
     "gbGuid": "3030-13996",
@@ -10084,7 +10718,7 @@
   },
   {
     "name": "Magic Carpet",
-    "id": "psx360",
+    "id": "psx377",
     "igdbId": 4415,
     "gbId": 17085,
     "gbGuid": "3030-17085",
@@ -10112,7 +10746,7 @@
   },
   {
     "name": "Majokko Daisakusen: Little Witching Mischiefs",
-    "id": "psx361",
+    "id": "psx378",
     "igdbId": 122570,
     "gbId": null,
     "gbGuid": null,
@@ -10135,7 +10769,7 @@
   },
   {
     "name": "Major League Baseball",
-    "id": "psx362",
+    "id": "psx379",
     "igdbId": null,
     "gbId": 30535,
     "gbGuid": "3030-30535",
@@ -10159,7 +10793,7 @@
   },
   {
     "name": "Mat Hoffman's Pro BMX",
-    "id": "psx363",
+    "id": "psx380",
     "igdbId": 3994,
     "gbId": 2341,
     "gbGuid": "3030-2341",
@@ -10186,7 +10820,7 @@
   },
   {
     "name": "Maximum Force",
-    "id": "psx364",
+    "id": "psx381",
     "igdbId": 36573,
     "gbId": 22180,
     "gbGuid": "3030-22180",
@@ -10213,7 +10847,7 @@
   },
   {
     "name": "Medal of Honor",
-    "id": "psx365",
+    "id": "psx382",
     "igdbId": 1307,
     "gbId": 19230,
     "gbGuid": "3030-19230",
@@ -10251,7 +10885,7 @@
   },
   {
     "name": "Medal of Honor: Underground",
-    "id": "psx366",
+    "id": "psx383",
     "igdbId": 1308,
     "gbId": 10049,
     "gbGuid": "3030-10049",
@@ -10278,7 +10912,7 @@
   },
   {
     "name": "MediEvil II",
-    "id": "psx367",
+    "id": "psx384",
     "igdbId": 4002,
     "gbId": 3438,
     "gbGuid": "3030-3438",
@@ -10308,7 +10942,7 @@
   },
   {
     "name": "Mega Man 8",
-    "id": "psx368",
+    "id": "psx385",
     "igdbId": 1721,
     "gbId": 19393,
     "gbGuid": "3030-19393",
@@ -10335,7 +10969,7 @@
   },
   {
     "name": "Mega Man Legends",
-    "id": "psx369",
+    "id": "psx386",
     "igdbId": 1752,
     "gbId": 7901,
     "gbGuid": "3030-7901",
@@ -10362,7 +10996,7 @@
   },
   {
     "name": "Mega Man X4",
-    "id": "psx370",
+    "id": "psx387",
     "igdbId": 1744,
     "gbId": 20256,
     "gbGuid": "3030-20256",
@@ -10395,7 +11029,7 @@
   },
   {
     "name": "Men in Black - The Series: Crashdown",
-    "id": "psx371",
+    "id": "psx388",
     "igdbId": 71135,
     "gbId": 2345,
     "gbGuid": "3030-2345",
@@ -10419,7 +11053,7 @@
   },
   {
     "name": "Meremanoid",
-    "id": "psx372",
+    "id": "psx389",
     "igdbId": 112178,
     "gbId": 70273,
     "gbGuid": "3030-70273",
@@ -10442,7 +11076,7 @@
   },
   {
     "name": "Metal Gear Solid",
-    "id": "psx373",
+    "id": "psx390",
     "igdbId": 375,
     "gbId": 16140,
     "gbGuid": "3030-16140",
@@ -10518,7 +11152,7 @@
   },
   {
     "name": "Metal Gear Solid Special Missions",
-    "id": "psx374",
+    "id": "psx391",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -10546,7 +11180,7 @@
   },
   {
     "name": "Metal Gear Solid VR Missions",
-    "id": "psx375",
+    "id": "psx392",
     "igdbId": 18683,
     "gbId": 8761,
     "gbGuid": "3030-8761",
@@ -10563,8 +11197,35 @@
     ]
   },
   {
+    "name": "Metal Jacket",
+    "id": "psx393",
+    "igdbId": 147172,
+    "gbId": 82512,
+    "gbGuid": "3030-82512",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Micro Machines V3",
-    "id": "psx376",
+    "id": "psx394",
     "igdbId": 24413,
     "gbId": 496,
     "gbGuid": "3030-496",
@@ -10591,7 +11252,7 @@
   },
   {
     "name": "Micro Maniacs",
-    "id": "psx377",
+    "id": "psx395",
     "igdbId": 8514,
     "gbId": 27621,
     "gbGuid": "3030-27621",
@@ -10618,7 +11279,7 @@
   },
   {
     "name": "Mighty Hits Special",
-    "id": "psx378",
+    "id": "psx396",
     "igdbId": 80172,
     "gbId": 33679,
     "gbGuid": "3030-33679",
@@ -10645,7 +11306,7 @@
   },
   {
     "name": "Miss Spider's Tea Party",
-    "id": "psx379",
+    "id": "psx397",
     "igdbId": 73804,
     "gbId": 9979,
     "gbGuid": "3030-9979",
@@ -10663,7 +11324,7 @@
   },
   {
     "name": "Mitsumete Knight",
-    "id": "psx380",
+    "id": "psx398",
     "igdbId": 92966,
     "gbId": 15004,
     "gbGuid": "3030-15004",
@@ -10686,7 +11347,7 @@
   },
   {
     "name": "Mizzurna Falls",
-    "id": "psx381",
+    "id": "psx399",
     "igdbId": 43839,
     "gbId": 34158,
     "gbGuid": "3030-34158",
@@ -10710,7 +11371,7 @@
   },
   {
     "name": "Mobile Suit Gundam",
-    "id": "psx382",
+    "id": "psx400",
     "igdbId": 77032,
     "gbId": 37431,
     "gbGuid": "3030-37431",
@@ -10733,8 +11394,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mobile Suit Z-Gundam",
+    "id": "psx401",
+    "igdbId": 77059,
+    "gbId": 48863,
+    "gbGuid": "3030-48863",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (NTSC-J)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (NTSC-J)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Monaco Grand Prix",
+    "id": "psx402",
+    "igdbId": 3413,
+    "gbId": 27620,
+    "gbGuid": "3030-27620",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (2 to 4 players)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (2 to 4 players)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Monkey Hero",
-    "id": "psx383",
+    "id": "psx403",
     "igdbId": 21643,
     "gbId": 17658,
     "gbGuid": "3030-17658",
@@ -10772,7 +11487,7 @@
   },
   {
     "name": "Monkey Magic",
-    "id": "psx384",
+    "id": "psx404",
     "igdbId": 45220,
     "gbId": 9496,
     "gbGuid": "3030-9496",
@@ -10796,7 +11511,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "psx385",
+    "id": "psx405",
     "igdbId": 332,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -10834,7 +11549,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "psx386",
+    "id": "psx406",
     "igdbId": 102447,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -10861,7 +11576,7 @@
   },
   {
     "name": "Monster Rancher",
-    "id": "psx387",
+    "id": "psx407",
     "igdbId": 4104,
     "gbId": 17676,
     "gbGuid": "3030-17676",
@@ -10891,7 +11606,7 @@
   },
   {
     "name": "Monsters, Inc. Scream Team",
-    "id": "psx388",
+    "id": "psx408",
     "igdbId": 6514,
     "gbId": 23805,
     "gbGuid": "3030-23805",
@@ -10918,7 +11633,7 @@
   },
   {
     "name": "Monsterseed",
-    "id": "psx389",
+    "id": "psx409",
     "igdbId": 45219,
     "gbId": 18386,
     "gbGuid": "3030-18386",
@@ -10942,7 +11657,7 @@
   },
   {
     "name": "Moon: Remix RPG Adventure",
-    "id": "psx390",
+    "id": "psx410",
     "igdbId": 73672,
     "gbId": 11046,
     "gbGuid": "3030-11046",
@@ -10965,7 +11680,7 @@
   },
   {
     "name": "Moonlight Syndrome",
-    "id": "psx391",
+    "id": "psx411",
     "igdbId": 65450,
     "gbId": 30774,
     "gbGuid": "3030-30774",
@@ -10988,7 +11703,7 @@
   },
   {
     "name": "Moorhuhn 2: Die Jagd Geht Weiter",
-    "id": "psx392",
+    "id": "psx412",
     "igdbId": 83238,
     "gbId": 64269,
     "gbGuid": "3030-64269",
@@ -11015,7 +11730,7 @@
   },
   {
     "name": "Moorhuhn X",
-    "id": "psx393",
+    "id": "psx413",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -11042,7 +11757,7 @@
   },
   {
     "name": "Mort The Chicken",
-    "id": "psx394",
+    "id": "psx414",
     "igdbId": 45049,
     "gbId": 22900,
     "gbGuid": "3030-22900",
@@ -11066,7 +11781,7 @@
   },
   {
     "name": "Mortal Kombat 3",
-    "id": "psx395",
+    "id": "psx415",
     "igdbId": 1620,
     "gbId": 1434,
     "gbGuid": "3030-1434",
@@ -11094,7 +11809,7 @@
   },
   {
     "name": "Mortal Kombat 4",
-    "id": "psx396",
+    "id": "psx416",
     "igdbId": 1622,
     "gbId": 6421,
     "gbGuid": "3030-6421",
@@ -11127,7 +11842,7 @@
   },
   {
     "name": "Mortal Kombat Trilogy",
-    "id": "psx397",
+    "id": "psx417",
     "igdbId": 4121,
     "gbId": 8279,
     "gbGuid": "3030-8279",
@@ -11167,7 +11882,7 @@
   },
   {
     "name": "Mortal Kombat: Special Forces",
-    "id": "psx398",
+    "id": "psx418",
     "igdbId": 1623,
     "gbId": 18083,
     "gbGuid": "3030-18083",
@@ -11197,7 +11912,7 @@
   },
   {
     "name": "Moto Racer World Tour",
-    "id": "psx399",
+    "id": "psx419",
     "igdbId": 10562,
     "gbId": 34761,
     "gbGuid": "3030-34761",
@@ -11227,13 +11942,14 @@
   },
   {
     "name": "Motor Toon Grand Prix",
-    "id": "psx400",
+    "id": "psx420",
     "igdbId": 45109,
     "gbId": 4911,
     "gbGuid": "3030-4911",
     "tgdbId": 11549,
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": [
       {
@@ -11246,12 +11962,52 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Motor Toon Grand Prix 2",
+    "id": "psx421",
+    "igdbId": 43887,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Motorhead",
-    "id": "psx401",
+    "id": "psx422",
     "igdbId": 22824,
     "gbId": 24373,
     "gbGuid": "3030-24373",
@@ -11269,7 +12025,7 @@
   },
   {
     "name": "Muppet Monster Adventure",
-    "id": "psx402",
+    "id": "psx423",
     "igdbId": 3258,
     "gbId": 32229,
     "gbGuid": "3030-32229",
@@ -11293,7 +12049,7 @@
   },
   {
     "name": "Muppet RaceMania",
-    "id": "psx403",
+    "id": "psx424",
     "igdbId": 3259,
     "gbId": 13679,
     "gbGuid": "3030-13679",
@@ -11317,7 +12073,7 @@
   },
   {
     "name": "Murder on the Eurasia Express",
-    "id": "psx404",
+    "id": "psx425",
     "igdbId": 60260,
     "gbId": 49735,
     "gbGuid": "3030-49735",
@@ -11341,7 +12097,7 @@
   },
   {
     "name": "NASCAR 98",
-    "id": "psx405",
+    "id": "psx426",
     "igdbId": 176683,
     "gbId": 18400,
     "gbGuid": "3030-18400",
@@ -11368,7 +12124,7 @@
   },
   {
     "name": "NASCAR 99",
-    "id": "psx406",
+    "id": "psx427",
     "igdbId": 3547,
     "gbId": 18807,
     "gbGuid": "3030-18807",
@@ -11395,7 +12151,7 @@
   },
   {
     "name": "NASCAR Rumble",
-    "id": "psx407",
+    "id": "psx428",
     "igdbId": 44879,
     "gbId": 310,
     "gbGuid": "3030-310",
@@ -11419,7 +12175,7 @@
   },
   {
     "name": "NASCAR Thunder 2003",
-    "id": "psx408",
+    "id": "psx429",
     "igdbId": 4028,
     "gbId": 12172,
     "gbGuid": "3030-12172",
@@ -11437,7 +12193,7 @@
   },
   {
     "name": "NBA Hangtime",
-    "id": "psx409",
+    "id": "psx430",
     "igdbId": 3550,
     "gbId": 10512,
     "gbGuid": "3030-10512",
@@ -11464,7 +12220,7 @@
   },
   {
     "name": "NBA Hoopz",
-    "id": "psx410",
+    "id": "psx431",
     "igdbId": 10634,
     "gbId": 417,
     "gbGuid": "3030-417",
@@ -11491,7 +12247,7 @@
   },
   {
     "name": "NBA In The Zone",
-    "id": "psx411",
+    "id": "psx432",
     "igdbId": 20639,
     "gbId": 21798,
     "gbGuid": "3030-21798",
@@ -11542,7 +12298,7 @@
   },
   {
     "name": "NBA In The Zone 2",
-    "id": "psx412",
+    "id": "psx433",
     "igdbId": 20729,
     "gbId": 35648,
     "gbGuid": "3030-35648",
@@ -11566,7 +12322,7 @@
   },
   {
     "name": "NBA Jam Extreme",
-    "id": "psx413",
+    "id": "psx434",
     "igdbId": 40205,
     "gbId": 2725,
     "gbGuid": "3030-2725",
@@ -11593,7 +12349,7 @@
   },
   {
     "name": "NBA Jam Tournament Edition",
-    "id": "psx414",
+    "id": "psx435",
     "igdbId": 19712,
     "gbId": 14792,
     "gbGuid": "3030-14792",
@@ -11644,7 +12400,7 @@
   },
   {
     "name": "NBA Live 96",
-    "id": "psx415",
+    "id": "psx436",
     "igdbId": 809,
     "gbId": 20257,
     "gbGuid": "3030-20257",
@@ -11672,7 +12428,7 @@
   },
   {
     "name": "NBA Live 99",
-    "id": "psx416",
+    "id": "psx437",
     "igdbId": 811,
     "gbId": 2861,
     "gbGuid": "3030-2861",
@@ -11699,7 +12455,7 @@
   },
   {
     "name": "NBA Shootout",
-    "id": "psx417",
+    "id": "psx438",
     "igdbId": 20260,
     "gbId": 21747,
     "gbGuid": "3030-21747",
@@ -11737,7 +12493,7 @@
   },
   {
     "name": "NBA Showtime: NBA on NBC",
-    "id": "psx418",
+    "id": "psx439",
     "igdbId": 3554,
     "gbId": 4632,
     "gbGuid": "3030-4632",
@@ -11764,7 +12520,7 @@
   },
   {
     "name": "NCAA Basketball Final Four 97",
-    "id": "psx419",
+    "id": "psx440",
     "igdbId": 43717,
     "gbId": 19182,
     "gbGuid": "3030-19182",
@@ -11788,7 +12544,7 @@
   },
   {
     "name": "NCAA Gamebreaker",
-    "id": "psx420",
+    "id": "psx441",
     "details": [
       "Sony PlayStation exclusive"
     ],
@@ -11808,7 +12564,7 @@
   },
   {
     "name": "NCAA Gamebreaker 98",
-    "id": "psx421",
+    "id": "psx442",
     "igdbId": 43825,
     "gbId": 22884,
     "gbGuid": "3030-22884",
@@ -11832,7 +12588,7 @@
   },
   {
     "name": "NCAA March Madness '98",
-    "id": "psx422",
+    "id": "psx443",
     "igdbId": 43710,
     "gbId": null,
     "gbGuid": null,
@@ -11856,7 +12612,7 @@
   },
   {
     "name": "NFL Blitz",
-    "id": "psx423",
+    "id": "psx444",
     "igdbId": 812,
     "gbId": 8417,
     "gbGuid": "3030-8417",
@@ -11883,7 +12639,7 @@
   },
   {
     "name": "NFL Blitz 2000",
-    "id": "psx424",
+    "id": "psx445",
     "igdbId": 4366,
     "gbId": 2849,
     "gbGuid": "3030-2849",
@@ -11929,7 +12685,7 @@
   },
   {
     "name": "NFL Blitz 2001",
-    "id": "psx425",
+    "id": "psx446",
     "igdbId": 47752,
     "gbId": 12669,
     "gbGuid": "3030-12669",
@@ -11956,7 +12712,7 @@
   },
   {
     "name": "NFL GameDay",
-    "id": "psx426",
+    "id": "psx447",
     "igdbId": 20254,
     "gbId": 7171,
     "gbGuid": "3030-7171",
@@ -12007,7 +12763,7 @@
   },
   {
     "name": "NFL GameDay '97",
-    "id": "psx427",
+    "id": "psx448",
     "igdbId": 20716,
     "gbId": 14735,
     "gbGuid": "3030-14735",
@@ -12045,7 +12801,7 @@
   },
   {
     "name": "NFL GameDay 2000",
-    "id": "psx428",
+    "id": "psx449",
     "igdbId": 43707,
     "gbId": 9640,
     "gbGuid": "3030-9640",
@@ -12069,7 +12825,7 @@
   },
   {
     "name": "NFL GameDay 98",
-    "id": "psx429",
+    "id": "psx450",
     "igdbId": 45216,
     "gbId": 3333,
     "gbGuid": "3030-3333",
@@ -12093,7 +12849,7 @@
   },
   {
     "name": "NFL Xtreme",
-    "id": "psx430",
+    "id": "psx451",
     "igdbId": 45002,
     "gbId": 16903,
     "gbGuid": "3030-16903",
@@ -12121,7 +12877,7 @@
   },
   {
     "name": "NFL Xtreme 2",
-    "id": "psx431",
+    "id": "psx452",
     "igdbId": 43899,
     "gbId": 22877,
     "gbGuid": "3030-22877",
@@ -12145,7 +12901,7 @@
   },
   {
     "name": "NGen Racing",
-    "id": "psx432",
+    "id": "psx453",
     "igdbId": 92727,
     "gbId": 22840,
     "gbGuid": "3030-22840",
@@ -12163,7 +12919,7 @@
   },
   {
     "name": "NHL 2000",
-    "id": "psx433",
+    "id": "psx454",
     "igdbId": 813,
     "gbId": 2788,
     "gbGuid": "3030-2788",
@@ -12209,7 +12965,7 @@
   },
   {
     "name": "NHL 2002",
-    "id": "psx434",
+    "id": "psx455",
     "igdbId": 815,
     "gbId": 18520,
     "gbGuid": "3030-18520",
@@ -12237,7 +12993,7 @@
   },
   {
     "name": "NHL 98",
-    "id": "psx435",
+    "id": "psx456",
     "igdbId": 818,
     "gbId": 18845,
     "gbGuid": "3030-18845",
@@ -12277,7 +13033,7 @@
   },
   {
     "name": "NHL Blades of Steel 2000",
-    "id": "psx436",
+    "id": "psx457",
     "igdbId": 45124,
     "gbId": 27617,
     "gbGuid": "3030-27617",
@@ -12305,7 +13061,7 @@
   },
   {
     "name": "NHL Face Off '97",
-    "id": "psx437",
+    "id": "psx458",
     "igdbId": 43696,
     "gbId": 13662,
     "gbGuid": "3030-13662",
@@ -12332,7 +13088,7 @@
   },
   {
     "name": "NHL FaceOff",
-    "id": "psx438",
+    "id": "psx459",
     "igdbId": 20428,
     "gbId": 899,
     "gbGuid": "3030-899",
@@ -12383,7 +13139,7 @@
   },
   {
     "name": "NHL FaceOff '97",
-    "id": "psx439",
+    "id": "psx460",
     "igdbId": 20429,
     "gbId": 13662,
     "gbGuid": "3030-13662",
@@ -12407,7 +13163,7 @@
   },
   {
     "name": "NHL Open Ice: 2 On 2 Challenge",
-    "id": "psx440",
+    "id": "psx461",
     "igdbId": 45001,
     "gbId": 22054,
     "gbGuid": "3030-22054",
@@ -12434,7 +13190,7 @@
   },
   {
     "name": "NHL Rock the Rink",
-    "id": "psx441",
+    "id": "psx462",
     "igdbId": 44843,
     "gbId": 10605,
     "gbGuid": "3030-10605",
@@ -12462,7 +13218,7 @@
   },
   {
     "name": "Namco Museum Encore",
-    "id": "psx442",
+    "id": "psx463",
     "igdbId": 44785,
     "gbId": 40526,
     "gbGuid": "3030-40526",
@@ -12503,7 +13259,7 @@
   },
   {
     "name": "Namco Museum Vol. 1",
-    "id": "psx443",
+    "id": "psx464",
     "igdbId": 20611,
     "gbId": 31411,
     "gbGuid": "3030-31411",
@@ -12565,7 +13321,7 @@
   },
   {
     "name": "Namco Museum Vol. 2",
-    "id": "psx444",
+    "id": "psx465",
     "igdbId": 20259,
     "gbId": 31466,
     "gbGuid": "3030-31466",
@@ -12592,7 +13348,7 @@
   },
   {
     "name": "Namco Museum Vol. 3 (GH)",
-    "id": "psx445",
+    "id": "psx466",
     "igdbId": 20613,
     "gbId": 31467,
     "gbGuid": "3030-31467",
@@ -12638,7 +13394,7 @@
   },
   {
     "name": "Namco Museum Vol. 4",
-    "id": "psx446",
+    "id": "psx467",
     "igdbId": 39934,
     "gbId": 31468,
     "gbGuid": "3030-31468",
@@ -12665,7 +13421,7 @@
   },
   {
     "name": "Namco Museum Vol. 5",
-    "id": "psx447",
+    "id": "psx468",
     "igdbId": 39986,
     "gbId": 31469,
     "gbGuid": "3030-31469",
@@ -12692,7 +13448,7 @@
   },
   {
     "name": "Nanotek Warrior",
-    "id": "psx448",
+    "id": "psx469",
     "igdbId": 20138,
     "gbId": 16037,
     "gbGuid": "3030-16037",
@@ -12716,7 +13472,7 @@
   },
   {
     "name": "Need for Speed II",
-    "id": "psx449",
+    "id": "psx470",
     "igdbId": 91,
     "gbId": 367,
     "gbGuid": "3030-367",
@@ -12756,7 +13512,7 @@
   },
   {
     "name": "Need for Speed III: Hot Pursuit",
-    "id": "psx450",
+    "id": "psx471",
     "igdbId": 92,
     "gbId": 5977,
     "gbGuid": "3030-5977",
@@ -12783,7 +13539,7 @@
   },
   {
     "name": "Need for Speed: High Stakes",
-    "id": "psx451",
+    "id": "psx472",
     "igdbId": 93,
     "gbId": 453,
     "gbGuid": "3030-453",
@@ -12810,7 +13566,7 @@
   },
   {
     "name": "Need for Speed: Porsche Unleashed",
-    "id": "psx452",
+    "id": "psx473",
     "igdbId": 94,
     "gbId": 8831,
     "gbGuid": "3030-8831",
@@ -12837,7 +13593,7 @@
   },
   {
     "name": "Need for Speed: V-Rally 2",
-    "id": "psx453",
+    "id": "psx474",
     "igdbId": 74104,
     "gbId": 6829,
     "gbGuid": "3030-6829",
@@ -12864,7 +13620,7 @@
   },
   {
     "name": "Nice Cats (PAL)",
-    "id": "psx454",
+    "id": "psx475",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -12882,7 +13638,7 @@
   },
   {
     "name": "Nijiiro Dodge Ball: Otome Tachi no Seishun",
-    "id": "psx455",
+    "id": "psx476",
     "igdbId": 65646,
     "gbId": 36552,
     "gbGuid": "3030-36552",
@@ -12905,7 +13661,7 @@
   },
   {
     "name": "Ninja: Shadow of Darkness",
-    "id": "psx456",
+    "id": "psx477",
     "igdbId": 18941,
     "gbId": 13788,
     "gbGuid": "3030-13788",
@@ -12929,7 +13685,7 @@
   },
   {
     "name": "No One Can Stop Mr. Domino",
-    "id": "psx457",
+    "id": "psx478",
     "igdbId": 4107,
     "gbId": 13325,
     "gbGuid": "3030-13325",
@@ -12953,7 +13709,7 @@
   },
   {
     "name": "Noddy's Magic Adventure",
-    "id": "psx458",
+    "id": "psx479",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -12976,7 +13732,7 @@
   },
   {
     "name": "Novastorm",
-    "id": "psx459",
+    "id": "psx480",
     "igdbId": 4329,
     "gbId": 9729,
     "gbGuid": "3030-9729",
@@ -13004,7 +13760,7 @@
   },
   {
     "name": "Nuclear Strike (GH)",
-    "id": "psx460",
+    "id": "psx481",
     "igdbId": 51274,
     "gbId": 11731,
     "gbGuid": "3030-11731",
@@ -13050,7 +13806,7 @@
   },
   {
     "name": "Oddworld: Abe's Exoddus",
-    "id": "psx461",
+    "id": "psx482",
     "igdbId": 1000,
     "gbId": 19281,
     "gbGuid": "3030-19281",
@@ -13078,7 +13834,7 @@
   },
   {
     "name": "Oddworld: Abe's Oddysee",
-    "id": "psx462",
+    "id": "psx483",
     "igdbId": 999,
     "gbId": 5269,
     "gbGuid": "3030-5269",
@@ -13105,7 +13861,7 @@
   },
   {
     "name": "Off-World Interceptor Extreme",
-    "id": "psx463",
+    "id": "psx484",
     "igdbId": 20314,
     "gbId": 8929,
     "gbGuid": "3030-8929",
@@ -13133,7 +13889,7 @@
   },
   {
     "name": "Official Playstation Magazine #40",
-    "id": "psx464",
+    "id": "psx485",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -13151,7 +13907,7 @@
   },
   {
     "name": "Oha Suta Dance Dance Revolution",
-    "id": "psx465",
+    "id": "psx486",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -13174,7 +13930,7 @@
   },
   {
     "name": "Olympic Soccer",
-    "id": "psx466",
+    "id": "psx487",
     "igdbId": 4292,
     "gbId": 22204,
     "gbGuid": "3030-22204",
@@ -13201,7 +13957,7 @@
   },
   {
     "name": "Omega Boost",
-    "id": "psx467",
+    "id": "psx488",
     "igdbId": 24009,
     "gbId": 9788,
     "gbGuid": "3030-9788",
@@ -13225,7 +13981,7 @@
   },
   {
     "name": "One",
-    "id": "psx468",
+    "id": "psx489",
     "igdbId": 78060,
     "gbId": 8442,
     "gbGuid": "3030-8442",
@@ -13253,7 +14009,7 @@
   },
   {
     "name": "One Piece Mansion",
-    "id": "psx469",
+    "id": "psx490",
     "igdbId": 37288,
     "gbId": 1681,
     "gbGuid": "3030-1681",
@@ -13277,7 +14033,7 @@
   },
   {
     "name": "One Piece: Set Sail Pirate Crew!",
-    "id": "psx470",
+    "id": "psx491",
     "igdbId": 75740,
     "gbId": null,
     "gbGuid": null,
@@ -13300,7 +14056,7 @@
   },
   {
     "name": "Overblood 2",
-    "id": "psx471",
+    "id": "psx492",
     "igdbId": 20000,
     "gbId": 8813,
     "gbGuid": "3030-8813",
@@ -13324,7 +14080,7 @@
   },
   {
     "name": "Overboard!",
-    "id": "psx472",
+    "id": "psx493",
     "igdbId": 7664,
     "gbId": null,
     "gbGuid": null,
@@ -13351,7 +14107,7 @@
   },
   {
     "name": "PGA Tour '98",
-    "id": "psx473",
+    "id": "psx494",
     "igdbId": 43734,
     "gbId": 16126,
     "gbGuid": "3030-16126",
@@ -13375,7 +14131,7 @@
   },
   {
     "name": "PGA Tour 96",
-    "id": "psx474",
+    "id": "psx495",
     "igdbId": 4285,
     "gbId": 1760,
     "gbGuid": "3030-1760",
@@ -13403,7 +14159,7 @@
   },
   {
     "name": "PO'ed",
-    "id": "psx475",
+    "id": "psx496",
     "igdbId": 4327,
     "gbId": 17977,
     "gbGuid": "3030-17977",
@@ -13444,7 +14200,7 @@
   },
   {
     "name": "PaRappa the Rapper",
-    "id": "psx476",
+    "id": "psx497",
     "igdbId": 6080,
     "gbId": 18360,
     "gbGuid": "3030-18360",
@@ -13462,7 +14218,7 @@
   },
   {
     "name": "Pac-Man World",
-    "id": "psx477",
+    "id": "psx498",
     "igdbId": 6530,
     "gbId": 64,
     "gbGuid": "3030-64",
@@ -13489,7 +14245,7 @@
   },
   {
     "name": "Pandemonium!",
-    "id": "psx478",
+    "id": "psx499",
     "igdbId": 6268,
     "gbId": 3536,
     "gbGuid": "3030-3536",
@@ -13507,7 +14263,7 @@
   },
   {
     "name": "Panzer Bandit",
-    "id": "psx479",
+    "id": "psx500",
     "igdbId": 45108,
     "gbId": 11728,
     "gbGuid": "3030-11728",
@@ -13534,7 +14290,7 @@
   },
   {
     "name": "Panzer General",
-    "id": "psx480",
+    "id": "psx501",
     "igdbId": 4268,
     "gbId": 1298,
     "gbGuid": "3030-1298",
@@ -13562,7 +14318,7 @@
   },
   {
     "name": "Parasite Eve",
-    "id": "psx481",
+    "id": "psx502",
     "igdbId": 7357,
     "gbId": 9228,
     "gbGuid": "3030-9228",
@@ -13589,7 +14345,7 @@
   },
   {
     "name": "Paro Wars",
-    "id": "psx482",
+    "id": "psx503",
     "igdbId": 37305,
     "gbId": 10043,
     "gbGuid": "3030-10043",
@@ -13613,7 +14369,7 @@
   },
   {
     "name": "Peak Performance",
-    "id": "psx483",
+    "id": "psx504",
     "igdbId": 20139,
     "gbId": 34250,
     "gbGuid": "3030-34250",
@@ -13637,7 +14393,7 @@
   },
   {
     "name": "Pepsiman",
-    "id": "psx484",
+    "id": "psx505",
     "igdbId": 27701,
     "gbId": 13795,
     "gbGuid": "3030-13795",
@@ -13661,7 +14417,7 @@
   },
   {
     "name": "Persona 2: Eternal Punishment",
-    "id": "psx485",
+    "id": "psx506",
     "igdbId": 11454,
     "gbId": 5495,
     "gbGuid": "3030-5495",
@@ -13684,7 +14440,7 @@
   },
   {
     "name": "Philosoma",
-    "id": "psx486",
+    "id": "psx507",
     "igdbId": 20638,
     "gbId": 12404,
     "gbGuid": "3030-12404",
@@ -13712,7 +14468,7 @@
   },
   {
     "name": "Pitball",
-    "id": "psx487",
+    "id": "psx508",
     "igdbId": 20723,
     "gbId": 14663,
     "gbGuid": "3030-14663",
@@ -13750,7 +14506,7 @@
   },
   {
     "name": "Pitfall 3D: Beyond the Jungle",
-    "id": "psx488",
+    "id": "psx509",
     "igdbId": 44980,
     "gbId": 2666,
     "gbGuid": "3030-2666",
@@ -13774,7 +14530,7 @@
   },
   {
     "name": "Planet Laika",
-    "id": "psx489",
+    "id": "psx510",
     "igdbId": 56583,
     "gbId": 23138,
     "gbGuid": "3030-23138",
@@ -13797,7 +14553,7 @@
   },
   {
     "name": "Point Blank",
-    "id": "psx490",
+    "id": "psx511",
     "igdbId": 13899,
     "gbId": 9281,
     "gbGuid": "3030-9281",
@@ -13824,7 +14580,7 @@
   },
   {
     "name": "Point Blank 2",
-    "id": "psx491",
+    "id": "psx512",
     "igdbId": 40988,
     "gbId": 11427,
     "gbGuid": "3030-11427",
@@ -13851,7 +14607,7 @@
   },
   {
     "name": "Point Blank 3",
-    "id": "psx492",
+    "id": "psx513",
     "igdbId": 44979,
     "gbId": 4751,
     "gbGuid": "3030-4751",
@@ -13878,7 +14634,7 @@
   },
   {
     "name": "Pong: The Next Level",
-    "id": "psx493",
+    "id": "psx514",
     "igdbId": 9187,
     "gbId": 977,
     "gbGuid": "3030-977",
@@ -13911,7 +14667,7 @@
   },
   {
     "name": "Pop'n Tanks",
-    "id": "psx494",
+    "id": "psx515",
     "igdbId": 43801,
     "gbId": 42579,
     "gbGuid": "3030-42579",
@@ -13935,7 +14691,7 @@
   },
   {
     "name": "Porsche Challenge",
-    "id": "psx495",
+    "id": "psx516",
     "igdbId": 45023,
     "gbId": 14990,
     "gbGuid": "3030-14990",
@@ -13959,7 +14715,7 @@
   },
   {
     "name": "Power Move Pro Wrestling",
-    "id": "psx496",
+    "id": "psx517",
     "igdbId": 44763,
     "gbId": 9216,
     "gbGuid": "3030-9216",
@@ -13983,7 +14739,7 @@
   },
   {
     "name": "Power Serve 3D Tennis",
-    "id": "psx497",
+    "id": "psx518",
     "igdbId": 20641,
     "gbId": 18631,
     "gbGuid": "3030-18631",
@@ -14031,7 +14787,7 @@
   },
   {
     "name": "Poy Poy",
-    "id": "psx498",
+    "id": "psx519",
     "igdbId": 45092,
     "gbId": 2462,
     "gbGuid": "3030-2462",
@@ -14058,7 +14814,7 @@
   },
   {
     "name": "Poy Poy 2",
-    "id": "psx499",
+    "id": "psx520",
     "igdbId": 44751,
     "gbId": 18190,
     "gbGuid": "3030-18190",
@@ -14109,7 +14865,7 @@
   },
   {
     "name": "Primal Rage",
-    "id": "psx500",
+    "id": "psx521",
     "igdbId": 4271,
     "gbId": 14078,
     "gbGuid": "3030-14078",
@@ -14137,14 +14893,29 @@
   },
   {
     "name": "Pro Pinball: Big Race USA",
-    "id": "psx501",
+    "id": "psx522",
     "igdbId": 838,
     "gbId": 15088,
     "gbGuid": "3030-15088",
-    "details": [],
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Sony/ps1/big_race_error.jpg",
@@ -14155,7 +14926,7 @@
   },
   {
     "name": "Professional Underground League of Pain",
-    "id": "psx502",
+    "id": "psx523",
     "igdbId": 45038,
     "gbId": 24379,
     "gbGuid": "3030-24379",
@@ -14182,7 +14953,7 @@
   },
   {
     "name": "Project Overkill",
-    "id": "psx503",
+    "id": "psx524",
     "igdbId": 20804,
     "gbId": 13246,
     "gbGuid": "3030-13246",
@@ -14206,7 +14977,7 @@
   },
   {
     "name": "Project: Horned Owl",
-    "id": "psx504",
+    "id": "psx525",
     "igdbId": 20296,
     "gbId": 14016,
     "gbGuid": "3030-14016",
@@ -14244,7 +15015,7 @@
   },
   {
     "name": "Psybadek",
-    "id": "psx505",
+    "id": "psx526",
     "igdbId": 78791,
     "gbId": 8839,
     "gbGuid": "3030-8839",
@@ -14274,7 +15045,7 @@
   },
   {
     "name": "Psychic Detective",
-    "id": "psx506",
+    "id": "psx527",
     "igdbId": 4258,
     "gbId": 9704,
     "gbGuid": "3030-9704",
@@ -14302,7 +15073,7 @@
   },
   {
     "name": "Puffy no P.S. I Love You",
-    "id": "psx507",
+    "id": "psx528",
     "igdbId": 61333,
     "gbId": 46919,
     "gbGuid": "3030-46919",
@@ -14339,7 +15110,7 @@
   },
   {
     "name": "Punky Skunk",
-    "id": "psx508",
+    "id": "psx529",
     "igdbId": 44881,
     "gbId": 23901,
     "gbGuid": "3030-23901",
@@ -14363,7 +15134,7 @@
   },
   {
     "name": "Puyo Puyo Box",
-    "id": "psx509",
+    "id": "psx530",
     "igdbId": 44780,
     "gbId": 6396,
     "gbGuid": "3030-6396",
@@ -14387,7 +15158,7 @@
   },
   {
     "name": "Quake II",
-    "id": "psx510",
+    "id": "psx531",
     "igdbId": 286,
     "gbId": 3207,
     "gbGuid": "3030-3207",
@@ -14414,7 +15185,7 @@
   },
   {
     "name": "R-Type Delta",
-    "id": "psx511",
+    "id": "psx532",
     "igdbId": 28397,
     "gbId": 3007,
     "gbGuid": "3030-3007",
@@ -14432,7 +15203,7 @@
   },
   {
     "name": "R/C Stunt Copter",
-    "id": "psx512",
+    "id": "psx533",
     "igdbId": 44953,
     "gbId": 9176,
     "gbGuid": "3030-9176",
@@ -14456,7 +15227,7 @@
   },
   {
     "name": "RC De Go!",
-    "id": "psx513",
+    "id": "psx534",
     "igdbId": 77793,
     "gbId": 34762,
     "gbGuid": "3030-34762",
@@ -14480,7 +15251,7 @@
   },
   {
     "name": "RC Revenge",
-    "id": "psx514",
+    "id": "psx535",
     "igdbId": 94303,
     "gbId": 4515,
     "gbGuid": "3030-4515",
@@ -14504,7 +15275,7 @@
   },
   {
     "name": "Racing Lagoon",
-    "id": "psx515",
+    "id": "psx536",
     "igdbId": 76182,
     "gbId": 10917,
     "gbGuid": "3030-10917",
@@ -14527,8 +15298,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Racingroovy VS",
+    "id": "psx537",
+    "igdbId": 58962,
+    "gbId": 52506,
+    "gbGuid": "3030-52506",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (JP exclusive)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (JP exclusive)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Rage Racer",
-    "id": "psx516",
+    "id": "psx538",
     "igdbId": 18698,
     "gbId": 8930,
     "gbGuid": "3030-8930",
@@ -14552,7 +15350,7 @@
   },
   {
     "name": "Raiden DX",
-    "id": "psx517",
+    "id": "psx539",
     "igdbId": 8857,
     "gbId": 24368,
     "gbGuid": "3030-24368",
@@ -14579,7 +15377,7 @@
   },
   {
     "name": "Railroad Tycoon II",
-    "id": "psx518",
+    "id": "psx540",
     "igdbId": 285,
     "gbId": 10886,
     "gbGuid": "3030-10886",
@@ -14597,7 +15395,7 @@
   },
   {
     "name": "Rakugaki Showtime",
-    "id": "psx519",
+    "id": "psx541",
     "igdbId": 46082,
     "gbId": 21216,
     "gbGuid": "3030-21216",
@@ -14624,7 +15422,7 @@
   },
   {
     "name": "Rally Cross",
-    "id": "psx520",
+    "id": "psx542",
     "igdbId": 8647,
     "gbId": 8379,
     "gbGuid": "3030-8379",
@@ -14662,7 +15460,7 @@
   },
   {
     "name": "Rally Cross 2",
-    "id": "psx521",
+    "id": "psx543",
     "igdbId": 8648,
     "gbId": 13945,
     "gbGuid": "3030-13945",
@@ -14692,7 +15490,7 @@
   },
   {
     "name": "Rampage 2: Universal Tour",
-    "id": "psx522",
+    "id": "psx544",
     "igdbId": 3583,
     "gbId": 9382,
     "gbGuid": "3030-9382",
@@ -14719,7 +15517,7 @@
   },
   {
     "name": "Rampage Through Time",
-    "id": "psx523",
+    "id": "psx545",
     "igdbId": 45091,
     "gbId": 5284,
     "gbGuid": "3030-5284",
@@ -14757,7 +15555,7 @@
   },
   {
     "name": "Rampage World Tour",
-    "id": "psx524",
+    "id": "psx546",
     "igdbId": 3056,
     "gbId": 12331,
     "gbGuid": "3030-12331",
@@ -14784,7 +15582,7 @@
   },
   {
     "name": "Rascal",
-    "id": "psx525",
+    "id": "psx547",
     "igdbId": 94445,
     "gbId": 9504,
     "gbGuid": "3030-9504",
@@ -14822,7 +15620,7 @@
   },
   {
     "name": "RayStorm",
-    "id": "psx526",
+    "id": "psx548",
     "igdbId": 45089,
     "gbId": 22881,
     "gbGuid": "3030-22881",
@@ -14840,7 +15638,7 @@
   },
   {
     "name": "Rayman",
-    "id": "psx527",
+    "id": "psx549",
     "igdbId": 1963,
     "gbId": 18473,
     "gbGuid": "3030-18473",
@@ -14891,7 +15689,7 @@
   },
   {
     "name": "Rayman 2: The Great Escape",
-    "id": "psx528",
+    "id": "psx550",
     "igdbId": 843,
     "gbId": 609,
     "gbGuid": "3030-609",
@@ -14919,7 +15717,7 @@
   },
   {
     "name": "Rayman Brain Games",
-    "id": "psx529",
+    "id": "psx551",
     "igdbId": 1964,
     "gbId": 34826,
     "gbGuid": "3030-34826",
@@ -14937,7 +15735,7 @@
   },
   {
     "name": "ReBoot",
-    "id": "psx530",
+    "id": "psx552",
     "igdbId": 51953,
     "gbId": 14471,
     "gbGuid": "3030-14471",
@@ -14961,7 +15759,7 @@
   },
   {
     "name": "Ready 2 Rumble Boxing",
-    "id": "psx531",
+    "id": "psx553",
     "igdbId": 3586,
     "gbId": 19836,
     "gbGuid": "3030-19836",
@@ -14988,7 +15786,7 @@
   },
   {
     "name": "Real Pro-Wrestling World (J)",
-    "id": "psx532",
+    "id": "psx554",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -15005,8 +15803,35 @@
     ]
   },
   {
+    "name": "Red Asphalt",
+    "id": "psx555",
+    "igdbId": 44896,
+    "gbId": 22883,
+    "gbGuid": "3030-22883",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (Rock N' Roll Racing 2: Red Asphalt in Europe)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (Rock N' Roll Racing 2: Red Asphalt in Europe)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Reel Fishing",
-    "id": "psx533",
+    "id": "psx556",
     "igdbId": 45088,
     "gbId": 22844,
     "gbGuid": "3030-22844",
@@ -15033,7 +15858,7 @@
   },
   {
     "name": "Rescue Shot",
-    "id": "psx534",
+    "id": "psx557",
     "igdbId": 13900,
     "gbId": 3818,
     "gbGuid": "3030-3818",
@@ -15071,7 +15896,7 @@
   },
   {
     "name": "Resident Evil",
-    "id": "psx535",
+    "id": "psx558",
     "igdbId": 424,
     "gbId": 5842,
     "gbGuid": "3030-5842",
@@ -15099,7 +15924,7 @@
   },
   {
     "name": "Resident Evil 2",
-    "id": "psx536",
+    "id": "psx559",
     "igdbId": 880,
     "gbId": 9418,
     "gbGuid": "3030-9418",
@@ -15142,7 +15967,7 @@
   },
   {
     "name": "Resident Evil 3: Nemesis (PAL)(Demo)",
-    "id": "psx537",
+    "id": "psx560",
     "igdbId": 966,
     "gbId": 5587,
     "gbGuid": "3030-5587",
@@ -15175,7 +16000,7 @@
   },
   {
     "name": "Resident Evil Survivor",
-    "id": "psx538",
+    "id": "psx561",
     "igdbId": 967,
     "gbId": 15848,
     "gbGuid": "3030-15848",
@@ -15202,7 +16027,7 @@
   },
   {
     "name": "Resident Evil: Director's Cut (GH)",
-    "id": "psx539",
+    "id": "psx562",
     "igdbId": 23377,
     "gbId": 10186,
     "gbGuid": "3030-10186",
@@ -15240,7 +16065,7 @@
   },
   {
     "name": "Retro Force",
-    "id": "psx540",
+    "id": "psx563",
     "igdbId": 45017,
     "gbId": 11900,
     "gbGuid": "3030-11900",
@@ -15264,7 +16089,7 @@
   },
   {
     "name": "Return Fire",
-    "id": "psx541",
+    "id": "psx564",
     "igdbId": 4339,
     "gbId": 12724,
     "gbGuid": "3030-12724",
@@ -15292,7 +16117,7 @@
   },
   {
     "name": "Revolution X",
-    "id": "psx542",
+    "id": "psx565",
     "igdbId": 20298,
     "gbId": 12829,
     "gbGuid": "3030-12829",
@@ -15320,7 +16145,7 @@
   },
   {
     "name": "Ridge Racer",
-    "id": "psx543",
+    "id": "psx566",
     "igdbId": 18787,
     "gbId": 2158,
     "gbGuid": "3030-2158",
@@ -15358,7 +16183,7 @@
   },
   {
     "name": "Ridge Racer",
-    "id": "psx544",
+    "id": "psx567",
     "igdbId": 18696,
     "gbId": 2158,
     "gbGuid": "3030-2158",
@@ -15385,13 +16210,14 @@
   },
   {
     "name": "Ridge Racer Revolution",
-    "id": "psx545",
+    "id": "psx568",
     "igdbId": 18697,
     "gbId": 11607,
     "gbGuid": "3030-11607",
     "tgdbId": 11797,
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": [
       {
@@ -15404,12 +16230,52 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ridge Racer Type 4",
+    "id": "psx569",
+    "igdbId": 18699,
+    "gbId": 2453,
+    "gbGuid": "3030-2453",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (2 to 4 players)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (2 to 4 players)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Rise 2: Resurrection",
-    "id": "psx546",
+    "id": "psx570",
     "igdbId": 20256,
     "gbId": null,
     "gbGuid": null,
@@ -15437,7 +16303,7 @@
   },
   {
     "name": "Road Rash",
-    "id": "psx547",
+    "id": "psx571",
     "igdbId": 3249,
     "gbId": 8251,
     "gbGuid": "3030-8251",
@@ -15465,7 +16331,7 @@
   },
   {
     "name": "Road Rash (GH)",
-    "id": "psx548",
+    "id": "psx572",
     "igdbId": 141271,
     "gbId": 8251,
     "gbGuid": "3030-8251",
@@ -15498,7 +16364,7 @@
   },
   {
     "name": "Road Rash 3D",
-    "id": "psx549",
+    "id": "psx573",
     "igdbId": 45012,
     "gbId": 2243,
     "gbGuid": "3030-2243",
@@ -15524,8 +16390,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Robo-Pit 2",
+    "id": "psx574",
+    "igdbId": 44975,
+    "gbId": 24423,
+    "gbGuid": "3030-24423",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Rock n' Roll Racing",
-    "id": "psx550",
+    "id": "psx575",
     "igdbId": 6564,
     "gbId": 18026,
     "gbGuid": "3030-18026",
@@ -15549,7 +16442,7 @@
   },
   {
     "name": "Rocket Power: Team Rocket Rescue (PAL)",
-    "id": "psx551",
+    "id": "psx576",
     "igdbId": 8094,
     "gbId": 27249,
     "gbGuid": "3030-27249",
@@ -15582,7 +16475,7 @@
   },
   {
     "name": "Rockman Complete Works: Rockman",
-    "id": "psx552",
+    "id": "psx577",
     "igdbId": 84124,
     "gbId": 282,
     "gbGuid": "3030-282",
@@ -15605,13 +16498,14 @@
   },
   {
     "name": "Rogue Trip: Vacation 2012",
-    "id": "psx553",
+    "id": "psx578",
     "igdbId": 26143,
     "gbId": 2392,
     "gbGuid": "3030-2392",
     "tgdbId": 13639,
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": [
       {
@@ -15624,12 +16518,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Romance of the Three Kingdoms IV: Wall of Fire",
-    "id": "psx554",
+    "id": "psx579",
     "igdbId": 7040,
     "gbId": 6057,
     "gbGuid": "3030-6057",
@@ -15657,7 +16564,7 @@
   },
   {
     "name": "Rosco McQueen: Firefighter Extreme",
-    "id": "psx555",
+    "id": "psx580",
     "igdbId": 44899,
     "gbId": 12355,
     "gbGuid": "3030-12355",
@@ -15681,7 +16588,7 @@
   },
   {
     "name": "Rugrats: Search for Reptar",
-    "id": "psx556",
+    "id": "psx581",
     "igdbId": 2787,
     "gbId": 18043,
     "gbGuid": "3030-18043",
@@ -15730,7 +16637,7 @@
   },
   {
     "name": "Runabout 2",
-    "id": "psx557",
+    "id": "psx582",
     "igdbId": 44900,
     "gbId": 39126,
     "gbGuid": "3030-39126",
@@ -15754,7 +16661,7 @@
   },
   {
     "name": "Running Wild",
-    "id": "psx558",
+    "id": "psx583",
     "igdbId": 44973,
     "gbId": 16882,
     "gbGuid": "3030-16882",
@@ -15792,7 +16699,7 @@
   },
   {
     "name": "Rushdown",
-    "id": "psx559",
+    "id": "psx584",
     "igdbId": 22836,
     "gbId": 25730,
     "gbGuid": "3030-25730",
@@ -15820,7 +16727,7 @@
   },
   {
     "name": "SD Gundam G Century",
-    "id": "psx560",
+    "id": "psx585",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -15847,7 +16754,7 @@
   },
   {
     "name": "SD Gundam: G Generation",
-    "id": "psx561",
+    "id": "psx586",
     "igdbId": 66588,
     "gbId": 31328,
     "gbGuid": "3030-31328",
@@ -15871,7 +16778,7 @@
   },
   {
     "name": "SaGa Frontier 2",
-    "id": "psx562",
+    "id": "psx587",
     "igdbId": 2353,
     "gbId": 18504,
     "gbGuid": "3030-18504",
@@ -15888,8 +16795,35 @@
     ]
   },
   {
+    "name": "San Francisco Rush: Extreme Racing",
+    "id": "psx588",
+    "igdbId": 3595,
+    "gbId": 8458,
+    "gbGuid": "3030-8458",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Scooby-Doo and the Cyber Chase",
-    "id": "psx563",
+    "id": "psx589",
     "igdbId": 2859,
     "gbId": 21275,
     "gbGuid": "3030-21275",
@@ -15916,7 +16850,7 @@
   },
   {
     "name": "Sea-Doo HydroCross",
-    "id": "psx564",
+    "id": "psx590",
     "igdbId": 45055,
     "gbId": 15576,
     "gbGuid": "3030-15576",
@@ -15940,7 +16874,7 @@
   },
   {
     "name": "Sentient",
-    "id": "psx565",
+    "id": "psx591",
     "igdbId": 2234,
     "gbId": 5311,
     "gbGuid": "3030-5311",
@@ -15968,7 +16902,7 @@
   },
   {
     "name": "Shadow Madness",
-    "id": "psx566",
+    "id": "psx592",
     "igdbId": 44969,
     "gbId": 3592,
     "gbGuid": "3030-3592",
@@ -15992,7 +16926,7 @@
   },
   {
     "name": "Sheep",
-    "id": "psx567",
+    "id": "psx593",
     "igdbId": 6592,
     "gbId": 6672,
     "gbGuid": "3030-6672",
@@ -16010,7 +16944,7 @@
   },
   {
     "name": "Shellshock",
-    "id": "psx568",
+    "id": "psx594",
     "igdbId": 20635,
     "gbId": 12067,
     "gbGuid": "3030-12067",
@@ -16038,7 +16972,7 @@
   },
   {
     "name": "Shockwave Assault",
-    "id": "psx569",
+    "id": "psx595",
     "igdbId": 18705,
     "gbId": null,
     "gbGuid": null,
@@ -16066,7 +17000,7 @@
   },
   {
     "name": "Shoot (PAL)",
-    "id": "psx570",
+    "id": "psx596",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -16084,7 +17018,7 @@
   },
   {
     "name": "Shrek Treasure Hunt",
-    "id": "psx571",
+    "id": "psx597",
     "igdbId": 44967,
     "gbId": 40706,
     "gbGuid": "3030-40706",
@@ -16107,8 +17041,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Shutokou Battle R",
+    "id": "psx598",
+    "igdbId": 214789,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sony PlayStation game Link Cable compatible (JPN exclusive)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (JPN exclusive)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Silent Hill",
-    "id": "psx572",
+    "id": "psx599",
     "igdbId": 480,
     "gbId": 4312,
     "gbGuid": "3030-4312",
@@ -16165,7 +17126,7 @@
   },
   {
     "name": "Silverload",
-    "id": "psx573",
+    "id": "psx600",
     "igdbId": 15481,
     "gbId": 13814,
     "gbGuid": "3030-13814",
@@ -16193,7 +17154,7 @@
   },
   {
     "name": "SimCity 2000",
-    "id": "psx574",
+    "id": "psx601",
     "igdbId": 330,
     "gbId": 13760,
     "gbGuid": "3030-13760",
@@ -16220,7 +17181,7 @@
   },
   {
     "name": "Simple 1500 Series Vol. 24 - The Gun Shooting",
-    "id": "psx575",
+    "id": "psx602",
     "igdbId": 203010,
     "gbId": 34953,
     "gbGuid": "3030-34953",
@@ -16247,7 +17208,7 @@
   },
   {
     "name": "Simple 1500 Series vol. 63: The Gun Shooting 2",
-    "id": "psx576",
+    "id": "psx603",
     "igdbId": 203057,
     "gbId": null,
     "gbGuid": null,
@@ -16274,7 +17235,7 @@
   },
   {
     "name": "Skeleton Warriors",
-    "id": "psx577",
+    "id": "psx604",
     "igdbId": 8084,
     "gbId": 7168,
     "gbGuid": "3030-7168",
@@ -16301,7 +17262,7 @@
   },
   {
     "name": "Ski Air Mix",
-    "id": "psx578",
+    "id": "psx605",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -16325,7 +17286,7 @@
   },
   {
     "name": "Skullmonkeys",
-    "id": "psx579",
+    "id": "psx606",
     "igdbId": 10917,
     "gbId": 8992,
     "gbGuid": "3030-8992",
@@ -16349,7 +17310,7 @@
   },
   {
     "name": "Slam 'n Jam '96 Featuring Magic & Kareem",
-    "id": "psx580",
+    "id": "psx607",
     "igdbId": 44904,
     "gbId": 4337,
     "gbGuid": "3030-4337",
@@ -16389,7 +17350,7 @@
   },
   {
     "name": "Slayers Wonderful",
-    "id": "psx581",
+    "id": "psx608",
     "igdbId": 71894,
     "gbId": 23994,
     "gbGuid": "3030-23994",
@@ -16413,7 +17374,7 @@
   },
   {
     "name": "Sled Storm",
-    "id": "psx582",
+    "id": "psx609",
     "igdbId": 81484,
     "gbId": 27918,
     "gbGuid": "3030-27918",
@@ -16464,7 +17425,7 @@
   },
   {
     "name": "Sonic Wings Special",
-    "id": "psx583",
+    "id": "psx610",
     "igdbId": 44837,
     "gbId": 34801,
     "gbGuid": "3030-34801",
@@ -16491,7 +17452,7 @@
   },
   {
     "name": "Sony Music Entertainment Playstation Title Digest (Japan)",
-    "id": "psx584",
+    "id": "psx611",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -16509,7 +17470,7 @@
   },
   {
     "name": "Soul Edge",
-    "id": "psx585",
+    "id": "psx612",
     "igdbId": 1563,
     "gbId": 6153,
     "gbGuid": "3030-6153",
@@ -16536,7 +17497,7 @@
   },
   {
     "name": "Soul of the Samurai",
-    "id": "psx586",
+    "id": "psx613",
     "igdbId": 44905,
     "gbId": 10482,
     "gbGuid": "3030-10482",
@@ -16560,7 +17521,7 @@
   },
   {
     "name": "South Park: Chef's Luv Shack",
-    "id": "psx587",
+    "id": "psx614",
     "igdbId": 1258,
     "gbId": 2127,
     "gbGuid": "3030-2127",
@@ -16587,7 +17548,7 @@
   },
   {
     "name": "Soviet Strike",
-    "id": "psx588",
+    "id": "psx615",
     "igdbId": 19418,
     "gbId": 2422,
     "gbGuid": "3030-2422",
@@ -16627,7 +17588,7 @@
   },
   {
     "name": "Space Battleship Yamato (video game)",
-    "id": "psx589",
+    "id": "psx616",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -16650,7 +17611,7 @@
   },
   {
     "name": "Space Griffon VF-9",
-    "id": "psx590",
+    "id": "psx617",
     "igdbId": 45833,
     "gbId": 14666,
     "gbGuid": "3030-14666",
@@ -16678,7 +17639,7 @@
   },
   {
     "name": "Space Hulk",
-    "id": "psx591",
+    "id": "psx618",
     "igdbId": 4330,
     "gbId": 1518,
     "gbGuid": "3030-1518",
@@ -16706,7 +17667,7 @@
   },
   {
     "name": "Spawn: The Eternal",
-    "id": "psx592",
+    "id": "psx619",
     "igdbId": 45208,
     "gbId": 380,
     "gbGuid": "3030-380",
@@ -16730,7 +17691,7 @@
   },
   {
     "name": "Spec Ops: Ranger Elite",
-    "id": "psx593",
+    "id": "psx620",
     "igdbId": 9345,
     "gbId": 3450,
     "gbGuid": "3030-3450",
@@ -16748,7 +17709,7 @@
   },
   {
     "name": "Speed Freak",
-    "id": "psx594",
+    "id": "psx621",
     "igdbId": 46764,
     "gbId": null,
     "gbGuid": null,
@@ -16772,7 +17733,7 @@
   },
   {
     "name": "Speed Punks",
-    "id": "psx595",
+    "id": "psx622",
     "igdbId": 4119,
     "gbId": 13178,
     "gbGuid": "3030-13178",
@@ -16812,7 +17773,7 @@
   },
   {
     "name": "Speed Racer",
-    "id": "psx596",
+    "id": "psx623",
     "igdbId": 111562,
     "gbId": 22888,
     "gbGuid": "3030-22888",
@@ -16836,7 +17797,7 @@
   },
   {
     "name": "Spice World",
-    "id": "psx597",
+    "id": "psx624",
     "igdbId": 44907,
     "gbId": 7919,
     "gbGuid": "3030-7919",
@@ -16860,7 +17821,7 @@
   },
   {
     "name": "Spider-Man",
-    "id": "psx598",
+    "id": "psx625",
     "igdbId": 3603,
     "gbId": 21586,
     "gbGuid": "3030-21586",
@@ -16887,7 +17848,7 @@
   },
   {
     "name": "Spider-Man 2: Enter: Electro",
-    "id": "psx599",
+    "id": "psx626",
     "igdbId": 4118,
     "gbId": 12305,
     "gbGuid": "3030-12305",
@@ -16925,7 +17886,7 @@
   },
   {
     "name": "Spider: The Video Game",
-    "id": "psx600",
+    "id": "psx627",
     "igdbId": 45034,
     "gbId": 10554,
     "gbGuid": "3030-10554",
@@ -16949,7 +17910,7 @@
   },
   {
     "name": "Spongebob Squarepants: SuperSponge",
-    "id": "psx601",
+    "id": "psx628",
     "igdbId": 2761,
     "gbId": 18726,
     "gbGuid": "3030-18726",
@@ -16976,7 +17937,7 @@
   },
   {
     "name": "Spyro 2: Ripto's Rage!",
-    "id": "psx602",
+    "id": "psx629",
     "igdbId": 1577,
     "gbId": 1563,
     "gbGuid": "3030-1563",
@@ -17003,7 +17964,7 @@
   },
   {
     "name": "Spyro the Dragon (PAL SCN)",
-    "id": "psx603",
+    "id": "psx630",
     "igdbId": 1576,
     "gbId": 7836,
     "gbGuid": "3030-7836",
@@ -17051,7 +18012,7 @@
   },
   {
     "name": "Spyro: Year of the Dragon",
-    "id": "psx604",
+    "id": "psx631",
     "igdbId": 1578,
     "gbId": 1753,
     "gbGuid": "3030-1753",
@@ -17078,7 +18039,7 @@
   },
   {
     "name": "Stahlfeder: Tekkou Hikuudan",
-    "id": "psx605",
+    "id": "psx632",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -17102,7 +18063,7 @@
   },
   {
     "name": "Star Ixiom",
-    "id": "psx606",
+    "id": "psx633",
     "igdbId": 94357,
     "gbId": 6191,
     "gbGuid": "3030-6191",
@@ -17125,7 +18086,7 @@
   },
   {
     "name": "Star Trek: Invasion",
-    "id": "psx607",
+    "id": "psx634",
     "igdbId": 24155,
     "gbId": 1715,
     "gbGuid": "3030-1715",
@@ -17149,7 +18110,7 @@
   },
   {
     "name": "Star Wars Episode I: The Phantom Menace",
-    "id": "psx608",
+    "id": "psx635",
     "igdbId": 158,
     "gbId": 14541,
     "gbGuid": "3030-14541",
@@ -17176,7 +18137,7 @@
   },
   {
     "name": "Star Wars: Dark Forces",
-    "id": "psx609",
+    "id": "psx636",
     "igdbId": 157,
     "gbId": 11023,
     "gbGuid": "3030-11023",
@@ -17203,7 +18164,7 @@
   },
   {
     "name": "Star Wars: Episode I - Jedi Power Battles (GH)",
-    "id": "psx610",
+    "id": "psx637",
     "igdbId": 6606,
     "gbId": 2726,
     "gbGuid": "3030-2726",
@@ -17236,7 +18197,7 @@
   },
   {
     "name": "Star Wars: Masters of Teräs Käsi",
-    "id": "psx611",
+    "id": "psx638",
     "igdbId": 18044,
     "gbId": 9603,
     "gbGuid": "3030-9603",
@@ -17260,7 +18221,7 @@
   },
   {
     "name": "Star Wars: Rebel Assault II - The Hidden Empire",
-    "id": "psx612",
+    "id": "psx639",
     "igdbId": 162,
     "gbId": 7637,
     "gbGuid": "3030-7637",
@@ -17300,7 +18261,7 @@
   },
   {
     "name": "StarBlade Alpha",
-    "id": "psx613",
+    "id": "psx640",
     "igdbId": 59118,
     "gbId": 52187,
     "gbGuid": "3030-52187",
@@ -17328,7 +18289,7 @@
   },
   {
     "name": "Starwinder: The Ultimate Space Race",
-    "id": "psx614",
+    "id": "psx641",
     "igdbId": 45032,
     "gbId": 7371,
     "gbGuid": "3030-7371",
@@ -17352,7 +18313,7 @@
   },
   {
     "name": "Steel Harbinger",
-    "id": "psx615",
+    "id": "psx642",
     "igdbId": 9584,
     "gbId": 31028,
     "gbGuid": "3030-31028",
@@ -17381,8 +18342,35 @@
     ]
   },
   {
+    "name": "Streak: Hoverboard Racing",
+    "id": "psx643",
+    "igdbId": 44910,
+    "gbId": 985,
+    "gbGuid": "3030-985",
+    "details": [
+      "Sony PlayStation game Link Cable compatible"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Street Fighter Alpha 3",
-    "id": "psx616",
+    "id": "psx644",
     "igdbId": 6704,
     "gbId": 1328,
     "gbGuid": "3030-1328",
@@ -17409,7 +18397,7 @@
   },
   {
     "name": "Street Fighter Alpha: Warriors' Dreams",
-    "id": "psx617",
+    "id": "psx645",
     "igdbId": 6702,
     "gbId": 11802,
     "gbGuid": "3030-11802",
@@ -17437,7 +18425,7 @@
   },
   {
     "name": "Street Fighter: The Movie",
-    "id": "psx618",
+    "id": "psx646",
     "igdbId": 19754,
     "gbId": 3760,
     "gbGuid": "3030-3760",
@@ -17475,7 +18463,7 @@
   },
   {
     "name": "Street Racer",
-    "id": "psx619",
+    "id": "psx647",
     "igdbId": 19770,
     "gbId": 22190,
     "gbGuid": "3030-22190",
@@ -17502,7 +18490,7 @@
   },
   {
     "name": "Strider 2",
-    "id": "psx620",
+    "id": "psx648",
     "igdbId": 5923,
     "gbId": 6496,
     "gbGuid": "3030-6496",
@@ -17520,7 +18508,7 @@
   },
   {
     "name": "Striker '96",
-    "id": "psx621",
+    "id": "psx649",
     "igdbId": 22675,
     "gbId": 6753,
     "gbGuid": "3030-6753",
@@ -17560,7 +18548,7 @@
   },
   {
     "name": "Strikers 1945",
-    "id": "psx622",
+    "id": "psx650",
     "igdbId": 39300,
     "gbId": 18395,
     "gbGuid": "3030-18395",
@@ -17587,7 +18575,7 @@
   },
   {
     "name": "Strikers 1945 II",
-    "id": "psx623",
+    "id": "psx651",
     "igdbId": 39299,
     "gbId": 22358,
     "gbGuid": "3030-22358",
@@ -17614,7 +18602,7 @@
   },
   {
     "name": "Stuart Little 2",
-    "id": "psx624",
+    "id": "psx652",
     "igdbId": 121606,
     "gbId": 3100,
     "gbGuid": "3030-3100",
@@ -17641,7 +18629,7 @@
   },
   {
     "name": "Subete ga F ni Naru",
-    "id": "psx625",
+    "id": "psx653",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -17664,7 +18652,7 @@
   },
   {
     "name": "Suikoden",
-    "id": "psx626",
+    "id": "psx654",
     "igdbId": 1447,
     "gbId": 8810,
     "gbGuid": "3030-8810",
@@ -17682,7 +18670,7 @@
   },
   {
     "name": "Suikoden II",
-    "id": "psx627",
+    "id": "psx655",
     "igdbId": 1454,
     "gbId": 10120,
     "gbGuid": "3030-10120",
@@ -17705,7 +18693,7 @@
   },
   {
     "name": "Super Hero Operations",
-    "id": "psx628",
+    "id": "psx656",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -17728,7 +18716,7 @@
   },
   {
     "name": "Super Hero Operations: Diedal's Ambition",
-    "id": "psx629",
+    "id": "psx657",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -17751,7 +18739,7 @@
   },
   {
     "name": "Super Puzzle Fighter II Turbo",
-    "id": "psx630",
+    "id": "psx658",
     "igdbId": 20803,
     "gbId": 2755,
     "gbGuid": "3030-2755",
@@ -17779,7 +18767,7 @@
   },
   {
     "name": "Super Shot Soccer",
-    "id": "psx631",
+    "id": "psx659",
     "igdbId": 44913,
     "gbId": 34849,
     "gbGuid": "3030-34849",
@@ -17803,7 +18791,7 @@
   },
   {
     "name": "Supersonic Racers",
-    "id": "psx632",
+    "id": "psx660",
     "igdbId": 45048,
     "gbId": null,
     "gbGuid": null,
@@ -17827,7 +18815,7 @@
   },
   {
     "name": "Syndicate Wars",
-    "id": "psx633",
+    "id": "psx661",
     "igdbId": 51,
     "gbId": 14525,
     "gbGuid": "3030-14525",
@@ -17860,7 +18848,7 @@
   },
   {
     "name": "Syphon Filter",
-    "id": "psx634",
+    "id": "psx662",
     "igdbId": 4115,
     "gbId": 1248,
     "gbGuid": "3030-1248",
@@ -17893,7 +18881,7 @@
   },
   {
     "name": "Syphon Filter 2",
-    "id": "psx635",
+    "id": "psx663",
     "igdbId": 4116,
     "gbId": 18599,
     "gbGuid": "3030-18599",
@@ -17937,7 +18925,7 @@
   },
   {
     "name": "Syphon Filter 3",
-    "id": "psx636",
+    "id": "psx664",
     "igdbId": 4117,
     "gbId": 15691,
     "gbGuid": "3030-15691",
@@ -17986,7 +18974,7 @@
   },
   {
     "name": "T'ai Fu: Wrath of the Tiger",
-    "id": "psx637",
+    "id": "psx665",
     "igdbId": 8279,
     "gbId": 10414,
     "gbGuid": "3030-10414",
@@ -18010,7 +18998,7 @@
   },
   {
     "name": "TNN Motorsports Hardcore 4X4",
-    "id": "psx638",
+    "id": "psx666",
     "igdbId": 20718,
     "gbId": 6265,
     "gbGuid": "3030-6265",
@@ -18036,8 +19024,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "TOCA 2: Touring Car Challenge",
+    "id": "psx667",
+    "igdbId": 8001,
+    "gbId": 8437,
+    "gbGuid": "3030-8437",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (2 to 4 players,Touring Car Challenge in North America)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (2 to 4 players,Touring Car Challenge in North America)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tail Concerto",
-    "id": "psx639",
+    "id": "psx668",
     "igdbId": 38513,
     "gbId": 8698,
     "gbGuid": "3030-8698",
@@ -18061,7 +19076,7 @@
   },
   {
     "name": "Tales of Destiny",
-    "id": "psx640",
+    "id": "psx669",
     "igdbId": 1201,
     "gbId": 1335,
     "gbGuid": "3030-1335",
@@ -18094,7 +19109,7 @@
   },
   {
     "name": "Tales of Eternia",
-    "id": "psx641",
+    "id": "psx670",
     "igdbId": 1202,
     "gbId": 21441,
     "gbGuid": "3030-21441",
@@ -18121,7 +19136,7 @@
   },
   {
     "name": "Tales of Phantasia",
-    "id": "psx642",
+    "id": "psx671",
     "igdbId": 1200,
     "gbId": 36419,
     "gbGuid": "3030-36419",
@@ -18148,7 +19163,7 @@
   },
   {
     "name": "Tall Infinity",
-    "id": "psx643",
+    "id": "psx672",
     "igdbId": 45062,
     "gbId": 44711,
     "gbGuid": "3030-44711",
@@ -18166,7 +19181,7 @@
   },
   {
     "name": "Tatsunoko Fight",
-    "id": "psx644",
+    "id": "psx673",
     "igdbId": 43811,
     "gbId": 23038,
     "gbGuid": "3030-23038",
@@ -18190,7 +19205,7 @@
   },
   {
     "name": "Team Buddies",
-    "id": "psx645",
+    "id": "psx674",
     "igdbId": 45024,
     "gbId": 7730,
     "gbGuid": "3030-7730",
@@ -18228,7 +19243,7 @@
   },
   {
     "name": "TearRing Saga: Yutona Eiyuu Senki",
-    "id": "psx646",
+    "id": "psx675",
     "igdbId": 43872,
     "gbId": 22475,
     "gbGuid": "3030-22475",
@@ -18252,7 +19267,7 @@
   },
   {
     "name": "Tecmo World Golf",
-    "id": "psx647",
+    "id": "psx676",
     "igdbId": 45064,
     "gbId": 11155,
     "gbGuid": "3030-11155",
@@ -18280,7 +19295,7 @@
   },
   {
     "name": "Tekken",
-    "id": "psx648",
+    "id": "psx677",
     "igdbId": 1242,
     "gbId": 10081,
     "gbGuid": "3030-10081",
@@ -18326,7 +19341,7 @@
   },
   {
     "name": "Tekken 2",
-    "id": "psx649",
+    "id": "psx678",
     "igdbId": 1243,
     "gbId": 10387,
     "gbGuid": "3030-10387",
@@ -18359,7 +19374,7 @@
   },
   {
     "name": "Tekken 3",
-    "id": "psx650",
+    "id": "psx679",
     "igdbId": 1244,
     "gbId": 11189,
     "gbGuid": "3030-11189",
@@ -18392,7 +19407,7 @@
   },
   {
     "name": "Ten Pin Alley",
-    "id": "psx651",
+    "id": "psx680",
     "igdbId": 6636,
     "gbId": 16781,
     "gbGuid": "3030-16781",
@@ -18425,7 +19440,7 @@
   },
   {
     "name": "Tenchu 2: Birth of the Stealth Assassins",
-    "id": "psx652",
+    "id": "psx681",
     "igdbId": 4114,
     "gbId": 15737,
     "gbGuid": "3030-15737",
@@ -18463,7 +19478,7 @@
   },
   {
     "name": "Tenchu: Stealth Assassins",
-    "id": "psx653",
+    "id": "psx682",
     "igdbId": 4113,
     "gbId": 16004,
     "gbGuid": "3030-16004",
@@ -18507,7 +19522,7 @@
   },
   {
     "name": "Terracon",
-    "id": "psx654",
+    "id": "psx683",
     "igdbId": 43688,
     "gbId": 31761,
     "gbGuid": "3030-31761",
@@ -18531,12 +19546,13 @@
   },
   {
     "name": "Test Drive 4",
-    "id": "psx655",
+    "id": "psx684",
     "igdbId": 78297,
     "gbId": 13751,
     "gbGuid": "3030-13751",
     "details": [
-      "Sony PlayStation Greatest Hits"
+      "Sony PlayStation Greatest Hits",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -18552,13 +19568,25 @@
           "tgdbId": 10
         },
         "category": "hits"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Test Drive 5",
-    "id": "psx656",
+    "id": "psx685",
     "igdbId": 19231,
     "gbId": 13819,
     "gbGuid": "3030-13819",
@@ -18585,7 +19613,7 @@
   },
   {
     "name": "Test Drive: Le Mans (PAL)(Germany)",
-    "id": "psx657",
+    "id": "psx686",
     "igdbId": 27556,
     "gbId": 2682,
     "gbGuid": "3030-2682",
@@ -18608,12 +19636,13 @@
   },
   {
     "name": "Test Drive: Off-Road",
-    "id": "psx658",
+    "id": "psx687",
     "igdbId": 46041,
     "gbId": 10826,
     "gbGuid": "3030-10826",
     "details": [
-      "Sony PlayStation Greatest Hits"
+      "Sony PlayStation Greatest Hits",
+      "Sony PlayStation game Link Cable compatible (NTSC only - removed from PAL version)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -18629,13 +19658,25 @@
           "tgdbId": 10
         },
         "category": "hits"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible (NTSC only - removed from PAL version)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Tetris Plus",
-    "id": "psx659",
+    "id": "psx688",
     "igdbId": 20712,
     "gbId": 17808,
     "gbGuid": "3030-17808",
@@ -18662,7 +19703,7 @@
   },
   {
     "name": "Tetris X",
-    "id": "psx660",
+    "id": "psx689",
     "igdbId": 43727,
     "gbId": null,
     "gbGuid": null,
@@ -18689,7 +19730,7 @@
   },
   {
     "name": "The Chessmaster 3-D",
-    "id": "psx661",
+    "id": "psx690",
     "igdbId": 45067,
     "gbId": 6299,
     "gbGuid": "3030-6299",
@@ -18717,7 +19758,7 @@
   },
   {
     "name": "The Dukes of Hazzard II: Daisy Dukes it Out",
-    "id": "psx662",
+    "id": "psx691",
     "igdbId": 44986,
     "gbId": 45563,
     "gbGuid": "3030-45563",
@@ -18741,7 +19782,7 @@
   },
   {
     "name": "The Fantastic Four",
-    "id": "psx663",
+    "id": "psx692",
     "igdbId": 71328,
     "gbId": 2660,
     "gbGuid": "3030-2660",
@@ -18768,7 +19809,7 @@
   },
   {
     "name": "The Final Round",
-    "id": "psx664",
+    "id": "psx693",
     "igdbId": 139245,
     "gbId": 29381,
     "gbGuid": "3030-29381",
@@ -18786,7 +19827,7 @@
   },
   {
     "name": "The Game of Life",
-    "id": "psx665",
+    "id": "psx694",
     "igdbId": 106271,
     "gbId": 2340,
     "gbGuid": "3030-2340",
@@ -18804,7 +19845,7 @@
   },
   {
     "name": "The Granstream Saga",
-    "id": "psx666",
+    "id": "psx695",
     "igdbId": 19156,
     "gbId": 11768,
     "gbGuid": "3030-11768",
@@ -18828,7 +19869,7 @@
   },
   {
     "name": "The Hive",
-    "id": "psx667",
+    "id": "psx696",
     "igdbId": 95385,
     "gbId": 16225,
     "gbGuid": "3030-16225",
@@ -18846,7 +19887,7 @@
   },
   {
     "name": "The Hive",
-    "id": "psx668",
+    "id": "psx697",
     "igdbId": 17889,
     "gbId": 16225,
     "gbGuid": "3030-16225",
@@ -18874,7 +19915,7 @@
   },
   {
     "name": "The Italian Job",
-    "id": "psx669",
+    "id": "psx698",
     "igdbId": 135936,
     "gbId": 10623,
     "gbGuid": "3030-10623",
@@ -18897,7 +19938,7 @@
   },
   {
     "name": "The King of Fighters '95",
-    "id": "psx670",
+    "id": "psx699",
     "igdbId": 15427,
     "gbId": 18568,
     "gbGuid": "3030-18568",
@@ -18915,7 +19956,7 @@
   },
   {
     "name": "The Land Before Time: Great Valley Racing Adventure",
-    "id": "psx671",
+    "id": "psx700",
     "igdbId": 45069,
     "gbId": 47894,
     "gbGuid": "3030-47894",
@@ -18943,7 +19984,7 @@
   },
   {
     "name": "The Legend of Dragoon",
-    "id": "psx672",
+    "id": "psx701",
     "igdbId": 3140,
     "gbId": 13180,
     "gbGuid": "3030-13180",
@@ -19004,7 +20045,7 @@
   },
   {
     "name": "The Lost World: Jurassic Park",
-    "id": "psx673",
+    "id": "psx702",
     "igdbId": 19536,
     "gbId": 4125,
     "gbGuid": "3030-4125",
@@ -19031,13 +20072,14 @@
   },
   {
     "name": "The Need for Speed",
-    "id": "psx674",
+    "id": "psx703",
     "igdbId": 90,
     "gbId": 4703,
     "gbGuid": "3030-4703",
     "details": [
       "Sony PlayStation Greatest Hits",
-      "PlayStation Long Box Game"
+      "PlayStation Long Box Game",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -19065,13 +20107,25 @@
           "tgdbId": 10
         },
         "category": "series"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "The Note",
-    "id": "psx675",
+    "id": "psx704",
     "igdbId": 76728,
     "gbId": 41537,
     "gbGuid": "3030-41537",
@@ -19094,7 +20148,7 @@
   },
   {
     "name": "The Raiden Project",
-    "id": "psx676",
+    "id": "psx705",
     "igdbId": 20301,
     "gbId": 15131,
     "gbGuid": "3030-15131",
@@ -19161,7 +20215,7 @@
   },
   {
     "name": "The Simpsons Wrestling",
-    "id": "psx677",
+    "id": "psx706",
     "igdbId": 2841,
     "gbId": 8697,
     "gbGuid": "3030-8697",
@@ -19185,7 +20239,7 @@
   },
   {
     "name": "The Unholy War",
-    "id": "psx678",
+    "id": "psx707",
     "igdbId": 44915,
     "gbId": 3465,
     "gbGuid": "3030-3465",
@@ -19209,7 +20263,7 @@
   },
   {
     "name": "The X-Files Game",
-    "id": "psx679",
+    "id": "psx708",
     "igdbId": 103203,
     "gbId": 22,
     "gbGuid": "3030-22",
@@ -19237,7 +20291,7 @@
   },
   {
     "name": "Theme Park",
-    "id": "psx680",
+    "id": "psx709",
     "igdbId": 283,
     "gbId": 6562,
     "gbGuid": "3030-6562",
@@ -19265,7 +20319,7 @@
   },
   {
     "name": "This is Football",
-    "id": "psx681",
+    "id": "psx710",
     "igdbId": 70158,
     "gbId": 13754,
     "gbGuid": "3030-13754",
@@ -19292,7 +20346,7 @@
   },
   {
     "name": "Thoroughbred Breeder",
-    "id": "psx682",
+    "id": "psx711",
     "igdbId": 37789,
     "gbId": 47738,
     "gbGuid": "3030-47738",
@@ -19316,7 +20370,7 @@
   },
   {
     "name": "Thousand Arms",
-    "id": "psx683",
+    "id": "psx712",
     "igdbId": 15461,
     "gbId": 3762,
     "gbGuid": "3030-3762",
@@ -19346,7 +20400,7 @@
   },
   {
     "name": "Thrasher Presents: Skate and Destroy",
-    "id": "psx684",
+    "id": "psx713",
     "igdbId": 44916,
     "gbId": 18624,
     "gbGuid": "3030-18624",
@@ -19370,7 +20424,7 @@
   },
   {
     "name": "Thrill Kill",
-    "id": "psx685",
+    "id": "psx714",
     "igdbId": 2387,
     "gbId": 21282,
     "gbGuid": "3030-21282",
@@ -19408,7 +20462,7 @@
   },
   {
     "name": "ThunderStrike 2",
-    "id": "psx686",
+    "id": "psx715",
     "igdbId": 79310,
     "gbId": 15657,
     "gbGuid": "3030-15657",
@@ -19436,7 +20490,7 @@
   },
   {
     "name": "Tigger's Honey Hunt",
-    "id": "psx687",
+    "id": "psx716",
     "igdbId": 3613,
     "gbId": 18825,
     "gbGuid": "3030-18825",
@@ -19454,7 +20508,7 @@
   },
   {
     "name": "Time Crisis",
-    "id": "psx688",
+    "id": "psx717",
     "igdbId": 11739,
     "gbId": 15867,
     "gbGuid": "3030-15867",
@@ -19481,7 +20535,7 @@
   },
   {
     "name": "Time Crisis: Project Titan",
-    "id": "psx689",
+    "id": "psx718",
     "igdbId": 12899,
     "gbId": 9645,
     "gbGuid": "3030-9645",
@@ -19519,7 +20573,7 @@
   },
   {
     "name": "Tiny Tank",
-    "id": "psx690",
+    "id": "psx719",
     "igdbId": 44918,
     "gbId": 5373,
     "gbGuid": "3030-5373",
@@ -19543,7 +20597,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Plucky's Big Adventure",
-    "id": "psx691",
+    "id": "psx720",
     "igdbId": 8056,
     "gbId": 10522,
     "gbGuid": "3030-10522",
@@ -19567,7 +20621,7 @@
   },
   {
     "name": "Tiny Toon Adventures: The Great Beanstalk",
-    "id": "psx692",
+    "id": "psx721",
     "igdbId": 8054,
     "gbId": 209,
     "gbGuid": "3030-209",
@@ -19597,7 +20651,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Toonenstein - Dare to Scare!",
-    "id": "psx693",
+    "id": "psx722",
     "igdbId": 8055,
     "gbId": 22906,
     "gbGuid": "3030-22906",
@@ -19621,7 +20675,7 @@
   },
   {
     "name": "Toaplan Shooting Battle 1",
-    "id": "psx694",
+    "id": "psx723",
     "igdbId": 125986,
     "gbId": 73508,
     "gbGuid": "3030-73508",
@@ -19648,7 +20702,7 @@
   },
   {
     "name": "Tobal 2",
-    "id": "psx695",
+    "id": "psx724",
     "igdbId": 1662,
     "gbId": 15156,
     "gbGuid": "3030-15156",
@@ -19672,7 +20726,7 @@
   },
   {
     "name": "Tobal No. 1",
-    "id": "psx696",
+    "id": "psx725",
     "igdbId": 1661,
     "gbId": 21878,
     "gbGuid": "3030-21878",
@@ -19696,7 +20750,7 @@
   },
   {
     "name": "Tom Clancy's Rainbow Six",
-    "id": "psx697",
+    "id": "psx726",
     "igdbId": 1842,
     "gbId": 7887,
     "gbGuid": "3030-7887",
@@ -19723,7 +20777,7 @@
   },
   {
     "name": "Tom and Jerry in House Trap",
-    "id": "psx698",
+    "id": "psx727",
     "igdbId": 8032,
     "gbId": 39963,
     "gbGuid": "3030-39963",
@@ -19747,7 +20801,7 @@
   },
   {
     "name": "Tomb Raider",
-    "id": "psx699",
+    "id": "psx728",
     "igdbId": 912,
     "gbId": 3023,
     "gbGuid": "3030-3023",
@@ -19774,7 +20828,7 @@
   },
   {
     "name": "Tomb Raider II",
-    "id": "psx700",
+    "id": "psx729",
     "igdbId": 1156,
     "gbId": 337,
     "gbGuid": "3030-337",
@@ -19801,7 +20855,7 @@
   },
   {
     "name": "Tomb Raider III: Adventures of Lara Croft",
-    "id": "psx701",
+    "id": "psx730",
     "igdbId": 1157,
     "gbId": 19596,
     "gbGuid": "3030-19596",
@@ -19828,7 +20882,7 @@
   },
   {
     "name": "Tomb Raider: The Last Revelation",
-    "id": "psx702",
+    "id": "psx731",
     "igdbId": 1158,
     "gbId": 10570,
     "gbGuid": "3030-10570",
@@ -19866,7 +20920,7 @@
   },
   {
     "name": "Tomba!",
-    "id": "psx703",
+    "id": "psx732",
     "igdbId": 4097,
     "gbId": 8014,
     "gbGuid": "3030-8014",
@@ -19904,7 +20958,7 @@
   },
   {
     "name": "Tommo Value pack Volume 3",
-    "id": "psx704",
+    "id": "psx733",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -19922,7 +20976,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater",
-    "id": "psx705",
+    "id": "psx734",
     "igdbId": 6692,
     "gbId": 7236,
     "gbGuid": "3030-7236",
@@ -19949,7 +21003,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater 2",
-    "id": "psx706",
+    "id": "psx735",
     "igdbId": 913,
     "gbId": 990,
     "gbGuid": "3030-990",
@@ -19987,7 +21041,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater 3",
-    "id": "psx707",
+    "id": "psx736",
     "igdbId": 194213,
     "gbId": 5688,
     "gbGuid": "3030-5688",
@@ -20014,7 +21068,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater 4",
-    "id": "psx708",
+    "id": "psx737",
     "igdbId": 915,
     "gbId": 2101,
     "gbGuid": "3030-2101",
@@ -20041,7 +21095,7 @@
   },
   {
     "name": "Top Gun: Fire at Will!",
-    "id": "psx709",
+    "id": "psx738",
     "igdbId": 44990,
     "gbId": 10899,
     "gbGuid": "3030-10899",
@@ -20069,7 +21123,7 @@
   },
   {
     "name": "Toshinden 4",
-    "id": "psx710",
+    "id": "psx739",
     "igdbId": 1416,
     "gbId": 11293,
     "gbGuid": "3030-11293",
@@ -20092,7 +21146,7 @@
   },
   {
     "name": "Total Drivin",
-    "id": "psx711",
+    "id": "psx740",
     "igdbId": null,
     "gbId": 16509,
     "gbGuid": "3030-16509",
@@ -20116,7 +21170,7 @@
   },
   {
     "name": "Total Eclipse Turbo",
-    "id": "psx712",
+    "id": "psx741",
     "igdbId": 44991,
     "gbId": 22915,
     "gbGuid": "3030-22915",
@@ -20154,7 +21208,7 @@
   },
   {
     "name": "Touki Denshou Angel Eyes (Japan)",
-    "id": "psx713",
+    "id": "psx742",
     "igdbId": 91788,
     "gbId": 34148,
     "gbGuid": "3030-34148",
@@ -20172,7 +21226,7 @@
   },
   {
     "name": "Toy Story 2: Buzz Lightyear to the Rescue!",
-    "id": "psx714",
+    "id": "psx743",
     "igdbId": 3619,
     "gbId": 7301,
     "gbGuid": "3030-7301",
@@ -20199,7 +21253,7 @@
   },
   {
     "name": "Trap Gunner: Countdown to Oblivion",
-    "id": "psx715",
+    "id": "psx744",
     "igdbId": 44945,
     "gbId": 3170,
     "gbGuid": "3030-3170",
@@ -20223,7 +21277,7 @@
   },
   {
     "name": "Treasures of the Deep",
-    "id": "psx716",
+    "id": "psx745",
     "igdbId": 45209,
     "gbId": 17282,
     "gbGuid": "3030-17282",
@@ -20247,13 +21301,14 @@
   },
   {
     "name": "Trick'N Snowboarder",
-    "id": "psx717",
+    "id": "psx746",
     "igdbId": 44923,
     "gbId": 22898,
     "gbGuid": "3030-22898",
     "tgdbId": 13449,
     "details": [
-      "Sony PlayStation exclusive"
+      "Sony PlayStation exclusive",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": [
       {
@@ -20266,12 +21321,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Triple Play 2001",
-    "id": "psx718",
+    "id": "psx747",
     "igdbId": 49988,
     "gbId": 7000,
     "gbGuid": "3030-7000",
@@ -20298,7 +21366,7 @@
   },
   {
     "name": "Triple Play 97",
-    "id": "psx719",
+    "id": "psx748",
     "igdbId": 20649,
     "gbId": 1202,
     "gbGuid": "3030-1202",
@@ -20326,7 +21394,7 @@
   },
   {
     "name": "Triple Play 98",
-    "id": "psx720",
+    "id": "psx749",
     "igdbId": 20813,
     "gbId": 2250,
     "gbGuid": "3030-2250",
@@ -20366,7 +21434,7 @@
   },
   {
     "name": "True Love Story",
-    "id": "psx721",
+    "id": "psx750",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -20389,7 +21457,7 @@
   },
   {
     "name": "Tweenies: Game Time",
-    "id": "psx722",
+    "id": "psx751",
     "igdbId": 65885,
     "gbId": 35756,
     "gbGuid": "3030-35756",
@@ -20413,7 +21481,7 @@
   },
   {
     "name": "Twilight Syndrome Special",
-    "id": "psx723",
+    "id": "psx752",
     "igdbId": 59667,
     "gbId": 51208,
     "gbGuid": "3030-51208",
@@ -20436,7 +21504,7 @@
   },
   {
     "name": "Twin Bee RPG",
-    "id": "psx724",
+    "id": "psx753",
     "igdbId": null,
     "gbId": 23420,
     "gbGuid": "3030-23420",
@@ -20459,7 +21527,7 @@
   },
   {
     "name": "Twisted Metal",
-    "id": "psx725",
+    "id": "psx754",
     "igdbId": 4695,
     "gbId": 12318,
     "gbGuid": "3030-12318",
@@ -20510,7 +21578,7 @@
   },
   {
     "name": "Twisted Metal 2 (GH)",
-    "id": "psx726",
+    "id": "psx755",
     "igdbId": 4696,
     "gbId": 16436,
     "gbGuid": "3030-16436",
@@ -20543,7 +21611,7 @@
   },
   {
     "name": "Twisted Metal 4",
-    "id": "psx727",
+    "id": "psx756",
     "igdbId": 4698,
     "gbId": 10173,
     "gbGuid": "3030-10173",
@@ -20600,7 +21668,7 @@
   },
   {
     "name": "Twisted Metal III",
-    "id": "psx728",
+    "id": "psx757",
     "igdbId": 4697,
     "gbId": 4635,
     "gbGuid": "3030-4635",
@@ -20608,7 +21676,8 @@
     "details": [
       "Sony PlayStation exclusive",
       "Sony PlayStation multitap compatible title - 4 players",
-      "Sony PlayStation Greatest Hits"
+      "Sony PlayStation Greatest Hits",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": [
       {
@@ -20645,6 +21714,18 @@
           "tgdbId": 10
         },
         "category": "hits"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": [
@@ -20662,7 +21743,7 @@
   },
   {
     "name": "Twisted Metal: Small Brawl",
-    "id": "psx729",
+    "id": "psx758",
     "igdbId": 5417,
     "gbId": 14769,
     "gbGuid": "3030-14769",
@@ -20686,7 +21767,7 @@
   },
   {
     "name": "Tyco R/C: Assault with a Battery",
-    "id": "psx730",
+    "id": "psx759",
     "igdbId": 44889,
     "gbId": 18832,
     "gbGuid": "3030-18832",
@@ -20710,7 +21791,7 @@
   },
   {
     "name": "UFO: A Day in the Life",
-    "id": "psx731",
+    "id": "psx760",
     "igdbId": 44742,
     "gbId": 27576,
     "gbGuid": "3030-27576",
@@ -20734,7 +21815,7 @@
   },
   {
     "name": "Ultimate Fighting Championship",
-    "id": "psx732",
+    "id": "psx761",
     "igdbId": 24176,
     "gbId": 13855,
     "gbGuid": "3030-13855",
@@ -20762,7 +21843,7 @@
   },
   {
     "name": "Ultraman Fighting Evolution",
-    "id": "psx733",
+    "id": "psx762",
     "igdbId": 78940,
     "gbId": 23645,
     "gbGuid": "3030-23645",
@@ -20785,7 +21866,7 @@
   },
   {
     "name": "Ultraman Tiga & Ultraman Dyna: New Generations",
-    "id": "psx734",
+    "id": "psx763",
     "igdbId": 66409,
     "gbId": 32509,
     "gbGuid": "3030-32509",
@@ -20808,7 +21889,7 @@
   },
   {
     "name": "Urban Chaos",
-    "id": "psx735",
+    "id": "psx764",
     "igdbId": 8469,
     "gbId": 15032,
     "gbGuid": "3030-15032",
@@ -20826,7 +21907,7 @@
   },
   {
     "name": "V-Tennis",
-    "id": "psx736",
+    "id": "psx765",
     "igdbId": 20711,
     "gbId": 55741,
     "gbGuid": "3030-55741",
@@ -20854,7 +21935,7 @@
   },
   {
     "name": "VMX Racing",
-    "id": "psx737",
+    "id": "psx766",
     "igdbId": 44930,
     "gbId": 20706,
     "gbGuid": "3030-20706",
@@ -20878,7 +21959,7 @@
   },
   {
     "name": "VR Baseball '97",
-    "id": "psx738",
+    "id": "psx767",
     "igdbId": 20819,
     "gbId": 45064,
     "gbGuid": "3030-45064",
@@ -20902,7 +21983,7 @@
   },
   {
     "name": "VR Baseball 99",
-    "id": "psx739",
+    "id": "psx768",
     "igdbId": 44931,
     "gbId": 58313,
     "gbGuid": "3030-58313",
@@ -20926,7 +22007,7 @@
   },
   {
     "name": "VR Golf '97",
-    "id": "psx740",
+    "id": "psx769",
     "igdbId": 20807,
     "gbId": 22287,
     "gbGuid": "3030-22287",
@@ -20953,7 +22034,7 @@
   },
   {
     "name": "VR Soccer '96",
-    "id": "psx741",
+    "id": "psx770",
     "igdbId": 45300,
     "gbId": 44985,
     "gbGuid": "3030-44985",
@@ -20981,7 +22062,7 @@
   },
   {
     "name": "VR Sports Powerboat Racing",
-    "id": "psx742",
+    "id": "psx771",
     "igdbId": 44928,
     "gbId": 6322,
     "gbGuid": "3030-6322",
@@ -21009,7 +22090,7 @@
   },
   {
     "name": "Vagrant Story",
-    "id": "psx743",
+    "id": "psx772",
     "igdbId": 2216,
     "gbId": 10896,
     "gbGuid": "3030-10896",
@@ -21036,7 +22117,7 @@
   },
   {
     "name": "Vampire Hunter D",
-    "id": "psx744",
+    "id": "psx773",
     "igdbId": null,
     "gbId": 15476,
     "gbGuid": "3030-15476",
@@ -21060,7 +22141,7 @@
   },
   {
     "name": "Vandal Hearts II",
-    "id": "psx745",
+    "id": "psx774",
     "igdbId": 6543,
     "gbId": 8352,
     "gbGuid": "3030-8352",
@@ -21084,7 +22165,7 @@
   },
   {
     "name": "Vanguard Bandits",
-    "id": "psx746",
+    "id": "psx775",
     "igdbId": 43914,
     "gbId": 14424,
     "gbGuid": "3030-14424",
@@ -21107,7 +22188,7 @@
   },
   {
     "name": "Viewpoint",
-    "id": "psx747",
+    "id": "psx776",
     "igdbId": 119410,
     "gbId": 21825,
     "gbGuid": "3030-21825",
@@ -21135,7 +22216,7 @@
   },
   {
     "name": "Vigilante 8",
-    "id": "psx748",
+    "id": "psx777",
     "igdbId": 3332,
     "gbId": 13200,
     "gbGuid": "3030-13200",
@@ -21162,7 +22243,7 @@
   },
   {
     "name": "Vigilante 8: 2nd Offense",
-    "id": "psx749",
+    "id": "psx778",
     "igdbId": 3333,
     "gbId": 7468,
     "gbGuid": "3030-7468",
@@ -21189,7 +22270,7 @@
   },
   {
     "name": "Virgin Fleet",
-    "id": "psx750",
+    "id": "psx779",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -21212,7 +22293,7 @@
   },
   {
     "name": "Virtual Kasparov (PAL)",
-    "id": "psx751",
+    "id": "psx780",
     "igdbId": 6413,
     "gbId": 660,
     "gbGuid": "3030-660",
@@ -21230,7 +22311,7 @@
   },
   {
     "name": "Virus: It is Aware",
-    "id": "psx752",
+    "id": "psx781",
     "igdbId": 43794,
     "gbId": null,
     "gbGuid": null,
@@ -21254,7 +22335,7 @@
   },
   {
     "name": "Volfoss",
-    "id": "psx753",
+    "id": "psx782",
     "igdbId": 66699,
     "gbId": 31027,
     "gbGuid": "3030-31027",
@@ -21277,7 +22358,7 @@
   },
   {
     "name": "Vs.",
-    "id": "psx754",
+    "id": "psx783",
     "igdbId": 18307,
     "gbId": 22887,
     "gbGuid": "3030-22887",
@@ -21301,7 +22382,7 @@
   },
   {
     "name": "WCW Nitro",
-    "id": "psx755",
+    "id": "psx784",
     "igdbId": 3634,
     "gbId": 7908,
     "gbGuid": "3030-7908",
@@ -21328,7 +22409,7 @@
   },
   {
     "name": "WCW vs. the World",
-    "id": "psx756",
+    "id": "psx785",
     "igdbId": 18316,
     "gbId": 557,
     "gbGuid": "3030-557",
@@ -21366,7 +22447,7 @@
   },
   {
     "name": "WCW-NWO Thunder",
-    "id": "psx757",
+    "id": "psx786",
     "igdbId": 18315,
     "gbId": 1873,
     "gbGuid": "3030-1873",
@@ -21390,7 +22471,7 @@
   },
   {
     "name": "WRC: FIA World Rally Championship Arcade",
-    "id": "psx758",
+    "id": "psx787",
     "igdbId": 79734,
     "gbId": 47657,
     "gbGuid": "3030-47657",
@@ -21414,7 +22495,7 @@
   },
   {
     "name": "WWF Attitude",
-    "id": "psx759",
+    "id": "psx788",
     "igdbId": 3643,
     "gbId": 16435,
     "gbGuid": "3030-16435",
@@ -21441,7 +22522,7 @@
   },
   {
     "name": "WWF In Your House",
-    "id": "psx760",
+    "id": "psx789",
     "igdbId": 23238,
     "gbId": 7485,
     "gbGuid": "3030-7485",
@@ -21468,7 +22549,7 @@
   },
   {
     "name": "WWF Smackdown!",
-    "id": "psx761",
+    "id": "psx790",
     "igdbId": 6443,
     "gbId": 17436,
     "gbGuid": "3030-17436",
@@ -21519,7 +22600,7 @@
   },
   {
     "name": "WWF Smackdown! 2: Know Your Role",
-    "id": "psx762",
+    "id": "psx791",
     "igdbId": 6444,
     "gbId": 17814,
     "gbGuid": "3030-17814",
@@ -21570,7 +22651,7 @@
   },
   {
     "name": "WWF War Zone",
-    "id": "psx763",
+    "id": "psx792",
     "igdbId": 3645,
     "gbId": 18801,
     "gbGuid": "3030-18801",
@@ -21610,7 +22691,7 @@
   },
   {
     "name": "WWF WrestleMania: The Arcade Game",
-    "id": "psx764",
+    "id": "psx793",
     "igdbId": 4546,
     "gbId": 8027,
     "gbGuid": "3030-8027",
@@ -21650,7 +22731,7 @@
   },
   {
     "name": "Warhawk",
-    "id": "psx765",
+    "id": "psx794",
     "igdbId": 79687,
     "gbId": 17169,
     "gbGuid": "3030-17169",
@@ -21690,7 +22771,7 @@
   },
   {
     "name": "Warpath: Jurassic Park",
-    "id": "psx766",
+    "id": "psx795",
     "igdbId": 8278,
     "gbId": 6062,
     "gbGuid": "3030-6062",
@@ -21714,7 +22795,7 @@
   },
   {
     "name": "Wheel of Fortune",
-    "id": "psx767",
+    "id": "psx796",
     "igdbId": 116957,
     "gbId": 30550,
     "gbGuid": "3030-30550",
@@ -21741,7 +22822,7 @@
   },
   {
     "name": "Wheel of Fortune - 2nd Edition",
-    "id": "psx768",
+    "id": "psx797",
     "igdbId": 43910,
     "gbId": 1002,
     "gbGuid": "3030-1002",
@@ -21759,7 +22840,7 @@
   },
   {
     "name": "Who Wants To Be A Millionaire: 2nd Edition",
-    "id": "psx769",
+    "id": "psx798",
     "igdbId": 22015,
     "gbId": 16486,
     "gbGuid": "3030-16486",
@@ -21786,7 +22867,7 @@
   },
   {
     "name": "Wild 9",
-    "id": "psx770",
+    "id": "psx799",
     "igdbId": 15840,
     "gbId": 592,
     "gbGuid": "3030-592",
@@ -21810,7 +22891,7 @@
   },
   {
     "name": "Wild Arms 2",
-    "id": "psx771",
+    "id": "psx800",
     "igdbId": 1678,
     "gbId": 15962,
     "gbGuid": "3030-15962",
@@ -21828,7 +22909,7 @@
   },
   {
     "name": "Wild Rapids",
-    "id": "psx772",
+    "id": "psx801",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -21852,7 +22933,7 @@
   },
   {
     "name": "Williams Arcade's Greatest Hits",
-    "id": "psx773",
+    "id": "psx802",
     "igdbId": 20713,
     "gbId": null,
     "gbGuid": null,
@@ -21880,7 +22961,7 @@
   },
   {
     "name": "Wing Commander III: Heart of the Tiger",
-    "id": "psx774",
+    "id": "psx803",
     "igdbId": 2588,
     "gbId": 18483,
     "gbGuid": "3030-18483",
@@ -21908,13 +22989,14 @@
   },
   {
     "name": "Wipeout",
-    "id": "psx775",
+    "id": "psx804",
     "igdbId": 1083,
     "gbId": 9707,
     "gbGuid": "3030-9707",
     "details": [
       "Sony PlayStation Greatest Hits",
-      "PlayStation Long Box Game"
+      "PlayStation Long Box Game",
+      "Sony PlayStation game Link Cable compatible"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -21942,13 +23024,25 @@
           "tgdbId": 10
         },
         "category": "series"
+      },
+      {
+        "value": "Sony PlayStation game Link Cable compatible",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Wipeout 3",
-    "id": "psx776",
+    "id": "psx805",
     "igdbId": 1540,
     "gbId": 12298,
     "gbGuid": "3030-12298",
@@ -21971,8 +23065,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Wipeout 3 Special Edition",
+    "id": "psx806",
+    "igdbId": 44855,
+    "gbId": 11246,
+    "gbGuid": "3030-11246",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (EU)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (EU)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wipeout XL",
+    "id": "psx807",
+    "igdbId": 1538,
+    "gbId": 3654,
+    "gbGuid": "3030-3654",
+    "details": [
+      "Sony PlayStation game Link Cable compatible (Wipeout XL in North America)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sony PlayStation game Link Cable compatible (Wipeout XL in North America)",
+        "forPlatform": {
+          "name": "Sony PlayStation",
+          "id": "ccl20",
+          "igdbId": 7,
+          "gbId": 22,
+          "gbGuid": "3045-22",
+          "tgdbId": 10
+        },
+        "category": "multiplayer"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "World Cup Golf (Eidos) ",
-    "id": "psx777",
+    "id": "psx808",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -21999,7 +23147,7 @@
   },
   {
     "name": "World Soccer Winning Eleven 2002",
-    "id": "psx778",
+    "id": "psx809",
     "igdbId": 43838,
     "gbId": null,
     "gbGuid": null,
@@ -22026,7 +23174,7 @@
   },
   {
     "name": "Worms",
-    "id": "psx779",
+    "id": "psx810",
     "igdbId": 9331,
     "gbId": 2007,
     "gbGuid": "3030-2007",
@@ -22054,7 +23202,7 @@
   },
   {
     "name": "Worms Pinball",
-    "id": "psx780",
+    "id": "psx811",
     "igdbId": 9335,
     "gbId": 32022,
     "gbGuid": "3030-32022",
@@ -22078,7 +23226,7 @@
   },
   {
     "name": "Wu-Tang: Shaolin Style",
-    "id": "psx781",
+    "id": "psx812",
     "igdbId": 18300,
     "gbId": 10872,
     "gbGuid": "3030-10872",
@@ -22116,7 +23264,7 @@
   },
   {
     "name": "X-Com: UFO Defense",
-    "id": "psx782",
+    "id": "psx813",
     "igdbId": null,
     "gbId": 196,
     "gbGuid": "3030-196",
@@ -22144,7 +23292,7 @@
   },
   {
     "name": "X-Men vs. Street Fighter",
-    "id": "psx783",
+    "id": "psx814",
     "igdbId": 8244,
     "gbId": 11156,
     "gbGuid": "3030-11156",
@@ -22162,7 +23310,7 @@
   },
   {
     "name": "X-Men: Mutant Academy",
-    "id": "psx784",
+    "id": "psx815",
     "igdbId": 4109,
     "gbId": 15044,
     "gbGuid": "3030-15044",
@@ -22189,7 +23337,7 @@
   },
   {
     "name": "X-Men: Mutant Academy 2",
-    "id": "psx785",
+    "id": "psx816",
     "igdbId": 4110,
     "gbId": 3965,
     "gbGuid": "3030-3965",
@@ -22219,7 +23367,7 @@
   },
   {
     "name": "X2",
-    "id": "psx786",
+    "id": "psx817",
     "igdbId": 79811,
     "gbId": 28176,
     "gbGuid": "3030-28176",
@@ -22257,7 +23405,7 @@
   },
   {
     "name": "XS Junior League Dodgeball",
-    "id": "psx787",
+    "id": "psx818",
     "igdbId": 43943,
     "gbId": 30858,
     "gbGuid": "3030-30858",
@@ -22275,7 +23423,7 @@
   },
   {
     "name": "Xenogears",
-    "id": "psx788",
+    "id": "psx819",
     "igdbId": 1346,
     "gbId": 18304,
     "gbGuid": "3030-18304",
@@ -22308,7 +23456,7 @@
   },
   {
     "name": "Xevious 3D/G",
-    "id": "psx789",
+    "id": "psx820",
     "igdbId": 20133,
     "gbId": 9597,
     "gbGuid": "3030-9597",
@@ -22335,7 +23483,7 @@
   },
   {
     "name": "You're Under Arrest (manga)",
-    "id": "psx790",
+    "id": "psx821",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -22358,7 +23506,7 @@
   },
   {
     "name": "Yu-Gi-Oh! Forbidden Memories",
-    "id": "psx791",
+    "id": "psx822",
     "igdbId": 4108,
     "gbId": 223,
     "gbGuid": "3030-223",
@@ -22388,7 +23536,7 @@
   },
   {
     "name": "Yuuyami Doori Tankentai",
-    "id": "psx792",
+    "id": "psx823",
     "igdbId": 9688,
     "gbId": 37187,
     "gbGuid": "3030-37187",
@@ -22412,7 +23560,7 @@
   },
   {
     "name": "Zero Divide",
-    "id": "psx793",
+    "id": "psx824",
     "igdbId": 20709,
     "gbId": 12862,
     "gbGuid": "3030-12862",
@@ -22440,7 +23588,7 @@
   },
   {
     "name": "Zoop",
-    "id": "psx794",
+    "id": "psx825",
     "igdbId": 20615,
     "gbId": 4938,
     "gbGuid": "3030-4938",
