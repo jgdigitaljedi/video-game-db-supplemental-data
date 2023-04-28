@@ -594,7 +594,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/atari7800misprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'special/atari7800LightGunGames.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'special/atari7800LightGunGames.json')),
+      require(path.resolve(smallFiles, 'special/atari7800PalGamesWithIssuesOnNtscConsole.json'))
+    ],
     output: path.resolve(consoleLists, 'Atari7800.json')
   },
   {

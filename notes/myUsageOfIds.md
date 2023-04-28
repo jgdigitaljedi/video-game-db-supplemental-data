@@ -109,6 +109,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 
 - a2600lgX - Atari 2600 light gun games (atari2600LightGunGames.json) | GAMES LIST
 - a7800lgX - Atari 7800 light gun games (atari7800LightGunGames.json) | GAMES LIST
+- a78pgX - Atari 7800 PAL games with issues on NTSC console (atari7800PalGamesWithIssuesOnNtscConsole.json) | GAMES LIST
 - altmX - Atari Lynx tate mode games (atariLynxTateModeGames.json) | GAMES LIST
 - biX - games banned in various countries (bannedInternationally.json) | GAMES LIST
 - dcvgaX - Dreamcast games without native VGA support (dreamcastGamesWithoutVga.json) | GAMES LIST

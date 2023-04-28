@@ -1,14 +1,42 @@
 [
   {
-    "name": "Alien Brigade",
+    "name": "Ace of Aces",
     "id": "a7800",
+    "igdbId": 11863,
+    "gbId": 2601,
+    "gbGuid": "3030-2601",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Rapidly flickering title screen, major graphical glitching during gameplay"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Rapidly flickering title screen, major graphical glitching during gameplay",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alien Brigade",
+    "id": "a7801",
     "igdbId": 11865,
     "gbId": 4174,
     "gbGuid": "3030-4174",
     "tgdbId": 21096,
     "details": [
       "Atari 7800 exclusive",
-      "Atari 7800 light gun game"
+      "Atari 7800 light gun game",
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Resets every few seconds on title screen"
     ],
     "isExclusive": [
       {
@@ -33,13 +61,25 @@
           "tgdbId": 27
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Resets every few seconds on title screen",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Asteroids",
-    "id": "a7801",
+    "id": "a7802",
     "igdbId": 7758,
     "gbId": 1034,
     "gbGuid": "3030-1034",
@@ -62,13 +102,41 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ballblazer",
+    "id": "a7803",
+    "igdbId": 176,
+    "gbId": 19682,
+    "gbGuid": "3030-19682",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Severe - Major graphical glitching, runs too slow"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Severe - Major graphical glitching, runs too slow",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Barnyard Blaster",
-    "id": "a7802",
+    "id": "a7804",
     "igdbId": 11866,
     "gbId": 19616,
     "gbGuid": "3030-19616",
     "details": [
-      "Atari 7800 light gun game"
+      "Atari 7800 light gun game",
+      "Atari 7800 PAL game has issues on NTSC console"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -84,20 +152,47 @@
           "tgdbId": 27
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Basketbrawl",
-    "id": "a7803",
+    "id": "a7805",
     "igdbId": 11867,
     "gbId": 18478,
     "gbGuid": "3030-18478",
-    "details": [],
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Severe - No sound on title screen, plays too slow, major graphical glitching during gameplay"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Severe - No sound on title screen, plays too slow, major graphical glitching during gameplay",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Atari/atari2600/basketbrawl.jpg",
@@ -107,13 +202,122 @@
     ]
   },
   {
+    "name": "Centipede",
+    "id": "a7806",
+    "igdbId": 218807,
+    "gbId": 1157,
+    "gbGuid": "3030-1157",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Moderate - Plays too slow"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Moderate - Plays too slow",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Choplifter",
+    "id": "a7807",
+    "igdbId": 6094,
+    "gbId": 18152,
+    "gbGuid": "3030-18152",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Severe - Plays too slow, flickering colors during gameplay"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Severe - Plays too slow, flickering colors during gameplay",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Commando",
+    "id": "a7808",
+    "igdbId": 5668,
+    "gbId": 6850,
+    "gbGuid": "3030-6850",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Crashes to black screen after title screen"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Crashes to black screen after title screen",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Crack'ed",
+    "id": "a7809",
+    "igdbId": 11298,
+    "gbId": 19315,
+    "gbGuid": "3030-19315",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Moderate - Flickering colors during gameplay"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Moderate - Flickering colors during gameplay",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Crossbow",
-    "id": "a7804",
+    "id": "a78010",
     "igdbId": 11868,
     "gbId": 14841,
     "gbGuid": "3030-14841",
     "details": [
-      "Atari 7800 light gun game"
+      "Atari 7800 light gun game",
+      "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -129,13 +333,79 @@
           "tgdbId": 27
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dark Chambers",
+    "id": "a78011",
+    "igdbId": 11869,
+    "gbId": 15295,
+    "gbGuid": "3030-15295",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Moderate - Graphical glitching when scrolling vertically"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Moderate - Graphical glitching when scrolling vertically",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Desert Falcon",
+    "id": "a78012",
+    "igdbId": 11870,
+    "gbId": 19074,
+    "gbGuid": "3030-19074",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Severe - Plays too slow, major graphical glitching"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Severe - Plays too slow, major graphical glitching",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Dig Dug",
-    "id": "a7805",
+    "id": "a78013",
     "igdbId": 2636,
     "gbId": 2587,
     "gbGuid": "3030-2587",
@@ -158,14 +428,204 @@
     "misprintsErrors": []
   },
   {
+    "name": "Dig Dug",
+    "id": "a78014",
+    "igdbId": 218863,
+    "gbId": 2587,
+    "gbGuid": "3030-2587",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Moderate - Sound is too fast, gameplay is too slow, top half of screen flickers"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Moderate - Sound is too fast, gameplay is too slow, top half of screen flickers",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong",
+    "id": "a78015",
+    "igdbId": 171961,
+    "gbId": 311,
+    "gbGuid": "3030-311",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong Junior",
+    "id": "a78016",
+    "igdbId": 192916,
+    "gbId": 19416,
+    "gbGuid": "3030-19416",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Double Dragon",
+    "id": "a78017",
+    "igdbId": 6787,
+    "gbId": 20752,
+    "gbGuid": "3030-20752",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Boots to black screen"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Boots to black screen",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "F-18 Hornet",
+    "id": "a78018",
+    "igdbId": 12322,
+    "gbId": 15370,
+    "gbGuid": "3030-15370",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Boots to vertical colored bars and droning sound"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Boots to vertical colored bars and droning sound",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fatal Run",
+    "id": "a78019",
+    "igdbId": 12323,
+    "gbId": 1410,
+    "gbGuid": "3030-1410",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Severe - Sound is too fast, flashing colors and major graphical corruption"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Severe - Sound is too fast, flashing colors and major graphical corruption",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fight Night",
+    "id": "a78020",
+    "igdbId": 12324,
+    "gbId": 18874,
+    "gbGuid": "3030-18874",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Flickering colors, crashes when gameplay begins"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Flickering colors, crashes when gameplay begins",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Food Fight",
-    "id": "a7806",
+    "id": "a78021",
     "igdbId": 12325,
     "gbId": 16876,
     "gbGuid": "3030-16876",
     "tgdbId": 12197,
     "details": [
-      "Atari 7800 launch title"
+      "Atari 7800 launch title",
+      "Atari 7800 PAL game has issues on NTSC console: Moderate - Flickering graphical glitching, plays too slow"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -178,7 +638,20 @@
         "tgdbId": 27
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Moderate - Flickering graphical glitching, plays too slow",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Atari/atari7800/food%20fight1.jpg",
@@ -188,14 +661,123 @@
     ]
   },
   {
+    "name": "Galaga",
+    "id": "a78022",
+    "igdbId": 2751,
+    "gbId": 15784,
+    "gbGuid": "3030-15784",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ikari Warriors",
+    "id": "a78023",
+    "igdbId": 12153,
+    "gbId": 1619,
+    "gbGuid": "3030-1619",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Severe - Flickering graphical corruption, plays far too slow"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Severe - Flickering graphical corruption, plays far too slow",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Impossible Mission",
+    "id": "a78024",
+    "igdbId": 4929,
+    "gbId": 14849,
+    "gbGuid": "3030-14849",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Flickering colors, crashes to black screen when entering a room"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Flickering colors, crashes to black screen when entering a room",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Jinks",
+    "id": "a78025",
+    "igdbId": 12330,
+    "gbId": 17151,
+    "gbGuid": "3030-17151",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Severe - Sound samples on title screen are just random noise, major graphical corruption"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Severe - Sound samples on title screen are just random noise, major graphical corruption",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Joust",
-    "id": "a7807",
+    "id": "a78026",
     "igdbId": 3659,
     "gbId": 11689,
     "gbGuid": "3030-11689",
     "tgdbId": 1350,
     "details": [
-      "Atari 7800 launch title"
+      "Atari 7800 launch title",
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Crashes immediately, only displays copyright info on title screen"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -208,18 +790,167 @@
         "tgdbId": 27
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Crashes immediately, only displays copyright info on title screen",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Karateka",
+    "id": "a78027",
+    "igdbId": 4602,
+    "gbId": 9948,
+    "gbGuid": "3030-9948",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Boots to black screen"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Boots to black screen",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kung-Fu Master",
+    "id": "a78028",
+    "igdbId": 214461,
+    "gbId": 5996,
+    "gbGuid": "3030-5996",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Crashes to screen with corrupted graphics after title screen"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Crashes to screen with corrupted graphics after title screen",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mario Bros.",
+    "id": "a78029",
+    "igdbId": 192918,
+    "gbId": 19726,
+    "gbGuid": "3030-19726",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mat Mania Challenge",
+    "id": "a78030",
+    "igdbId": 12333,
+    "gbId": 8630,
+    "gbGuid": "3030-8630",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Moderate - Corrupted title screen, droning sound during gameplay"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Moderate - Corrupted title screen, droning sound during gameplay",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mean 18: Ultimate Golf",
+    "id": "a78031",
+    "igdbId": 14781,
+    "gbId": 2704,
+    "gbGuid": "3030-2704",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Moderate - Graphical corruption when anything moves, glitched sound"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Moderate - Graphical corruption when anything moves, glitched sound",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Meltdown",
-    "id": "a7808",
+    "id": "a78032",
     "igdbId": 80511,
     "gbId": 2533,
     "gbGuid": "3030-2533",
     "details": [
       "Atari 7800 exclusive",
-      "Atari 7800 light gun game"
+      "Atari 7800 light gun game",
+      "Atari 7800 PAL game has issues on NTSC console: Sound is too fast"
     ],
     "isExclusive": [
       {
@@ -244,19 +975,32 @@
           "tgdbId": 27
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Sound is too fast",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Midnight Mutants",
-    "id": "a7809",
+    "id": "a78033",
     "igdbId": 12335,
     "gbId": 17626,
     "gbGuid": "3030-17626",
     "tgdbId": 21050,
     "details": [
-      "Atari 7800 exclusive"
+      "Atari 7800 exclusive",
+      "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down"
     ],
     "isExclusive": [
       {
@@ -269,12 +1013,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Missing In Action",
-    "id": "a78010",
+    "id": "a78034",
     "igdbId": 40806,
     "gbId": null,
     "gbGuid": null,
@@ -296,14 +1053,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "Motor Psycho",
+    "id": "a78035",
+    "igdbId": 28529,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Boots to black screen"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Boots to black screen",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ms. Pac-Man",
-    "id": "a78011",
+    "id": "a78036",
     "igdbId": 7452,
     "gbId": 6332,
     "gbGuid": "3030-6332",
     "tgdbId": 1958,
     "details": [
-      "Atari 7800 launch title"
+      "Atari 7800 launch title",
+      "Atari 7800 PAL game has issues on NTSC console: Severe - Screen is extremely jumpy, plays too slow"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -316,18 +1101,59 @@
         "tgdbId": 27
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Severe - Screen is extremely jumpy, plays too slow",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nebulus",
+    "id": "a78037",
+    "igdbId": 7817,
+    "gbId": 14339,
+    "gbGuid": "3030-14339",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Boots to black screen"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Boots to black screen",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Ninja Golf",
-    "id": "a78012",
+    "id": "a78038",
     "igdbId": 11121,
     "gbId": 6544,
     "gbGuid": "3030-6544",
     "tgdbId": 21053,
     "details": [
-      "Atari 7800 exclusive"
+      "Atari 7800 exclusive",
+      "Atari 7800 PAL game has issues on NTSC console: Severe, almost unplayable - Severe graphical corruption during gameplay"
     ],
     "isExclusive": [
       {
@@ -340,18 +1166,86 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Severe, almost unplayable - Severe graphical corruption during gameplay",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "One-on-One Basketball",
+    "id": "a78039",
+    "igdbId": 46918,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Minor - Flickering colors on game selection screen"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Minor - Flickering colors on game selection screen",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Planet Smashers",
+    "id": "a78040",
+    "igdbId": 12336,
+    "gbId": 10801,
+    "gbGuid": "3030-10801",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Pole Position II",
-    "id": "a78013",
+    "id": "a78041",
     "igdbId": 12337,
     "gbId": 3735,
     "gbGuid": "3030-3735",
     "tgdbId": 4906,
     "details": [
-      "Atari 7800 launch title"
+      "Atari 7800 launch title",
+      "Atari 7800 PAL game has issues on NTSC console: Minor - Flickering background, plays too slow"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -364,7 +1258,20 @@
         "tgdbId": 27
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Minor - Flickering background, plays too slow",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Atari/atari7800/polepos27800.jpg",
@@ -375,14 +1282,29 @@
   },
   {
     "name": "RealSports Baseball",
-    "id": "a78014",
+    "id": "a78042",
     "igdbId": 117409,
     "gbId": 3020,
     "gbGuid": "3030-3020",
-    "details": [],
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Severe - Entire screen flickers"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Severe - Entire screen flickers",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Atari/atari2600/baseball.jpg",
@@ -393,7 +1315,7 @@
   },
   {
     "name": "Robotron 2084",
-    "id": "a78015",
+    "id": "a78043",
     "igdbId": 3592,
     "gbId": 11233,
     "gbGuid": "3030-11233",
@@ -416,13 +1338,41 @@
     "misprintsErrors": []
   },
   {
+    "name": "Scrapyard Dog",
+    "id": "a78044",
+    "igdbId": 12338,
+    "gbId": 2293,
+    "gbGuid": "3030-2293",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Crashes when gameplay begins"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Crashes when gameplay begins",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sentinel",
-    "id": "a78016",
+    "id": "a78045",
     "igdbId": 12339,
     "gbId": 16328,
     "gbGuid": "3030-16328",
     "details": [
-      "Atari 7800 light gun game"
+      "Atari 7800 light gun game",
+      "Atari 7800 PAL game has issues on NTSC console: Corrupted graphics, flickering background (could not test further due to lack of light gun)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -438,18 +1388,58 @@
           "tgdbId": 27
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Corrupted graphics, flickering background (could not test further due to lack of light gun)",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Super Huey UH-IX",
+    "id": "a78046",
+    "igdbId": 46917,
+    "gbId": 3842,
+    "gbGuid": "3030-3842",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Minor - No issues other than the screen being shifted down",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Super Skateboardin'",
-    "id": "a78017",
+    "id": "a78047",
     "igdbId": 12341,
     "gbId": 7882,
     "gbGuid": "3030-7882",
     "details": [
-      "Atari 7800 exclusive"
+      "Atari 7800 exclusive",
+      "Atari 7800 PAL game has issues on NTSC console: Moderate - Flickering background, plays too slow"
     ],
     "isExclusive": [
       {
@@ -462,12 +1452,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Moderate - Flickering background, plays too slow",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Tank Command",
-    "id": "a78018",
+    "id": "a78048",
     "igdbId": 12342,
     "gbId": 10550,
     "gbGuid": "3030-10550",
@@ -489,15 +1492,57 @@
     "misprintsErrors": []
   },
   {
+    "name": "Title Match Pro Wrestling",
+    "id": "a78049",
+    "igdbId": 12343,
+    "gbId": 19142,
+    "gbGuid": "3030-19142",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Moderate - No sound"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Moderate - No sound",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tomcat: The F-14 Fighter Simulator",
-    "id": "a78019",
+    "id": "a78050",
     "igdbId": 12344,
     "gbId": 19961,
     "gbGuid": "3030-19961",
-    "details": [],
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Flickering background, corrupted graphics on carrier, crashes when plane takes off"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Flickering background, corrupted graphics on carrier, crashes when plane takes off",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Atari/atari7800/tomcat7800.jpg",
@@ -508,7 +1553,7 @@
   },
   {
     "name": "Touchdown Football",
-    "id": "a78020",
+    "id": "a78051",
     "igdbId": 12345,
     "gbId": 8860,
     "gbGuid": "3030-8860",
@@ -526,7 +1571,7 @@
   },
   {
     "name": "Water Ski",
-    "id": "a78021",
+    "id": "a78052",
     "igdbId": 117410,
     "gbId": 8206,
     "gbGuid": "3030-8206",
@@ -545,6 +1590,60 @@
     ],
     "isLaunchTitle": false,
     "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Xenophobe",
+    "id": "a78053",
+    "igdbId": 12245,
+    "gbId": 12310,
+    "gbGuid": "3030-12310",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Unplayable - Crashes at title screen"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Unplayable - Crashes at title screen",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Xevious",
+    "id": "a78054",
+    "igdbId": 12346,
+    "gbId": 1487,
+    "gbGuid": "3030-1487",
+    "details": [
+      "Atari 7800 PAL game has issues on NTSC console: Moderate - Graphical glitching at top of screen, uneven frame rate"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Atari 7800 PAL game has issues on NTSC console: Moderate - Graphical glitching at top of screen, uneven frame rate",
+        "forPlatform": {
+          "name": "Atari 7800",
+          "id": "ccl30",
+          "igdbId": 60,
+          "gbId": 70,
+          "gbGuid": "3045-70",
+          "tgdbId": 27
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   }
 ]
