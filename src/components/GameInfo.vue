@@ -17,7 +17,13 @@
     <v-btn dark color="error" @click.native="copyAfterHyphen">
       <v-icon left>mdi-clipboard-arrow-right</v-icon>Name After Hyphen
     </v-btn>
-    <v-btn dark color="primary" @click.native="copyNoPunctuation">
+    <v-btn dark color="accent" @click.native="copyBeforePipe">
+      <v-icon left>mdi-clipboard-arrow-left</v-icon>Name Before Pipe
+    </v-btn>
+    <v-btn dark color="primary" @click.native="copyAfterPipe">
+      <v-icon left>mdi-clipboard-arrow-right</v-icon>Name After Pipe
+    </v-btn>
+    <v-btn dark color="warning" @click.native="copyNoPunctuation">
       <v-icon left>mdi-clipboard-arrow-right</v-icon>Name No Punc
     </v-btn>
     <div class="game-info">
@@ -91,6 +97,18 @@ export default {
       const after = this.game.name
         ? this.stripName(this.game.name.split(':')[1])
         : this.stripName(this.game.title.split(':')[1]);
+      this.setCurrentName(after);
+    },
+    copyBeforePipe() {
+      const before = this.game.name
+        ? this.stripName(this.game.name.split('|')[0])
+        : this.stripName(this.game.title.split('|')[0]);
+      this.setCurrentName(before);
+    },
+    copyAfterPipe() {
+      const after = this.game.name
+        ? this.stripName(this.game.name.split('|')[1])
+        : this.stripName(this.game.title.split('|')[1]);
       this.setCurrentName(after);
     },
     copyNoPunctuation() {

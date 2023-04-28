@@ -115,7 +115,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'greatestHits/gamecubeEuropePlayersChoice.json')),
       require(path.resolve(smallFiles, 'greatestHits/gamecubePlayersChoice.json')),
       require(path.resolve(smallFiles, 'multiplayer/gamecubeBroadbandGames.json')),
-      require(path.resolve(smallFiles, 'special/nintendoGamecubeTateModeGames.json'))
+      require(path.resolve(smallFiles, 'special/nintendoGamecubeTateModeGames.json')),
+      require(path.resolve(smallFiles, 'special/gamecubeGamesWithAltDisplayModes.json'))
     ],
     output: path.resolve(consoleLists, 'NintendoGameCube.json')
   },

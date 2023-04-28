@@ -2,9 +2,10 @@ const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 const cheerio = require('cheerio');
 const request = require('request');
+const { whitespaceRemoveBreaks } = require('stringman-utils');
 
-const siteUrl = 'https://consolemods.org/wiki/Master_System:Game_Incompatibilites';
-const filePath = '../../textFilesToBeConverted/special/masterSystemPalGamesWithProblemsOnNtsc.json';
+const siteUrl = 'https://consolemods.org/wiki/GameCube:Games_with_Alternate_Display_Modes';
+const filePath = '../../textFilesToBeConverted/special/gamecubeGamesWithAltDisplayModes.json';
 
 function makeRequest(url) {
   return new Promise((resolve, reject) => {
@@ -18,21 +19,28 @@ function makeRequest(url) {
   });
 }
 
-function getDisplayModes(ws, p480, p720, i1080) {
+function getDisplayModes(ntsc480p, pal60, ws) {
   const modes = [];
+  if (ntsc480p.toLowerCase() === 'yes') {
+    modes.push('NTSC 480p');
+  }
+  if (pal60.toLowerCase() === 'yes') {
+    modes.push('PAL 60');
+  }
   if (ws.toLowerCase() === 'yes') {
-    modes.push('16:9');
-  }
-  if (p480.toLowerCase() === 'yes') {
-    modes.push('480p');
-  }
-  if (p720.toLowerCase() === 'yes') {
-    modes.push('720p');
-  }
-  if (i1080.toLowerCase() === 'yes') {
-    modes.push('1080i');
+    modes.push('Widescreen');
   }
   return modes.join('/');
+}
+
+function getNotesStr(notes, detailsInfo) {
+  if (notes && detailsInfo) {
+    return ` (${notes})`;
+  }
+  if (notes) {
+    return ` ${notes}`;
+  }
+  return '';
 }
 
 (function() {
@@ -40,25 +48,41 @@ function getDisplayModes(ws, p480, p720, i1080) {
     .then(html => {
       try {
         const $ = cheerio.load(html);
-        const rows = Array.from($('table.wikitable > tbody > tr'));
+        const rows = Array.from($('table.colortable > tbody > tr'));
         const data = rows
           .map((row, index) => {
+            if (index === 0) {
+              return null;
+            }
             const cells = Array.from($(row).find('td'));
-            const name = $(cells[0])
+            const name = $(row)
+              .find('th')
               .text()
               .trim();
-            const issue = $(cells[1])
+            const ntsc480p = $(cells[0])
               .first('a')
               .text()
               .trim();
-            const severity = $(cells[2])
+            const pal60 = $(cells[1])
               .first('a')
               .text()
               .trim();
-            const details = `Sega Master System PAL game has issues on NTSC Master System: (${severity}: ${issue})`;
+            const ws = $(cells[2])
+              .first('a')
+              .text()
+              .trim();
+            const notes = whitespaceRemoveBreaks(
+              $(cells[3])
+                .text()
+                .trim()
+            );
+            const detailsInfo = getDisplayModes(ntsc480p, pal60, ws);
+            const details = `Nintendo GameCube game has alternate display mode(s):${
+              detailsInfo ? ' ' + detailsInfo : ''
+            }${getNotesStr(notes, detailsInfo)}`;
             return {
               name,
-              id: `mspn${index + 1}`,
+              id: `ngadm${index + 1}`,
               details,
               igdbId: null,
               gbId: null,
@@ -67,7 +91,7 @@ function getDisplayModes(ws, p480, p720, i1080) {
               category: 'other'
             };
           })
-          .filter(game => !!game.name);
+          .filter(game => !!game && !!game.name);
         fileUtil.writeFile(filePath, data);
         console.log(chalk.cyan.bold('Scraping complete and file written!'));
       } catch (error) {

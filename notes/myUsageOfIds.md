@@ -135,6 +135,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST
 - ndsbiX - Nintendo DS cartridges with built in devices (nintendoDsCartsWithBuiltInDevices.json) | GAMES LIST
 - nessbX - NES games with save battery (nesGamesWithSaveBattery.json) | GAMES LIST
+- ngadmX - Nintendo GameCube games with alt display modes (gamecubeGamesWithAltDisplayModes.json) | GAMES LIST
 - pcdilgX - Philips CD-i Peacekeeper Revovler games (philipsCdiPeacekeeperRevolverGames.json) | GAMES LIST
 - pcsgX - PC Engine games enhanced on Supergrafx (pcEngineGamesEnhancedOnSupergrafx.json) | GAMES LIST
 - pbdX - consoles that play bruned discs without modification (platformsThatPlayBurnedDiscs.json) | CONSOLE/PLATFORM LIST
