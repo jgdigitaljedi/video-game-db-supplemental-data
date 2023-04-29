@@ -337,6 +337,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Nintendo Wii games with tate mode
 - Nintendo Wii U games with tate mode
 - PC Engine/TurboGrafx-16 games that are enhanced on the SuperGrafx
+- Philips CD-i games that use the video card
 - platforms/consoles that play burned disks without modification
 - Sega 32X games with save battery
 - Sega Dreamcast games that lack native VGA support
@@ -482,8 +483,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan. I think some of this is lost in translation.
 
 There are 918 data points for platforms/consoles.
-Out of 18710 games data points collected so far, the APIs are missing data the following number of games:
+Out of 18753 games data points collected so far, the APIs are missing data the following number of games:
 
-- Missing from all APIs: 1509 (8%)
-- IGDB: 1687 (9%)
-- Giantbomb: 2736 (15%)
+- Missing from all APIs: 1511 (8%)
+- IGDB: 1689 (9%)
+- Giantbomb: 2757 (15%)

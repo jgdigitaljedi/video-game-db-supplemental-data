@@ -23,10 +23,10 @@ const _uniq = require('lodash/uniq');
  */
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/multiplayer/sonyPlaystationLinkCableGames.json';
-const idPrefix = 'pslc';
+const relativePath = '../../textFilesToBeConverted/special/philipsCdiVideoCardGames.json';
+const idPrefix = 'cdivg';
 const parensToDetails = true;
-const category = 'multiplayer';
+const category = 'special';
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
@@ -34,7 +34,7 @@ const category = 'multiplayer';
   const fixed = _uniq(parsed.sort());
   const newData = fileUtil.stringArrToObjectArr(
     fixed,
-    'Sony PlayStation game Link Cable compatible',
+    'Philips CD-i game uses video card',
     idPrefix,
     parensToDetails,
     category

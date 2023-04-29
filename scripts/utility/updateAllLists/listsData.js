@@ -672,7 +672,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/philipsCdiMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'special/philipsCdiPeacekeeperRevolverGames.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'special/philipsCdiPeacekeeperRevolverGames.json')),
+      require(path.resolve(smallFiles, 'special/philipsCdiVideoCardGames.json'))
+    ],
     output: path.resolve(consoleLists, 'PhilipsCDi.json')
   },
   {

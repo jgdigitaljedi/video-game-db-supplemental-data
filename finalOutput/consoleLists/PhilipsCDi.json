@@ -1,7 +1,61 @@
 [
   {
-    "name": "Battleship",
+    "name": "A Great Day at the Races",
     "id": "pcdi0",
+    "igdbId": 45946,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (optional)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (optional)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Atlantis: The Last Resort",
+    "id": "pcdi1",
+    "igdbId": 45947,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Battleship",
+    "id": "pcdi2",
     "igdbId": 77147,
     "gbId": 37060,
     "gbGuid": "3030-37060",
@@ -25,7 +79,7 @@
   },
   {
     "name": "Beauty and the Beast",
-    "id": "pcdi1",
+    "id": "pcdi3",
     "igdbId": 87474,
     "gbId": 42700,
     "gbGuid": "3030-42700",
@@ -48,14 +102,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "Brain Dead 13",
+    "id": "pcdi4",
+    "igdbId": 9258,
+    "gbId": 737,
+    "gbGuid": "3030-737",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Caesar's World of Boxing",
-    "id": "pcdi2",
+    "id": "pcdi5",
     "igdbId": 45941,
     "gbId": 23709,
     "gbGuid": "3030-23709",
     "tgdbId": 22986,
     "details": [
-      "Philips CD-i launch title"
+      "Philips CD-i launch title",
+      "Philips CD-i game uses video card (required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -68,12 +150,25 @@
         "tgdbId": 4917
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Chaos Control",
-    "id": "pcdi3",
+    "id": "pcdi6",
     "igdbId": 176140,
     "gbId": 17289,
     "gbGuid": "3030-17289",
@@ -99,8 +194,143 @@
     "misprintsErrors": []
   },
   {
+    "name": "Chaos Control",
+    "id": "pcdi7",
+    "igdbId": 50320,
+    "gbId": 17289,
+    "gbGuid": "3030-17289",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Christmas Country",
+    "id": "pcdi8",
+    "igdbId": 45938,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Christmas Crisis",
+    "id": "pcdi9",
+    "igdbId": 45937,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cluedo",
+    "id": "pcdi10",
+    "igdbId": 77150,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cluedo: The Mysteries Continue",
+    "id": "pcdi11",
+    "igdbId": 45936,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Connect Four",
-    "id": "pcdi4",
+    "id": "pcdi12",
     "igdbId": 45935,
     "gbId": 38715,
     "gbGuid": "3030-38715",
@@ -124,12 +354,13 @@
   },
   {
     "name": "Creature Shock",
-    "id": "pcdi5",
+    "id": "pcdi13",
     "igdbId": 9259,
     "gbId": 227,
     "gbGuid": "3030-227",
     "details": [
-      "Philips CD-i Peacekeeper Revovler (light gun) game"
+      "Philips CD-i Peacekeeper Revovler (light gun) game",
+      "Philips CD-i game uses video card (required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -145,18 +376,31 @@
           "tgdbId": 4917
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Crime Patrol",
-    "id": "pcdi6",
+    "id": "pcdi14",
     "igdbId": 5373,
     "gbId": 14268,
     "gbGuid": "3030-14268",
     "details": [
-      "Philips CD-i Peacekeeper Revovler (light gun) game"
+      "Philips CD-i Peacekeeper Revovler (light gun) game",
+      "Philips CD-i game uses video card (required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -172,18 +416,31 @@
           "tgdbId": 4917
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Crime Patrol 2: Drug Wars",
-    "id": "pcdi7",
+    "id": "pcdi15",
     "igdbId": 4242,
     "gbId": 17362,
     "gbGuid": "3030-17362",
     "details": [
-      "Philips CD-i Peacekeeper Revovler (light gun) game"
+      "Philips CD-i Peacekeeper Revovler (light gun) game",
+      "Philips CD-i game uses video card (required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -199,13 +456,25 @@
           "tgdbId": 4917
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Dark Castle",
-    "id": "pcdi8",
+    "id": "pcdi16",
     "igdbId": 12034,
     "gbId": 16167,
     "gbGuid": "3030-16167",
@@ -228,8 +497,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "De Zaak Van Sam",
+    "id": "pcdi17",
+    "igdbId": 77151,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Defender of the Crown",
-    "id": "pcdi9",
+    "id": "pcdi18",
     "igdbId": 1873,
     "gbId": 5773,
     "gbGuid": "3030-5773",
@@ -252,8 +548,116 @@
     "misprintsErrors": []
   },
   {
+    "name": "Do you remember the '60s?",
+    "id": "pcdi19",
+    "igdbId": 77153,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon's Lair",
+    "id": "pcdi20",
+    "igdbId": 77154,
+    "gbId": 23,
+    "gbGuid": "3030-23",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon's Lair II: Time Warp",
+    "id": "pcdi21",
+    "igdbId": 14660,
+    "gbId": 9777,
+    "gbGuid": "3030-9777",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Great American Golf 2",
+    "id": "pcdi22",
+    "igdbId": 45898,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (optional)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (optional)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Hotel Mario",
-    "id": "pcdi10",
+    "id": "pcdi23",
     "igdbId": 8535,
     "gbId": 5841,
     "gbGuid": "3030-5841",
@@ -276,8 +680,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Kingdom II: Shadoan",
+    "id": "pcdi24",
+    "igdbId": 45920,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kingdom: The Far Reaches",
+    "id": "pcdi25",
+    "igdbId": 4250,
+    "gbId": 14515,
+    "gbGuid": "3030-14515",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Link: The Faces of Evil",
-    "id": "pcdi11",
+    "id": "pcdi26",
     "igdbId": 8532,
     "gbId": 5043,
     "gbGuid": "3030-5043",
@@ -300,13 +758,95 @@
     "misprintsErrors": []
   },
   {
+    "name": "Litil Divil",
+    "id": "pcdi27",
+    "igdbId": 10516,
+    "gbId": 18575,
+    "gbGuid": "3030-18575",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lost Eden",
+    "id": "pcdi28",
+    "igdbId": 2167,
+    "gbId": 7999,
+    "gbGuid": "3030-7999",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lucky Luke: The Video Game",
+    "id": "pcdi29",
+    "igdbId": 46695,
+    "gbId": 18985,
+    "gbGuid": "3030-18985",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Mad Dog II: The Lost Gold",
-    "id": "pcdi12",
+    "id": "pcdi30",
     "igdbId": 4269,
     "gbId": 12886,
     "gbGuid": "3030-12886",
     "details": [
-      "Philips CD-i Peacekeeper Revovler (light gun) game"
+      "Philips CD-i Peacekeeper Revovler (light gun) game",
+      "Philips CD-i game uses video card (required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -322,18 +862,31 @@
           "tgdbId": 4917
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Mad Dog McCree",
-    "id": "pcdi13",
+    "id": "pcdi31",
     "igdbId": 4254,
     "gbId": 17486,
     "gbGuid": "3030-17486",
     "details": [
-      "Philips CD-i Peacekeeper Revovler (light gun) game"
+      "Philips CD-i Peacekeeper Revovler (light gun) game",
+      "Philips CD-i game uses video card (required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -349,13 +902,106 @@
           "tgdbId": 4917
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Master Labyrinth",
+    "id": "pcdi32",
+    "igdbId": 45915,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (optional)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (optional)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Monty Python's Invasion from the Planet Skyron",
+    "id": "pcdi33",
+    "igdbId": 45924,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mutant Rampage: Bodyslam",
+    "id": "pcdi34",
+    "igdbId": 45912,
+    "gbId": 32981,
+    "gbGuid": "3030-32981",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Mystic Midway: Phantom Express",
-    "id": "pcdi14",
+    "id": "pcdi35",
     "igdbId": 45911,
     "gbId": 37233,
     "gbGuid": "3030-37233",
@@ -382,7 +1028,7 @@
   },
   {
     "name": "Mystic Midway: Rest in Pieces",
-    "id": "pcdi15",
+    "id": "pcdi36",
     "igdbId": 45910,
     "gbId": 16542,
     "gbGuid": "3030-16542",
@@ -409,7 +1055,7 @@
   },
   {
     "name": "Pac-Panic",
-    "id": "pcdi16",
+    "id": "pcdi37",
     "igdbId": 46572,
     "gbId": null,
     "gbGuid": null,
@@ -432,8 +1078,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Rise of the Robots",
+    "id": "pcdi38",
+    "igdbId": 4259,
+    "gbId": 9847,
+    "gbGuid": "3030-9847",
+    "details": [
+      "Philips CD-i game uses video card (optional)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (optional)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sargon Chess",
-    "id": "pcdi17",
+    "id": "pcdi39",
     "igdbId": 46568,
     "gbId": null,
     "gbGuid": null,
@@ -456,13 +1129,203 @@
     "misprintsErrors": []
   },
   {
+    "name": "Solar Crusade",
+    "id": "pcdi40",
+    "igdbId": 45908,
+    "gbId": 16982,
+    "gbGuid": "3030-16982",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Space Ace",
+    "id": "pcdi41",
+    "igdbId": 5454,
+    "gbId": 463,
+    "gbGuid": "3030-463",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Space Ranger: Return to Earth",
+    "id": "pcdi42",
+    "igdbId": 45907,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (prototype,optional)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (prototype,optional)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Strip Poker Pro",
+    "id": "pcdi43",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tetsuo Gaiden",
+    "id": "pcdi44",
+    "igdbId": 46565,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The 7th Guest",
+    "id": "pcdi45",
+    "igdbId": 323,
+    "gbId": 16298,
+    "gbGuid": "3030-16298",
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Apprentice",
+    "id": "pcdi46",
+    "igdbId": 81551,
+    "gbId": 17094,
+    "gbGuid": "3030-17094",
+    "details": [
+      "Philips CD-i game uses video card (optional)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (optional)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Last Bounty Hunter",
-    "id": "pcdi18",
+    "id": "pcdi47",
     "igdbId": 4287,
     "gbId": 2446,
     "gbGuid": "3030-2446",
     "details": [
-      "Philips CD-i Peacekeeper Revovler (light gun) game"
+      "Philips CD-i Peacekeeper Revovler (light gun) game",
+      "Philips CD-i game uses video card (required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -478,18 +1341,58 @@
           "tgdbId": 4917
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Lost Ride",
+    "id": "pcdi48",
+    "igdbId": 46560,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Thunder in Paradise",
-    "id": "pcdi19",
+    "id": "pcdi49",
     "igdbId": 20529,
     "gbId": 6525,
     "gbGuid": "3030-6525",
     "details": [
-      "Philips CD-i Peacekeeper Revovler (light gun) game"
+      "Philips CD-i Peacekeeper Revovler (light gun) game",
+      "Philips CD-i game uses video card (required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -505,18 +1408,112 @@
           "tgdbId": 4917
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ultra CDi Soccer",
+    "id": "pcdi50",
+    "igdbId": 45904,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Uncover: Featuring Tatjanna",
+    "id": "pcdi51",
+    "igdbId": 45903,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Voetbal",
+    "id": "pcdi52",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Who Shot Johnny Rock?",
-    "id": "pcdi20",
+    "id": "pcdi53",
     "igdbId": 4281,
     "gbId": 17503,
     "gbGuid": "3030-17503",
     "details": [
-      "Philips CD-i Peacekeeper Revovler (light gun) game"
+      "Philips CD-i Peacekeeper Revovler (light gun) game",
+      "Philips CD-i game uses video card (required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -532,13 +1529,52 @@
           "tgdbId": 4917
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "World Cup Golf",
+    "id": "pcdi54",
+    "igdbId": 205847,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Philips CD-i game uses video card (required)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Philips CD-i game uses video card (required)",
+        "forPlatform": {
+          "name": "Philips CD-i",
+          "id": "ccl36",
+          "igdbId": 117,
+          "gbId": 27,
+          "gbGuid": "3045-27",
+          "tgdbId": 4917
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Zelda's Adventure",
-    "id": "pcdi21",
+    "id": "pcdi55",
     "igdbId": 8534,
     "gbId": 14181,
     "gbGuid": "3030-14181",
@@ -562,7 +1598,7 @@
   },
   {
     "name": "Zelda: The Wand of Gamelon",
-    "id": "pcdi22",
+    "id": "pcdi56",
     "igdbId": 8533,
     "gbId": 17713,
     "gbGuid": "3030-17713",

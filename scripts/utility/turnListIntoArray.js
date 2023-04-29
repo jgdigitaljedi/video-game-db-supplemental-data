@@ -1,8 +1,8 @@
 const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 
-const inFilePath = '../../textFilesToBeConverted/multiplayer/sonyPlaystationLinkCableGames.txt';
-const outFilePath = '../../textFilesToBeConverted/multiplayer/sonyPlaystationLinkCableGames.json';
+const inFilePath = '../../textFilesToBeConverted/special/philipsCdiVideoCardGames.txt';
+const outFilePath = '../../textFilesToBeConverted/special/philipsCdiVideoCardGames.json';
 
 (function() {
   try {
