@@ -4,9 +4,9 @@ const cheerio = require('cheerio');
 const request = require('request');
 const { whitespaceRemoveBreaks } = require('stringman-utils');
 
-const siteUrl = 'https://consolemods.org/wiki/Atari_7800:Game_Incompatibilities';
-const filePath =
-  '../../textFilesToBeConverted/special/atari7800PalGamesWithIssuesOnNtscConsole.json';
+const siteUrl =
+  'https://consolemods.org/wiki/Game_Gear:List_of_Game_Gear_Games_with_Save_Batteries';
+const filePath = '../../textFilesToBeConverted/special/segaGameGearGamesWithSaveBattery.json';
 
 function makeRequest(url) {
   return new Promise((resolve, reject) => {
@@ -64,27 +64,26 @@ function getNotesStr(notes, detailsInfo) {
               // .first('a')
               .text()
               .trim();
-            const issue = $(cells[1])
+            const batteryType = $(cells[1])
               // .first('a')
               .text()
               .trim();
-            const severity = $(cells[2])
-              // .first('a')
-              .text()
-              .trim();
+            // const severity = $(cells[2])
+            //   // .first('a')
+            //   .text()
+            //   .trim();
             // const notes = whitespaceRemoveBreaks(
             //   $(cells[3])
             //     .text()
             //     .trim()
             // );
             // const detailsInfo = getDisplayModes(ntsc480p, pal60, ws);
-            const detailsInfo = `${severity && severity !== '?' ? severity + ' - ' : ''}${issue}`;
-            const details = `Atari 7800 PAL game has issues on NTSC console:${
-              detailsInfo ? ' ' + detailsInfo : ''
-            }`;
+            const detailsInfo =
+              !!batteryType && batteryType.trim() !== '?' ? ` (${batteryType})` : '';
+            const details = `Sega Game Gear cartridge has save battery${detailsInfo}`;
             return {
               name,
-              id: `a78pg${index + 1}`,
+              id: `ggsb${index + 1}`,
               details,
               igdbId: null,
               gbId: null,

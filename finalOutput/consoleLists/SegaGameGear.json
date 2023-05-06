@@ -120,14 +120,96 @@
     "misprintsErrors": []
   },
   {
-    "name": "Eternal Legend",
+    "name": "Crystal Warriors",
     "id": "sgg5",
+    "igdbId": 11648,
+    "gbId": 6871,
+    "gbGuid": "3030-6871",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Daisenryaku G",
+    "id": "sgg6",
+    "igdbId": 46293,
+    "gbId": 18606,
+    "gbGuid": "3030-18606",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Defenders of Oasis",
+    "id": "sgg7",
+    "igdbId": 45793,
+    "gbId": 7683,
+    "gbGuid": "3030-7683",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Eternal Legend",
+    "id": "sgg8",
     "igdbId": 45794,
     "gbId": 52990,
     "gbGuid": "3030-52990",
     "tgdbId": 15968,
     "details": [
-      "Sega Game Gear exclusive"
+      "Sega Game Gear exclusive",
+      "Sega Game Gear cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -140,12 +222,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Factory Panic",
-    "id": "sgg6",
+    "id": "sgg9",
     "igdbId": 46348,
     "gbId": 24031,
     "gbGuid": "3030-24031",
@@ -169,7 +264,7 @@
   },
   {
     "name": "Fred Couples Golf",
-    "id": "sgg7",
+    "id": "sgg10",
     "igdbId": 46349,
     "gbId": null,
     "gbGuid": null,
@@ -193,7 +288,7 @@
   },
   {
     "name": "G-LOC Air Battle",
-    "id": "sgg8",
+    "id": "sgg11",
     "igdbId": 4464,
     "gbId": 13742,
     "gbGuid": "3030-13742",
@@ -217,13 +312,14 @@
   },
   {
     "name": "Godzilla: Kaijuu no Daishingeki",
-    "id": "sgg9",
+    "id": "sgg12",
     "igdbId": 46315,
     "gbId": 22767,
     "gbGuid": "3030-22767",
     "tgdbId": 27374,
     "details": [
-      "Sega Game Gear exclusive"
+      "Sega Game Gear exclusive",
+      "Sega Game Gear cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -236,12 +332,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Head Buster",
-    "id": "sgg10",
+    "id": "sgg13",
     "igdbId": 46314,
     "gbId": 8334,
     "gbGuid": "3030-8334",
@@ -265,7 +374,7 @@
   },
   {
     "name": "House of Tarot",
-    "id": "sgg11",
+    "id": "sgg14",
     "igdbId": 46313,
     "gbId": null,
     "gbGuid": null,
@@ -288,8 +397,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "J League GG Pro-Striker '94",
+    "id": "sgg15",
+    "igdbId": 126010,
+    "gbId": 73308,
+    "gbGuid": "3030-73308",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "J.League Soccer Dream Eleven",
+    "id": "sgg16",
+    "igdbId": 45274,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kinetic Connection",
+    "id": "sgg17",
+    "igdbId": 45272,
+    "gbId": 13300,
+    "gbGuid": "3030-13300",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Lemmings",
-    "id": "sgg12",
+    "id": "sgg18",
     "igdbId": 4239,
     "gbId": 1446,
     "gbGuid": "3030-1446",
@@ -306,8 +496,35 @@
     ]
   },
   {
+    "name": "Lunar: Sanposuru Gakuen",
+    "id": "sgg19",
+    "igdbId": 46354,
+    "gbId": 35979,
+    "gbGuid": "3030-35979",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "MTV's Beavis and Butt-head",
-    "id": "sgg13",
+    "id": "sgg20",
     "igdbId": 7777,
     "gbId": 18248,
     "gbGuid": "3030-18248",
@@ -330,14 +547,177 @@
     "misprintsErrors": []
   },
   {
+    "name": "Madou Monogatari A: Doki-doki Vacation",
+    "id": "sgg21",
+    "igdbId": 45269,
+    "gbId": 4525,
+    "gbGuid": "3030-4525",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Madou Monogatari I: 3tsu no Madoukyuu",
+    "id": "sgg22",
+    "igdbId": 45268,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Madou Monogatari II: Arle 16-Sai",
+    "id": "sgg23",
+    "igdbId": 45267,
+    "gbId": 16792,
+    "gbGuid": "3030-16792",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Madou Monogatari III: Kyuukyoku Joou-sama",
+    "id": "sgg24",
+    "igdbId": 45266,
+    "gbId": 15554,
+    "gbGuid": "3030-15554",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Magic Knight Rayearth",
+    "id": "sgg25",
+    "igdbId": 105044,
+    "gbId": 19038,
+    "gbGuid": "3030-19038",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Magic Knight Rayearth 2: Making of Magic Knight",
+    "id": "sgg26",
+    "igdbId": 45265,
+    "gbId": 34403,
+    "gbGuid": "3030-34403",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Magical Puzzle Popils",
-    "id": "sgg14",
+    "id": "sgg27",
     "igdbId": 45262,
     "gbId": 22656,
     "gbGuid": "3030-22656",
     "tgdbId": 27393,
     "details": [
-      "Sega Game Gear exclusive"
+      "Sega Game Gear exclusive",
+      "Sega Game Gear cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -350,12 +730,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Mega Man",
-    "id": "sgg15",
+    "id": "sgg28",
     "igdbId": 1738,
     "gbId": 30303,
     "gbGuid": "3030-30303",
@@ -378,14 +771,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "Megami Tensei Gaiden: Last Bible",
+    "id": "sgg29",
+    "igdbId": 225584,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Megami Tensei Gaiden: Last Bible Special",
-    "id": "sgg16",
+    "id": "sgg30",
     "igdbId": 45263,
     "gbId": 7133,
     "gbGuid": "3030-7133",
     "tgdbId": 27392,
     "details": [
-      "Sega Game Gear exclusive"
+      "Sega Game Gear exclusive",
+      "Sega Game Gear cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -398,12 +819,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Mighty Morphin Power Rangers",
-    "id": "sgg17",
+    "id": "sgg31",
     "igdbId": 75979,
     "gbId": 27004,
     "gbGuid": "3030-27004",
@@ -427,7 +861,7 @@
   },
   {
     "name": "Mighty Morphin Power Rangers: The Movie",
-    "id": "sgg18",
+    "id": "sgg32",
     "igdbId": 75982,
     "gbId": 21927,
     "gbGuid": "3030-21927",
@@ -450,8 +884,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Moldorian: Hikari to Yami no Sister",
+    "id": "sgg33",
+    "igdbId": 45261,
+    "gbId": 52988,
+    "gbGuid": "3030-52988",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nazo Puyo 2",
+    "id": "sgg34",
+    "igdbId": 45259,
+    "gbId": 9910,
+    "gbGuid": "3030-9910",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Neko Dai Suki!",
+    "id": "sgg35",
+    "igdbId": 45257,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ninja Gaiden",
-    "id": "sgg19",
+    "id": "sgg36",
     "igdbId": 19507,
     "gbId": 25311,
     "gbGuid": "3030-25311",
@@ -475,13 +990,14 @@
   },
   {
     "name": "Pet Club: Inu Dai Suki!",
-    "id": "sgg20",
+    "id": "sgg37",
     "igdbId": 46296,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 41669,
     "details": [
-      "Sega Game Gear exclusive"
+      "Sega Game Gear exclusive",
+      "Sega Game Gear cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -494,12 +1010,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Pet Club: Neko Daisuki!",
-    "id": "sgg21",
+    "id": "sgg38",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -521,8 +1050,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Phantasy Star Gaiden",
+    "id": "sgg39",
+    "igdbId": 45252,
+    "gbId": 3096,
+    "gbGuid": "3030-3096",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Poker Face Paul",
-    "id": "sgg22",
+    "id": "sgg40",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -545,7 +1101,7 @@
   },
   {
     "name": "Popeye Beach Volleyball",
-    "id": "sgg23",
+    "id": "sgg41",
     "igdbId": 45250,
     "gbId": null,
     "gbGuid": null,
@@ -569,7 +1125,7 @@
   },
   {
     "name": "Power Strike II",
-    "id": "sgg24",
+    "id": "sgg42",
     "igdbId": 46337,
     "gbId": 12717,
     "gbGuid": "3030-12717",
@@ -592,8 +1148,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Pro Yakyuu GG League",
+    "id": "sgg43",
+    "igdbId": 141191,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pro Yakyuu GG League '94",
+    "id": "sgg44",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Psychic World",
-    "id": "sgg25",
+    "id": "sgg45",
     "igdbId": 46338,
     "gbId": 10932,
     "gbGuid": "3030-10932",
@@ -616,8 +1226,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Revelations: The Demon Slayer",
+    "id": "sgg46",
+    "igdbId": 49830,
+    "gbId": 9964,
+    "gbGuid": "3030-9964",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Revenge of Drancon",
-    "id": "sgg26",
+    "id": "sgg47",
     "igdbId": 46304,
     "gbId": null,
     "gbGuid": null,
@@ -640,8 +1277,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Riddick Bowe Boxing",
+    "id": "sgg48",
+    "igdbId": 49024,
+    "gbId": 17218,
+    "gbGuid": "3030-17218",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ristar",
-    "id": "sgg27",
+    "id": "sgg49",
     "igdbId": null,
     "gbId": 16386,
     "gbGuid": "3030-16386",
@@ -664,8 +1328,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Royal Stone: Hirakareshi Toki no Tobira",
+    "id": "sgg50",
+    "igdbId": 46310,
+    "gbId": 42530,
+    "gbGuid": "3030-42530",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "SD Gundam Winner's History",
+    "id": "sgg51",
+    "igdbId": 46309,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sassou Shounen Eiyuuden: Coca Cola Kid",
-    "id": "sgg28",
+    "id": "sgg52",
     "igdbId": 19537,
     "gbId": 33194,
     "gbGuid": "3030-33194",
@@ -689,7 +1407,7 @@
   },
   {
     "name": "Sega Game Pack 4-in-1",
-    "id": "sgg29",
+    "id": "sgg53",
     "igdbId": 79600,
     "gbId": 9040,
     "gbGuid": "3030-9040",
@@ -712,8 +1430,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Shining Force Gaiden II: The Sword of Hajya",
+    "id": "sgg54",
+    "igdbId": 46360,
+    "gbId": 8724,
+    "gbGuid": "3030-8724",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shining Force Gaiden: Ensei Jashin no Kuni e",
+    "id": "sgg55",
+    "igdbId": 46307,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shining Force Gaiden: Final Conflict",
+    "id": "sgg56",
+    "igdbId": 3200,
+    "gbId": 6695,
+    "gbGuid": "3030-6695",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Shinobi II - The Silent Fury",
-    "id": "sgg30",
+    "id": "sgg57",
     "igdbId": 10220,
     "gbId": 8666,
     "gbGuid": "3030-8666",
@@ -736,8 +1535,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Sonic Drift",
+    "id": "sgg58",
+    "igdbId": 45798,
+    "gbId": 8422,
+    "gbGuid": "3030-8422",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Super Columns",
-    "id": "sgg31",
+    "id": "sgg59",
     "igdbId": 19690,
     "gbId": 35111,
     "gbGuid": "3030-35111",
@@ -761,7 +1587,7 @@
   },
   {
     "name": "Super Monaco GP",
-    "id": "sgg32",
+    "id": "sgg60",
     "igdbId": 4528,
     "gbId": 532,
     "gbGuid": "3030-532",
@@ -785,7 +1611,7 @@
   },
   {
     "name": "Surf Ninjas (PAL)",
-    "id": "sgg33",
+    "id": "sgg61",
     "igdbId": 181670,
     "gbId": 23851,
     "gbGuid": "3030-23851",
@@ -803,13 +1629,14 @@
   },
   {
     "name": "Sylvan Tale",
-    "id": "sgg34",
+    "id": "sgg62",
     "igdbId": 19691,
     "gbId": 14192,
     "gbGuid": "3030-14192",
     "tgdbId": 23379,
     "details": [
-      "Sega Game Gear exclusive"
+      "Sega Game Gear exclusive",
+      "Sega Game Gear cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -822,12 +1649,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Taz-Mania",
-    "id": "sgg35",
+    "id": "sgg63",
     "igdbId": 8066,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -851,7 +1691,7 @@
   },
   {
     "name": "The Adventures of Batman & Robin",
-    "id": "sgg36",
+    "id": "sgg64",
     "igdbId": 5346,
     "gbId": 12434,
     "gbGuid": "3030-12434",
@@ -874,14 +1714,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "The Chessmaster",
+    "id": "sgg65",
+    "igdbId": 12909,
+    "gbId": 11752,
+    "gbGuid": "3030-11752",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Majors Pro Baseball",
-    "id": "sgg37",
+    "id": "sgg66",
     "igdbId": 45795,
     "gbId": 31008,
     "gbGuid": "3030-31008",
     "tgdbId": 14105,
     "details": [
-      "Sega Game Gear exclusive"
+      "Sega Game Gear exclusive",
+      "Sega Game Gear cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -894,12 +1762,79 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "World Series Baseball",
+    "id": "sgg67",
+    "igdbId": 46546,
+    "gbId": 5924,
+    "gbGuid": "3030-5924",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "World Series Baseball '95",
+    "id": "sgg68",
+    "igdbId": 46327,
+    "gbId": 43821,
+    "gbGuid": "3030-43821",
+    "details": [
+      "Sega Game Gear cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Game Gear cartridge has save battery",
+        "forPlatform": {
+          "name": "Sega Game Gear",
+          "id": "ccl19",
+          "igdbId": 35,
+          "gbId": 5,
+          "gbGuid": "3045-5",
+          "tgdbId": 20
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "X-Men",
-    "id": "sgg38",
+    "id": "sgg69",
     "igdbId": null,
     "gbId": 5428,
     "gbGuid": "3030-5428",
@@ -923,7 +1858,7 @@
   },
   {
     "name": "X-Men: Gamesmaster's Legacy",
-    "id": "sgg39",
+    "id": "sgg70",
     "igdbId": 19938,
     "gbId": 29090,
     "gbGuid": "3030-29090",
@@ -947,7 +1882,7 @@
   },
   {
     "name": "X-Men: Mojo World",
-    "id": "sgg40",
+    "id": "sgg71",
     "igdbId": 46326,
     "gbId": 16994,
     "gbGuid": "3030-16994",

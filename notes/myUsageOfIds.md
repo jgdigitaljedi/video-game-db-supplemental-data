@@ -123,9 +123,12 @@ I simply chose a prefix for each list then slap a number on the end to different
 - gbabiX - Nintendo Game Boy Advance cartridges with built in devices (gbaCartsWithBuiltInDevices.json) | GAMES LIST
 - gbatmX - GBA games with tate mode support (nintendoGbaTateModeGames.json) | GAMES LIST
 - gbbiX - Nintendo Game Boy cartridges with built in devices (gameBoyCartsWithBuiltInDevices.json) | GAMES LIST
+- gbcsbX - Nintendo Game Boy Color cartridges with built save battery (gameboyColorGamesWithSaveBattery.json) | GAMES LIST
+- gbsbX - Nintendo Game Boy cartridges with save battery (gameboyGamesWithSaveBattery.json) | GAMES LIST
 - gbcbiX - Nintendo Game Boy Color cartridges with built in devices (gbcCartsWithBuiltInDevices.json) | GAMES LIST
 - gcbbaX - GameCube broadband adapter games (gamecubeBroadbandGames.json) | GAMES LIST
 - gctmX - GameCube games with tate mode support (nintendoGamecubeTateModeGames.json) | GAMES LIST
+- ggsbX - Game Gear games with save battery (segaGameGearGamesWithSaveBattery.json) | GAMES LIST
 - molgX - Magnavox Odyssey light gun games (magnavoxOdysseyLightGunGamesGames.json) | GAMES LIST
 - mspnX - Master System PAL games with issues on NTSC MS (masterSystemPalGamesWithProblemsOnNtsc.json) | GAMES LIST
 - mssbX - Master System games with hardware incompatibilities (masterSystemGamesIncompatibilities.json) | GAMES LIST
@@ -143,6 +146,8 @@ I simply chose a prefix for each list then slap a number on the end to different
 - pcsgX - PC Engine games enhanced on Supergrafx (pcEngineGamesEnhancedOnSupergrafx.json) | GAMES LIST
 - pbdX - consoles that play bruned discs without modification (platformsThatPlayBurnedDiscs.json) | CONSOLE/PLATFORM LIST
 - ps1lbX - Sony PlayStation long box games (playstationLongboxGames.json) | GAMES LIST
+- pstviX - Sony PlayStation Portable games that are incompatible with PSTV (pspGamesIncompatibleWithPsTv.json) | GAMES LIST
+- psvtviX - Sony PlayStation Vita games that are incompatible with PSTV (psVitaGamesIncompatibleWithPsTv.json) | GAMES LIST
 - neshtgX - NES hang tab games (nesHangtabGames.json) | GAMES LIST
 - neslgX - NES light gun games (nesLightGunGames.json) | GAMES LIST
 - ps2olX - Sony PlayStation 2 Online games (playstation2OnlineGamesGames.json) | GAMES LIST
@@ -162,6 +167,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - sg6bpX - Sega Genesis 6 button problem games (segaGenesis6ButtonProblems.json) | GAMES LIST
 - sg6pmX - Sega Genesis 6 button MODE button extra functionality (segaGenesis6ButtonMode.json) | GAMES LIST
 - sgsbX - Sega Genesis games with save battery (genesisGamesWithSaveBattery.json) | GAMES LIST
+- sgscusX - Sega Genesis games only available in US via Sega Channel (genesisSegaChannelGamesOnlyInUs.json) | GAMES LIST
 - sgsmX - Sega Genesis Menacer games (segaMenacerGenesisGames.json) | GAMES LIST
 - sms3dX - Sega Master System 3D games (segaMasterSystem3dGames.json) | GAMES LIST
 - smspX - Sega Master System Phaser games (segaMasterSystemPhaserGames.json) | GAMES LIST
@@ -183,7 +189,9 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ssvcX - Sega Saturn VCD card games (segaSaturnVcdCardGames.json) | GAMES LIST
 - wiitmX - Wii games with tate mode support (nintendoWiiTateModeGames.json) | GAMES LIST
 - wiiutmX - Wii U games with tate mode support (nintendoWiiUTateModeGames.json) | GAMES LIST
+- wscsbX - Bandai Wonderswan Color games with save battery (wonderswanColorGamesWithSaveBattery.json) | GAMES LIST
 - wsctmX - Bandai Wonderswan Color tate mode games (wonderswanColorTateModeGames.json) | GAMES LIST
+- wssbX - Bandai Wonderswan games with save battery (wonderswanGamesWithSaveBattery.json) | GAMES LIST
 - wstmX - Bandai Wonderswan tate mode games (wonderswanTateModeGames.json) | GAMES LIST
 - x360tmX - Microsoft Xbox 360 games with tate mode support (microsoftXbox360TateModeGames.json) | GAMES LIST
 - xbadmmX - Microsoft Xbox games with alternate display modes (microsoftXboxGamesWithAltDisplayModes.json) | GAMES LIST

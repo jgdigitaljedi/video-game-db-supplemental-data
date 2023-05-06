@@ -1,7 +1,59 @@
 [
   {
-    "name": "Chocobo no Fushigi na Dungeon for WonderSwan",
+    "name": "Buffers Evolution",
     "id": "bws0",
+    "igdbId": 37530,
+    "gbId": 31085,
+    "gbGuid": "3030-31085",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cho Aniki: Otoko no Tamafuda",
+    "id": "bws1",
+    "igdbId": 37521,
+    "gbId": 5809,
+    "gbGuid": "3030-5809",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Chocobo no Fushigi na Dungeon for WonderSwan",
+    "id": "bws2",
     "igdbId": 143246,
     "gbId": 21782,
     "gbGuid": "3030-21782",
@@ -23,7 +75,7 @@
   },
   {
     "name": "Crazy Climber",
-    "id": "bws1",
+    "id": "bws3",
     "igdbId": 4611,
     "gbId": 15334,
     "gbGuid": "3030-15334",
@@ -49,7 +101,7 @@
   },
   {
     "name": "D's Garage 21 Koubo Game: Tane wo maku tori",
-    "id": "bws2",
+    "id": "bws4",
     "igdbId": 37520,
     "gbId": 32019,
     "gbGuid": "3030-32019",
@@ -75,7 +127,7 @@
   },
   {
     "name": "Densha de GO!",
-    "id": "bws3",
+    "id": "bws5",
     "igdbId": 143247,
     "gbId": 7590,
     "gbGuid": "3030-7590",
@@ -96,8 +148,60 @@
     "misprintsErrors": []
   },
   {
+    "name": "Detective Conan: Majutsushi no Chousenjou!",
+    "id": "bws6",
+    "igdbId": 37569,
+    "gbId": 62069,
+    "gbGuid": "3030-62069",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Detective Conan: Nishi no Meitantei Saidai no Kiki!?",
+    "id": "bws7",
+    "igdbId": 37568,
+    "gbId": 62070,
+    "gbGuid": "3030-62070",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Digimon Adventure: Anode Tamer",
-    "id": "bws4",
+    "id": "bws8",
     "igdbId": 37517,
     "gbId": 6834,
     "gbGuid": "3030-6834",
@@ -119,7 +223,7 @@
   },
   {
     "name": "Fever Sankyo Koushiki Pachinko Simulation for WonderSwan",
-    "id": "bws5",
+    "id": "bws9",
     "igdbId": 37463,
     "gbId": 57751,
     "gbGuid": "3030-57751",
@@ -140,8 +244,112 @@
     "misprintsErrors": []
   },
   {
+    "name": "Final Lap 2000",
+    "id": "bws10",
+    "igdbId": 185719,
+    "gbId": 32873,
+    "gbGuid": "3030-32873",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fire Pro Wrestling for WonderSwan",
+    "id": "bws11",
+    "igdbId": 37511,
+    "gbId": 18302,
+    "gbGuid": "3030-18302",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fishing Freaks: BassRise for WonderSwan",
+    "id": "bws12",
+    "igdbId": 37510,
+    "gbId": 54838,
+    "gbGuid": "3030-54838",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Goraku Ou Tango!",
+    "id": "bws13",
+    "igdbId": 37506,
+    "gbId": 38200,
+    "gbGuid": "3030-38200",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Gunpey",
-    "id": "bws6",
+    "id": "bws14",
     "igdbId": 1350,
     "gbId": 13414,
     "gbGuid": "3030-13414",
@@ -163,12 +371,13 @@
   },
   {
     "name": "Kaze no Klonoa: Moonlight Museum",
-    "id": "bws7",
+    "id": "bws15",
     "igdbId": 37499,
     "gbId": 2202,
     "gbGuid": "3030-2202",
     "details": [
-      "Wonderswan game supports tate mode"
+      "Wonderswan game supports tate mode",
+      "WonderSwan cartridge has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -183,13 +392,50 @@
           "gbGuid": "3045-65"
         },
         "category": "other"
+      },
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kyousouba Ikusei Simulation: Keiba",
+    "id": "bws16",
+    "igdbId": 37577,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Magical Drop for WonderSwan",
-    "id": "bws8",
+    "id": "bws17",
     "igdbId": 37573,
     "gbId": 46656,
     "gbGuid": "3030-46656",
@@ -215,7 +461,7 @@
   },
   {
     "name": "Makaimura for WonderSwan",
-    "id": "bws9",
+    "id": "bws18",
     "igdbId": 37532,
     "gbId": 42058,
     "gbGuid": "3030-42058",
@@ -240,13 +486,40 @@
     "misprintsErrors": []
   },
   {
+    "name": "Pocket Fighter",
+    "id": "bws19",
+    "igdbId": 23094,
+    "gbId": 1329,
+    "gbGuid": "3030-1329",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Rainbow Islands: Putty's Party",
-    "id": "bws10",
+    "id": "bws20",
     "igdbId": 37496,
     "gbId": 40494,
     "gbGuid": "3030-40494",
     "details": [
-      "Wonderswan game supports tate mode"
+      "Wonderswan game supports tate mode",
+      "WonderSwan cartridge has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -261,19 +534,31 @@
           "gbGuid": "3045-65"
         },
         "category": "other"
+      },
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Rockman & Forte Mirai kara no Chousensha",
-    "id": "bws11",
+    "id": "bws21",
     "igdbId": 1739,
     "gbId": 24425,
     "gbGuid": "3030-24425",
     "details": [
       "Bandai WonderSwan launch title",
-      "Wonderswan game supports tate mode"
+      "Wonderswan game supports tate mode",
+      "WonderSwan cartridge has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -296,13 +581,24 @@
           "gbGuid": "3045-65"
         },
         "category": "other"
+      },
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Shin Nippon Pro Wrestling: Toukon Retsuden",
-    "id": "bws12",
+    "id": "bws22",
     "igdbId": 37486,
     "gbId": 46985,
     "gbGuid": "3030-46985",
@@ -320,6 +616,214 @@
       }
     ],
     "special": [],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sotsugyou Graduation for WonderSwan",
+    "id": "bws23",
+    "igdbId": 37482,
+    "gbId": 49676,
+    "gbGuid": "3030-49676",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tarepanda no Gunpey",
+    "id": "bws24",
+    "igdbId": 37476,
+    "gbId": 66604,
+    "gbGuid": "3030-66604",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tekken Card Challenge",
+    "id": "bws25",
+    "igdbId": 1248,
+    "gbId": 31581,
+    "gbGuid": "3030-31581",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Umitsuri ni Ikou!",
+    "id": "bws26",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Uzumaki: Denshi Kaiki-hen",
+    "id": "bws27",
+    "igdbId": 37502,
+    "gbId": 4965,
+    "gbGuid": "3030-4965",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wonder Stadium",
+    "id": "bws28",
+    "igdbId": 37467,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wuz up b? Produce: Street Dancer",
+    "id": "bws29",
+    "igdbId": 37468,
+    "gbId": 25039,
+    "gbGuid": "3030-25039",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "beatmania for WonderSwan",
+    "id": "bws30",
+    "igdbId": 135089,
+    "gbId": 31083,
+    "gbGuid": "3030-31083",
+    "details": [
+      "WonderSwan cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan",
+          "id": "ccl54",
+          "igdbId": 57,
+          "gbId": 65,
+          "gbGuid": "3045-65"
+        },
+        "category": "special"
+      }
+    ],
     "misprintsErrors": []
   }
 ]

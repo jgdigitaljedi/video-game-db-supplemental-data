@@ -144,8 +144,89 @@
     "misprintsErrors": []
   },
   {
-    "name": "Asmik-kun World 2",
+    "name": "Aretha",
     "id": "ngb6",
+    "igdbId": 222820,
+    "gbId": 70340,
+    "gbGuid": "3030-70340",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Aretha II",
+    "id": "ngb7",
+    "igdbId": 137076,
+    "gbId": 70341,
+    "gbGuid": "3030-70341",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Aretha III",
+    "id": "ngb8",
+    "igdbId": 71777,
+    "gbId": 5380,
+    "gbGuid": "3030-5380",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Asmik-kun World 2",
+    "id": "ngb9",
     "igdbId": 7798,
     "gbId": 42179,
     "gbGuid": "3030-42179",
@@ -169,7 +250,7 @@
   },
   {
     "name": "Asterix",
-    "id": "ngb7",
+    "id": "ngb10",
     "igdbId": 7757,
     "gbId": 36064,
     "gbGuid": "3030-36064",
@@ -193,7 +274,7 @@
   },
   {
     "name": "Astro Rabby",
-    "id": "ngb8",
+    "id": "ngb11",
     "igdbId": 7759,
     "gbId": null,
     "gbGuid": null,
@@ -217,7 +298,7 @@
   },
   {
     "name": "Atomic Punk",
-    "id": "ngb9",
+    "id": "ngb12",
     "igdbId": 7760,
     "gbId": 23410,
     "gbGuid": "3030-23410",
@@ -241,7 +322,7 @@
   },
   {
     "name": "Ayakashi no Shiro",
-    "id": "ngb10",
+    "id": "ngb13",
     "igdbId": 49150,
     "gbId": null,
     "gbGuid": null,
@@ -265,7 +346,7 @@
   },
   {
     "name": "Barbie: Game Girl",
-    "id": "ngb11",
+    "id": "ngb14",
     "igdbId": 45174,
     "gbId": 5069,
     "gbGuid": "3030-5069",
@@ -289,7 +370,7 @@
   },
   {
     "name": "Bart Simpson's Escape from Camp Deadly",
-    "id": "ngb12",
+    "id": "ngb15",
     "igdbId": 2829,
     "gbId": 16849,
     "gbGuid": "3030-16849",
@@ -313,7 +394,7 @@
   },
   {
     "name": "Baseball",
-    "id": "ngb13",
+    "id": "ngb16",
     "igdbId": 7580,
     "gbId": 8145,
     "gbGuid": "3030-8145",
@@ -337,7 +418,7 @@
   },
   {
     "name": "Batman: The Animated Series",
-    "id": "ngb14",
+    "id": "ngb17",
     "igdbId": 7771,
     "gbId": 4669,
     "gbGuid": "3030-4669",
@@ -361,7 +442,7 @@
   },
   {
     "name": "Batman: The Video Game",
-    "id": "ngb15",
+    "id": "ngb18",
     "igdbId": 49227,
     "gbId": 21264,
     "gbGuid": "3030-21264",
@@ -385,7 +466,7 @@
   },
   {
     "name": "Battle Bull",
-    "id": "ngb16",
+    "id": "ngb19",
     "igdbId": 7770,
     "gbId": 36127,
     "gbGuid": "3030-36127",
@@ -409,7 +490,7 @@
   },
   {
     "name": "Battle Ping Pong",
-    "id": "ngb17",
+    "id": "ngb20",
     "igdbId": 7774,
     "gbId": null,
     "gbGuid": null,
@@ -433,7 +514,7 @@
   },
   {
     "name": "Battle Unit Zeoth",
-    "id": "ngb18",
+    "id": "ngb21",
     "igdbId": 7775,
     "gbId": 30831,
     "gbGuid": "3030-30831",
@@ -457,7 +538,7 @@
   },
   {
     "name": "Battletoads",
-    "id": "ngb19",
+    "id": "ngb22",
     "igdbId": 2970,
     "gbId": 21228,
     "gbGuid": "3030-21228",
@@ -481,7 +562,7 @@
   },
   {
     "name": "Battletoads in Ragnarok's World",
-    "id": "ngb20",
+    "id": "ngb23",
     "igdbId": 48924,
     "gbId": 14224,
     "gbGuid": "3030-14224",
@@ -499,7 +580,7 @@
   },
   {
     "name": "Bill & Ted's Excellent Adventure",
-    "id": "ngb21",
+    "id": "ngb24",
     "igdbId": 7784,
     "gbId": 7523,
     "gbGuid": "3030-7523",
@@ -529,7 +610,7 @@
   },
   {
     "name": "Bionic Commando",
-    "id": "ngb22",
+    "id": "ngb25",
     "igdbId": 7786,
     "gbId": 20656,
     "gbGuid": "3030-20656",
@@ -553,7 +634,7 @@
   },
   {
     "name": "Blaster Master Jr.",
-    "id": "ngb23",
+    "id": "ngb26",
     "igdbId": 7790,
     "gbId": null,
     "gbGuid": null,
@@ -575,8 +656,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Bomberman GB",
+    "id": "ngb27",
+    "igdbId": 135909,
+    "gbId": 17435,
+    "gbGuid": "3030-17435",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Boomer's Adventure in ASMIK World",
-    "id": "ngb24",
+    "id": "ngb28",
     "igdbId": 7797,
     "gbId": 1309,
     "gbGuid": "3030-1309",
@@ -600,7 +708,7 @@
   },
   {
     "name": "Boxing (1990 video game)",
-    "id": "ngb25",
+    "id": "ngb29",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -623,7 +731,7 @@
   },
   {
     "name": "Bram Stoker's Dracula",
-    "id": "ngb26",
+    "id": "ngb30",
     "igdbId": 14340,
     "gbId": 1792,
     "gbGuid": "3030-1792",
@@ -647,7 +755,7 @@
   },
   {
     "name": "Burai Fighter Deluxe (AUS)",
-    "id": "ngb27",
+    "id": "ngb31",
     "igdbId": 48960,
     "gbId": 4422,
     "gbGuid": "3030-4422",
@@ -665,7 +773,7 @@
   },
   {
     "name": "Castlevania Legends",
-    "id": "ngb28",
+    "id": "ngb32",
     "igdbId": 1129,
     "gbId": 12001,
     "gbGuid": "3030-12001",
@@ -689,7 +797,7 @@
   },
   {
     "name": "Chikyuu Kaihougun ZAS",
-    "id": "ngb29",
+    "id": "ngb33",
     "igdbId": 7822,
     "gbId": 32925,
     "gbGuid": "3030-32925",
@@ -713,7 +821,7 @@
   },
   {
     "name": "Cosmo Tank",
-    "id": "ngb30",
+    "id": "ngb34",
     "igdbId": 7826,
     "gbId": null,
     "gbGuid": null,
@@ -737,7 +845,7 @@
   },
   {
     "name": "Daffy Duck: The Marvin Missions",
-    "id": "ngb31",
+    "id": "ngb35",
     "igdbId": 8132,
     "gbId": 18031,
     "gbGuid": "3030-18031",
@@ -761,7 +869,7 @@
   },
   {
     "name": "Darkwing Duck (UKV)",
-    "id": "ngb32",
+    "id": "ngb36",
     "igdbId": 81487,
     "gbId": 20169,
     "gbGuid": "3030-20169",
@@ -779,7 +887,7 @@
   },
   {
     "name": "David Crane's The Rescue of Princess Blobette",
-    "id": "ngb33",
+    "id": "ngb37",
     "igdbId": 48959,
     "gbId": 13556,
     "gbGuid": "3030-13556",
@@ -809,7 +917,7 @@
   },
   {
     "name": "Dead Heat Scramble",
-    "id": "ngb34",
+    "id": "ngb38",
     "igdbId": 48950,
     "gbId": null,
     "gbGuid": null,
@@ -833,7 +941,7 @@
   },
   {
     "name": "Dexterity",
-    "id": "ngb35",
+    "id": "ngb39",
     "igdbId": 91263,
     "gbId": 32867,
     "gbGuid": "3030-32867",
@@ -856,8 +964,116 @@
     "misprintsErrors": []
   },
   {
+    "name": "Donkey Kong",
+    "id": "ngb40",
+    "igdbId": 1089,
+    "gbId": 25744,
+    "gbGuid": "3030-25744",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong Land",
+    "id": "ngb41",
+    "igdbId": 1091,
+    "gbId": 8200,
+    "gbGuid": "3030-8200",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong Land 2",
+    "id": "ngb42",
+    "igdbId": 1093,
+    "gbId": 9722,
+    "gbGuid": "3030-9722",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong Land III",
+    "id": "ngb43",
+    "igdbId": 1095,
+    "gbId": 12443,
+    "gbGuid": "3030-12443",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dr. Mario",
-    "id": "ngb36",
+    "id": "ngb44",
     "igdbId": 3476,
     "gbId": 17641,
     "gbGuid": "3030-17641",
@@ -874,8 +1090,89 @@
     ]
   },
   {
+    "name": "Dragon Ball Z: Goku Gekitou-den",
+    "id": "ngb45",
+    "igdbId": 49104,
+    "gbId": 30308,
+    "gbGuid": "3030-30308",
+    "details": [
+      "GameBoy cartridge has save battery (CR2025)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR2025)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon Slayer",
+    "id": "ngb46",
+    "igdbId": 72810,
+    "gbId": 15158,
+    "gbGuid": "3030-15158",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon Slayer Gaiden",
+    "id": "ngb47",
+    "igdbId": 73347,
+    "gbId": 18154,
+    "gbGuid": "3030-18154",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dragon's Lair: The Legend",
-    "id": "ngb37",
+    "id": "ngb48",
     "igdbId": 117950,
     "gbId": 71737,
     "gbGuid": "3030-71737",
@@ -905,7 +1202,7 @@
   },
   {
     "name": "DuckTales",
-    "id": "ngb38",
+    "id": "ngb49",
     "igdbId": 145268,
     "gbId": 15799,
     "gbGuid": "3030-15799",
@@ -922,8 +1219,35 @@
     ]
   },
   {
+    "name": "F-1 Race",
+    "id": "ngb50",
+    "igdbId": 240167,
+    "gbId": 16283,
+    "gbGuid": "3030-16283",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "F-1 Spirit 3D Special",
-    "id": "ngb39",
+    "id": "ngb51",
     "igdbId": 41705,
     "gbId": 14201,
     "gbGuid": "3030-14201",
@@ -947,7 +1271,7 @@
   },
   {
     "name": "F-1 Spirit: the Way to Formula-1",
-    "id": "ngb40",
+    "id": "ngb52",
     "igdbId": 41649,
     "gbId": 7355,
     "gbGuid": "3030-7355",
@@ -970,8 +1294,116 @@
     "misprintsErrors": []
   },
   {
+    "name": "Fastest Lap",
+    "id": "ngb53",
+    "igdbId": 48944,
+    "gbId": 20194,
+    "gbGuid": "3030-20194",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Final Fantasy Adventure",
+    "id": "ngb54",
+    "igdbId": 407,
+    "gbId": 9971,
+    "gbGuid": "3030-9971",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Final Fantasy Legend II",
+    "id": "ngb55",
+    "igdbId": 403,
+    "gbId": 5827,
+    "gbGuid": "3030-5827",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Final Fantasy Legend III",
+    "id": "ngb56",
+    "igdbId": 410,
+    "gbId": 19592,
+    "gbGuid": "3030-19592",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Fortress of Fear: Wizards & Warriors X",
-    "id": "ngb41",
+    "id": "ngb57",
     "igdbId": 48922,
     "gbId": 24474,
     "gbGuid": "3030-24474",
@@ -995,7 +1427,7 @@
   },
   {
     "name": "GB Genjin Land: Viva! Chikkun Oukoku",
-    "id": "ngb42",
+    "id": "ngb58",
     "igdbId": 64344,
     "gbId": 40372,
     "gbGuid": "3030-40372",
@@ -1017,8 +1449,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Game & Watch Gallery",
+    "id": "ngb59",
+    "igdbId": 72016,
+    "gbId": 6727,
+    "gbGuid": "3030-6727",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Game & Watch Gallery 2",
+    "id": "ngb60",
+    "igdbId": 74423,
+    "gbId": 9957,
+    "gbGuid": "3030-9957",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Game Boy Camera",
-    "id": "ngb43",
+    "id": "ngb61",
     "igdbId": 84643,
     "gbId": 24032,
     "gbGuid": "3030-24032",
@@ -1056,13 +1542,14 @@
   },
   {
     "name": "Game Boy Wars",
-    "id": "ngb44",
+    "id": "ngb62",
     "igdbId": 1687,
     "gbId": 21674,
     "gbGuid": "3030-21674",
     "tgdbId": 19078,
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "GameBoy cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -1075,12 +1562,79 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Game de Hakken!! Tamagotchi: Osutchi & Mesutchi",
+    "id": "ngb63",
+    "igdbId": 69250,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Game of Life",
+    "id": "ngb64",
+    "igdbId": 76506,
+    "gbId": 2340,
+    "gbGuid": "3030-2340",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Go! Go! Tank",
-    "id": "ngb45",
+    "id": "ngb65",
     "igdbId": 48997,
     "gbId": 34659,
     "gbGuid": "3030-34659",
@@ -1104,7 +1658,7 @@
   },
   {
     "name": "God Medicine: Fantasy Sekai no Tanjou",
-    "id": "ngb46",
+    "id": "ngb66",
     "igdbId": 60782,
     "gbId": 48304,
     "gbGuid": "3030-48304",
@@ -1128,7 +1682,7 @@
   },
   {
     "name": "Godzilla",
-    "id": "ngb47",
+    "id": "ngb67",
     "igdbId": 75887,
     "gbId": 3063,
     "gbGuid": "3030-3063",
@@ -1151,8 +1705,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Golden Goal",
+    "id": "ngb68",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Goldfish Warning!",
-    "id": "ngb48",
+    "id": "ngb69",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1174,14 +1755,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "Golf",
+    "id": "ngb70",
+    "igdbId": 86354,
+    "gbId": 22096,
+    "gbGuid": "3030-22096",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Great Greed",
-    "id": "ngb49",
+    "id": "ngb71",
     "igdbId": 48994,
     "gbId": 1992,
     "gbGuid": "3030-1992",
     "tgdbId": 21649,
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "GameBoy cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -1194,12 +1803,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Gyogun Tanchiki: Pocket Sonar",
-    "id": "ngb50",
+    "id": "ngb72",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1226,12 +1848,13 @@
   },
   {
     "name": "Harvest Moon GB",
-    "id": "ngb51",
+    "id": "ngb73",
     "igdbId": 3377,
     "gbId": 3640,
     "gbGuid": "3030-3640",
     "details": [
-      "Game Boy cartridge has built in crystal oscillator to keep an accurate clock"
+      "Game Boy cartridge has built in crystal oscillator to keep an accurate clock",
+      "GameBoy cartridge has save battery (CR1616)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1247,13 +1870,25 @@
           "tgdbId": 4
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Heavyweight Championship Boxing",
-    "id": "ngb52",
+    "id": "ngb74",
     "igdbId": 48981,
     "gbId": 46874,
     "gbGuid": "3030-46874",
@@ -1271,7 +1906,7 @@
   },
   {
     "name": "High Stakes Gambling",
-    "id": "ngb53",
+    "id": "ngb75",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1295,7 +1930,7 @@
   },
   {
     "name": "Hyper Lode Runner",
-    "id": "ngb54",
+    "id": "ngb76",
     "igdbId": 48980,
     "gbId": 34330,
     "gbGuid": "3030-34330",
@@ -1318,8 +1953,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "International Superstar Soccer",
+    "id": "ngb77",
+    "igdbId": 131795,
+    "gbId": 6106,
+    "gbGuid": "3030-6106",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Itchy & Scratchy in Miniature Golf Madness",
-    "id": "ngb55",
+    "id": "ngb78",
     "igdbId": 2836,
     "gbId": null,
     "gbGuid": null,
@@ -1343,7 +2005,7 @@
   },
   {
     "name": "Itsu demo! Nyan to Wonderful",
-    "id": "ngb56",
+    "id": "ngb79",
     "igdbId": 228564,
     "gbId": null,
     "gbGuid": null,
@@ -1369,14 +2031,69 @@
     "misprintsErrors": []
   },
   {
+    "name": "J-League Fighting Soccer: The King of Ace Strikers",
+    "id": "ngb80",
+    "igdbId": 48460,
+    "gbId": 38641,
+    "gbGuid": "3030-38641",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "J.League Big Wave Soccer",
+    "id": "ngb81",
+    "igdbId": 65030,
+    "gbId": 38673,
+    "gbGuid": "3030-38673",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "James Bond 007",
-    "id": "ngb57",
+    "id": "ngb82",
     "igdbId": 1639,
     "gbId": 21300,
     "gbGuid": "3030-21300",
     "tgdbId": 3187,
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "GameBoy cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -1389,12 +2106,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Janken Man",
-    "id": "ngb58",
+    "id": "ngb83",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1418,7 +2148,7 @@
   },
   {
     "name": "Jeep Jamboree: Off Road Adventure",
-    "id": "ngb59",
+    "id": "ngb84",
     "igdbId": 48979,
     "gbId": 17244,
     "gbGuid": "3030-17244",
@@ -1447,8 +2177,35 @@
     ]
   },
   {
+    "name": "Kaeru no Tame ni Kane wa Naru",
+    "id": "ngb85",
+    "igdbId": 49078,
+    "gbId": 10205,
+    "gbGuid": "3030-10205",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kaiju-Oh Godzilla",
-    "id": "ngb60",
+    "id": "ngb86",
     "igdbId": 72803,
     "gbId": 22868,
     "gbGuid": "3030-22868",
@@ -1470,8 +2227,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ken Griffey Jr. Presents Major League Baseball",
+    "id": "ngb87",
+    "igdbId": 9615,
+    "gbId": 7266,
+    "gbGuid": "3030-7266",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kid Dracula",
-    "id": "ngb61",
+    "id": "ngb88",
     "igdbId": 1125,
     "gbId": 1913,
     "gbGuid": "3030-1913",
@@ -1495,14 +2279,29 @@
   },
   {
     "name": "Kid Icarus: Of Myths and Monsters",
-    "id": "ngb62",
+    "id": "ngb89",
     "igdbId": 3664,
     "gbId": 4778,
     "gbGuid": "3030-4778",
-    "details": [],
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/gameboy/kidicgb_zpsbfdf44d9.jpg",
@@ -1513,7 +2312,7 @@
   },
   {
     "name": "Kikou Keisatsu Metal Jack",
-    "id": "ngb63",
+    "id": "ngb90",
     "igdbId": null,
     "gbId": 28298,
     "gbGuid": "3030-28298",
@@ -1537,7 +2336,7 @@
   },
   {
     "name": "Kingdom Crusade",
-    "id": "ngb64",
+    "id": "ngb91",
     "igdbId": 49047,
     "gbId": null,
     "gbGuid": null,
@@ -1560,8 +2359,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Kirby's Block Ball",
+    "id": "ngb92",
+    "igdbId": 3728,
+    "gbId": 19344,
+    "gbGuid": "3030-19344",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kirby's Dream Land",
-    "id": "ngb65",
+    "id": "ngb93",
     "igdbId": 1063,
     "gbId": 19788,
     "gbGuid": "3030-19788",
@@ -1584,15 +2410,84 @@
     "misprintsErrors": []
   },
   {
+    "name": "Kirby's Dream Land 2",
+    "id": "ngb94",
+    "igdbId": 3718,
+    "gbId": 4474,
+    "gbGuid": "3030-4474",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kirby's Pinball Land",
+    "id": "ngb95",
+    "igdbId": 3715,
+    "gbId": 14646,
+    "gbGuid": "3030-14646",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kirby's Star Stacker",
-    "id": "ngb66",
+    "id": "ngb96",
     "igdbId": 3655,
     "gbId": 10628,
     "gbGuid": "3030-10628",
-    "details": [],
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/gameboy/kirbystar_zps96c158a0.jpg",
@@ -1603,7 +2498,7 @@
   },
   {
     "name": "Konami GB Collection Vol. 1",
-    "id": "ngb67",
+    "id": "ngb97",
     "igdbId": null,
     "gbId": 41149,
     "gbGuid": "3030-41149",
@@ -1627,7 +2522,7 @@
   },
   {
     "name": "Konami GB Collection Vol. 2",
-    "id": "ngb68",
+    "id": "ngb98",
     "igdbId": null,
     "gbId": 41150,
     "gbGuid": "3030-41150",
@@ -1651,7 +2546,7 @@
   },
   {
     "name": "Konami GB Collection Vol. 3",
-    "id": "ngb69",
+    "id": "ngb99",
     "igdbId": null,
     "gbId": 41151,
     "gbGuid": "3030-41151",
@@ -1675,7 +2570,7 @@
   },
   {
     "name": "Konami GB Collection Vol. 4",
-    "id": "ngb70",
+    "id": "ngb100",
     "igdbId": null,
     "gbId": 41153,
     "gbGuid": "3030-41153",
@@ -1698,8 +2593,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Lazlos' Leap",
+    "id": "ngb101",
+    "igdbId": 61363,
+    "gbId": 46872,
+    "gbGuid": "3030-46872",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Legend of the River King GB",
+    "id": "ngb102",
+    "igdbId": 20514,
+    "gbId": 3805,
+    "gbGuid": "3030-3805",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lucle",
+    "id": "ngb103",
+    "igdbId": 117978,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "MTV's Beavis and Butt-head",
-    "id": "ngb71",
+    "id": "ngb104",
     "igdbId": 7777,
     "gbId": 18248,
     "gbGuid": "3030-18248",
@@ -1723,7 +2699,7 @@
   },
   {
     "name": "Magnetic Soccer",
-    "id": "ngb72",
+    "id": "ngb105",
     "igdbId": 49046,
     "gbId": null,
     "gbGuid": null,
@@ -1746,8 +2722,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mario's Picross",
+    "id": "ngb106",
+    "igdbId": 71976,
+    "gbId": 6316,
+    "gbGuid": "3030-6316",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Megalit",
-    "id": "ngb73",
+    "id": "ngb107",
     "igdbId": 19558,
     "gbId": 60118,
     "gbGuid": "3030-60118",
@@ -1770,8 +2773,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Megami Tensei Gaiden: Last Bible",
+    "id": "ngb108",
+    "igdbId": 225584,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Megami Tensei Gaiden: Last Bible II",
+    "id": "ngb109",
+    "igdbId": 50051,
+    "gbId": 20398,
+    "gbGuid": "3030-20398",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Metroid II: Return of Samus",
+    "id": "ngb110",
+    "igdbId": 1102,
+    "gbId": 5708,
+    "gbGuid": "3030-5708",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Mickey Mouse: Magic Wands",
-    "id": "ngb74",
+    "id": "ngb111",
     "igdbId": 48990,
     "gbId": null,
     "gbGuid": null,
@@ -1795,7 +2879,7 @@
   },
   {
     "name": "Mickey's Dangerous Chase",
-    "id": "ngb75",
+    "id": "ngb112",
     "igdbId": 8127,
     "gbId": 22059,
     "gbGuid": "3030-22059",
@@ -1819,7 +2903,7 @@
   },
   {
     "name": "Mighty Morphin Power Rangers",
-    "id": "ngb76",
+    "id": "ngb113",
     "igdbId": 75978,
     "gbId": 6531,
     "gbGuid": "3030-6531",
@@ -1843,7 +2927,7 @@
   },
   {
     "name": "Mighty Morphin Power Rangers: The Movie",
-    "id": "ngb77",
+    "id": "ngb114",
     "igdbId": 75981,
     "gbId": 21927,
     "gbGuid": "3030-21927",
@@ -1866,8 +2950,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mole Mania",
+    "id": "ngb115",
+    "igdbId": 49038,
+    "gbId": 9422,
+    "gbGuid": "3030-9422",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Monster Maker",
+    "id": "ngb116",
+    "igdbId": 220645,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Monster Maker 2: Uru no Hiken",
+    "id": "ngb117",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Monster Max",
-    "id": "ngb78",
+    "id": "ngb118",
     "igdbId": 18629,
     "gbId": 18183,
     "gbGuid": "3030-18183",
@@ -1891,7 +3056,7 @@
   },
   {
     "name": "Motocross Maniacs",
-    "id": "ngb79",
+    "id": "ngb119",
     "igdbId": 73130,
     "gbId": 19879,
     "gbGuid": "3030-19879",
@@ -1915,7 +3080,7 @@
   },
   {
     "name": "Mouse Trap Hotel",
-    "id": "ngb80",
+    "id": "ngb120",
     "igdbId": 49037,
     "gbId": 31052,
     "gbGuid": "3030-31052",
@@ -1945,7 +3110,7 @@
   },
   {
     "name": "Mysterium",
-    "id": "ngb81",
+    "id": "ngb121",
     "igdbId": null,
     "gbId": 3241,
     "gbGuid": "3030-3241",
@@ -1969,7 +3134,7 @@
   },
   {
     "name": "NHL 95",
-    "id": "ngb82",
+    "id": "ngb122",
     "igdbId": 4509,
     "gbId": 15126,
     "gbGuid": "3030-15126",
@@ -1987,7 +3152,7 @@
   },
   {
     "name": "Nail 'N Scale",
-    "id": "ngb83",
+    "id": "ngb123",
     "igdbId": 49035,
     "gbId": null,
     "gbGuid": null,
@@ -2011,7 +3176,7 @@
   },
   {
     "name": "Nemesis",
-    "id": "ngb84",
+    "id": "ngb124",
     "igdbId": 18630,
     "gbId": 28016,
     "gbGuid": "3030-28016",
@@ -2035,7 +3200,7 @@
   },
   {
     "name": "Nemesis 2",
-    "id": "ngb85",
+    "id": "ngb125",
     "igdbId": 1482,
     "gbId": 18815,
     "gbGuid": "3030-18815",
@@ -2059,7 +3224,7 @@
   },
   {
     "name": "Nikkan Berutomo Club",
-    "id": "ngb86",
+    "id": "ngb126",
     "igdbId": 64904,
     "gbId": 39000,
     "gbGuid": "3030-39000",
@@ -2086,7 +3251,7 @@
   },
   {
     "name": "Ninja Boy",
-    "id": "ngb87",
+    "id": "ngb127",
     "igdbId": 48967,
     "gbId": 41286,
     "gbGuid": "3030-41286",
@@ -2110,7 +3275,7 @@
   },
   {
     "name": "Ninja Boy 2",
-    "id": "ngb88",
+    "id": "ngb128",
     "igdbId": 48966,
     "gbId": 34751,
     "gbGuid": "3030-34751",
@@ -2134,7 +3299,7 @@
   },
   {
     "name": "Ninja Gaiden Shadow",
-    "id": "ngb89",
+    "id": "ngb129",
     "igdbId": 48929,
     "gbId": null,
     "gbGuid": null,
@@ -2158,13 +3323,14 @@
   },
   {
     "name": "Ninja Taro",
-    "id": "ngb90",
+    "id": "ngb130",
     "igdbId": 49034,
     "gbId": 34674,
     "gbGuid": "3030-34674",
     "tgdbId": 43763,
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "GameBoy cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -2177,12 +3343,52 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nobunaga's Ambition",
+    "id": "ngb131",
+    "igdbId": 4369,
+    "gbId": 14028,
+    "gbGuid": "3030-14028",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Out of Gas",
-    "id": "ngb91",
+    "id": "ngb132",
     "igdbId": 49050,
     "gbId": 17303,
     "gbGuid": "3030-17303",
@@ -2206,7 +3412,7 @@
   },
   {
     "name": "Panel Action Bingo",
-    "id": "ngb92",
+    "id": "ngb133",
     "igdbId": 49031,
     "gbId": null,
     "gbGuid": null,
@@ -2229,8 +3435,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Personal Organizer and Phone Book",
+    "id": "ngb134",
+    "igdbId": 93538,
+    "gbId": 38116,
+    "gbGuid": "3030-38116",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Picross 2",
+    "id": "ngb135",
+    "igdbId": 49080,
+    "gbId": 13801,
+    "gbGuid": "3030-13801",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Pit Fighter",
-    "id": "ngb93",
+    "id": "ngb136",
     "igdbId": 6824,
     "gbId": 12530,
     "gbGuid": "3030-12530",
@@ -2247,15 +3507,57 @@
     ]
   },
   {
+    "name": "Pocket Bomberman",
+    "id": "ngb137",
+    "igdbId": 2980,
+    "gbId": 23456,
+    "gbGuid": "3030-23456",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Pokémon Blue",
-    "id": "ngb94",
+    "id": "ngb138",
     "igdbId": 1511,
     "gbId": 3966,
     "gbGuid": "3030-3966",
-    "details": [],
+    "details": [
+      "GameBoy cartridge has save battery (CR2025)"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR2025)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/gameboy/pokeblue_zps48b58ff6.jpg",
@@ -2270,8 +3572,89 @@
     ]
   },
   {
+    "name": "Pokémon Green",
+    "id": "ngb139",
+    "igdbId": 8377,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pokémon Red",
+    "id": "ngb140",
+    "igdbId": 1561,
+    "gbId": 3966,
+    "gbGuid": "3030-3966",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pokémon Yellow",
+    "id": "ngb141",
+    "igdbId": 1512,
+    "gbId": 18673,
+    "gbGuid": "3030-18673",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Popeye",
-    "id": "ngb95",
+    "id": "ngb142",
     "igdbId": null,
     "gbId": 37309,
     "gbGuid": "3030-37309",
@@ -2295,7 +3678,7 @@
   },
   {
     "name": "Popeye 2",
-    "id": "ngb96",
+    "id": "ngb143",
     "igdbId": 12593,
     "gbId": 37306,
     "gbGuid": "3030-37306",
@@ -2318,8 +3701,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Power Quest",
+    "id": "ngb144",
+    "igdbId": 67765,
+    "gbId": 27875,
+    "gbGuid": "3030-27875",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Puzzle Star Sweep",
+    "id": "ngb145",
+    "igdbId": 44744,
+    "gbId": 14165,
+    "gbGuid": "3030-14165",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Q Billion",
-    "id": "ngb97",
+    "id": "ngb146",
     "igdbId": 49026,
     "gbId": 27985,
     "gbGuid": "3030-27985",
@@ -2343,7 +3780,7 @@
   },
   {
     "name": "Race Days",
-    "id": "ngb98",
+    "id": "ngb147",
     "igdbId": 49009,
     "gbId": 27398,
     "gbGuid": "3030-27398",
@@ -2367,7 +3804,7 @@
   },
   {
     "name": "Race Drivin'",
-    "id": "ngb99",
+    "id": "ngb148",
     "igdbId": 12840,
     "gbId": 6627,
     "gbGuid": "3030-6627",
@@ -2385,7 +3822,7 @@
   },
   {
     "name": "Raging Fighter",
-    "id": "ngb100",
+    "id": "ngb149",
     "igdbId": 48921,
     "gbId": 23928,
     "gbGuid": "3030-23928",
@@ -2409,7 +3846,7 @@
   },
   {
     "name": "Rolan's Curse",
-    "id": "ngb101",
+    "id": "ngb150",
     "igdbId": 49023,
     "gbId": 935,
     "gbGuid": "3030-935",
@@ -2433,13 +3870,14 @@
   },
   {
     "name": "Rolan's Curse 2",
-    "id": "ngb102",
+    "id": "ngb151",
     "igdbId": 49022,
     "gbId": 39763,
     "gbGuid": "3030-39763",
     "tgdbId": 21718,
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "GameBoy cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -2452,12 +3890,52 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "SD Gundam Gaiden Lacroan Heroes",
+    "id": "ngb152",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Satoru Nakajima F-1 Hero GB World Championship '91",
-    "id": "ngb103",
+    "id": "ngb153",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2480,7 +3958,7 @@
   },
   {
     "name": "Serpent",
-    "id": "ngb104",
+    "id": "ngb154",
     "igdbId": 49021,
     "gbId": 38932,
     "gbGuid": "3030-38932",
@@ -2504,7 +3982,7 @@
   },
   {
     "name": "Shuyaku Sentai Irem Fighter",
-    "id": "ngb105",
+    "id": "ngb155",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2527,7 +4005,7 @@
   },
   {
     "name": "Skate Or Die: Tour de Thrash",
-    "id": "ngb106",
+    "id": "ngb156",
     "igdbId": 49020,
     "gbId": 23556,
     "gbGuid": "3030-23556",
@@ -2551,7 +4029,7 @@
   },
   {
     "name": "Skate or Die: Bad 'n' Rad",
-    "id": "ngb107",
+    "id": "ngb157",
     "igdbId": 48942,
     "gbId": 5589,
     "gbGuid": "3030-5589",
@@ -2575,7 +4053,7 @@
   },
   {
     "name": "Snoopy's Magic Show",
-    "id": "ngb108",
+    "id": "ngb158",
     "igdbId": 49019,
     "gbId": 23286,
     "gbGuid": "3030-23286",
@@ -2599,7 +4077,7 @@
   },
   {
     "name": "Soccer",
-    "id": "ngb109",
+    "id": "ngb159",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2623,7 +4101,7 @@
   },
   {
     "name": "Soccer Mania",
-    "id": "ngb110",
+    "id": "ngb160",
     "igdbId": 6597,
     "gbId": null,
     "gbGuid": null,
@@ -2647,7 +4125,7 @@
   },
   {
     "name": "Solar Striker",
-    "id": "ngb111",
+    "id": "ngb161",
     "igdbId": 48940,
     "gbId": 10870,
     "gbGuid": "3030-10870",
@@ -2671,7 +4149,7 @@
   },
   {
     "name": "Spider-Man 3: Invasion of the Spider-Slayers",
-    "id": "ngb112",
+    "id": "ngb162",
     "igdbId": 48926,
     "gbId": 10954,
     "gbGuid": "3030-10954",
@@ -2695,7 +4173,7 @@
   },
   {
     "name": "Sports Collection",
-    "id": "ngb113",
+    "id": "ngb163",
     "igdbId": 79444,
     "gbId": 55728,
     "gbGuid": "3030-55728",
@@ -2719,7 +4197,7 @@
   },
   {
     "name": "Spot: The Cool Adventure",
-    "id": "ngb114",
+    "id": "ngb164",
     "igdbId": 2621,
     "gbId": 34772,
     "gbGuid": "3030-34772",
@@ -2743,7 +4221,7 @@
   },
   {
     "name": "Spud's Adventure",
-    "id": "ngb115",
+    "id": "ngb165",
     "igdbId": 48970,
     "gbId": 19400,
     "gbGuid": "3030-19400",
@@ -2767,7 +4245,7 @@
   },
   {
     "name": "Star Trek: 25th Anniversary",
-    "id": "ngb116",
+    "id": "ngb166",
     "igdbId": null,
     "gbId": 15069,
     "gbGuid": "3030-15069",
@@ -2791,7 +4269,7 @@
   },
   {
     "name": "Stop That Roach!",
-    "id": "ngb117",
+    "id": "ngb167",
     "igdbId": 49016,
     "gbId": 30685,
     "gbGuid": "3030-30685",
@@ -2815,7 +4293,7 @@
   },
   {
     "name": "Sumo Fighter",
-    "id": "ngb118",
+    "id": "ngb168",
     "igdbId": 49006,
     "gbId": 37292,
     "gbGuid": "3030-37292",
@@ -2838,8 +4316,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Black Bass",
+    "id": "ngb169",
+    "igdbId": 49085,
+    "gbId": 31331,
+    "gbGuid": "3030-31331",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Super Chinese Fighter GB",
-    "id": "ngb119",
+    "id": "ngb170",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2862,7 +4367,7 @@
   },
   {
     "name": "Super Chinese Land 1-2-3 Dash",
-    "id": "ngb120",
+    "id": "ngb171",
     "igdbId": 63969,
     "gbId": 41285,
     "gbGuid": "3030-41285",
@@ -2885,7 +4390,7 @@
   },
   {
     "name": "Super Chinese Land 3",
-    "id": "ngb121",
+    "id": "ngb172",
     "igdbId": null,
     "gbId": 41287,
     "gbGuid": "3030-41287",
@@ -2908,7 +4413,7 @@
   },
   {
     "name": "Super Hunchback",
-    "id": "ngb122",
+    "id": "ngb173",
     "igdbId": 49014,
     "gbId": 6458,
     "gbGuid": "3030-6458",
@@ -2932,7 +4437,7 @@
   },
   {
     "name": "Super Mario Land",
-    "id": "ngb123",
+    "id": "ngb174",
     "igdbId": 1069,
     "gbId": 19834,
     "gbGuid": "3030-19834",
@@ -2956,14 +4461,29 @@
   },
   {
     "name": "Super Mario Land 2: 6 Golden Coins",
-    "id": "ngb124",
+    "id": "ngb175",
     "igdbId": 1071,
     "gbId": 14425,
     "gbGuid": "3030-14425",
-    "details": [],
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/gameboy/supermariol2usd.png",
@@ -2974,7 +4494,7 @@
   },
   {
     "name": "Super R.C. Pro-AM",
-    "id": "ngb125",
+    "id": "ngb176",
     "igdbId": 9157,
     "gbId": 19111,
     "gbGuid": "3030-19111",
@@ -2997,8 +4517,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Robot Taisen",
+    "id": "ngb177",
+    "igdbId": 49137,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "TV Champion (video game)",
-    "id": "ngb126",
+    "id": "ngb178",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3021,7 +4568,7 @@
   },
   {
     "name": "Tail 'Gator",
-    "id": "ngb127",
+    "id": "ngb179",
     "igdbId": 49063,
     "gbId": 32272,
     "gbGuid": "3030-32272",
@@ -3044,8 +4591,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Tamagotchi",
+    "id": "ngb180",
+    "igdbId": 11284,
+    "gbId": 36275,
+    "gbGuid": "3030-36275",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tasmania Story",
-    "id": "ngb128",
+    "id": "ngb181",
     "igdbId": 49061,
     "gbId": 38965,
     "gbGuid": "3030-38965",
@@ -3069,7 +4643,7 @@
   },
   {
     "name": "Taz-Mania",
-    "id": "ngb129",
+    "id": "ngb182",
     "igdbId": 19137,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -3093,7 +4667,7 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles II: Back from the Sewers",
-    "id": "ngb130",
+    "id": "ngb183",
     "igdbId": 18639,
     "gbId": 15414,
     "gbGuid": "3030-15414",
@@ -3117,7 +4691,7 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles III: Radical Rescue",
-    "id": "ngb131",
+    "id": "ngb184",
     "igdbId": 48927,
     "gbId": 17952,
     "gbGuid": "3030-17952",
@@ -3141,7 +4715,7 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles: Fall of the Foot Clan",
-    "id": "ngb132",
+    "id": "ngb185",
     "igdbId": 48928,
     "gbId": 15797,
     "gbGuid": "3030-15797",
@@ -3165,7 +4739,7 @@
   },
   {
     "name": "Tennis",
-    "id": "ngb133",
+    "id": "ngb186",
     "igdbId": 74548,
     "gbId": 20780,
     "gbGuid": "3030-20780",
@@ -3189,7 +4763,7 @@
   },
   {
     "name": "Tetris",
-    "id": "ngb134",
+    "id": "ngb187",
     "igdbId": 86490,
     "gbId": 1896,
     "gbGuid": "3030-1896",
@@ -3212,8 +4786,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Tetris Plus",
+    "id": "ngb188",
+    "igdbId": 20712,
+    "gbId": 17808,
+    "gbGuid": "3030-17808",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Addams Family",
-    "id": "ngb135",
+    "id": "ngb189",
     "igdbId": 14208,
     "gbId": 2865,
     "gbGuid": "3030-2865",
@@ -3237,7 +4838,7 @@
   },
   {
     "name": "The Adventures of Star Saver",
-    "id": "ngb136",
+    "id": "ngb190",
     "igdbId": 7745,
     "gbId": 11420,
     "gbGuid": "3030-11420",
@@ -3261,7 +4862,7 @@
   },
   {
     "name": "The Amazing Spider-Man",
-    "id": "ngb137",
+    "id": "ngb191",
     "igdbId": 83898,
     "gbId": 5266,
     "gbGuid": "3030-5266",
@@ -3285,7 +4886,7 @@
   },
   {
     "name": "The Amazing Spider-Man 2",
-    "id": "ngb138",
+    "id": "ngb192",
     "igdbId": 107330,
     "gbId": 44217,
     "gbGuid": "3030-44217",
@@ -3309,7 +4910,7 @@
   },
   {
     "name": "The Battle of Olympus (PAL)",
-    "id": "ngb139",
+    "id": "ngb193",
     "igdbId": 7773,
     "gbId": 14255,
     "gbGuid": "3030-14255",
@@ -3327,7 +4928,7 @@
   },
   {
     "name": "The Bugs Bunny Crazy Castle 2",
-    "id": "ngb140",
+    "id": "ngb194",
     "igdbId": 7814,
     "gbId": 569,
     "gbGuid": "3030-569",
@@ -3350,8 +4951,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "The Chessmaster",
+    "id": "ngb195",
+    "igdbId": 12909,
+    "gbId": 11752,
+    "gbGuid": "3030-11752",
+    "details": [
+      "GameBoy cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Final Fantasy Legend",
+    "id": "ngb196",
+    "igdbId": 396,
+    "gbId": 18601,
+    "gbGuid": "3030-18601",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Legend of Zelda: Link's Awakening",
+    "id": "ngb197",
+    "igdbId": 1028,
+    "gbId": 3645,
+    "gbGuid": "3030-3645",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Real GhostBusters",
-    "id": "ngb141",
+    "id": "ngb198",
     "igdbId": 81546,
     "gbId": 27203,
     "gbGuid": "3030-27203",
@@ -3375,7 +5057,7 @@
   },
   {
     "name": "The Simpsons: Bart & the Beanstalk",
-    "id": "ngb142",
+    "id": "ngb199",
     "igdbId": 2837,
     "gbId": 5737,
     "gbGuid": "3030-5737",
@@ -3399,7 +5081,7 @@
   },
   {
     "name": "The Simpsons: Bart vs. the Juggernauts",
-    "id": "ngb143",
+    "id": "ngb200",
     "igdbId": 2831,
     "gbId": 9730,
     "gbGuid": "3030-9730",
@@ -3422,8 +5104,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "The Sword of Hope II",
+    "id": "ngb201",
+    "igdbId": 10947,
+    "gbId": 8553,
+    "gbGuid": "3030-8553",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tiny Toon Adventures 2: Montana's Movie Madness",
-    "id": "ngb144",
+    "id": "ngb202",
     "igdbId": 8048,
     "gbId": 7456,
     "gbGuid": "3030-7456",
@@ -3447,7 +5156,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Babs' Big Break",
-    "id": "ngb145",
+    "id": "ngb203",
     "igdbId": 8046,
     "gbId": 5782,
     "gbGuid": "3030-5782",
@@ -3471,7 +5180,7 @@
   },
   {
     "name": "Top Gun: Guts and Glory",
-    "id": "ngb146",
+    "id": "ngb204",
     "igdbId": 22914,
     "gbId": 7182,
     "gbGuid": "3030-7182",
@@ -3494,8 +5203,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Top Rank Tennis",
+    "id": "ngb205",
+    "igdbId": 94186,
+    "gbId": 37744,
+    "gbGuid": "3030-37744",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Torpedo Range",
+    "id": "ngb206",
+    "igdbId": 49083,
+    "gbId": 38652,
+    "gbGuid": "3030-38652",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tottemo! Luckyman",
-    "id": "ngb147",
+    "id": "ngb207",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3518,7 +5281,7 @@
   },
   {
     "name": "Track Meet",
-    "id": "ngb148",
+    "id": "ngb208",
     "igdbId": 49059,
     "gbId": 40811,
     "gbGuid": "3030-40811",
@@ -3542,7 +5305,7 @@
   },
   {
     "name": "Turn and Burn: The F-14 Dogfight Simulator",
-    "id": "ngb149",
+    "id": "ngb209",
     "igdbId": 49058,
     "gbId": 16753,
     "gbGuid": "3030-16753",
@@ -3566,7 +5329,7 @@
   },
   {
     "name": "Turok: Battle of the Bionosaurs",
-    "id": "ngb150",
+    "id": "ngb210",
     "igdbId": 1325,
     "gbId": 7257,
     "gbGuid": "3030-7257",
@@ -3589,14 +5352,69 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ultima: Runes of Virtue",
+    "id": "ngb211",
+    "igdbId": 48920,
+    "gbId": 18192,
+    "gbGuid": "3030-18192",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ultima: Runes of Virtue II",
+    "id": "ngb212",
+    "igdbId": 213767,
+    "gbId": 12525,
+    "gbGuid": "3030-12525",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ultra Golf",
-    "id": "ngb151",
+    "id": "ngb213",
     "igdbId": 49057,
     "gbId": 34382,
     "gbGuid": "3030-34382",
     "tgdbId": 21800,
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "GameBoy cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3609,12 +5427,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Undercover Cops",
-    "id": "ngb152",
+    "id": "ngb214",
     "igdbId": 71941,
     "gbId": 5540,
     "gbGuid": "3030-5540",
@@ -3637,8 +5468,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Vegas Stakes",
+    "id": "ngb215",
+    "igdbId": 85469,
+    "gbId": 9160,
+    "gbGuid": "3030-9160",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "WCW The Main Event",
-    "id": "ngb153",
+    "id": "ngb216",
     "igdbId": 48918,
     "gbId": 42338,
     "gbGuid": "3030-42338",
@@ -3662,7 +5520,7 @@
   },
   {
     "name": "WWF Superstars",
-    "id": "ngb154",
+    "id": "ngb217",
     "igdbId": 39424,
     "gbId": 30804,
     "gbGuid": "3030-30804",
@@ -3686,7 +5544,7 @@
   },
   {
     "name": "WWF Superstars 2",
-    "id": "ngb155",
+    "id": "ngb218",
     "igdbId": 49054,
     "gbId": 30803,
     "gbGuid": "3030-30803",
@@ -3710,7 +5568,7 @@
   },
   {
     "name": "Wario Blast: Featuring Bomberman!",
-    "id": "ngb156",
+    "id": "ngb219",
     "igdbId": 1713,
     "gbId": 15003,
     "gbGuid": "3030-15003",
@@ -3733,14 +5591,69 @@
     "misprintsErrors": []
   },
   {
+    "name": "Wario Land II",
+    "id": "ngb220",
+    "igdbId": 1697,
+    "gbId": 13721,
+    "gbGuid": "3030-13721",
+    "details": [
+      "GameBoy cartridge has save battery (CR2025)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR2025)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wario Land: Super Mario Land 3",
+    "id": "ngb221",
+    "igdbId": 1072,
+    "gbId": 19225,
+    "gbGuid": "3030-19225",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Wave Race",
-    "id": "ngb157",
+    "id": "ngb222",
     "igdbId": 48915,
     "gbId": 11105,
     "gbGuid": "3030-11105",
     "tgdbId": 17672,
     "details": [
-      "Nintendo Game Boy exclusive"
+      "Nintendo Game Boy exclusive",
+      "GameBoy cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3753,7 +5666,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/gameboy/waverace.jpg",
@@ -3764,7 +5690,7 @@
   },
   {
     "name": "Who Framed Roger Rabbit",
-    "id": "ngb158",
+    "id": "ngb223",
     "igdbId": 75692,
     "gbId": 4274,
     "gbGuid": "3030-4274",
@@ -3787,8 +5713,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Wizardry Gaiden I: Suffering of the Queen",
+    "id": "ngb224",
+    "igdbId": 49091,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wizardry Gaiden II: Curse of the Ancient Emperor",
+    "id": "ngb225",
+    "igdbId": 49092,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "World Cup USA '94",
+    "id": "ngb226",
+    "igdbId": 5464,
+    "gbId": 5498,
+    "gbGuid": "3030-5498",
+    "details": [
+      "GameBoy cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy",
+          "id": "ccl8",
+          "igdbId": 33,
+          "gbId": 3,
+          "gbGuid": "3045-3",
+          "tgdbId": 4
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "X",
-    "id": "ngb159",
+    "id": "ngb227",
     "igdbId": null,
     "gbId": 23931,
     "gbGuid": "3030-23931",
@@ -3812,7 +5819,7 @@
   },
   {
     "name": "Yakuman",
-    "id": "ngb160",
+    "id": "ngb228",
     "igdbId": 67330,
     "gbId": 29144,
     "gbGuid": "3030-29144",
@@ -3835,7 +5842,7 @@
   },
   {
     "name": "Yogi Bear's Goldrush",
-    "id": "ngb161",
+    "id": "ngb229",
     "igdbId": 49053,
     "gbId": 28647,
     "gbGuid": "3030-28647",

@@ -5,8 +5,8 @@ const basePath = '../../textFilesToBeConverted';
 const finalPath = '../../finalOutput/consoleLists';
 
 /** change out variables in this section each time this is run */
-const newFile = require(path.join(basePath, 'special/microsoftXboxOnlineGames.json'));
-const masterFile = require(path.join(finalPath, 'MicrosoftXbox.json'));
+const newFile = require(path.join(basePath, 'special/gameboyColorGamesWithSaveBattery.json'));
+const masterFile = require(path.join(finalPath, 'NintendoGameBoyColor.json'));
 /** end variables */
 
 (function() {
@@ -26,14 +26,20 @@ const masterFile = require(path.join(finalPath, 'MicrosoftXbox.json'));
         : masterMatch
       : null; // just being safe; if I've incorrectly got more than 1 result then this will still work
     if (matched && item.hasOwnProperty('tgdbId')) {
-      return { ...matched, details: item.details, id: item.id, tgdbId: matched.tgdbId || null };
+      return {
+        ...matched,
+        details: item.details,
+        id: item.id,
+        tgdbId: matched.tgdbId || null,
+        category: item.category
+      };
     } else if (matched) {
-      return { ...matched, details: item.details, id: item.id };
+      return { ...matched, details: item.details, id: item.id, category: item.category };
     }
     return item;
   });
 
   // just checking to make sure filled matches the same length
   console.log(`filled results legnth: ${filled.length} / newFile length: ${newFile.length}`);
-  fileUtil.writeFile(path.join(basePath, 'special/MXBOXTEST.json'), filled);
+  fileUtil.writeFile(path.join(basePath, 'special/gameboyColorGamesWithSaveBattery2.json'), filled);
 })();

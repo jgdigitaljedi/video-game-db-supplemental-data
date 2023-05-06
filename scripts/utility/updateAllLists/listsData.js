@@ -178,7 +178,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/gbMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'special/gameBoyCartsWithBuiltInDevices.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'special/gameBoyCartsWithBuiltInDevices.json')),
+      require(path.resolve(smallFiles, 'special/gameboyGamesWithSaveBattery.json'))
+    ],
     output: path.resolve(consoleLists, 'NintendoGameBoy.json')
   },
   {
@@ -194,7 +197,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/gbcMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'special/gbcCartsWithBuiltInDevices.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'special/gbcCartsWithBuiltInDevices.json')),
+      require(path.resolve(smallFiles, 'special/gameboyColorGamesWithSaveBattery.json'))
+    ],
     output: path.resolve(consoleLists, 'NintendoGameBoyColor.json')
   },
   {
@@ -213,7 +219,8 @@ module.exports.listData = [
     special: [
       require(path.resolve(smallFiles, 'greatestHits/gbaPlayersChoice.json')),
       require(path.resolve(smallFiles, 'special/gbaCartsWithBuiltInDevices.json')),
-      require(path.resolve(smallFiles, 'special/nintendoGbaTateModeGames.json'))
+      require(path.resolve(smallFiles, 'special/nintendoGbaTateModeGames.json')),
+      require(path.resolve(smallFiles, 'special/gbaGamesWithSaveBattery.json'))
     ],
     output: path.resolve(consoleLists, 'NintendoGameBoyAdvance.json')
   },
@@ -289,7 +296,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'special/segaGenesis6ButtonProblems.json')),
       require(path.resolve(smallFiles, 'special/segaGenesis6ButtonMode.json')),
       require(path.resolve(smallFiles, 'special/segaGenesis6ButtonHidden.json')),
-      require(path.resolve(smallFiles, 'special/genesisGamesWithSaveBattery.json'))
+      require(path.resolve(smallFiles, 'special/genesisGamesWithSaveBattery.json')),
+      require(path.resolve(smallFiles, 'special/genesisSegaChannelGamesOnlyInUs.json'))
     ],
     output: path.resolve(consoleLists, 'SegaGenesis.json')
   },
@@ -385,7 +393,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/gameGearMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/segaGameGearGamesWithSaveBattery.json'))],
     output: path.resolve(consoleLists, 'SegaGameGear.json')
   },
   {
@@ -488,7 +496,8 @@ module.exports.listData = [
     )),
     special: [
       require(path.resolve(smallFiles, 'greatestHits/sonyPlayStationPortableGreatestHits.json')),
-      require(path.resolve(smallFiles, 'special/sonyPspTateModeGames.json'))
+      require(path.resolve(smallFiles, 'special/sonyPspTateModeGames.json')),
+      require(path.resolve(smallFiles, 'special/pspGamesIncompatibleWithPsTv.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlayStationPortable.json')
   },
@@ -785,7 +794,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/vitaMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'special/sonyPsVitaTateModeGames.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'special/sonyPsVitaTateModeGames.json')),
+      require(path.resolve(smallFiles, 'special/psVitaGamesIncompatibleWithPsTv.json'))
+    ],
     output: path.resolve(consoleLists, 'SonyPlaystationVita.json')
   },
   {
@@ -883,7 +895,10 @@ module.exports.listData = [
     )),
     exclusives: null,
     misprintsAndErrors: null,
-    special: [require(path.resolve(smallFiles, 'special/wonderswanColorTateModeGames.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'special/wonderswanColorTateModeGames.json')),
+      require(path.resolve(smallFiles, 'special/wonderswanColorGamesWithSaveBattery.json'))
+    ],
     output: path.resolve(consoleLists, 'BandaiWonderSwanColor.json')
   },
   {
@@ -893,7 +908,10 @@ module.exports.listData = [
     launchTitles: require(path.resolve(smallFiles, 'launchTitles/wonderswanLaunchTitles.json')),
     exclusives: null,
     misprintsAndErrors: null,
-    special: [require(path.resolve(smallFiles, 'special/wonderswanTateModeGames.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'special/wonderswanTateModeGames.json')),
+      require(path.resolve(smallFiles, 'special/wonderswanGamesWithSaveBattery.json'))
+    ],
     output: path.resolve(consoleLists, 'BandaiWonderSwan.json')
   },
   {

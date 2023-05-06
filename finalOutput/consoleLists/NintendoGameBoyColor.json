@@ -33,13 +33,26 @@
     "gbId": 5772,
     "gbGuid": "3030-5772",
     "details": [
-      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+      "GameBoy Color cartridge has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
     "special": [
       {
         "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery",
         "forPlatform": {
           "name": "Nintendo Game Boy Color",
           "id": "ccl9",
@@ -102,8 +115,62 @@
     "misprintsErrors": []
   },
   {
-    "name": "Animorphs",
+    "name": "All Star Tennis 2000",
     "id": "ngbc4",
+    "igdbId": 49880,
+    "gbId": 27634,
+    "gbGuid": "3030-27634",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alone in the Dark: The New Nightmare",
+    "id": "ngbc5",
+    "igdbId": 201090,
+    "gbId": 13817,
+    "gbGuid": "3030-13817",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616/2032)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616/2032)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Animorphs",
+    "id": "ngbc6",
     "igdbId": 70497,
     "gbId": 18970,
     "gbGuid": "3030-18970",
@@ -127,7 +194,7 @@
   },
   {
     "name": "Antz",
-    "id": "ngbc5",
+    "id": "ngbc7",
     "igdbId": 94622,
     "gbId": 17388,
     "gbGuid": "3030-17388",
@@ -151,7 +218,7 @@
   },
   {
     "name": "Antz Racing",
-    "id": "ngbc6",
+    "id": "ngbc8",
     "igdbId": 71725,
     "gbId": 4481,
     "gbGuid": "3030-4481",
@@ -174,14 +241,69 @@
     "misprintsErrors": []
   },
   {
+    "name": "Arle no Boken Maho no Jewel",
+    "id": "ngbc9",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Armada F/X Racers",
+    "id": "ngbc10",
+    "igdbId": 65681,
+    "gbId": 36378,
+    "gbGuid": "3030-36378",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Austin Powers: Oh, Behave!",
-    "id": "ngbc7",
+    "id": "ngbc11",
     "igdbId": 49890,
     "gbId": 13730,
     "gbGuid": "3030-13730",
     "tgdbId": 21822,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -194,18 +316,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Austin Powers: Welcome to my Underground Lair!",
-    "id": "ngbc8",
+    "id": "ngbc12",
     "igdbId": 18385,
     "gbId": 2084,
     "gbGuid": "3030-2084",
     "tgdbId": 21821,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -218,12 +354,79 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Azure Dreams",
+    "id": "ngbc13",
+    "igdbId": 228476,
+    "gbId": 5846,
+    "gbGuid": "3030-5846",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Balloon Kid",
+    "id": "ngbc14",
+    "igdbId": 3682,
+    "gbId": 14092,
+    "gbGuid": "3030-14092",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Barbie: Magic Genie Adventure",
-    "id": "ngbc9",
+    "id": "ngbc15",
     "igdbId": 45167,
     "gbId": 35326,
     "gbGuid": "3030-35326",
@@ -247,7 +450,7 @@
   },
   {
     "name": "Barcode Taisen Bardigun",
-    "id": "ngbc10",
+    "id": "ngbc16",
     "igdbId": 92607,
     "gbId": 36468,
     "gbGuid": "3030-36468",
@@ -274,7 +477,7 @@
   },
   {
     "name": "Batman: Chaos in Gotham",
-    "id": "ngbc11",
+    "id": "ngbc17",
     "igdbId": 45201,
     "gbId": 14037,
     "gbGuid": "3030-14037",
@@ -297,8 +500,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Bionic Commando: Elite Forces",
+    "id": "ngbc18",
+    "igdbId": 44077,
+    "gbId": 12043,
+    "gbGuid": "3030-12043",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Blade",
-    "id": "ngbc12",
+    "id": "ngbc19",
     "igdbId": 122191,
     "gbId": 12785,
     "gbGuid": "3030-12785",
@@ -322,7 +552,7 @@
   },
   {
     "name": "Bomberman B-Daman Bakugaiden",
-    "id": "ngbc13",
+    "id": "ngbc20",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -345,7 +575,7 @@
   },
   {
     "name": "Bomberman B-Daman Bakugaiden V",
-    "id": "ngbc14",
+    "id": "ngbc21",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -368,7 +598,7 @@
   },
   {
     "name": "Bomberman Max",
-    "id": "ngbc15",
+    "id": "ngbc22",
     "igdbId": null,
     "gbId": 14198,
     "gbGuid": "3030-14198",
@@ -390,14 +620,69 @@
     "misprintsErrors": []
   },
   {
+    "name": "Bomberman Max: Blue Champion",
+    "id": "ngbc23",
+    "igdbId": 49839,
+    "gbId": 14198,
+    "gbGuid": "3030-14198",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bomberman Max: Red Challenger",
+    "id": "ngbc24",
+    "igdbId": 49838,
+    "gbId": 14198,
+    "gbGuid": "3030-14198",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Bomberman Quest",
-    "id": "ngbc16",
+    "id": "ngbc25",
     "igdbId": 49837,
     "gbId": 24675,
     "gbGuid": "3030-24675",
     "tgdbId": 8605,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -410,12 +695,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Buffy the Vampire Slayer",
-    "id": "ngbc17",
+    "id": "ngbc26",
     "igdbId": 5760,
     "gbId": 39038,
     "gbGuid": "3030-39038",
@@ -439,7 +737,7 @@
   },
   {
     "name": "Bugs Bunny & Lola Bunny: Operation Carrot Patch",
-    "id": "ngbc18",
+    "id": "ngbc27",
     "igdbId": 50553,
     "gbId": null,
     "gbGuid": null,
@@ -462,8 +760,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Burger Paradise International",
+    "id": "ngbc28",
+    "igdbId": 65642,
+    "gbId": 36555,
+    "gbGuid": "3030-36555",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Bust-A-Move Millennium",
-    "id": "ngbc19",
+    "id": "ngbc29",
     "igdbId": 49836,
     "gbId": 13468,
     "gbGuid": "3030-13468",
@@ -486,8 +811,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Caesars Palace II",
+    "id": "ngbc30",
+    "igdbId": 49910,
+    "gbId": 36443,
+    "gbGuid": "3030-36443",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cannon Fodder",
+    "id": "ngbc31",
+    "igdbId": 42335,
+    "gbId": 7758,
+    "gbGuid": "3030-7758",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Cardcaptor Sakura: Itsumo Sakura-chan to Issho!",
-    "id": "ngbc20",
+    "id": "ngbc32",
     "igdbId": 65641,
     "gbId": 36556,
     "gbGuid": "3030-36556",
@@ -513,8 +892,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Carl Lewis Athletics 2000",
+    "id": "ngbc33",
+    "igdbId": 66342,
+    "gbId": 32901,
+    "gbGuid": "3030-32901",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Carmageddon",
-    "id": "ngbc21",
+    "id": "ngbc34",
     "igdbId": 626,
     "gbId": 18394,
     "gbGuid": "3030-18394",
@@ -543,8 +949,89 @@
     ]
   },
   {
+    "name": "Casper",
+    "id": "ngbc35",
+    "igdbId": 215185,
+    "gbId": 14860,
+    "gbGuid": "3030-14860",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Catz",
+    "id": "ngbc36",
+    "igdbId": 16616,
+    "gbId": 38496,
+    "gbGuid": "3030-38496",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Cave Noire",
+    "id": "ngbc37",
+    "igdbId": 49076,
+    "gbId": 34594,
+    "gbGuid": "3030-34594",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Centipede",
-    "id": "ngbc22",
+    "id": "ngbc38",
     "igdbId": 2235,
     "gbId": 1157,
     "gbGuid": "3030-1157",
@@ -568,7 +1055,7 @@
   },
   {
     "name": "Chee-Chai Alien",
-    "id": "ngbc23",
+    "id": "ngbc39",
     "igdbId": 79920,
     "gbId": 36567,
     "gbGuid": "3030-36567",
@@ -604,8 +1091,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Chou Gals! Kotobuki Ran 2",
+    "id": "ngbc40",
+    "igdbId": 65634,
+    "gbId": 36578,
+    "gbGuid": "3030-36578",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Colin McRae Rally",
+    "id": "ngbc41",
+    "igdbId": 235015,
+    "gbId": 1794,
+    "gbGuid": "3030-1794",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Columns GB: Tezuka Osamu Characters",
+    "id": "ngbc42",
+    "igdbId": 72044,
+    "gbId": 7075,
+    "gbGuid": "3030-7075",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Commander Keen",
-    "id": "ngbc24",
+    "id": "ngbc43",
     "igdbId": 2447,
     "gbId": 21209,
     "gbGuid": "3030-21209",
@@ -629,13 +1197,14 @@
   },
   {
     "name": "Conker's Pocket Tales",
-    "id": "ngbc25",
+    "id": "ngbc44",
     "igdbId": 1424,
     "gbId": 19873,
     "gbGuid": "3030-19873",
     "tgdbId": 8608,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -648,12 +1217,52 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Crazy Bikes",
+    "id": "ngbc45",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Croc",
-    "id": "ngbc26",
+    "id": "ngbc46",
     "igdbId": 7901,
     "gbId": 9450,
     "gbGuid": "3030-9450",
@@ -676,8 +1285,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Crystalis",
+    "id": "ngbc47",
+    "igdbId": 3121,
+    "gbId": 2231,
+    "gbGuid": "3030-2231",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Daikaijuu Monogatari: The Miracle of the Zone II",
+    "id": "ngbc48",
+    "igdbId": 65605,
+    "gbId": 36651,
+    "gbGuid": "3030-36651",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Daikatana",
-    "id": "ngbc27",
+    "id": "ngbc49",
     "igdbId": 8201,
     "gbId": 20806,
     "gbGuid": "3030-20806",
@@ -700,8 +1363,143 @@
     "misprintsErrors": []
   },
   {
+    "name": "Daikatana",
+    "id": "ngbc50",
+    "igdbId": 80764,
+    "gbId": 20806,
+    "gbGuid": "3030-20806",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "David Beckham Soccer",
+    "id": "ngbc51",
+    "igdbId": 6369,
+    "gbId": 16157,
+    "gbGuid": "3030-16157",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "David O'Leary's Total Soccer 2000",
+    "id": "ngbc52",
+    "igdbId": 49998,
+    "gbId": 18123,
+    "gbGuid": "3030-18123",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Deja Vu I & II: The Casebooks of Ace Harding",
+    "id": "ngbc53",
+    "igdbId": 49895,
+    "gbId": 35467,
+    "gbGuid": "3030-35467",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Denki Blocks!",
+    "id": "ngbc54",
+    "igdbId": 49155,
+    "gbId": 11159,
+    "gbGuid": "3030-11159",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dexter's Laboratory: Robot Rampage",
-    "id": "ngbc28",
+    "id": "ngbc55",
     "igdbId": 2815,
     "gbId": 10470,
     "gbGuid": "3030-10470",
@@ -725,7 +1523,7 @@
   },
   {
     "name": "Dinosaur'us",
-    "id": "ngbc29",
+    "id": "ngbc56",
     "igdbId": 65584,
     "gbId": 36725,
     "gbGuid": "3030-36725",
@@ -749,13 +1547,14 @@
   },
   {
     "name": "Disney's Beauty and the Beast: A Board Game Adventure",
-    "id": "ngbc30",
+    "id": "ngbc57",
     "igdbId": 65583,
     "gbId": 36727,
     "gbGuid": "3030-36727",
     "tgdbId": 21891,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -768,12 +1567,52 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Disney's Dinosaur",
+    "id": "ngbc58",
+    "igdbId": 46446,
+    "gbId": 13736,
+    "gbGuid": "3030-13736",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Disney's Doug: Doug's Big Game",
-    "id": "ngbc31",
+    "id": "ngbc59",
     "igdbId": 49942,
     "gbId": 36730,
     "gbGuid": "3030-36730",
@@ -797,13 +1636,14 @@
   },
   {
     "name": "Disney's The Emperor's New Groove",
-    "id": "ngbc32",
+    "id": "ngbc60",
     "igdbId": 74426,
     "gbId": 22282,
     "gbGuid": "3030-22282",
     "tgdbId": 20733,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -816,19 +1656,33 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Disney's The Little Mermaid II: Pinball Frenzy",
-    "id": "ngbc33",
+    "id": "ngbc61",
     "igdbId": 49919,
     "gbId": 6723,
     "gbGuid": "3030-6723",
     "tgdbId": 22016,
     "details": [
       "Nintendo Game Boy Color exclusive",
-      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -853,13 +1707,25 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Diva Starz: Mall Mania",
-    "id": "ngbc34",
+    "id": "ngbc62",
     "igdbId": 49893,
     "gbId": 7805,
     "gbGuid": "3030-7805",
@@ -882,8 +1748,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Dogz",
+    "id": "ngbc63",
+    "igdbId": 131393,
+    "gbId": 66984,
+    "gbGuid": "3030-66984",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dokapon?! Millennium Quest",
-    "id": "ngbc35",
+    "id": "ngbc64",
     "igdbId": 65546,
     "gbId": null,
     "gbGuid": null,
@@ -905,14 +1798,69 @@
     "misprintsErrors": []
   },
   {
+    "name": "Donkey Kong Country",
+    "id": "ngbc65",
+    "igdbId": 152752,
+    "gbId": 15738,
+    "gbGuid": "3030-15738",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Donkey Kong Land III",
+    "id": "ngbc66",
+    "igdbId": 1095,
+    "gbId": 12443,
+    "gbGuid": "3030-12443",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Dragon Ball Z: Legendary Super Warriors",
-    "id": "ngbc36",
+    "id": "ngbc67",
     "igdbId": 49856,
     "gbId": 23426,
     "gbGuid": "3030-23426",
     "tgdbId": 19198,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -925,17 +1873,220 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon Tales: Dragon Wings",
+    "id": "ngbc68",
+    "igdbId": 49939,
+    "gbId": 36318,
+    "gbGuid": "3030-36318",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon Warrior I & II",
+    "id": "ngbc69",
+    "igdbId": 205230,
+    "gbId": 1164,
+    "gbGuid": "3030-1164",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon Warrior III",
+    "id": "ngbc70",
+    "igdbId": 205600,
+    "gbId": 16848,
+    "gbGuid": "3030-16848",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon Warrior Monsters",
+    "id": "ngbc71",
+    "igdbId": 24818,
+    "gbId": 13470,
+    "gbGuid": "3030-13470",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon Warrior Monsters 2: Cobi's Journey",
+    "id": "ngbc72",
+    "igdbId": 24819,
+    "gbId": 8048,
+    "gbGuid": "3030-8048",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dragon Warrior Monsters 2: Tara's Adventure",
+    "id": "ngbc73",
+    "igdbId": 24820,
+    "gbId": 8048,
+    "gbGuid": "3030-8048",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Duke Nukem",
+    "id": "ngbc74",
+    "igdbId": 52163,
+    "gbId": 24322,
+    "gbGuid": "3030-24322",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "E.T. The Extra-Terrestrial: Digital Companion",
-    "id": "ngbc37",
+    "id": "ngbc75",
     "igdbId": 49938,
     "gbId": 21919,
     "gbGuid": "3030-21919",
     "details": [
-      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+      "GameBoy Color cartridge has save battery (CR2025)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -951,13 +2102,133 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery (CR2025)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "E.T.: The Extra-Terrestrial - Escape from Planet Earth",
+    "id": "ngbc76",
+    "igdbId": 49937,
+    "gbId": 36929,
+    "gbGuid": "3030-36929",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "E.T.: The Extra-Terrestrial and the Cosmic Garden",
+    "id": "ngbc77",
+    "igdbId": 49936,
+    "gbId": 36921,
+    "gbGuid": "3030-36921",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "ESPN International Track & Field",
+    "id": "ngbc78",
+    "igdbId": 71419,
+    "gbId": 3602,
+    "gbGuid": "3030-3602",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "ESPN National Hockey Night",
+    "id": "ngbc79",
+    "igdbId": 80419,
+    "gbId": 10327,
+    "gbGuid": "3030-10327",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Elevator Action EX",
-    "id": "ngbc38",
+    "id": "ngbc80",
     "igdbId": 50017,
     "gbId": 15009,
     "gbGuid": "3030-15009",
@@ -980,8 +2251,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "F-1 World Grand Prix",
+    "id": "ngbc81",
+    "igdbId": 3487,
+    "gbId": 6455,
+    "gbGuid": "3030-6455",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "F-1 World Grand Prix II",
+    "id": "ngbc82",
+    "igdbId": 3488,
+    "gbId": 13102,
+    "gbGuid": "3030-13102",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "F1 Racing Championship",
+    "id": "ngbc83",
+    "igdbId": 3495,
+    "gbId": 14287,
+    "gbGuid": "3030-14287",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ferret Monogatari: Watashi no Okini Iri",
-    "id": "ngbc39",
+    "id": "ngbc84",
     "igdbId": 65512,
     "gbId": 36968,
     "gbGuid": "3030-36968",
@@ -1003,8 +2355,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Formula One 2000",
+    "id": "ngbc85",
+    "igdbId": 204232,
+    "gbId": 20248,
+    "gbGuid": "3030-20248",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Fort Boyard",
-    "id": "ngbc40",
+    "id": "ngbc86",
     "igdbId": 50030,
     "gbId": 8628,
     "gbGuid": "3030-8628",
@@ -1027,14 +2406,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "Frogger 2",
+    "id": "ngbc87",
+    "igdbId": 111559,
+    "gbId": 9752,
+    "gbGuid": "3030-9752",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Game & Watch Gallery 2",
-    "id": "ngbc41",
+    "id": "ngbc88",
     "igdbId": 74423,
     "gbId": 9957,
     "gbGuid": "3030-9957",
     "tgdbId": 8618,
     "details": [
-      "Nintendo Game Boy Color launch title"
+      "Nintendo Game Boy Color launch title",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -1047,12 +2454,52 @@
         "tgdbId": 41
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Game & Watch Gallery 3",
+    "id": "ngbc89",
+    "igdbId": 77907,
+    "gbId": 17416,
+    "gbGuid": "3030-17416",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Game Boy Wars",
-    "id": "ngbc42",
+    "id": "ngbc90",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1075,8 +2522,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Game Boy Wars 2",
+    "id": "ngbc91",
+    "igdbId": 1689,
+    "gbId": 37661,
+    "gbGuid": "3030-37661",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ganbare Goemon: Hoshizorashi Dynamites Arawaru!!",
-    "id": "ngbc43",
+    "id": "ngbc92",
     "igdbId": 50053,
     "gbId": 17712,
     "gbGuid": "3030-17712",
@@ -1100,7 +2574,7 @@
   },
   {
     "name": "Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou!",
-    "id": "ngbc44",
+    "id": "ngbc93",
     "igdbId": null,
     "gbId": 9454,
     "gbGuid": "3030-9454",
@@ -1123,7 +2597,7 @@
   },
   {
     "name": "Ganbare Goemon: Tengu-to no Gyuakushu!",
-    "id": "ngbc45",
+    "id": "ngbc94",
     "igdbId": null,
     "gbId": 5971,
     "gbGuid": "3030-5971",
@@ -1146,7 +2620,7 @@
   },
   {
     "name": "Get Mushi Club: Minna no Konchuu Daizukan",
-    "id": "ngbc46",
+    "id": "ngbc95",
     "igdbId": 153816,
     "gbId": null,
     "gbGuid": null,
@@ -1172,14 +2646,97 @@
     "misprintsErrors": []
   },
   {
+    "name": "Go! Go! Tank",
+    "id": "ngbc96",
+    "igdbId": 48997,
+    "gbId": 34659,
+    "gbGuid": "3030-34659",
+    "tgdbId": 21644,
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Goraku Ou Tango!",
+    "id": "ngbc97",
+    "igdbId": 37506,
+    "gbId": 38200,
+    "gbGuid": "3030-38200",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Grand Theft Auto",
+    "id": "ngbc98",
+    "igdbId": 44870,
+    "gbId": 13567,
+    "gbGuid": "3030-13567",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Grandia: Parallel Trippers",
-    "id": "ngbc47",
+    "id": "ngbc99",
     "igdbId": 21659,
     "gbId": 8096,
     "gbGuid": "3030-8096",
     "tgdbId": 19043,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -1192,18 +2749,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Hamtaro: Ham-Hams Unite!",
-    "id": "ngbc48",
+    "id": "ngbc100",
     "igdbId": 22228,
     "gbId": 5033,
     "gbGuid": "3030-5033",
     "tgdbId": 21994,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -1216,12 +2787,214 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Harley Davidson: Race Across America",
+    "id": "ngbc101",
+    "igdbId": 49926,
+    "gbId": 11393,
+    "gbGuid": "3030-11393",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Harry Potter and the Chamber of Secrets",
+    "id": "ngbc102",
+    "igdbId": 117322,
+    "gbId": 8370,
+    "gbGuid": "3030-8370",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "id": "ngbc103",
+    "igdbId": 118554,
+    "gbId": 577,
+    "gbGuid": "3030-577",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Harvest Moon 2 GBC",
+    "id": "ngbc104",
+    "igdbId": 3379,
+    "gbId": 23721,
+    "gbGuid": "3030-23721",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Harvest Moon 3 GBC",
+    "id": "ngbc105",
+    "igdbId": 3381,
+    "gbId": 14184,
+    "gbGuid": "3030-14184",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Harvest Moon GBC",
+    "id": "ngbc106",
+    "igdbId": 220737,
+    "gbId": 3640,
+    "gbGuid": "3030-3640",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR2025)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR2025)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Hercules: The Legendary Journeys",
+    "id": "ngbc107",
+    "igdbId": 186028,
+    "gbId": 10682,
+    "gbGuid": "3030-10682",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Heroes of Might and Magic",
-    "id": "ngbc49",
+    "id": "ngbc108",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1244,15 +3017,85 @@
     "misprintsErrors": []
   },
   {
+    "name": "Heroes of Might and Magic",
+    "id": "ngbc109",
+    "igdbId": 143578,
+    "gbId": 14391,
+    "gbGuid": "3030-14391",
+    "tgdbId": 17464,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Heroes of Might and Magic II: The Succession Wars",
+    "id": "ngbc110",
+    "igdbId": 209871,
+    "gbId": 12466,
+    "gbGuid": "3030-12466",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Hexcite: The Shapes of Victory (PAL)",
-    "id": "ngbc50",
+    "id": "ngbc111",
     "igdbId": 49925,
     "gbId": 871,
     "gbGuid": "3030-871",
-    "details": [],
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/gameboy/hexcite.jpg",
@@ -1263,7 +3106,7 @@
   },
   {
     "name": "Hole in One Golf",
-    "id": "ngbc51",
+    "id": "ngbc112",
     "igdbId": 49924,
     "gbId": null,
     "gbGuid": null,
@@ -1290,7 +3133,7 @@
   },
   {
     "name": "Hoyle Card Games",
-    "id": "ngbc52",
+    "id": "ngbc113",
     "igdbId": 77395,
     "gbId": 541,
     "gbGuid": "3030-541",
@@ -1313,8 +3156,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Hoyle Casino",
+    "id": "ngbc114",
+    "igdbId": 210049,
+    "gbId": 3811,
+    "gbGuid": "3030-3811",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Hype: The Time Quest",
-    "id": "ngbc53",
+    "id": "ngbc115",
     "igdbId": 43559,
     "gbId": 29124,
     "gbGuid": "3030-29124",
@@ -1338,7 +3208,7 @@
   },
   {
     "name": "Inspector Gadget: Operation Madkactus",
-    "id": "ngbc54",
+    "id": "ngbc116",
     "igdbId": 4862,
     "gbId": 36316,
     "gbGuid": "3030-36316",
@@ -1361,8 +3231,116 @@
     "misprintsErrors": []
   },
   {
+    "name": "International Superstar Soccer 2000",
+    "id": "ngbc117",
+    "igdbId": 220857,
+    "gbId": 7818,
+    "gbGuid": "3030-7818",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "International Superstar Soccer 99",
+    "id": "ngbc118",
+    "igdbId": 49886,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "International Track & Field",
+    "id": "ngbc119",
+    "igdbId": 20406,
+    "gbId": 22209,
+    "gbGuid": "3030-22209",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "International Track & Field: Summer Games",
+    "id": "ngbc120",
+    "igdbId": 131796,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Invincible King Tri-Zenon",
-    "id": "ngbc55",
+    "id": "ngbc121",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1384,8 +3362,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Jim Henson's The Muppets",
+    "id": "ngbc122",
+    "igdbId": 49958,
+    "gbId": 37234,
+    "gbGuid": "3030-37234",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "K.O. Pro Boxing",
+    "id": "ngbc123",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Kaijin Zona",
+    "id": "ngbc124",
+    "igdbId": 59340,
+    "gbId": 51900,
+    "gbGuid": "3030-51900",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kandume Monsters",
-    "id": "ngbc56",
+    "id": "ngbc125",
     "igdbId": 228571,
     "gbId": null,
     "gbGuid": null,
@@ -1412,7 +3471,7 @@
   },
   {
     "name": "Keitai Denjuu Telefang",
-    "id": "ngbc57",
+    "id": "ngbc126",
     "igdbId": null,
     "gbId": 40423,
     "gbGuid": "3030-40423",
@@ -1435,7 +3494,7 @@
   },
   {
     "name": "Keitai Denjuu Telefang: Power",
-    "id": "ngbc58",
+    "id": "ngbc127",
     "igdbId": 27493,
     "gbId": 40423,
     "gbGuid": "3030-40423",
@@ -1461,8 +3520,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ken Griffey Jr.'s Slugfest",
+    "id": "ngbc128",
+    "igdbId": 3531,
+    "gbId": 11803,
+    "gbGuid": "3030-11803",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Kettō Transformers Beast Wars: Beast Senshi Saikyō Ketteisen",
-    "id": "ngbc59",
+    "id": "ngbc129",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1485,14 +3571,15 @@
   },
   {
     "name": "Kirby Tilt 'n' Tumble",
-    "id": "ngbc60",
+    "id": "ngbc130",
     "igdbId": 3729,
     "gbId": 2297,
     "gbGuid": "3030-2297",
     "tgdbId": 8623,
     "details": [
       "Nintendo Game Boy Color exclusive",
-      "Game Boy Color cartridge has built in tilt sensor that is used in the game"
+      "Game Boy Color cartridge has built in tilt sensor that is used in the game",
+      "GameBoy Color cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -1517,13 +3604,187 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Konami GB Collection Vol. 2",
+    "id": "ngbc131",
+    "igdbId": 50045,
+    "gbId": 41150,
+    "gbGuid": "3030-41150",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Konami GB Collection Vol. 3",
+    "id": "ngbc132",
+    "igdbId": 50044,
+    "gbId": 41151,
+    "gbGuid": "3030-41151",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "LEGO Alpha Team",
+    "id": "ngbc133",
+    "igdbId": 80638,
+    "gbId": 17575,
+    "gbGuid": "3030-17575",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "LEGO Island 2: The Brickster's Revenge",
+    "id": "ngbc134",
+    "igdbId": 229925,
+    "gbId": 15773,
+    "gbGuid": "3030-15773",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "LEGO Racers",
+    "id": "ngbc135",
+    "igdbId": 422,
+    "gbId": 11174,
+    "gbGuid": "3030-11174",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "LEGO Stunt Rally",
+    "id": "ngbc136",
+    "igdbId": 4112,
+    "gbId": 7480,
+    "gbGuid": "3030-7480",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Las Vegas Cool Hand",
-    "id": "ngbc61",
+    "id": "ngbc137",
     "igdbId": 50011,
     "gbId": 36609,
     "gbGuid": "3030-36609",
@@ -1547,12 +3808,13 @@
   },
   {
     "name": "Legend of the River King 2",
-    "id": "ngbc62",
+    "id": "ngbc138",
     "igdbId": 20516,
     "gbId": 18654,
     "gbGuid": "3030-18654",
     "details": [
-      "Game Boy Color cartridge has built in hardware for rumble that is used in game (Japanese version)"
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game (Japanese version)",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1568,19 +3830,86 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Legend of the River King GBC",
+    "id": "ngbc139",
+    "igdbId": 20515,
+    "gbId": 3805,
+    "gbGuid": "3030-3805",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lemmings & Oh No! More Lemmings",
+    "id": "ngbc140",
+    "igdbId": 242242,
+    "gbId": 1446,
+    "gbGuid": "3030-1446",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Lil' Monster",
-    "id": "ngbc63",
+    "id": "ngbc141",
     "igdbId": 49920,
     "gbId": 49363,
     "gbGuid": "3030-49363",
     "tgdbId": 22015,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -1593,12 +3922,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Little Nicky",
-    "id": "ngbc64",
+    "id": "ngbc142",
     "igdbId": 50010,
     "gbId": 22865,
     "gbGuid": "3030-22865",
@@ -1621,8 +3963,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Lode Runner: Domdom Dan no Yabou!",
+    "id": "ngbc143",
+    "igdbId": null,
+    "gbId": 69653,
+    "gbGuid": "3030-69653",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Looney Tunes Collector: Alert!",
-    "id": "ngbc65",
+    "id": "ngbc144",
     "igdbId": 49882,
     "gbId": 30690,
     "gbGuid": "3030-30690",
@@ -1645,8 +4014,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Looney Tunes Collector: Martian Revenge!",
+    "id": "ngbc145",
+    "igdbId": 50050,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Looney Tunes Racing",
+    "id": "ngbc146",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lufia: Beginning of a Legend",
+    "id": "ngbc147",
+    "igdbId": 67818,
+    "gbId": 27628,
+    "gbGuid": "3030-27628",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Lufia: The Legend Returns",
-    "id": "ngbc66",
+    "id": "ngbc148",
     "igdbId": 1179,
     "gbId": 17473,
     "gbGuid": "3030-17473",
@@ -1669,8 +4119,170 @@
     "misprintsErrors": []
   },
   {
+    "name": "MTV Sports: Skateboarding Featuring Andy Macdonald",
+    "id": "ngbc149",
+    "igdbId": 49959,
+    "gbId": 14487,
+    "gbGuid": "3030-14487",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Magi Nation",
+    "id": "ngbc150",
+    "igdbId": 49708,
+    "gbId": 22912,
+    "gbGuid": "3030-22912",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Magical Tetris Challenge",
+    "id": "ngbc151",
+    "igdbId": 205583,
+    "gbId": 10515,
+    "gbGuid": "3030-10515",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Marble Madness",
+    "id": "ngbc152",
+    "igdbId": 2246,
+    "gbId": 9566,
+    "gbGuid": "3030-9566",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mario Golf",
+    "id": "ngbc153",
+    "igdbId": 135389,
+    "gbId": 29972,
+    "gbGuid": "3030-29972",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mario Tennis",
+    "id": "ngbc154",
+    "igdbId": 128874,
+    "gbId": 29973,
+    "gbGuid": "3030-29973",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Marvin Strikes Back!",
-    "id": "ngbc67",
+    "id": "ngbc155",
     "igdbId": 49854,
     "gbId": null,
     "gbGuid": null,
@@ -1694,14 +4306,15 @@
   },
   {
     "name": "Mary-Kate and Ashley: Pocket Planner",
-    "id": "ngbc68",
+    "id": "ngbc156",
     "igdbId": 5918,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 22025,
     "details": [
       "Nintendo Game Boy Color exclusive",
-      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+      "GameBoy Color cartridge has save battery (CR2025)"
     ],
     "isExclusive": [
       {
@@ -1726,13 +4339,79 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery (CR2025)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mega Man Xtreme",
+    "id": "ngbc157",
+    "igdbId": 1749,
+    "gbId": 1405,
+    "gbGuid": "3030-1405",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mega Man Xtreme 2",
+    "id": "ngbc158",
+    "igdbId": 1750,
+    "gbId": 16490,
+    "gbGuid": "3030-16490",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Men in Black 2: The Series",
-    "id": "ngbc69",
+    "id": "ngbc159",
     "igdbId": 49912,
     "gbId": 36935,
     "gbGuid": "3030-36935",
@@ -1756,7 +4435,7 @@
   },
   {
     "name": "Metal Gear Solid",
-    "id": "ngbc70",
+    "id": "ngbc160",
     "igdbId": 77231,
     "gbId": 21227,
     "gbGuid": "3030-21227",
@@ -1779,14 +4458,43 @@
     "misprintsErrors": []
   },
   {
+    "name": "Metal Gear Solid",
+    "id": "ngbc161",
+    "igdbId": 5600,
+    "gbId": 21227,
+    "gbGuid": "3030-21227",
+    "tgdbId": 196,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Metal Walker",
-    "id": "ngbc71",
+    "id": "ngbc162",
     "igdbId": 49872,
     "gbId": 25437,
     "gbGuid": "3030-25437",
     "tgdbId": 8802,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -1799,19 +4507,47 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Mia Hamm Soccer Shootout",
-    "id": "ngbc72",
+    "id": "ngbc163",
     "igdbId": 98004,
     "gbId": 66833,
     "gbGuid": "3030-66833",
-    "details": [],
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/gameboy/miahammsoccer.jpg",
@@ -1822,13 +4558,14 @@
   },
   {
     "name": "Mickey's Racing Adventure",
-    "id": "ngbc73",
+    "id": "ngbc164",
     "igdbId": 8128,
     "gbId": 3125,
     "gbGuid": "3030-3125",
     "tgdbId": 17348,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -1841,12 +4578,79 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mickey's Speedway USA",
+    "id": "ngbc165",
+    "igdbId": 229851,
+    "gbId": 6368,
+    "gbGuid": "3030-6368",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Millennium Winter Sports",
+    "id": "ngbc166",
+    "igdbId": 49962,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Missile Command",
-    "id": "ngbc74",
+    "id": "ngbc167",
     "igdbId": 209503,
     "gbId": 4062,
     "gbGuid": "3030-4062",
@@ -1873,13 +4677,14 @@
   },
   {
     "name": "Mission Impossible",
-    "id": "ngbc75",
+    "id": "ngbc168",
     "igdbId": 118557,
     "gbId": 1622,
     "gbGuid": "3030-1622",
     "tgdbId": 45850,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -1892,12 +4697,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Monkey Puncher",
-    "id": "ngbc76",
+    "id": "ngbc169",
     "igdbId": 50026,
     "gbId": 24257,
     "gbGuid": "3030-24257",
@@ -1920,14 +4738,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "Monster Puncher",
+    "id": "ngbc170",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Monster Rancher Battle Card GB",
-    "id": "ngbc77",
+    "id": "ngbc171",
     "igdbId": 104241,
     "gbId": 19994,
     "gbGuid": "3030-19994",
     "tgdbId": 8635,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -1940,18 +4786,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Monster Rancher Explorer",
-    "id": "ngbc78",
+    "id": "ngbc172",
     "igdbId": 49860,
     "gbId": 4272,
     "gbGuid": "3030-4272",
     "tgdbId": 17469,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -1964,12 +4824,133 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Moorhen 3: The Chicken Chase!",
+    "id": "ngbc173",
+    "igdbId": 49438,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Moorhuhn 2: Die Jagd Geht Weiter",
+    "id": "ngbc174",
+    "igdbId": 83238,
+    "gbId": 64269,
+    "gbGuid": "3030-64269",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Motocross Maniacs 2",
+    "id": "ngbc175",
+    "igdbId": 49891,
+    "gbId": 26179,
+    "gbGuid": "3030-26179",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NASCAR 2000",
+    "id": "ngbc176",
+    "igdbId": 3548,
+    "gbId": 15920,
+    "gbGuid": "3030-15920",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "NASCAR Challenge",
-    "id": "ngbc79",
+    "id": "ngbc177",
     "igdbId": 49957,
     "gbId": 17366,
     "gbGuid": "3030-17366",
@@ -1995,8 +4976,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "NASCAR Heat",
+    "id": "ngbc178",
+    "igdbId": 49956,
+    "gbId": 17215,
+    "gbGuid": "3030-17215",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NBA 3 on 3 Featuring Kobe Bryant",
+    "id": "ngbc179",
+    "igdbId": 49904,
+    "gbId": 7233,
+    "gbGuid": "3030-7233",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NBA In the Zone 2000",
+    "id": "ngbc180",
+    "igdbId": 43718,
+    "gbId": 872,
+    "gbGuid": "3030-872",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "NBA Jam 2001",
-    "id": "ngbc80",
+    "id": "ngbc181",
     "igdbId": 49903,
     "gbId": null,
     "gbGuid": null,
@@ -2019,8 +5081,116 @@
     "misprintsErrors": []
   },
   {
+    "name": "NBA in the Zone",
+    "id": "ngbc182",
+    "igdbId": 20639,
+    "gbId": 21798,
+    "gbGuid": "3030-21798",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NHL Blades of Steel",
+    "id": "ngbc183",
+    "igdbId": 45125,
+    "gbId": 75007,
+    "gbGuid": "3030-75007",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NHL Blades of Steel 2000",
+    "id": "ngbc184",
+    "igdbId": 45124,
+    "gbId": 27617,
+    "gbGuid": "3030-27617",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "NSYNC: Get to the Show",
+    "id": "ngbc185",
+    "igdbId": 49955,
+    "gbId": 36340,
+    "gbGuid": "3030-36340",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Noddy and the Birthday Party",
-    "id": "ngbc81",
+    "id": "ngbc186",
     "igdbId": 50549,
     "gbId": 65431,
     "gbGuid": "3030-65431",
@@ -2044,7 +5214,7 @@
   },
   {
     "name": "Nushi Tsuri Adventure: Kite no Bouken",
-    "id": "ngbc82",
+    "id": "ngbc187",
     "igdbId": 50560,
     "gbId": null,
     "gbGuid": null,
@@ -2071,7 +5241,7 @@
   },
   {
     "name": "O'Leary Manager 2000",
-    "id": "ngbc83",
+    "id": "ngbc188",
     "igdbId": 50550,
     "gbId": 2035,
     "gbGuid": "3030-2035",
@@ -2095,14 +5265,15 @@
   },
   {
     "name": "Perfect Dark",
-    "id": "ngbc84",
+    "id": "ngbc189",
     "igdbId": 1464,
     "gbId": 2930,
     "gbGuid": "3030-2930",
     "tgdbId": 173,
     "details": [
       "Nintendo Game Boy Color exclusive",
-      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+      "GameBoy Color cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -2127,13 +5298,25 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Pitfall 3D: Beyond the Jungle",
-    "id": "ngbc85",
+    "id": "ngbc190",
     "igdbId": 49861,
     "gbId": 29263,
     "gbGuid": "3030-29263",
@@ -2156,14 +5339,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "Player Manager 2001",
+    "id": "ngbc191",
+    "igdbId": 50025,
+    "gbId": 8140,
+    "gbGuid": "3030-8140",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Pocket Bomberman",
-    "id": "ngbc86",
+    "id": "ngbc192",
     "igdbId": 2980,
     "gbId": 23456,
     "gbGuid": "3030-23456",
     "tgdbId": 8638,
     "details": [
-      "Nintendo Game Boy Color launch title"
+      "Nintendo Game Boy Color launch title",
+      "GameBoy Color cartridge has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -2176,23 +5387,130 @@
         "tgdbId": 41
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pocket Soccer",
+    "id": "ngbc193",
+    "igdbId": 50009,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pokemon 4 in 1 blue sparkle cart",
+    "id": "ngbc194",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR2032)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR2032)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pokemon Gold and Silver 2 in 1 cart",
+    "id": "ngbc195",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR2032)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR2032)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Pokémon Crystal",
-    "id": "ngbc87",
+    "id": "ngbc196",
     "igdbId": 1514,
     "gbId": 15861,
     "gbGuid": "3030-15861",
     "details": [
-      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+      "GameBoy Color cartridge has save battery (CR2025)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
     "special": [
       {
         "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery (CR2025)",
         "forPlatform": {
           "name": "Nintendo Game Boy Color",
           "id": "ccl9",
@@ -2224,18 +5542,31 @@
   },
   {
     "name": "Pokémon Gold",
-    "id": "ngbc88",
+    "id": "ngbc197",
     "igdbId": 1558,
     "gbId": 8210,
     "gbGuid": "3030-8210",
     "details": [
-      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+      "GameBoy Color cartridge has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
     "special": [
       {
         "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery",
         "forPlatform": {
           "name": "Nintendo Game Boy Color",
           "id": "ccl9",
@@ -2262,14 +5593,15 @@
   },
   {
     "name": "Pokémon Pinball",
-    "id": "ngbc89",
+    "id": "ngbc198",
     "igdbId": 4068,
     "gbId": 19154,
     "gbGuid": "3030-19154",
     "tgdbId": 8639,
     "details": [
       "Nintendo Game Boy Color exclusive",
-      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+      "GameBoy Color cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -2294,18 +5626,58 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pokémon Puzzle Challenge",
+    "id": "ngbc199",
+    "igdbId": 49857,
+    "gbId": 8773,
+    "gbGuid": "3030-8773",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Pokémon Silver",
-    "id": "ngbc90",
+    "id": "ngbc200",
     "igdbId": 1513,
     "gbId": 8210,
     "gbGuid": "3030-8210",
     "details": [
-      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+      "GameBoy Color cartridge has save battery (CR2032)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -2321,13 +5693,52 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery (CR2032)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pokémon Trading Card Game",
+    "id": "ngbc201",
+    "igdbId": 4567,
+    "gbId": 10489,
+    "gbGuid": "3030-10489",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Polaris SnoCross",
-    "id": "ngbc91",
+    "id": "ngbc202",
     "igdbId": 3575,
     "gbId": 26585,
     "gbGuid": "3030-26585",
@@ -2354,7 +5765,7 @@
   },
   {
     "name": "Power Quest",
-    "id": "ngbc92",
+    "id": "ngbc203",
     "igdbId": 67765,
     "gbId": 27875,
     "gbGuid": "3030-27875",
@@ -2378,7 +5789,7 @@
   },
   {
     "name": "Power Rangers: Time Force",
-    "id": "ngbc93",
+    "id": "ngbc204",
     "igdbId": 3293,
     "gbId": null,
     "gbGuid": null,
@@ -2401,8 +5812,116 @@
     "misprintsErrors": []
   },
   {
+    "name": "Powerpuff Girls: Battle HIM",
+    "id": "ngbc205",
+    "igdbId": 5886,
+    "gbId": 18468,
+    "gbGuid": "3030-18468",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Prince Naseem Boxing",
+    "id": "ngbc206",
+    "igdbId": 50024,
+    "gbId": 12931,
+    "gbGuid": "3030-12931",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pro 99 Basketball",
+    "id": "ngbc207",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Pro Pool",
+    "id": "ngbc208",
+    "igdbId": 49952,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Project S-11",
-    "id": "ngbc94",
+    "id": "ngbc209",
     "igdbId": 49831,
     "gbId": 36958,
     "gbGuid": "3030-36958",
@@ -2425,14 +5944,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "Punchi Carrot",
+    "id": "ngbc210",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Quest for Camelot",
-    "id": "ngbc95",
+    "id": "ngbc211",
     "igdbId": 49949,
     "gbId": 22909,
     "gbGuid": "3030-22909",
     "tgdbId": 22058,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -2445,18 +5992,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Quest: Brian's Journey",
-    "id": "ngbc96",
+    "id": "ngbc212",
     "igdbId": 49892,
     "gbId": 24608,
     "gbGuid": "3030-24608",
     "tgdbId": 21325,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -2469,12 +6030,79 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "R-Type DX",
+    "id": "ngbc213",
+    "igdbId": 49829,
+    "gbId": 17155,
+    "gbGuid": "3030-17155",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rayman 2",
+    "id": "ngbc214",
+    "igdbId": 193317,
+    "gbId": 609,
+    "gbGuid": "3030-609",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Ready 2 Rumble Boxing",
-    "id": "ngbc97",
+    "id": "ngbc215",
     "igdbId": 209278,
     "gbId": 19836,
     "gbGuid": "3030-19836",
@@ -2501,13 +6129,14 @@
   },
   {
     "name": "Resident Evil Gaiden",
-    "id": "ngbc98",
+    "id": "ngbc216",
     "igdbId": 969,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 8648,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -2520,12 +6149,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Return of the Ninja",
-    "id": "ngbc99",
+    "id": "ngbc217",
     "igdbId": 49858,
     "gbId": 45167,
     "gbGuid": "3030-45167",
@@ -2548,8 +6190,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Revelations: The Demon Slayer",
+    "id": "ngbc218",
+    "igdbId": 49830,
+    "gbId": 9964,
+    "gbGuid": "3030-9964",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Robopon Moon",
-    "id": "ngbc100",
+    "id": "ngbc219",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2572,14 +6241,15 @@
   },
   {
     "name": "Robopon: Sun Version",
-    "id": "ngbc101",
+    "id": "ngbc220",
     "igdbId": 50007,
     "gbId": 23128,
     "gbGuid": "3030-23128",
     "tgdbId": 25463,
     "details": [
       "Nintendo Game Boy Color exclusive",
-      "Game Boy Color cartridge has built in infra-red sensor that used in the game"
+      "Game Boy Color cartridge has built in infra-red sensor that used in the game",
+      "GameBoy Color cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -2604,13 +6274,25 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Robot Ponkottsu Star Version",
-    "id": "ngbc102",
+    "id": "ngbc221",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2633,14 +6315,43 @@
     "misprintsErrors": []
   },
   {
+    "name": "Robot Ponkottsu Star Version",
+    "id": "ngbc222",
+    "igdbId": 50551,
+    "gbId": null,
+    "gbGuid": null,
+    "tgdbId": 44080,
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Robot Wars: Metal Mayhem",
-    "id": "ngbc103",
+    "id": "ngbc223",
     "igdbId": 50022,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 33093,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -2653,12 +6364,106 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Ronaldo V-Soccer",
+    "id": "ngbc224",
+    "igdbId": 49885,
+    "gbId": 7979,
+    "gbGuid": "3030-7979",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shadowgate Classic",
+    "id": "ngbc225",
+    "igdbId": 8699,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shantae",
+    "id": "ngbc226",
+    "igdbId": 8432,
+    "gbId": 19245,
+    "gbGuid": "3030-19245",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Snoopy Tennis",
-    "id": "ngbc104",
+    "id": "ngbc227",
     "igdbId": 49878,
     "gbId": 32834,
     "gbGuid": "3030-32834",
@@ -2681,8 +6486,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Soccer Manager",
+    "id": "ngbc228",
+    "igdbId": 134421,
+    "gbId": 5936,
+    "gbGuid": "3030-5936",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Space Marauder",
-    "id": "ngbc105",
+    "id": "ngbc229",
     "igdbId": 49968,
     "gbId": null,
     "gbGuid": null,
@@ -2705,8 +6537,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Space Net Cosmo Blue",
+    "id": "ngbc230",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616f)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616f)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Space Net Cosmo Red",
+    "id": "ngbc231",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Space Station Silicon Valley",
+    "id": "ngbc232",
+    "igdbId": 134275,
+    "gbId": 13692,
+    "gbGuid": "3030-13692",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Spawn",
-    "id": "ngbc106",
+    "id": "ngbc233",
     "igdbId": 49969,
     "gbId": 8050,
     "gbGuid": "3030-8050",
@@ -2730,7 +6643,7 @@
   },
   {
     "name": "Spider-Man 2: The Sinister Six",
-    "id": "ngbc107",
+    "id": "ngbc234",
     "igdbId": 49971,
     "gbId": 14254,
     "gbGuid": "3030-14254",
@@ -2754,7 +6667,7 @@
   },
   {
     "name": "SpongeBob SquarePants: Legend of the Lost Spatula",
-    "id": "ngbc108",
+    "id": "ngbc235",
     "igdbId": 2760,
     "gbId": 4052,
     "gbGuid": "3030-4052",
@@ -2778,7 +6691,7 @@
   },
   {
     "name": "Star Wars Episode I: Obi-Wan's Adventures",
-    "id": "ngbc109",
+    "id": "ngbc236",
     "igdbId": 18950,
     "gbId": 6181,
     "gbGuid": "3030-6181",
@@ -2802,7 +6715,7 @@
   },
   {
     "name": "Star Wars Episode I: Racer",
-    "id": "ngbc110",
+    "id": "ngbc237",
     "igdbId": 154,
     "gbId": 31227,
     "gbGuid": "3030-31227",
@@ -2826,12 +6739,13 @@
   },
   {
     "name": "Star Wars: Episode I - Racer",
-    "id": "ngbc111",
+    "id": "ngbc238",
     "igdbId": 167641,
     "gbId": 13526,
     "gbGuid": "3030-13526",
     "details": [
-      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+      "GameBoy Color cartridge has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -2847,13 +6761,25 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Super Black Bass: Real Fight",
-    "id": "ngbc112",
+    "id": "ngbc239",
     "igdbId": 61345,
     "gbId": 46896,
     "gbGuid": "3030-46896",
@@ -2880,7 +6806,7 @@
   },
   {
     "name": "Super Chinese Fighter EX",
-    "id": "ngbc113",
+    "id": "ngbc240",
     "igdbId": 50557,
     "gbId": null,
     "gbGuid": null,
@@ -2903,8 +6829,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Mario Bros. Deluxe",
+    "id": "ngbc241",
+    "igdbId": 49877,
+    "gbId": 7314,
+    "gbGuid": "3030-7314",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Super Real Fishing",
-    "id": "ngbc114",
+    "id": "ngbc242",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2930,8 +6883,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Supercross Freestyle",
+    "id": "ngbc243",
+    "igdbId": 50069,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Survival Kids",
+    "id": "ngbc244",
+    "igdbId": 25968,
+    "gbId": 19260,
+    "gbGuid": "3030-19260",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sweet Ange",
-    "id": "ngbc115",
+    "id": "ngbc245",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2953,8 +6960,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "TNN Outdoors Fishing Champ",
+    "id": "ngbc246",
+    "igdbId": 49994,
+    "gbId": 38334,
+    "gbGuid": "3030-38334",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tales of Phantasia: Narikiri Dungeon",
-    "id": "ngbc116",
+    "id": "ngbc247",
     "igdbId": 69114,
     "gbId": 25907,
     "gbGuid": "3030-25907",
@@ -2978,7 +7012,7 @@
   },
   {
     "name": "Tazmanian Devil: Munching Madness",
-    "id": "ngbc117",
+    "id": "ngbc248",
     "igdbId": 49967,
     "gbId": 40985,
     "gbGuid": "3030-40985",
@@ -3002,13 +7036,14 @@
   },
   {
     "name": "Test Drive 2001",
-    "id": "ngbc118",
+    "id": "ngbc249",
     "igdbId": 49876,
     "gbId": 706,
     "gbGuid": "3030-706",
     "tgdbId": 8656,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3021,18 +7056,59 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Test Drive 6",
+    "id": "ngbc250",
+    "igdbId": 4111,
+    "gbId": 6628,
+    "gbGuid": "3030-6628",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Test Drive Cycles",
-    "id": "ngbc119",
+    "id": "ngbc251",
     "igdbId": 49906,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 21921,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3045,17 +7121,31 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Test Drive Off-Road 3",
-    "id": "ngbc120",
+    "id": "ngbc252",
     "igdbId": 49905,
     "gbId": 9109,
     "gbGuid": "3030-9109",
     "details": [
-      "Game Boy Color cartridge has built in hardware for rumble that is used in game"
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+      "GameBoy Color cartridge has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -3071,19 +7161,59 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Test Drive: Le Mans",
+    "id": "ngbc253",
+    "igdbId": 45066,
+    "gbId": 2682,
+    "gbGuid": "3030-2682",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Tetris DX",
-    "id": "ngbc121",
+    "id": "ngbc254",
     "igdbId": 49875,
     "gbId": 796,
     "gbGuid": "3030-796",
     "tgdbId": 8657,
     "details": [
-      "Nintendo Game Boy Color launch title"
+      "Nintendo Game Boy Color launch title",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -3096,12 +7226,79 @@
         "tgdbId": 41
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Adventures of the Smurfs",
+    "id": "ngbc255",
+    "igdbId": 49975,
+    "gbId": 35088,
+    "gbGuid": "3030-35088",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "The Dukes of Hazzard: Racing for Home",
+    "id": "ngbc256",
+    "igdbId": 49889,
+    "gbId": 12090,
+    "gbGuid": "3030-12090",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "The Great Battle Pocket",
-    "id": "ngbc122",
+    "id": "ngbc257",
     "igdbId": 228554,
     "gbId": null,
     "gbGuid": null,
@@ -3127,8 +7324,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "The Legend of Zelda: Hard Awakening DX",
+    "id": "ngbc258",
+    "igdbId": 217837,
+    "gbId": 8881,
+    "gbGuid": "3030-8881",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "The Legend of Zelda: Link's Awakening DX",
-    "id": "ngbc123",
+    "id": "ngbc259",
     "igdbId": 1027,
     "gbId": 8881,
     "gbGuid": "3030-8881",
@@ -3151,13 +7375,14 @@
   },
   {
     "name": "The Legend of Zelda: Oracle of Ages",
-    "id": "ngbc124",
+    "id": "ngbc260",
     "igdbId": 1041,
     "gbId": 8004,
     "gbGuid": "3030-8004",
     "tgdbId": 6122,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3170,18 +7395,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "The Legend of Zelda: Oracle of Seasons",
-    "id": "ngbc125",
+    "id": "ngbc261",
     "igdbId": 1032,
     "gbId": 5895,
     "gbGuid": "3030-5895",
     "tgdbId": 6123,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3194,7 +7433,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Nintendo/gameboy/9099E3E1-EA2E-BE9A-9B5DC0BB437FBDE2_zps3v9iglwl.jpeg",
@@ -3205,13 +7457,14 @@
   },
   {
     "name": "The Powerpuff Girls: Bad Mojo Jojo",
-    "id": "ngbc126",
+    "id": "ngbc262",
     "igdbId": 3246,
     "gbId": 14137,
     "gbGuid": "3030-14137",
     "tgdbId": 8641,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3224,18 +7477,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "The Powerpuff Girls: Paint the Townsville Green",
-    "id": "ngbc127",
+    "id": "ngbc263",
     "igdbId": 5885,
     "gbId": 8470,
     "gbGuid": "3030-8470",
     "tgdbId": 21868,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3248,12 +7515,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "The Simpsons: Night of the Living Treehouse of Horror",
-    "id": "ngbc128",
+    "id": "ngbc264",
     "igdbId": 2840,
     "gbId": 21949,
     "gbGuid": "3030-21949",
@@ -3276,8 +7556,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Three Lions",
+    "id": "ngbc265",
+    "igdbId": 50006,
+    "gbId": 27488,
+    "gbGuid": "3030-27488",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tiny Toon Adventures: Buster Saves the Day",
-    "id": "ngbc129",
+    "id": "ngbc266",
     "igdbId": 8057,
     "gbId": 5597,
     "gbGuid": "3030-5597",
@@ -3301,7 +7608,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Dizzy's Candy Quest",
-    "id": "ngbc130",
+    "id": "ngbc267",
     "igdbId": 8058,
     "gbId": 3278,
     "gbGuid": "3030-3278",
@@ -3324,14 +7631,69 @@
     "misprintsErrors": []
   },
   {
+    "name": "Toki Tori",
+    "id": "ngbc268",
+    "igdbId": 194909,
+    "gbId": 3244,
+    "gbGuid": "3030-3244",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tom Clancy's Rainbow Six",
+    "id": "ngbc269",
+    "igdbId": 1842,
+    "gbId": 7887,
+    "gbGuid": "3030-7887",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tomb Raider",
-    "id": "ngbc131",
+    "id": "ngbc270",
     "igdbId": 36878,
     "gbId": 36872,
     "gbGuid": "3030-36872",
     "tgdbId": 2756,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3344,18 +7706,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Tomb Raider: Curse of the Sword",
-    "id": "ngbc132",
+    "id": "ngbc271",
     "igdbId": 49993,
     "gbId": 3237,
     "gbGuid": "3030-3237",
     "tgdbId": 22100,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3368,12 +7744,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Tonka Raceway",
-    "id": "ngbc133",
+    "id": "ngbc272",
     "igdbId": 7957,
     "gbId": 45364,
     "gbGuid": "3030-45364",
@@ -3399,8 +7788,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Tony Hawk's Pro Skater 3",
+    "id": "ngbc273",
+    "igdbId": 234861,
+    "gbId": 5688,
+    "gbGuid": "3030-5688",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Top Gear Pocket",
-    "id": "ngbc134",
+    "id": "ngbc274",
     "igdbId": 93431,
     "gbId": 2775,
     "gbGuid": "3030-2775",
@@ -3427,12 +7843,13 @@
   },
   {
     "name": "Top Gear Pocket 2",
-    "id": "ngbc135",
+    "id": "ngbc275",
     "igdbId": 78875,
     "gbId": 18131,
     "gbGuid": "3030-18131",
     "details": [
-      "Game Boy Color cartridge has built in hardware for rumble that is used in game (Japan version only)"
+      "Game Boy Color cartridge has built in hardware for rumble that is used in game (Japan version only)",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -3448,24 +7865,76 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Tottoko Hamtaro: Tomodachi Daisaku Ikusa Dechu",
-    "id": "ngbc136",
+    "id": "ngbc276",
     "igdbId": 63222,
     "gbId": 43087,
     "gbGuid": "3030-43087",
     "details": [
-      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+      "GameBoy Color cartridge has save battery (CR2025)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
     "special": [
       {
         "value": "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery (CR2025)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Towers: Lord Baniff's Deceit",
+    "id": "ngbc277",
+    "igdbId": 49990,
+    "gbId": 19033,
+    "gbGuid": "3030-19033",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
         "forPlatform": {
           "name": "Nintendo Game Boy Color",
           "id": "ccl9",
@@ -3481,12 +7950,13 @@
   },
   {
     "name": "Trade & Battle: Card Hero",
-    "id": "ngbc137",
+    "id": "ngbc278",
     "igdbId": 67836,
     "gbId": 27552,
     "gbGuid": "3030-27552",
     "details": [
-      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock"
+      "Game Boy Color cartridge has built in crystal oscillator to keep an accurate clock",
+      "GameBoy Color cartridge has save battery (CR2025)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -3502,13 +7972,25 @@
           "tgdbId": 41
         },
         "category": "other"
+      },
+      {
+        "value": "GameBoy Color cartridge has save battery (CR2025)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Turok 2: Seeds of Evil",
-    "id": "ngbc138",
+    "id": "ngbc279",
     "igdbId": 1326,
     "gbId": 7052,
     "gbGuid": "3030-7052",
@@ -3532,7 +8014,7 @@
   },
   {
     "name": "Turok 3: Shadow of Oblivion",
-    "id": "ngbc139",
+    "id": "ngbc280",
     "igdbId": 1328,
     "gbId": 10047,
     "gbGuid": "3030-10047",
@@ -3556,7 +8038,7 @@
   },
   {
     "name": "Turok: Rage Wars",
-    "id": "ngbc140",
+    "id": "ngbc281",
     "igdbId": 1327,
     "gbId": 7962,
     "gbGuid": "3030-7962",
@@ -3580,7 +8062,7 @@
   },
   {
     "name": "Turok: Rage Wars",
-    "id": "ngbc141",
+    "id": "ngbc282",
     "igdbId": 146987,
     "gbId": 7962,
     "gbGuid": "3030-7962",
@@ -3598,7 +8080,7 @@
   },
   {
     "name": "Tweenies: Doodles' Bones",
-    "id": "ngbc142",
+    "id": "ngbc283",
     "igdbId": 50058,
     "gbId": 55835,
     "gbGuid": "3030-55835",
@@ -3621,8 +8103,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Tweety's High-Flying Adventure",
+    "id": "ngbc284",
+    "igdbId": 49986,
+    "gbId": 30705,
+    "gbGuid": "3030-30705",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "UEFA 2000",
+    "id": "ngbc285",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Uno",
-    "id": "ngbc143",
+    "id": "ngbc286",
     "igdbId": 86361,
     "gbId": 35570,
     "gbGuid": "3030-35570",
@@ -3646,7 +8182,7 @@
   },
   {
     "name": "Vigilante 8",
-    "id": "ngbc144",
+    "id": "ngbc287",
     "igdbId": 75423,
     "gbId": 13200,
     "gbGuid": "3030-13200",
@@ -3672,8 +8208,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "WCW Mayhem",
+    "id": "ngbc288",
+    "igdbId": 200415,
+    "gbId": 1204,
+    "gbGuid": "3030-1204",
+    "details": [
+      "GameBoy Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "WWF Betrayal",
-    "id": "ngbc145",
+    "id": "ngbc289",
     "igdbId": 49981,
     "gbId": 24982,
     "gbGuid": "3030-24982",
@@ -3697,13 +8260,14 @@
   },
   {
     "name": "Walt Disney's Alice in Wonderland",
-    "id": "ngbc146",
+    "id": "ngbc290",
     "igdbId": 50016,
     "gbId": 8337,
     "gbGuid": "3030-8337",
     "tgdbId": 25444,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery"
     ],
     "isExclusive": [
       {
@@ -3716,18 +8280,86 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wario Land 3",
+    "id": "ngbc291",
+    "igdbId": 1698,
+    "gbId": 16145,
+    "gbGuid": "3030-16145",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wario Land II",
+    "id": "ngbc292",
+    "igdbId": 204786,
+    "gbId": 13721,
+    "gbGuid": "3030-13721",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Warlocked",
-    "id": "ngbc147",
+    "id": "ngbc293",
     "igdbId": 49874,
     "gbId": 11740,
     "gbGuid": "3030-11740",
     "tgdbId": 8662,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3740,12 +8372,52 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Warriors of Might and Magic",
+    "id": "ngbc294",
+    "igdbId": 43563,
+    "gbId": 3030,
+    "gbGuid": "3030-3030",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Wendy: Every Witch Way",
-    "id": "ngbc148",
+    "id": "ngbc295",
     "igdbId": 49855,
     "gbId": 19779,
     "gbGuid": "3030-19779",
@@ -3769,13 +8441,14 @@
   },
   {
     "name": "Winnie the Pooh: Adventures in the 100 Acre Wood",
-    "id": "ngbc149",
+    "id": "ngbc296",
     "igdbId": 49982,
     "gbId": 65453,
     "gbGuid": "3030-65453",
     "tgdbId": 22122,
     "details": [
-      "Nintendo Game Boy Color exclusive"
+      "Nintendo Game Boy Color exclusive",
+      "GameBoy Color cartridge has save battery (CR1616)"
     ],
     "isExclusive": [
       {
@@ -3788,12 +8461,106 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wizardry Empire",
+    "id": "ngbc297",
+    "igdbId": 50048,
+    "gbId": 41733,
+    "gbGuid": "3030-41733",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wizardry: Proving Grounds of the Mad Overlord",
+    "id": "ngbc298",
+    "igdbId": 2863,
+    "gbId": 9180,
+    "gbGuid": "3030-9180",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Woody Woodpecker Racing",
+    "id": "ngbc299",
+    "igdbId": 8013,
+    "gbId": 14384,
+    "gbGuid": "3030-14384",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Woody Woodpecker: Escape From Buzz Buzzard Park",
-    "id": "ngbc150",
+    "id": "ngbc300",
     "igdbId": 43561,
     "gbId": 20246,
     "gbGuid": "3030-20246",
@@ -3817,7 +8584,7 @@
   },
   {
     "name": "X-Men: Mutant Wars",
-    "id": "ngbc151",
+    "id": "ngbc301",
     "igdbId": 49887,
     "gbId": 12288,
     "gbGuid": "3030-12288",
@@ -3841,7 +8608,7 @@
   },
   {
     "name": "X-Men: Wolverine's Rage",
-    "id": "ngbc152",
+    "id": "ngbc302",
     "igdbId": 49899,
     "gbId": 458,
     "gbGuid": "3030-458",
@@ -3864,8 +8631,143 @@
     "misprintsErrors": []
   },
   {
+    "name": "Xena: The Warrior Princess",
+    "id": "ngbc303",
+    "igdbId": 205821,
+    "gbId": 31363,
+    "gbGuid": "3030-31363",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Xtreme Sports",
+    "id": "ngbc304",
+    "igdbId": 49869,
+    "gbId": 34030,
+    "gbGuid": "3030-34030",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Xtreme Wheels",
+    "id": "ngbc305",
+    "igdbId": 49980,
+    "gbId": 36290,
+    "gbGuid": "3030-36290",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Yu-Gi-Oh! Dark Duel Stories",
+    "id": "ngbc306",
+    "igdbId": 23467,
+    "gbId": 13216,
+    "gbGuid": "3030-13216",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories",
+    "id": "ngbc307",
+    "igdbId": 56978,
+    "gbId": 57746,
+    "gbGuid": "3030-57746",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Zebco Fishing",
-    "id": "ngbc153",
+    "id": "ngbc308",
     "igdbId": 49979,
     "gbId": 38333,
     "gbGuid": "3030-38333",
@@ -3877,6 +8779,87 @@
     "special": [
       {
         "value": "Game Boy Color cartridge has built in hardware for rumble that is used in game",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Zidane: Football Generation",
+    "id": "ngbc309",
+    "igdbId": 144652,
+    "gbId": 24004,
+    "gbGuid": "3030-24004",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Zoids",
+    "id": "ngbc310",
+    "igdbId": 26301,
+    "gbId": 54052,
+    "gbGuid": "3030-54052",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
+        "forPlatform": {
+          "name": "Nintendo Game Boy Color",
+          "id": "ccl9",
+          "igdbId": 22,
+          "gbId": 57,
+          "gbGuid": "3045-57",
+          "tgdbId": 41
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Zok Zok Heroes",
+    "id": "ngbc311",
+    "igdbId": 65766,
+    "gbId": 35967,
+    "gbGuid": "3030-35967",
+    "details": [
+      "GameBoy Color cartridge has save battery (CR1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "GameBoy Color cartridge has save battery (CR1616)",
         "forPlatform": {
           "name": "Nintendo Game Boy Color",
           "id": "ccl9",

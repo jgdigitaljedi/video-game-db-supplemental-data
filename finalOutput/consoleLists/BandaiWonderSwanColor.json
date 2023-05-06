@@ -1,7 +1,33 @@
 [
   {
-    "name": "Digimon Adventure 02: D-1 Tamers",
+    "name": "Dicing Knight.",
     "id": "bwsc0",
+    "igdbId": 73157,
+    "gbId": 19673,
+    "gbGuid": "3030-19673",
+    "details": [
+      "WonderSwan Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Digimon Adventure 02: D-1 Tamers",
+    "id": "bwsc1",
     "igdbId": 37553,
     "gbId": 15368,
     "gbGuid": "3030-15368",
@@ -23,12 +49,13 @@
   },
   {
     "name": "Final Fantasy",
-    "id": "bwsc1",
+    "id": "bwsc2",
     "igdbId": 121688,
     "gbId": 8403,
     "gbGuid": "3030-8403",
     "details": [
-      "Bandai WonderSwan Color launch title"
+      "Bandai WonderSwan Color launch title",
+      "WonderSwan Color cartridge has save battery (cr1616)"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -40,12 +67,50 @@
         "gbGuid": "3045-54"
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery (cr1616)",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Final Fantasy IV",
+    "id": "bwsc3",
+    "igdbId": 16587,
+    "gbId": 20829,
+    "gbGuid": "3030-20829",
+    "details": [
+      "WonderSwan Color cartridge has save battery (cr1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery (cr1616)",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Gunpey EX",
-    "id": "bwsc2",
+    "id": "bwsc4",
     "igdbId": 37442,
     "gbId": 66605,
     "gbGuid": "3030-66605",
@@ -80,12 +145,13 @@
   },
   {
     "name": "Judgement Silversword: Rebirth Edition",
-    "id": "bwsc3",
+    "id": "bwsc5",
     "igdbId": 37699,
     "gbId": 9541,
     "gbGuid": "3030-9541",
     "details": [
-      "Wonderswan Color game supports tate mode"
+      "Wonderswan Color game supports tate mode",
+      "WonderSwan Color cartridge has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -100,18 +166,134 @@
           "gbGuid": "3045-54"
         },
         "category": "other"
+      },
+      {
+        "value": "WonderSwan Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mega Man Battle Chip Challenge",
+    "id": "bwsc6",
+    "igdbId": 1767,
+    "gbId": 19205,
+    "gbGuid": "3030-19205",
+    "details": [
+      "WonderSwan Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mobile Suit Gundam Vol. 1 - Side 7",
+    "id": "bwsc7",
+    "igdbId": 66600,
+    "gbId": 31306,
+    "gbGuid": "3030-31306",
+    "details": [
+      "WonderSwan Color cartridge has save battery (cr1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery (cr1616)",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mobile Suit Gundam Vol. 2 - Jaburo",
+    "id": "bwsc8",
+    "igdbId": 66599,
+    "gbId": 31307,
+    "gbGuid": "3030-31307",
+    "details": [
+      "WonderSwan Color cartridge has save battery (cr1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery (cr1616)",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mobile Suit Gundam Vol. 3 - A Baoa Qu",
+    "id": "bwsc9",
+    "igdbId": 66597,
+    "gbId": 31308,
+    "gbGuid": "3030-31308",
+    "details": [
+      "WonderSwan Color cartridge has save battery (cr1616)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery (cr1616)",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Rhyme Rider Kerorican",
-    "id": "bwsc4",
+    "id": "bwsc10",
     "igdbId": 37355,
     "gbId": 18629,
     "gbGuid": "3030-18629",
     "details": [
-      "Bandai WonderSwan Color launch title"
+      "Bandai WonderSwan Color launch title",
+      "WonderSwan Color cartridge has save battery"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -123,12 +305,24 @@
         "gbGuid": "3045-54"
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Soroban Gu",
-    "id": "bwsc5",
+    "id": "bwsc11",
     "igdbId": 37318,
     "gbId": null,
     "gbGuid": null,
@@ -163,7 +357,7 @@
   },
   {
     "name": "Tetris",
-    "id": "bwsc6",
+    "id": "bwsc12",
     "igdbId": 185669,
     "gbId": 1896,
     "gbGuid": "3030-1896",
@@ -183,6 +377,84 @@
           "gbGuid": "3045-54"
         },
         "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "With You: Mitsumete Itai",
+    "id": "bwsc13",
+    "igdbId": 37347,
+    "gbId": 441,
+    "gbGuid": "3030-441",
+    "details": [
+      "WonderSwan Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wizardry: Proving Grounds of the Mad Overlord",
+    "id": "bwsc14",
+    "igdbId": 2863,
+    "gbId": 9180,
+    "gbGuid": "3030-9180",
+    "details": [
+      "WonderSwan Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Wonder Classic",
+    "id": "bwsc15",
+    "igdbId": 37559,
+    "gbId": 6512,
+    "gbGuid": "3030-6512",
+    "details": [
+      "WonderSwan Color cartridge has save battery"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "WonderSwan Color cartridge has save battery",
+        "forPlatform": {
+          "name": "Bandai WonderSwan Color",
+          "id": "ccl53",
+          "igdbId": 123,
+          "gbId": 54,
+          "gbGuid": "3045-54"
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []

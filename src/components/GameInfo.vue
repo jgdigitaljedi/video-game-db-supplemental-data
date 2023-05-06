@@ -23,6 +23,9 @@
     <v-btn dark color="primary" @click.native="copyAfterPipe">
       <v-icon left>mdi-clipboard-arrow-right</v-icon>Name After Pipe
     </v-btn>
+    <v-btn dark color="primary" @click.native="copyNoNumber">
+      <v-icon left>mdi-numeric</v-icon>Name No Num
+    </v-btn>
     <v-btn dark color="warning" @click.native="copyNoPunctuation">
       <v-icon left>mdi-clipboard-arrow-right</v-icon>Name No Punc
     </v-btn>
@@ -110,6 +113,12 @@ export default {
         ? this.stripName(this.game.name.split('|')[1])
         : this.stripName(this.game.title.split('|')[1]);
       this.setCurrentName(after);
+    },
+    copyNoNumber() {
+      const noNum = this.game.name
+        ? this.stripName(this.game.name.replace(/[0-9]/g, ''))
+        : this.stripName(this.game.title.replace(/[0-9]/g, ''));
+      this.setCurrentName(noNum.trim());
     },
     copyNoPunctuation() {
       const noPunc = this.game.name

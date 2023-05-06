@@ -23,9 +23,9 @@ const _uniq = require('lodash/uniq');
  */
 
 // change relativePath and idPrefix to run on different files
-const relativePath = '../../textFilesToBeConverted/special/philipsCdiVideoCardGames.json';
-const idPrefix = 'cdivg';
-const parensToDetails = true;
+const relativePath = '../../textFilesToBeConverted/special/genesisSegaChannelGamesOnlyInUs.json';
+const idPrefix = 'sgscus';
+const parensToDetails = false;
 const category = 'special';
 
 (async function() {
@@ -34,7 +34,7 @@ const category = 'special';
   const fixed = _uniq(parsed.sort());
   const newData = fileUtil.stringArrToObjectArr(
     fixed,
-    'Philips CD-i game uses video card',
+    'Genesis game only available in US via Sega Channel',
     idPrefix,
     parensToDetails,
     category

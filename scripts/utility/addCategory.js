@@ -24,7 +24,7 @@ const categories = require('./helpers.js').categories;
  */
 
 /** list specific vars */
-const listPath = path.join(basePath, 'special/nintendoWiiUTateModeGames.json');
+const listPath = path.join(basePath, 'special/gbaGamesWithSaveBattery.json');
 const list = require(listPath);
 const listCategory = categories.other;
 /** end list specific vars */

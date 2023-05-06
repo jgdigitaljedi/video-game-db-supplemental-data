@@ -355,8 +355,35 @@
     "misprintsErrors": []
   },
   {
-    "name": "Alien Storm",
+    "name": "Alien Soldier",
     "id": "smd12",
+    "igdbId": 4490,
+    "gbId": 17008,
+    "gbGuid": "3030-17008",
+    "details": [
+      "Genesis game only available in US via Sega Channel"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Alien Storm",
+    "id": "smd13",
     "igdbId": 9969,
     "gbId": 2596,
     "gbGuid": "3030-2596",
@@ -384,7 +411,7 @@
   },
   {
     "name": "Alisia Dragoon",
-    "id": "smd13",
+    "id": "smd14",
     "igdbId": 19508,
     "gbId": 9988,
     "gbGuid": "3030-9988",
@@ -422,7 +449,7 @@
   },
   {
     "name": "Altered Beast",
-    "id": "smd14",
+    "id": "smd15",
     "igdbId": 2604,
     "gbId": 2536,
     "gbGuid": "3030-2536",
@@ -476,7 +503,7 @@
   },
   {
     "name": "Arch Rivals",
-    "id": "smd15",
+    "id": "smd16",
     "igdbId": 4515,
     "gbId": 8857,
     "gbGuid": "3030-8857",
@@ -503,7 +530,7 @@
   },
   {
     "name": "Arnold Palmer Tournament Golf",
-    "id": "smd16",
+    "id": "smd17",
     "igdbId": 12869,
     "gbId": 2762,
     "gbGuid": "3030-2762",
@@ -541,7 +568,7 @@
   },
   {
     "name": "Arrow Flash",
-    "id": "smd17",
+    "id": "smd18",
     "igdbId": 46522,
     "gbId": 12266,
     "gbGuid": "3030-12266",
@@ -565,7 +592,7 @@
   },
   {
     "name": "Art Alive",
-    "id": "smd18",
+    "id": "smd19",
     "igdbId": 46288,
     "gbId": 782,
     "gbGuid": "3030-782",
@@ -589,7 +616,7 @@
   },
   {
     "name": "Art of Fighting",
-    "id": "smd19",
+    "id": "smd20",
     "igdbId": 4514,
     "gbId": 2760,
     "gbGuid": "3030-2760",
@@ -616,7 +643,7 @@
   },
   {
     "name": "Asterix and the Power of The Gods",
-    "id": "smd20",
+    "id": "smd21",
     "igdbId": 19781,
     "gbId": 19247,
     "gbGuid": "3030-19247",
@@ -654,7 +681,7 @@
   },
   {
     "name": "Australian Rugby League",
-    "id": "smd21",
+    "id": "smd22",
     "igdbId": 45756,
     "gbId": 13028,
     "gbGuid": "3030-13028",
@@ -678,7 +705,7 @@
   },
   {
     "name": "Awesome Possum Kicks Dr. Machino's Butt",
-    "id": "smd22",
+    "id": "smd23",
     "igdbId": 46240,
     "gbId": 17584,
     "gbGuid": "3030-17584",
@@ -702,7 +729,7 @@
   },
   {
     "name": "Ayrton Senna's Super Monaco GP II",
-    "id": "smd23",
+    "id": "smd24",
     "igdbId": 27077,
     "gbId": 8935,
     "gbGuid": "3030-8935",
@@ -743,7 +770,7 @@
   },
   {
     "name": "Bahamut Senki",
-    "id": "smd24",
+    "id": "smd25",
     "igdbId": 45646,
     "gbId": 8253,
     "gbGuid": "3030-8253",
@@ -770,7 +797,7 @@
   },
   {
     "name": "Ball Jacks",
-    "id": "smd25",
+    "id": "smd26",
     "igdbId": 45759,
     "gbId": 22748,
     "gbGuid": "3030-22748",
@@ -794,7 +821,7 @@
   },
   {
     "name": "Barkley Shut Up and Jam! 2",
-    "id": "smd26",
+    "id": "smd27",
     "igdbId": 4524,
     "gbId": 68531,
     "gbGuid": "3030-68531",
@@ -845,7 +872,7 @@
   },
   {
     "name": "Barkley: Shut Up and Jam!",
-    "id": "smd27",
+    "id": "smd28",
     "igdbId": 4520,
     "gbId": 11891,
     "gbGuid": "3030-11891",
@@ -878,7 +905,7 @@
   },
   {
     "name": "Barney's Hide & Seek Game",
-    "id": "smd28",
+    "id": "smd29",
     "igdbId": 46286,
     "gbId": 1587,
     "gbGuid": "3030-1587",
@@ -902,7 +929,7 @@
   },
   {
     "name": "Batman",
-    "id": "smd29",
+    "id": "smd30",
     "igdbId": 10510,
     "gbId": 21264,
     "gbGuid": "3030-21264",
@@ -932,7 +959,7 @@
   },
   {
     "name": "Batman Forever",
-    "id": "smd30",
+    "id": "smd31",
     "igdbId": 19856,
     "gbId": 10020,
     "gbGuid": "3030-10020",
@@ -972,7 +999,7 @@
   },
   {
     "name": "Batman Returns",
-    "id": "smd31",
+    "id": "smd32",
     "igdbId": 4379,
     "gbId": 9710,
     "gbGuid": "3030-9710",
@@ -999,8 +1026,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Battle Frenzy",
+    "id": "smd33",
+    "igdbId": 5361,
+    "gbId": 21718,
+    "gbGuid": "3030-21718",
+    "details": [
+      "Genesis game only available in US via Sega Channel"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Battle Golfer Yui",
-    "id": "smd32",
+    "id": "smd34",
     "igdbId": 4470,
     "gbId": 33328,
     "gbGuid": "3030-33328",
@@ -1024,7 +1078,7 @@
   },
   {
     "name": "Battle Mania: Daiginjou",
-    "id": "smd33",
+    "id": "smd35",
     "igdbId": 45734,
     "gbId": null,
     "gbGuid": null,
@@ -1048,7 +1102,7 @@
   },
   {
     "name": "Beast Wrestler",
-    "id": "smd34",
+    "id": "smd36",
     "igdbId": 46239,
     "gbId": 1926,
     "gbGuid": "3030-1926",
@@ -1086,7 +1140,7 @@
   },
   {
     "name": "Beggar Prince",
-    "id": "smd35",
+    "id": "smd37",
     "igdbId": 45765,
     "gbId": 7033,
     "gbGuid": "3030-7033",
@@ -1113,7 +1167,7 @@
   },
   {
     "name": "Beyond Oasis",
-    "id": "smd36",
+    "id": "smd38",
     "igdbId": 15299,
     "gbId": 211,
     "gbGuid": "3030-211",
@@ -1153,7 +1207,7 @@
   },
   {
     "name": "Bill Walsh College Football",
-    "id": "smd37",
+    "id": "smd39",
     "igdbId": 5363,
     "gbId": 27133,
     "gbGuid": "3030-27133",
@@ -1180,7 +1234,7 @@
   },
   {
     "name": "Bill Walsh College Football '95",
-    "id": "smd38",
+    "id": "smd40",
     "igdbId": 5364,
     "gbId": 4199,
     "gbGuid": "3030-4199",
@@ -1218,7 +1272,7 @@
   },
   {
     "name": "Bimini Run",
-    "id": "smd39",
+    "id": "smd41",
     "igdbId": 4436,
     "gbId": 5826,
     "gbGuid": "3030-5826",
@@ -1242,7 +1296,7 @@
   },
   {
     "name": "Bio-Hazard Battle",
-    "id": "smd40",
+    "id": "smd42",
     "igdbId": 4517,
     "gbId": 15244,
     "gbGuid": "3030-15244",
@@ -1270,7 +1324,7 @@
   },
   {
     "name": "Blades Of Vengeance",
-    "id": "smd41",
+    "id": "smd43",
     "igdbId": 45565,
     "gbId": 16733,
     "gbGuid": "3030-16733",
@@ -1294,7 +1348,7 @@
   },
   {
     "name": "Blaster Master 2",
-    "id": "smd42",
+    "id": "smd44",
     "igdbId": 46238,
     "gbId": 9851,
     "gbGuid": "3030-9851",
@@ -1318,7 +1372,7 @@
   },
   {
     "name": "Blockbuster Competition 2",
-    "id": "smd43",
+    "id": "smd45",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1345,7 +1399,7 @@
   },
   {
     "name": "Blue Almanac",
-    "id": "smd44",
+    "id": "smd46",
     "igdbId": 45645,
     "gbId": 3285,
     "gbGuid": "3030-3285",
@@ -1372,14 +1426,15 @@
   },
   {
     "name": "Body Count",
-    "id": "smd45",
+    "id": "smd47",
     "igdbId": 45761,
     "gbId": 10171,
     "gbGuid": "3030-10171",
     "tgdbId": 17350,
     "details": [
       "Sega Genesis exclusive",
-      "Sega Genesis Menacer game"
+      "Sega Genesis Menacer game",
+      "Genesis game only available in US via Sega Channel"
     ],
     "isExclusive": [
       {
@@ -1404,13 +1459,25 @@
           "tgdbId": 18
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Bonanza Bros.",
-    "id": "smd46",
+    "id": "smd48",
     "igdbId": 4511,
     "gbId": 14087,
     "gbGuid": "3030-14087",
@@ -1438,7 +1505,7 @@
   },
   {
     "name": "Brett Hull Hockey 95",
-    "id": "smd47",
+    "id": "smd49",
     "igdbId": 46231,
     "gbId": 2982,
     "gbGuid": "3030-2982",
@@ -1465,7 +1532,7 @@
   },
   {
     "name": "Brian Lara Cricket",
-    "id": "smd48",
+    "id": "smd50",
     "igdbId": 94848,
     "gbId": 36688,
     "gbGuid": "3030-36688",
@@ -1492,7 +1559,7 @@
   },
   {
     "name": "Brian Lara Cricket '96",
-    "id": "smd49",
+    "id": "smd51",
     "igdbId": 4383,
     "gbId": 68760,
     "gbGuid": "3030-68760",
@@ -1519,7 +1586,7 @@
   },
   {
     "name": "Brutal: Paws of Fury",
-    "id": "smd50",
+    "id": "smd52",
     "igdbId": 4449,
     "gbId": 10640,
     "gbGuid": "3030-10640",
@@ -1546,7 +1613,7 @@
   },
   {
     "name": "Bubba 'n' Stix",
-    "id": "smd51",
+    "id": "smd53",
     "igdbId": 11980,
     "gbId": 8977,
     "gbGuid": "3030-8977",
@@ -1573,7 +1640,7 @@
   },
   {
     "name": "Bubsy 2",
-    "id": "smd52",
+    "id": "smd54",
     "igdbId": 7803,
     "gbId": 17096,
     "gbGuid": "3030-17096",
@@ -1591,7 +1658,7 @@
   },
   {
     "name": "Buck Rogers: Countdown to Doomsday",
-    "id": "smd53",
+    "id": "smd55",
     "igdbId": 2436,
     "gbId": 5771,
     "gbGuid": "3030-5771",
@@ -1618,7 +1685,7 @@
   },
   {
     "name": "Bulls vs Lakers and the NBA Playoffs",
-    "id": "smd54",
+    "id": "smd56",
     "igdbId": 46067,
     "gbId": null,
     "gbGuid": null,
@@ -1642,7 +1709,7 @@
   },
   {
     "name": "California Games",
-    "id": "smd55",
+    "id": "smd57",
     "igdbId": 11984,
     "gbId": 3193,
     "gbGuid": "3030-3193",
@@ -1670,7 +1737,7 @@
   },
   {
     "name": "Castle of Illusion Starring Mickey Mouse",
-    "id": "smd56",
+    "id": "smd58",
     "igdbId": 8122,
     "gbId": 9513,
     "gbGuid": "3030-9513",
@@ -1698,7 +1765,7 @@
   },
   {
     "name": "Chakan: The Forever Man",
-    "id": "smd57",
+    "id": "smd59",
     "igdbId": 18091,
     "gbId": 11805,
     "gbGuid": "3030-11805",
@@ -1726,7 +1793,7 @@
   },
   {
     "name": "Chi Chi's Pro Challenge Golf",
-    "id": "smd58",
+    "id": "smd60",
     "igdbId": 4442,
     "gbId": null,
     "gbGuid": null,
@@ -1764,7 +1831,7 @@
   },
   {
     "name": "Chou Kyuukai Miracle Nine",
-    "id": "smd59",
+    "id": "smd61",
     "igdbId": 45733,
     "gbId": 42607,
     "gbGuid": "3030-42607",
@@ -1815,7 +1882,7 @@
   },
   {
     "name": "Coach K College Basketball",
-    "id": "smd60",
+    "id": "smd62",
     "igdbId": 46226,
     "gbId": 17594,
     "gbGuid": "3030-17594",
@@ -1853,7 +1920,7 @@
   },
   {
     "name": "Coffee Crisis",
-    "id": "smd61",
+    "id": "smd63",
     "igdbId": 56697,
     "gbId": 58346,
     "gbGuid": "3030-58346",
@@ -1877,7 +1944,7 @@
   },
   {
     "name": "College Football USA 96",
-    "id": "smd62",
+    "id": "smd64",
     "igdbId": 46536,
     "gbId": 31925,
     "gbGuid": "3030-31925",
@@ -1915,7 +1982,7 @@
   },
   {
     "name": "College Football USA 97",
-    "id": "smd63",
+    "id": "smd65",
     "igdbId": 46537,
     "gbId": 31926,
     "gbGuid": "3030-31926",
@@ -1942,7 +2009,7 @@
   },
   {
     "name": "College Football's National Championship",
-    "id": "smd64",
+    "id": "smd66",
     "igdbId": 4386,
     "gbId": 5755,
     "gbGuid": "3030-5755",
@@ -2006,7 +2073,7 @@
   },
   {
     "name": "College Football's National Championship II",
-    "id": "smd65",
+    "id": "smd67",
     "igdbId": 46535,
     "gbId": 43820,
     "gbGuid": "3030-43820",
@@ -2070,7 +2137,7 @@
   },
   {
     "name": "College Slam",
-    "id": "smd66",
+    "id": "smd68",
     "igdbId": 4541,
     "gbId": 125,
     "gbGuid": "3030-125",
@@ -2110,7 +2177,7 @@
   },
   {
     "name": "Columns",
-    "id": "smd67",
+    "id": "smd69",
     "igdbId": 4446,
     "gbId": 5487,
     "gbGuid": "3030-5487",
@@ -2138,7 +2205,7 @@
   },
   {
     "name": "Columns III",
-    "id": "smd68",
+    "id": "smd70",
     "igdbId": 14971,
     "gbId": 15020,
     "gbGuid": "3030-15020",
@@ -2165,7 +2232,7 @@
   },
   {
     "name": "Combat Cars",
-    "id": "smd69",
+    "id": "smd71",
     "igdbId": 4537,
     "gbId": 11952,
     "gbGuid": "3030-11952",
@@ -2203,7 +2270,7 @@
   },
   {
     "name": "Comix Zone (PAL)",
-    "id": "smd70",
+    "id": "smd72",
     "igdbId": 3071,
     "gbId": 1416,
     "gbGuid": "3030-1416",
@@ -2236,7 +2303,7 @@
   },
   {
     "name": "Crusader of Centy",
-    "id": "smd71",
+    "id": "smd73",
     "igdbId": 4552,
     "gbId": 7763,
     "gbGuid": "3030-7763",
@@ -2274,7 +2341,7 @@
   },
   {
     "name": "Crystal's Pony Tale",
-    "id": "smd72",
+    "id": "smd74",
     "igdbId": 46278,
     "gbId": 5753,
     "gbGuid": "3030-5753",
@@ -2298,7 +2365,7 @@
   },
   {
     "name": "Crüe Ball",
-    "id": "smd73",
+    "id": "smd75",
     "igdbId": 11281,
     "gbId": 5941,
     "gbGuid": "3030-5941",
@@ -2322,7 +2389,7 @@
   },
   {
     "name": "Curse",
-    "id": "smd74",
+    "id": "smd76",
     "igdbId": 4448,
     "gbId": 41031,
     "gbGuid": "3030-41031",
@@ -2346,7 +2413,7 @@
   },
   {
     "name": "Cutie Suzuki no Ringside Angel",
-    "id": "smd75",
+    "id": "smd77",
     "igdbId": 45732,
     "gbId": 13961,
     "gbGuid": "3030-13961",
@@ -2370,7 +2437,7 @@
   },
   {
     "name": "Cyberball",
-    "id": "smd76",
+    "id": "smd78",
     "igdbId": 12022,
     "gbId": 8655,
     "gbGuid": "3030-8655",
@@ -2398,7 +2465,7 @@
   },
   {
     "name": "Cyborg Justice",
-    "id": "smd77",
+    "id": "smd79",
     "igdbId": 46236,
     "gbId": 3743,
     "gbGuid": "3030-3743",
@@ -2436,7 +2503,7 @@
   },
   {
     "name": "Dahna: Megami Tanjou",
-    "id": "smd78",
+    "id": "smd80",
     "igdbId": 46185,
     "gbId": 10754,
     "gbGuid": "3030-10754",
@@ -2460,7 +2527,7 @@
   },
   {
     "name": "Darius: Extra Version",
-    "id": "smd79",
+    "id": "smd81",
     "igdbId": 145801,
     "gbId": null,
     "gbGuid": null,
@@ -2487,7 +2554,7 @@
   },
   {
     "name": "Dashin' Desperadoes",
-    "id": "smd80",
+    "id": "smd82",
     "igdbId": 46247,
     "gbId": 14231,
     "gbGuid": "3030-14231",
@@ -2511,7 +2578,7 @@
   },
   {
     "name": "David Crane's Amazing Tennis",
-    "id": "smd81",
+    "id": "smd83",
     "igdbId": 46534,
     "gbId": 22384,
     "gbGuid": "3030-22384",
@@ -2539,7 +2606,7 @@
   },
   {
     "name": "David Robinson's Supreme Court",
-    "id": "smd82",
+    "id": "smd84",
     "igdbId": 46533,
     "gbId": 22046,
     "gbGuid": "3030-22046",
@@ -2577,7 +2644,7 @@
   },
   {
     "name": "Davis Cup Tennis",
-    "id": "smd83",
+    "id": "smd85",
     "igdbId": 49175,
     "gbId": 18902,
     "gbGuid": "3030-18902",
@@ -2604,7 +2671,7 @@
   },
   {
     "name": "Death Duel",
-    "id": "smd84",
+    "id": "smd86",
     "igdbId": 46224,
     "gbId": 5003,
     "gbGuid": "3030-5003",
@@ -2632,7 +2699,7 @@
   },
   {
     "name": "Decap Attack",
-    "id": "smd85",
+    "id": "smd87",
     "igdbId": 6067,
     "gbId": 5596,
     "gbGuid": "3030-5596",
@@ -2660,7 +2727,7 @@
   },
   {
     "name": "Desert Demolition",
-    "id": "smd86",
+    "id": "smd88",
     "igdbId": 4518,
     "gbId": 15084,
     "gbGuid": "3030-15084",
@@ -2698,7 +2765,7 @@
   },
   {
     "name": "Dick Tracy",
-    "id": "smd87",
+    "id": "smd89",
     "igdbId": 13058,
     "gbId": 40441,
     "gbGuid": "3030-40441",
@@ -2726,7 +2793,7 @@
   },
   {
     "name": "Dino Dini's Soccer",
-    "id": "smd88",
+    "id": "smd90",
     "igdbId": 45747,
     "gbId": 6465,
     "gbGuid": "3030-6465",
@@ -2753,7 +2820,7 @@
   },
   {
     "name": "Disney's Aladdin",
-    "id": "smd89",
+    "id": "smd91",
     "igdbId": 8118,
     "gbId": 19944,
     "gbGuid": "3030-19944",
@@ -2771,7 +2838,7 @@
   },
   {
     "name": "Disney's Ariel: The Little Mermaid",
-    "id": "smd90",
+    "id": "smd92",
     "igdbId": 45628,
     "gbId": 6251,
     "gbGuid": "3030-6251",
@@ -2799,7 +2866,7 @@
   },
   {
     "name": "Disney's Pinocchio",
-    "id": "smd91",
+    "id": "smd93",
     "igdbId": 38844,
     "gbId": 19645,
     "gbGuid": "3030-19645",
@@ -2826,7 +2893,7 @@
   },
   {
     "name": "Divine Sealing",
-    "id": "smd92",
+    "id": "smd94",
     "igdbId": 4505,
     "gbId": 43843,
     "gbGuid": "3030-43843",
@@ -2850,7 +2917,7 @@
   },
   {
     "name": "Double Clutch",
-    "id": "smd93",
+    "id": "smd95",
     "igdbId": 45710,
     "gbId": 36029,
     "gbGuid": "3030-36029",
@@ -2874,7 +2941,7 @@
   },
   {
     "name": "Double Dragon II: The Revenge",
-    "id": "smd94",
+    "id": "smd96",
     "igdbId": 6790,
     "gbId": 4816,
     "gbGuid": "3030-4816",
@@ -2901,7 +2968,7 @@
   },
   {
     "name": "Double Dragon V: The Shadow Falls",
-    "id": "smd95",
+    "id": "smd97",
     "igdbId": 4475,
     "gbId": 15491,
     "gbGuid": "3030-15491",
@@ -2928,7 +2995,7 @@
   },
   {
     "name": "Double Dribble: The Playoff Edition",
-    "id": "smd96",
+    "id": "smd98",
     "igdbId": 4433,
     "gbId": 2749,
     "gbGuid": "3030-2749",
@@ -2966,7 +3033,7 @@
   },
   {
     "name": "Dragon Ball Z: Buyuu Retsuden",
-    "id": "smd97",
+    "id": "smd99",
     "igdbId": 45758,
     "gbId": 9785,
     "gbGuid": "3030-9785",
@@ -2990,7 +3057,7 @@
   },
   {
     "name": "Dragon Ball Z: Buyuu Retsuden",
-    "id": "smd98",
+    "id": "smd100",
     "igdbId": 2548,
     "gbId": 9785,
     "gbGuid": "3030-9785",
@@ -3030,7 +3097,7 @@
   },
   {
     "name": "Dragon Slayer: The Legend of Heroes",
-    "id": "smd99",
+    "id": "smd101",
     "igdbId": 5579,
     "gbId": 19597,
     "gbGuid": "3030-19597",
@@ -3057,7 +3124,7 @@
   },
   {
     "name": "Dragon Slayer: The Legend of Heroes II",
-    "id": "smd100",
+    "id": "smd102",
     "igdbId": 4393,
     "gbId": 7005,
     "gbGuid": "3030-7005",
@@ -3084,7 +3151,7 @@
   },
   {
     "name": "Dragon's Revenge",
-    "id": "smd101",
+    "id": "smd103",
     "igdbId": 46219,
     "gbId": 19853,
     "gbGuid": "3030-19853",
@@ -3108,7 +3175,7 @@
   },
   {
     "name": "Dragon: The Bruce Lee Story",
-    "id": "smd102",
+    "id": "smd104",
     "igdbId": 18617,
     "gbId": 11980,
     "gbGuid": "3030-11980",
@@ -3148,7 +3215,7 @@
   },
   {
     "name": "Duke Nukem 3D",
-    "id": "smd103",
+    "id": "smd105",
     "igdbId": 342,
     "gbId": 3407,
     "gbGuid": "3030-3407",
@@ -3188,7 +3255,7 @@
   },
   {
     "name": "Dungeons & Dragons: Warriors of the Eternal Sun",
-    "id": "smd104",
+    "id": "smd106",
     "igdbId": 4486,
     "gbId": 314,
     "gbGuid": "3030-314",
@@ -3239,12 +3306,13 @@
   },
   {
     "name": "Dyna Brothers 2",
-    "id": "smd105",
+    "id": "smd107",
     "igdbId": 4547,
     "gbId": 43527,
     "gbGuid": "3030-43527",
     "details": [
-      "Sega Genesis 6 button compatible game"
+      "Sega Genesis 6 button compatible game",
+      "Genesis game only available in US via Sega Channel"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -3260,13 +3328,25 @@
           "tgdbId": 18
         },
         "category": "controller"
+      },
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Dynamite Duke",
-    "id": "smd106",
+    "id": "smd108",
     "igdbId": null,
     "gbId": 3504,
     "gbGuid": "3030-3504",
@@ -3294,7 +3374,7 @@
   },
   {
     "name": "EA Sports Double Header",
-    "id": "smd107",
+    "id": "smd109",
     "igdbId": 78074,
     "gbId": 9116,
     "gbGuid": "3030-9116",
@@ -3321,7 +3401,7 @@
   },
   {
     "name": "ESPN National Hockey Night",
-    "id": "smd108",
+    "id": "smd110",
     "igdbId": 5381,
     "gbId": 30852,
     "gbGuid": "3030-30852",
@@ -3361,7 +3441,7 @@
   },
   {
     "name": "ESPN Speed World",
-    "id": "smd109",
+    "id": "smd111",
     "igdbId": 46217,
     "gbId": 33088,
     "gbGuid": "3030-33088",
@@ -3388,7 +3468,7 @@
   },
   {
     "name": "ESPN Sunday Night NFL",
-    "id": "smd110",
+    "id": "smd112",
     "igdbId": 5382,
     "gbId": 50378,
     "gbGuid": "3030-50378",
@@ -3415,7 +3495,7 @@
   },
   {
     "name": "ESWAT: City Under Siege",
-    "id": "smd111",
+    "id": "smd113",
     "igdbId": 6670,
     "gbId": 29056,
     "gbGuid": "3030-29056",
@@ -3443,7 +3523,7 @@
   },
   {
     "name": "Earth Defense",
-    "id": "smd112",
+    "id": "smd114",
     "igdbId": null,
     "gbId": 58066,
     "gbGuid": "3030-58066",
@@ -3467,7 +3547,7 @@
   },
   {
     "name": "Earthworm Jim",
-    "id": "smd113",
+    "id": "smd115",
     "igdbId": 3480,
     "gbId": 11133,
     "gbGuid": "3030-11133",
@@ -3485,7 +3565,7 @@
   },
   {
     "name": "Ecco the Dolphin",
-    "id": "smd114",
+    "id": "smd116",
     "igdbId": 5378,
     "gbId": 9286,
     "gbGuid": "3030-9286",
@@ -3513,7 +3593,7 @@
   },
   {
     "name": "El Viento",
-    "id": "smd115",
+    "id": "smd117",
     "igdbId": 81222,
     "gbId": 20401,
     "gbGuid": "3030-20401",
@@ -3537,7 +3617,7 @@
   },
   {
     "name": "Elemental Master",
-    "id": "smd116",
+    "id": "smd118",
     "igdbId": 46218,
     "gbId": 12664,
     "gbGuid": "3030-12664",
@@ -3561,7 +3641,7 @@
   },
   {
     "name": "Eliminate Down",
-    "id": "smd117",
+    "id": "smd119",
     "igdbId": 46176,
     "gbId": 34393,
     "gbGuid": "3030-34393",
@@ -3585,7 +3665,7 @@
   },
   {
     "name": "Elitserien 95",
-    "id": "smd118",
+    "id": "smd120",
     "igdbId": 4395,
     "gbId": 10382,
     "gbGuid": "3030-10382",
@@ -3612,7 +3692,7 @@
   },
   {
     "name": "Elitserien 96",
-    "id": "smd119",
+    "id": "smd121",
     "igdbId": 45560,
     "gbId": 2821,
     "gbGuid": "3030-2821",
@@ -3639,7 +3719,7 @@
   },
   {
     "name": "Eternal Champions",
-    "id": "smd120",
+    "id": "smd122",
     "igdbId": 4477,
     "gbId": 16444,
     "gbGuid": "3030-16444",
@@ -3666,7 +3746,7 @@
   },
   {
     "name": "European Club Soccer",
-    "id": "smd121",
+    "id": "smd123",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3690,7 +3770,7 @@
   },
   {
     "name": "Evander Holyfield's 'Real Deal' Boxing",
-    "id": "smd122",
+    "id": "smd124",
     "igdbId": 45557,
     "gbId": 1260,
     "gbGuid": "3030-1260",
@@ -3718,7 +3798,7 @@
   },
   {
     "name": "Evander Holyfield's 'Real Deal' Boxing",
-    "id": "smd123",
+    "id": "smd125",
     "igdbId": 46545,
     "gbId": 1260,
     "gbGuid": "3030-1260",
@@ -3745,7 +3825,7 @@
   },
   {
     "name": "Ex-Mutants",
-    "id": "smd124",
+    "id": "smd126",
     "igdbId": 36738,
     "gbId": 17597,
     "gbGuid": "3030-17597",
@@ -3773,7 +3853,7 @@
   },
   {
     "name": "Exile",
-    "id": "smd125",
+    "id": "smd127",
     "igdbId": 125295,
     "gbId": 23164,
     "gbGuid": "3030-23164",
@@ -3800,7 +3880,7 @@
   },
   {
     "name": "ExoSquad",
-    "id": "smd126",
+    "id": "smd128",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -3824,7 +3904,7 @@
   },
   {
     "name": "F-1 Grand Prix",
-    "id": "smd127",
+    "id": "smd129",
     "igdbId": 45719,
     "gbId": 12106,
     "gbGuid": "3030-12106",
@@ -3848,7 +3928,7 @@
   },
   {
     "name": "F-117 Night Storm",
-    "id": "smd128",
+    "id": "smd130",
     "igdbId": 46216,
     "gbId": 33105,
     "gbGuid": "3030-33105",
@@ -3872,7 +3952,7 @@
   },
   {
     "name": "F-22 Interceptor",
-    "id": "smd129",
+    "id": "smd131",
     "igdbId": 19494,
     "gbId": 17702,
     "gbGuid": "3030-17702",
@@ -3902,7 +3982,7 @@
   },
   {
     "name": "F1",
-    "id": "smd130",
+    "id": "smd132",
     "igdbId": 12082,
     "gbId": 3725,
     "gbGuid": "3030-3725",
@@ -3929,7 +4009,7 @@
   },
   {
     "name": "F1 Circus MD",
-    "id": "smd131",
+    "id": "smd133",
     "igdbId": 125458,
     "gbId": 75822,
     "gbGuid": "3030-75822",
@@ -3956,7 +4036,7 @@
   },
   {
     "name": "F1 Triple Battle",
-    "id": "smd132",
+    "id": "smd134",
     "igdbId": 44332,
     "gbId": 51754,
     "gbGuid": "3030-51754",
@@ -3983,7 +4063,7 @@
   },
   {
     "name": "FIFA 97",
-    "id": "smd133",
+    "id": "smd135",
     "igdbId": 240217,
     "gbId": 3383,
     "gbGuid": "3030-3383",
@@ -4023,7 +4103,7 @@
   },
   {
     "name": "FIFA International Soccer",
-    "id": "smd134",
+    "id": "smd136",
     "igdbId": 4345,
     "gbId": 6260,
     "gbGuid": "3030-6260",
@@ -4050,7 +4130,7 @@
   },
   {
     "name": "FIFA Soccer '95",
-    "id": "smd135",
+    "id": "smd137",
     "igdbId": 4539,
     "gbId": 12888,
     "gbGuid": "3030-12888",
@@ -4088,7 +4168,7 @@
   },
   {
     "name": "FIFA Soccer 96",
-    "id": "smd136",
+    "id": "smd138",
     "igdbId": 240233,
     "gbId": 14524,
     "gbGuid": "3030-14524",
@@ -4115,7 +4195,7 @@
   },
   {
     "name": "FIFA: Road to World Cup 98",
-    "id": "smd137",
+    "id": "smd139",
     "igdbId": 228796,
     "gbId": 11207,
     "gbGuid": "3030-11207",
@@ -4142,7 +4222,7 @@
   },
   {
     "name": "Fantasia",
-    "id": "smd138",
+    "id": "smd140",
     "igdbId": 45587,
     "gbId": 20273,
     "gbGuid": "3030-20273",
@@ -4180,7 +4260,7 @@
   },
   {
     "name": "Fastest 1",
-    "id": "smd139",
+    "id": "smd141",
     "igdbId": null,
     "gbId": 74677,
     "gbGuid": "3030-74677",
@@ -4204,7 +4284,7 @@
   },
   {
     "name": "Fatal Fury 2",
-    "id": "smd140",
+    "id": "smd142",
     "igdbId": 4435,
     "gbId": 11400,
     "gbGuid": "3030-11400",
@@ -4244,7 +4324,7 @@
   },
   {
     "name": "Fatal Labyrinth",
-    "id": "smd141",
+    "id": "smd143",
     "igdbId": 4496,
     "gbId": 6380,
     "gbGuid": "3030-6380",
@@ -4272,7 +4352,7 @@
   },
   {
     "name": "Feng Shen Ying Jie Chuan",
-    "id": "smd142",
+    "id": "smd144",
     "igdbId": 93061,
     "gbId": 12972,
     "gbGuid": "3030-12972",
@@ -4299,7 +4379,7 @@
   },
   {
     "name": "Fighting Masters",
-    "id": "smd143",
+    "id": "smd145",
     "igdbId": 46215,
     "gbId": 10105,
     "gbGuid": "3030-10105",
@@ -4323,7 +4403,7 @@
   },
   {
     "name": "Flicky",
-    "id": "smd144",
+    "id": "smd146",
     "igdbId": 6105,
     "gbId": 12914,
     "gbGuid": "3030-12914",
@@ -4351,7 +4431,7 @@
   },
   {
     "name": "Forgotten Worlds",
-    "id": "smd145",
+    "id": "smd147",
     "igdbId": 6794,
     "gbId": 14220,
     "gbGuid": "3030-14220",
@@ -4392,7 +4472,7 @@
   },
   {
     "name": "Frank Thomas Big Hurt Baseball",
-    "id": "smd146",
+    "id": "smd148",
     "igdbId": 20405,
     "gbId": 6736,
     "gbGuid": "3030-6736",
@@ -4419,7 +4499,7 @@
   },
   {
     "name": "Fushigi no Umi Nadia: The Secret of Blue Water",
-    "id": "smd147",
+    "id": "smd149",
     "igdbId": 48490,
     "gbId": null,
     "gbGuid": null,
@@ -4443,7 +4523,7 @@
   },
   {
     "name": "G-LOC Air Battle",
-    "id": "smd148",
+    "id": "smd150",
     "igdbId": 4464,
     "gbId": 13742,
     "gbGuid": "3030-13742",
@@ -4471,7 +4551,7 @@
   },
   {
     "name": "Gaiares",
-    "id": "smd149",
+    "id": "smd151",
     "igdbId": 93373,
     "gbId": 4900,
     "gbGuid": "3030-4900",
@@ -4495,7 +4575,7 @@
   },
   {
     "name": "Galaxy Force II",
-    "id": "smd150",
+    "id": "smd152",
     "igdbId": 6799,
     "gbId": 8320,
     "gbGuid": "3030-8320",
@@ -4523,7 +4603,7 @@
   },
   {
     "name": "Gargoyles",
-    "id": "smd151",
+    "id": "smd153",
     "igdbId": 4530,
     "gbId": 352,
     "gbGuid": "3030-352",
@@ -4553,7 +4633,7 @@
   },
   {
     "name": "Garry Kitchen's Super Battletank: War in the Gulf",
-    "id": "smd152",
+    "id": "smd154",
     "igdbId": 46681,
     "gbId": 8036,
     "gbGuid": "3030-8036",
@@ -4581,7 +4661,7 @@
   },
   {
     "name": "Gauntlet IV",
-    "id": "smd153",
+    "id": "smd155",
     "igdbId": 46214,
     "gbId": 1206,
     "gbGuid": "3030-1206",
@@ -4608,7 +4688,7 @@
   },
   {
     "name": "Gekitotsu",
-    "id": "smd154",
+    "id": "smd156",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -4635,7 +4715,7 @@
   },
   {
     "name": "Gemfire",
-    "id": "smd155",
+    "id": "smd157",
     "igdbId": 14501,
     "gbId": 18748,
     "gbGuid": "3030-18748",
@@ -4662,7 +4742,7 @@
   },
   {
     "name": "General Chaos",
-    "id": "smd156",
+    "id": "smd158",
     "igdbId": 10149,
     "gbId": 2267,
     "gbGuid": "3030-2267",
@@ -4686,7 +4766,7 @@
   },
   {
     "name": "Generations Lost",
-    "id": "smd157",
+    "id": "smd159",
     "igdbId": 19784,
     "gbId": 3780,
     "gbGuid": "3030-3780",
@@ -4710,7 +4790,7 @@
   },
   {
     "name": "Genghis Khan II: Clan of the Gray Wolf",
-    "id": "smd158",
+    "id": "smd160",
     "igdbId": 5389,
     "gbId": 5679,
     "gbGuid": "3030-5679",
@@ -4737,7 +4817,7 @@
   },
   {
     "name": "Ghostbusters",
-    "id": "smd159",
+    "id": "smd161",
     "igdbId": 4534,
     "gbId": 21416,
     "gbGuid": "3030-21416",
@@ -4775,7 +4855,7 @@
   },
   {
     "name": "Ghouls 'n Ghosts",
-    "id": "smd160",
+    "id": "smd162",
     "igdbId": 6817,
     "gbId": 12381,
     "gbGuid": "3030-12381",
@@ -4819,7 +4899,7 @@
   },
   {
     "name": "Golden Axe",
-    "id": "smd161",
+    "id": "smd163",
     "igdbId": 5565,
     "gbId": 14351,
     "gbGuid": "3030-14351",
@@ -4847,7 +4927,7 @@
   },
   {
     "name": "Golden Axe II",
-    "id": "smd162",
+    "id": "smd164",
     "igdbId": 16214,
     "gbId": 5402,
     "gbGuid": "3030-5402",
@@ -4892,8 +4972,35 @@
     ]
   },
   {
+    "name": "Golden Axe III",
+    "id": "smd165",
+    "igdbId": 16369,
+    "gbId": 16414,
+    "gbGuid": "3030-16414",
+    "details": [
+      "Genesis game only available in US via Sega Channel"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Goofy's Hysterical History Tour",
-    "id": "smd163",
+    "id": "smd166",
     "igdbId": 46210,
     "gbId": 30917,
     "gbGuid": "3030-30917",
@@ -4917,7 +5024,7 @@
   },
   {
     "name": "Greatest Heavyweights",
-    "id": "smd164",
+    "id": "smd167",
     "igdbId": 45783,
     "gbId": 7349,
     "gbGuid": "3030-7349",
@@ -4968,7 +5075,7 @@
   },
   {
     "name": "Greendog: The Beached Surfer Dude!",
-    "id": "smd165",
+    "id": "smd168",
     "igdbId": 45792,
     "gbId": 11123,
     "gbGuid": "3030-11123",
@@ -4996,7 +5103,7 @@
   },
   {
     "name": "HardBall '95",
-    "id": "smd166",
+    "id": "smd169",
     "igdbId": 45782,
     "gbId": 13851,
     "gbGuid": "3030-13851",
@@ -5023,7 +5130,7 @@
   },
   {
     "name": "HardBall 4",
-    "id": "smd167",
+    "id": "smd170",
     "igdbId": 12468,
     "gbId": 19217,
     "gbGuid": "3030-19217",
@@ -5050,7 +5157,7 @@
   },
   {
     "name": "HardBall III",
-    "id": "smd168",
+    "id": "smd171",
     "igdbId": 12466,
     "gbId": 4735,
     "gbGuid": "3030-4735",
@@ -5077,7 +5184,7 @@
   },
   {
     "name": "Head-On Soccer",
-    "id": "smd169",
+    "id": "smd172",
     "igdbId": 19758,
     "gbId": 12463,
     "gbGuid": "3030-12463",
@@ -5117,7 +5224,7 @@
   },
   {
     "name": "Heavy Nova",
-    "id": "smd170",
+    "id": "smd173",
     "igdbId": 5392,
     "gbId": 1898,
     "gbGuid": "3030-1898",
@@ -5135,7 +5242,7 @@
   },
   {
     "name": "Herzog Zwei",
-    "id": "smd171",
+    "id": "smd174",
     "igdbId": 24073,
     "gbId": 11439,
     "gbGuid": "3030-11439",
@@ -5173,7 +5280,7 @@
   },
   {
     "name": "Hit the Ice: The Video Hockey League",
-    "id": "smd172",
+    "id": "smd175",
     "igdbId": 46208,
     "gbId": 22324,
     "gbGuid": "3030-22324",
@@ -5200,7 +5307,7 @@
   },
   {
     "name": "Home Alone",
-    "id": "smd173",
+    "id": "smd176",
     "igdbId": 4523,
     "gbId": 50880,
     "gbGuid": "3030-50880",
@@ -5228,7 +5335,7 @@
   },
   {
     "name": "Home Alone 2: Lost in New York",
-    "id": "smd174",
+    "id": "smd177",
     "igdbId": 14502,
     "gbId": 7239,
     "gbGuid": "3030-7239",
@@ -5252,7 +5359,7 @@
   },
   {
     "name": "Honoo no Toukyuuji: Dodge Danpei",
-    "id": "smd175",
+    "id": "smd178",
     "igdbId": 45621,
     "gbId": 44153,
     "gbGuid": "3030-44153",
@@ -5279,7 +5386,7 @@
   },
   {
     "name": "Hyokkori Hyoutanjima: Daitouryou wo Mezase!",
-    "id": "smd176",
+    "id": "smd179",
     "igdbId": 46070,
     "gbId": null,
     "gbGuid": null,
@@ -5306,7 +5413,7 @@
   },
   {
     "name": "IMG International Tour Tennis",
-    "id": "smd177",
+    "id": "smd180",
     "igdbId": 46207,
     "gbId": 20352,
     "gbGuid": "3030-20352",
@@ -5344,7 +5451,7 @@
   },
   {
     "name": "Instruments of Chaos starring Young Indiana Jones",
-    "id": "smd178",
+    "id": "smd181",
     "igdbId": 73006,
     "gbId": 21504,
     "gbGuid": "3030-21504",
@@ -5368,7 +5475,7 @@
   },
   {
     "name": "International Sensible Soccer",
-    "id": "smd179",
+    "id": "smd182",
     "igdbId": 40808,
     "gbId": 16250,
     "gbGuid": "3030-16250",
@@ -5395,7 +5502,7 @@
   },
   {
     "name": "International Superstar Soccer Deluxe",
-    "id": "smd180",
+    "id": "smd183",
     "igdbId": 9862,
     "gbId": 7025,
     "gbGuid": "3030-7025",
@@ -5422,7 +5529,7 @@
   },
   {
     "name": "Izzy's Quest for the Olympic Rings",
-    "id": "smd181",
+    "id": "smd184",
     "igdbId": 4455,
     "gbId": 13750,
     "gbGuid": "3030-13750",
@@ -5440,7 +5547,7 @@
   },
   {
     "name": "J League Pro Striker 93",
-    "id": "smd182",
+    "id": "smd185",
     "igdbId": 46169,
     "gbId": null,
     "gbGuid": null,
@@ -5467,7 +5574,7 @@
   },
   {
     "name": "J. League Pro Striker 2",
-    "id": "smd183",
+    "id": "smd186",
     "igdbId": 45727,
     "gbId": null,
     "gbGuid": null,
@@ -5507,7 +5614,7 @@
   },
   {
     "name": "J. League Pro Striker Final Stage",
-    "id": "smd184",
+    "id": "smd187",
     "igdbId": 45726,
     "gbId": null,
     "gbGuid": null,
@@ -5534,7 +5641,7 @@
   },
   {
     "name": "J. League Pro Striker Perfect",
-    "id": "smd185",
+    "id": "smd188",
     "igdbId": 45725,
     "gbId": null,
     "gbGuid": null,
@@ -5574,7 +5681,7 @@
   },
   {
     "name": "J.League Pro Striker",
-    "id": "smd186",
+    "id": "smd189",
     "igdbId": 45745,
     "gbId": null,
     "gbGuid": null,
@@ -5601,7 +5708,7 @@
   },
   {
     "name": "Jack Nicklaus' Power Challenge Golf",
-    "id": "smd187",
+    "id": "smd190",
     "igdbId": 46532,
     "gbId": 88458,
     "gbGuid": "3030-88458",
@@ -5628,7 +5735,7 @@
   },
   {
     "name": "James 'Buster' Douglas Knock Out Boxing",
-    "id": "smd188",
+    "id": "smd191",
     "igdbId": 46530,
     "gbId": 5261,
     "gbGuid": "3030-5261",
@@ -5655,7 +5762,7 @@
   },
   {
     "name": "Janou Touryuumon",
-    "id": "smd189",
+    "id": "smd192",
     "igdbId": null,
     "gbId": 86665,
     "gbGuid": "3030-86665",
@@ -5682,7 +5789,7 @@
   },
   {
     "name": "Jennifer Capriati Tennis",
-    "id": "smd190",
+    "id": "smd193",
     "igdbId": 46205,
     "gbId": 43138,
     "gbGuid": "3030-43138",
@@ -5706,7 +5813,7 @@
   },
   {
     "name": "Jerry Glanville's Pigskin Footbrawl",
-    "id": "smd191",
+    "id": "smd194",
     "igdbId": 46188,
     "gbId": null,
     "gbGuid": null,
@@ -5734,7 +5841,7 @@
   },
   {
     "name": "Jewel Master",
-    "id": "smd192",
+    "id": "smd195",
     "igdbId": 4536,
     "gbId": 629,
     "gbGuid": "3030-629",
@@ -5772,7 +5879,7 @@
   },
   {
     "name": "Joe Montana Football",
-    "id": "smd193",
+    "id": "smd196",
     "igdbId": 5396,
     "gbId": 1700,
     "gbGuid": "3030-1700",
@@ -5800,7 +5907,7 @@
   },
   {
     "name": "Joe Montana II: Sports Talk Football",
-    "id": "smd194",
+    "id": "smd197",
     "igdbId": 46274,
     "gbId": 29301,
     "gbGuid": "3030-29301",
@@ -5828,7 +5935,7 @@
   },
   {
     "name": "Joe Montana NFL '95",
-    "id": "smd195",
+    "id": "smd198",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5855,7 +5962,7 @@
   },
   {
     "name": "John Madden Football '92",
-    "id": "smd196",
+    "id": "smd199",
     "igdbId": 4588,
     "gbId": 17667,
     "gbGuid": "3030-17667",
@@ -5879,7 +5986,7 @@
   },
   {
     "name": "John Madden Football '93",
-    "id": "smd197",
+    "id": "smd200",
     "igdbId": 4245,
     "gbId": 4511,
     "gbGuid": "3030-4511",
@@ -5906,7 +6013,7 @@
   },
   {
     "name": "John Madden Football '93: Championship Edition",
-    "id": "smd198",
+    "id": "smd201",
     "igdbId": 4482,
     "gbId": null,
     "gbGuid": null,
@@ -5933,7 +6040,7 @@
   },
   {
     "name": "Judge Dredd",
-    "id": "smd199",
+    "id": "smd202",
     "igdbId": 4387,
     "gbId": 14959,
     "gbGuid": "3030-14959",
@@ -5960,7 +6067,7 @@
   },
   {
     "name": "Jurassic Park",
-    "id": "smd200",
+    "id": "smd203",
     "igdbId": 4519,
     "gbId": 73443,
     "gbGuid": "3030-73443",
@@ -5984,7 +6091,7 @@
   },
   {
     "name": "Jurassic Park: Rampage Edition",
-    "id": "smd201",
+    "id": "smd204",
     "igdbId": 10678,
     "gbId": 21293,
     "gbGuid": "3030-21293",
@@ -6008,7 +6115,7 @@
   },
   {
     "name": "Justice League Task Force",
-    "id": "smd202",
+    "id": "smd205",
     "igdbId": 455,
     "gbId": 16349,
     "gbGuid": "3030-16349",
@@ -6035,7 +6142,7 @@
   },
   {
     "name": "Kid Chameleon",
-    "id": "smd203",
+    "id": "smd206",
     "igdbId": 16035,
     "gbId": 11175,
     "gbGuid": "3030-11175",
@@ -6063,7 +6170,7 @@
   },
   {
     "name": "King Salmon: The Big Catch",
-    "id": "smd204",
+    "id": "smd207",
     "igdbId": 4480,
     "gbId": 40559,
     "gbGuid": "3030-40559",
@@ -6087,7 +6194,7 @@
   },
   {
     "name": "Klax (PAL)",
-    "id": "smd205",
+    "id": "smd208",
     "igdbId": 4484,
     "gbId": 16455,
     "gbGuid": "3030-16455",
@@ -6104,8 +6211,35 @@
     ]
   },
   {
+    "name": "Klondike Solitaire (Sega Channel exclusive)",
+    "id": "smd209",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Genesis game only available in US via Sega Channel"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Landstalker: The Treasures of King Nole",
-    "id": "smd206",
+    "id": "smd210",
     "igdbId": 15072,
     "gbId": 6965,
     "gbGuid": "3030-6965",
@@ -6132,7 +6266,7 @@
   },
   {
     "name": "Langrisser II",
-    "id": "smd207",
+    "id": "smd211",
     "igdbId": 46171,
     "gbId": 11343,
     "gbGuid": "3030-11343",
@@ -6159,7 +6293,7 @@
   },
   {
     "name": "Last Battle",
-    "id": "smd208",
+    "id": "smd212",
     "igdbId": 27971,
     "gbId": 12187,
     "gbGuid": "3030-12187",
@@ -6197,7 +6331,7 @@
   },
   {
     "name": "Legend of Wukong",
-    "id": "smd209",
+    "id": "smd213",
     "igdbId": 46175,
     "gbId": 23926,
     "gbGuid": "3030-23926",
@@ -6224,7 +6358,7 @@
   },
   {
     "name": "Lemmings (PAL)(AU)",
-    "id": "smd210",
+    "id": "smd214",
     "igdbId": 4239,
     "gbId": 1446,
     "gbGuid": "3030-1446",
@@ -6242,7 +6376,7 @@
   },
   {
     "name": "Lemmings 2: The Tribes",
-    "id": "smd211",
+    "id": "smd215",
     "igdbId": 8307,
     "gbId": 18818,
     "gbGuid": "3030-18818",
@@ -6269,7 +6403,7 @@
   },
   {
     "name": "Liberty or Death",
-    "id": "smd212",
+    "id": "smd216",
     "igdbId": 45776,
     "gbId": 20025,
     "gbGuid": "3030-20025",
@@ -6296,7 +6430,7 @@
   },
   {
     "name": "Light Crusader",
-    "id": "smd213",
+    "id": "smd217",
     "igdbId": 15073,
     "gbId": 13920,
     "gbGuid": "3030-13920",
@@ -6323,7 +6457,7 @@
   },
   {
     "name": "Lightening Force: Quest for the Darkstar",
-    "id": "smd214",
+    "id": "smd218",
     "igdbId": 46273,
     "gbId": 11627,
     "gbGuid": "3030-11627",
@@ -6351,7 +6485,7 @@
   },
   {
     "name": "Lord Monarch: Tokoton Sentou Densetsu",
-    "id": "smd215",
+    "id": "smd219",
     "igdbId": 46074,
     "gbId": 76549,
     "gbGuid": "3030-76549",
@@ -6378,7 +6512,7 @@
   },
   {
     "name": "M-1 Abrams Battle Tank",
-    "id": "smd216",
+    "id": "smd220",
     "igdbId": 45775,
     "gbId": 18337,
     "gbGuid": "3030-18337",
@@ -6406,7 +6540,7 @@
   },
   {
     "name": "MERCS",
-    "id": "smd217",
+    "id": "smd221",
     "igdbId": 4487,
     "gbId": 10360,
     "gbGuid": "3030-10360",
@@ -6434,7 +6568,7 @@
   },
   {
     "name": "MIG-29 Fighter Pilot",
-    "id": "smd218",
+    "id": "smd222",
     "igdbId": 45773,
     "gbId": 28156,
     "gbGuid": "3030-28156",
@@ -6461,7 +6595,7 @@
   },
   {
     "name": "MLBPA Baseball",
-    "id": "smd219",
+    "id": "smd223",
     "igdbId": 46345,
     "gbId": 2315,
     "gbGuid": "3030-2315",
@@ -6488,7 +6622,7 @@
   },
   {
     "name": "MTV's Beavis and Butt-head",
-    "id": "smd220",
+    "id": "smd224",
     "igdbId": 7777,
     "gbId": 18248,
     "gbGuid": "3030-18248",
@@ -6512,7 +6646,7 @@
   },
   {
     "name": "Madden NFL '94",
-    "id": "smd221",
+    "id": "smd225",
     "igdbId": 4381,
     "gbId": 7106,
     "gbGuid": "3030-7106",
@@ -6552,7 +6686,7 @@
   },
   {
     "name": "Madden NFL 95",
-    "id": "smd222",
+    "id": "smd226",
     "igdbId": 4506,
     "gbId": 7715,
     "gbGuid": "3030-7715",
@@ -6579,7 +6713,7 @@
   },
   {
     "name": "Madden NFL 96",
-    "id": "smd223",
+    "id": "smd227",
     "igdbId": 4542,
     "gbId": 12957,
     "gbGuid": "3030-12957",
@@ -6606,7 +6740,7 @@
   },
   {
     "name": "Madden NFL 97",
-    "id": "smd224",
+    "id": "smd228",
     "igdbId": 243264,
     "gbId": 6279,
     "gbGuid": "3030-6279",
@@ -6633,7 +6767,7 @@
   },
   {
     "name": "Madden NFL 98",
-    "id": "smd225",
+    "id": "smd229",
     "igdbId": 4590,
     "gbId": 8679,
     "gbGuid": "3030-8679",
@@ -6660,7 +6794,7 @@
   },
   {
     "name": "Madou Monogatari I",
-    "id": "smd226",
+    "id": "smd230",
     "igdbId": 73644,
     "gbId": 11267,
     "gbGuid": "3030-11267",
@@ -6687,7 +6821,7 @@
   },
   {
     "name": "Mamono Hunter Yohko",
-    "id": "smd227",
+    "id": "smd231",
     "igdbId": 45722,
     "gbId": 61158,
     "gbGuid": "3030-61158",
@@ -6711,7 +6845,7 @@
   },
   {
     "name": "Mario Andretti Racing",
-    "id": "smd228",
+    "id": "smd232",
     "igdbId": 20593,
     "gbId": 4770,
     "gbGuid": "3030-4770",
@@ -6735,7 +6869,7 @@
   },
   {
     "name": "Mario Lemieux Hockey",
-    "id": "smd229",
+    "id": "smd233",
     "igdbId": 4441,
     "gbId": 30095,
     "gbGuid": "3030-30095",
@@ -6776,7 +6910,7 @@
   },
   {
     "name": "Marsupilami",
-    "id": "smd230",
+    "id": "smd234",
     "igdbId": 18142,
     "gbId": 8567,
     "gbGuid": "3030-8567",
@@ -6800,7 +6934,7 @@
   },
   {
     "name": "Master of Monsters",
-    "id": "smd231",
+    "id": "smd235",
     "igdbId": 74049,
     "gbId": 7998,
     "gbGuid": "3030-7998",
@@ -6827,7 +6961,7 @@
   },
   {
     "name": "Maten no Soumetsu",
-    "id": "smd232",
+    "id": "smd236",
     "igdbId": 46073,
     "gbId": 17462,
     "gbGuid": "3030-17462",
@@ -6854,7 +6988,7 @@
   },
   {
     "name": "Mazin Saga: Mutant Fighter",
-    "id": "smd233",
+    "id": "smd237",
     "igdbId": 36947,
     "gbId": 26959,
     "gbGuid": "3030-26959",
@@ -6878,7 +7012,7 @@
   },
   {
     "name": "McDonald's Treasure Land Adventure",
-    "id": "smd234",
+    "id": "smd238",
     "igdbId": 36923,
     "gbId": 14905,
     "gbGuid": "3030-14905",
@@ -6902,7 +7036,7 @@
   },
   {
     "name": "Mega Bomberman",
-    "id": "smd235",
+    "id": "smd239",
     "igdbId": 4513,
     "gbId": 18127,
     "gbGuid": "3030-18127",
@@ -6929,7 +7063,7 @@
   },
   {
     "name": "Mega Bomberman - 8 Player Demo",
-    "id": "smd236",
+    "id": "smd240",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -6957,14 +7091,15 @@
   },
   {
     "name": "Mega Man: The Wily Wars",
-    "id": "smd237",
+    "id": "smd241",
     "igdbId": 1727,
     "gbId": 20206,
     "gbGuid": "3030-20206",
     "tgdbId": 2281,
     "details": [
       "Sega Genesis exclusive",
-      "Sega Genesis game has save battery"
+      "Sega Genesis game has save battery",
+      "Genesis game only available in US via Sega Channel"
     ],
     "isExclusive": [
       {
@@ -6989,13 +7124,25 @@
           "tgdbId": 18
         },
         "category": "other"
+      },
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Mega Turrican",
-    "id": "smd238",
+    "id": "smd242",
     "igdbId": 85286,
     "gbId": 20938,
     "gbGuid": "3030-20938",
@@ -7022,7 +7169,7 @@
   },
   {
     "name": "Mega Twins",
-    "id": "smd239",
+    "id": "smd243",
     "igdbId": 12184,
     "gbId": 7238,
     "gbGuid": "3030-7238",
@@ -7050,7 +7197,7 @@
   },
   {
     "name": "Megapanel",
-    "id": "smd240",
+    "id": "smd244",
     "igdbId": 45720,
     "gbId": 62610,
     "gbGuid": "3030-62610",
@@ -7074,7 +7221,7 @@
   },
   {
     "name": "Menacer 6-Game Cartridge",
-    "id": "smd241",
+    "id": "smd245",
     "igdbId": 70491,
     "gbId": 19000,
     "gbGuid": "3030-19000",
@@ -7101,7 +7248,7 @@
   },
   {
     "name": "Michael Jackson's Moonwalker",
-    "id": "smd242",
+    "id": "smd246",
     "igdbId": 18139,
     "gbId": 21182,
     "gbGuid": "3030-21182",
@@ -7139,7 +7286,7 @@
   },
   {
     "name": "Micro Machines 2: Turbo Tournament",
-    "id": "smd243",
+    "id": "smd247",
     "igdbId": 8775,
     "gbId": 20350,
     "gbGuid": "3030-20350",
@@ -7179,7 +7326,7 @@
   },
   {
     "name": "Micro Machines: Turbo Tournament 96",
-    "id": "smd244",
+    "id": "smd248",
     "igdbId": 4545,
     "gbId": 7705,
     "gbGuid": "3030-7705",
@@ -7206,7 +7353,7 @@
   },
   {
     "name": "Midnight Resistance",
-    "id": "smd245",
+    "id": "smd249",
     "igdbId": 4401,
     "gbId": 7405,
     "gbGuid": "3030-7405",
@@ -7234,7 +7381,7 @@
   },
   {
     "name": "Might and Magic II: Gates to Another World",
-    "id": "smd246",
+    "id": "smd250",
     "igdbId": 7734,
     "gbId": 19917,
     "gbGuid": "3030-19917",
@@ -7261,7 +7408,7 @@
   },
   {
     "name": "Mighty Morphin Power Rangers",
-    "id": "smd247",
+    "id": "smd251",
     "igdbId": 75974,
     "gbId": 27004,
     "gbGuid": "3030-27004",
@@ -7285,7 +7432,7 @@
   },
   {
     "name": "Mighty Morphin Power Rangers: The Movie",
-    "id": "smd248",
+    "id": "smd252",
     "igdbId": 75980,
     "gbId": 21927,
     "gbGuid": "3030-21927",
@@ -7309,7 +7456,7 @@
   },
   {
     "name": "Monster World IV",
-    "id": "smd249",
+    "id": "smd253",
     "igdbId": 18282,
     "gbId": 3003,
     "gbGuid": "3030-3003",
@@ -7336,7 +7483,7 @@
   },
   {
     "name": "Mortal Kombat",
-    "id": "smd250",
+    "id": "smd254",
     "igdbId": 1618,
     "gbId": 15743,
     "gbGuid": "3030-15743",
@@ -7363,7 +7510,7 @@
   },
   {
     "name": "Mortal Kombat 3",
-    "id": "smd251",
+    "id": "smd255",
     "igdbId": 1620,
     "gbId": 1434,
     "gbGuid": "3030-1434",
@@ -7403,7 +7550,7 @@
   },
   {
     "name": "Mortal Kombat II",
-    "id": "smd252",
+    "id": "smd256",
     "igdbId": 1619,
     "gbId": 3571,
     "gbGuid": "3030-3571",
@@ -7429,8 +7576,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mr. Nutz",
+    "id": "smd257",
+    "igdbId": 19782,
+    "gbId": 15305,
+    "gbGuid": "3030-15305",
+    "details": [
+      "Genesis game only available in US via Sega Channel"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ms. Pac-Man",
-    "id": "smd253",
+    "id": "smd258",
     "igdbId": 131815,
     "gbId": 6332,
     "gbGuid": "3030-6332",
@@ -7457,7 +7631,7 @@
   },
   {
     "name": "Mutant League Hockey",
-    "id": "smd254",
+    "id": "smd259",
     "igdbId": 46253,
     "gbId": 8270,
     "gbGuid": "3030-8270",
@@ -7481,7 +7655,7 @@
   },
   {
     "name": "Mystic Defender",
-    "id": "smd255",
+    "id": "smd260",
     "igdbId": 27989,
     "gbId": 3162,
     "gbGuid": "3030-3162",
@@ -7519,7 +7693,7 @@
   },
   {
     "name": "Mystical Fighter",
-    "id": "smd256",
+    "id": "smd261",
     "igdbId": 45772,
     "gbId": 39087,
     "gbGuid": "3030-39087",
@@ -7543,7 +7717,7 @@
   },
   {
     "name": "NBA Action '95 Starring David Robinson",
-    "id": "smd257",
+    "id": "smd262",
     "igdbId": 4551,
     "gbId": 54372,
     "gbGuid": "3030-54372",
@@ -7607,7 +7781,7 @@
   },
   {
     "name": "NBA Action 94'",
-    "id": "smd258",
+    "id": "smd263",
     "igdbId": 45552,
     "gbId": 13784,
     "gbGuid": "3030-13784",
@@ -7660,7 +7834,7 @@
   },
   {
     "name": "NBA Hangtime",
-    "id": "smd259",
+    "id": "smd264",
     "igdbId": 3550,
     "gbId": 10512,
     "gbGuid": "3030-10512",
@@ -7700,7 +7874,7 @@
   },
   {
     "name": "NBA Jam (PAL)",
-    "id": "smd260",
+    "id": "smd265",
     "igdbId": 8995,
     "gbId": 16928,
     "gbGuid": "3030-16928",
@@ -7751,7 +7925,7 @@
   },
   {
     "name": "NBA Jam Tournament Edition",
-    "id": "smd261",
+    "id": "smd266",
     "igdbId": 19712,
     "gbId": 14792,
     "gbGuid": "3030-14792",
@@ -7791,7 +7965,7 @@
   },
   {
     "name": "NBA Live 95",
-    "id": "smd262",
+    "id": "smd267",
     "igdbId": 37285,
     "gbId": 3091,
     "gbGuid": "3030-3091",
@@ -7818,7 +7992,7 @@
   },
   {
     "name": "NBA Live 96",
-    "id": "smd263",
+    "id": "smd268",
     "igdbId": 809,
     "gbId": 20257,
     "gbGuid": "3030-20257",
@@ -7845,7 +8019,7 @@
   },
   {
     "name": "NBA Live 97",
-    "id": "smd264",
+    "id": "smd269",
     "igdbId": 20134,
     "gbId": 1356,
     "gbGuid": "3030-1356",
@@ -7872,7 +8046,7 @@
   },
   {
     "name": "NBA Live 98",
-    "id": "smd265",
+    "id": "smd270",
     "igdbId": 26013,
     "gbId": 15170,
     "gbGuid": "3030-15170",
@@ -7899,7 +8073,7 @@
   },
   {
     "name": "NBA Showdown",
-    "id": "smd266",
+    "id": "smd271",
     "igdbId": 45573,
     "gbId": 20242,
     "gbGuid": "3030-20242",
@@ -7939,7 +8113,7 @@
   },
   {
     "name": "NCAA Final Four Basketball",
-    "id": "smd267",
+    "id": "smd272",
     "igdbId": 4385,
     "gbId": 52965,
     "gbGuid": "3030-52965",
@@ -7979,7 +8153,7 @@
   },
   {
     "name": "NCAA Football",
-    "id": "smd268",
+    "id": "smd273",
     "igdbId": 46680,
     "gbId": 15972,
     "gbGuid": "3030-15972",
@@ -8019,7 +8193,7 @@
   },
   {
     "name": "NFL '95",
-    "id": "smd269",
+    "id": "smd274",
     "igdbId": 127140,
     "gbId": 4605,
     "gbGuid": "3030-4605",
@@ -8072,7 +8246,7 @@
   },
   {
     "name": "NFL Football '94 Starring Joe Montana",
-    "id": "smd270",
+    "id": "smd275",
     "igdbId": 46268,
     "gbId": 164,
     "gbGuid": "3030-164",
@@ -8110,7 +8284,7 @@
   },
   {
     "name": "NFL Prime Time '98",
-    "id": "smd271",
+    "id": "smd276",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -8137,7 +8311,7 @@
   },
   {
     "name": "NFL Quarterback Club",
-    "id": "smd272",
+    "id": "smd277",
     "igdbId": 114754,
     "gbId": 22136,
     "gbGuid": "3030-22136",
@@ -8164,7 +8338,7 @@
   },
   {
     "name": "NFL Quarterback Club 96",
-    "id": "smd273",
+    "id": "smd278",
     "igdbId": 25080,
     "gbId": 11504,
     "gbGuid": "3030-11504",
@@ -8204,7 +8378,7 @@
   },
   {
     "name": "NFL Sports Talk Football '93 Starring Joe Montana",
-    "id": "smd274",
+    "id": "smd279",
     "igdbId": 46267,
     "gbId": 8073,
     "gbGuid": "3030-8073",
@@ -8242,7 +8416,7 @@
   },
   {
     "name": "NFL Sports Talk Football '93 Starring Joe Montana",
-    "id": "smd275",
+    "id": "smd280",
     "igdbId": 72117,
     "gbId": 8073,
     "gbGuid": "3030-8073",
@@ -8269,7 +8443,7 @@
   },
   {
     "name": "NHL '94",
-    "id": "smd276",
+    "id": "smd281",
     "igdbId": 5405,
     "gbId": 20166,
     "gbGuid": "3030-20166",
@@ -8296,7 +8470,7 @@
   },
   {
     "name": "NHL 95",
-    "id": "smd277",
+    "id": "smd282",
     "igdbId": 4509,
     "gbId": 15126,
     "gbGuid": "3030-15126",
@@ -8323,7 +8497,7 @@
   },
   {
     "name": "NHL 96",
-    "id": "smd278",
+    "id": "smd283",
     "igdbId": 11650,
     "gbId": 7706,
     "gbGuid": "3030-7706",
@@ -8350,7 +8524,7 @@
   },
   {
     "name": "NHL 97",
-    "id": "smd279",
+    "id": "smd284",
     "igdbId": 242265,
     "gbId": 18663,
     "gbGuid": "3030-18663",
@@ -8377,7 +8551,7 @@
   },
   {
     "name": "NHL 98",
-    "id": "smd280",
+    "id": "smd285",
     "igdbId": 818,
     "gbId": 18845,
     "gbGuid": "3030-18845",
@@ -8404,7 +8578,7 @@
   },
   {
     "name": "NHL All-Star Hockey '95",
-    "id": "smd281",
+    "id": "smd286",
     "igdbId": 19559,
     "gbId": null,
     "gbGuid": null,
@@ -8442,7 +8616,7 @@
   },
   {
     "name": "NHL Hockey",
-    "id": "smd282",
+    "id": "smd287",
     "igdbId": 27062,
     "gbId": 11129,
     "gbGuid": "3030-11129",
@@ -8466,7 +8640,7 @@
   },
   {
     "name": "NHLPA Hockey 93",
-    "id": "smd283",
+    "id": "smd288",
     "igdbId": 42479,
     "gbId": 5450,
     "gbGuid": "3030-5450",
@@ -8493,7 +8667,7 @@
   },
   {
     "name": "Nakajima Satoru Kanshuu: F1 Super License",
-    "id": "smd284",
+    "id": "smd289",
     "igdbId": 45718,
     "gbId": null,
     "gbGuid": null,
@@ -8531,7 +8705,7 @@
   },
   {
     "name": "New 3D Golf Simulation: Harukanaru Augusta",
-    "id": "smd285",
+    "id": "smd290",
     "igdbId": 45746,
     "gbId": 22689,
     "gbGuid": "3030-22689",
@@ -8558,7 +8732,7 @@
   },
   {
     "name": "New 3D Golf Simulation: Waialae no Kiseki",
-    "id": "smd286",
+    "id": "smd291",
     "igdbId": 46161,
     "gbId": 2400,
     "gbGuid": "3030-2400",
@@ -8585,7 +8759,7 @@
   },
   {
     "name": "Nightmare Circus",
-    "id": "smd287",
+    "id": "smd292",
     "igdbId": 46177,
     "gbId": 1937,
     "gbGuid": "3030-1937",
@@ -8593,7 +8767,8 @@
     "details": [
       "Sega Genesis exclusive",
       "Sega Genesis 6 button compatible game",
-      "Sega Genesis 6 button controller MODE button extra functionality"
+      "Sega Genesis 6 button controller MODE button extra functionality",
+      "Genesis game only available in US via Sega Channel"
     ],
     "isExclusive": [
       {
@@ -8630,13 +8805,25 @@
           "tgdbId": 18
         },
         "category": "controller"
+      },
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Ninja Burai Densetsu",
-    "id": "smd288",
+    "id": "smd293",
     "igdbId": 46072,
     "gbId": 75819,
     "gbGuid": "3030-75819",
@@ -8663,7 +8850,7 @@
   },
   {
     "name": "Nobunaga no Yabou: Haou-den",
-    "id": "smd289",
+    "id": "smd294",
     "igdbId": 37901,
     "gbId": 28393,
     "gbGuid": "3030-28393",
@@ -8690,7 +8877,7 @@
   },
   {
     "name": "Nobunaga's Ambition",
-    "id": "smd290",
+    "id": "smd295",
     "igdbId": 4369,
     "gbId": 14028,
     "gbGuid": "3030-14028",
@@ -8717,7 +8904,7 @@
   },
   {
     "name": "Olympic Summer Games",
-    "id": "smd291",
+    "id": "smd296",
     "igdbId": 4493,
     "gbId": 12273,
     "gbGuid": "3030-12273",
@@ -8744,7 +8931,7 @@
   },
   {
     "name": "Operation Europe: Path to Victory 1939-45",
-    "id": "smd292",
+    "id": "smd297",
     "igdbId": 4417,
     "gbId": 6667,
     "gbGuid": "3030-6667",
@@ -8771,7 +8958,7 @@
   },
   {
     "name": "Osomatsu-kun: Hachamecha Gekijou",
-    "id": "smd293",
+    "id": "smd298",
     "igdbId": 4432,
     "gbId": 36294,
     "gbGuid": "3030-36294",
@@ -8795,7 +8982,7 @@
   },
   {
     "name": "OutRun",
-    "id": "smd294",
+    "id": "smd299",
     "igdbId": 2051,
     "gbId": 11260,
     "gbGuid": "3030-11260",
@@ -8823,7 +9010,7 @@
   },
   {
     "name": "OutRun 2019",
-    "id": "smd295",
+    "id": "smd300",
     "igdbId": 45767,
     "gbId": 3452,
     "gbGuid": "3030-3452",
@@ -8867,7 +9054,7 @@
   },
   {
     "name": "P.T.O.: Pacific Theater of Operations",
-    "id": "smd296",
+    "id": "smd301",
     "igdbId": 71695,
     "gbId": 5174,
     "gbGuid": "3030-5174",
@@ -8894,7 +9081,7 @@
   },
   {
     "name": "PGA European Tour",
-    "id": "smd297",
+    "id": "smd302",
     "igdbId": 12713,
     "gbId": 697,
     "gbGuid": "3030-697",
@@ -8921,7 +9108,7 @@
   },
   {
     "name": "PGA Tour 96",
-    "id": "smd298",
+    "id": "smd303",
     "igdbId": 4285,
     "gbId": 1760,
     "gbGuid": "3030-1760",
@@ -8948,7 +9135,7 @@
   },
   {
     "name": "PGA Tour Golf",
-    "id": "smd299",
+    "id": "smd304",
     "igdbId": 12714,
     "gbId": 6799,
     "gbGuid": "3030-6799",
@@ -8975,7 +9162,7 @@
   },
   {
     "name": "PGA Tour Golf II",
-    "id": "smd300",
+    "id": "smd305",
     "igdbId": 46343,
     "gbId": 21954,
     "gbGuid": "3030-21954",
@@ -9002,7 +9189,7 @@
   },
   {
     "name": "PGA Tour Golf III",
-    "id": "smd301",
+    "id": "smd306",
     "igdbId": 45781,
     "gbId": 14247,
     "gbGuid": "3030-14247",
@@ -9040,7 +9227,7 @@
   },
   {
     "name": "Pac-Man 2: The New Adventures",
-    "id": "smd302",
+    "id": "smd307",
     "igdbId": 11603,
     "gbId": 12294,
     "gbGuid": "3030-12294",
@@ -9058,7 +9245,7 @@
   },
   {
     "name": "Panorama Cotton",
-    "id": "smd303",
+    "id": "smd308",
     "igdbId": 45715,
     "gbId": 14193,
     "gbGuid": "3030-14193",
@@ -9082,7 +9269,7 @@
   },
   {
     "name": "Party Quiz Mega Q",
-    "id": "smd304",
+    "id": "smd309",
     "igdbId": 45611,
     "gbId": null,
     "gbGuid": null,
@@ -9109,7 +9296,7 @@
   },
   {
     "name": "Pat Riley Basketball",
-    "id": "smd305",
+    "id": "smd310",
     "igdbId": 28020,
     "gbId": 29303,
     "gbGuid": "3030-29303",
@@ -9147,7 +9334,7 @@
   },
   {
     "name": "Pele II: World Tournament Soccer",
-    "id": "smd306",
+    "id": "smd311",
     "igdbId": 4421,
     "gbId": 12028,
     "gbGuid": "3030-12028",
@@ -9185,7 +9372,7 @@
   },
   {
     "name": "Pelé!",
-    "id": "smd307",
+    "id": "smd312",
     "igdbId": 78098,
     "gbId": 42348,
     "gbGuid": "3030-42348",
@@ -9212,7 +9399,7 @@
   },
   {
     "name": "Pelé's Soccer",
-    "id": "smd308",
+    "id": "smd313",
     "igdbId": 18413,
     "gbId": 27183,
     "gbGuid": "3030-27183",
@@ -9239,7 +9426,7 @@
   },
   {
     "name": "Pepenga Pengo",
-    "id": "smd309",
+    "id": "smd314",
     "igdbId": 4503,
     "gbId": 46364,
     "gbGuid": "3030-46364",
@@ -9266,7 +9453,7 @@
   },
   {
     "name": "Phantasy Star",
-    "id": "smd310",
+    "id": "smd315",
     "igdbId": 1233,
     "gbId": 7400,
     "gbGuid": "3030-7400",
@@ -9293,7 +9480,7 @@
   },
   {
     "name": "Phantasy Star II",
-    "id": "smd311",
+    "id": "smd316",
     "igdbId": 1232,
     "gbId": 4492,
     "gbGuid": "3030-4492",
@@ -9334,7 +9521,7 @@
   },
   {
     "name": "Phantasy Star III: Generations of Doom",
-    "id": "smd312",
+    "id": "smd317",
     "igdbId": 1231,
     "gbId": 18253,
     "gbGuid": "3030-18253",
@@ -9375,7 +9562,7 @@
   },
   {
     "name": "Phantasy Star IV: The End of the Millennium",
-    "id": "smd313",
+    "id": "smd318",
     "igdbId": 1230,
     "gbId": 13493,
     "gbGuid": "3030-13493",
@@ -9402,7 +9589,7 @@
   },
   {
     "name": "Phantom 2040",
-    "id": "smd314",
+    "id": "smd319",
     "igdbId": 19713,
     "gbId": 2664,
     "gbGuid": "3030-2664",
@@ -9442,7 +9629,7 @@
   },
   {
     "name": "Phelios",
-    "id": "smd315",
+    "id": "smd320",
     "igdbId": 199420,
     "gbId": 16380,
     "gbGuid": "3030-16380",
@@ -9460,7 +9647,7 @@
   },
   {
     "name": "Pirates! Gold",
-    "id": "smd316",
+    "id": "smd321",
     "igdbId": 9232,
     "gbId": 13402,
     "gbGuid": "3030-13402",
@@ -9487,7 +9674,7 @@
   },
   {
     "name": "Pit Fighter",
-    "id": "smd317",
+    "id": "smd322",
     "igdbId": 6824,
     "gbId": 12530,
     "gbGuid": "3030-12530",
@@ -9505,7 +9692,7 @@
   },
   {
     "name": "Pitfall: The Mayan Adventure",
-    "id": "smd318",
+    "id": "smd323",
     "igdbId": 5410,
     "gbId": 9331,
     "gbGuid": "3030-9331",
@@ -9531,8 +9718,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Power Drive",
+    "id": "smd324",
+    "igdbId": 12720,
+    "gbId": 3888,
+    "gbGuid": "3030-3888",
+    "details": [
+      "Genesis game only available in US via Sega Channel"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Power Instinct",
-    "id": "smd319",
+    "id": "smd325",
     "igdbId": 45729,
     "gbId": 94,
     "gbGuid": "3030-94",
@@ -9559,7 +9773,7 @@
   },
   {
     "name": "PowerMonger",
-    "id": "smd320",
+    "id": "smd326",
     "igdbId": 5423,
     "gbId": 10027,
     "gbGuid": "3030-10027",
@@ -9592,7 +9806,7 @@
   },
   {
     "name": "Premier Manager",
-    "id": "smd321",
+    "id": "smd327",
     "igdbId": 4483,
     "gbId": 41450,
     "gbGuid": "3030-41450",
@@ -9619,7 +9833,7 @@
   },
   {
     "name": "Premier Manager 97",
-    "id": "smd322",
+    "id": "smd328",
     "igdbId": 45706,
     "gbId": 7009,
     "gbGuid": "3030-7009",
@@ -9646,7 +9860,7 @@
   },
   {
     "name": "Primal Rage (PAL)",
-    "id": "smd323",
+    "id": "smd329",
     "igdbId": 4271,
     "gbId": 14078,
     "gbGuid": "3030-14078",
@@ -9679,7 +9893,7 @@
   },
   {
     "name": "Prime Time Football '96",
-    "id": "smd324",
+    "id": "smd330",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -9702,7 +9916,7 @@
   },
   {
     "name": "Prime Time NFL Starring Deion Sanders",
-    "id": "smd325",
+    "id": "smd331",
     "igdbId": 45770,
     "gbId": 26459,
     "gbGuid": "3030-26459",
@@ -9753,7 +9967,7 @@
   },
   {
     "name": "Pro Moves Soccer",
-    "id": "smd326",
+    "id": "smd332",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -9777,7 +9991,7 @@
   },
   {
     "name": "Pro Striker: Final Stage",
-    "id": "smd327",
+    "id": "smd333",
     "igdbId": 4550,
     "gbId": null,
     "gbGuid": null,
@@ -9817,7 +10031,7 @@
   },
   {
     "name": "Psy-O-Blade",
-    "id": "smd328",
+    "id": "smd334",
     "igdbId": 28023,
     "gbId": 991,
     "gbGuid": "3030-991",
@@ -9843,8 +10057,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Pulseman",
+    "id": "smd335",
+    "igdbId": 45760,
+    "gbId": 3637,
+    "gbGuid": "3030-3637",
+    "details": [
+      "Genesis game only available in US via Sega Channel"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Genesis game only available in US via Sega Channel",
+        "forPlatform": {
+          "name": "Sega Mega Drive/Genesis",
+          "id": "ccl14",
+          "igdbId": 29,
+          "gbId": 6,
+          "gbGuid": "3045-6",
+          "tgdbId": 18
+        },
+        "category": "special"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Puzzle & Action: Tant-R",
-    "id": "smd329",
+    "id": "smd336",
     "igdbId": 46071,
     "gbId": null,
     "gbGuid": null,
@@ -9871,7 +10112,7 @@
   },
   {
     "name": "Puzzle & Action: Tanto-R",
-    "id": "smd330",
+    "id": "smd337",
     "igdbId": 45713,
     "gbId": null,
     "gbGuid": null,
@@ -9898,7 +10139,7 @@
   },
   {
     "name": "QuackShot Starring Donald Duck",
-    "id": "smd331",
+    "id": "smd338",
     "igdbId": 46213,
     "gbId": 9412,
     "gbGuid": "3030-9412",
@@ -9926,7 +10167,7 @@
   },
   {
     "name": "Quad Challenge",
-    "id": "smd332",
+    "id": "smd339",
     "igdbId": 46212,
     "gbId": 73663,
     "gbGuid": "3030-73663",
@@ -9950,7 +10191,7 @@
   },
   {
     "name": "R.B.I. Baseball '94 (PAL)",
-    "id": "smd333",
+    "id": "smd340",
     "igdbId": null,
     "gbId": 34381,
     "gbGuid": "3030-34381",
@@ -9968,7 +10209,7 @@
   },
   {
     "name": "Rambo III",
-    "id": "smd334",
+    "id": "smd341",
     "igdbId": 18145,
     "gbId": 1172,
     "gbGuid": "3030-1172",
@@ -10006,7 +10247,7 @@
   },
   {
     "name": "Ranger X",
-    "id": "smd335",
+    "id": "smd342",
     "igdbId": 46265,
     "gbId": 1421,
     "gbGuid": "3030-1421",
@@ -10044,7 +10285,7 @@
   },
   {
     "name": "Red Zone",
-    "id": "smd336",
+    "id": "smd343",
     "igdbId": 81530,
     "gbId": 13618,
     "gbGuid": "3030-13618",
@@ -10068,7 +10309,7 @@
   },
   {
     "name": "Rent-A-Hero",
-    "id": "smd337",
+    "id": "smd344",
     "igdbId": 145509,
     "gbId": 34513,
     "gbGuid": "3030-34513",
@@ -10095,7 +10336,7 @@
   },
   {
     "name": "Rings of Power",
-    "id": "smd338",
+    "id": "smd345",
     "igdbId": 7224,
     "gbId": 13615,
     "gbGuid": "3030-13615",
@@ -10133,7 +10374,7 @@
   },
   {
     "name": "Road Rash 3",
-    "id": "smd339",
+    "id": "smd346",
     "igdbId": 7703,
     "gbId": 1253,
     "gbGuid": "3030-1253",
@@ -10157,7 +10398,7 @@
   },
   {
     "name": "Rocket Knight Adventures",
-    "id": "smd340",
+    "id": "smd347",
     "igdbId": 9766,
     "gbId": 6339,
     "gbGuid": "3030-6339",
@@ -10181,7 +10422,7 @@
   },
   {
     "name": "Rolling Thunder 3",
-    "id": "smd341",
+    "id": "smd348",
     "igdbId": 46243,
     "gbId": 1652,
     "gbGuid": "3030-1652",
@@ -10205,7 +10446,7 @@
   },
   {
     "name": "Rolo to the Rescue",
-    "id": "smd342",
+    "id": "smd349",
     "igdbId": 46200,
     "gbId": 10371,
     "gbGuid": "3030-10371",
@@ -10229,7 +10470,7 @@
   },
   {
     "name": "Romance of the Three Kingdoms II",
-    "id": "smd343",
+    "id": "smd350",
     "igdbId": 7026,
     "gbId": 4187,
     "gbGuid": "3030-4187",
@@ -10256,7 +10497,7 @@
   },
   {
     "name": "Romance of the Three Kingdoms III: Dragon of Destiny",
-    "id": "smd344",
+    "id": "smd351",
     "igdbId": 5431,
     "gbId": 16347,
     "gbGuid": "3030-16347",
@@ -10283,7 +10524,7 @@
   },
   {
     "name": "Saint Sword",
-    "id": "smd345",
+    "id": "smd352",
     "igdbId": 46199,
     "gbId": 6028,
     "gbGuid": "3030-6028",
@@ -10307,7 +10548,7 @@
   },
   {
     "name": "Sampras Tennis 96",
-    "id": "smd346",
+    "id": "smd353",
     "igdbId": 46183,
     "gbId": 1162,
     "gbGuid": "3030-1162",
@@ -10331,7 +10572,7 @@
   },
   {
     "name": "Samurai Shodown",
-    "id": "smd347",
+    "id": "smd354",
     "igdbId": 4260,
     "gbId": 5692,
     "gbGuid": "3030-5692",
@@ -10358,7 +10599,7 @@
   },
   {
     "name": "Sangokushi Retsuden: Ransei no Eiyuu-tachi",
-    "id": "smd348",
+    "id": "smd355",
     "igdbId": 45610,
     "gbId": 72212,
     "gbGuid": "3030-72212",
@@ -10385,7 +10626,7 @@
   },
   {
     "name": "Sega Sports 1",
-    "id": "smd349",
+    "id": "smd356",
     "igdbId": 56844,
     "gbId": 58064,
     "gbGuid": "3030-58064",
@@ -10412,7 +10653,7 @@
   },
   {
     "name": "Shadow Blasters",
-    "id": "smd350",
+    "id": "smd357",
     "igdbId": 4522,
     "gbId": 50235,
     "gbGuid": "3030-50235",
@@ -10436,7 +10677,7 @@
   },
   {
     "name": "Shadow Dancer: The Secret of Shinobi",
-    "id": "smd351",
+    "id": "smd358",
     "igdbId": 10217,
     "gbId": 9761,
     "gbGuid": "3030-9761",
@@ -10464,7 +10705,7 @@
   },
   {
     "name": "Shadowrun",
-    "id": "smd352",
+    "id": "smd359",
     "igdbId": 3000,
     "gbId": 21710,
     "gbGuid": "3030-21710",
@@ -10508,7 +10749,7 @@
   },
   {
     "name": "Shane Warne Cricket ",
-    "id": "smd353",
+    "id": "smd360",
     "igdbId": null,
     "gbId": 57348,
     "gbGuid": "3030-57348",
@@ -10535,7 +10776,7 @@
   },
   {
     "name": "Shaq-Fu",
-    "id": "smd354",
+    "id": "smd361",
     "igdbId": 8536,
     "gbId": 4855,
     "gbGuid": "3030-4855",
@@ -10562,7 +10803,7 @@
   },
   {
     "name": "Shining Force",
-    "id": "smd355",
+    "id": "smd362",
     "igdbId": 3041,
     "gbId": 20113,
     "gbGuid": "3030-20113",
@@ -10603,7 +10844,7 @@
   },
   {
     "name": "Shining Force II",
-    "id": "smd356",
+    "id": "smd363",
     "igdbId": 3197,
     "gbId": 14528,
     "gbGuid": "3030-14528",
@@ -10630,7 +10871,7 @@
   },
   {
     "name": "Shining in the Darkness",
-    "id": "smd357",
+    "id": "smd364",
     "igdbId": 9406,
     "gbId": 15684,
     "gbGuid": "3030-15684",
@@ -10671,7 +10912,7 @@
   },
   {
     "name": "Shinobi III: Return of the Ninja Master",
-    "id": "smd358",
+    "id": "smd365",
     "igdbId": 2623,
     "gbId": 16074,
     "gbGuid": "3030-16074",
@@ -10698,7 +10939,7 @@
   },
   {
     "name": "Shui Hu Zhuan",
-    "id": "smd359",
+    "id": "smd366",
     "igdbId": 78259,
     "gbId": 18210,
     "gbGuid": "3030-18210",
@@ -10725,7 +10966,7 @@
   },
   {
     "name": "Skitchin'",
-    "id": "smd360",
+    "id": "smd367",
     "igdbId": 27075,
     "gbId": 18512,
     "gbGuid": "3030-18512",
@@ -10749,7 +10990,7 @@
   },
   {
     "name": "Slam Dunk: Kyougou Makkou Taiketsu!",
-    "id": "smd361",
+    "id": "smd368",
     "igdbId": 45640,
     "gbId": 44626,
     "gbGuid": "3030-44626",
@@ -10776,7 +11017,7 @@
   },
   {
     "name": "Slap Fight",
-    "id": "smd362",
+    "id": "smd369",
     "igdbId": 37296,
     "gbId": null,
     "gbGuid": null,
@@ -10800,7 +11041,7 @@
   },
   {
     "name": "Slaughter Sport",
-    "id": "smd363",
+    "id": "smd370",
     "igdbId": 4378,
     "gbId": 14672,
     "gbGuid": "3030-14672",
@@ -10828,7 +11069,7 @@
   },
   {
     "name": "Socket",
-    "id": "smd364",
+    "id": "smd371",
     "igdbId": 4439,
     "gbId": 31951,
     "gbGuid": "3030-31951",
@@ -10852,7 +11093,7 @@
   },
   {
     "name": "Sonic Crackers",
-    "id": "smd365",
+    "id": "smd372",
     "igdbId": 45753,
     "gbId": 22616,
     "gbGuid": "3030-22616",
@@ -10879,7 +11120,7 @@
   },
   {
     "name": "Sonic The Hedgehog",
-    "id": "smd366",
+    "id": "smd373",
     "igdbId": 3192,
     "gbId": 2465,
     "gbGuid": "3030-2465",
@@ -10907,7 +11148,7 @@
   },
   {
     "name": "Sonic the Hedgehog 2",
-    "id": "smd367",
+    "id": "smd374",
     "igdbId": 4438,
     "gbId": 1662,
     "gbGuid": "3030-1662",
@@ -10930,7 +11171,7 @@
   },
   {
     "name": "Sonic the Hedgehog 3",
-    "id": "smd368",
+    "id": "smd375",
     "igdbId": 6797,
     "gbId": 4628,
     "gbGuid": "3030-4628",
@@ -10963,7 +11204,7 @@
   },
   {
     "name": "Sorcerer's Kingdom",
-    "id": "smd369",
+    "id": "smd376",
     "igdbId": 46197,
     "gbId": 8490,
     "gbGuid": "3030-8490",
@@ -11001,7 +11242,7 @@
   },
   {
     "name": "Sorcerian",
-    "id": "smd370",
+    "id": "smd377",
     "igdbId": 14486,
     "gbId": 2411,
     "gbGuid": "3030-2411",
@@ -11028,7 +11269,7 @@
   },
   {
     "name": "Space Harrier II",
-    "id": "smd371",
+    "id": "smd378",
     "igdbId": 4498,
     "gbId": 12420,
     "gbGuid": "3030-12420",
@@ -11066,7 +11307,7 @@
   },
   {
     "name": "Sparkster",
-    "id": "smd372",
+    "id": "smd379",
     "igdbId": 1264,
     "gbId": 21235,
     "gbGuid": "3030-21235",
@@ -11090,7 +11331,7 @@
   },
   {
     "name": "Spider-Man",
-    "id": "smd373",
+    "id": "smd380",
     "igdbId": 4500,
     "gbId": 2926,
     "gbGuid": "3030-2926",
@@ -11118,7 +11359,7 @@
   },
   {
     "name": "Sports Talk Baseball",
-    "id": "smd374",
+    "id": "smd381",
     "igdbId": 46261,
     "gbId": 15142,
     "gbGuid": "3030-15142",
@@ -11169,7 +11410,7 @@
   },
   {
     "name": "Star Odyssey",
-    "id": "smd375",
+    "id": "smd382",
     "igdbId": 45757,
     "gbId": 3285,
     "gbGuid": "3030-3285",
@@ -11196,7 +11437,7 @@
   },
   {
     "name": "Star Trek: The Next Generation - Echoes from the Past",
-    "id": "smd376",
+    "id": "smd383",
     "igdbId": 46195,
     "gbId": 996,
     "gbGuid": "3030-996",
@@ -11223,7 +11464,7 @@
   },
   {
     "name": "Starflight",
-    "id": "smd377",
+    "id": "smd384",
     "igdbId": 2886,
     "gbId": 3607,
     "gbGuid": "3030-3607",
@@ -11263,7 +11504,7 @@
   },
   {
     "name": "Stormlord",
-    "id": "smd378",
+    "id": "smd385",
     "igdbId": 12781,
     "gbId": 1044,
     "gbGuid": "3030-1044",
@@ -11291,7 +11532,7 @@
   },
   {
     "name": "Street Fighter II: Special Champion Edition",
-    "id": "smd379",
+    "id": "smd386",
     "igdbId": 4367,
     "gbId": 1096,
     "gbGuid": "3030-1096",
@@ -11318,7 +11559,7 @@
   },
   {
     "name": "Street Racer",
-    "id": "smd380",
+    "id": "smd387",
     "igdbId": 19770,
     "gbId": 22190,
     "gbGuid": "3030-22190",
@@ -11345,7 +11586,7 @@
   },
   {
     "name": "Streets of Rage",
-    "id": "smd381",
+    "id": "smd388",
     "igdbId": 1652,
     "gbId": 20436,
     "gbGuid": "3030-20436",
@@ -11378,7 +11619,7 @@
   },
   {
     "name": "Streets of Rage 2",
-    "id": "smd382",
+    "id": "smd389",
     "igdbId": 1653,
     "gbId": 18122,
     "gbGuid": "3030-18122",
@@ -11396,7 +11637,7 @@
   },
   {
     "name": "Streets of Rage 3",
-    "id": "smd383",
+    "id": "smd390",
     "igdbId": 1654,
     "gbId": 15924,
     "gbGuid": "3030-15924",
@@ -11423,7 +11664,7 @@
   },
   {
     "name": "Strider",
-    "id": "smd384",
+    "id": "smd391",
     "igdbId": 6969,
     "gbId": 26410,
     "gbGuid": "3030-26410",
@@ -11451,7 +11692,7 @@
   },
   {
     "name": "Strider Returns",
-    "id": "smd385",
+    "id": "smd392",
     "igdbId": 72621,
     "gbId": 23690,
     "gbGuid": "3030-23690",
@@ -11469,7 +11710,7 @@
   },
   {
     "name": "Striker",
-    "id": "smd386",
+    "id": "smd393",
     "igdbId": 12783,
     "gbId": 28817,
     "gbGuid": "3030-28817",
@@ -11496,7 +11737,7 @@
   },
   {
     "name": "Striker",
-    "id": "smd387",
+    "id": "smd394",
     "igdbId": 237503,
     "gbId": 28817,
     "gbGuid": "3030-28817",
@@ -11523,7 +11764,7 @@
   },
   {
     "name": "Sub Terrania",
-    "id": "smd388",
+    "id": "smd395",
     "igdbId": 22680,
     "gbId": 19046,
     "gbGuid": "3030-19046",
@@ -11547,7 +11788,7 @@
   },
   {
     "name": "Sunset Riders",
-    "id": "smd389",
+    "id": "smd396",
     "igdbId": 4370,
     "gbId": 5690,
     "gbGuid": "3030-5690",
@@ -11574,7 +11815,7 @@
   },
   {
     "name": "Super Daisenryaku",
-    "id": "smd390",
+    "id": "smd397",
     "igdbId": 27970,
     "gbId": 33738,
     "gbGuid": "3030-33738",
@@ -11601,7 +11842,7 @@
   },
   {
     "name": "Super Hang-On (PAL)",
-    "id": "smd391",
+    "id": "smd398",
     "igdbId": 6145,
     "gbId": 18692,
     "gbGuid": "3030-18692",
@@ -11634,7 +11875,7 @@
   },
   {
     "name": "Super Hydlide",
-    "id": "smd392",
+    "id": "smd399",
     "igdbId": 27987,
     "gbId": 15921,
     "gbGuid": "3030-15921",
@@ -11661,7 +11902,7 @@
   },
   {
     "name": "Super Kick-Off",
-    "id": "smd393",
+    "id": "smd400",
     "igdbId": 45797,
     "gbId": 14503,
     "gbGuid": "3030-14503",
@@ -11688,7 +11929,7 @@
   },
   {
     "name": "Super Monaco GP",
-    "id": "smd394",
+    "id": "smd401",
     "igdbId": 4528,
     "gbId": 532,
     "gbGuid": "3030-532",
@@ -11716,7 +11957,7 @@
   },
   {
     "name": "Super Street Fighter II: The New Challengers",
-    "id": "smd395",
+    "id": "smd402",
     "igdbId": 12860,
     "gbId": 6665,
     "gbGuid": "3030-6665",
@@ -11743,7 +11984,7 @@
   },
   {
     "name": "Super Thunder Blade",
-    "id": "smd396",
+    "id": "smd403",
     "igdbId": 4471,
     "gbId": 234,
     "gbGuid": "3030-234",
@@ -11771,7 +12012,7 @@
   },
   {
     "name": "Super Volleyball",
-    "id": "smd397",
+    "id": "smd404",
     "igdbId": 46192,
     "gbId": 34438,
     "gbGuid": "3030-34438",
@@ -11799,7 +12040,7 @@
   },
   {
     "name": "Superman",
-    "id": "smd398",
+    "id": "smd405",
     "igdbId": 3005,
     "gbId": 30327,
     "gbGuid": "3030-30327",
@@ -11823,7 +12064,7 @@
   },
   {
     "name": "Surging Aura",
-    "id": "smd399",
+    "id": "smd406",
     "igdbId": 46172,
     "gbId": 7983,
     "gbGuid": "3030-7983",
@@ -11850,7 +12091,7 @@
   },
   {
     "name": "Sword of Vermilion",
-    "id": "smd400",
+    "id": "smd407",
     "igdbId": 30148,
     "gbId": null,
     "gbGuid": null,
@@ -11878,7 +12119,7 @@
   },
   {
     "name": "Sword of Vermilion",
-    "id": "smd401",
+    "id": "smd408",
     "igdbId": 3194,
     "gbId": 13695,
     "gbGuid": "3030-13695",
@@ -11905,7 +12146,7 @@
   },
   {
     "name": "Sylvester and Tweety in Cagey Capers",
-    "id": "smd402",
+    "id": "smd409",
     "igdbId": 46190,
     "gbId": 19102,
     "gbGuid": "3030-19102",
@@ -11929,7 +12170,7 @@
   },
   {
     "name": "T2: The Arcade Game",
-    "id": "smd403",
+    "id": "smd410",
     "igdbId": 12861,
     "gbId": null,
     "gbGuid": null,
@@ -11956,7 +12197,7 @@
   },
   {
     "name": "TNN Bass Tournament of Champions",
-    "id": "smd404",
+    "id": "smd411",
     "igdbId": 46592,
     "gbId": 28300,
     "gbGuid": "3030-28300",
@@ -11983,7 +12224,7 @@
   },
   {
     "name": "TNN Outdoors Bass Tournament '96",
-    "id": "smd405",
+    "id": "smd412",
     "igdbId": 46244,
     "gbId": 26540,
     "gbGuid": "3030-26540",
@@ -12021,7 +12262,7 @@
   },
   {
     "name": "Taiheiki",
-    "id": "smd406",
+    "id": "smd413",
     "igdbId": 4397,
     "gbId": 55776,
     "gbGuid": "3030-55776",
@@ -12048,7 +12289,7 @@
   },
   {
     "name": "TaleSpin",
-    "id": "smd407",
+    "id": "smd414",
     "igdbId": 8067,
     "gbId": 48591,
     "gbGuid": "3030-48591",
@@ -12076,7 +12317,7 @@
   },
   {
     "name": "Talmit's Adventure (PAL)",
-    "id": "smd408",
+    "id": "smd415",
     "igdbId": 45570,
     "gbId": 1054,
     "gbGuid": "3030-1054",
@@ -12094,7 +12335,7 @@
   },
   {
     "name": "Taz in Escape From Mars",
-    "id": "smd409",
+    "id": "smd416",
     "igdbId": 8065,
     "gbId": 19748,
     "gbGuid": "3030-19748",
@@ -12117,7 +12358,7 @@
   },
   {
     "name": "Taz-Mania",
-    "id": "smd410",
+    "id": "smd417",
     "igdbId": 8066,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -12155,7 +12396,7 @@
   },
   {
     "name": "Team USA Basketball",
-    "id": "smd411",
+    "id": "smd418",
     "igdbId": 46260,
     "gbId": 18969,
     "gbGuid": "3030-18969",
@@ -12179,7 +12420,7 @@
   },
   {
     "name": "Techno Cop",
-    "id": "smd412",
+    "id": "smd419",
     "igdbId": 22746,
     "gbId": 11861,
     "gbGuid": "3030-11861",
@@ -12207,7 +12448,7 @@
   },
   {
     "name": "Technoclash",
-    "id": "smd413",
+    "id": "smd420",
     "igdbId": 4535,
     "gbId": 5927,
     "gbGuid": "3030-5927",
@@ -12245,7 +12486,7 @@
   },
   {
     "name": "Tecmo Cup Football Game",
-    "id": "smd414",
+    "id": "smd421",
     "igdbId": 46166,
     "gbId": null,
     "gbGuid": null,
@@ -12269,7 +12510,7 @@
   },
   {
     "name": "Tecmo Super Baseball",
-    "id": "smd415",
+    "id": "smd422",
     "igdbId": 46246,
     "gbId": 22849,
     "gbGuid": "3030-22849",
@@ -12296,7 +12537,7 @@
   },
   {
     "name": "Tecmo Super Bowl",
-    "id": "smd416",
+    "id": "smd423",
     "igdbId": 4396,
     "gbId": 31196,
     "gbGuid": "3030-31196",
@@ -12323,7 +12564,7 @@
   },
   {
     "name": "Tecmo Super Bowl II: Special Edition",
-    "id": "smd417",
+    "id": "smd424",
     "igdbId": 46598,
     "gbId": 15179,
     "gbGuid": "3030-15179",
@@ -12350,7 +12591,7 @@
   },
   {
     "name": "Tecmo Super Bowl III: Final Edition",
-    "id": "smd418",
+    "id": "smd425",
     "igdbId": 42445,
     "gbId": 17931,
     "gbGuid": "3030-17931",
@@ -12377,7 +12618,7 @@
   },
   {
     "name": "Tecmo Super Hockey",
-    "id": "smd419",
+    "id": "smd426",
     "igdbId": 46597,
     "gbId": 30091,
     "gbGuid": "3030-30091",
@@ -12415,7 +12656,7 @@
   },
   {
     "name": "Tecmo Super NBA Basketball",
-    "id": "smd420",
+    "id": "smd427",
     "igdbId": 46596,
     "gbId": 15820,
     "gbGuid": "3030-15820",
@@ -12442,7 +12683,7 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
-    "id": "smd421",
+    "id": "smd428",
     "igdbId": 4404,
     "gbId": 11404,
     "gbGuid": "3030-11404",
@@ -12466,7 +12707,7 @@
   },
   {
     "name": "Teenage Mutant Ninja Turtles: Tournament Fighters",
-    "id": "smd422",
+    "id": "smd429",
     "igdbId": 48274,
     "gbId": 4896,
     "gbGuid": "3030-4896",
@@ -12490,7 +12731,7 @@
   },
   {
     "name": "Tel Tel Mahjong",
-    "id": "smd423",
+    "id": "smd430",
     "igdbId": 4485,
     "gbId": 64866,
     "gbGuid": "3030-64866",
@@ -12514,7 +12755,7 @@
   },
   {
     "name": "Tel-Tel Stadium",
-    "id": "smd424",
+    "id": "smd431",
     "igdbId": 47059,
     "gbId": 69644,
     "gbGuid": "3030-69644",
@@ -12552,7 +12793,7 @@
   },
   {
     "name": "The Adventures of Batman & Robin",
-    "id": "smd425",
+    "id": "smd432",
     "igdbId": 5346,
     "gbId": 12434,
     "gbGuid": "3030-12434",
@@ -12576,7 +12817,7 @@
   },
   {
     "name": "The Adventures of Rocky and Bullwinkle and Friends",
-    "id": "smd426",
+    "id": "smd433",
     "igdbId": 5347,
     "gbId": 8118,
     "gbGuid": "3030-8118",
@@ -12604,7 +12845,7 @@
   },
   {
     "name": "The Death and Return of Superman",
-    "id": "smd427",
+    "id": "smd434",
     "igdbId": 453,
     "gbId": 11075,
     "gbGuid": "3030-11075",
@@ -12631,7 +12872,7 @@
   },
   {
     "name": "The Duel: Test Drive II",
-    "id": "smd428",
+    "id": "smd435",
     "igdbId": 2201,
     "gbId": 5627,
     "gbGuid": "3030-5627",
@@ -12658,7 +12899,7 @@
   },
   {
     "name": "The Faery Tale Adventure",
-    "id": "smd429",
+    "id": "smd436",
     "igdbId": 12087,
     "gbId": 18447,
     "gbGuid": "3030-18447",
@@ -12685,7 +12926,7 @@
   },
   {
     "name": "The Flintstones",
-    "id": "smd430",
+    "id": "smd437",
     "igdbId": 51942,
     "gbId": 16005,
     "gbGuid": "3030-16005",
@@ -12709,7 +12950,7 @@
   },
   {
     "name": "The Games: Summer Challenge",
-    "id": "smd431",
+    "id": "smd438",
     "igdbId": 4510,
     "gbId": 3426,
     "gbGuid": "3030-3426",
@@ -12736,7 +12977,7 @@
   },
   {
     "name": "The Great Circus Mystery starring Mickey & Minnie",
-    "id": "smd432",
+    "id": "smd439",
     "igdbId": 4407,
     "gbId": 5735,
     "gbGuid": "3030-5735",
@@ -12763,7 +13004,7 @@
   },
   {
     "name": "The Hybrid Front",
-    "id": "smd433",
+    "id": "smd440",
     "igdbId": 45620,
     "gbId": 51224,
     "gbGuid": "3030-51224",
@@ -12790,7 +13031,7 @@
   },
   {
     "name": "The Lion King",
-    "id": "smd434",
+    "id": "smd441",
     "igdbId": 3166,
     "gbId": 9186,
     "gbGuid": "3030-9186",
@@ -12817,7 +13058,7 @@
   },
   {
     "name": "The Lost Vikings",
-    "id": "smd435",
+    "id": "smd442",
     "igdbId": 454,
     "gbId": 5429,
     "gbGuid": "3030-5429",
@@ -12844,7 +13085,7 @@
   },
   {
     "name": "The Lost Vikings",
-    "id": "smd436",
+    "id": "smd443",
     "igdbId": 144423,
     "gbId": 5429,
     "gbGuid": "3030-5429",
@@ -12884,7 +13125,7 @@
   },
   {
     "name": "The Lost World Jurassic Park",
-    "id": "smd437",
+    "id": "smd444",
     "igdbId": 8075,
     "gbId": 4125,
     "gbGuid": "3030-4125",
@@ -12908,7 +13149,7 @@
   },
   {
     "name": "The Revenge of Shinobi",
-    "id": "smd438",
+    "id": "smd445",
     "igdbId": 3327,
     "gbId": 236,
     "gbGuid": "3030-236",
@@ -12936,7 +13177,7 @@
   },
   {
     "name": "Thor",
-    "id": "smd439",
+    "id": "smd446",
     "igdbId": 95414,
     "gbId": 14986,
     "gbGuid": "3030-14986",
@@ -12963,7 +13204,7 @@
   },
   {
     "name": "Thunder Force II",
-    "id": "smd440",
+    "id": "smd447",
     "igdbId": 6033,
     "gbId": 12471,
     "gbGuid": "3030-12471",
@@ -13001,7 +13242,7 @@
   },
   {
     "name": "Thunder Force IV (PAL)",
-    "id": "smd441",
+    "id": "smd448",
     "igdbId": 6034,
     "gbId": 11627,
     "gbGuid": "3030-11627",
@@ -13019,7 +13260,7 @@
   },
   {
     "name": "Thunder Pro Wrestling Retsuden",
-    "id": "smd442",
+    "id": "smd449",
     "igdbId": 46165,
     "gbId": null,
     "gbGuid": null,
@@ -13043,7 +13284,7 @@
   },
   {
     "name": "Tinhead",
-    "id": "smd443",
+    "id": "smd450",
     "igdbId": 46593,
     "gbId": 468,
     "gbGuid": "3030-468",
@@ -13067,7 +13308,7 @@
   },
   {
     "name": "Tiny Toon Adventures: ACME All-Stars",
-    "id": "smd444",
+    "id": "smd451",
     "igdbId": 8052,
     "gbId": 14369,
     "gbGuid": "3030-14369",
@@ -13105,7 +13346,7 @@
   },
   {
     "name": "Tiny Toon Adventures: Buster's Hidden Treasure",
-    "id": "smd445",
+    "id": "smd452",
     "igdbId": 8049,
     "gbId": 9716,
     "gbGuid": "3030-9716",
@@ -13129,7 +13370,7 @@
   },
   {
     "name": "ToeJam & Earl",
-    "id": "smd446",
+    "id": "smd453",
     "igdbId": 8389,
     "gbId": 13306,
     "gbGuid": "3030-13306",
@@ -13157,7 +13398,7 @@
   },
   {
     "name": "ToeJam & Earl in Panic on Funkotron",
-    "id": "smd447",
+    "id": "smd454",
     "igdbId": 11123,
     "gbId": 16795,
     "gbGuid": "3030-16795",
@@ -13184,7 +13425,7 @@
   },
   {
     "name": "Toki",
-    "id": "smd448",
+    "id": "smd455",
     "igdbId": 12228,
     "gbId": 9823,
     "gbGuid": "3030-9823",
@@ -13212,7 +13453,7 @@
   },
   {
     "name": "Tom Mason's Dinosaurs for Hire",
-    "id": "smd449",
+    "id": "smd456",
     "igdbId": 46252,
     "gbId": 7583,
     "gbGuid": "3030-7583",
@@ -13236,7 +13477,7 @@
   },
   {
     "name": "Tommy Lasorda Baseball",
-    "id": "smd450",
+    "id": "smd457",
     "igdbId": null,
     "gbId": 11264,
     "gbGuid": "3030-11264",
@@ -13274,7 +13515,7 @@
   },
   {
     "name": "Tony La Russa Baseball '95",
-    "id": "smd451",
+    "id": "smd458",
     "igdbId": 95378,
     "gbId": 16854,
     "gbGuid": "3030-16854",
@@ -13301,7 +13542,7 @@
   },
   {
     "name": "Tougi-Ou: King Colossus",
-    "id": "smd452",
+    "id": "smd459",
     "igdbId": 46524,
     "gbId": 13139,
     "gbGuid": "3030-13139",
@@ -13339,7 +13580,7 @@
   },
   {
     "name": "Toxic Crusaders",
-    "id": "smd453",
+    "id": "smd460",
     "igdbId": 8022,
     "gbId": 10876,
     "gbGuid": "3030-10876",
@@ -13367,7 +13608,7 @@
   },
   {
     "name": "Toys",
-    "id": "smd454",
+    "id": "smd461",
     "igdbId": 78103,
     "gbId": 2166,
     "gbGuid": "3030-2166",
@@ -13395,7 +13636,7 @@
   },
   {
     "name": "Trampoline Terror!",
-    "id": "smd455",
+    "id": "smd462",
     "igdbId": 46689,
     "gbId": 22753,
     "gbGuid": "3030-22753",
@@ -13419,7 +13660,7 @@
   },
   {
     "name": "Traysia",
-    "id": "smd456",
+    "id": "smd463",
     "igdbId": 46259,
     "gbId": 10121,
     "gbGuid": "3030-10121",
@@ -13446,7 +13687,7 @@
   },
   {
     "name": "Triple Play 96",
-    "id": "smd457",
+    "id": "smd464",
     "igdbId": 46245,
     "gbId": 39096,
     "gbGuid": "3030-39096",
@@ -13486,7 +13727,7 @@
   },
   {
     "name": "Triple Play Baseball",
-    "id": "smd458",
+    "id": "smd465",
     "igdbId": 44924,
     "gbId": 9670,
     "gbGuid": "3030-9670",
@@ -13510,7 +13751,7 @@
   },
   {
     "name": "Triple Play: Gold Edition",
-    "id": "smd459",
+    "id": "smd466",
     "igdbId": 4488,
     "gbId": 39096,
     "gbGuid": "3030-39096",
@@ -13537,7 +13778,7 @@
   },
   {
     "name": "Triple Score: 3 Games in 1 (PAL)",
-    "id": "smd460",
+    "id": "smd467",
     "igdbId": 10193,
     "gbId": 18978,
     "gbGuid": "3030-18978",
@@ -13555,7 +13796,7 @@
   },
   {
     "name": "Trouble Shooter",
-    "id": "smd461",
+    "id": "smd468",
     "igdbId": 26556,
     "gbId": 11119,
     "gbGuid": "3030-11119",
@@ -13579,7 +13820,7 @@
   },
   {
     "name": "Troy Aikman NFL Football",
-    "id": "smd462",
+    "id": "smd469",
     "igdbId": 40829,
     "gbId": 17989,
     "gbGuid": "3030-17989",
@@ -13606,7 +13847,7 @@
   },
   {
     "name": "True Golf Classics: Pebble Beach Golf Links",
-    "id": "smd463",
+    "id": "smd470",
     "igdbId": 4533,
     "gbId": 30465,
     "gbGuid": "3030-30465",
@@ -13633,7 +13874,7 @@
   },
   {
     "name": "True Golf Classics: Wicked 18",
-    "id": "smd464",
+    "id": "smd471",
     "igdbId": 38401,
     "gbId": 41248,
     "gbGuid": "3030-41248",
@@ -13660,7 +13901,7 @@
   },
   {
     "name": "True Lies",
-    "id": "smd465",
+    "id": "smd472",
     "igdbId": 9702,
     "gbId": 1815,
     "gbGuid": "3030-1815",
@@ -13687,7 +13928,7 @@
   },
   {
     "name": "Truxton",
-    "id": "smd466",
+    "id": "smd473",
     "igdbId": 4418,
     "gbId": 7598,
     "gbGuid": "3030-7598",
@@ -13715,7 +13956,7 @@
   },
   {
     "name": "Tun Shi Tian Di III",
-    "id": "smd467",
+    "id": "smd474",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -13739,7 +13980,7 @@
   },
   {
     "name": "Turma da Mônica na Terra dos Monstros",
-    "id": "smd468",
+    "id": "smd475",
     "igdbId": 98931,
     "gbId": 6985,
     "gbGuid": "3030-6985",
@@ -13766,7 +14007,7 @@
   },
   {
     "name": "Turrican",
-    "id": "smd469",
+    "id": "smd476",
     "igdbId": 5164,
     "gbId": 15092,
     "gbGuid": "3030-15092",
@@ -13784,7 +14025,7 @@
   },
   {
     "name": "Twin Cobra",
-    "id": "smd470",
+    "id": "smd477",
     "igdbId": 8189,
     "gbId": 11930,
     "gbGuid": "3030-11930",
@@ -13812,7 +14053,7 @@
   },
   {
     "name": "Twinkle Tale",
-    "id": "smd471",
+    "id": "smd478",
     "igdbId": 46179,
     "gbId": 19494,
     "gbGuid": "3030-19494",
@@ -13836,7 +14077,7 @@
   },
   {
     "name": "Ultimate Mortal Kombat 3",
-    "id": "smd472",
+    "id": "smd479",
     "igdbId": 1621,
     "gbId": 2178,
     "gbGuid": "3030-2178",
@@ -13876,7 +14117,7 @@
   },
   {
     "name": "Ultimate Soccer",
-    "id": "smd473",
+    "id": "smd480",
     "igdbId": 4540,
     "gbId": 3214,
     "gbGuid": "3030-3214",
@@ -13903,7 +14144,7 @@
   },
   {
     "name": "Uncharted Waters",
-    "id": "smd474",
+    "id": "smd481",
     "igdbId": 4459,
     "gbId": 11595,
     "gbGuid": "3030-11595",
@@ -13930,7 +14171,7 @@
   },
   {
     "name": "Uncharted Waters 2",
-    "id": "smd475",
+    "id": "smd482",
     "igdbId": 14441,
     "gbId": 5091,
     "gbGuid": "3030-5091",
@@ -13957,7 +14198,7 @@
   },
   {
     "name": "Unnecessary Roughness 95",
-    "id": "smd476",
+    "id": "smd483",
     "igdbId": 47057,
     "gbId": 3925,
     "gbGuid": "3030-3925",
@@ -13997,7 +14238,7 @@
   },
   {
     "name": "Urban Strike",
-    "id": "smd477",
+    "id": "smd484",
     "igdbId": 4492,
     "gbId": 9336,
     "gbGuid": "3030-9336",
@@ -14024,7 +14265,7 @@
   },
   {
     "name": "Uzu Keobukseon",
-    "id": "smd478",
+    "id": "smd485",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -14048,7 +14289,7 @@
   },
   {
     "name": "Vectorman",
-    "id": "smd479",
+    "id": "smd486",
     "igdbId": 16033,
     "gbId": 14327,
     "gbGuid": "3030-14327",
@@ -14075,7 +14316,7 @@
   },
   {
     "name": "Vectorman 2",
-    "id": "smd480",
+    "id": "smd487",
     "igdbId": 4391,
     "gbId": 10991,
     "gbGuid": "3030-10991",
@@ -14102,7 +14343,7 @@
   },
   {
     "name": "Verytex",
-    "id": "smd481",
+    "id": "smd488",
     "igdbId": 46162,
     "gbId": 40883,
     "gbGuid": "3030-40883",
@@ -14126,7 +14367,7 @@
   },
   {
     "name": "Virtua Fighter 2",
-    "id": "smd482",
+    "id": "smd489",
     "igdbId": 1547,
     "gbId": 41,
     "gbGuid": "3030-41",
@@ -14153,7 +14394,7 @@
   },
   {
     "name": "Virtua Racing",
-    "id": "smd483",
+    "id": "smd490",
     "igdbId": 8172,
     "gbId": 11009,
     "gbGuid": "3030-11009",
@@ -14180,7 +14421,7 @@
   },
   {
     "name": "Virtual Pinball",
-    "id": "smd484",
+    "id": "smd491",
     "igdbId": 4458,
     "gbId": 7843,
     "gbGuid": "3030-7843",
@@ -14218,7 +14459,7 @@
   },
   {
     "name": "Vixen 357",
-    "id": "smd485",
+    "id": "smd492",
     "igdbId": 4452,
     "gbId": 4111,
     "gbGuid": "3030-4111",
@@ -14242,7 +14483,7 @@
   },
   {
     "name": "WWF Raw",
-    "id": "smd486",
+    "id": "smd493",
     "igdbId": 19771,
     "gbId": 4155,
     "gbGuid": "3030-4155",
@@ -14269,7 +14510,7 @@
   },
   {
     "name": "WWF Royal Rumble",
-    "id": "smd487",
+    "id": "smd494",
     "igdbId": 38408,
     "gbId": 10775,
     "gbGuid": "3030-10775",
@@ -14296,7 +14537,7 @@
   },
   {
     "name": "WWF WrestleMania: The Arcade Game",
-    "id": "smd488",
+    "id": "smd495",
     "igdbId": 4546,
     "gbId": 8027,
     "gbGuid": "3030-8027",
@@ -14323,7 +14564,7 @@
   },
   {
     "name": "Wacky Worlds Creativity Studio",
-    "id": "smd489",
+    "id": "smd496",
     "igdbId": 47056,
     "gbId": 11148,
     "gbGuid": "3030-11148",
@@ -14350,7 +14591,7 @@
   },
   {
     "name": "Warrior of Rome",
-    "id": "smd490",
+    "id": "smd497",
     "igdbId": 4426,
     "gbId": 42949,
     "gbGuid": "3030-42949",
@@ -14388,7 +14629,7 @@
   },
   {
     "name": "Warrior of Rome II",
-    "id": "smd491",
+    "id": "smd498",
     "igdbId": 5934,
     "gbId": 49496,
     "gbGuid": "3030-49496",
@@ -14426,7 +14667,7 @@
   },
   {
     "name": "Warsong",
-    "id": "smd492",
+    "id": "smd499",
     "igdbId": 3196,
     "gbId": 3189,
     "gbGuid": "3030-3189",
@@ -14453,7 +14694,7 @@
   },
   {
     "name": "Wayne Gretzky and the NHLPA All-Stars",
-    "id": "smd493",
+    "id": "smd500",
     "igdbId": 19759,
     "gbId": 22326,
     "gbGuid": "3030-22326",
@@ -14493,7 +14734,7 @@
   },
   {
     "name": "WeaponLord",
-    "id": "smd494",
+    "id": "smd501",
     "igdbId": 38403,
     "gbId": 2886,
     "gbGuid": "3030-2886",
@@ -14520,7 +14761,7 @@
   },
   {
     "name": "Whip Rush",
-    "id": "smd495",
+    "id": "smd502",
     "igdbId": 28039,
     "gbId": 13861,
     "gbGuid": "3030-13861",
@@ -14544,7 +14785,7 @@
   },
   {
     "name": "Williams Arcade's Greatest Hits",
-    "id": "smd496",
+    "id": "smd503",
     "igdbId": 20713,
     "gbId": 1956,
     "gbGuid": "3030-1956",
@@ -14584,7 +14825,7 @@
   },
   {
     "name": "Wimbledon Championship Tennis",
-    "id": "smd497",
+    "id": "smd504",
     "igdbId": 47053,
     "gbId": 10903,
     "gbGuid": "3030-10903",
@@ -14611,7 +14852,7 @@
   },
   {
     "name": "Winter Challenge",
-    "id": "smd498",
+    "id": "smd505",
     "igdbId": 131520,
     "gbId": 19530,
     "gbGuid": "3030-19530",
@@ -14638,7 +14879,7 @@
   },
   {
     "name": "Wonder Boy",
-    "id": "smd499",
+    "id": "smd506",
     "igdbId": 9540,
     "gbId": 9245,
     "gbGuid": "3030-9245",
@@ -14679,7 +14920,7 @@
   },
   {
     "name": "World Championship Soccer",
-    "id": "smd500",
+    "id": "smd507",
     "igdbId": 27972,
     "gbId": 2934,
     "gbGuid": "3030-2934",
@@ -14707,7 +14948,7 @@
   },
   {
     "name": "World Championship Soccer 2",
-    "id": "smd501",
+    "id": "smd508",
     "igdbId": 46686,
     "gbId": 10073,
     "gbGuid": "3030-10073",
@@ -14745,7 +14986,7 @@
   },
   {
     "name": "World Cup USA '94",
-    "id": "smd502",
+    "id": "smd509",
     "igdbId": 5464,
     "gbId": 5498,
     "gbGuid": "3030-5498",
@@ -14785,7 +15026,7 @@
   },
   {
     "name": "World Heroes",
-    "id": "smd503",
+    "id": "smd510",
     "igdbId": 4463,
     "gbId": 18554,
     "gbGuid": "3030-18554",
@@ -14812,7 +15053,7 @@
   },
   {
     "name": "World Series Baseball",
-    "id": "smd504",
+    "id": "smd511",
     "igdbId": 171986,
     "gbId": 5924,
     "gbGuid": "3030-5924",
@@ -14839,7 +15080,7 @@
   },
   {
     "name": "World Series Baseball '95",
-    "id": "smd505",
+    "id": "smd512",
     "igdbId": 46327,
     "gbId": 43821,
     "gbGuid": "3030-43821",
@@ -14885,7 +15126,7 @@
   },
   {
     "name": "World Series Baseball '96",
-    "id": "smd506",
+    "id": "smd513",
     "igdbId": 46685,
     "gbId": 40882,
     "gbGuid": "3030-40882",
@@ -14925,7 +15166,7 @@
   },
   {
     "name": "World Series Baseball 98",
-    "id": "smd507",
+    "id": "smd514",
     "igdbId": 4473,
     "gbId": 27592,
     "gbGuid": "3030-27592",
@@ -14952,7 +15193,7 @@
   },
   {
     "name": "World Trophy Soccer",
-    "id": "smd508",
+    "id": "smd515",
     "igdbId": 4390,
     "gbId": 5763,
     "gbGuid": "3030-5763",
@@ -14970,7 +15211,7 @@
   },
   {
     "name": "World of Illusion Starring Mickey Mouse and Donald Duck",
-    "id": "smd509",
+    "id": "smd516",
     "igdbId": 8124,
     "gbId": 6710,
     "gbGuid": "3030-6710",
@@ -15008,7 +15249,7 @@
   },
   {
     "name": "Worms",
-    "id": "smd510",
+    "id": "smd517",
     "igdbId": 9331,
     "gbId": 2007,
     "gbGuid": "3030-2007",
@@ -15035,7 +15276,7 @@
   },
   {
     "name": "X-Men",
-    "id": "smd511",
+    "id": "smd518",
     "igdbId": 4531,
     "gbId": 5428,
     "gbGuid": "3030-5428",
@@ -15059,7 +15300,7 @@
   },
   {
     "name": "X-Men 2: Clone Wars",
-    "id": "smd512",
+    "id": "smd519",
     "igdbId": 9161,
     "gbId": 11564,
     "gbGuid": "3030-11564",
@@ -15083,7 +15324,7 @@
   },
   {
     "name": "X-Perts",
-    "id": "smd513",
+    "id": "smd520",
     "igdbId": 46684,
     "gbId": 1011,
     "gbGuid": "3030-1011",
@@ -15107,7 +15348,7 @@
   },
   {
     "name": "XDR: X-Dazedly-Ray",
-    "id": "smd514",
+    "id": "smd521",
     "igdbId": 59760,
     "gbId": 51001,
     "gbGuid": "3030-51001",
@@ -15131,7 +15372,7 @@
   },
   {
     "name": "Yase Zhuanshuo",
-    "id": "smd515",
+    "id": "smd522",
     "igdbId": 84250,
     "gbId": 16796,
     "gbGuid": "3030-16796",
@@ -15158,7 +15399,7 @@
   },
   {
     "name": "Ys III: Wanderers from Ys",
-    "id": "smd516",
+    "id": "smd523",
     "igdbId": 206522,
     "gbId": 4208,
     "gbGuid": "3030-4208",
@@ -15185,7 +15426,7 @@
   },
   {
     "name": "Yu Yu Hakusho Gaiden",
-    "id": "smd517",
+    "id": "smd524",
     "igdbId": 45606,
     "gbId": null,
     "gbGuid": null,
@@ -15225,7 +15466,7 @@
   },
   {
     "name": "YuYu Hakusho: Makyou Toitsusen",
-    "id": "smd518",
+    "id": "smd525",
     "igdbId": 45607,
     "gbId": 8862,
     "gbGuid": "3030-8862",
@@ -15252,7 +15493,7 @@
   },
   {
     "name": "Yuu Yuu Hakusho: Makyou Toitsusen",
-    "id": "smd519",
+    "id": "smd526",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -15276,7 +15517,7 @@
   },
   {
     "name": "Zan Yasha Enbukyoku",
-    "id": "smd520",
+    "id": "smd527",
     "igdbId": 45608,
     "gbId": 72194,
     "gbGuid": "3030-72194",
@@ -15303,7 +15544,7 @@
   },
   {
     "name": "Zero Tolerance",
-    "id": "smd521",
+    "id": "smd528",
     "igdbId": 46682,
     "gbId": 1699,
     "gbGuid": "3030-1699",
@@ -15327,7 +15568,7 @@
   },
   {
     "name": "Zoom!",
-    "id": "smd522",
+    "id": "smd529",
     "igdbId": 28001,
     "gbId": 16107,
     "gbGuid": "3030-16107",
