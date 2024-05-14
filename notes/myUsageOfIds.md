@@ -149,6 +149,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ps1lbX - Sony PlayStation long box games (playstationLongboxGames.json) | GAMES LIST
 - pstviX - Sony PlayStation Portable games that are incompatible with PSTV (pspGamesIncompatibleWithPsTv.json) | GAMES LIST
 - psvtviX - Sony PlayStation Vita games that are incompatible with PSTV (psVitaGamesIncompatibleWithPsTv.json) | GAMES LIST
+- pswsX - Sony PlayStation games with widescreen mode (playstationGamesWithWidescreen.json) | GAMES LIST
 - neshtgX - NES hang tab games (nesHangtabGames.json) | GAMES LIST
 - neslgX - NES light gun games (nesLightGunGames.json) | GAMES LIST
 - ps2olX - Sony PlayStation 2 Online games (playstation2OnlineGamesGames.json) | GAMES LIST

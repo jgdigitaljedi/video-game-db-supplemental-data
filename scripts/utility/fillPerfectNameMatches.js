@@ -5,8 +5,8 @@ const basePath = '../../textFilesToBeConverted';
 const finalPath = '../../finalOutput/consoleLists';
 
 /** change out variables in this section each time this is run */
-const newFile = require(path.join(basePath, 'special/masterSystemGamesWithFmAudio.json'));
-const masterFile = require(path.join(finalPath, 'SegaMasterSystem.json'));
+const newFile = require(path.join(basePath, 'special/playstationGamesWithWidescreen.json'));
+const masterFile = require(path.join(finalPath, 'SonyPlaystation.json'));
 /** end variables */
 
 (function() {

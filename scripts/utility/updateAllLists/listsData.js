@@ -417,7 +417,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'backwardCompatibilityLists/ps1ToPs2Bc.json')),
       require(path.resolve(smallFiles, 'special/sonyPlaystationLightGunGames.json')),
       require(path.resolve(smallFiles, 'special/sonyPlaystationTateModeGames.json')),
-      require(path.resolve(smallFiles, 'multiplayer/sonyPlaystationLinkCableGames.json'))
+      require(path.resolve(smallFiles, 'multiplayer/sonyPlaystationLinkCableGames.json')),
+      require(path.resolve(smallFiles, 'special/playstationGamesWithWidescreen.json'))
     ],
     output: path.resolve(consoleLists, 'SonyPlaystation.json')
   },

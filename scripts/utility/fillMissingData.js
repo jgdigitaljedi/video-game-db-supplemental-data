@@ -3,10 +3,10 @@ const fileUtil = require('./fileUtilities');
 const { categories } = require('./helpers');
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/special/masterSystemGamesWithFmAudio.json';
-const detailsFix = "Sega Master System game has FM audio";
+const relativePath = '../../textFilesToBeConverted/special/playstationGamesWithWidescreen.json';
+const detailsFix = "Sony PlayStation game has widescreen mode";
 const category = categories.other;
-const idPrefix = 'msfma';
+const idPrefix = 'psws';
 /** end file variables section */
 
 (async function() {
