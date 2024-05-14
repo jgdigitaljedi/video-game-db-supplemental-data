@@ -81,13 +81,26 @@
     "gbId": 3629,
     "gbGuid": "3030-3629",
     "details": [
-      "Sega Master System has compatibility issues with: HES Converter"
+      "Sega Master System has compatibility issues with: HES Converter",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Master System has compatibility issues with: HES Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
         "forPlatform": {
           "name": "Sega Master System",
           "id": "ccl13",
@@ -136,7 +149,8 @@
     "gbGuid": "3030-4553",
     "tgdbId": 2683,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -149,7 +163,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -183,13 +210,26 @@
     "gbId": 16061,
     "gbGuid": "3030-16061",
     "details": [
-      "Sega Master System has compatibility issues with: HES Converter"
+      "Sega Master System has compatibility issues with: HES Converter",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
     "special": [
       {
         "value": "Sega Master System has compatibility issues with: HES Converter",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
         "forPlatform": {
           "name": "Sega Master System",
           "id": "ccl13",
@@ -250,7 +290,8 @@
     "gbId": 22009,
     "gbGuid": "3030-22009",
     "details": [
-      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -266,13 +307,52 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Altered Beast",
+    "id": "sms10",
+    "igdbId": 202941,
+    "gbId": 2536,
+    "gbGuid": "3030-2536",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Andre Agassi Tennis",
-    "id": "sms10",
+    "id": "sms11",
     "igdbId": 4525,
     "gbId": 19171,
     "gbGuid": "3030-19171",
@@ -299,7 +379,7 @@
   },
   {
     "name": "Arcade Smash Hits",
-    "id": "sms11",
+    "id": "sms12",
     "igdbId": 46151,
     "gbId": 6044,
     "gbGuid": "3030-6044",
@@ -323,7 +403,7 @@
   },
   {
     "name": "Assault City",
-    "id": "sms12",
+    "id": "sms13",
     "igdbId": 46117,
     "gbId": 312,
     "gbGuid": "3030-312",
@@ -374,7 +454,7 @@
   },
   {
     "name": "Asterix",
-    "id": "sms13",
+    "id": "sms14",
     "igdbId": 19486,
     "gbId": 9018,
     "gbGuid": "3030-9018",
@@ -397,7 +477,7 @@
   },
   {
     "name": "Astro Warrior",
-    "id": "sms14",
+    "id": "sms15",
     "igdbId": 37176,
     "gbId": 14539,
     "gbGuid": "3030-14539",
@@ -421,14 +501,15 @@
   },
   {
     "name": "Aztec Adventure",
-    "id": "sms15",
+    "id": "sms16",
     "igdbId": 45668,
     "gbId": 6159,
     "gbGuid": "3030-6159",
     "tgdbId": 2698,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System has compatibility issues with: HES Converter"
+      "Sega Master System has compatibility issues with: HES Converter",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -453,13 +534,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Back to the Future Part III",
-    "id": "sms16",
+    "id": "sms17",
     "igdbId": 8519,
     "gbId": 12919,
     "gbGuid": "3030-12919",
@@ -486,7 +579,7 @@
   },
   {
     "name": "Basketball Nightmare",
-    "id": "sms17",
+    "id": "sms18",
     "igdbId": 45667,
     "gbId": 40805,
     "gbGuid": "3030-40805",
@@ -510,13 +603,14 @@
   },
   {
     "name": "Battle OutRun",
-    "id": "sms18",
+    "id": "sms19",
     "igdbId": 2056,
     "gbId": 407,
     "gbGuid": "3030-407",
     "tgdbId": 2704,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -529,12 +623,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Battletoads In Battlemaniacs",
-    "id": "sms19",
+    "id": "sms20",
     "igdbId": 18577,
     "gbId": 19860,
     "gbGuid": "3030-19860",
@@ -561,7 +668,7 @@
   },
   {
     "name": "Black Belt",
-    "id": "sms20",
+    "id": "sms21",
     "igdbId": 29134,
     "gbId": 16176,
     "gbGuid": "3030-16176",
@@ -579,14 +686,15 @@
   },
   {
     "name": "Blade Eagle 3-D",
-    "id": "sms21",
+    "id": "sms22",
     "igdbId": 45663,
     "gbId": 18151,
     "gbGuid": "3030-18151",
     "tgdbId": 2707,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System 3D game (3-D Glasses)"
+      "Sega Master System 3D game (3-D Glasses)",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -611,20 +719,33 @@
           "tgdbId": 35
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Bomber Raid",
-    "id": "sms22",
+    "id": "sms23",
     "igdbId": 45662,
     "gbId": 6869,
     "gbGuid": "3030-6869",
     "tgdbId": 2708,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -649,13 +770,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Bram Stoker's Dracula",
-    "id": "sms23",
+    "id": "sms24",
     "igdbId": 14340,
     "gbId": 1792,
     "gbGuid": "3030-1792",
@@ -682,7 +815,7 @@
   },
   {
     "name": "Buggy Run",
-    "id": "sms24",
+    "id": "sms25",
     "igdbId": 45657,
     "gbId": null,
     "gbGuid": null,
@@ -705,8 +838,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "California Games",
+    "id": "sms26",
+    "igdbId": 263878,
+    "gbId": 3193,
+    "gbGuid": "3030-3193",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "California Games II",
-    "id": "sms25",
+    "id": "sms27",
     "igdbId": 11985,
     "gbId": 11315,
     "gbGuid": "3030-11315",
@@ -732,14 +892,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "Captain Silver",
+    "id": "sms28",
+    "igdbId": 39640,
+    "gbId": 19904,
+    "gbGuid": "3030-19904",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Casino Games",
-    "id": "sms26",
+    "id": "sms29",
     "igdbId": 45656,
     "gbId": 32028,
     "gbGuid": "3030-32028",
     "tgdbId": 2713,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -752,12 +940,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Champions of Europe",
-    "id": "sms27",
+    "id": "sms30",
     "igdbId": 45655,
     "gbId": 73315,
     "gbGuid": "3030-73315",
@@ -781,7 +982,7 @@
   },
   {
     "name": "Chase H.Q.",
-    "id": "sms28",
+    "id": "sms31",
     "igdbId": 6802,
     "gbId": 13281,
     "gbGuid": "3030-13281",
@@ -808,14 +1009,29 @@
   },
   {
     "name": "Cloud Master (PAL)",
-    "id": "sms29",
+    "id": "sms32",
     "igdbId": 45654,
     "gbId": 11352,
     "gbGuid": "3030-11352",
-    "details": [],
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Sega/SMS/800px-CloudMaster_EU_misprint_cover.jpg",
@@ -826,7 +1042,7 @@
   },
   {
     "name": "Cosmic Spacehead",
-    "id": "sms30",
+    "id": "sms33",
     "igdbId": 12013,
     "gbId": 4664,
     "gbGuid": "3030-4664",
@@ -866,13 +1082,14 @@
   },
   {
     "name": "Cyborg Hunter",
-    "id": "sms31",
+    "id": "sms34",
     "igdbId": 45653,
     "gbId": 20088,
     "gbGuid": "3030-20088",
     "tgdbId": 2722,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -885,12 +1102,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Danan: The Jungle Fighter",
-    "id": "sms32",
+    "id": "sms35",
     "igdbId": 45664,
     "gbId": 3139,
     "gbGuid": "3030-3139",
@@ -914,7 +1144,7 @@
   },
   {
     "name": "Desert Strike: Return to the Gulf",
-    "id": "sms33",
+    "id": "sms36",
     "igdbId": 19852,
     "gbId": 1,
     "gbGuid": "3030-1",
@@ -940,14 +1170,42 @@
     "misprintsErrors": []
   },
   {
+    "name": "Double Dragon",
+    "id": "sms37",
+    "igdbId": 281490,
+    "gbId": 20752,
+    "gbGuid": "3030-20752",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Double Hawk",
-    "id": "sms34",
+    "id": "sms38",
     "igdbId": 45659,
     "gbId": 15311,
     "gbGuid": "3030-15311",
     "tgdbId": 2732,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -960,12 +1218,52 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Dynamite Düx",
+    "id": "sms39",
+    "igdbId": 12730,
+    "gbId": 10540,
+    "gbGuid": "3030-10540",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "F-16 Fighting Falcon",
-    "id": "sms35",
+    "id": "sms40",
     "igdbId": 36679,
     "gbId": 11146,
     "gbGuid": "3030-11146",
@@ -992,7 +1290,7 @@
   },
   {
     "name": "Fantastic Dizzy",
-    "id": "sms36",
+    "id": "sms41",
     "igdbId": 12089,
     "gbId": null,
     "gbGuid": null,
@@ -1031,8 +1329,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Fantasy Zone II",
+    "id": "sms42",
+    "igdbId": 6687,
+    "gbId": 17833,
+    "gbGuid": "3030-17833",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fantasy Zone: The Maze",
+    "id": "sms43",
+    "igdbId": 45658,
+    "gbId": 271,
+    "gbGuid": "3030-271",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Fushigi no Oshiro Pit Pot",
-    "id": "sms37",
+    "id": "sms44",
     "igdbId": 36678,
     "gbId": 18268,
     "gbGuid": "3030-18268",
@@ -1056,7 +1408,7 @@
   },
   {
     "name": "GP Rider",
-    "id": "sms38",
+    "id": "sms45",
     "igdbId": 39904,
     "gbId": 30727,
     "gbGuid": "3030-30727",
@@ -1082,8 +1434,89 @@
     "misprintsErrors": []
   },
   {
+    "name": "Galactic Protector",
+    "id": "sms46",
+    "igdbId": 45652,
+    "gbId": 11263,
+    "gbGuid": "3030-11263",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Galaxy Force",
+    "id": "sms47",
+    "igdbId": 45651,
+    "gbId": 13031,
+    "gbGuid": "3030-13031",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Game de Check! Koutsuu Anzen",
+    "id": "sms48",
+    "igdbId": 268899,
+    "gbId": 83391,
+    "gbGuid": "3030-83391",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Gangster Town",
-    "id": "sms39",
+    "id": "sms49",
     "igdbId": 45650,
     "gbId": 20354,
     "gbGuid": "3030-20354",
@@ -1110,7 +1543,7 @@
   },
   {
     "name": "Ghost House",
-    "id": "sms40",
+    "id": "sms50",
     "igdbId": 45649,
     "gbId": 9862,
     "gbGuid": "3030-9862",
@@ -1133,8 +1566,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Global Defense",
+    "id": "sms51",
+    "igdbId": 45648,
+    "gbId": 11409,
+    "gbGuid": "3030-11409",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Global Gladiators",
-    "id": "sms41",
+    "id": "sms52",
     "igdbId": 6828,
     "gbId": 3421,
     "gbGuid": "3030-3421",
@@ -1161,7 +1621,7 @@
   },
   {
     "name": "Golden Axe Warrior",
-    "id": "sms42",
+    "id": "sms53",
     "igdbId": 46147,
     "gbId": 10657,
     "gbGuid": "3030-10657",
@@ -1188,7 +1648,7 @@
   },
   {
     "name": "Golfamania",
-    "id": "sms43",
+    "id": "sms54",
     "igdbId": 45673,
     "gbId": null,
     "gbGuid": null,
@@ -1196,7 +1656,8 @@
     "details": [
       "Sega Master System exclusive",
       "Sega Master System game has save battery",
-      "Sega Master System has compatibility issues with: HES Converter"
+      "Sega Master System has compatibility issues with: HES Converter",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -1233,18 +1694,31 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Golvellius: Valley of Doom",
-    "id": "sms44",
+    "id": "sms55",
     "igdbId": 46146,
     "gbId": 8536,
     "gbGuid": "3030-8536",
     "details": [
-      "Sega Master System has compatibility issues with: HES Converter"
+      "Sega Master System has compatibility issues with: HES Converter",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1260,13 +1734,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Great Baseball",
-    "id": "sms45",
+    "id": "sms56",
     "igdbId": 46145,
     "gbId": 12789,
     "gbGuid": "3030-12789",
@@ -1290,7 +1776,7 @@
   },
   {
     "name": "Great Football",
-    "id": "sms46",
+    "id": "sms57",
     "igdbId": 46144,
     "gbId": 14056,
     "gbGuid": "3030-14056",
@@ -1307,8 +1793,35 @@
     ]
   },
   {
+    "name": "Great Golf",
+    "id": "sms58",
+    "igdbId": 46143,
+    "gbId": 17867,
+    "gbGuid": "3030-17867",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Great Ice Hockey",
-    "id": "sms47",
+    "id": "sms59",
     "igdbId": 46142,
     "gbId": 37110,
     "gbGuid": "3030-37110",
@@ -1332,7 +1845,7 @@
   },
   {
     "name": "Great Volleyball",
-    "id": "sms48",
+    "id": "sms60",
     "igdbId": 46150,
     "gbId": 19590,
     "gbGuid": "3030-19590",
@@ -1359,7 +1872,7 @@
   },
   {
     "name": "Hang On/Astro Warrio",
-    "id": "sms49",
+    "id": "sms61",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1377,7 +1890,7 @@
   },
   {
     "name": "Hang on/Safari Hunt",
-    "id": "sms50",
+    "id": "sms62",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1395,7 +1908,7 @@
   },
   {
     "name": "Hang-On",
-    "id": "sms51",
+    "id": "sms63",
     "igdbId": 6110,
     "gbId": 11570,
     "gbGuid": "3030-11570",
@@ -1422,7 +1935,7 @@
   },
   {
     "name": "Hang-On & Safari Hunt",
-    "id": "sms52",
+    "id": "sms64",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1446,7 +1959,7 @@
   },
   {
     "name": "Home Alone",
-    "id": "sms53",
+    "id": "sms65",
     "igdbId": 78599,
     "gbId": 50880,
     "gbGuid": "3030-50880",
@@ -1473,13 +1986,14 @@
   },
   {
     "name": "Hoshi wo Sagashite...",
-    "id": "sms54",
+    "id": "sms66",
     "igdbId": 46149,
     "gbId": 17444,
     "gbGuid": "3030-17444",
     "tgdbId": 2849,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -1492,18 +2006,32 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Kenseiden",
-    "id": "sms55",
+    "id": "sms67",
     "igdbId": 65579,
     "gbId": 20283,
     "gbGuid": "3030-20283",
     "tgdbId": 2874,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -1516,12 +2044,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Kung Fu Kid",
-    "id": "sms56",
+    "id": "sms68",
     "igdbId": 36898,
     "gbId": 12779,
     "gbGuid": "3030-12779",
@@ -1545,7 +2086,7 @@
   },
   {
     "name": "Laser Ghost",
-    "id": "sms57",
+    "id": "sms69",
     "igdbId": 36901,
     "gbId": 14213,
     "gbGuid": "3030-14213",
@@ -1572,7 +2113,7 @@
   },
   {
     "name": "Line of Fire",
-    "id": "sms58",
+    "id": "sms70",
     "igdbId": 19487,
     "gbId": 3688,
     "gbGuid": "3030-3688",
@@ -1599,13 +2140,14 @@
   },
   {
     "name": "Lord of the Sword",
-    "id": "sms59",
+    "id": "sms71",
     "igdbId": 46671,
     "gbId": 10880,
     "gbGuid": "3030-10880",
     "tgdbId": 2889,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -1618,12 +2160,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Marksman Shooting & Trap Shooting",
-    "id": "sms60",
+    "id": "sms72",
     "igdbId": 78779,
     "gbId": 4368,
     "gbGuid": "3030-4368",
@@ -1661,12 +2216,13 @@
   },
   {
     "name": "Maze Hunter 3-D",
-    "id": "sms61",
+    "id": "sms73",
     "igdbId": 45674,
     "gbId": 11858,
     "gbGuid": "3030-11858",
     "details": [
-      "Sega Master System 3D game (3-D Glasses)"
+      "Sega Master System 3D game (3-D Glasses)",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1682,13 +2238,52 @@
           "tgdbId": 35
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Megumi Rescue",
+    "id": "sms74",
+    "igdbId": 46139,
+    "gbId": 40356,
+    "gbGuid": "3030-40356",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Micro Machines",
-    "id": "sms62",
+    "id": "sms75",
     "igdbId": 2703,
     "gbId": 2140,
     "gbGuid": "3030-2140",
@@ -1728,12 +2323,13 @@
   },
   {
     "name": "Miracle Warriors: Seal of the Dark Lord",
-    "id": "sms63",
+    "id": "sms76",
     "igdbId": 47526,
     "gbId": 14722,
     "gbGuid": "3030-14722",
     "details": [
-      "Sega Master System game has save battery"
+      "Sega Master System game has save battery",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1749,13 +2345,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Missile Defense 3-D",
-    "id": "sms64",
+    "id": "sms77",
     "igdbId": 45672,
     "gbId": 19870,
     "gbGuid": "3030-19870",
@@ -1808,7 +2416,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "sms65",
+    "id": "sms78",
     "igdbId": 122241,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -1832,7 +2440,7 @@
   },
   {
     "name": "Monopoly",
-    "id": "sms66",
+    "id": "sms79",
     "igdbId": 131548,
     "gbId": 2958,
     "gbGuid": "3030-2958",
@@ -1865,7 +2473,7 @@
   },
   {
     "name": "Montezuma's Revenge",
-    "id": "sms67",
+    "id": "sms80",
     "igdbId": 12297,
     "gbId": 4619,
     "gbGuid": "3030-4619",
@@ -1892,7 +2500,7 @@
   },
   {
     "name": "NBA Jam",
-    "id": "sms68",
+    "id": "sms81",
     "igdbId": 198835,
     "gbId": 16928,
     "gbGuid": "3030-16928",
@@ -1918,8 +2526,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Nekkyu Kosein",
+    "id": "sms82",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ninja Gaiden",
-    "id": "sms69",
+    "id": "sms83",
     "igdbId": 7558,
     "gbId": 1653,
     "gbGuid": "3030-1653",
@@ -1943,7 +2578,7 @@
   },
   {
     "name": "Operation Wolf",
-    "id": "sms70",
+    "id": "sms84",
     "igdbId": 12190,
     "gbId": 14869,
     "gbGuid": "3030-14869",
@@ -1982,15 +2617,43 @@
     "misprintsErrors": []
   },
   {
+    "name": "OutRun",
+    "id": "sms85",
+    "igdbId": 2051,
+    "gbId": 11260,
+    "gbGuid": "3030-11260",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "OutRun 3-D",
-    "id": "sms71",
+    "id": "sms86",
     "igdbId": 46136,
     "gbId": null,
     "gbGuid": null,
     "tgdbId": 2949,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System 3D game (3-D Glasses)"
+      "Sega Master System 3D game (3-D Glasses)",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -2015,18 +2678,31 @@
           "tgdbId": 35
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Parlour Games",
-    "id": "sms72",
+    "id": "sms87",
     "igdbId": 46135,
     "gbId": 18521,
     "gbGuid": "3030-18521",
     "details": [
-      "Sega Master System has compatibility issues with: HES Converter"
+      "Sega Master System has compatibility issues with: HES Converter",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -2042,13 +2718,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Penguin Land",
-    "id": "sms73",
+    "id": "sms88",
     "igdbId": 49152,
     "gbId": 15446,
     "gbGuid": "3030-15446",
@@ -2056,7 +2744,8 @@
     "details": [
       "Sega Master System exclusive",
       "Sega Master System game has save battery",
-      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -2093,18 +2782,31 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Phantasy Star",
-    "id": "sms74",
+    "id": "sms89",
     "igdbId": 1233,
     "gbId": 7400,
     "gbGuid": "3030-7400",
     "details": [
-      "Sega Master System game has save battery"
+      "Sega Master System game has save battery",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -2120,20 +2822,33 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Poseidon Wars 3-D",
-    "id": "sms75",
+    "id": "sms90",
     "igdbId": 46134,
     "gbId": 20312,
     "gbGuid": "3030-20312",
     "tgdbId": 2971,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System 3D game (3-D Glasses)"
+      "Sega Master System 3D game (3-D Glasses)",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -2158,19 +2873,32 @@
           "tgdbId": 35
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Power Strike",
-    "id": "sms76",
+    "id": "sms91",
     "igdbId": 46132,
     "gbId": 3130,
     "gbGuid": "3030-3130",
     "tgdbId": 2972,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -2183,12 +2911,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Power Strike II",
-    "id": "sms77",
+    "id": "sms92",
     "igdbId": 46337,
     "gbId": 14734,
     "gbGuid": "3030-14734",
@@ -2215,7 +2956,7 @@
   },
   {
     "name": "Predator 2",
-    "id": "sms78",
+    "id": "sms93",
     "igdbId": 19693,
     "gbId": 10343,
     "gbGuid": "3030-10343",
@@ -2242,7 +2983,7 @@
   },
   {
     "name": "Pro Wrestling",
-    "id": "sms79",
+    "id": "sms94",
     "igdbId": 18143,
     "gbId": 4962,
     "gbGuid": "3030-4962",
@@ -2266,7 +3007,7 @@
   },
   {
     "name": "Psycho Fox",
-    "id": "sms80",
+    "id": "sms95",
     "igdbId": 46131,
     "gbId": 18090,
     "gbGuid": "3030-18090",
@@ -2295,8 +3036,35 @@
     ]
   },
   {
+    "name": "R-Type",
+    "id": "sms96",
+    "igdbId": 263373,
+    "gbId": 13745,
+    "gbGuid": "3030-13745",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "R.C. Grand Prix",
-    "id": "sms81",
+    "id": "sms97",
     "igdbId": 46336,
     "gbId": 6208,
     "gbGuid": "3030-6208",
@@ -2320,14 +3088,15 @@
   },
   {
     "name": "Rambo III",
-    "id": "sms82",
+    "id": "sms98",
     "igdbId": 18145,
     "gbId": 1172,
     "gbGuid": "3030-1172",
     "tgdbId": 2987,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System Phaser game"
+      "Sega Master System Phaser game",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -2352,19 +3121,86 @@
           "tgdbId": 35
         },
         "category": "lightGun"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rampage",
+    "id": "sms99",
+    "igdbId": 278055,
+    "gbId": 4940,
+    "gbGuid": "3030-4940",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Rastan",
+    "id": "sms100",
+    "igdbId": 6875,
+    "gbId": 2442,
+    "gbGuid": "3030-2442",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Rescue Mission",
-    "id": "sms83",
+    "id": "sms101",
     "igdbId": 18140,
     "gbId": 4358,
     "gbGuid": "3030-4358",
     "details": [
       "Sega Master System Phaser game",
-      "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter"
+      "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -2392,13 +3228,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "RoboCop 3",
-    "id": "sms84",
+    "id": "sms102",
     "igdbId": 19695,
     "gbId": 3173,
     "gbGuid": "3030-3173",
@@ -2425,7 +3273,7 @@
   },
   {
     "name": "RoboCop Versus the Terminator",
-    "id": "sms85",
+    "id": "sms103",
     "igdbId": 228782,
     "gbId": 12494,
     "gbGuid": "3030-12494",
@@ -2452,7 +3300,7 @@
   },
   {
     "name": "Rocky",
-    "id": "sms86",
+    "id": "sms104",
     "igdbId": 37175,
     "gbId": 26048,
     "gbGuid": "3030-26048",
@@ -2476,7 +3324,7 @@
   },
   {
     "name": "Running Battle",
-    "id": "sms87",
+    "id": "sms105",
     "igdbId": 19511,
     "gbId": 45429,
     "gbGuid": "3030-45429",
@@ -2500,7 +3348,7 @@
   },
   {
     "name": "Safari Hunt",
-    "id": "sms88",
+    "id": "sms106",
     "igdbId": 94935,
     "gbId": 13798,
     "gbGuid": "3030-13798",
@@ -2526,8 +3374,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Scramble Spirits",
+    "id": "sms107",
+    "igdbId": 12847,
+    "gbId": 7968,
+    "gbGuid": "3030-7968",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sega World Tournament Golf",
-    "id": "sms89",
+    "id": "sms108",
     "igdbId": 46128,
     "gbId": null,
     "gbGuid": null,
@@ -2551,7 +3426,7 @@
   },
   {
     "name": "Sensible Soccer: European Champions",
-    "id": "sms90",
+    "id": "sms109",
     "igdbId": 80677,
     "gbId": 13969,
     "gbGuid": "3030-13969",
@@ -2578,7 +3453,7 @@
   },
   {
     "name": "Shadow of the Beast",
-    "id": "sms91",
+    "id": "sms110",
     "igdbId": 5434,
     "gbId": 7681,
     "gbGuid": "3030-7681",
@@ -2605,12 +3480,13 @@
   },
   {
     "name": "Shanghai",
-    "id": "sms92",
+    "id": "sms111",
     "igdbId": 12765,
     "gbId": 1655,
     "gbGuid": "3030-1655",
     "details": [
-      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -2626,18 +3502,31 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Shinobi",
-    "id": "sms93",
+    "id": "sms112",
     "igdbId": 6899,
     "gbId": 3482,
     "gbGuid": "3030-3482",
     "details": [
-      "Sega Master System has compatibility issues with: HES Converter"
+      "Sega Master System has compatibility issues with: HES Converter",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -2653,13 +3542,25 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Shooting Gallery",
-    "id": "sms94",
+    "id": "sms113",
     "igdbId": 79985,
     "gbId": 39454,
     "gbGuid": "3030-39454",
@@ -2686,7 +3587,7 @@
   },
   {
     "name": "Sitio do Picapau Amarelo",
-    "id": "sms95",
+    "id": "sms114",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -2710,7 +3611,7 @@
   },
   {
     "name": "Slap Shot",
-    "id": "sms96",
+    "id": "sms115",
     "igdbId": 81281,
     "gbId": 40439,
     "gbGuid": "3030-40439",
@@ -2734,7 +3635,7 @@
   },
   {
     "name": "Snail Maze",
-    "id": "sms97",
+    "id": "sms116",
     "igdbId": 46118,
     "gbId": 21555,
     "gbGuid": "3030-21555",
@@ -2771,8 +3672,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Solomon's Key",
+    "id": "sms117",
+    "igdbId": 28384,
+    "gbId": 928,
+    "gbGuid": "3030-928",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sonic Blast",
-    "id": "sms98",
+    "id": "sms118",
     "igdbId": 19538,
     "gbId": 18676,
     "gbGuid": "3030-18676",
@@ -2799,12 +3727,13 @@
   },
   {
     "name": "Sonic the Hedgehog",
-    "id": "sms99",
+    "id": "sms119",
     "igdbId": 106274,
     "gbId": 2465,
     "gbGuid": "3030-2465",
     "details": [
-      "Sega Master System built-in game (some models)"
+      "Sega Master System built-in game (some models)",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -2820,13 +3749,25 @@
           "tgdbId": 35
         },
         "category": "builtIn"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Sonic the Hedgehog 2",
-    "id": "sms100",
+    "id": "sms120",
     "igdbId": 112884,
     "gbId": 1662,
     "gbGuid": "3030-1662",
@@ -2853,7 +3794,7 @@
   },
   {
     "name": "Space Gun",
-    "id": "sms101",
+    "id": "sms121",
     "igdbId": 12856,
     "gbId": 15378,
     "gbGuid": "3030-15378",
@@ -2880,7 +3821,7 @@
   },
   {
     "name": "Space Harrier",
-    "id": "sms102",
+    "id": "sms122",
     "igdbId": 12857,
     "gbId": 6036,
     "gbGuid": "3030-6036",
@@ -2907,14 +3848,15 @@
   },
   {
     "name": "Space Harrier 3-D",
-    "id": "sms103",
+    "id": "sms123",
     "igdbId": 46126,
     "gbId": 10291,
     "gbGuid": "3030-10291",
     "tgdbId": 3021,
     "details": [
       "Sega Master System exclusive",
-      "Sega Master System 3D game (3-D Glasses)"
+      "Sega Master System 3D game (3-D Glasses)",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -2939,19 +3881,32 @@
           "tgdbId": 35
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "SpellCaster",
-    "id": "sms104",
+    "id": "sms124",
     "igdbId": 46124,
     "gbId": 10557,
     "gbGuid": "3030-10557",
     "tgdbId": 3025,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -2964,12 +3919,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Street Fighter II",
-    "id": "sms105",
+    "id": "sms125",
     "igdbId": 231006,
     "gbId": 1096,
     "gbGuid": "3030-1096",
@@ -2995,8 +3963,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Super Racing",
+    "id": "sms126",
+    "igdbId": 46103,
+    "gbId": 40354,
+    "gbGuid": "3030-40354",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Super Smash T.V.",
-    "id": "sms106",
+    "id": "sms127",
     "igdbId": 218747,
     "gbId": 16194,
     "gbGuid": "3030-16194",
@@ -3023,7 +4018,7 @@
   },
   {
     "name": "Taz-Mania",
-    "id": "sms107",
+    "id": "sms128",
     "igdbId": 8066,
     "gbId": 4894,
     "gbGuid": "3030-4894",
@@ -3047,7 +4042,7 @@
   },
   {
     "name": "Tecmo World Cup '93",
-    "id": "sms108",
+    "id": "sms129",
     "igdbId": 46101,
     "gbId": 23136,
     "gbGuid": "3030-23136",
@@ -3071,12 +4066,13 @@
   },
   {
     "name": "Tennis Ace",
-    "id": "sms109",
+    "id": "sms130",
     "igdbId": 46111,
     "gbId": 19900,
     "gbGuid": "3030-19900",
     "details": [
-      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller"
+      "Sega Master System has compatibility issues with: Genesis/Mega Drive Controller",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -3092,13 +4088,52 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Tensai Bakoban",
+    "id": "sms131",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "The Addams Family",
-    "id": "sms110",
+    "id": "sms132",
     "igdbId": 14207,
     "gbId": 2865,
     "gbGuid": "3030-2865",
@@ -3125,7 +4160,7 @@
   },
   {
     "name": "The Cyber Shinobi",
-    "id": "sms111",
+    "id": "sms133",
     "igdbId": 10218,
     "gbId": null,
     "gbGuid": null,
@@ -3149,7 +4184,7 @@
   },
   {
     "name": "The Incredible Hulk",
-    "id": "sms112",
+    "id": "sms134",
     "igdbId": 94829,
     "gbId": 10622,
     "gbGuid": "3030-10622",
@@ -3176,7 +4211,7 @@
   },
   {
     "name": "The NewZealand Story",
-    "id": "sms113",
+    "id": "sms135",
     "igdbId": 7628,
     "gbId": 20020,
     "gbGuid": "3030-20020",
@@ -3203,7 +4238,7 @@
   },
   {
     "name": "The Ottifants",
-    "id": "sms114",
+    "id": "sms136",
     "igdbId": 46355,
     "gbId": 29290,
     "gbGuid": "3030-29290",
@@ -3230,7 +4265,7 @@
   },
   {
     "name": "The Simpsons: Bart vs. The Space Mutants",
-    "id": "sms115",
+    "id": "sms137",
     "igdbId": 2827,
     "gbId": 16832,
     "gbGuid": "3030-16832",
@@ -3257,7 +4292,7 @@
   },
   {
     "name": "The Simpsons: Bart vs. the World",
-    "id": "sms116",
+    "id": "sms138",
     "igdbId": 2830,
     "gbId": 11108,
     "gbGuid": "3030-11108",
@@ -3284,7 +4319,7 @@
   },
   {
     "name": "The Terminator",
-    "id": "sms117",
+    "id": "sms139",
     "igdbId": 4372,
     "gbId": 10713,
     "gbGuid": "3030-10713",
@@ -3310,8 +4345,62 @@
     "misprintsErrors": []
   },
   {
+    "name": "Thunder Blade",
+    "id": "sms140",
+    "igdbId": 12862,
+    "gbId": 5623,
+    "gbGuid": "3030-5623",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Time Soldiers",
+    "id": "sms141",
+    "igdbId": 12866,
+    "gbId": 2675,
+    "gbGuid": "3030-2675",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "TransBot",
-    "id": "sms118",
+    "id": "sms142",
     "igdbId": 29136,
     "gbId": 15686,
     "gbGuid": "3030-15686",
@@ -3335,7 +4424,7 @@
   },
   {
     "name": "Ultima IV: Quest of the Avatar",
-    "id": "sms119",
+    "id": "sms143",
     "igdbId": 2878,
     "gbId": 14381,
     "gbGuid": "3030-14381",
@@ -3361,8 +4450,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Vigilante",
+    "id": "sms144",
+    "igdbId": 10444,
+    "gbId": 4146,
+    "gbGuid": "3030-4146",
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Virtua Fighter Animation",
-    "id": "sms120",
+    "id": "sms145",
     "igdbId": 1548,
     "gbId": 14669,
     "gbGuid": "3030-14669",
@@ -3389,7 +4505,7 @@
   },
   {
     "name": "Walt Disney's The Jungle Book",
-    "id": "sms121",
+    "id": "sms146",
     "igdbId": 123599,
     "gbId": 19067,
     "gbGuid": "3030-19067",
@@ -3416,7 +4532,7 @@
   },
   {
     "name": "Wanted",
-    "id": "sms122",
+    "id": "sms147",
     "igdbId": 75090,
     "gbId": 15956,
     "gbGuid": "3030-15956",
@@ -3473,7 +4589,7 @@
   },
   {
     "name": "Where in the World Is Carmen Sandiego?",
-    "id": "sms123",
+    "id": "sms148",
     "igdbId": 251,
     "gbId": 658,
     "gbGuid": "3030-658",
@@ -3500,7 +4616,7 @@
   },
   {
     "name": "Winter Olympics: Lillehammer '94",
-    "id": "sms124",
+    "id": "sms149",
     "igdbId": 4507,
     "gbId": 8749,
     "gbGuid": "3030-8749",
@@ -3527,12 +4643,13 @@
   },
   {
     "name": "Wonder Boy III: The Dragon's Trap",
-    "id": "sms125",
+    "id": "sms150",
     "igdbId": 18277,
     "gbId": 2192,
     "gbGuid": "3030-2192",
     "details": [
-      "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter"
+      "Sega Master System has compatibility issues with: Tototek SMS-Mark III Adapter",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -3548,20 +4665,47 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Wonder Boy in Monster Land",
-    "id": "sms126",
+    "id": "sms151",
     "igdbId": 39335,
     "gbId": 6949,
     "gbGuid": "3030-6949",
-    "details": [],
+    "details": [
+      "Sega Master System game has FM audio"
+    ],
     "isExclusive": false,
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": [
       {
         "image": "https://iamerror.gamehacking.org/Sega/SMS/WonderBoyInMonsterLand-SMS-R-Cartridge-SuperWonderBoySuperMonsterWorld.jpg",
@@ -3577,7 +4721,7 @@
   },
   {
     "name": "Wonder Boy in Monster Land",
-    "id": "sms127",
+    "id": "sms152",
     "igdbId": 212868,
     "gbId": 6949,
     "gbGuid": "3030-6949",
@@ -3604,7 +4748,7 @@
   },
   {
     "name": "World Cup USA '94",
-    "id": "sms128",
+    "id": "sms153",
     "igdbId": 5464,
     "gbId": 5498,
     "gbGuid": "3030-5498",
@@ -3631,7 +4775,7 @@
   },
   {
     "name": "World Grand Prix",
-    "id": "sms129",
+    "id": "sms154",
     "igdbId": 29132,
     "gbId": 20203,
     "gbGuid": "3030-20203",
@@ -3655,12 +4799,13 @@
   },
   {
     "name": "Ys: The Vanished Omens",
-    "id": "sms130",
+    "id": "sms155",
     "igdbId": 206129,
     "gbId": 14318,
     "gbGuid": "3030-14318",
     "details": [
-      "Sega Master System game has save battery"
+      "Sega Master System game has save battery",
+      "Sega Master System game has FM audio (JP only)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -3676,18 +4821,31 @@
           "tgdbId": 35
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Master System game has FM audio (JP only)",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Zaxxon 3-D",
-    "id": "sms131",
+    "id": "sms156",
     "igdbId": 46104,
     "gbId": 1728,
     "gbGuid": "3030-1728",
     "details": [
-      "Sega Master System 3D game (3-D Glasses)"
+      "Sega Master System 3D game (3-D Glasses)",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -3703,13 +4861,25 @@
           "tgdbId": 35
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Zillion",
-    "id": "sms132",
+    "id": "sms157",
     "igdbId": 18141,
     "gbId": 8152,
     "gbGuid": "3030-8152",
@@ -3733,13 +4903,14 @@
   },
   {
     "name": "Zillion II: The Tri Formation",
-    "id": "sms133",
+    "id": "sms158",
     "igdbId": 46114,
     "gbId": 19742,
     "gbGuid": "3030-19742",
     "tgdbId": 3126,
     "details": [
-      "Sega Master System exclusive"
+      "Sega Master System exclusive",
+      "Sega Master System game has FM audio"
     ],
     "isExclusive": [
       {
@@ -3752,7 +4923,20 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Master System game has FM audio",
+        "forPlatform": {
+          "name": "Sega Master System",
+          "id": "ccl13",
+          "igdbId": 64,
+          "gbId": 8,
+          "gbGuid": "3045-8",
+          "tgdbId": 35
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   }
 ]

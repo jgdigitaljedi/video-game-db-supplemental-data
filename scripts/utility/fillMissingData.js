@@ -3,26 +3,27 @@ const fileUtil = require('./fileUtilities');
 const { categories } = require('./helpers');
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/special/nintendoDsCartsWithBuiltInDevices.json';
-const detailsFix = null;
+const relativePath = '../../textFilesToBeConverted/special/masterSystemGamesWithFmAudio.json';
+const detailsFix = "Sega Master System game has FM audio";
 const category = categories.other;
-const idPrefix = 'ndsbi';
+const idPrefix = 'msfma';
 /** end file variables section */
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
   const fixed = parsed.map((game, index) => {
+    const gameData = typeof game === 'string' ? {name: game} : game;
     if (detailsFix) {
-      game.details = detailsFix;
+      gameData.details = detailsFix;
     }
-    game.id = `${idPrefix}${index + 1}`;
-    game.igdbId = null;
-    game.gbId = null;
-    game.gbGuid = null;
-    game.tgdbId = null;
-    game.category = category;
-    return game;
+    gameData.id = `${idPrefix}${index + 1}`;
+    gameData.igdbId = null;
+    gameData.gbId = null;
+    gameData.gbGuid = null;
+    gameData.tgdbId = null;
+    gameData.category = category;
+    return gameData;
   });
   const written = fileUtil.writeFile(relativePath, fixed);
   if (written) {

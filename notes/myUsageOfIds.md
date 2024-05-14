@@ -130,6 +130,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - gctmX - GameCube games with tate mode support (nintendoGamecubeTateModeGames.json) | GAMES LIST
 - ggsbX - Game Gear games with save battery (segaGameGearGamesWithSaveBattery.json) | GAMES LIST
 - molgX - Magnavox Odyssey light gun games (magnavoxOdysseyLightGunGamesGames.json) | GAMES LIST
+- msfmaX - Master System games with FM audio (masterSystemGamesWithFmAudio.json) | GAMES LIST
 - mspnX - Master System PAL games with issues on NTSC MS (masterSystemPalGamesWithProblemsOnNtsc.json) | GAMES LIST
 - mssbX - Master System games with hardware incompatibilities (masterSystemGamesIncompatibilities.json) | GAMES LIST
 - mssbX - Master System games with save battery (masterSystemGamesWithSaveBatteries.json) | GAMES LIST
