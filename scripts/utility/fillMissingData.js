@@ -3,10 +3,10 @@ const fileUtil = require('./fileUtilities');
 const { categories } = require('./helpers');
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/special/n64GamesThatRunAt60Fps.json';
-const detailsFix = "Nintendo 64 game runs at 60 FPS";
+const relativePath = '../../textFilesToBeConverted/special/saturnGamesThatRunAt60Fps.json';
+const detailsFix = "Sega Saturn game runs at 60 FPS";
 const category = categories.other;
-const idPrefix = 'n64fp';
+const idPrefix = 'ssfps';
 /** end file variables section */
 
 (async function() {

@@ -207,10 +207,7 @@
     ]
   },
   {
-    "regionLock": [
-      "ps3RegionLockExceptions",
-      "regionLockExceptions"
-    ]
+    "regionLock": ["ps3RegionLockExceptions", "regionLockExceptions"]
   },
   {
     "special": [
@@ -274,6 +271,7 @@
       "pspGamesIncompatibleWithPsTv",
       "psVitaGamesIncompatibleWithPsTv",
       "rcaStudio2BuiltInGames",
+      "saturnGamesThatRunAt60Fps",
       "sega32x6ButtonGames",
       "sega32x6ButtonHidden",
       "sega32x6ButtonMode",
@@ -319,17 +317,10 @@
     ]
   },
   {
-    "XboxBc": [
-      "Xbox360ToXboxOne",
-      "XboxToXbox360",
-      "XboxToXboxOne"
-    ]
+    "XboxBc": ["Xbox360ToXboxOne", "XboxToXbox360", "XboxToXboxOne"]
   },
   {
-    "peripheral": [
-      "n64GamesThatCameWithPeripherals",
-      "segaSaturnGamesThatCameWithPeripherals"
-    ]
+    "peripheral": ["n64GamesThatCameWithPeripherals", "segaSaturnGamesThatCameWithPeripherals"]
   },
   {
     "misprintsAndErrors/accessories": [
@@ -387,9 +378,7 @@
     ]
   },
   {
-    "misprintsAndErrors/platforms": [
-      "platformErrors"
-    ]
+    "misprintsAndErrors/platforms": ["platformErrors"]
   },
   {
     "allFiles": [
