@@ -137,6 +137,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - mxb360lgX - Microsoft Xbox 360 light gun games (microsoftXbox360LightGunGames.json) | GAMES LIST
 - mxblgX - Microsoft Xbox light gun games (microsoftXboxLightGunGames.json) | GAMES LIST
 - n64epX - N64 Expansion Pak Games (n64ExpansionPakGames.json) | GAMES LIST
+- n64fpX - N64 games that run at 60 FPS (n64gamesThatRunAt60Fps.json) | GAMES LIST
 - n64rpX - N64 RUMBLE Pak Games (n64RumblePakGames.json) | GAMES LIST
 - n64sbX - N64 games with save batteries (n64GamesWithSaveBattery.json) | GAMES LIST
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST

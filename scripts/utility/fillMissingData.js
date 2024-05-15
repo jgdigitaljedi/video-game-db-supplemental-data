@@ -3,10 +3,10 @@ const fileUtil = require('./fileUtilities');
 const { categories } = require('./helpers');
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/special/playstationGamesWithWidescreen.json';
-const detailsFix = "Sony PlayStation game has widescreen mode";
+const relativePath = '../../textFilesToBeConverted/special/n64GamesThatRunAt60Fps.json';
+const detailsFix = "Nintendo 64 game runs at 60 FPS";
 const category = categories.other;
-const idPrefix = 'psws';
+const idPrefix = 'n64fp';
 /** end file variables section */
 
 (async function() {
