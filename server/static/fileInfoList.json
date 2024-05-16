@@ -1900,8 +1900,14 @@
     "complete": true
   },
   {
-    "title": "Sega Saturn Gameswith widescreen mode",
+    "title": "Sega Saturn Games with widescreen mode",
     "filePath": "../textFilesToBeConverted/special/saturnGamesWithWidescreen.json",
+    "type": "Game",
+    "complete": true
+  },
+  {
+    "title": "N64 Games with widescreen mode",
+    "filePath": "../textFilesToBeConverted/special/n64GamesWithWidescreen.json",
     "type": "Game",
     "complete": true
   }

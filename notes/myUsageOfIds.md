@@ -140,6 +140,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - n64fpX - N64 games that run at 60 FPS (n64gamesThatRunAt60Fps.json) | GAMES LIST
 - n64rpX - N64 RUMBLE Pak Games (n64RumblePakGames.json) | GAMES LIST
 - n64sbX - N64 games with save batteries (n64GamesWithSaveBattery.json) | GAMES LIST
+- n64wsX - N64 games with widescreen mode (n64GamesWithWidescreen.json) | GAMES LIST
 - nbbX - NES black box games (nesBlackBoxTitles.json) | GAMES LIST
 - ndsbiX - Nintendo DS cartridges with built in devices (nintendoDsCartsWithBuiltInDevices.json) | GAMES LIST
 - nessbX - NES games with save battery (nesGamesWithSaveBattery.json) | GAMES LIST

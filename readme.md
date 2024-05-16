@@ -331,7 +331,9 @@ I've been scouring the web for unique data points and will continue to do so. He
 - NES Black Box games
 - NES games with save batteries
 - NES hang tab games
+- Nintendo 64 games that run at 60 fps
 - Nintendo 64 games with save battery
+- Nintendo 64 games with widescreen mode
 - Nintendo DS cartridges with built in devices
 - Nintendo Game Boy Advance games with tate mode
 - Nintendo GameCube games with alternate display modes
@@ -357,11 +359,14 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sega Master System games with FM audio
 - Sega Saturn RAM and ROM cart games
 - Sega Saturn VCD card games
+- Sega Saturn games that run at 60 fps
 - Sega Saturn games with tate mode
+- Sega Saturn games with widescreen mode
 - SNES games with save battery
 - SNES games with tate mode
 - Sony PlayStation longbox games
 - Sony PlayStation games with tate mode
+- Sony PlayStation games with widescreen mode
 - Sony PlayStation 2 Online games
 - Sony PlayStation 2 games with tate mode
 - Sony PlayStation 3 games with tate mode
@@ -493,7 +498,7 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan. I think some of this is lost in translation.
 
 There are 918 data points for platforms/consoles.
- Out of 19740 games data points collected so far, the APIs are missing data the following number of games:
+ Out of 19765 games data points collected so far, the APIs are missing data the following number of games:
 
 - Missing from all APIs: 1534 (8%)
 - IGDB: 1717 (9%)

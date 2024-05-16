@@ -560,7 +560,8 @@
     "details": [
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Enables two hi-res modes, which increase resolution to 480x360 or 480x232.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (cropped; expansion pak required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -600,6 +601,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (cropped; expansion pak required)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -666,7 +679,8 @@
     "details": [
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Enables a 640x240 high resolution mode.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterbox mode with extra pixels but isn't 16:9)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -706,6 +720,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterbox mode with extra pixels but isn't 16:9)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -719,7 +745,8 @@
     "details": [
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Enables a 640x240 high resolution mode.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterbox mode with extra pixels but isn't 16:9)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -759,6 +786,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterbox mode with extra pixels but isn't 16:9)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -953,7 +992,8 @@
     "gbGuid": "3030-2871",
     "details": [
       "N64 4 player game",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (anamorphic WS with lower framerate)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -981,6 +1021,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (anamorphic WS with lower framerate)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -2302,7 +2354,8 @@
     "details": [
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Allows for a hi-res graphics mode, which changes the game to a widescreen view but has little noticeable effect on graphics.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterboxes but not really WS; requires expansion pak)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -2342,6 +2395,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterboxes but not really WS; requires expansion pak)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -2719,7 +2784,8 @@
       "N64 4 player game",
       "N64 Expansion Pak Game: REQUIRED (Does not boot without the expansion pak except the expansion pak warning.)",
       "N64 Rumble Pak Game",
-      "N64 game bundled with Expansion Pak"
+      "N64 game bundled with Expansion Pak",
+      "Nintendo 64 game has widescreen mode (stretched to about 14.5:9)"
     ],
     "isExclusive": [
       {
@@ -2792,6 +2858,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (stretched to about 14.5:9)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -3085,7 +3163,8 @@
     "details": [
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Enables hi-res mode, which increases resolution to 640×480.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (interlaced and squeezed to create letterbox look)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -3125,6 +3204,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (interlaced and squeezed to create letterbox look)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -4055,7 +4146,8 @@
       "Nintendo 64 exclusive",
       "Nintendo 64 Player's Choice",
       "N64 4 player game",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (anamorphic WS; multiple options)"
     ],
     "isExclusive": [
       {
@@ -4104,6 +4196,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (anamorphic WS; multiple options)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -4312,7 +4416,8 @@
     "details": [
       "Nintendo 64 exclusive",
       "N64 Expansion Pak Game: not required (Enables two hi-res modes, which increases resolution to 640×480 however performance suffers greatly as a result.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterboxes and cropped with worse frame rate; expansion pak required)"
     ],
     "isExclusive": [
       {
@@ -4349,6 +4454,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterboxes and cropped with worse frame rate; expansion pak required)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -4902,7 +5019,8 @@
     "details": [
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Provides enhanced graphics and visual effects.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (anamorphic WS)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -4942,6 +5060,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (anamorphic WS)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -5061,7 +5191,8 @@
     "gbGuid": "3030-12696",
     "details": [
       "N64 4 player game",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterboxes)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -5089,6 +5220,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterboxes)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -5190,7 +5333,8 @@
     "gbGuid": "3030-11803",
     "details": [
       "N64 Expansion Pak Game: not required (Allows for hi-res gameplay.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (anamorphic WS; expansion pak required)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -5218,6 +5362,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (anamorphic WS; expansion pak required)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -6398,7 +6554,8 @@
     "gbGuid": "3030-6368",
     "details": [
       "N64 4 player game",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterboxes with less detail)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -6426,6 +6583,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterboxes with less detail)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -6577,7 +6746,8 @@
     "gbId": 29369,
     "gbGuid": "3030-29369",
     "details": [
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (anamorphic WS)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -6593,6 +6763,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (anamorphic WS)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -8243,7 +8425,8 @@
       "Nintendo 64 Player's Choice",
       "N64 4 player game",
       "N64 Expansion Pak Game: REQUIRED (Required for the single player, co-operative and counter-operative campaigns, as well as most multiplayer features. Enables hi-res mode, which increases resolution to 640×222.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (several anamorphic WS modes)"
     ],
     "isExclusive": [
       {
@@ -8304,6 +8487,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (several anamorphic WS modes)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -9135,7 +9330,8 @@
       "Nintendo 64 exclusive",
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (The Expansion Pak increases the framerate from 30 Hz to 60 Hz.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterboxed: expansion pak required)"
     ],
     "isExclusive": [
       {
@@ -9184,6 +9380,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterboxed: expansion pak required)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -9801,7 +10009,8 @@
     "details": [
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Enables hi-res mode, increases frame rate in lo-res mode.Enables hi-res mode, increases frame rate in lo-res mode.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (some more pixels and cropping)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -9841,6 +10050,18 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (some more pixels and cropping)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
@@ -10287,15 +10508,43 @@
     "misprintsErrors": []
   },
   {
-    "name": "Stunt Racer 64",
+    "name": "Starshot: Space Circus Fever",
     "id": "n64283",
+    "igdbId": 3605,
+    "gbId": 5695,
+    "gbGuid": "3030-5695",
+    "details": [
+      "Nintendo 64 game has widescreen mode (anamorphic WS)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo 64 game has widescreen mode (anamorphic WS)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Stunt Racer 64",
+    "id": "n64284",
     "igdbId": 3606,
     "gbId": 12060,
     "gbGuid": "3030-12060",
     "tgdbId": 1209,
     "details": [
       "Nintendo 64 exclusive",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (interlaced and letterboxed with some cropping and some extra pixels)"
     ],
     "isExclusive": [
       {
@@ -10320,13 +10569,25 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (interlaced and letterboxed with some cropping and some extra pixels)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Super B-Daman Battle Phoenix 64",
-    "id": "n64284",
+    "id": "n64285",
     "igdbId": 3607,
     "gbId": 30959,
     "gbGuid": "3030-30959",
@@ -10350,7 +10611,7 @@
   },
   {
     "name": "Super Bowling",
-    "id": "n64285",
+    "id": "n64286",
     "igdbId": 3344,
     "gbId": 5847,
     "gbGuid": "3030-5847",
@@ -10390,7 +10651,7 @@
   },
   {
     "name": "Super Mario 64",
-    "id": "n64286",
+    "id": "n64287",
     "igdbId": 1074,
     "gbId": 2931,
     "gbGuid": "3030-2931",
@@ -10414,7 +10675,7 @@
   },
   {
     "name": "Super Mario 64",
-    "id": "n64287",
+    "id": "n64288",
     "igdbId": 132642,
     "gbId": 2931,
     "gbGuid": "3030-2931",
@@ -10454,7 +10715,7 @@
   },
   {
     "name": "Super Robot Spirits",
-    "id": "n64288",
+    "id": "n64289",
     "igdbId": 3608,
     "gbId": null,
     "gbGuid": null,
@@ -10478,7 +10739,7 @@
   },
   {
     "name": "Super Robot Wars 64",
-    "id": "n64289",
+    "id": "n64290",
     "igdbId": 3609,
     "gbId": 23088,
     "gbGuid": "3030-23088",
@@ -10501,7 +10762,7 @@
   },
   {
     "name": "Super Smash Bros.",
-    "id": "n64290",
+    "id": "n64291",
     "igdbId": 1626,
     "gbId": 19125,
     "gbGuid": "3030-19125",
@@ -10580,7 +10841,7 @@
   },
   {
     "name": "Supercross 2000",
-    "id": "n64291",
+    "id": "n64292",
     "igdbId": 3610,
     "gbId": 12092,
     "gbGuid": "3030-12092",
@@ -10607,7 +10868,7 @@
   },
   {
     "name": "Superman",
-    "id": "n64292",
+    "id": "n64293",
     "igdbId": 3005,
     "gbId": 20702,
     "gbGuid": "3030-20702",
@@ -10615,7 +10876,8 @@
     "details": [
       "Nintendo 64 exclusive",
       "N64 4 player game",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterboxes by default)"
     ],
     "isExclusive": [
       {
@@ -10652,13 +10914,25 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterboxes by default)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Tetris 64",
-    "id": "n64293",
+    "id": "n64294",
     "igdbId": 3346,
     "gbId": 26861,
     "gbGuid": "3030-26861",
@@ -10682,7 +10956,7 @@
   },
   {
     "name": "Tetrisphere",
-    "id": "n64294",
+    "id": "n64295",
     "igdbId": 3612,
     "gbId": 3049,
     "gbGuid": "3030-3049",
@@ -10706,7 +10980,7 @@
   },
   {
     "name": "The Legend of Zelda: Majora's Mask",
-    "id": "n64295",
+    "id": "n64296",
     "igdbId": 1030,
     "gbId": 13594,
     "gbGuid": "3030-13594",
@@ -10746,7 +11020,7 @@
   },
   {
     "name": "The Legend of Zelda: Ocarina of Time",
-    "id": "n64296",
+    "id": "n64297",
     "igdbId": 1029,
     "gbId": 12572,
     "gbGuid": "3030-12572",
@@ -10799,7 +11073,7 @@
   },
   {
     "name": "The New Tetris",
-    "id": "n64297",
+    "id": "n64298",
     "igdbId": 3339,
     "gbId": 1737,
     "gbGuid": "3030-1737",
@@ -10850,7 +11124,7 @@
   },
   {
     "name": "Tom Clancy's Rainbow Six",
-    "id": "n64298",
+    "id": "n64299",
     "igdbId": 1842,
     "gbId": 7887,
     "gbGuid": "3030-7887",
@@ -10877,7 +11151,7 @@
   },
   {
     "name": "Tom and Jerry in Fists of Furry",
-    "id": "n64299",
+    "id": "n64300",
     "igdbId": 2714,
     "gbId": 8995,
     "gbGuid": "3030-8995",
@@ -10904,7 +11178,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater",
-    "id": "n64300",
+    "id": "n64301",
     "igdbId": 210451,
     "gbId": 7236,
     "gbGuid": "3030-7236",
@@ -10944,7 +11218,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater 2",
-    "id": "n64301",
+    "id": "n64302",
     "igdbId": 913,
     "gbId": 990,
     "gbGuid": "3030-990",
@@ -10984,7 +11258,7 @@
   },
   {
     "name": "Tony Hawk's Pro Skater 3",
-    "id": "n64302",
+    "id": "n64303",
     "igdbId": 194213,
     "gbId": 5688,
     "gbGuid": "3030-5688",
@@ -11024,7 +11298,7 @@
   },
   {
     "name": "Top Gear Hyper-Bike",
-    "id": "n64303",
+    "id": "n64304",
     "igdbId": 3615,
     "gbId": 9586,
     "gbGuid": "3030-9586",
@@ -11075,7 +11349,7 @@
   },
   {
     "name": "Top Gear Overdrive",
-    "id": "n64304",
+    "id": "n64305",
     "igdbId": 3616,
     "gbId": 15563,
     "gbGuid": "3030-15563",
@@ -11084,7 +11358,8 @@
       "Nintendo 64 exclusive",
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Enables hi-res option, which increases resolution to 640x240)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (extreme cropping)"
     ],
     "isExclusive": [
       {
@@ -11133,13 +11408,25 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (extreme cropping)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Top Gear Rally",
-    "id": "n64305",
+    "id": "n64306",
     "igdbId": 3617,
     "gbId": 9838,
     "gbGuid": "3030-9838",
@@ -11166,7 +11453,7 @@
   },
   {
     "name": "Top Gear Rally 2",
-    "id": "n64306",
+    "id": "n64307",
     "igdbId": 3618,
     "gbId": 9706,
     "gbGuid": "3030-9706",
@@ -11230,7 +11517,7 @@
   },
   {
     "name": "Toy Story 2: Buzz Lightyear to the Rescue!",
-    "id": "n64307",
+    "id": "n64308",
     "igdbId": 3619,
     "gbId": 7301,
     "gbGuid": "3030-7301",
@@ -11257,7 +11544,7 @@
   },
   {
     "name": "Transformers: Beast Wars Transmetals",
-    "id": "n64308",
+    "id": "n64309",
     "igdbId": 3620,
     "gbId": 5394,
     "gbGuid": "3030-5394",
@@ -11284,7 +11571,7 @@
   },
   {
     "name": "Triple Play 2000",
-    "id": "n64309",
+    "id": "n64310",
     "igdbId": 3621,
     "gbId": 14025,
     "gbGuid": "3030-14025",
@@ -11311,7 +11598,7 @@
   },
   {
     "name": "True Golf Classics: Waialae Country Club",
-    "id": "n64310",
+    "id": "n64311",
     "igdbId": 3627,
     "gbId": 22798,
     "gbGuid": "3030-22798",
@@ -11349,7 +11636,7 @@
   },
   {
     "name": "Turok 2: Seeds of Evil",
-    "id": "n64311",
+    "id": "n64312",
     "igdbId": 1326,
     "gbId": 7052,
     "gbGuid": "3030-7052",
@@ -11357,7 +11644,8 @@
       "Nintendo 64 Player's Choice",
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Enables two hi-res modes, which increases resolution to 480x360 or 480x232.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterboxed if expansion pak present with slightly lower framerate)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -11409,13 +11697,25 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterboxed if expansion pak present with slightly lower framerate)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Turok 3: Shadow of Oblivion",
-    "id": "n64312",
+    "id": "n64313",
     "igdbId": 1328,
     "gbId": 10047,
     "gbGuid": "3030-10047",
@@ -11424,7 +11724,8 @@
       "Nintendo 64 exclusive",
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Enables two hi-res modes, which increase resolution to 480x360 or 480x232.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterboxed if expansion pak present with slightly lower framerate)"
     ],
     "isExclusive": [
       {
@@ -11473,13 +11774,25 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterboxed if expansion pak present with slightly lower framerate)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Turok: Dinosaur Hunter",
-    "id": "n64313",
+    "id": "n64314",
     "igdbId": 1321,
     "gbId": 14614,
     "gbGuid": "3030-14614",
@@ -11506,7 +11819,7 @@
   },
   {
     "name": "Turok: Rage Wars",
-    "id": "n64314",
+    "id": "n64315",
     "igdbId": 1327,
     "gbId": 7962,
     "gbGuid": "3030-7962",
@@ -11515,7 +11828,8 @@
       "Nintendo 64 exclusive",
       "N64 4 player game",
       "N64 Expansion Pak Game: not required (Enables two hi-res modes, which increase resolution to 480x360 or 480x232.)",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterboxed if expansion pak present with slightly lower framerate)"
     ],
     "isExclusive": [
       {
@@ -11564,13 +11878,25 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterboxed if expansion pak present with slightly lower framerate)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Twisted Edge Extreme Snowboarding",
-    "id": "n64315",
+    "id": "n64316",
     "igdbId": 3622,
     "gbId": 565,
     "gbGuid": "3030-565",
@@ -11608,7 +11934,7 @@
   },
   {
     "name": "Ucchannanchan no Honō no Challenger: Denryū Iraira Bō",
-    "id": "n64316",
+    "id": "n64317",
     "igdbId": 3623,
     "gbId": 33849,
     "gbGuid": "3030-33849",
@@ -11631,7 +11957,7 @@
   },
   {
     "name": "V-Rally Edition '99",
-    "id": "n64317",
+    "id": "n64318",
     "igdbId": 10621,
     "gbId": null,
     "gbGuid": null,
@@ -11658,7 +11984,7 @@
   },
   {
     "name": "Vigilante 8",
-    "id": "n64318",
+    "id": "n64319",
     "igdbId": 3332,
     "gbId": 13200,
     "gbGuid": "3030-13200",
@@ -11698,7 +12024,7 @@
   },
   {
     "name": "Vigilante 8: 2nd Offense",
-    "id": "n64319",
+    "id": "n64320",
     "igdbId": 3333,
     "gbId": 7468,
     "gbGuid": "3030-7468",
@@ -11738,7 +12064,7 @@
   },
   {
     "name": "Virtual Chess 64",
-    "id": "n64320",
+    "id": "n64321",
     "igdbId": 3334,
     "gbId": 14771,
     "gbGuid": "3030-14771",
@@ -11776,7 +12102,7 @@
   },
   {
     "name": "Virtual Pool 64",
-    "id": "n64321",
+    "id": "n64322",
     "igdbId": 3624,
     "gbId": 22795,
     "gbGuid": "3030-22795",
@@ -11800,7 +12126,7 @@
   },
   {
     "name": "Virtual Pro Wrestling 2: Oudou Keishou",
-    "id": "n64322",
+    "id": "n64323",
     "igdbId": 3625,
     "gbId": 23213,
     "gbGuid": "3030-23213",
@@ -11838,7 +12164,7 @@
   },
   {
     "name": "Virtual Pro Wrestling 64",
-    "id": "n64323",
+    "id": "n64324",
     "igdbId": 3626,
     "gbId": 23212,
     "gbGuid": "3030-23212",
@@ -11876,7 +12202,7 @@
   },
   {
     "name": "WCW Backstage Assault",
-    "id": "n64324",
+    "id": "n64325",
     "igdbId": 3632,
     "gbId": 10286,
     "gbGuid": "3030-10286",
@@ -11903,7 +12229,7 @@
   },
   {
     "name": "WCW Mayhem",
-    "id": "n64325",
+    "id": "n64326",
     "igdbId": 3633,
     "gbId": 1204,
     "gbGuid": "3030-1204",
@@ -11943,7 +12269,7 @@
   },
   {
     "name": "WCW Nitro",
-    "id": "n64326",
+    "id": "n64327",
     "igdbId": 3634,
     "gbId": 7908,
     "gbGuid": "3030-7908",
@@ -11996,7 +12322,7 @@
   },
   {
     "name": "WCW Vs. nWo: World Tour",
-    "id": "n64327",
+    "id": "n64328",
     "igdbId": 3635,
     "gbId": 14786,
     "gbGuid": "3030-14786",
@@ -12060,7 +12386,7 @@
   },
   {
     "name": "WCW/nWo Revenge",
-    "id": "n64328",
+    "id": "n64329",
     "igdbId": 3636,
     "gbId": 18320,
     "gbGuid": "3030-18320",
@@ -12111,7 +12437,7 @@
   },
   {
     "name": "WWF Attitude",
-    "id": "n64329",
+    "id": "n64330",
     "igdbId": 3643,
     "gbId": 16435,
     "gbGuid": "3030-16435",
@@ -12151,7 +12477,7 @@
   },
   {
     "name": "WWF No Mercy",
-    "id": "n64330",
+    "id": "n64331",
     "igdbId": 3644,
     "gbId": 11394,
     "gbGuid": "3030-11394",
@@ -12202,7 +12528,7 @@
   },
   {
     "name": "WWF War Zone",
-    "id": "n64331",
+    "id": "n64332",
     "igdbId": 3645,
     "gbId": 18801,
     "gbGuid": "3030-18801",
@@ -12242,7 +12568,7 @@
   },
   {
     "name": "WWF WrestleMania 2000",
-    "id": "n64332",
+    "id": "n64333",
     "igdbId": 3646,
     "gbId": 3667,
     "gbGuid": "3030-3667",
@@ -12295,7 +12621,7 @@
   },
   {
     "name": "Wave Race 64",
-    "id": "n64333",
+    "id": "n64334",
     "igdbId": 3629,
     "gbId": 11969,
     "gbGuid": "3030-11969",
@@ -12335,7 +12661,7 @@
   },
   {
     "name": "Wayne Gretzky's 3D Hockey",
-    "id": "n64334",
+    "id": "n64335",
     "igdbId": 3630,
     "gbId": 20062,
     "gbGuid": "3030-20062",
@@ -12362,7 +12688,7 @@
   },
   {
     "name": "Wayne Gretzky's 3D Hockey '98",
-    "id": "n64335",
+    "id": "n64336",
     "igdbId": 3631,
     "gbId": 22796,
     "gbGuid": "3030-22796",
@@ -12389,7 +12715,7 @@
   },
   {
     "name": "Wheel of Fortune",
-    "id": "n64336",
+    "id": "n64337",
     "igdbId": 142026,
     "gbId": 25501,
     "gbGuid": "3030-25501",
@@ -12429,7 +12755,7 @@
   },
   {
     "name": "WinBack: Covert Operations",
-    "id": "n64337",
+    "id": "n64338",
     "igdbId": 47680,
     "gbId": 15774,
     "gbGuid": "3030-15774",
@@ -12469,7 +12795,7 @@
   },
   {
     "name": "Wipeout 64",
-    "id": "n64338",
+    "id": "n64339",
     "igdbId": 1539,
     "gbId": 12064,
     "gbGuid": "3030-12064",
@@ -12520,7 +12846,7 @@
   },
   {
     "name": "Wonder Project J2",
-    "id": "n64339",
+    "id": "n64340",
     "igdbId": 47748,
     "gbId": 29874,
     "gbGuid": "3030-29874",
@@ -12544,7 +12870,7 @@
   },
   {
     "name": "World Cup 98",
-    "id": "n64340",
+    "id": "n64341",
     "igdbId": 3641,
     "gbId": 12771,
     "gbGuid": "3030-12771",
@@ -12571,14 +12897,15 @@
   },
   {
     "name": "World Driver Championship",
-    "id": "n64341",
+    "id": "n64342",
     "igdbId": 3642,
     "gbId": 10150,
     "gbGuid": "3030-10150",
     "tgdbId": 414,
     "details": [
       "Nintendo 64 exclusive",
-      "N64 Rumble Pak Game"
+      "N64 Rumble Pak Game",
+      "Nintendo 64 game has widescreen mode (letterboxes with interlacing, more pixels, and extreme cropping)"
     ],
     "isExclusive": [
       {
@@ -12603,13 +12930,25 @@
           "tgdbId": 3
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Nintendo 64 game has widescreen mode (letterboxes with interlacing, more pixels, and extreme cropping)",
+        "forPlatform": {
+          "name": "Nintendo 64",
+          "id": "ccl3",
+          "igdbId": 4,
+          "gbId": 43,
+          "gbGuid": "3045-43",
+          "tgdbId": 3
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "World League Soccer 2000",
-    "id": "n64342",
+    "id": "n64343",
     "igdbId": 72820,
     "gbId": 22797,
     "gbGuid": "3030-22797",
@@ -12636,7 +12975,7 @@
   },
   {
     "name": "Worms Armageddon",
-    "id": "n64343",
+    "id": "n64344",
     "igdbId": 948,
     "gbId": 17255,
     "gbGuid": "3030-17255",
@@ -12663,7 +13002,7 @@
   },
   {
     "name": "Xena: Warrior Princess - The Talisman of Fate",
-    "id": "n64344",
+    "id": "n64345",
     "igdbId": 3647,
     "gbId": 8939,
     "gbGuid": "3030-8939",
@@ -12727,7 +13066,7 @@
   },
   {
     "name": "Yoshi's Story",
-    "id": "n64345",
+    "id": "n64346",
     "igdbId": 3213,
     "gbId": 15207,
     "gbGuid": "3030-15207",
@@ -12767,7 +13106,7 @@
   },
   {
     "name": "Zoor: Majuu Tsukai Densetsu",
-    "id": "n64346",
+    "id": "n64347",
     "igdbId": 3650,
     "gbId": null,
     "gbGuid": null,
