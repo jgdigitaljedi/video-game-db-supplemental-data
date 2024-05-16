@@ -202,8 +202,35 @@
     "misprintsErrors": []
   },
   {
-    "name": "Bases Loaded '96: Double Header",
+    "name": "Baroque",
     "id": "ssat8",
+    "igdbId": 147807,
+    "gbId": 13105,
+    "gbGuid": "3030-13105",
+    "details": [
+      "Sega Saturn game has widescreen mode (anamorphic ws)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn game has widescreen mode (anamorphic ws)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Bases Loaded '96: Double Header",
+    "id": "ssat9",
     "igdbId": 46099,
     "gbId": 45331,
     "gbGuid": "3030-45331",
@@ -230,7 +257,7 @@
   },
   {
     "name": "Batsugun",
-    "id": "ssat9",
+    "id": "ssat10",
     "igdbId": 16126,
     "gbId": 29473,
     "gbGuid": "3030-29473",
@@ -256,7 +283,7 @@
   },
   {
     "name": "Battle Arena Toshinden Ultimate Revenge Attack",
-    "id": "ssat10",
+    "id": "ssat11",
     "igdbId": 77987,
     "gbId": 11269,
     "gbGuid": "3030-11269",
@@ -274,7 +301,7 @@
   },
   {
     "name": "Battle Monsters",
-    "id": "ssat11",
+    "id": "ssat12",
     "igdbId": 45504,
     "gbId": 5047,
     "gbGuid": "3030-5047",
@@ -298,7 +325,7 @@
   },
   {
     "name": "Black Fire",
-    "id": "ssat12",
+    "id": "ssat13",
     "igdbId": 46087,
     "gbId": 47202,
     "gbGuid": "3030-47202",
@@ -322,7 +349,7 @@
   },
   {
     "name": "Blast Chamber",
-    "id": "ssat13",
+    "id": "ssat14",
     "igdbId": 47014,
     "gbId": 15493,
     "gbGuid": "3030-15493",
@@ -349,7 +376,7 @@
   },
   {
     "name": "Bottom of the 9th",
-    "id": "ssat14",
+    "id": "ssat15",
     "igdbId": 3369,
     "gbId": 20026,
     "gbGuid": "3030-20026",
@@ -367,7 +394,7 @@
   },
   {
     "name": "Break Point Tennis",
-    "id": "ssat15",
+    "id": "ssat16",
     "igdbId": 45493,
     "gbId": null,
     "gbGuid": null,
@@ -394,7 +421,7 @@
   },
   {
     "name": "Burning Rangers",
-    "id": "ssat16",
+    "id": "ssat17",
     "igdbId": 19666,
     "gbId": 5765,
     "gbGuid": "3030-5765",
@@ -418,7 +445,7 @@
   },
   {
     "name": "Capcom Generations 1: Wings of Destiny",
-    "id": "ssat17",
+    "id": "ssat18",
     "igdbId": 66122,
     "gbId": 33831,
     "gbGuid": "3030-33831",
@@ -444,7 +471,7 @@
   },
   {
     "name": "Capcom Generations 3: The First Generation",
-    "id": "ssat18",
+    "id": "ssat19",
     "igdbId": 66121,
     "gbId": 33833,
     "gbGuid": "3030-33833",
@@ -470,7 +497,7 @@
   },
   {
     "name": "Capcom Generations 4: Blazing Guns",
-    "id": "ssat19",
+    "id": "ssat20",
     "igdbId": 80862,
     "gbId": 33834,
     "gbGuid": "3030-33834",
@@ -496,7 +523,7 @@
   },
   {
     "name": "Casper",
-    "id": "ssat20",
+    "id": "ssat21",
     "igdbId": 6345,
     "gbId": 14860,
     "gbGuid": "3030-14860",
@@ -514,7 +541,7 @@
   },
   {
     "name": "Center Ring Boxing",
-    "id": "ssat21",
+    "id": "ssat22",
     "igdbId": 92548,
     "gbId": 35528,
     "gbGuid": "3030-35528",
@@ -537,7 +564,7 @@
   },
   {
     "name": "Chaos Control",
-    "id": "ssat22",
+    "id": "ssat23",
     "igdbId": 176140,
     "gbId": 17289,
     "gbGuid": "3030-17289",
@@ -564,7 +591,7 @@
   },
   {
     "name": "Clockwork Knight",
-    "id": "ssat23",
+    "id": "ssat24",
     "igdbId": 19756,
     "gbId": 962,
     "gbGuid": "3030-962",
@@ -612,7 +639,7 @@
   },
   {
     "name": "Clockwork Knight 2",
-    "id": "ssat24",
+    "id": "ssat25",
     "igdbId": 19717,
     "gbId": 29093,
     "gbGuid": "3030-29093",
@@ -650,7 +677,7 @@
   },
   {
     "name": "College Slam",
-    "id": "ssat25",
+    "id": "ssat26",
     "igdbId": 4541,
     "gbId": 125,
     "gbGuid": "3030-125",
@@ -677,7 +704,7 @@
   },
   {
     "name": "Congo The Movie: The Lost City of Zinj",
-    "id": "ssat26",
+    "id": "ssat27",
     "igdbId": 45516,
     "gbId": 31291,
     "gbGuid": "3030-31291",
@@ -701,7 +728,7 @@
   },
   {
     "name": "Contra: Legacy of War",
-    "id": "ssat27",
+    "id": "ssat28",
     "igdbId": 45507,
     "gbId": 14566,
     "gbGuid": "3030-14566",
@@ -728,7 +755,7 @@
   },
   {
     "name": "Corpse Killer",
-    "id": "ssat28",
+    "id": "ssat29",
     "igdbId": 5372,
     "gbId": 2817,
     "gbGuid": "3030-2817",
@@ -755,7 +782,7 @@
   },
   {
     "name": "Corpse Killer: Graveyard Edition",
-    "id": "ssat29",
+    "id": "ssat30",
     "igdbId": 45492,
     "gbId": 2817,
     "gbGuid": "3030-2817",
@@ -773,7 +800,7 @@
   },
   {
     "name": "Cotton 2: Magical Night Dreams",
-    "id": "ssat30",
+    "id": "ssat31",
     "igdbId": 39489,
     "gbId": 10308,
     "gbGuid": "3030-10308",
@@ -800,7 +827,7 @@
   },
   {
     "name": "Crime Wave",
-    "id": "ssat31",
+    "id": "ssat32",
     "igdbId": 12018,
     "gbId": 12792,
     "gbGuid": "3030-12792",
@@ -818,7 +845,7 @@
   },
   {
     "name": "CrimeWave",
-    "id": "ssat32",
+    "id": "ssat33",
     "igdbId": 73152,
     "gbId": 19747,
     "gbGuid": "3030-19747",
@@ -855,7 +882,7 @@
   },
   {
     "name": "Crypt Killer",
-    "id": "ssat33",
+    "id": "ssat34",
     "igdbId": 20737,
     "gbId": 550,
     "gbGuid": "3030-550",
@@ -882,7 +909,7 @@
   },
   {
     "name": "Cyber Speedway",
-    "id": "ssat34",
+    "id": "ssat35",
     "igdbId": 19740,
     "gbId": 18723,
     "gbGuid": "3030-18723",
@@ -906,7 +933,7 @@
   },
   {
     "name": "Cyberbots: Fullmetal Madness",
-    "id": "ssat35",
+    "id": "ssat36",
     "igdbId": 43820,
     "gbId": 15754,
     "gbGuid": "3030-15754",
@@ -933,7 +960,7 @@
   },
   {
     "name": "Cyberia",
-    "id": "ssat36",
+    "id": "ssat37",
     "igdbId": 4331,
     "gbId": 18074,
     "gbGuid": "3030-18074",
@@ -951,7 +978,7 @@
   },
   {
     "name": "D-Xhird",
-    "id": "ssat37",
+    "id": "ssat38",
     "igdbId": 46668,
     "gbId": 26413,
     "gbGuid": "3030-26413",
@@ -975,7 +1002,7 @@
   },
   {
     "name": "Dark Legend",
-    "id": "ssat38",
+    "id": "ssat39",
     "igdbId": 45525,
     "gbId": 35536,
     "gbGuid": "3030-35536",
@@ -993,7 +1020,7 @@
   },
   {
     "name": "Dark Savior",
-    "id": "ssat39",
+    "id": "ssat40",
     "igdbId": 46058,
     "gbId": 18766,
     "gbGuid": "3030-18766",
@@ -1017,7 +1044,7 @@
   },
   {
     "name": "Daytona USA",
-    "id": "ssat40",
+    "id": "ssat41",
     "igdbId": 17245,
     "gbId": 22135,
     "gbGuid": "3030-22135",
@@ -1041,7 +1068,7 @@
   },
   {
     "name": "Dead or Alive",
-    "id": "ssat41",
+    "id": "ssat42",
     "igdbId": 1387,
     "gbId": 3839,
     "gbGuid": "3030-3839",
@@ -1068,7 +1095,7 @@
   },
   {
     "name": "Death Crimson",
-    "id": "ssat42",
+    "id": "ssat43",
     "igdbId": 54917,
     "gbId": 60543,
     "gbGuid": "3030-60543",
@@ -1095,7 +1122,7 @@
   },
   {
     "name": "DecAthlete",
-    "id": "ssat43",
+    "id": "ssat44",
     "igdbId": 45387,
     "gbId": 14643,
     "gbGuid": "3030-14643",
@@ -1122,7 +1149,7 @@
   },
   {
     "name": "Deep Fear",
-    "id": "ssat44",
+    "id": "ssat45",
     "igdbId": 46057,
     "gbId": 16413,
     "gbGuid": "3030-16413",
@@ -1146,7 +1173,7 @@
   },
   {
     "name": "Die Hard Trilogy",
-    "id": "ssat45",
+    "id": "ssat46",
     "igdbId": 8234,
     "gbId": 19345,
     "gbGuid": "3030-19345",
@@ -1173,7 +1200,7 @@
   },
   {
     "name": "Digital Pinball: Last Gladiators",
-    "id": "ssat46",
+    "id": "ssat47",
     "igdbId": 19737,
     "gbId": 10645,
     "gbGuid": "3030-10645",
@@ -1203,7 +1230,7 @@
   },
   {
     "name": "DoDonPachi",
-    "id": "ssat47",
+    "id": "ssat48",
     "igdbId": 1666,
     "gbId": 21705,
     "gbGuid": "3030-21705",
@@ -1229,7 +1256,7 @@
   },
   {
     "name": "DonPachi",
-    "id": "ssat48",
+    "id": "ssat49",
     "igdbId": 1665,
     "gbId": 22550,
     "gbGuid": "3030-22550",
@@ -1255,7 +1282,7 @@
   },
   {
     "name": "Double Switch",
-    "id": "ssat49",
+    "id": "ssat50",
     "igdbId": 139169,
     "gbId": 12628,
     "gbGuid": "3030-12628",
@@ -1273,7 +1300,7 @@
   },
   {
     "name": "Dragon Ball Z: Shin Butouden (Japan)",
-    "id": "ssat50",
+    "id": "ssat51",
     "igdbId": 45464,
     "gbId": 21997,
     "gbGuid": "3030-21997",
@@ -1291,7 +1318,7 @@
   },
   {
     "name": "Duke Nukem 3D",
-    "id": "ssat51",
+    "id": "ssat52",
     "igdbId": 342,
     "gbId": 3407,
     "gbGuid": "3030-3407",
@@ -1318,7 +1345,7 @@
   },
   {
     "name": "Dungeon Master Nexus",
-    "id": "ssat52",
+    "id": "ssat53",
     "igdbId": 3801,
     "gbId": 61262,
     "gbGuid": "3030-61262",
@@ -1341,7 +1368,7 @@
   },
   {
     "name": "Dungeons & Dragons Collection",
-    "id": "ssat53",
+    "id": "ssat54",
     "igdbId": 22831,
     "gbId": 19755,
     "gbGuid": "3030-19755",
@@ -1365,7 +1392,7 @@
   },
   {
     "name": "Dungeons & Dragons: Shadow over Mystara",
-    "id": "ssat54",
+    "id": "ssat55",
     "igdbId": 10253,
     "gbId": null,
     "gbGuid": null,
@@ -1391,8 +1418,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Enemy Zero",
+    "id": "ssat56",
+    "igdbId": 13549,
+    "gbId": 13082,
+    "gbGuid": "3030-13082",
+    "details": [
+      "Sega Saturn game has widescreen mode (anamorphic ws; letterboxes even in 5:3)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn game has widescreen mode (anamorphic ws; letterboxes even in 5:3)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "F1 Challenge",
-    "id": "ssat55",
+    "id": "ssat57",
     "igdbId": 95383,
     "gbId": 39701,
     "gbGuid": "3030-39701",
@@ -1416,7 +1470,7 @@
   },
   {
     "name": "FIFA Soccer 96",
-    "id": "ssat56",
+    "id": "ssat58",
     "igdbId": 704,
     "gbId": 14524,
     "gbGuid": "3030-14524",
@@ -1443,7 +1497,7 @@
   },
   {
     "name": "Falcom Classics",
-    "id": "ssat57",
+    "id": "ssat59",
     "igdbId": 78765,
     "gbId": 6698,
     "gbGuid": "3030-6698",
@@ -1470,7 +1524,7 @@
   },
   {
     "name": "Fighter's History Dynamite",
-    "id": "ssat58",
+    "id": "ssat60",
     "igdbId": 172795,
     "gbId": 8045,
     "gbGuid": "3030-8045",
@@ -1497,7 +1551,7 @@
   },
   {
     "name": "Fighters Megamix",
-    "id": "ssat59",
+    "id": "ssat61",
     "igdbId": 1550,
     "gbId": 19043,
     "gbGuid": "3030-19043",
@@ -1524,7 +1578,7 @@
   },
   {
     "name": "Fighting Vipers",
-    "id": "ssat60",
+    "id": "ssat62",
     "igdbId": 291605,
     "gbId": 5662,
     "gbGuid": "3030-5662",
@@ -1551,7 +1605,7 @@
   },
   {
     "name": "Final Fight Revenge",
-    "id": "ssat61",
+    "id": "ssat63",
     "igdbId": 1659,
     "gbId": 18830,
     "gbGuid": "3030-18830",
@@ -1591,7 +1645,7 @@
   },
   {
     "name": "Fire Pro Wrestling",
-    "id": "ssat62",
+    "id": "ssat64",
     "igdbId": 6407,
     "gbId": 61714,
     "gbGuid": "3030-61714",
@@ -1618,7 +1672,7 @@
   },
   {
     "name": "Friends: Seishun no Kagayaki",
-    "id": "ssat63",
+    "id": "ssat65",
     "igdbId": 97574,
     "gbId": 67436,
     "gbGuid": "3030-67436",
@@ -1645,7 +1699,7 @@
   },
   {
     "name": "Galactic Attack",
-    "id": "ssat64",
+    "id": "ssat66",
     "igdbId": 81439,
     "gbId": 31190,
     "gbGuid": "3030-31190",
@@ -1671,7 +1725,7 @@
   },
   {
     "name": "Gekirindan",
-    "id": "ssat65",
+    "id": "ssat67",
     "igdbId": 39973,
     "gbId": 30198,
     "gbGuid": "3030-30198",
@@ -1697,7 +1751,7 @@
   },
   {
     "name": "Ghen War",
-    "id": "ssat66",
+    "id": "ssat68",
     "igdbId": 45526,
     "gbId": 23639,
     "gbGuid": "3030-23639",
@@ -1721,7 +1775,7 @@
   },
   {
     "name": "Goiken Muyou: Anarchy in the Nippon",
-    "id": "ssat67",
+    "id": "ssat69",
     "igdbId": 45528,
     "gbId": 44710,
     "gbGuid": "3030-44710",
@@ -1748,7 +1802,7 @@
   },
   {
     "name": "Gotha",
-    "id": "ssat68",
+    "id": "ssat70",
     "igdbId": 92102,
     "gbId": 33446,
     "gbGuid": "3030-33446",
@@ -1771,7 +1825,7 @@
   },
   {
     "name": "Grandia: Digital Museum",
-    "id": "ssat69",
+    "id": "ssat71",
     "igdbId": 21658,
     "gbId": 23434,
     "gbGuid": "3030-23434",
@@ -1793,8 +1847,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Great Golf",
+    "id": "ssat72",
+    "igdbId": 46143,
+    "gbId": 17867,
+    "gbGuid": "3030-17867",
+    "details": [
+      "Sega Saturn game has widescreen mode (anamorphic ws)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn game has widescreen mode (anamorphic ws)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Groove on Fight",
-    "id": "ssat70",
+    "id": "ssat73",
     "igdbId": 39420,
     "gbId": 17631,
     "gbGuid": "3030-17631",
@@ -1821,7 +1902,7 @@
   },
   {
     "name": "Guardian Heroes",
-    "id": "ssat71",
+    "id": "ssat74",
     "igdbId": 21838,
     "gbId": 5901,
     "gbGuid": "3030-5901",
@@ -1861,7 +1942,7 @@
   },
   {
     "name": "Gunbird",
-    "id": "ssat72",
+    "id": "ssat75",
     "igdbId": 39352,
     "gbId": 33339,
     "gbGuid": "3030-33339",
@@ -1887,7 +1968,7 @@
   },
   {
     "name": "Gundam Gaiden 3",
-    "id": "ssat73",
+    "id": "ssat76",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -1910,7 +1991,7 @@
   },
   {
     "name": "Gungriffon",
-    "id": "ssat74",
+    "id": "ssat77",
     "igdbId": 46054,
     "gbId": 7104,
     "gbGuid": "3030-7104",
@@ -1948,7 +2029,7 @@
   },
   {
     "name": "Hang-On GP",
-    "id": "ssat75",
+    "id": "ssat78",
     "igdbId": 46098,
     "gbId": 7503,
     "gbGuid": "3030-7503",
@@ -1972,7 +2053,7 @@
   },
   {
     "name": "Hansha de Spark!",
-    "id": "ssat76",
+    "id": "ssat79",
     "igdbId": 98122,
     "gbId": 66690,
     "gbGuid": "3030-66690",
@@ -1999,7 +2080,7 @@
   },
   {
     "name": "Hi-Octane",
-    "id": "ssat77",
+    "id": "ssat80",
     "igdbId": 12434,
     "gbId": 16730,
     "gbGuid": "3030-16730",
@@ -2017,13 +2098,14 @@
   },
   {
     "name": "High Velocity: Mountain Racing Challenge",
-    "id": "ssat78",
+    "id": "ssat81",
     "igdbId": 45519,
     "gbId": 34248,
     "gbGuid": "3030-34248",
     "tgdbId": 6278,
     "details": [
-      "Sega Saturn exclusive"
+      "Sega Saturn exclusive",
+      "Sega Saturn game has widescreen mode (zoomed and cropped)"
     ],
     "isExclusive": [
       {
@@ -2036,12 +2118,25 @@
       }
     ],
     "isLaunchTitle": false,
-    "special": [],
+    "special": [
+      {
+        "value": "Sega Saturn game has widescreen mode (zoomed and cropped)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
+      }
+    ],
     "misprintsErrors": []
   },
   {
     "name": "Highway 2000",
-    "id": "ssat79",
+    "id": "ssat82",
     "igdbId": 46097,
     "gbId": 52583,
     "gbGuid": "3030-52583",
@@ -2059,7 +2154,7 @@
   },
   {
     "name": "Hyper 3D Pinball",
-    "id": "ssat80",
+    "id": "ssat83",
     "igdbId": 45489,
     "gbId": 9104,
     "gbGuid": "3030-9104",
@@ -2086,7 +2181,7 @@
   },
   {
     "name": "In the Hunt",
-    "id": "ssat81",
+    "id": "ssat84",
     "igdbId": 10456,
     "gbId": 5178,
     "gbGuid": "3030-5178",
@@ -2104,7 +2199,7 @@
   },
   {
     "name": "Irem Arcade Classics",
-    "id": "ssat82",
+    "id": "ssat85",
     "igdbId": 92368,
     "gbId": 34884,
     "gbGuid": "3030-34884",
@@ -2130,7 +2225,7 @@
   },
   {
     "name": "Iron Storm",
-    "id": "ssat83",
+    "id": "ssat86",
     "igdbId": 8929,
     "gbId": 6756,
     "gbGuid": "3030-6756",
@@ -2154,7 +2249,7 @@
   },
   {
     "name": "J-League Go Go Goal!",
-    "id": "ssat84",
+    "id": "ssat87",
     "igdbId": null,
     "gbId": 81309,
     "gbGuid": "3030-81309",
@@ -2181,7 +2276,7 @@
   },
   {
     "name": "Jonah Lomu Rugby",
-    "id": "ssat85",
+    "id": "ssat88",
     "igdbId": 2401,
     "gbId": 4264,
     "gbGuid": "3030-4264",
@@ -2208,7 +2303,7 @@
   },
   {
     "name": "Keriotosse!",
-    "id": "ssat86",
+    "id": "ssat89",
     "igdbId": 58728,
     "gbId": 53224,
     "gbGuid": "3030-53224",
@@ -2235,7 +2330,7 @@
   },
   {
     "name": "Kingdom Grand Prix",
-    "id": "ssat87",
+    "id": "ssat90",
     "igdbId": 46807,
     "gbId": 49655,
     "gbGuid": "3030-49655",
@@ -2261,7 +2356,7 @@
   },
   {
     "name": "Last Bronx",
-    "id": "ssat88",
+    "id": "ssat91",
     "igdbId": 39451,
     "gbId": 18288,
     "gbGuid": "3030-18288",
@@ -2288,7 +2383,7 @@
   },
   {
     "name": "Linkle Liver Story",
-    "id": "ssat89",
+    "id": "ssat92",
     "igdbId": 94005,
     "gbId": 23457,
     "gbGuid": "3030-23457",
@@ -2312,7 +2407,7 @@
   },
   {
     "name": "Lunacy",
-    "id": "ssat90",
+    "id": "ssat93",
     "igdbId": 71493,
     "gbId": 3997,
     "gbGuid": "3030-3997",
@@ -2336,7 +2431,7 @@
   },
   {
     "name": "Lunar: Silver Star Story Complete",
-    "id": "ssat91",
+    "id": "ssat94",
     "igdbId": 13905,
     "gbId": 17767,
     "gbGuid": "3030-17767",
@@ -2363,7 +2458,7 @@
   },
   {
     "name": "Madden NFL 97",
-    "id": "ssat92",
+    "id": "ssat95",
     "igdbId": 4589,
     "gbId": 6279,
     "gbGuid": "3030-6279",
@@ -2396,7 +2491,7 @@
   },
   {
     "name": "Madden NFL 98",
-    "id": "ssat93",
+    "id": "ssat96",
     "igdbId": 4590,
     "gbId": 8679,
     "gbGuid": "3030-8679",
@@ -2423,7 +2518,7 @@
   },
   {
     "name": "Magic Knight Rayearth",
-    "id": "ssat94",
+    "id": "ssat97",
     "igdbId": 105043,
     "gbId": 19038,
     "gbGuid": "3030-19038",
@@ -2447,7 +2542,7 @@
   },
   {
     "name": "Majin Tensei",
-    "id": "ssat95",
+    "id": "ssat98",
     "igdbId": 38231,
     "gbId": 17102,
     "gbGuid": "3030-17102",
@@ -2471,7 +2566,7 @@
   },
   {
     "name": "Marvel Super Heroes",
-    "id": "ssat96",
+    "id": "ssat99",
     "igdbId": 27890,
     "gbId": 12903,
     "gbGuid": "3030-12903",
@@ -2498,7 +2593,7 @@
   },
   {
     "name": "Marvel Super Heroes vs. Street Fighter",
-    "id": "ssat97",
+    "id": "ssat100",
     "igdbId": 8245,
     "gbId": 9309,
     "gbGuid": "3030-9309",
@@ -2525,7 +2620,7 @@
   },
   {
     "name": "Mass Destruction",
-    "id": "ssat98",
+    "id": "ssat101",
     "igdbId": 2613,
     "gbId": 8957,
     "gbGuid": "3030-8957",
@@ -2552,7 +2647,7 @@
   },
   {
     "name": "Maximum Force",
-    "id": "ssat99",
+    "id": "ssat102",
     "igdbId": 36573,
     "gbId": 22180,
     "gbGuid": "3030-22180",
@@ -2579,7 +2674,7 @@
   },
   {
     "name": "Mechanical Violator Hakaider: Last Judgement",
-    "id": "ssat100",
+    "id": "ssat103",
     "igdbId": 66147,
     "gbId": 33667,
     "gbGuid": "3030-33667",
@@ -2606,7 +2701,7 @@
   },
   {
     "name": "Mega Man 8: Anniversary Collector's Edition",
-    "id": "ssat101",
+    "id": "ssat104",
     "igdbId": 45182,
     "gbId": 19393,
     "gbGuid": "3030-19393",
@@ -2624,7 +2719,7 @@
   },
   {
     "name": "Mega Man X3 (PAL)",
-    "id": "ssat102",
+    "id": "ssat105",
     "igdbId": 1743,
     "gbId": 16948,
     "gbGuid": "3030-16948",
@@ -2642,7 +2737,7 @@
   },
   {
     "name": "Metal Slug: Super Vehicle-001",
-    "id": "ssat103",
+    "id": "ssat106",
     "igdbId": 191477,
     "gbId": 6941,
     "gbGuid": "3030-6941",
@@ -2669,7 +2764,7 @@
   },
   {
     "name": "Midway Presents Arcade's Greatest Hits: The Atari Collection 1",
-    "id": "ssat104",
+    "id": "ssat107",
     "igdbId": 46045,
     "gbId": 2851,
     "gbGuid": "3030-2851",
@@ -2692,7 +2787,7 @@
   },
   {
     "name": "Mighty Hits",
-    "id": "ssat105",
+    "id": "ssat108",
     "igdbId": 45487,
     "gbId": 33678,
     "gbGuid": "3030-33678",
@@ -2719,7 +2814,7 @@
   },
   {
     "name": "Minnesota Fats: Pool Legend",
-    "id": "ssat106",
+    "id": "ssat109",
     "igdbId": 4465,
     "gbId": 32822,
     "gbGuid": "3030-32822",
@@ -2737,7 +2832,7 @@
   },
   {
     "name": "Moon Cradle",
-    "id": "ssat107",
+    "id": "ssat110",
     "igdbId": 108902,
     "gbId": 68488,
     "gbGuid": "3030-68488",
@@ -2764,7 +2859,7 @@
   },
   {
     "name": "Mortal Kombat Trilogy",
-    "id": "ssat108",
+    "id": "ssat111",
     "igdbId": 4121,
     "gbId": 8279,
     "gbGuid": "3030-8279",
@@ -2782,7 +2877,7 @@
   },
   {
     "name": "Mr. Bones",
-    "id": "ssat109",
+    "id": "ssat112",
     "igdbId": 25804,
     "gbId": 13186,
     "gbGuid": "3030-13186",
@@ -2806,7 +2901,7 @@
   },
   {
     "name": "Mystaria: The Realms of Lore",
-    "id": "ssat110",
+    "id": "ssat113",
     "igdbId": 45513,
     "gbId": 709,
     "gbGuid": "3030-709",
@@ -2830,7 +2925,7 @@
   },
   {
     "name": "NBA Action 98",
-    "id": "ssat111",
+    "id": "ssat114",
     "igdbId": 45486,
     "gbId": 16087,
     "gbGuid": "3030-16087",
@@ -2857,7 +2952,7 @@
   },
   {
     "name": "NBA Jam Extreme",
-    "id": "ssat112",
+    "id": "ssat115",
     "igdbId": 40205,
     "gbId": 2725,
     "gbGuid": "3030-2725",
@@ -2884,7 +2979,7 @@
   },
   {
     "name": "NBA Jam Tournament Edition",
-    "id": "ssat113",
+    "id": "ssat116",
     "igdbId": 19712,
     "gbId": 14792,
     "gbGuid": "3030-14792",
@@ -2911,7 +3006,7 @@
   },
   {
     "name": "NBA Live 97",
-    "id": "ssat114",
+    "id": "ssat117",
     "igdbId": 20134,
     "gbId": 1356,
     "gbGuid": "3030-1356",
@@ -2944,7 +3039,7 @@
   },
   {
     "name": "NBA Live 98",
-    "id": "ssat115",
+    "id": "ssat118",
     "igdbId": 26013,
     "gbId": 15170,
     "gbGuid": "3030-15170",
@@ -2971,7 +3066,7 @@
   },
   {
     "name": "NFL '97",
-    "id": "ssat116",
+    "id": "ssat119",
     "igdbId": 45485,
     "gbId": 53218,
     "gbGuid": "3030-53218",
@@ -3009,7 +3104,7 @@
   },
   {
     "name": "NFL '98",
-    "id": "ssat117",
+    "id": "ssat120",
     "igdbId": 126091,
     "gbId": null,
     "gbGuid": null,
@@ -3036,7 +3131,7 @@
   },
   {
     "name": "NFL Quarterback Club 96",
-    "id": "ssat118",
+    "id": "ssat121",
     "igdbId": 25080,
     "gbId": 11504,
     "gbGuid": "3030-11504",
@@ -3063,7 +3158,7 @@
   },
   {
     "name": "NFL Quarterback Club 97",
-    "id": "ssat119",
+    "id": "ssat122",
     "igdbId": 20258,
     "gbId": 9596,
     "gbGuid": "3030-9596",
@@ -3090,7 +3185,7 @@
   },
   {
     "name": "NHL 98",
-    "id": "ssat120",
+    "id": "ssat123",
     "igdbId": 818,
     "gbId": 18845,
     "gbGuid": "3030-18845",
@@ -3117,7 +3212,7 @@
   },
   {
     "name": "NHL All-Star Hockey",
-    "id": "ssat121",
+    "id": "ssat124",
     "igdbId": 19732,
     "gbId": 2488,
     "gbGuid": "3030-2488",
@@ -3144,7 +3239,7 @@
   },
   {
     "name": "NHL Powerplay '96",
-    "id": "ssat122",
+    "id": "ssat125",
     "igdbId": 45122,
     "gbId": 7575,
     "gbGuid": "3030-7575",
@@ -3171,7 +3266,7 @@
   },
   {
     "name": "NOel 3: Mission on the Line",
-    "id": "ssat123",
+    "id": "ssat126",
     "igdbId": 107624,
     "gbId": 69725,
     "gbGuid": "3030-69725",
@@ -3198,7 +3293,7 @@
   },
   {
     "name": "Namie Amuro: Digital Dance Mix Vol. 1",
-    "id": "ssat124",
+    "id": "ssat127",
     "igdbId": 96091,
     "gbId": 68625,
     "gbGuid": "3030-68625",
@@ -3225,7 +3320,7 @@
   },
   {
     "name": "Nanatsu Kaze No Shima Monogatari",
-    "id": "ssat125",
+    "id": "ssat128",
     "igdbId": 18493,
     "gbId": 21771,
     "gbGuid": "3030-21771",
@@ -3249,12 +3344,13 @@
   },
   {
     "name": "Nights Into Dreams...",
-    "id": "ssat126",
+    "id": "ssat129",
     "igdbId": 5075,
     "gbId": 9676,
     "gbGuid": "3030-9676",
     "details": [
-      "came with Sega Saturn 3D Controller"
+      "came with Sega Saturn 3D Controller",
+      "Sega Saturn game has widescreen mode (some extra side pixels and some cropping)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -3270,13 +3366,25 @@
           "tgdbId": 17
         },
         "category": "peripheral"
+      },
+      {
+        "value": "Sega Saturn game has widescreen mode (some extra side pixels and some cropping)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Norse by Norse West: The Return of the Lost Vikings",
-    "id": "ssat127",
+    "id": "ssat130",
     "igdbId": 2615,
     "gbId": 4134,
     "gbGuid": "3030-4134",
@@ -3294,7 +3402,7 @@
   },
   {
     "name": "Olympic Soccer (Japan)",
-    "id": "ssat128",
+    "id": "ssat131",
     "igdbId": 4292,
     "gbId": 22204,
     "gbGuid": "3030-22204",
@@ -3327,7 +3435,7 @@
   },
   {
     "name": "PGA Tour 97",
-    "id": "ssat129",
+    "id": "ssat132",
     "igdbId": 45484,
     "gbId": 22799,
     "gbGuid": "3030-22799",
@@ -3354,7 +3462,7 @@
   },
   {
     "name": "Panzer Dragoon",
-    "id": "ssat130",
+    "id": "ssat133",
     "igdbId": 1667,
     "gbId": 4489,
     "gbGuid": "3030-4489",
@@ -3377,8 +3485,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Panzer Dragoon II Zwei",
+    "id": "ssat134",
+    "igdbId": 1669,
+    "gbId": 9353,
+    "gbGuid": "3030-9353",
+    "details": [
+      "Sega Saturn game has widescreen mode (anamorphic ws)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn game has widescreen mode (anamorphic ws)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Panzer Dragoon Saga",
-    "id": "ssat131",
+    "id": "ssat135",
     "igdbId": 1671,
     "gbId": 3692,
     "gbGuid": "3030-3692",
@@ -3413,7 +3548,7 @@
   },
   {
     "name": "Pebble Beach Golf Links",
-    "id": "ssat132",
+    "id": "ssat136",
     "igdbId": 4273,
     "gbId": 3325,
     "gbGuid": "3030-3325",
@@ -3451,7 +3586,7 @@
   },
   {
     "name": "Pia Carrot he Youkoso!! 2",
-    "id": "ssat133",
+    "id": "ssat137",
     "igdbId": 194720,
     "gbId": 44251,
     "gbGuid": "3030-44251",
@@ -3478,7 +3613,7 @@
   },
   {
     "name": "Pocket Fighter",
-    "id": "ssat134",
+    "id": "ssat138",
     "igdbId": 23094,
     "gbId": 1329,
     "gbGuid": "3030-1329",
@@ -3505,7 +3640,7 @@
   },
   {
     "name": "Policenauts",
-    "id": "ssat135",
+    "id": "ssat139",
     "igdbId": 4290,
     "gbId": 15090,
     "gbGuid": "3030-15090",
@@ -3532,7 +3667,7 @@
   },
   {
     "name": "PowerSlave",
-    "id": "ssat136",
+    "id": "ssat140",
     "igdbId": 8338,
     "gbId": 9553,
     "gbGuid": "3030-9553",
@@ -3559,7 +3694,7 @@
   },
   {
     "name": "Princess Quest",
-    "id": "ssat137",
+    "id": "ssat141",
     "igdbId": 77600,
     "gbId": 62710,
     "gbGuid": "3030-62710",
@@ -3582,7 +3717,7 @@
   },
   {
     "name": "Pro Pinball: The Web",
-    "id": "ssat138",
+    "id": "ssat142",
     "igdbId": 18333,
     "gbId": 5661,
     "gbGuid": "3030-5661",
@@ -3614,8 +3749,35 @@
     ]
   },
   {
+    "name": "Pro Yakyuu Greatest Nine 97",
+    "id": "ssat143",
+    "igdbId": 231611,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Saturn game has widescreen mode (some more pixels and some stretching)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn game has widescreen mode (some more pixels and some stretching)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Radiant Silvergun",
-    "id": "ssat139",
+    "id": "ssat144",
     "igdbId": 5422,
     "gbId": 16952,
     "gbGuid": "3030-16952",
@@ -3642,7 +3804,7 @@
   },
   {
     "name": "Rayman",
-    "id": "ssat140",
+    "id": "ssat145",
     "igdbId": 1963,
     "gbId": 18473,
     "gbGuid": "3030-18473",
@@ -3660,7 +3822,7 @@
   },
   {
     "name": "Real Bout Fatal Fury",
-    "id": "ssat141",
+    "id": "ssat146",
     "igdbId": 39520,
     "gbId": 939,
     "gbGuid": "3030-939",
@@ -3687,7 +3849,7 @@
   },
   {
     "name": "Real Bout Fatal Fury Special",
-    "id": "ssat142",
+    "id": "ssat147",
     "igdbId": 39521,
     "gbId": 13463,
     "gbGuid": "3030-13463",
@@ -3714,7 +3876,7 @@
   },
   {
     "name": "Robo Pit",
-    "id": "ssat143",
+    "id": "ssat148",
     "igdbId": 20249,
     "gbId": 7883,
     "gbGuid": "3030-7883",
@@ -3732,7 +3894,7 @@
   },
   {
     "name": "Robotica",
-    "id": "ssat144",
+    "id": "ssat149",
     "igdbId": 19744,
     "gbId": 23289,
     "gbGuid": "3030-23289",
@@ -3762,7 +3924,7 @@
   },
   {
     "name": "Samurai Shodown III",
-    "id": "ssat145",
+    "id": "ssat150",
     "igdbId": 19987,
     "gbId": 12615,
     "gbGuid": "3030-12615",
@@ -3789,7 +3951,7 @@
   },
   {
     "name": "Samurai Shodown IV: Amakusa's Revenge",
-    "id": "ssat146",
+    "id": "ssat151",
     "igdbId": 19988,
     "gbId": 4363,
     "gbGuid": "3030-4363",
@@ -3816,7 +3978,7 @@
   },
   {
     "name": "Saturn Bomberman",
-    "id": "ssat147",
+    "id": "ssat152",
     "igdbId": 28393,
     "gbId": 17854,
     "gbGuid": "3030-17854",
@@ -3854,7 +4016,7 @@
   },
   {
     "name": "Saturn Bomberman Fight!!",
-    "id": "ssat148",
+    "id": "ssat153",
     "igdbId": 66221,
     "gbId": 33442,
     "gbGuid": "3030-33442",
@@ -3878,7 +4040,7 @@
   },
   {
     "name": "Savaki",
-    "id": "ssat149",
+    "id": "ssat154",
     "igdbId": 62617,
     "gbId": 44536,
     "gbGuid": "3030-44536",
@@ -3905,7 +4067,7 @@
   },
   {
     "name": "Scud: The Disposable Assassin",
-    "id": "ssat150",
+    "id": "ssat155",
     "igdbId": 45483,
     "gbId": 11835,
     "gbGuid": "3030-11835",
@@ -3943,7 +4105,7 @@
   },
   {
     "name": "Sega Ages Memorial Selection Vol. 1",
-    "id": "ssat151",
+    "id": "ssat156",
     "igdbId": 98648,
     "gbId": 65261,
     "gbGuid": "3030-65261",
@@ -3969,7 +4131,7 @@
   },
   {
     "name": "Sega Worldwide Soccer '97",
-    "id": "ssat152",
+    "id": "ssat157",
     "igdbId": 45498,
     "gbId": 18030,
     "gbGuid": "3030-18030",
@@ -3996,7 +4158,7 @@
   },
   {
     "name": "Sega Worldwide Soccer '98",
-    "id": "ssat153",
+    "id": "ssat158",
     "igdbId": 45468,
     "gbId": 4404,
     "gbGuid": "3030-4404",
@@ -4023,7 +4185,7 @@
   },
   {
     "name": "Sengoku Blade: Sengoku Ace Episode II (Japan)",
-    "id": "ssat154",
+    "id": "ssat159",
     "igdbId": 39341,
     "gbId": 30541,
     "gbGuid": "3030-30541",
@@ -4041,7 +4203,7 @@
   },
   {
     "name": "Sentimental Graffiti",
-    "id": "ssat155",
+    "id": "ssat160",
     "igdbId": 124264,
     "gbId": 74795,
     "gbGuid": "3030-74795",
@@ -4068,7 +4230,7 @@
   },
   {
     "name": "Shienryu",
-    "id": "ssat156",
+    "id": "ssat161",
     "igdbId": 92074,
     "gbId": 33198,
     "gbGuid": "3030-33198",
@@ -4094,7 +4256,7 @@
   },
   {
     "name": "Shining Force III",
-    "id": "ssat157",
+    "id": "ssat162",
     "igdbId": 28396,
     "gbId": 8306,
     "gbGuid": "3030-8306",
@@ -4118,7 +4280,7 @@
   },
   {
     "name": "Shining Wisdom",
-    "id": "ssat158",
+    "id": "ssat163",
     "igdbId": 46059,
     "gbId": 20150,
     "gbGuid": "3030-20150",
@@ -4148,7 +4310,7 @@
   },
   {
     "name": "Shining the Holy Ark",
-    "id": "ssat159",
+    "id": "ssat164",
     "igdbId": 46063,
     "gbId": 16913,
     "gbGuid": "3030-16913",
@@ -4172,7 +4334,7 @@
   },
   {
     "name": "Shinobi Legions",
-    "id": "ssat160",
+    "id": "ssat165",
     "igdbId": 10221,
     "gbId": 12895,
     "gbGuid": "3030-12895",
@@ -4202,7 +4364,7 @@
   },
   {
     "name": "Shinrei Jusatsushi Taromaru",
-    "id": "ssat161",
+    "id": "ssat166",
     "igdbId": 45456,
     "gbId": 16726,
     "gbGuid": "3030-16726",
@@ -4240,7 +4402,7 @@
   },
   {
     "name": "Skeleton Warriors",
-    "id": "ssat162",
+    "id": "ssat167",
     "igdbId": 8084,
     "gbId": 7168,
     "gbGuid": "3030-7168",
@@ -4267,7 +4429,7 @@
   },
   {
     "name": "Skull Fang",
-    "id": "ssat163",
+    "id": "ssat168",
     "igdbId": 62341,
     "gbId": 45092,
     "gbGuid": "3030-45092",
@@ -4293,7 +4455,7 @@
   },
   {
     "name": "Slam 'n Jam '96 Featuring Magic & Kareem",
-    "id": "ssat164",
+    "id": "ssat169",
     "igdbId": 44904,
     "gbId": 4337,
     "gbGuid": "3030-4337",
@@ -4320,7 +4482,7 @@
   },
   {
     "name": "Sonic Wings Special",
-    "id": "ssat165",
+    "id": "ssat170",
     "igdbId": 44837,
     "gbId": 34801,
     "gbGuid": "3030-34801",
@@ -4346,7 +4508,7 @@
   },
   {
     "name": "Space Hulk: Vengeance of the Blood Angels",
-    "id": "ssat166",
+    "id": "ssat171",
     "igdbId": 4330,
     "gbId": 1518,
     "gbGuid": "3030-1518",
@@ -4364,7 +4526,7 @@
   },
   {
     "name": "Space Jam",
-    "id": "ssat167",
+    "id": "ssat172",
     "igdbId": 46096,
     "gbId": 18341,
     "gbGuid": "3030-18341",
@@ -4390,8 +4552,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Stellar Assault SS",
+    "id": "ssat173",
+    "igdbId": 112045,
+    "gbId": 70138,
+    "gbGuid": "3030-70138",
+    "details": [
+      "Sega Saturn game has widescreen mode (anamorphic ws: letterboxes in 4:3)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn game has widescreen mode (anamorphic ws: letterboxes in 4:3)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Street Fighter Alpha 3",
-    "id": "ssat168",
+    "id": "ssat174",
     "igdbId": 6704,
     "gbId": 1328,
     "gbGuid": "3030-1328",
@@ -4418,7 +4607,7 @@
   },
   {
     "name": "Street Racer",
-    "id": "ssat169",
+    "id": "ssat175",
     "igdbId": 19770,
     "gbId": 22190,
     "gbGuid": "3030-22190",
@@ -4445,7 +4634,7 @@
   },
   {
     "name": "Striker '96",
-    "id": "ssat170",
+    "id": "ssat176",
     "igdbId": 22675,
     "gbId": 6753,
     "gbGuid": "3030-6753",
@@ -4485,7 +4674,7 @@
   },
   {
     "name": "Strikers 1945",
-    "id": "ssat171",
+    "id": "ssat177",
     "igdbId": 39300,
     "gbId": 18395,
     "gbGuid": "3030-18395",
@@ -4511,7 +4700,7 @@
   },
   {
     "name": "Strikers 1945 II",
-    "id": "ssat172",
+    "id": "ssat178",
     "igdbId": 39299,
     "gbId": 22358,
     "gbGuid": "3030-22358",
@@ -4537,7 +4726,7 @@
   },
   {
     "name": "Super Puzzle Fighter II Turbo",
-    "id": "ssat173",
+    "id": "ssat179",
     "igdbId": 20803,
     "gbId": 2755,
     "gbGuid": "3030-2755",
@@ -4555,7 +4744,7 @@
   },
   {
     "name": "Super Real Mahjong P7",
-    "id": "ssat174",
+    "id": "ssat180",
     "igdbId": 119320,
     "gbId": 73758,
     "gbGuid": "3030-73758",
@@ -4582,7 +4771,7 @@
   },
   {
     "name": "Super Tempo",
-    "id": "ssat175",
+    "id": "ssat181",
     "igdbId": 46050,
     "gbId": 29099,
     "gbGuid": "3030-29099",
@@ -4606,7 +4795,7 @@
   },
   {
     "name": "Tempest 2000",
-    "id": "ssat176",
+    "id": "ssat182",
     "igdbId": 9791,
     "gbId": 8496,
     "gbGuid": "3030-8496",
@@ -4639,7 +4828,7 @@
   },
   {
     "name": "Tetris Plus",
-    "id": "ssat177",
+    "id": "ssat183",
     "igdbId": 20712,
     "gbId": 17808,
     "gbGuid": "3030-17808",
@@ -4657,7 +4846,7 @@
   },
   {
     "name": "The Game Paradise: Master of Shooting",
-    "id": "ssat178",
+    "id": "ssat184",
     "igdbId": 40328,
     "gbId": null,
     "gbGuid": null,
@@ -4683,7 +4872,7 @@
   },
   {
     "name": "The House of the Dead",
-    "id": "ssat179",
+    "id": "ssat185",
     "igdbId": 2469,
     "gbId": 508,
     "gbGuid": "3030-508",
@@ -4710,7 +4899,7 @@
   },
   {
     "name": "The King of Fighters '95",
-    "id": "ssat180",
+    "id": "ssat186",
     "igdbId": 15427,
     "gbId": 18568,
     "gbGuid": "3030-18568",
@@ -4737,7 +4926,7 @@
   },
   {
     "name": "The King of Fighters '96",
-    "id": "ssat181",
+    "id": "ssat187",
     "igdbId": 12588,
     "gbId": 8146,
     "gbGuid": "3030-8146",
@@ -4764,7 +4953,7 @@
   },
   {
     "name": "The King of Fighters '97",
-    "id": "ssat182",
+    "id": "ssat188",
     "igdbId": 15428,
     "gbId": 4124,
     "gbGuid": "3030-4124",
@@ -4791,7 +4980,7 @@
   },
   {
     "name": "The Legend of Oasis",
-    "id": "ssat183",
+    "id": "ssat189",
     "igdbId": 22504,
     "gbId": 22635,
     "gbGuid": "3030-22635",
@@ -4815,7 +5004,7 @@
   },
   {
     "name": "Theme Park",
-    "id": "ssat184",
+    "id": "ssat190",
     "igdbId": 283,
     "gbId": 6562,
     "gbGuid": "3030-6562",
@@ -4833,7 +5022,7 @@
   },
   {
     "name": "Three Dirty Dwarves",
-    "id": "ssat185",
+    "id": "ssat191",
     "igdbId": 45480,
     "gbId": 5201,
     "gbGuid": "3030-5201",
@@ -4859,8 +5048,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Touge King: The Spirits 2",
+    "id": "ssat192",
+    "igdbId": 66100,
+    "gbId": 34249,
+    "gbGuid": "3030-34249",
+    "details": [
+      "Sega Saturn game has widescreen mode (anamorphic ws)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn game has widescreen mode (anamorphic ws)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "True Pinball",
-    "id": "ssat186",
+    "id": "ssat193",
     "igdbId": 9131,
     "gbId": 16591,
     "gbGuid": "3030-16591",
@@ -4887,7 +5103,7 @@
   },
   {
     "name": "Twin Cobra II",
-    "id": "ssat187",
+    "id": "ssat194",
     "igdbId": 39297,
     "gbId": 73509,
     "gbGuid": "3030-73509",
@@ -4913,7 +5129,7 @@
   },
   {
     "name": "Ultimate Mortal Kombat 3",
-    "id": "ssat188",
+    "id": "ssat195",
     "igdbId": 1621,
     "gbId": 2178,
     "gbGuid": "3030-2178",
@@ -4931,7 +5147,7 @@
   },
   {
     "name": "UltraMan: Hikari no Kyojin Densetsu",
-    "id": "ssat189",
+    "id": "ssat196",
     "igdbId": 62370,
     "gbId": 45051,
     "gbGuid": "3030-45051",
@@ -4958,7 +5174,7 @@
   },
   {
     "name": "Valora Valley Golf",
-    "id": "ssat190",
+    "id": "ssat197",
     "igdbId": 45467,
     "gbId": null,
     "gbGuid": null,
@@ -4985,7 +5201,7 @@
   },
   {
     "name": "Vampire Savior: The Lord of Vampire",
-    "id": "ssat191",
+    "id": "ssat198",
     "igdbId": 206672,
     "gbId": null,
     "gbGuid": null,
@@ -5012,7 +5228,7 @@
   },
   {
     "name": "Vatlva",
-    "id": "ssat192",
+    "id": "ssat199",
     "igdbId": 22503,
     "gbId": 40024,
     "gbGuid": "3030-40024",
@@ -5039,7 +5255,7 @@
   },
   {
     "name": "Virtua Cop",
-    "id": "ssat193",
+    "id": "ssat200",
     "igdbId": 6289,
     "gbId": 10543,
     "gbGuid": "3030-10543",
@@ -5066,7 +5282,7 @@
   },
   {
     "name": "Virtua Cop 2",
-    "id": "ssat194",
+    "id": "ssat201",
     "igdbId": 2470,
     "gbId": 9341,
     "gbGuid": "3030-9341",
@@ -5093,7 +5309,7 @@
   },
   {
     "name": "Virtua Fighter",
-    "id": "ssat195",
+    "id": "ssat202",
     "igdbId": 19734,
     "gbId": 15584,
     "gbGuid": "3030-15584",
@@ -5117,7 +5333,7 @@
   },
   {
     "name": "Virtua Fighter 2",
-    "id": "ssat196",
+    "id": "ssat203",
     "igdbId": 1547,
     "gbId": 41,
     "gbGuid": "3030-41",
@@ -5144,7 +5360,7 @@
   },
   {
     "name": "Virtua Fighter Kids",
-    "id": "ssat197",
+    "id": "ssat204",
     "igdbId": 1549,
     "gbId": 1167,
     "gbGuid": "3030-1167",
@@ -5171,7 +5387,7 @@
   },
   {
     "name": "Virtual Casino",
-    "id": "ssat198",
+    "id": "ssat205",
     "igdbId": 45517,
     "gbId": 32727,
     "gbGuid": "3030-32727",
@@ -5189,7 +5405,7 @@
   },
   {
     "name": "Virtual Hydlide",
-    "id": "ssat199",
+    "id": "ssat206",
     "igdbId": 19738,
     "gbId": 4083,
     "gbGuid": "3030-4083",
@@ -5219,7 +5435,7 @@
   },
   {
     "name": "Virtual Open Tennis",
-    "id": "ssat200",
+    "id": "ssat207",
     "igdbId": 45477,
     "gbId": 16599,
     "gbGuid": "3030-16599",
@@ -5257,7 +5473,7 @@
   },
   {
     "name": "Virtual Volleyball",
-    "id": "ssat201",
+    "id": "ssat208",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5280,7 +5496,7 @@
   },
   {
     "name": "Virus",
-    "id": "ssat202",
+    "id": "ssat209",
     "igdbId": 102439,
     "gbId": 5933,
     "gbGuid": "3030-5933",
@@ -5304,7 +5520,7 @@
   },
   {
     "name": "WWF In Your House",
-    "id": "ssat203",
+    "id": "ssat210",
     "igdbId": 23238,
     "gbId": 7485,
     "gbGuid": "3030-7485",
@@ -5331,7 +5547,7 @@
   },
   {
     "name": "Wachenröder",
-    "id": "ssat204",
+    "id": "ssat211",
     "igdbId": 93007,
     "gbId": 14295,
     "gbGuid": "3030-14295",
@@ -5354,8 +5570,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Wailae no Kiseki",
+    "id": "ssat212",
+    "igdbId": null,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Sega Saturn game has widescreen mode (anamorphic ws)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Sega Saturn game has widescreen mode (anamorphic ws)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Waku Waku 7",
-    "id": "ssat205",
+    "id": "ssat213",
     "igdbId": 27593,
     "gbId": 379,
     "gbGuid": "3030-379",
@@ -5382,7 +5625,7 @@
   },
   {
     "name": "Wangan Dead Heat + Real Arrange",
-    "id": "ssat206",
+    "id": "ssat214",
     "igdbId": 213942,
     "gbId": null,
     "gbGuid": null,
@@ -5409,7 +5652,7 @@
   },
   {
     "name": "Wing Arms",
-    "id": "ssat207",
+    "id": "ssat215",
     "igdbId": 19720,
     "gbId": 4075,
     "gbGuid": "3030-4075",
@@ -5433,7 +5676,7 @@
   },
   {
     "name": "Winter Heat",
-    "id": "ssat208",
+    "id": "ssat216",
     "igdbId": 45476,
     "gbId": 13059,
     "gbGuid": "3030-13059",
@@ -5460,7 +5703,7 @@
   },
   {
     "name": "World Cup Golf: Professional Edition",
-    "id": "ssat209",
+    "id": "ssat217",
     "igdbId": 4340,
     "gbId": 58014,
     "gbGuid": "3030-58014",
@@ -5478,7 +5721,7 @@
   },
   {
     "name": "World Series Baseball II",
-    "id": "ssat210",
+    "id": "ssat218",
     "igdbId": 45511,
     "gbId": 33005,
     "gbGuid": "3030-33005",
@@ -5502,7 +5745,7 @@
   },
   {
     "name": "World Wide Soccer ’98",
-    "id": "ssat211",
+    "id": "ssat219",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -5529,7 +5772,7 @@
   },
   {
     "name": "Worldwide Soccer: Sega International Victory Goal Edition",
-    "id": "ssat212",
+    "id": "ssat220",
     "igdbId": 19755,
     "gbId": 19794,
     "gbGuid": "3030-19794",
@@ -5590,7 +5833,7 @@
   },
   {
     "name": "Worms",
-    "id": "ssat213",
+    "id": "ssat221",
     "igdbId": 9331,
     "gbId": 2007,
     "gbGuid": "3030-2007",
@@ -5608,7 +5851,7 @@
   },
   {
     "name": "X-Men vs. Street Fighter",
-    "id": "ssat214",
+    "id": "ssat222",
     "igdbId": 8244,
     "gbId": 11156,
     "gbGuid": "3030-11156",
@@ -5635,12 +5878,13 @@
   },
   {
     "name": "Zen-Nippon Pro Wrestling Featuring Virtua",
-    "id": "ssat215",
+    "id": "ssat223",
     "igdbId": 46089,
     "gbId": 59626,
     "gbGuid": "3030-59626",
     "details": [
-      "Sega Saturn game runs at 60 FPS"
+      "Sega Saturn game runs at 60 FPS",
+      "Sega Saturn game has widescreen mode (cropped foreground and stretched background)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -5656,13 +5900,25 @@
           "tgdbId": 17
         },
         "category": "other"
+      },
+      {
+        "value": "Sega Saturn game has widescreen mode (cropped foreground and stretched background)",
+        "forPlatform": {
+          "name": "Sega Saturn",
+          "id": "ccl17",
+          "igdbId": 32,
+          "gbId": 42,
+          "gbGuid": "3045-42",
+          "tgdbId": 17
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Zero Divide: The Final Conflict",
-    "id": "ssat216",
+    "id": "ssat224",
     "igdbId": 45399,
     "gbId": 38988,
     "gbGuid": "3030-38988",

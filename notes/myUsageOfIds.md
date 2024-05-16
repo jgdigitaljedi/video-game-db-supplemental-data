@@ -191,6 +191,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - ssrcX - Sega Saturn RAM and ROM cart games (segaSaturnRamCartGames.json) | GAMES LIST
 - sstmX - Sega Saturn games with tate mode support (segaSaturnTateModeGames.json) | GAMES LIST
 - ssvcX - Sega Saturn VCD card games (segaSaturnVcdCardGames.json) | GAMES LIST
+- sswsX - Sega Saturn games with widescreen mode (saturnGamesWithWidescreen.json) | GAMES LIST
 - wiitmX - Wii games with tate mode support (nintendoWiiTateModeGames.json) | GAMES LIST
 - wiiutmX - Wii U games with tate mode support (nintendoWiiUTateModeGames.json) | GAMES LIST
 - wscsbX - Bandai Wonderswan Color games with save battery (wonderswanColorGamesWithSaveBattery.json) | GAMES LIST

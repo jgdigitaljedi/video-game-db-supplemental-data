@@ -207,7 +207,10 @@
     ]
   },
   {
-    "regionLock": ["ps3RegionLockExceptions", "regionLockExceptions"]
+    "regionLock": [
+      "ps3RegionLockExceptions",
+      "regionLockExceptions"
+    ]
   },
   {
     "special": [
@@ -272,6 +275,7 @@
       "psVitaGamesIncompatibleWithPsTv",
       "rcaStudio2BuiltInGames",
       "saturnGamesThatRunAt60Fps",
+      "saturnGamesWithWidescreen",
       "sega32x6ButtonGames",
       "sega32x6ButtonHidden",
       "sega32x6ButtonMode",
@@ -317,10 +321,17 @@
     ]
   },
   {
-    "XboxBc": ["Xbox360ToXboxOne", "XboxToXbox360", "XboxToXboxOne"]
+    "XboxBc": [
+      "Xbox360ToXboxOne",
+      "XboxToXbox360",
+      "XboxToXboxOne"
+    ]
   },
   {
-    "peripheral": ["n64GamesThatCameWithPeripherals", "segaSaturnGamesThatCameWithPeripherals"]
+    "peripheral": [
+      "n64GamesThatCameWithPeripherals",
+      "segaSaturnGamesThatCameWithPeripherals"
+    ]
   },
   {
     "misprintsAndErrors/accessories": [
@@ -378,7 +389,9 @@
     ]
   },
   {
-    "misprintsAndErrors/platforms": ["platformErrors"]
+    "misprintsAndErrors/platforms": [
+      "platformErrors"
+    ]
   },
   {
     "allFiles": [
@@ -601,6 +614,8 @@
       "rcaStudio2LaunchTitles",
       "regionFreePlatforms",
       "regionLockExceptions",
+      "saturnGamesThatRunAt60Fps",
+      "saturnGamesWithWidescreen",
       "saturnMisprintsAndErrors",
       "saturnMultiplayerAdapter",
       "sega32x6ButtonGames",

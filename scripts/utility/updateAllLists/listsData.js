@@ -358,7 +358,8 @@ module.exports.listData = [
       require(path.resolve(smallFiles, 'special/segaSaturnVcdCardGames.json')),
       require(path.resolve(smallFiles, 'peripheral/segaSaturnGamesThatCameWithPeripherals.json')),
       require(path.resolve(smallFiles, 'special/segaSaturnTateModeGames.json')),
-      require(path.resolve(smallFiles, 'special/saturnGamesThatRunAt60Fps.json'))
+      require(path.resolve(smallFiles, 'special/saturnGamesThatRunAt60Fps.json')),
+      require(path.resolve(smallFiles, 'special/saturnGamesWithWidescreen.json'))
     ],
     output: path.resolve(consoleLists, 'SegaSaturn.json')
   },

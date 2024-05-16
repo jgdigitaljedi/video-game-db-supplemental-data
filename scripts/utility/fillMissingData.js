@@ -3,10 +3,10 @@ const fileUtil = require('./fileUtilities');
 const { categories } = require('./helpers');
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/special/saturnGamesThatRunAt60Fps.json';
-const detailsFix = "Sega Saturn game runs at 60 FPS";
+const relativePath = '../../textFilesToBeConverted/special/saturnGamesWithWidescreen.json';
+const detailsFix = "Sega Saturn game has widescreen mode";
 const category = categories.other;
-const idPrefix = 'ssfps';
+const idPrefix = 'ssws';
 /** end file variables section */
 
 (async function() {
