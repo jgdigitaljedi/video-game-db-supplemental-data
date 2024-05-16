@@ -3,10 +3,10 @@ const fileUtil = require('./fileUtilities');
 const { categories } = require('./helpers');
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/special/n64GamesWithWidescreen.json';
-const detailsFix = "Nintendo 64 game has widescreen mode";
+const relativePath = '../../textFilesToBeConverted/special/dreamcastGamesWithWidescreen.json';
+const detailsFix = "Sega Dreamcast game has widescreen mode";
 const category = categories.other;
-const idPrefix = 'n64ws';
+const idPrefix = 'dcws';
 /** end file variables section */
 
 (async function() {

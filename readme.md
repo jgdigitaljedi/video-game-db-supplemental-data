@@ -348,6 +348,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Sega Dreamcast games that lack native VGA support
 - Sega Dreamcast games with tate mode
 - Sega Dreamcast games with VMU features
+- Sega Dreamcast games with widescreen mode
 - Sega Game Gear games with save battery
 - Sega Genesis Black Box Grid games
 - Sega Genesis games with save battery
@@ -498,8 +499,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan. I think some of this is lost in translation.
 
 There are 918 data points for platforms/consoles.
- Out of 19765 games data points collected so far, the APIs are missing data the following number of games:
+ Out of 19780 games data points collected so far, the APIs are missing data the following number of games:
 
 - Missing from all APIs: 1534 (8%)
 - IGDB: 1717 (9%)
-- Giantbomb: 2835 (14%)
+- Giantbomb: 2836 (14%)
