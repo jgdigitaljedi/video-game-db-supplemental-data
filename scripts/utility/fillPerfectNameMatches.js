@@ -5,7 +5,7 @@ const basePath = '../../textFilesToBeConverted';
 const finalPath = '../../finalOutput/consoleLists';
 
 /** change out variables in this section each time this is run */
-const newFile = require(path.join(basePath, 'special/playstationGamesWithWidescreen.json'));
+const newFile = require(path.join(basePath, 'special/playstationGamesThatRunAt60fps.json'));
 const masterFile = require(path.join(finalPath, 'SonyPlaystation.json'));
 /** end variables */
 
@@ -41,5 +41,5 @@ const masterFile = require(path.join(finalPath, 'SonyPlaystation.json'));
 
   // just checking to make sure filled matches the same length
   console.log(`filled results legnth: ${filled.length} / newFile length: ${newFile.length}`);
-  fileUtil.writeFile(path.join(basePath, 'special/masterSystemGamesWithFmAudio2.json'), filled);
+  fileUtil.writeFile(path.join(basePath, 'special/playstationGamesThatRunAt60fps2.json'), filled);
 })();

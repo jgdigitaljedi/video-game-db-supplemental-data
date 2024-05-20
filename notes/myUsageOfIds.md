@@ -150,6 +150,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - pcsgX - PC Engine games enhanced on Supergrafx (pcEngineGamesEnhancedOnSupergrafx.json) | GAMES LIST
 - pbdX - consoles that play bruned discs without modification (platformsThatPlayBurnedDiscs.json) | CONSOLE/PLATFORM LIST
 - ps1lbX - Sony PlayStation long box games (playstationLongboxGames.json) | GAMES LIST
+- ps1lbX - Sony PlayStation games that run at 60 FPS (playstationGamesThatRunAt60fps.json) | GAMES LIST
 - pstviX - Sony PlayStation Portable games that are incompatible with PSTV (pspGamesIncompatibleWithPsTv.json) | GAMES LIST
 - psvtviX - Sony PlayStation Vita games that are incompatible with PSTV (psVitaGamesIncompatibleWithPsTv.json) | GAMES LIST
 - pswsX - Sony PlayStation games with widescreen mode (playstationGamesWithWidescreen.json) | GAMES LIST

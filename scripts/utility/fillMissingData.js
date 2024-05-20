@@ -3,10 +3,10 @@ const fileUtil = require('./fileUtilities');
 const { categories } = require('./helpers');
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/special/dreamcastGamesWithWidescreen.json';
-const detailsFix = "Sega Dreamcast game has widescreen mode";
+const relativePath = '../../textFilesToBeConverted/special/playstationGamesThatRunAt60fps.json';
+const detailsFix = "Sony PlayStation game runs at 60 FPS";
 const category = categories.other;
-const idPrefix = 'dcws';
+const idPrefix = 'psfps';
 /** end file variables section */
 
 (async function() {
