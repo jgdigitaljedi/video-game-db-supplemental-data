@@ -8,7 +8,7 @@ Also, since the app isn't the focus here (the JSON files are the focus), there w
 
 ### NOTICE
 
-NOTE: As of 11/7/2019, I have decided to abondon The Games DB. I've had too many problems with their API keys and that API was also getting the last amount of results so, at this point, it doesn't make sense to keep wrestling with it and just move on. I am freezing it in the UI, will eventually remove it from stats, etc. I'll leave the data I've collected for The Games DB API in there for now.
+NOTE: As of 11/7/2019, I have decided to abandon The Games DB. I've had too many problems with their API keys and that API was also getting the last amount of results so, at this point, it doesn't make sense to keep wrestling with it and just move on. I am freezing it in the UI, will eventually remove it from stats, etc. I'll leave the data I've collected for The Games DB API in there for now.
 
 Additionally, feel free to use any of this data or even fork this project for personal usage. I added a license in an effort to help prevent the proprietary usage of any data I have spent a countless number of hours collecting, here. DO NOT USE MY DATA IN A PROPRIETARY PROJECT! The license dictates that any commercial usage must have proper attribution and must be open source as well. I have plans in the distant future to use this data to build an API that will have free tiers for devs using it for smaller projects and paid tiers for more monthly calls to the API and I will not take kindly to someone misusing my data! That said, if you are wanting an easier way to consume this data, I plan on building on launching this API sometime in 2023 and the free tier will have a generous amount of monthly API calls to allow collectors and hobbyists to use the data for free.
 
@@ -313,6 +313,7 @@ I've been scouring the web for unique data points and will continue to do so. He
 - Atari 7800 PAL games that have issues when run on NTSC console
 - Atari Lynx games with tate mode
 - Famicom games with save batteries
+- Famicom games with expansion audio
 - games banned in various countries with the reason for the ban
 - Game Boy Advance cartridges with built in devices
 - Game Boy Advance cartridges with save battery
@@ -500,8 +501,8 @@ Before deciding to end support for TheGames DB, I had collected 7812 data points
 Also, note that a majority of the games missing data are Japanese. There seems to be more Japanese games missing from the APIs and the names are sometimes difficult to search as Giantbomb doesn't do well with special characters and I often find conflicting info about game titles from Japan. I think some of this is lost in translation.
 
 There are 918 data points for platforms/consoles.
- Out of 19872 games data points collected so far, the APIs are missing data the following number of games:
+ Out of 19899 games data points collected so far, the APIs are missing data the following number of games:
 
 - Missing from all APIs: 1537 (8%)
 - IGDB: 1721 (9%)
-- Giantbomb: 2845 (14%)
+- Giantbomb: 2848 (14%)

@@ -880,7 +880,10 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/famicomMisprintsAndErrors.json'
     )),
-    special: [require(path.resolve(smallFiles, 'special/famicomGamesWithSaveBattery.json'))],
+    special: [
+      require(path.resolve(smallFiles, 'special/famicomGamesWithSaveBattery.json')),
+      require(path.resolve(smallFiles, 'special/famicomGamesWithExpansionAudio.json'))
+    ],
     output: path.resolve(consoleLists, 'NintendoFamicom.json')
   },
   {

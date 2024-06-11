@@ -120,6 +120,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - dsijpX - Nintendo DS games with enhanced features on DSi (Japan) (nintendoDsGameDsiEnhancedJapan.json) | GAMES LIST
 - dsrpX - Nintendo DS Rumble Pak games (nintendoDsRumblePakGames.json) | GAMES LIST
 - famsbX - Famicom games with save battery (famicomGamesWithSaveBattery.json) | GAMES LIST
+- fceaX - Famicom games with expansion audio (famicomGamesWithExpansionAudio.json) | GAMES LIST
 - gbbgX - Genesis black box grid games (blackBoxGridGenesisGames.json) | GAMES LIST
 - gbabiX - Nintendo Game Boy Advance cartridges with built in devices (gbaCartsWithBuiltInDevices.json) | GAMES LIST
 - gbatmX - GBA games with tate mode support (nintendoGbaTateModeGames.json) | GAMES LIST

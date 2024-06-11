@@ -233,8 +233,34 @@
     "misprintsErrors": []
   },
   {
-    "name": "America Daitouryou Senkyo: United State Presidental Race",
+    "name": "Akumajou Densetsu",
     "id": "nfam10",
+    "igdbId": 151162,
+    "gbId": 19328,
+    "gbGuid": "3030-19328",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Konami VRC6 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Konami VRC6 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "America Daitouryou Senkyo: United State Presidental Race",
+    "id": "nfam11",
     "igdbId": 48604,
     "gbId": 8710,
     "gbGuid": "3030-8710",
@@ -256,7 +282,7 @@
   },
   {
     "name": "America Oudan Ultra Quiz: Shijou Saidai no Tatakai",
-    "id": "nfam11",
+    "id": "nfam12",
     "igdbId": 48603,
     "gbId": 12810,
     "gbGuid": "3030-12810",
@@ -278,7 +304,7 @@
   },
   {
     "name": "American Dream",
-    "id": "nfam12",
+    "id": "nfam13",
     "igdbId": 48634,
     "gbId": 15200,
     "gbGuid": "3030-15200",
@@ -300,7 +326,7 @@
   },
   {
     "name": "Arctic",
-    "id": "nfam13",
+    "id": "nfam14",
     "igdbId": 56479,
     "gbId": 58546,
     "gbGuid": "3030-58546",
@@ -322,7 +348,7 @@
   },
   {
     "name": "Argus",
-    "id": "nfam14",
+    "id": "nfam15",
     "igdbId": 46762,
     "gbId": 9449,
     "gbGuid": "3030-9449",
@@ -344,7 +370,7 @@
   },
   {
     "name": "Arkanoid: Revenge of Doh",
-    "id": "nfam15",
+    "id": "nfam16",
     "igdbId": 11756,
     "gbId": 14886,
     "gbGuid": "3030-14886",
@@ -366,7 +392,7 @@
   },
   {
     "name": "Armadillo",
-    "id": "nfam16",
+    "id": "nfam17",
     "igdbId": 95514,
     "gbId": 1911,
     "gbGuid": "3030-1911",
@@ -388,7 +414,7 @@
   },
   {
     "name": "Artelius",
-    "id": "nfam17",
+    "id": "nfam18",
     "igdbId": 68893,
     "gbId": 13383,
     "gbGuid": "3030-13383",
@@ -410,7 +436,7 @@
   },
   {
     "name": "Asmik-kun Land",
-    "id": "nfam18",
+    "id": "nfam19",
     "igdbId": 48616,
     "gbId": 11161,
     "gbGuid": "3030-11161",
@@ -432,7 +458,7 @@
   },
   {
     "name": "Astro Fang: Super Machine",
-    "id": "nfam19",
+    "id": "nfam20",
     "igdbId": 48608,
     "gbId": 20108,
     "gbGuid": "3030-20108",
@@ -454,7 +480,7 @@
   },
   {
     "name": "Atlantis no Nazo",
-    "id": "nfam20",
+    "id": "nfam21",
     "igdbId": 6568,
     "gbId": 14577,
     "gbGuid": "3030-14577",
@@ -476,7 +502,7 @@
   },
   {
     "name": "Attack Animal Gakuen",
-    "id": "nfam21",
+    "id": "nfam22",
     "igdbId": 48601,
     "gbId": 2109,
     "gbGuid": "3030-2109",
@@ -498,7 +524,7 @@
   },
   {
     "name": "Babel no Tou",
-    "id": "nfam22",
+    "id": "nfam23",
     "igdbId": 48589,
     "gbId": 41533,
     "gbGuid": "3030-41533",
@@ -520,7 +546,7 @@
   },
   {
     "name": "Baken Hisshou Gaku: Gate In",
-    "id": "nfam23",
+    "id": "nfam24",
     "igdbId": 48730,
     "gbId": null,
     "gbGuid": null,
@@ -542,7 +568,7 @@
   },
   {
     "name": "Bakushou! Star Monomane Shitenou",
-    "id": "nfam24",
+    "id": "nfam25",
     "igdbId": 48729,
     "gbId": 2207,
     "gbGuid": "3030-2207",
@@ -564,7 +590,7 @@
   },
   {
     "name": "Bakushou!! Ai no Gekijou",
-    "id": "nfam25",
+    "id": "nfam26",
     "igdbId": 48728,
     "gbId": 15687,
     "gbGuid": "3030-15687",
@@ -586,7 +612,7 @@
   },
   {
     "name": "Bakushou!! Jinsei Gekijou",
-    "id": "nfam26",
+    "id": "nfam27",
     "igdbId": 48362,
     "gbId": 6640,
     "gbGuid": "3030-6640",
@@ -608,7 +634,7 @@
   },
   {
     "name": "Bakushou!! Jinsei Gekijou 2",
-    "id": "nfam27",
+    "id": "nfam28",
     "igdbId": 48727,
     "gbId": 11080,
     "gbGuid": "3030-11080",
@@ -630,7 +656,7 @@
   },
   {
     "name": "Bakushou!! Jinsei Gekijou 3",
-    "id": "nfam28",
+    "id": "nfam29",
     "igdbId": 48726,
     "gbId": 19633,
     "gbGuid": "3030-19633",
@@ -652,7 +678,7 @@
   },
   {
     "name": "Ballblazer",
-    "id": "nfam29",
+    "id": "nfam30",
     "igdbId": 176,
     "gbId": 19682,
     "gbGuid": "3030-19682",
@@ -674,7 +700,7 @@
   },
   {
     "name": "Baltron",
-    "id": "nfam30",
+    "id": "nfam31",
     "igdbId": 48588,
     "gbId": 23065,
     "gbGuid": "3030-23065",
@@ -696,7 +722,7 @@
   },
   {
     "name": "Banana",
-    "id": "nfam31",
+    "id": "nfam32",
     "igdbId": 19845,
     "gbId": 8997,
     "gbGuid": "3030-8997",
@@ -718,7 +744,7 @@
   },
   {
     "name": "Barcode World",
-    "id": "nfam32",
+    "id": "nfam33",
     "igdbId": 48725,
     "gbId": 36464,
     "gbGuid": "3030-36464",
@@ -740,7 +766,7 @@
   },
   {
     "name": "Baseball Fighter",
-    "id": "nfam33",
+    "id": "nfam34",
     "igdbId": 48615,
     "gbId": null,
     "gbGuid": null,
@@ -762,7 +788,7 @@
   },
   {
     "name": "Batsu & Terry",
-    "id": "nfam34",
+    "id": "nfam35",
     "igdbId": 48609,
     "gbId": 39498,
     "gbGuid": "3030-39498",
@@ -784,7 +810,7 @@
   },
   {
     "name": "Battle Baseball",
-    "id": "nfam35",
+    "id": "nfam36",
     "igdbId": 143913,
     "gbId": null,
     "gbGuid": null,
@@ -806,7 +832,7 @@
   },
   {
     "name": "Battle City",
-    "id": "nfam36",
+    "id": "nfam37",
     "igdbId": 4596,
     "gbId": 6406,
     "gbGuid": "3030-6406",
@@ -828,7 +854,7 @@
   },
   {
     "name": "Battle Wings",
-    "id": "nfam37",
+    "id": "nfam38",
     "igdbId": 4608,
     "gbId": 91,
     "gbGuid": "3030-91",
@@ -850,7 +876,7 @@
   },
   {
     "name": "Bikkuriman World: Gekitou Sei Senshi",
-    "id": "nfam38",
+    "id": "nfam39",
     "igdbId": 48544,
     "gbId": 19977,
     "gbGuid": "3030-19977",
@@ -876,7 +902,7 @@
   },
   {
     "name": "Bloody Warriors: Shango no Gyakushuu",
-    "id": "nfam39",
+    "id": "nfam40",
     "igdbId": 48541,
     "gbId": 14595,
     "gbGuid": "3030-14595",
@@ -902,7 +928,7 @@
   },
   {
     "name": "Chaos World",
-    "id": "nfam40",
+    "id": "nfam41",
     "igdbId": 7904,
     "gbId": 8123,
     "gbGuid": "3030-8123",
@@ -928,7 +954,7 @@
   },
   {
     "name": "Cosmic Wars",
-    "id": "nfam41",
+    "id": "nfam42",
     "igdbId": 48646,
     "gbId": 33551,
     "gbGuid": "3030-33551",
@@ -954,7 +980,7 @@
   },
   {
     "name": "Dai-2-ji Super Robot Taisen",
-    "id": "nfam42",
+    "id": "nfam43",
     "igdbId": 48636,
     "gbId": null,
     "gbGuid": null,
@@ -980,7 +1006,7 @@
   },
   {
     "name": "Dezaemon",
-    "id": "nfam43",
+    "id": "nfam44",
     "igdbId": 56533,
     "gbId": 58437,
     "gbGuid": "3030-58437",
@@ -1006,7 +1032,7 @@
   },
   {
     "name": "Donkey Kong",
-    "id": "nfam44",
+    "id": "nfam45",
     "igdbId": 141959,
     "gbId": 311,
     "gbGuid": "3030-311",
@@ -1028,7 +1054,7 @@
   },
   {
     "name": "Donkey Kong Jr.",
-    "id": "nfam45",
+    "id": "nfam46",
     "igdbId": 178166,
     "gbId": 19416,
     "gbGuid": "3030-19416",
@@ -1050,7 +1076,7 @@
   },
   {
     "name": "Downtown Special Kunio-kun's Historical Period Drama!",
-    "id": "nfam46",
+    "id": "nfam47",
     "igdbId": 48631,
     "gbId": 19674,
     "gbGuid": "3030-19674",
@@ -1076,7 +1102,7 @@
   },
   {
     "name": "Dragon Buster",
-    "id": "nfam47",
+    "id": "nfam48",
     "igdbId": 38035,
     "gbId": 12337,
     "gbGuid": "3030-12337",
@@ -1094,7 +1120,7 @@
   },
   {
     "name": "Dungeon Kid",
-    "id": "nfam48",
+    "id": "nfam49",
     "igdbId": 48511,
     "gbId": null,
     "gbGuid": null,
@@ -1119,13 +1145,40 @@
     "misprintsErrors": []
   },
   {
+    "name": "Erika to Satoru no Yume Bouken",
+    "id": "nfam50",
+    "igdbId": 48508,
+    "gbId": 18052,
+    "gbGuid": "3030-18052",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Namco 163 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Namco 163 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Esper Dream 2: Aratanaru Tatakai",
-    "id": "nfam49",
+    "id": "nfam51",
     "igdbId": 48505,
     "gbId": 23110,
     "gbGuid": "3030-23110",
     "details": [
-      "Famicom game has save battery"
+      "Famicom game has save battery",
+      "Nintendo Famicom game has expansion audio chip (Konami VRC6 chip)"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -1140,13 +1193,24 @@
           "gbGuid": "3045-21"
         },
         "category": "other"
+      },
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Konami VRC6 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Famicom Wars",
-    "id": "nfam50",
+    "id": "nfam52",
     "igdbId": 72131,
     "gbId": 2177,
     "gbGuid": "3030-2177",
@@ -1172,7 +1236,7 @@
   },
   {
     "name": "Family Circuit '91",
-    "id": "nfam51",
+    "id": "nfam53",
     "igdbId": 48497,
     "gbId": 12126,
     "gbGuid": "3030-12126",
@@ -1197,8 +1261,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Family Trainer 3: Aerobics Studio",
+    "id": "nfam54",
+    "igdbId": 48176,
+    "gbId": 10667,
+    "gbGuid": "3030-10667",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Mitsubishi M50805 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Mitsubishi M50805 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Faxanadu",
-    "id": "nfam52",
+    "id": "nfam55",
     "igdbId": 1974,
     "gbId": 7851,
     "gbGuid": "3030-7851",
@@ -1216,7 +1306,7 @@
   },
   {
     "name": "Final Fantasy I & II",
-    "id": "nfam53",
+    "id": "nfam56",
     "igdbId": 41835,
     "gbId": 17928,
     "gbGuid": "3030-17928",
@@ -1242,7 +1332,7 @@
   },
   {
     "name": "Final Fantasy II",
-    "id": "nfam54",
+    "id": "nfam57",
     "igdbId": 16474,
     "gbId": 2094,
     "gbGuid": "3030-2094",
@@ -1268,7 +1358,7 @@
   },
   {
     "name": "Final Fantasy III",
-    "id": "nfam55",
+    "id": "nfam58",
     "igdbId": 77234,
     "gbId": 21463,
     "gbGuid": "3030-21463",
@@ -1293,8 +1383,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Final Lap",
+    "id": "nfam59",
+    "igdbId": 46830,
+    "gbId": 37092,
+    "gbGuid": "3030-37092",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Namco 163 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Namco 163 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Fire Emblem Gaiden",
-    "id": "nfam56",
+    "id": "nfam60",
     "igdbId": 1434,
     "gbId": 14915,
     "gbGuid": "3030-14915",
@@ -1320,7 +1436,7 @@
   },
   {
     "name": "From the Legend of Balubalouk: Aigiina no Yogen",
-    "id": "nfam57",
+    "id": "nfam61",
     "igdbId": 73806,
     "gbId": 10038,
     "gbGuid": "3030-10038",
@@ -1342,7 +1458,7 @@
   },
   {
     "name": "Galaxian",
-    "id": "nfam58",
+    "id": "nfam62",
     "igdbId": 143370,
     "gbId": 2445,
     "gbGuid": "3030-2445",
@@ -1364,7 +1480,7 @@
   },
   {
     "name": "Garfield no Isshukan: A Week of Garfield",
-    "id": "nfam59",
+    "id": "nfam63",
     "igdbId": 48486,
     "gbId": 26118,
     "gbGuid": "3030-26118",
@@ -1386,7 +1502,7 @@
   },
   {
     "name": "GeGeGe no Kitaro - Yokai Daimakyo",
-    "id": "nfam60",
+    "id": "nfam64",
     "igdbId": 48317,
     "gbId": 40977,
     "gbGuid": "3030-40977",
@@ -1404,7 +1520,7 @@
   },
   {
     "name": "Genghis Khan II: Clan of the Gray Wolf",
-    "id": "nfam61",
+    "id": "nfam65",
     "igdbId": 5389,
     "gbId": 5679,
     "gbGuid": "3030-5679",
@@ -1426,7 +1542,7 @@
   },
   {
     "name": "Gomoku Narabe Renju",
-    "id": "nfam62",
+    "id": "nfam66",
     "igdbId": 16609,
     "gbId": 41170,
     "gbGuid": "3030-41170",
@@ -1447,8 +1563,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ishin no Arashi",
+    "id": "nfam67",
+    "igdbId": 30923,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Nintendo MMC5 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Nintendo MMC5 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Joy Mech Fight",
-    "id": "nfam63",
+    "id": "nfam68",
     "igdbId": 48123,
     "gbId": 5867,
     "gbGuid": "3030-5867",
@@ -1473,8 +1615,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Just Breed",
+    "id": "nfam69",
+    "igdbId": 70173,
+    "gbId": 14135,
+    "gbGuid": "3030-14135",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Nintendo MMC5 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Nintendo MMC5 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Juvei Quest",
-    "id": "nfam64",
+    "id": "nfam70",
     "igdbId": 48449,
     "gbId": 44967,
     "gbGuid": "3030-44967",
@@ -1500,7 +1668,7 @@
   },
   {
     "name": "Kid Dracula",
-    "id": "nfam65",
+    "id": "nfam71",
     "igdbId": 1120,
     "gbId": 6851,
     "gbGuid": "3030-6851",
@@ -1521,8 +1689,86 @@
     "misprintsErrors": []
   },
   {
+    "name": "King of Kings",
+    "id": "nfam72",
+    "igdbId": 48721,
+    "gbId": 40402,
+    "gbGuid": "3030-40402",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Namco 163 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Namco 163 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Lagrange Point",
+    "id": "nfam73",
+    "igdbId": 48576,
+    "gbId": 20134,
+    "gbGuid": "3030-20134",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Konami VRC7 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Konami VRC7 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mappy Kids",
+    "id": "nfam74",
+    "igdbId": 48625,
+    "gbId": 23910,
+    "gbGuid": "3030-23910",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Namco 163 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Namco 163 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Metal Max",
-    "id": "nfam66",
+    "id": "nfam75",
     "igdbId": 48428,
     "gbId": 17831,
     "gbGuid": "3030-17831",
@@ -1547,8 +1793,164 @@
     "misprintsErrors": []
   },
   {
+    "name": "Metal Slader Glory",
+    "id": "nfam76",
+    "igdbId": 48356,
+    "gbId": 28343,
+    "gbGuid": "3030-28343",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Nintendo MMC5 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Nintendo MMC5 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Moe Pro '90 (Bases Loaded 3)",
+    "id": "nfam77",
+    "igdbId": 10124,
+    "gbId": 14136,
+    "gbGuid": "3030-14136",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Moe Pro Saikyo Hen (Bases Loaded 4)",
+    "id": "nfam78",
+    "igdbId": 10257,
+    "gbId": 6808,
+    "gbGuid": "3030-6808",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Moero Pro Tennis (Racket Attack)",
+    "id": "nfam79",
+    "igdbId": 48214,
+    "gbId": 8745,
+    "gbGuid": "3030-8745",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Moero Pro Yakyuu (Bases Loaded)",
+    "id": "nfam80",
+    "igdbId": 7764,
+    "gbId": 8283,
+    "gbGuid": "3030-8283",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Moero Pro Yakyuu 88 (Bases Loaded II: Second Season)",
+    "id": "nfam81",
+    "igdbId": 10122,
+    "gbId": 7502,
+    "gbGuid": "3030-7502",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Mother",
-    "id": "nfam67",
+    "id": "nfam82",
     "igdbId": 238665,
     "gbId": 77924,
     "gbGuid": "3030-77924",
@@ -1573,8 +1975,86 @@
     "misprintsErrors": []
   },
   {
+    "name": "Mouryou Senki Madara",
+    "id": "nfam83",
+    "igdbId": 48418,
+    "gbId": 7847,
+    "gbGuid": "3030-7847",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Konami VRC6 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Konami VRC6 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Mr. Gimmick",
+    "id": "nfam84",
+    "igdbId": 6546,
+    "gbId": 6037,
+    "gbGuid": "3030-6037",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Sunsoft 5B chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Sunsoft 5B chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Namcot Classic II",
+    "id": "nfam85",
+    "igdbId": 48413,
+    "gbId": 37329,
+    "gbGuid": "3030-37329",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Namco 163 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Namco 163 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Niji no Silkroad",
-    "id": "nfam68",
+    "id": "nfam86",
     "igdbId": 48409,
     "gbId": 8310,
     "gbGuid": "3030-8310",
@@ -1600,7 +2080,7 @@
   },
   {
     "name": "Nobunaga's Ambition",
-    "id": "nfam69",
+    "id": "nfam87",
     "igdbId": 4369,
     "gbId": 14028,
     "gbGuid": "3030-14028",
@@ -1626,7 +2106,7 @@
   },
   {
     "name": "Nobunaga's Ambition II",
-    "id": "nfam70",
+    "id": "nfam88",
     "igdbId": 48287,
     "gbId": 10606,
     "gbGuid": "3030-10606",
@@ -1652,7 +2132,7 @@
   },
   {
     "name": "Nuts & Milk",
-    "id": "nfam71",
+    "id": "nfam89",
     "igdbId": 4617,
     "gbId": 3415,
     "gbGuid": "3030-3415",
@@ -1674,7 +2154,7 @@
   },
   {
     "name": "Popeye no Eigo Asobi",
-    "id": "nfam72",
+    "id": "nfam90",
     "igdbId": 48641,
     "gbId": 35883,
     "gbGuid": "3030-35883",
@@ -1704,8 +2184,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Rolling Thunder",
+    "id": "nfam91",
+    "igdbId": 12846,
+    "gbId": 3353,
+    "gbGuid": "3030-3353",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Namco 163 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Namco 163 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "SD Gundam World: Gachapon Sensei 5 - Battle of Universal Century",
-    "id": "nfam73",
+    "id": "nfam92",
     "igdbId": 48855,
     "gbId": null,
     "gbGuid": null,
@@ -1731,7 +2237,7 @@
   },
   {
     "name": "Sanada Juu Yuushi",
-    "id": "nfam74",
+    "id": "nfam93",
     "igdbId": 48862,
     "gbId": 40055,
     "gbGuid": "3030-40055",
@@ -1756,8 +2262,60 @@
     "misprintsErrors": []
   },
   {
+    "name": "Sangokushi II: Haou no Tairiku",
+    "id": "nfam94",
+    "igdbId": 48861,
+    "gbId": 50159,
+    "gbGuid": "3030-50159",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Namco 163 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Namco 163 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Sangokushi: Chuugen no Hasha",
+    "id": "nfam95",
+    "igdbId": 64448,
+    "gbId": 40134,
+    "gbGuid": "3030-40134",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Namco 163 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Namco 163 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Sasa",
-    "id": "nfam75",
+    "id": "nfam96",
     "igdbId": 48602,
     "gbId": 1486,
     "gbGuid": "3030-1486",
@@ -1778,8 +2336,60 @@
     "misprintsErrors": []
   },
   {
+    "name": "Shin 4-nin Uchi Mahjong: Yakuman Tengoku",
+    "id": "nfam97",
+    "igdbId": 48848,
+    "gbId": 43450,
+    "gbGuid": "3030-43450",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Nintendo MMC5 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Nintendo MMC5 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Shin Moero!! Pro Yakyuu",
+    "id": "nfam98",
+    "igdbId": 48847,
+    "gbId": 41423,
+    "gbGuid": "3030-41423",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (NEC uPD7756C chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Square's Tom Sawyer",
-    "id": "nfam76",
+    "id": "nfam99",
     "igdbId": 73518,
     "gbId": 17014,
     "gbGuid": "3030-17014",
@@ -1805,7 +2415,7 @@
   },
   {
     "name": "Sweet Home",
-    "id": "nfam77",
+    "id": "nfam100",
     "igdbId": 9426,
     "gbId": 15120,
     "gbGuid": "3030-15120",
@@ -1831,7 +2441,7 @@
   },
   {
     "name": "Tecmo World Wrestling",
-    "id": "nfam78",
+    "id": "nfam101",
     "igdbId": 48083,
     "gbId": 12836,
     "gbGuid": "3030-12836",
@@ -1849,7 +2459,7 @@
   },
   {
     "name": "Tenchi wo Kurau II: Shokatsu Koumei-den",
-    "id": "nfam79",
+    "id": "nfam102",
     "igdbId": 48346,
     "gbId": 15618,
     "gbGuid": "3030-15618",
@@ -1874,8 +2484,34 @@
     "misprintsErrors": []
   },
   {
+    "name": "Terao no Dosukoi Oozumou",
+    "id": "nfam103",
+    "igdbId": 48388,
+    "gbId": 58448,
+    "gbGuid": "3030-58448",
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (NEC uPD7755C chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (NEC uPD7755C chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Tetris 2 + BomBliss",
-    "id": "nfam80",
+    "id": "nfam104",
     "igdbId": 78699,
     "gbId": null,
     "gbGuid": null,
@@ -1901,7 +2537,7 @@
   },
   {
     "name": "The Bard's Tale II: The Destiny Knight",
-    "id": "nfam81",
+    "id": "nfam105",
     "igdbId": 2430,
     "gbId": 794,
     "gbGuid": "3030-794",
@@ -1923,7 +2559,7 @@
   },
   {
     "name": "The Tower of Druaga",
-    "id": "nfam82",
+    "id": "nfam106",
     "igdbId": 4207,
     "gbId": 4567,
     "gbGuid": "3030-4567",
@@ -1940,8 +2576,60 @@
     ]
   },
   {
+    "name": "Uchuu Keibitai SDF",
+    "id": "nfam107",
+    "igdbId": 48560,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Nintendo MMC5 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Nintendo MMC5 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Youkai Douchuuki",
+    "id": "nfam108",
+    "igdbId": 48597,
+    "gbId": null,
+    "gbGuid": null,
+    "details": [
+      "Nintendo Famicom game has expansion audio chip (Namco 163 chip)"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Famicom game has expansion audio chip (Namco 163 chip)",
+        "forPlatform": {
+          "name": "Nintendo Family Computer (Famicom)",
+          "id": "ccl51",
+          "igdbId": 99,
+          "gbId": 21,
+          "gbGuid": "3045-21"
+        },
+        "category": "other"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Ys II",
-    "id": "nfam83",
+    "id": "nfam109",
     "igdbId": 206537,
     "gbId": 4773,
     "gbGuid": "3030-4773",
@@ -1967,7 +2655,7 @@
   },
   {
     "name": "Ys III: Wanderers from Ys",
-    "id": "nfam84",
+    "id": "nfam110",
     "igdbId": 15450,
     "gbId": 4208,
     "gbGuid": "3030-4208",
@@ -2004,7 +2692,7 @@
   },
   {
     "name": "Zunou Senkan Galg",
-    "id": "nfam85",
+    "id": "nfam111",
     "igdbId": 48488,
     "gbId": 37088,
     "gbGuid": "3030-37088",

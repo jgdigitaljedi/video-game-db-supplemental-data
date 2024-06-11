@@ -1,12 +1,15 @@
 const chalk = require('chalk');
 const fileUtil = require('./fileUtilities');
 const { categories } = require('./helpers');
+const parensRetrieve = require('stringman-utils').parensRetrieve;
+const parensRemove = require('stringman-utils').parensRemove;
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/special/playstationGamesThatRunAt60fps.json';
-const detailsFix = "Sony PlayStation game runs at 60 FPS";
+const relativePath = '../../textFilesToBeConverted/special/famicomGamesWithExpansionAudio.json';
+const detailsFix = "Nintendo Famicom game has expansion audio chip";
 const category = categories.other;
-const idPrefix = 'psfps';
+const idPrefix = 'fcea';
+const moveParensToDetails = true;
 /** end file variables section */
 
 (async function() {
@@ -16,6 +19,12 @@ const idPrefix = 'psfps';
     const gameData = typeof game === 'string' ? {name: game} : game;
     if (detailsFix) {
       gameData.details = detailsFix;
+    }
+    if (moveParensToDetails) {
+      const extraData = parensRetrieve(game);
+      gameData.details = `${detailsFix} (${extraData[0].trim()})`;
+      const parensRemoved = parensRemove(game);
+      gameData.name = parensRemoved.trim();
     }
     gameData.id = `${idPrefix}${index + 1}`;
     gameData.igdbId = null;
