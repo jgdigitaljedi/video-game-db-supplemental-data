@@ -1089,5 +1089,18 @@ module.exports.listData = [
     misprintsAndErrors: null,
     special: null,
     output: path.resolve(consoleLists, 'SuperGrafx.json')
+  },
+  {
+    name: 'Nintendo Switch 2',
+    id: 'cc190',
+    prefix: 'ns2',
+    launchTitles: require(path.resolve(
+      smallFiles,
+      'launchTitles/nintendoSwitch2LaunchTitles.json'
+    )),
+    exclusives: null,
+    misprintsAndErrors: null,
+    special: null,
+    output: path.resolve(consoleLists, 'NintendoSwitch2.json')
   }
 ];

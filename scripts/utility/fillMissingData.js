@@ -5,18 +5,18 @@ const parensRetrieve = require('stringman-utils').parensRetrieve;
 const parensRemove = require('stringman-utils').parensRemove;
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/special/famicomGamesWithExpansionAudio.json';
-const detailsFix = "Nintendo Famicom game has expansion audio chip";
-const category = categories.other;
-const idPrefix = 'fcea';
-const moveParensToDetails = true;
+const relativePath = '../../textFilesToBeConverted/launchTitles/nintendoSwitch2LaunchTitles.json';
+const detailsFix = 'Nintendo Switch 2 launch title';
+const category = categories.launchTitle;
+const idPrefix = 'ns2lt';
+const moveParensToDetails = false;
 /** end file variables section */
 
 (async function() {
   const contents = await fileUtil.readFile(relativePath);
   const parsed = JSON.parse(contents);
   const fixed = parsed.map((game, index) => {
-    const gameData = typeof game === 'string' ? {name: game} : game;
+    const gameData = typeof game === 'string' ? { name: game } : game;
     if (detailsFix) {
       gameData.details = detailsFix;
     }
