@@ -5,10 +5,10 @@ const parensRetrieve = require('stringman-utils').parensRetrieve;
 const parensRemove = require('stringman-utils').parensRemove;
 
 /** change this section for each file run */
-const relativePath = '../../textFilesToBeConverted/launchTitles/nintendoSwitch2LaunchTitles.json';
-const detailsFix = 'Nintendo Switch 2 launch title';
-const category = categories.launchTitle;
-const idPrefix = 'ns2lt';
+const relativePath = '../../textFilesToBeConverted/special/switchGamesEnhancedOnSwitch2.json';
+const detailsFix = 'Nintendo Switch games with free upgrades on Switch 2';
+const category = categories.enhanced;
+const idPrefix = 'ns2eg';
 const moveParensToDetails = false;
 /** end file variables section */
 

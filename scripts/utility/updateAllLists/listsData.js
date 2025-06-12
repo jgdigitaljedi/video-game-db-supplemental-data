@@ -164,7 +164,7 @@ module.exports.listData = [
       smallFiles,
       'misprintsAndErrors/switchMisprintsAndErrors.json'
     )),
-    special: null,
+    special: [require(path.resolve(smallFiles, 'special/switchGamesEnhancedOnSwitch2.json'))],
     output: path.resolve(consoleLists, 'NintendoSwitch.json')
   },
   {
