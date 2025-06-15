@@ -7,7 +7,8 @@
     "gbGuid": "3030-57685",
     "tgdbId": 42356,
     "details": [
-      "Nintendo Switch launch title"
+      "Nintendo Switch launch title",
+      "Nintendo Switch game needs Switch Joy Con to play on Switch 2"
     ],
     "isExclusive": false,
     "isLaunchTitle": [
@@ -20,7 +21,20 @@
         "tgdbId": 4971
       }
     ],
-    "special": [],
+    "special": [
+      {
+        "value": "Nintendo Switch game needs Switch Joy Con to play on Switch 2",
+        "forPlatform": {
+          "name": "Nintendo Switch",
+          "id": "ccl7",
+          "igdbId": 130,
+          "gbId": 157,
+          "gbGuid": "3045-157",
+          "tgdbId": 4971
+        },
+        "category": "backwardsCompatibility"
+      }
+    ],
     "misprintsErrors": []
   },
   {
@@ -222,8 +236,35 @@
     ]
   },
   {
-    "name": "Fast RMX",
+    "name": "Everybody 1-2-Switch",
     "id": "nsw10",
+    "igdbId": 251588,
+    "gbId": 89296,
+    "gbGuid": "3030-89296",
+    "details": [
+      "Nintendo Switch game needs Switch Joy Con to play on Switch 2"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Switch game needs Switch Joy Con to play on Switch 2",
+        "forPlatform": {
+          "name": "Nintendo Switch",
+          "id": "ccl7",
+          "igdbId": 130,
+          "gbId": 157,
+          "gbGuid": "3045-157",
+          "tgdbId": 4971
+        },
+        "category": "backwardsCompatibility"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Fast RMX",
+    "id": "nsw11",
     "igdbId": 26816,
     "gbId": 57700,
     "gbGuid": "3030-57700",
@@ -247,7 +288,7 @@
   },
   {
     "name": "Flint Hook (Limited Run Games)",
-    "id": "nsw11",
+    "id": "nsw12",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -265,7 +306,7 @@
   },
   {
     "name": "Gal*Gun 2",
-    "id": "nsw12",
+    "id": "nsw13",
     "igdbId": 68279,
     "gbId": 61974,
     "gbGuid": "3030-61974",
@@ -283,12 +324,13 @@
   },
   {
     "name": "Game Builder Garage",
-    "id": "nsw13",
+    "id": "nsw14",
     "igdbId": 146762,
     "gbId": 82492,
     "gbGuid": "3030-82492",
     "details": [
-      "Nintendo Switch game with free upgrades on Switch 2 (supports JoyCon 2 mouse controls, higher resolution)"
+      "Nintendo Switch game with free upgrades on Switch 2 (supports JoyCon 2 mouse controls, higher resolution)",
+      "Nintendo Switch game needs Switch Joy Con to play on Switch 2"
     ],
     "isExclusive": false,
     "isLaunchTitle": false,
@@ -304,13 +346,25 @@
           "tgdbId": 4971
         },
         "category": "enhanced"
+      },
+      {
+        "value": "Nintendo Switch game needs Switch Joy Con to play on Switch 2",
+        "forPlatform": {
+          "name": "Nintendo Switch",
+          "id": "ccl7",
+          "igdbId": 130,
+          "gbId": 157,
+          "gbGuid": "3045-157",
+          "tgdbId": 4971
+        },
+        "category": "backwardsCompatibility"
       }
     ],
     "misprintsErrors": []
   },
   {
     "name": "Golf Story Collector's Edition",
-    "id": "nsw14",
+    "id": "nsw15",
     "igdbId": 35626,
     "gbId": 60512,
     "gbGuid": "3030-60512",
@@ -328,7 +382,7 @@
   },
   {
     "name": "I Am Setsuna",
-    "id": "nsw15",
+    "id": "nsw16",
     "igdbId": 18861,
     "gbId": 50001,
     "gbGuid": "3030-50001",
@@ -352,7 +406,7 @@
   },
   {
     "name": "Just Dance 2017",
-    "id": "nsw16",
+    "id": "nsw17",
     "igdbId": 19550,
     "gbId": 54221,
     "gbGuid": "3030-54221",
@@ -376,7 +430,7 @@
   },
   {
     "name": "Kunio-Kun the World Classics Collection (Asia)",
-    "id": "nsw17",
+    "id": "nsw18",
     "igdbId": null,
     "gbId": null,
     "gbGuid": null,
@@ -394,7 +448,7 @@
   },
   {
     "name": "LEGO City Undercover",
-    "id": "nsw18",
+    "id": "nsw19",
     "igdbId": 2177,
     "gbId": 35576,
     "gbGuid": "3030-35576",
@@ -417,7 +471,7 @@
   },
   {
     "name": "LEGO DC Super-Villains (Steelbook)",
-    "id": "nsw19",
+    "id": "nsw20",
     "igdbId": 102321,
     "gbId": 68741,
     "gbGuid": "3030-68741",
@@ -435,7 +489,7 @@
   },
   {
     "name": "Mercenaries Saga Chronicles",
-    "id": "nsw20",
+    "id": "nsw21",
     "igdbId": 79987,
     "gbId": null,
     "gbGuid": null,
@@ -453,7 +507,7 @@
   },
   {
     "name": "Mercenary Kings: Reloaded (Limited Run Games)",
-    "id": "nsw21",
+    "id": "nsw22",
     "igdbId": 84923,
     "gbId": 38664,
     "gbGuid": "3030-38664",
@@ -471,7 +525,7 @@
   },
   {
     "name": "Metroid Dread: Special Edition",
-    "id": "nsw22",
+    "id": "nsw23",
     "igdbId": 153646,
     "gbId": 83057,
     "gbGuid": "3030-83057",
@@ -489,7 +543,7 @@
   },
   {
     "name": "Monster Hunter Stories 2: Wings of Ruin",
-    "id": "nsw23",
+    "id": "nsw24",
     "igdbId": 138951,
     "gbId": 80645,
     "gbGuid": "3030-80645",
@@ -507,7 +561,7 @@
   },
   {
     "name": "Mutant Mudds Collection",
-    "id": "nsw24",
+    "id": "nsw25",
     "igdbId": 72897,
     "gbId": 61957,
     "gbGuid": "3030-61957",
@@ -525,7 +579,7 @@
   },
   {
     "name": "NeuroVoider (PAL)",
-    "id": "nsw25",
+    "id": "nsw26",
     "igdbId": 23581,
     "gbId": 53244,
     "gbGuid": "3030-53244",
@@ -543,7 +597,7 @@
   },
   {
     "name": "New Super Mario Bros. U Deluxe",
-    "id": "nsw26",
+    "id": "nsw27",
     "igdbId": 109457,
     "gbId": 89994,
     "gbGuid": "3030-89994",
@@ -570,7 +624,7 @@
   },
   {
     "name": "Nickelodeon Kart Racers",
-    "id": "nsw27",
+    "id": "nsw28",
     "igdbId": 106109,
     "gbId": 69546,
     "gbGuid": "3030-69546",
@@ -587,8 +641,116 @@
     ]
   },
   {
+    "name": "Nintendo Labo: Toy-Con 01 - Variety Kit",
+    "id": "nsw29",
+    "igdbId": 85308,
+    "gbId": 65429,
+    "gbGuid": "3030-65429",
+    "details": [
+      "Nintendo Switch game needs Switch Joy Con to play on Switch 2"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Switch game needs Switch Joy Con to play on Switch 2",
+        "forPlatform": {
+          "name": "Nintendo Switch",
+          "id": "ccl7",
+          "igdbId": 130,
+          "gbId": 157,
+          "gbGuid": "3045-157",
+          "tgdbId": 4971
+        },
+        "category": "backwardsCompatibility"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nintendo Labo: Toy-Con 02 - Robot Kit",
+    "id": "nsw30",
+    "igdbId": 85307,
+    "gbId": 65430,
+    "gbGuid": "3030-65430",
+    "details": [
+      "Nintendo Switch game needs Switch Joy Con to play on Switch 2"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Switch game needs Switch Joy Con to play on Switch 2",
+        "forPlatform": {
+          "name": "Nintendo Switch",
+          "id": "ccl7",
+          "igdbId": 130,
+          "gbId": 157,
+          "gbGuid": "3045-157",
+          "tgdbId": 4971
+        },
+        "category": "backwardsCompatibility"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nintendo Labo: Toy-Con 03 - Vehicle Kit",
+    "id": "nsw31",
+    "igdbId": 106288,
+    "gbId": 69571,
+    "gbGuid": "3030-69571",
+    "details": [
+      "Nintendo Switch game needs Switch Joy Con to play on Switch 2"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Switch game needs Switch Joy Con to play on Switch 2",
+        "forPlatform": {
+          "name": "Nintendo Switch",
+          "id": "ccl7",
+          "igdbId": 130,
+          "gbId": 157,
+          "gbGuid": "3045-157",
+          "tgdbId": 4971
+        },
+        "category": "backwardsCompatibility"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
+    "name": "Nintendo Switch Sports",
+    "id": "nsw32",
+    "igdbId": 191408,
+    "gbId": 85425,
+    "gbGuid": "3030-85425",
+    "details": [
+      "Nintendo Switch game needs Switch Joy Con to play on Switch 2"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Switch game needs Switch Joy Con to play on Switch 2",
+        "forPlatform": {
+          "name": "Nintendo Switch",
+          "id": "ccl7",
+          "igdbId": 130,
+          "gbId": 157,
+          "gbGuid": "3045-157",
+          "tgdbId": 4971
+        },
+        "category": "backwardsCompatibility"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Oxenfree (Limited Run Games)",
-    "id": "nsw28",
+    "id": "nsw33",
     "igdbId": 14587,
     "gbId": 52278,
     "gbGuid": "3030-52278",
@@ -606,7 +768,7 @@
   },
   {
     "name": "Pokémon Scarlet",
-    "id": "nsw29",
+    "id": "nsw34",
     "igdbId": 191931,
     "gbId": 85586,
     "gbGuid": "3030-85586",
@@ -633,7 +795,7 @@
   },
   {
     "name": "Pokémon Violet",
-    "id": "nsw30",
+    "id": "nsw35",
     "igdbId": 191930,
     "gbId": 85586,
     "gbGuid": "3030-85586",
@@ -659,8 +821,35 @@
     "misprintsErrors": []
   },
   {
+    "name": "Ring Fit Adventure",
+    "id": "nsw36",
+    "igdbId": 122338,
+    "gbId": 75163,
+    "gbGuid": "3030-75163",
+    "details": [
+      "Nintendo Switch game needs Switch Joy Con to play on Switch 2"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Switch game needs Switch Joy Con to play on Switch 2",
+        "forPlatform": {
+          "name": "Nintendo Switch",
+          "id": "ccl7",
+          "igdbId": 130,
+          "gbId": 157,
+          "gbGuid": "3045-157",
+          "tgdbId": 4971
+        },
+        "category": "backwardsCompatibility"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Shovel Knight: Specter of Torment",
-    "id": "nsw31",
+    "id": "nsw37",
     "igdbId": 23910,
     "gbId": 57920,
     "gbGuid": "3030-57920",
@@ -683,7 +872,7 @@
   },
   {
     "name": "Shovel Knight: Treasure Trove",
-    "id": "nsw32",
+    "id": "nsw38",
     "igdbId": 26848,
     "gbId": null,
     "gbGuid": null,
@@ -707,7 +896,7 @@
   },
   {
     "name": "Skylanders Imaginators",
-    "id": "nsw33",
+    "id": "nsw39",
     "igdbId": 19576,
     "gbId": 54071,
     "gbGuid": "3030-54071",
@@ -731,7 +920,7 @@
   },
   {
     "name": "Snipperclips - Cut it out, together!",
-    "id": "nsw34",
+    "id": "nsw40",
     "igdbId": 26774,
     "gbId": 57698,
     "gbGuid": "3030-57698",
@@ -755,7 +944,7 @@
   },
   {
     "name": "Sonic Mania",
-    "id": "nsw35",
+    "id": "nsw41",
     "igdbId": 21062,
     "gbId": 54733,
     "gbGuid": "3030-54733",
@@ -773,7 +962,7 @@
   },
   {
     "name": "Super Bomberman R",
-    "id": "nsw36",
+    "id": "nsw42",
     "igdbId": 26760,
     "gbId": 57692,
     "gbGuid": "3030-57692",
@@ -797,7 +986,7 @@
   },
   {
     "name": "Super Mario 3D World + Bowser's Fury",
-    "id": "nsw37",
+    "id": "nsw43",
     "igdbId": 138227,
     "gbId": 42931,
     "gbGuid": "3030-42931",
@@ -824,7 +1013,7 @@
   },
   {
     "name": "Super Mario Odyssey (PAL)(Austria)",
-    "id": "nsw38",
+    "id": "nsw44",
     "igdbId": 26758,
     "gbId": 56733,
     "gbGuid": "3030-56733",
@@ -867,7 +1056,7 @@
   },
   {
     "name": "Terraria (PAL)",
-    "id": "nsw39",
+    "id": "nsw45",
     "igdbId": 1879,
     "gbId": 34940,
     "gbGuid": "3030-34940",
@@ -885,7 +1074,7 @@
   },
   {
     "name": "The Legend of Zelda: Breath of the Wild",
-    "id": "nsw40",
+    "id": "nsw46",
     "igdbId": 7346,
     "gbId": 41355,
     "gbGuid": "3030-41355",
@@ -909,7 +1098,7 @@
   },
   {
     "name": "The Legend of Zelda: Echoes of Wisdom",
-    "id": "nsw41",
+    "id": "nsw47",
     "igdbId": 306149,
     "gbId": 91357,
     "gbGuid": "3030-91357",
@@ -936,7 +1125,7 @@
   },
   {
     "name": "The Legend of Zelda: Link's Awakening",
-    "id": "nsw42",
+    "id": "nsw48",
     "igdbId": 115284,
     "gbId": 72148,
     "gbGuid": "3030-72148",
@@ -963,7 +1152,7 @@
   },
   {
     "name": "Thimbleweed Park",
-    "id": "nsw43",
+    "id": "nsw49",
     "igdbId": 10232,
     "gbId": 50511,
     "gbGuid": "3030-50511",
@@ -980,8 +1169,35 @@
     ]
   },
   {
+    "name": "WarioWare: Move It!",
+    "id": "nsw50",
+    "igdbId": 254341,
+    "gbId": 89480,
+    "gbGuid": "3030-89480",
+    "details": [
+      "Nintendo Switch game needs Switch Joy Con to play on Switch 2"
+    ],
+    "isExclusive": false,
+    "isLaunchTitle": false,
+    "special": [
+      {
+        "value": "Nintendo Switch game needs Switch Joy Con to play on Switch 2",
+        "forPlatform": {
+          "name": "Nintendo Switch",
+          "id": "ccl7",
+          "igdbId": 130,
+          "gbId": 157,
+          "gbGuid": "3045-157",
+          "tgdbId": 4971
+        },
+        "category": "backwardsCompatibility"
+      }
+    ],
+    "misprintsErrors": []
+  },
+  {
     "name": "Witch Spring 3: Re:Fine - The Story of Eirudy",
-    "id": "nsw44",
+    "id": "nsw51",
     "igdbId": 141763,
     "gbId": null,
     "gbGuid": null,
