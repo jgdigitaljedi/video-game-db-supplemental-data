@@ -149,6 +149,7 @@ I simply chose a prefix for each list then slap a number on the end to different
 - nessbX - NES games with save battery (nesGamesWithSaveBattery.json) | GAMES LIST
 - ngadmX - Nintendo GameCube games with alt display modes (gamecubeGamesWithAltDisplayModes.json) | GAMES LIST
 - nsjcX - Nintendo Switch games that require Switch Joy Con to play on Switch 2 (switchGamesRequireJoyConSwitch2.json) | GAMES LIST
+- ns2eX - Nintendo Switch games with Switch 2 Editions (switchGamesWithSwitch2Editions.json) | GAMES LIST
 - ns2egX - Nintendo Switch games with enhancements on Switch 2 (switchGamesEnhancedOnSwitch2.json) | GAMES LIST
 - pcdilgX - Philips CD-i Peacekeeper Revovler games (philipsCdiPeacekeeperRevolverGames.json) | GAMES LIST
 - pcsgX - PC Engine games enhanced on Supergrafx (pcEngineGamesEnhancedOnSupergrafx.json) | GAMES LIST

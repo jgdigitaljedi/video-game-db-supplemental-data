@@ -169,7 +169,8 @@ module.exports.listData = [
       require(path.resolve(
         smallFiles,
         'backwardCompatibilityLists/switchGamesRequireJoyConSwitch2.json'
-      ))
+      )),
+      require(path.resolve(smallFiles, 'special/switchGamesWithSwitch2Editions.json'))
     ],
     output: path.resolve(consoleLists, 'NintendoSwitch.json')
   },

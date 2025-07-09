@@ -6,10 +6,10 @@ const parensRemove = require('stringman-utils').parensRemove;
 
 /** change this section for each file run */
 const relativePath =
-  '../../textFilesToBeConverted/backwardCompatibility/switchGamesRequireJoyConSwitch2.json';
-const detailsFix = 'Nintendo Switch game needs Switch Joy Con to play on Switch 2';
-const category = categories.backwardsCompatibility;
-const idPrefix = 'nsjc';
+  '../../textFilesToBeConverted/special/switchGamesWithSwitch2Editions.json';
+const detailsFix = 'Nintendo Switch game has a Switch 2 edition';
+const category = categories.enhanced;
+const idPrefix = 'ns2e';
 const moveParensToDetails = false;
 /** end file variables section */
 
